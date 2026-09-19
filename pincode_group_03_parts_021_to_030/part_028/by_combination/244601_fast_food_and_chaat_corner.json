@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Star Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "244601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "6X38+J2M, Old Awas Vikas, Kashipur, Uttarakhand 244713",
+    "area": "Old Awas Vikas",
+    "latitude": 29.204086099999998,
+    "longitude": 78.9650367,
+    "place_id": "ChIJNVT5KLBDCjkRIH-MY4RnZCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVT5KLBDCjkRIH-MY4RnZCs",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:14:04"
+  },
+  {
+    "business_name": "New Laxmi Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "244601",
+    "phone_number": "+91 98972 99473",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "6X48+RFJ, near rastogi hospital, Old Awas Vikas, Kashipur, Uttarakhand 244713",
+    "area": "Old Awas Vikas",
+    "latitude": 29.207082999999997,
+    "longitude": 78.96614,
+    "place_id": "ChIJ9Wjs6rFDCjkRfBs-2W-gkto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Wjs6rFDCjkRfBs-2W-gkto",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:14:04"
+  }
+]

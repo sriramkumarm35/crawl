@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bites And Juices",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "244303",
+    "phone_number": "+91 99203 14454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No- 9, Poonam Empire, Funfiesta Rd, Nalasopara West, Vasai-Virar, Maharashtra 401203",
+    "area": "Nala Sopara, Sriprastha, Nalasopara West",
+    "latitude": 19.4245242,
+    "longitude": 72.8109502,
+    "place_id": "ChIJIW_CDS6p5zsRX-uJsO8x88Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIW_CDS6p5zsRX-uJsO8x88Q",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:23"
+  },
+  {
+    "business_name": "Vishal Cold Drink And Mango Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop, Grocery store",
+    "pincode": "244303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Bhadohi Rd, Parmandapur, Sarauni, Uttar Pradesh 221302",
+    "area": "Parmandapur",
+    "latitude": 25.3191262,
+    "longitude": 82.85783909999999,
+    "place_id": "ChIJRYNEWSPTjzkRzambbA6aV98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYNEWSPTjzkRzambbA6aV98",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:25"
+  }
+]

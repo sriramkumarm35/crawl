@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devendra plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "244302",
+    "phone_number": "+91 97599 80641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Pragati Viharn Colony, Chandausi, Uttar Pradesh 244412",
+    "area": "Pragati Viharn Colony",
+    "latitude": 28.467250999999997,
+    "longitude": 78.78101769999999,
+    "place_id": "ChIJR2VdONjbCjkReBCPjZTXOPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2VdONjbCjkReBCPjZTXOPI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:52:21"
+  },
+  {
+    "business_name": "Cieling contractor",
+    "search_category": "Plumber",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder, Service establishment",
+    "pincode": "244302",
+    "phone_number": "N/A",
+    "website": "http://www.mscielingdesign.blogspot.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cieling contractor, 244302, India",
+    "area": "244302",
+    "latitude": 19.6107805,
+    "longitude": 75.2694631,
+    "place_id": "ChIJ07IFgpAfCzkRCHniZ_MWCUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07IFgpAfCzkRCHniZ_MWCUE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:52:22"
+  }
+]

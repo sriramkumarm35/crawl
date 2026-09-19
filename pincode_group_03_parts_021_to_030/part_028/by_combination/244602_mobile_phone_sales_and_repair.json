@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phone Hub",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "244602",
+    "phone_number": "+91 79061 68436",
+    "website": "https://www.instagram.com/phone_hub_111",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sharif Nagar, Uttar Pradesh 244602",
+    "area": "244602",
+    "latitude": 29.214079299999998,
+    "longitude": 78.78045019999999,
+    "place_id": "ChIJR-ROUQBPCjkR4KhHoZCZy7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-ROUQBPCjkR4KhHoZCZy7k",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:53"
+  },
+  {
+    "business_name": "Smart Dukaan Mobile Gallary",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "244602",
+    "phone_number": "+91 97192 16909",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nead Ruhela Medical, PNB Rd, Afzalgarh, Uttar Pradesh 246722",
+    "area": "244602",
+    "latitude": 29.39651,
+    "longitude": 78.6760122,
+    "place_id": "ChIJ12eh4FU1CjkRr_jb6HYDz04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12eh4FU1CjkRr_jb6HYDz04",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:55"
+  }
+]

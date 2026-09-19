@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "244602",
+    "phone_number": "+91 99999 86757",
+    "website": "https://unitedcarsindia.com/",
+    "rating": 4.9,
+    "reviews_count": 781,
+    "address": "nehru apartment, K1/69, Road, opposite South park apartments, near B Block Road, Gurudwara, Chittaranjan Park, New Delhi, Delhi 110019",
+    "area": "Gurudwara, Chittaranjan Park",
+    "latitude": 28.540161299999998,
+    "longitude": 77.2507706,
+    "place_id": "ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJURtyztDjDDkRX7aR7NvMdRg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:15"
+  },
+  {
+    "business_name": "Bharat Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "244602",
+    "phone_number": "+91 93115 76363",
+    "website": "http://bharatcarbazar.com/",
+    "rating": 4.9,
+    "reviews_count": 1321,
+    "address": "Bunglow plot no. 5, N Pandav Nagar, opposite Mother Dairy Plant, Block D, Pandav Nagar, Delhi, 110092",
+    "area": "Block D, Pandav Nagar",
+    "latitude": 28.6184627,
+    "longitude": 77.2864889,
+    "place_id": "ChIJLwvsQvr7DDkR2nvwjOptCbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwvsQvr7DDkR2nvwjOptCbo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:15"
+  }
+]

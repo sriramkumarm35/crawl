@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shizaa Sweets Corner Store",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Sweet shop",
+    "pincode": "244401",
+    "phone_number": "+91 93684 85220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "XQ2P RPX Primary School, Sidlau, Nazarpur, Sidhrav Nazerpur, Uttar Pradesh 244402",
+    "area": "Sidlau",
+    "latitude": 28.9534405,
+    "longitude": 78.7844549,
+    "place_id": "ChIJj0vpXQBXCjkRp1ydyOxuNHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0vpXQBXCjkRp1ydyOxuNHw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:47"
+  },
+  {
+    "business_name": "Royal Family Restaurant",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "244401",
+    "phone_number": "+91 98377 76115",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shope06236, Moradabad, Dhakia Jatt, Uttar Pradesh 244401",
+    "area": "Shope06236",
+    "latitude": 29.0582899,
+    "longitude": 78.7701419,
+    "place_id": "ChIJ9e2oEKRRCjkRgf2yWh1_yAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9e2oEKRRCjkRgf2yWh1_yAk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "244410",
+    "phone_number": "+91 90847 15749",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gaushala Rd, Saket Colony, Gurunanak Colony, Chandausi, Uttar Pradesh 244412",
+    "area": "Saket Colony, Gurunanak Colony",
+    "latitude": 28.4533775,
+    "longitude": 78.77627389999999,
+    "place_id": "ChIJLQoyeojbCjkRoHnBviBDsJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQoyeojbCjkRoHnBviBDsJc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:15"
+  },
+  {
+    "business_name": "Old and New Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "244410",
+    "phone_number": "+91 90395 35825",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 275,
+    "address": "Ambedkar Rd, jawahar Nagar, Vikas Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "jawahar Nagar, Vikas Nagar",
+    "latitude": 24.462825799999997,
+    "longitude": 74.87424039999999,
+    "place_id": "ChIJNR5yfn90ZjkRMtunqndVoEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNR5yfn90ZjkRMtunqndVoEo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:16"
+  }
+]

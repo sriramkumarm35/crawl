@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MIT guest house tiraha",
+    "search_category": "Guesthouse",
+    "primary_category": "University",
+    "all_categories": "University",
+    "pincode": "244504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VPGX+82H, MIT Guest House Rd, Ram Ganga Vihar Phase 1, Moradabad, Uttar Pradesh 244105",
+    "area": "Ram Ganga Vihar Phase 1",
+    "latitude": 28.8758026,
+    "longitude": 78.7476104,
+    "place_id": "ChIJ6xszheX5CjkRITWsP5Geys8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xszheX5CjkRITWsP5Geys8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:13:10"
+  },
+  {
+    "business_name": "GA Infra Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "244504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPMW+3F4, Ashiyana Colony, Mora Mustahkam, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony, Mora Mustahkam",
+    "latitude": 28.8826307,
+    "longitude": 78.7462038,
+    "place_id": "ChIJiaXbmtv_CjkRFpvEPs3bFHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaXbmtv_CjkRFpvEPs3bFHo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:13:10"
+  }
+]

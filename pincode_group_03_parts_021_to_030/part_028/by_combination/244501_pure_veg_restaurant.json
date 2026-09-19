@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "244501",
+    "phone_number": "+91 88818 83132",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 55,
+    "address": "Station Road, Moradabad, Uttar Pradesh 244105",
+    "area": "244501",
+    "latitude": 28.8736556,
+    "longitude": 78.72494689999999,
+    "place_id": "ChIJV4uHN8D7CjkRdcJzMfx1Zz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4uHN8D7CjkRdcJzMfx1Zz8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:10:27"
+  },
+  {
+    "business_name": "Krishna Cafe & Snacks",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "244501",
+    "phone_number": "+91 94588 40641",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Phase 2, Ashyina, RRK Mora Rd, opp. RRK SCHOOL, Moradabad, Uttar Pradesh 244001",
+    "area": "Ashiyana Colony, Mora Mustahkam",
+    "latitude": 28.8839395,
+    "longitude": 78.7420494,
+    "place_id": "ChIJr2LsyvD_CjkRhhjQV87BYDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2LsyvD_CjkRhhjQV87BYDc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:10:28"
+  }
+]

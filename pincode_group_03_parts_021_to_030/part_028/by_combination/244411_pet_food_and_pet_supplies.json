@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh's kennel",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "244411",
+    "phone_number": "+91 75202 22238",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Town Hall, Moradabad, Uttar Pradesh 244001",
+    "area": "Town Hall",
+    "latitude": 28.836963299999997,
+    "longitude": 78.7755035,
+    "place_id": "ChIJYUww0bv7CjkRS_SC9oF2XNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUww0bv7CjkRS_SC9oF2XNM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:56"
+  },
+  {
+    "business_name": "Yash Pet Care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "244411",
+    "phone_number": "+91 94577 36555",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Mini Bypass, Rampur Rd, near Nirmal resort, Karamchari Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "near Nirmal resort, Karamchari Nagar",
+    "latitude": 28.3876098,
+    "longitude": 79.4056952,
+    "place_id": "ChIJCeSFxh0HoDkRcI8X-aYzftM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeSFxh0HoDkRcI8X-aYzftM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:56"
+  }
+]

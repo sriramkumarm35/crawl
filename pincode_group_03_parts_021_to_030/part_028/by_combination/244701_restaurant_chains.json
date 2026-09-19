@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Domino's Pizza | Shaukat Ali Road,Rampur",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "244701",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 4,
+    "reviews_count": 629,
+    "address": "Upper Ground Floor, Madayyan Nadar Bagh, Shaukat Ali Rd, Mohsin -E- Azam Colony, Civil Lines, Rampur, Uttar Pradesh 244901",
+    "area": "Mohsin -E- Azam Colony, Civil Lines",
+    "latitude": 28.793695,
+    "longitude": 79.02267499999999,
+    "place_id": "ChIJDxss-hyNCjkRaplvx_-LAgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxss-hyNCjkRaplvx_-LAgU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:17:36"
+  },
+  {
+    "business_name": "Saifi Iron",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market, Adhesives & Glue Supplier, Cement Supplier, Iron & Steel Store, Paint store, Waterproofing service",
+    "pincode": "244701",
+    "phone_number": "+91 96909 73786",
+    "website": "http://bergerpaints.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SAIFI IRON Ajeetpur, near bank of baroda, Sai Vihar Colony, Shekppasha, Rampur, Uttar Pradesh 244901",
+    "area": "Sai Vihar Colony, Shekppasha",
+    "latitude": 28.7702,
+    "longitude": 79.0193572,
+    "place_id": "ChIJd3vqSk3tCjkR4RmHpP_MaYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3vqSk3tCjkR4RmHpP_MaYE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:17:37"
+  }
+]

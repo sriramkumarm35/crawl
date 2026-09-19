@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royel Blue Car Detailing and accessories",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "244501",
+    "phone_number": "+91 97594 97014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Police Station Kanth Moradabad Road, Uttar Pradesh 244501",
+    "area": "244501",
+    "latitude": 29.0556049,
+    "longitude": 78.6215742,
+    "place_id": "ChIJXbHsCQCtCzkRpBtkGk42Wb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbHsCQCtCzkRpBtkGk42Wb0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:10:53"
+  },
+  {
+    "business_name": "Subhan Car Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "244501",
+    "phone_number": "+91 99904 07786",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SH 49, Kasampur, Uttar Pradesh 246745",
+    "area": "244501",
+    "latitude": 29.0733283,
+    "longitude": 78.6343905,
+    "place_id": "ChIJ5Y1PH1atCzkR6Aog2sFQoW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Y1PH1atCzkR6Aog2sFQoW8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:10:53"
+  }
+]

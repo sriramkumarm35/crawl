@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sidra Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Internet cafe",
+    "pincode": "244602",
+    "phone_number": "+91 99279 78386",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Dhulapur, Uttar Pradesh 244602",
+    "area": "244602",
+    "latitude": 29.2459113,
+    "longitude": 78.7442343,
+    "place_id": "ChIJ0ZCNJiZLCjkR91pqTOHn7Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZCNJiZLCjkR91pqTOHn7Nc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:18"
+  },
+  {
+    "business_name": "As travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "244602",
+    "phone_number": "+91 99170 59030",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "road, Padla, Bahadar Nagar, Uttar Pradesh 244602",
+    "area": "244602",
+    "latitude": 29.163718799999998,
+    "longitude": 78.7243175,
+    "place_id": "ChIJL0VYCGpNCjkR00AILu2E9wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0VYCGpNCjkR00AILu2E9wg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:18"
+  }
+]

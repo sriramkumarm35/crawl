@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARYA HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "244303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Sambhal, Uttar Pradesh 244302",
+    "area": "244303",
+    "latitude": 28.5808063,
+    "longitude": 78.5726995,
+    "place_id": "ChIJYWjBbkkfCzkRI-h0UmzQCNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWjBbkkfCzkRI-h0UmzQCNU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:44"
+  },
+  {
+    "business_name": "Vijay Ayurveda",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "244303",
+    "phone_number": "+91 88721 45824",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no 17 Chedalal Market Islamnagar Road Essar Petrol Pump Ke Samne, Bahjoi, Uttar Pradesh 244410",
+    "area": "244303",
+    "latitude": 28.3836631,
+    "longitude": 78.63469889999999,
+    "place_id": "ChIJ20RNFFEnCzkRRq0dMTQUMUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20RNFFEnCzkRRq0dMTQUMUo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:44"
+  }
+]

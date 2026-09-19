@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEV SAREES AND SUITS",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "244602",
+    "phone_number": "+91 78190 74692",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shivaji Market, Seohara, Uttar Pradesh 246746",
+    "area": "244602",
+    "latitude": 29.207727199999997,
+    "longitude": 78.58831719999999,
+    "place_id": "ChIJpS6jYee1CzkRPUvFKlzIT7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpS6jYee1CzkRPUvFKlzIT7w",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:15:53"
+  },
+  {
+    "business_name": "Shri Radhey Saree Showroom",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "244602",
+    "phone_number": "+91 98083 59992",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opposite, Jai Mata Mandir Rd, Line Par, Moradabad, Uttar Pradesh 244001",
+    "area": "Line Par",
+    "latitude": 28.837939,
+    "longitude": 78.7709186,
+    "place_id": "ChIJjZ_f-i37CjkRhJ0woC3cIpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZ_f-i37CjkRhJ0woC3cIpw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:15:55"
+  }
+]

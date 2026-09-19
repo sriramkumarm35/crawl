@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Marbles",
+    "search_category": "Granite Dealer",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "244303",
+    "phone_number": "+91 97724 44476",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "2Km stone moradabad, Road, Sambhal, Uttar Pradesh 244302",
+    "area": "244303",
+    "latitude": 28.5939388,
+    "longitude": 78.5879009,
+    "place_id": "ChIJLbDp3eUfCzkR1-pWMjjXolE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbDp3eUfCzkR1-pWMjjXolE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:54:00"
+  },
+  {
+    "business_name": "Italian Marbels And Granite Store",
+    "search_category": "Granite Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244303",
+    "phone_number": "+91 82189 63174",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanjeevani Hospital Road Bareilly, Chaudhary Sarai Rd, Sambhal, Uttar Pradesh 244302",
+    "area": "244303",
+    "latitude": 28.5811599,
+    "longitude": 78.5719795,
+    "place_id": "ChIJUxKmVGgfCzkRXdU24djVlFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxKmVGgfCzkRXdU24djVlFk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:54:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raipur Homes",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real Estate Builders & Construction Company, Real estate rental agency",
+    "pincode": "244501",
+    "phone_number": "+91 98444 44497",
+    "website": "https://www.raipurhomes.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Unit no 4052, 4th floor, currency tower, Vishal Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Vishal Nagar",
+    "latitude": 21.2386053,
+    "longitude": 81.6788902,
+    "place_id": "ChIJmXT-kEndKDoRxUv-dfv61eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXT-kEndKDoRxUv-dfv61eM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:11:49"
+  },
+  {
+    "business_name": "KUNDAN ESTATES",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "244501",
+    "phone_number": "+91 97028 92801",
+    "website": "http://kundanestates.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TARDEO AC MARKET BUILDING SHOP NO 55 GROUND FLOOR, Tardeo Rd, Mumbai, Maharashtra 400034",
+    "area": "Janata Nagar, Tardeo",
+    "latitude": 18.9728588,
+    "longitude": 72.8139719,
+    "place_id": "ChIJgx4rTxHO5zsRlovlHGHN34U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgx4rTxHO5zsRlovlHGHN34U",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:11:49"
+  }
+]

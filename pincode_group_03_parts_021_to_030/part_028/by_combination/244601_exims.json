@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S impex",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "244601",
+    "phone_number": "N/A",
+    "website": "https://ssimpex.co/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "jama masjid hawa mehal, Jama Masjid Gate Number 3, Hayat Nagar, Katghar, Moradabad, Uttar Pradesh 244001",
+    "area": "Hayat Nagar, Katghar",
+    "latitude": 28.8339616,
+    "longitude": 78.7919125,
+    "place_id": "ChIJM4aK6Zb7CjkR0SVpey2V9_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4aK6Zb7CjkR0SVpey2V9_8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:15:29"
+  },
+  {
+    "business_name": "SPVK International",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company, Mineral supplier",
+    "pincode": "244601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 64,
+    "address": "Aliganj Rd, Kashipur, Ginni Khera, Uttarakhand 244713",
+    "area": "244601",
+    "latitude": 29.174694799999997,
+    "longitude": 78.9448683,
+    "place_id": "ChIJa2smO8dDCjkRpM2bbQY4mhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2smO8dDCjkRpM2bbQY4mhM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:15:30"
+  }
+]

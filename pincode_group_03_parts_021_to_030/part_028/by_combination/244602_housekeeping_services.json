@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devyansh Broom",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Manufacturer, Cleaning products supplier, Wholesaler",
+    "pincode": "244602",
+    "phone_number": "+91 89379 36933",
+    "website": "http://www.devyanshbroom.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 05, Thakurdwara Rd, near Kavya Farm House, Devnagar Colony, Jaspur, Uttarakhand 244712",
+    "area": "Devnagar Colony",
+    "latitude": 29.2697884,
+    "longitude": 78.8160544,
+    "place_id": "ChIJiwSVSONJCjkRQTOZ1cj7pfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwSVSONJCjkRQTOZ1cj7pfs",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:17:01"
+  },
+  {
+    "business_name": "Vipul Traders",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "244602",
+    "phone_number": "+91 89546 90083",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vipul Traders Dulari Road Sujanngar, Uttar Pradesh 244602",
+    "area": "244602",
+    "latitude": 29.229915899999998,
+    "longitude": 78.7017851,
+    "place_id": "ChIJaRr2ylhLCjkRLlPZC0u1G8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRr2ylhLCjkRLlPZC0u1G8s",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:17:01"
+  }
+]

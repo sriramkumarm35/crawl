@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nazakat Cold Drink",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store",
+    "pincode": "244413",
+    "phone_number": "+91 94121 47875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Moradabad - Chandausi Rd, Kundarki, Uttar Pradesh 244413",
+    "area": "244413",
+    "latitude": 28.6910721,
+    "longitude": 78.787039,
+    "place_id": "ChIJg7KoqhLlCjkRyDY2bRLNEJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7KoqhLlCjkRyDY2bRLNEJE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:43"
+  },
+  {
+    "business_name": "Delhi Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "244413",
+    "phone_number": "+91 93137 71193",
+    "website": "http://delhicoldstorage.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Plot No-15 16, Block C, New Sabzi Mandi, Azadpur, Delhi, 110033",
+    "area": "Block C, New Sabzi Mandi, Azadpur",
+    "latitude": 28.7125187,
+    "longitude": 77.1730944,
+    "place_id": "ChIJAQBwtB8CDTkRcqhZuO6Ft18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBwtB8CDTkRcqhZuO6Ft18",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:44"
+  }
+]

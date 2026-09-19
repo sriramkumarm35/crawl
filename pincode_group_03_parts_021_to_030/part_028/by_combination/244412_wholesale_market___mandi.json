@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "244412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Akbarpur Chiteri, Chandausi, Uttar Pradesh 244412",
+    "area": "Akbarpur Chiteri",
+    "latitude": 28.455786999999997,
+    "longitude": 78.7849706,
+    "place_id": "ChIJW6kCOgDbCjkRiPnZOT1zlZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6kCOgDbCjkRiPnZOT1zlZM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:05:11"
+  },
+  {
+    "business_name": "Dharmik pustak bhandar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Historical landmark",
+    "all_categories": "Historical landmark",
+    "pincode": "244412",
+    "phone_number": "+91 98370 17753",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 526,
+    "address": "Deepak kachri store, Gopal mohalla, 202412, Gopal St, Bhram Bazaar, Chandausi, Uttar Pradesh 244412",
+    "area": "Bhram Bazaar",
+    "latitude": 28.4460718,
+    "longitude": 78.778318,
+    "place_id": "ChIJP_VxxrHbCjkREWOmz32EP98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_VxxrHbCjkREWOmz32EP98",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:05:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALEX HealthCare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244304",
+    "phone_number": "+91 96399 79871",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "gagan tiraha, Sambhal Rd, Moradabad, Uttar Pradesh 244001",
+    "area": "244304",
+    "latitude": 28.7904976,
+    "longitude": 78.76139289999999,
+    "place_id": "ChIJe-ocOXn7CjkRITmvhTEC_is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-ocOXn7CjkRITmvhTEC_is",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:55:28"
+  },
+  {
+    "business_name": "NEW LIFE HEALTHCARE (Dr.Sarfaraz Alam)",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244304",
+    "phone_number": "+91 94100 48931",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mati Urf Maini, Uttar Pradesh 244104",
+    "area": "244304",
+    "latitude": 28.8733753,
+    "longitude": 78.92050309999999,
+    "place_id": "ChIJtRazj5X3CjkR66GDPBX8DUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRazj5X3CjkR66GDPBX8DUk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:55:29"
+  }
+]

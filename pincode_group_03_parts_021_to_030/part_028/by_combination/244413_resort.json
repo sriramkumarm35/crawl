@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Kimmaya Resort",
+    "search_category": "Resort",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Event venue, Free parking lot, Wedding photographer, Wedding planner, Wedding venue",
+    "pincode": "244413",
+    "phone_number": "+91 87910 50155",
+    "website": "https://www.kimmaya.com/",
+    "rating": 4.7,
+    "reviews_count": 36,
+    "address": "Moradabad - Kashipur Rd, near Reliance Pump, Distt, Kashipur, Sarwar Khera, Uttarakhand 244713",
+    "area": "Distt",
+    "latitude": 29.2097199,
+    "longitude": 78.92915579999999,
+    "place_id": "ChIJbaE6HvtFCjkRo_TgzcsJPI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaE6HvtFCjkRo_TgzcsJPI4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:15"
+  },
+  {
+    "business_name": "Rose View Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "244413",
+    "phone_number": "+91 84498 87702",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "6WFR+964, near The Touchwood School, Beljuri, Uttarakhand 244713",
+    "area": "244413",
+    "latitude": 29.2237278,
+    "longitude": 78.9421528,
+    "place_id": "ChIJx5vfXJxDCjkRhwiWVzv77CE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5vfXJxDCjkRhwiWVzv77CE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:17"
+  }
+]

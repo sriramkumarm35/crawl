@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SD Dialysis centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244414",
+    "phone_number": "+91 97567 60086",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "867, Bhopa Rd, Patel Nagar, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Patel Nagar, New Mandi",
+    "latitude": 29.4722507,
+    "longitude": 77.71730529999999,
+    "place_id": "ChIJG3tg1BQbDDkRq8IJmlZD9zU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3tg1BQbDDkRq8IJmlZD9zU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:07:26"
+  },
+  {
+    "business_name": "7Med Moradabad - Asian Vivekanand Super Specialty Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "244414",
+    "phone_number": "+91 124 601 0921",
+    "website": "https://www.7medindia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": ": Asian, Vivekanand Super Specialty Hospital, C/o, Kanth Rd, Moradabad, Jamalpur Madi Nagla, Uttar Pradesh 244504",
+    "area": "244414",
+    "latitude": 28.9424927,
+    "longitude": 78.6834101,
+    "place_id": "ChIJQ4eLjAxVCjkRDJd31TMfbnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4eLjAxVCjkRDJd31TMfbnk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:07:27"
+  }
+]

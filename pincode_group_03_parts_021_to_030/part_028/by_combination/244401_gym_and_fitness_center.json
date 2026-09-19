@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryan fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "244401",
+    "phone_number": "+91 90275 38617",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Village Begampur post Kanth, Uttar Pradesh 244501",
+    "area": "244401",
+    "latitude": 29.045739899999997,
+    "longitude": 78.6880908,
+    "place_id": "ChIJjSxEzj1TCjkRScL1DLmAHdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSxEzj1TCjkRScL1DLmAHdE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:57:09"
+  },
+  {
+    "business_name": "Rihan Fitness Gym Point Jatpura",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "244401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "3R3J+Q46, Jatpura, Uttar Pradesh 244601",
+    "area": "244401",
+    "latitude": 29.053475,
+    "longitude": 78.8296433,
+    "place_id": "ChIJIVqqeoFRCjkRq14pPnnWlyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVqqeoFRCjkRq14pPnnWlyw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:57:09"
+  }
+]

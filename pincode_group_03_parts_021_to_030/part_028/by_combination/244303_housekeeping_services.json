@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lava Care",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "244303",
+    "phone_number": "+91 99270 54130",
+    "website": "http://www.lavamobiles.com/support",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Tahsil Road, Sambhal, Uttar Pradesh 244302",
+    "area": "244303",
+    "latitude": 28.58183,
+    "longitude": 78.5720903,
+    "place_id": "ChIJJ3qMgUkfCzkRJb5yPlK1xCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3qMgUkfCzkRJb5yPlK1xCI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:54:35"
+  },
+  {
+    "business_name": "Rana Tayer Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "244303",
+    "phone_number": "+91 96759 36813",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Rana Tayer Service, Nadhos, Uttar Pradesh 244410",
+    "area": "244303",
+    "latitude": 28.397231899999998,
+    "longitude": 78.5640854,
+    "place_id": "ChIJ16QvcawlCzkRrw38L9aU2RI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16QvcawlCzkRrw38L9aU2RI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:54:35"
+  }
+]

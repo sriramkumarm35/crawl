@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayur Auto Works",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto insurance agency, Garage",
+    "pincode": "244251",
+    "phone_number": "+91 98908 92208",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1325/59/E, 1325, Shivaji Udyam Nagar, Kolhapur, Maharashtra 416008",
+    "area": "Shivaji Udyam Nagar",
+    "latitude": 16.692468899999998,
+    "longitude": 74.2354936,
+    "place_id": "ChIJ9WNjoamqwTsRsXe-desTDJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WNjoamqwTsRsXe-desTDJ4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:46:48"
+  },
+  {
+    "business_name": "Shivalik Motors - Genuine Parts - Hero MotoCorp",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "244251",
+    "phone_number": "+91 94126 39565",
+    "website": "https://partsdistributors.heromotocorp.com/hero-motocorp/amroha/Joya/shivalik-motors-genuine-parts-hero-motocorp-in-Joya-amroha--71hQ5Q/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prem Nagar, Mubarakpur Joya - Ikonda, nearby Sangam Sweets, Joya, Uttar Pradesh 244222",
+    "area": "244251",
+    "latitude": 28.835009399999997,
+    "longitude": 78.4659851,
+    "place_id": "ChIJCWUx7FwJCzkR02-2uWlh0TQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWUx7FwJCzkR02-2uWlh0TQ",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:46:49"
+  }
+]

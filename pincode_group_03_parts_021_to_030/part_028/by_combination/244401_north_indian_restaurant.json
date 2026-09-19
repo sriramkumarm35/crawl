@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maan Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "244401",
+    "phone_number": "+91 97565 31999",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Jalalpur Khalsa, Moradabad, SH-41, Moradabad Thakurdward Road, Thakurdwara, Thakurdwara, Uttar Pradesh 244601",
+    "area": "244401",
+    "latitude": 29.0435122,
+    "longitude": 78.8286024,
+    "place_id": "ChIJoc9ANK1QCjkRxAvSIqJMijg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoc9ANK1QCjkRxAvSIqJMijg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:47"
+  },
+  {
+    "business_name": "Delhi Mughlai Corner",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "244401",
+    "phone_number": "+91 79063 41537",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mda Complex, Ram Ganga Vihar, Moradabad, Uttar Pradesh 244105",
+    "area": "Phase I, Ram Ganga Vihar",
+    "latitude": 28.8716892,
+    "longitude": 78.75230169999999,
+    "place_id": "ChIJb4rFhHz5CjkRX7TcOR0pbM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4rFhHz5CjkRX7TcOR0pbM4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:49"
+  }
+]

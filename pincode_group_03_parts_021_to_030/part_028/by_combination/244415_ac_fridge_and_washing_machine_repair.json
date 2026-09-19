@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Mixi House",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Microwave oven repair service",
+    "pincode": "244415",
+    "phone_number": "+91 98117 12022",
+    "website": "http://www.sunilmixihouse.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "15A/22, Pooja Park Rd, near POOJA PARK, Block 15A, WEA, Karol Bagh, Delhi, 110005",
+    "area": "Block 15A, WEA, Karol Bagh",
+    "latitude": 28.6458026,
+    "longitude": 77.1884827,
+    "place_id": "ChIJ-Q_CAJ4DDTkRimtF8tDLRJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q_CAJ4DDTkRimtF8tDLRJM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:09:26"
+  },
+  {
+    "business_name": "Smart Fix",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "244415",
+    "phone_number": "N/A",
+    "website": "https://smartfixquick.com/",
+    "rating": 4.5,
+    "reviews_count": 54,
+    "address": "Musaffah - M11 - Abu Dhabi - United Arab Emirates",
+    "area": "Musaffah - M11",
+    "latitude": 24.3646007,
+    "longitude": 54.5081146,
+    "place_id": "ChIJMWWpGi9BXj4RMIHgDoBfjc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWWpGi9BXj4RMIHgDoBfjc4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:09:27"
+  }
+]

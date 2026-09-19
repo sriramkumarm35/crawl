@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khempal Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "244410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Ram road, Bhram Bazaar, Chandausi, Uttar Pradesh 244412",
+    "area": "Bhram Bazaar",
+    "latitude": 28.437268999999997,
+    "longitude": 78.778262,
+    "place_id": "ChIJh2bTzXjbCjkR3d17ddA2oZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2bTzXjbCjkR3d17ddA2oZQ",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:05"
+  },
+  {
+    "business_name": "Premi Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "244410",
+    "phone_number": "+91 94127 33111",
+    "website": "http://premicaterers.com/",
+    "rating": 4,
+    "reviews_count": 179,
+    "address": "10, PREMIER NAGAR, Preimer Nagar, Bank Colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Preimer Nagar, Bank Colony",
+    "latitude": 27.8743666,
+    "longitude": 78.08095829999999,
+    "place_id": "ChIJl_d07Z2kdDkRFwCwor-eX_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_d07Z2kdDkRFwCwor-eX_o",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:07"
+  }
+]

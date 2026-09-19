@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Bawarchi - Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "244402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "B1/171, Phase 2, Ashiyana, Moradabad, Uttar Pradesh 244105",
+    "area": "Phase 2, Ashiyana",
+    "latitude": 28.8702994,
+    "longitude": 78.752932,
+    "place_id": "ChIJM0xb28H5CjkRabta5e1XXN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0xb28H5CjkRabta5e1XXN8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:58:30"
+  },
+  {
+    "business_name": "Mummy ki rasoi cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "244402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQPP+6Q3, Sunaro Wali Gali, Faiz Ganj, Moradabad, Uttar Pradesh 244001",
+    "area": "Faiz Ganj",
+    "latitude": 28.8355173,
+    "longitude": 78.7869343,
+    "place_id": "ChIJfwqQNwD7CjkRKpgdIFug90c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwqQNwD7CjkRKpgdIFug90c",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:58:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N.K boutique center",
+    "search_category": "Boutiques",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "244602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "6H4P+8MG, Peer Ka Bazaar, Seohara, Uttar Pradesh 246746",
+    "area": "244602",
+    "latitude": 29.2057669,
+    "longitude": 78.5866547,
+    "place_id": "ChIJ52mRTACzCzkRN8ebDHLlruw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52mRTACzCzkRN8ebDHLlruw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:01"
+  },
+  {
+    "business_name": "Manoj cosmetic store",
+    "search_category": "Boutiques",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "244602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "88, Vill, Jai Nagar, Surjan Nagar, Uttar Pradesh 244602",
+    "area": "Vill",
+    "latitude": 29.230790799999998,
+    "longitude": 78.7021803,
+    "place_id": "ChIJYw_WYABLCjkRYcTBLfCheJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYw_WYABLCjkRYcTBLfCheJE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarrafa bazar",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "244411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JRC2+R7G, Sarrafa Bazar, Bilari, Uttar Pradesh 244411",
+    "area": "Sarrafa Bazar",
+    "latitude": 28.6220598,
+    "longitude": 78.800709,
+    "place_id": "ChIJrxUcZADnCjkRSJtWanhQyTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxUcZADnCjkRSJtWanhQyTc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:02:05"
+  },
+  {
+    "business_name": "Jain Abhushan Bhandar",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "244411",
+    "phone_number": "+91 99179 07000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Chauraha Gali, Mandi Chowk, Peer Gali, Moradabad, Uttar Pradesh 244001",
+    "area": "Mandi Chowk, Peer Gali",
+    "latitude": 28.8349701,
+    "longitude": 78.78179519999999,
+    "place_id": "ChIJ2S3YeMj7CjkRlhW9SOJ-mDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2S3YeMj7CjkRlhW9SOJ-mDg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:02:06"
+  }
+]

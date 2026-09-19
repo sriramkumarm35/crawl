@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H H Health Poly Clinic Barwalan Moradabad",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "244401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQJV+952, Barwalan Gali Number 4, Hayat Nagar, Katghar, Moradabad, Uttar Pradesh 244001",
+    "area": "Hayat Nagar, Katghar",
+    "latitude": 28.830885,
+    "longitude": 78.79289589999999,
+    "place_id": "ChIJeejgQQD7CjkRSlIEx70eLw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeejgQQD7CjkRSlIEx70eLw0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:57:05"
+  },
+  {
+    "business_name": "Global Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Gynecologist",
+    "all_categories": "Gynecologist",
+    "pincode": "244401",
+    "phone_number": "+91 94564 53798",
+    "website": "https://www.hakimdrshauqat.com/",
+    "rating": 5,
+    "reviews_count": 77,
+    "address": "223, Azad Nagar, MMIG-1, road, near Green Park Road, Dheemri, Karula, Moradabad, Uttar Pradesh 244001",
+    "area": "Dheemri, Karula",
+    "latitude": 28.8040026,
+    "longitude": 78.7630982,
+    "place_id": "ChIJ3VVBLC1QckoRLEO2uobeI7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VVBLC1QckoRLEO2uobeI7s",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:57:06"
+  }
+]

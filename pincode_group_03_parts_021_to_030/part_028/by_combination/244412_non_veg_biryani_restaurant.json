@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulati restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "244412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Moradabad gate, Chandausi, Uttar Pradesh 244412",
+    "area": "Jatt Colany",
+    "latitude": 28.4507439,
+    "longitude": 78.78265329999999,
+    "place_id": "ChIJV0DKI7nbCjkRj0Hg_qw-YHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0DKI7nbCjkRj0Hg_qw-YHA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:41"
+  },
+  {
+    "business_name": "Yaduvanshi Guest House and Garden",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "244412",
+    "phone_number": "+91 86504 92209",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Avas Vikas Colony, Chandausi, Uttar Pradesh 244412",
+    "area": "Avas Vikas Colony",
+    "latitude": 28.4555829,
+    "longitude": 78.7734377,
+    "place_id": "ChIJi9xrH7nbCjkRCoN16qvD0po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9xrH7nbCjkRCoN16qvD0po",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:41"
+  }
+]

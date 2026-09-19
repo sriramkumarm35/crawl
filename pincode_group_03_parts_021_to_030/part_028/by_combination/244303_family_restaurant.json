@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Olivia's food point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "244303",
+    "phone_number": "+91 75003 48061",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Choki manpur, On road, near by new hindustan pump, Moradabad, Uttar Pradesh 244402",
+    "area": "244303",
+    "latitude": 28.937895599999997,
+    "longitude": 78.8912163,
+    "place_id": "ChIJZWrSQzf3CjkR6K0xLgdHC0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWrSQzf3CjkR6K0xLgdHC0o",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:28"
+  },
+  {
+    "business_name": "The Bridge Restaurant by Clarks Inn",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bar, Buffet restaurant, Family restaurant, Fine dining restaurant, North Indian restaurant",
+    "pincode": "244303",
+    "phone_number": "+91 99174 74227",
+    "website": "https://www.theclarkshotels.com/clarks-inn/mb-greens-clarks-inn-moradabad/restaurants?utm_source=google&utm_medium=gbp&utm_campaign=mb-greens-clarks-inn-moradabad",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MB Greens, Clarks Inn, Rampur Rd, near Prem Wonderland, Moradabad, Uttar Pradesh 244001",
+    "area": "244303",
+    "latitude": 28.834417199999997,
+    "longitude": 78.82001629999999,
+    "place_id": "ChIJC39aPmv6CjkRIrag_oxd26c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC39aPmv6CjkRIrag_oxd26c",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:29"
+  }
+]

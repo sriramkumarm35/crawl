@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "244504",
+    "phone_number": "+91 78306 95786",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "QQP7+H9V, Unchakani, Moradabad, Uttar Pradesh 244001",
+    "area": "244504",
+    "latitude": 28.7864935,
+    "longitude": 78.7634271,
+    "place_id": "ChIJFf75lGn7CjkR28CKjDS4oMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFf75lGn7CjkR28CKjDS4oMI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:42"
+  },
+  {
+    "business_name": "Max Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer, Garage",
+    "pincode": "244504",
+    "phone_number": "+91 97190 19101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RQFH+3QJ, Opp. Satyam Cinema, Ginny Bar Compound, Rampur Rd, Moradabad, Uttar Pradesh 244001",
+    "area": "Adarsh Nagar, Lajpat Nagar",
+    "latitude": 28.8227056,
+    "longitude": 78.77937949999999,
+    "place_id": "ChIJ4R2n5br7CjkRhFc0NnpUAXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4R2n5br7CjkRhFc0NnpUAXg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:44"
+  }
+]

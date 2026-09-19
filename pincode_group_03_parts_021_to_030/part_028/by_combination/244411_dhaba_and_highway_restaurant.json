@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NH 509 DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "244411",
+    "phone_number": "+91 99279 22786",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Moradabad - Chandausi Rd, near Petrol Pump, Bilari, Isapur, Uttar Pradesh 244413",
+    "area": "244411",
+    "latitude": 28.653087499999998,
+    "longitude": 78.79323749999999,
+    "place_id": "ChIJ27TBX4LnCjkRmeR6CX2trGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27TBX4LnCjkRmeR6CX2trGA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:57"
+  },
+  {
+    "business_name": "Dilli Punjab Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "244411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "P3Q7+V9X, NH-24, Shahzad Nagar, Patti Kalyanpur, Uttar Pradesh 244901",
+    "area": "244411",
+    "latitude": 28.739736999999998,
+    "longitude": 79.0634817,
+    "place_id": "ChIJe87yCPySCjkRTXLt0znq17c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe87yCPySCjkRTXLt0znq17c",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:02:00"
+  }
+]

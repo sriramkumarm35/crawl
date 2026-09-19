@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "myTVS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "244601",
+    "phone_number": "+91 98374 61982",
+    "website": "https://mytvs.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Khasra No. 87, Four Wheeler Services, Shri Krishna Automotive, Ramnagar Rd, near Shivangi Crafts, Kashipur, Kharmasi, Uttarakhand 244713",
+    "area": "244601",
+    "latitude": 29.2392486,
+    "longitude": 78.9837534,
+    "place_id": "ChIJse0myX1DCjkRxwG03zQQ4lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJse0myX1DCjkRxwG03zQQ4lY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:14:37"
+  },
+  {
+    "business_name": "Shree Balaji Traders - Genuine Parts - Hero MotoCorp",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "244601",
+    "phone_number": "+91 92582 52581",
+    "website": "https://partsdistributors.heromotocorp.com/hero-motocorp/kashipur/Sarwar-Khera/shree-balaji-traders-genuine-parts-hero-motocorp-in-Sarwar-Khera-kashipur--6wYImd/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moradabad Rd, opposite Shri Hari Ganga Dharam Kanta, Sarwar Khera, Kashipur, Uttarakhand 244713",
+    "area": "244601",
+    "latitude": 29.2100057,
+    "longitude": 78.93506529999999,
+    "place_id": "ChIJm-p3e_pDCjkRUILJM-FK3zg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-p3e_pDCjkRUILJM-FK3zg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:14:37"
+  }
+]

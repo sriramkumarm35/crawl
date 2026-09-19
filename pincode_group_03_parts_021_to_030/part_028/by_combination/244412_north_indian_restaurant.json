@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sitaram hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, North Indian restaurant",
+    "pincode": "244412",
+    "phone_number": "+91 74578 77953",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 176,
+    "address": "Moradabad - Chandausi Rd, Kotwali, Jatt Colany, Chandausi, Uttar Pradesh 244412",
+    "area": "Kotwali, Jatt Colany",
+    "latitude": 28.4502438,
+    "longitude": 78.7822243,
+    "place_id": "ChIJI4my0a_bCjkRoJI693Ne49E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4my0a_bCjkRoJI693Ne49E",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:41"
+  },
+  {
+    "business_name": "AB restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "244412",
+    "phone_number": "+91 95992 60718",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Unnamed Road, Gaushala Rd, Lions Colony, Maulagarh, Chandausi, Uttar Pradesh 244412",
+    "area": "Lions Colony",
+    "latitude": 28.4591212,
+    "longitude": 78.769735,
+    "place_id": "ChIJl6NNQQDbCjkRArUirJuc-AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6NNQQDbCjkRArUirJuc-AI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:41"
+  }
+]

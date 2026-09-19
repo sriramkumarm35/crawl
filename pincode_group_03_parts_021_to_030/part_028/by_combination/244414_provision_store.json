@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LALIT GENERAL STORE",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store, General store",
+    "pincode": "244414",
+    "phone_number": "+91 96396 46792",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mohammad sadiqpur Bilari, Uttar Pradesh 202414",
+    "area": "244414",
+    "latitude": 28.531065899999998,
+    "longitude": 78.72211229999999,
+    "place_id": "ChIJb3EGdQDfCjkRfJsmgrbv80U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3EGdQDfCjkRfJsmgrbv80U",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:55"
+  },
+  {
+    "business_name": "Sumit multiple shop चिड़िया भवन",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "244414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GP8G+FV4, Chidiya, Bhawan, Asalatnagar Kalispur, Uttar Pradesh 244414",
+    "area": "Chidiya",
+    "latitude": 28.516141599999997,
+    "longitude": 78.7271932,
+    "place_id": "ChIJZ6cnBwDfCjkRo9exXwJx4ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6cnBwDfCjkRo9exXwJx4ZI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utkarsh Animal Hospital Vana",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "244602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Tehsil, Vana, Bhinder, Rajasthan 313601",
+    "area": "Tehsil",
+    "latitude": 24.617261199999998,
+    "longitude": 73.9788224,
+    "place_id": "ChIJGRADeTfbZzkR45CN9nqL-Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRADeTfbZzkR45CN9nqL-Jg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:11"
+  },
+  {
+    "business_name": "Thai Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "244602",
+    "phone_number": "+91 95666 79616",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Tamil Nadu, Aalathur, Oomachikulam-Alanganallur Rd, N M Sivanathan Nagar, Tamil Nadu 625014",
+    "area": "N M Sivanathan Nagar",
+    "latitude": 9.985373899999999,
+    "longitude": 78.1568745,
+    "place_id": "ChIJRzEyR0_HADsRVkHA4QC9iM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzEyR0_HADsRVkHA4QC9iM0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:11"
+  }
+]

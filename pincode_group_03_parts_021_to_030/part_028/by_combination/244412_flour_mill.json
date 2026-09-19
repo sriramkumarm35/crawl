@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAREEK FLOUR MILLS",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "244412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "veshno vihar, phase 4, Avas Vikas Colony, Chandausi, Uttar Pradesh 244412",
+    "area": "phase 4, Avas Vikas Colony",
+    "latitude": 28.4488973,
+    "longitude": 78.7731227,
+    "place_id": "ChIJwZwBnevbCjkRNLwojhQ_ISw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZwBnevbCjkRNLwojhQ_ISw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:34"
+  },
+  {
+    "business_name": "Usha dal mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "244412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Kaithal Gate, Bhram Bazaar, Chandausi, Uttar Pradesh 244412",
+    "area": "Kaithal Gate, Bhram Bazaar",
+    "latitude": 28.4438914,
+    "longitude": 78.7797743,
+    "place_id": "ChIJu2pO5-fbCjkR-dRPCAYjrbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2pO5-fbCjkR-dRPCAYjrbk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:35"
+  }
+]

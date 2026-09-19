@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gallery Gateways",
+    "search_category": "Exhibitions",
+    "primary_category": "Technology museum",
+    "all_categories": "Technology museum",
+    "pincode": "244501",
+    "phone_number": "+91 93681 76900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "moh chowk, Amroha, Kanth, Uttar Pradesh 244501",
+    "area": "244501",
+    "latitude": 29.0610386,
+    "longitude": 78.6306199,
+    "place_id": "ChIJ0-Lb5h-tCzkRAdJ9nrTGHDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-Lb5h-tCzkRAdJ9nrTGHDg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:11:57"
+  },
+  {
+    "business_name": "Annual Fair Ground",
+    "search_category": "Exhibitions",
+    "primary_category": "Fairground",
+    "all_categories": "Fairground",
+    "pincode": "244501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "SH49, Main Rd, Sahaspur, Kasampur, Uttar Pradesh 246745",
+    "area": "244501",
+    "latitude": 29.0803764,
+    "longitude": 78.6360581,
+    "place_id": "ChIJSWO9RiKtCzkRvnaaC7SlWi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWO9RiKtCzkRvnaaC7SlWi4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:11:57"
+  }
+]

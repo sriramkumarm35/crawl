@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tara Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "244411",
+    "phone_number": "+91 98972 14830",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hanuman Garhi Rd, Chhoty Lal Colony, Chandausi, Uttar Pradesh 244412",
+    "area": "Chhoty Lal Colony",
+    "latitude": 28.4450914,
+    "longitude": 78.7865236,
+    "place_id": "ChIJexLRb6zbCjkRe_mWF0oq6p8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexLRb6zbCjkRe_mWF0oq6p8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:02:18"
+  },
+  {
+    "business_name": "AccuPath Labs & Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "244411",
+    "phone_number": "+91 89208 01034",
+    "website": "https://accupathlabs.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Munsif Rd, opposite Shiv Mandir, Anand Colony, Shakti Nagar, Chandausi, Uttar Pradesh 244412",
+    "area": "Anand Colony, Shakti Nagar",
+    "latitude": 28.455667599999998,
+    "longitude": 78.7772739,
+    "place_id": "ChIJ-XbCvmrbCjkRELAV0TM679A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XbCvmrbCjkRELAV0TM679A",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:02:20"
+  }
+]

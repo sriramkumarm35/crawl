@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRISHNA SNACKS",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "244504",
+    "phone_number": "+91 97286 34347",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RRK SCHOOL, Main Rd, Ashiyana Colony, Mora Mustahkam, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony, Mora Mustahkam, Harthala",
+    "latitude": 28.8824054,
+    "longitude": 78.7456773,
+    "place_id": "ChIJB3Y9_1z_CjkRXOa1ic_54AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3Y9_1z_CjkRXOa1ic_54AA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:06"
+  },
+  {
+    "business_name": "Chawla Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "244504",
+    "phone_number": "+91 80771 53066",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "VQ74+R2G, Avantika Colony, Din Dayal Nagar, Moradabad, Uttar Pradesh 244105",
+    "area": "Avantika Colony, Din Dayal Nagar",
+    "latitude": 28.864558499999998,
+    "longitude": 78.7550641,
+    "place_id": "ChIJne7Oswj5CjkRcF9c3lXOp_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJne7Oswj5CjkRcF9c3lXOp_I",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:06"
+  }
+]

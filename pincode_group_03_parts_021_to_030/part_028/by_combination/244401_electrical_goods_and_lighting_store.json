@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zeze electronics mart",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Lighting products wholesaler",
+    "pincode": "244401",
+    "phone_number": "+91 90744 89734",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dilari Rd, opp. shueb inter college, gajrola, jamshedpur, Uttar Pradesh 244402",
+    "area": "gajrola",
+    "latitude": 29.011422999999997,
+    "longitude": 78.792703,
+    "place_id": "ChIJVZFbeqdXCjkRJpo_TyQILyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZFbeqdXCjkRJpo_TyQILyo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:57:19"
+  },
+  {
+    "business_name": "New Prakash Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "244401",
+    "phone_number": "+91 98376 04465",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Jail Rd, near Complex, Gurhatti, Civil Lines, Moradabad, Uttar Pradesh 244001",
+    "area": "Gurhatti, Civil Lines",
+    "latitude": 28.8416151,
+    "longitude": 78.7704194,
+    "place_id": "ChIJh2KSB7P7CjkREFEwWtJ0Ay4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2KSB7P7CjkREFEwWtJ0Ay4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:57:19"
+  }
+]

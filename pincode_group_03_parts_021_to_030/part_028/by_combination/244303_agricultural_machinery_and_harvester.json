@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrimart",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier",
+    "pincode": "244303",
+    "phone_number": "+91 80 2698 5100",
+    "website": "https://agrimart.in/",
+    "rating": 4,
+    "reviews_count": 58,
+    "address": "Annapurna House, #1/1G, 7th Cross, Mysore Rd, New Guddadahalli, Bengaluru, Karnataka 560026",
+    "area": "New Guddadahalli, Guddadahalli",
+    "latitude": 12.9568049,
+    "longitude": 77.5485274,
+    "place_id": "ChIJg-fVgFI_rjsR1ToaBkpZF3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-fVgFI_rjsR1ToaBkpZF3I",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:54:44"
+  },
+  {
+    "business_name": "N S Agro Works",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "244303",
+    "phone_number": "+91 98145 57776",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 25,
+    "address": "95M8+3HF, Patiala Road, opp. Horlicks Factory, Nabha, Punjab 147201",
+    "area": "244303",
+    "latitude": 30.382804,
+    "longitude": 76.16658439999999,
+    "place_id": "ChIJNWB3Sp05EDkRDdj__RvngJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWB3Sp05EDkRDdj__RvngJ0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:54:46"
+  }
+]

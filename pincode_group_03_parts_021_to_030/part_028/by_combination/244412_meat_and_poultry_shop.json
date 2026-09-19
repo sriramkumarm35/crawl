@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waseem Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "244412",
+    "phone_number": "+91 93683 51142",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gali 6, Rehmat Nagar Road, Chandausi, Karula, Moradabad, Uttar Pradesh 244001",
+    "area": "Chandausi, Karula",
+    "latitude": 28.811721799999997,
+    "longitude": 78.7728164,
+    "place_id": "ChIJq9Rfa737CjkRs3c0z1NqWcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9Rfa737CjkRs3c0z1NqWcM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:35"
+  },
+  {
+    "business_name": "Yusuf Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "244412",
+    "phone_number": "+91 95570 96341",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sambhal Rd, near Peer ka Bazaar, Chandausi, Karula, Moradabad, Uttar Pradesh 244001",
+    "area": "Chandausi, Karula",
+    "latitude": 28.8123185,
+    "longitude": 78.7711544,
+    "place_id": "ChIJk_pyxaH7CjkRFjsdTCP_nPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_pyxaH7CjkRFjsdTCP_nPQ",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:35"
+  }
+]

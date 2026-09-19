@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "244402",
+    "phone_number": "+91 99971 71540",
+    "website": "https://mybillbook.in/store/ali_associates",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Faiz Ganj, Moradabad, Uttar Pradesh 244001",
+    "area": "Faiz Ganj",
+    "latitude": 28.837434799999997,
+    "longitude": 78.787573,
+    "place_id": "ChIJuagn4cv7CjkRBOKIr0hmQ4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuagn4cv7CjkRBOKIr0hmQ4g",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:59:46"
+  },
+  {
+    "business_name": "Anas & Tax Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Tax attorney",
+    "pincode": "244402",
+    "phone_number": "+91 98973 96039",
+    "website": "http://www.anastaxassociates.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Dimond Colony, Sambhal Rd, near Prathama Bank, Double Fatak, Moradabad, Uttar Pradesh 244001",
+    "area": "Chandausi, Double Fatak, Shiv Nagar",
+    "latitude": 28.818438699999998,
+    "longitude": 78.7727153,
+    "place_id": "ChIJA2NReab7CjkRVhF3fepGwOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2NReab7CjkRVhF3fepGwOU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:59:46"
+  }
+]

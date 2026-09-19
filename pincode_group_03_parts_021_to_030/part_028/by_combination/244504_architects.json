@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Kalaivani",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "244504",
+    "phone_number": "+91 90683 52513",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-15, MDA Colony, Phase-2, Ram Ganga Vihar, Moradabad, Uttar Pradesh 244105",
+    "area": "MDA Colony, Phase-2, Ram Ganga Vihar",
+    "latitude": 28.872311,
+    "longitude": 78.749219,
+    "place_id": "ChIJr9sp9p_5CjkR2WiDqnZn4Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9sp9p_5CjkR2WiDqnZn4Xg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:57"
+  },
+  {
+    "business_name": "Blackspace Design",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "244504",
+    "phone_number": "+91 79826 55617",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "B-111, near Sri Sai Mandir Road, Deen Dayal Nagar Phase 2, Ram Ganga Vihar, Moradabad, Uttar Pradesh 244105",
+    "area": "Deen Dayal Nagar Phase 2, Ram Ganga Vihar",
+    "latitude": 28.8684962,
+    "longitude": 78.7546011,
+    "place_id": "ChIJy8u9fzVZQUcRD6ukghHrymA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8u9fzVZQUcRD6ukghHrymA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:58"
+  }
+]

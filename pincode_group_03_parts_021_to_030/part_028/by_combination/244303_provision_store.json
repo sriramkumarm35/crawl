@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sajim Shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "244303",
+    "phone_number": "+91 74658 36003",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Nera Men Road Mata Mandir 244303, Muzaffarpur, Uttar Pradesh 244303",
+    "area": "244303",
+    "latitude": 28.5255284,
+    "longitude": 78.56540969999999,
+    "place_id": "ChIJB7crgTkjCzkRIZPO9-MYPMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7crgTkjCzkRIZPO9-MYPMU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:17"
+  },
+  {
+    "business_name": "Ahmad General store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "244303",
+    "phone_number": "+91 76182 00927",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "GHMV+GR, Nasirpur, Uttar Pradesh 244303",
+    "area": "244303",
+    "latitude": 28.5338374,
+    "longitude": 78.59459249999999,
+    "place_id": "ChIJCcrFUUohCzkRoMmiSdKnFJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcrFUUohCzkRoMmiSdKnFJk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imran Ahmad Sweet House",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "244251",
+    "phone_number": "+91 79007 44545",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Imran Ahmed Sweet House, 53, Chaman Bidi Factory Road, Fazalpur, Amroha, Uttar Pradesh 244221",
+    "area": "Fazalpur",
+    "latitude": 28.909823199999998,
+    "longitude": 78.46552489999999,
+    "place_id": "ChIJfUqSPN4JCzkRsN5tNr_OKQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUqSPN4JCzkRsN5tNr_OKQU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:46:11"
+  },
+  {
+    "business_name": "Just Bake Cake Shop & Coffee House Kolhapur",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop, Cafe, Chocolate shop, Coffee shop, Cupcake shop, Dessert shop, Gift shop, Party store, Wedding bakery",
+    "pincode": "244251",
+    "phone_number": "+91 93731 15822",
+    "website": "http://justbake.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Atharva Empire, below Waman Hari Pethe Jewellers, opp. Sasane Ground, Tarabai Park, Kolhapur, Maharashtra 416003",
+    "area": "Tarabai Park",
+    "latitude": 16.7074432,
+    "longitude": 74.24073039999999,
+    "place_id": "ChIJtSfhAlsAwTsRVE3ajg_ZyXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSfhAlsAwTsRVE3ajg_ZyXo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:46:12"
+  }
+]

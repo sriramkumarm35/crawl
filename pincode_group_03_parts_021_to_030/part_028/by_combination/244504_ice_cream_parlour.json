@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Emoi ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "244504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VQH5+26C, Ram Ganga Vihar Phase 2, Moradabad, Uttar Pradesh 244105",
+    "area": "Ram Ganga Vihar Phase 2",
+    "latitude": 28.877550399999997,
+    "longitude": 78.7580121,
+    "place_id": "ChIJIYoRLAD5CjkRczLwp2Ig_QQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYoRLAD5CjkRczLwp2Ig_QQ",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:19"
+  },
+  {
+    "business_name": "Family Ice Cream Hub",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "244504",
+    "phone_number": "+91 73107 51880",
+    "website": "http://www.familyicecreamhub.co.in/",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "C-92 New, Chowk, near Azad Nagar, opp. Home Choice shop, Transport Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Transport Nagar",
+    "latitude": 28.801993999999997,
+    "longitude": 78.7604491,
+    "place_id": "ChIJvzhFkbf7CjkRXrCCQgl14FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzhFkbf7CjkRXrCCQgl14FU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:21"
+  }
+]

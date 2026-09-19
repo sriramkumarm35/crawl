@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imran pasha farmhouse",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "244413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "PR2V+38, Ahmednagar Jaitwara, Uttar Pradesh 244413",
+    "area": "244413",
+    "latitude": 28.7002335,
+    "longitude": 78.8433707,
+    "place_id": "ChIJx9FLeADvCjkR3jsaIkNooKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9FLeADvCjkR3jsaIkNooKo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:05:17"
+  },
+  {
+    "business_name": "Kamalpur Organics",
+    "search_category": "Fish Market",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Egg supplier, Pond fish supplier",
+    "pincode": "244413",
+    "phone_number": "+91 97196 15758",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamalpur - Chandanpur Road, Udaipur Chandan, Uttar Pradesh 244413",
+    "area": "244413",
+    "latitude": 28.722974899999997,
+    "longitude": 78.76957999999999,
+    "place_id": "ChIJf1_2X8TlCjkRtkYS9ish5EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1_2X8TlCjkRtkYS9ish5EU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:05:20"
+  }
+]

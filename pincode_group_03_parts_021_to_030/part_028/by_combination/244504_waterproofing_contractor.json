@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Waterproofing",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service",
+    "pincode": "244504",
+    "phone_number": "+91 93686 18199",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "VQ42+VPX, 23rd PAC, Moradabad, Uttar Pradesh 244001",
+    "area": "23rd PAC",
+    "latitude": 28.8572405,
+    "longitude": 78.7518716,
+    "place_id": "ChIJA82oAQz5CjkRdgcmelr4Phs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA82oAQz5CjkRdgcmelr4Phs",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:59"
+  },
+  {
+    "business_name": "Vinod Kumar Waterproofing",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service",
+    "pincode": "244504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goharpur, Moradabad, Uttar Pradesh 244105",
+    "area": "Goharpur",
+    "latitude": 28.875298599999997,
+    "longitude": 78.7217691,
+    "place_id": "ChIJT7QlNXz_CjkRoflFfNfF92M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7QlNXz_CjkRoflFfNfF92M",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:13:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Saifi Cement Store",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "244414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 11,
+    "address": "Tanda, Sambhal SH 54, Sambhal Chandausi, Road, Sambhal, Uttar Pradesh 244414",
+    "area": "244414",
+    "latitude": 28.541810299999998,
+    "longitude": 78.6664,
+    "place_id": "ChIJczsYxI3fCjkR8lPVO9rmmHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczsYxI3fCjkR8lPVO9rmmHg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:54"
+  },
+  {
+    "business_name": "Akash grocery store Jamalpur",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "244414",
+    "phone_number": "+91 96279 46679",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bilari road, Jamalpur, Allahdadpur Dewa, Uttar Pradesh 202411",
+    "area": "244414",
+    "latitude": 28.557579399999998,
+    "longitude": 78.7178405,
+    "place_id": "ChIJ1XsFtrbfCjkRLVczvuhF07I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XsFtrbfCjkRLVczvuhF07I",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:06:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brass Product India",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "244304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Qari Ameer Ali chowk, Gali Number 1, Govind Nagar Colony, Moradabad, Uttar Pradesh 244001",
+    "area": "Govind Nagar Colony",
+    "latitude": 28.8191846,
+    "longitude": 78.7823418,
+    "place_id": "ChIJxejmVpX7CjkRip2ycXV1DYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxejmVpX7CjkRip2ycXV1DYU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:24"
+  },
+  {
+    "business_name": "Hind agriculture store",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244304",
+    "phone_number": "+91 97165 83786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "opposite Chaudhary petrol pump, iqbaal nagar, Joya, Uttar Pradesh 244222",
+    "area": "iqbaal nagar",
+    "latitude": 28.8343682,
+    "longitude": 78.47881509999999,
+    "place_id": "ChIJdVg2qtsHCzkRQDB62dyUIpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVg2qtsHCzkRQDB62dyUIpM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:24"
+  }
+]

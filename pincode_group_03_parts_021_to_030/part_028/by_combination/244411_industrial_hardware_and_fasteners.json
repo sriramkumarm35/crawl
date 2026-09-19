@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Hardware Store",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244411",
+    "phone_number": "+91 95683 99819",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Girjaghar Road, Pakwara, Uttar Pradesh 244102",
+    "area": "244411",
+    "latitude": 28.8197333,
+    "longitude": 78.6726913,
+    "place_id": "ChIJryVQoln9CjkR4ahmRPsWhgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryVQoln9CjkR4ahmRPsWhgs",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:16"
+  },
+  {
+    "business_name": "Chaudhary Enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244411",
+    "phone_number": "+91 89581 85753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway Station, Road Pull Ke Pass, near Suger Meel, Bilari, Bahadarpur, Uttar Pradesh 244411",
+    "area": "244411",
+    "latitude": 28.624203899999998,
+    "longitude": 78.7843142,
+    "place_id": "ChIJKQqDOKjnCjkR9lFcfh72hug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQqDOKjnCjkR9lFcfh72hug",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:03:16"
+  }
+]

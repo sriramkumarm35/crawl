@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanchand Kirana Merchant",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "244303",
+    "phone_number": "+91 93688 00760",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sambhal - Bahjoi Rd, opp. of Gurudwara Railway, Bahjoi, Uttar Pradesh 244410",
+    "area": "244303",
+    "latitude": 28.3980103,
+    "longitude": 78.626311,
+    "place_id": "ChIJpSeGgTInCzkR6diq1l6UG-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSeGgTInCzkR6diq1l6UG-U",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:16"
+  },
+  {
+    "business_name": "freshinthebox",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Grocery delivery service",
+    "pincode": "244303",
+    "phone_number": "+91 83280 08993",
+    "website": "http://freshinthebox.in/",
+    "rating": 4.8,
+    "reviews_count": 76,
+    "address": "Chhabra Farms, beside jb cricket ground, Hyderabad, Telangana 501510",
+    "area": "244303",
+    "latitude": 17.2792414,
+    "longitude": 78.5929396,
+    "place_id": "ChIJvTOdnDahyzsRQB-HorwWlmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTOdnDahyzsRQB-HorwWlmM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:53:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Wellness Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Pilates studio, Gym",
+    "pincode": "244504",
+    "phone_number": "+91 89388 93820",
+    "website": "https://www.elitewellnessstudio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First floor, C-02, High Street, MDA Colony, Moradabad, Uttar Pradesh 244105",
+    "area": "MDA Colony",
+    "latitude": 28.876855199999998,
+    "longitude": 78.7573134,
+    "place_id": "ChIJXz2T0Jb5CjkRoGbQoOYDJWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXz2T0Jb5CjkRoGbQoOYDJWc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:39"
+  },
+  {
+    "business_name": "Pilates & Fitness",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Pilates studio, Pregnancy care center",
+    "pincode": "244504",
+    "phone_number": "+91 97188 88893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prabhat Plaza, HC-48, Ram Ganga Vihar Phase 2, Moradabad, Uttar Pradesh 244105",
+    "area": "Ram Ganga Vihar Phase 2",
+    "latitude": 28.8715428,
+    "longitude": 78.7550404,
+    "place_id": "ChIJE8GCHGH5CjkR3lQiTh_UkHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8GCHGH5CjkR3lQiTh_UkHg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:12:39"
+  }
+]

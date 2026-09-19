@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brand Saloon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "244414",
+    "phone_number": "+91 87918 86051",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Brand Saloon, Sileta, Moradabad, Orangapur Sileta, Uttar Pradesh 244414",
+    "area": "Sileta",
+    "latitude": 28.5107522,
+    "longitude": 78.66894889999999,
+    "place_id": "ChIJGwXj3sTfCjkRqkkbdZCrxpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwXj3sTfCjkRqkkbdZCrxpU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:07:50"
+  },
+  {
+    "business_name": "Phc mohammadpur tanda",
+    "search_category": "Salon",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "244414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GMX8+CW4, Mohammadpur Tanda, Uttar Pradesh 244414",
+    "area": "244414",
+    "latitude": 28.548512799999997,
+    "longitude": 78.6673132,
+    "place_id": "ChIJEandKQDfCjkRLHgBZgpYmaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEandKQDfCjkRLHgBZgpYmaY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:07:50"
+  }
+]

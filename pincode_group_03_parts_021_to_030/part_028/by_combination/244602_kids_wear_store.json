@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khwaja Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Men's clothing store",
+    "pincode": "244602",
+    "phone_number": "+91 85339 26041",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khwaja Garments, Main Market, Jaspur, Uttarakhand 244712",
+    "area": "244602",
+    "latitude": 29.2808958,
+    "longitude": 78.8287709,
+    "place_id": "ChIJ5x2waMNJCjkRt5pggfXzy8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5x2waMNJCjkRt5pggfXzy8g",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:15:56"
+  },
+  {
+    "business_name": "Farhan Fashion Point",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "244602",
+    "phone_number": "+91 99170 71182",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Near, Main Markit, Sahaspur, Uttar Pradesh 246745",
+    "area": "244602",
+    "latitude": 29.1189318,
+    "longitude": 78.6230276,
+    "place_id": "ChIJ37hAv-yzCzkR0EhgV9o7Ejs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37hAv-yzCzkR0EhgV9o7Ejs",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:15:58"
+  }
+]

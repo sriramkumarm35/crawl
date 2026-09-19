@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavya Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Youth clothing store",
+    "pincode": "244501",
+    "phone_number": "+91 80779 16754",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Single Story, C 202, Kashiram Nagar, Moradabad, Uttar Pradesh 244103",
+    "area": "Kashiram Nagar",
+    "latitude": 28.852921199999997,
+    "longitude": 78.73640879999999,
+    "place_id": "ChIJGey4DKj-CjkRFHaCTwLJWnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGey4DKj-CjkRFHaCTwLJWnU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:10:43"
+  },
+  {
+    "business_name": "Allen Solly Kanth Road Moradabad",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Jeans shop, Designer Clothing Store, Clothing Accessories Store, Formal Clothing Store, Men's clothing store, T-shirt store, Tuxedo shop, Youth clothing store",
+    "pincode": "244501",
+    "phone_number": "+91 84005 58736",
+    "website": "https://allensolly.abfrl.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ground Floor, Narang Tower, Himgiri Colony Rd, opp. Kisna Jewellery, Ram Ganga Vihar Phase 1, Moradabad, Uttar Pradesh 244105",
+    "area": "Ram Ganga Vihar Phase 1",
+    "latitude": 28.869913699999998,
+    "longitude": 78.745997,
+    "place_id": "ChIJB_-iNgD_CjkR-WcN79XGGqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_-iNgD_CjkR-WcN79XGGqU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:10:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Ads Wala",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "244602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Seohara - Thakurdwara Rd, Surjan Nagar, Uttar Pradesh 244602",
+    "area": "244602",
+    "latitude": 29.2321395,
+    "longitude": 78.70506619999999,
+    "place_id": "ChIJgfSYRqlLCjkRLJM-e2QoZMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfSYRqlLCjkRLJM-e2QoZMA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:17:14"
+  },
+  {
+    "business_name": "Nebulax Media",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "244602",
+    "phone_number": "N/A",
+    "website": "http://nebulax-media.odoo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "thakurdwara, Dilari, Payandapur, Uttar Pradesh 244602",
+    "area": "thakurdwara",
+    "latitude": 29.1272034,
+    "longitude": 78.7152656,
+    "place_id": "ChIJPYKVQOpNCjkRUS9_FD91rDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYKVQOpNCjkRUS9_FD91rDA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:17:14"
+  }
+]

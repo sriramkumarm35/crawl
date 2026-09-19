@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moonga Traders",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "244413",
+    "phone_number": "+91 84450 17244",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sirsi - Bilari Rd, Tanda Amarpur, Uttar Pradesh 244411",
+    "area": "244413",
+    "latitude": 28.6301292,
+    "longitude": 78.7687507,
+    "place_id": "ChIJgy4wCHHnCjkRK-8Losa2MNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgy4wCHHnCjkRK-8Losa2MNM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:05:30"
+  },
+  {
+    "business_name": "Bansal Abhushan Bhandar",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "244413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mandi Chowk, Bartan Bazaar, Moradabad, Uttar Pradesh 244001",
+    "area": "Mandi Chowk, Bartan Bazaar",
+    "latitude": 28.8356852,
+    "longitude": 78.78086019999999,
+    "place_id": "ChIJEWM4vG37CjkRc2322KSaTG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWM4vG37CjkRc2322KSaTG4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:05:32"
+  }
+]

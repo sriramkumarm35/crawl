@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit india wellness center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "244602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "City Centre Mkt Rd, Sahaspur, Uttar Pradesh 246745",
+    "area": "244602",
+    "latitude": 29.1228019,
+    "longitude": 78.6167486,
+    "place_id": "ChIJP72GTgCzCzkRxZenHuEOaqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP72GTgCzCzkRxZenHuEOaqk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:11"
+  },
+  {
+    "business_name": "Titan fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "244602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Unnamed Road, Rajpur, Uttarakhand 244717",
+    "area": "244602",
+    "latitude": 29.2827132,
+    "longitude": 78.7683842,
+    "place_id": "ChIJlaQRbG9JCjkRBqvdBdQKhEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaQRbG9JCjkRBqvdBdQKhEU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:16:11"
+  }
+]

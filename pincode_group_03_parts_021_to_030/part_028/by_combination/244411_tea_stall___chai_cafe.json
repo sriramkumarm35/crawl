@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "उपसरपंच Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "244411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "H257+MXH, Shahabad, Kakrouwa, Uttar Pradesh 244922",
+    "area": "244411",
+    "latitude": 28.5591923,
+    "longitude": 79.0149869,
+    "place_id": "ChIJpRv8TADBCjkRJUN-ZRdy6Bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRv8TADBCjkRJUN-ZRdy6Bo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:56"
+  },
+  {
+    "business_name": "Dhoni Ki Chai (Cafe & Restaurant)",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "244411",
+    "phone_number": "+91 95484 52864",
+    "website": "https://dhonikichai.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No 8, Padhan Market, Bareilly, Sirauli, Uttar Pradesh 243303",
+    "area": "244411",
+    "latitude": 28.490893999999997,
+    "longitude": 79.08997939999999,
+    "place_id": "ChIJr3m0E065CjkR-s_sDEo5JXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3m0E065CjkR-s_sDEo5JXM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:01:56"
+  }
+]

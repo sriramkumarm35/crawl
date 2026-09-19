@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Balaji Medical Store",
+    "search_category": "Polyclinic",
+    "primary_category": "Oriental medicine store",
+    "all_categories": "Oriental medicine store",
+    "pincode": "244412",
+    "phone_number": "+91 84303 18124",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "RQ8C+5WX, Jaintipur Rd, Chandausi, Shiv Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Chandausi, Shiv Nagar",
+    "latitude": 28.8154905,
+    "longitude": 78.7723726,
+    "place_id": "ChIJx5feWx77CjkRHospC6-evzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5feWx77CjkRHospC6-evzY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:04:01"
+  },
+  {
+    "business_name": "Divyanshi health care centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pac Khushalpur Rd, opp. ANNAPURNA MANDIR, near USHA TOWER, Bank Colony, Khushhalpur, Moradabad, Uttar Pradesh 244103",
+    "area": "Bank Colony, Khushhalpur",
+    "latitude": 28.8458264,
+    "longitude": 78.7377451,
+    "place_id": "ChIJyw2rJGr9CjkRxpzQQ5d3OMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyw2rJGr9CjkRxpzQQ5d3OMw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:04:01"
+  }
+]

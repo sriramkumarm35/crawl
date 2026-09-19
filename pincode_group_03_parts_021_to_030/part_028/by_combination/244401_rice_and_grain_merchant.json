@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aggarwal Udyog",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "244401",
+    "phone_number": "+91 82799 95320",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RPWV+QGW, Bazar Gani, Moradabad, Uttar Pradesh 244103",
+    "area": "Bazar Gani",
+    "latitude": 28.846986299999998,
+    "longitude": 78.7438392,
+    "place_id": "ChIJXSERMQH8CjkREQ8Fh5TS4zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSERMQH8CjkREQ8Fh5TS4zE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:41"
+  },
+  {
+    "business_name": "Dilari, Uttar Pradesh 244401",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "244401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dilari, Uttar Pradesh",
+    "area": "244401",
+    "latitude": 29.061305899999997,
+    "longitude": 78.77028949999999,
+    "place_id": "ChIJsxJoQs9TCjkRF__plx1R2W4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxJoQs9TCjkRF__plx1R2W4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 08:56:43"
+  }
+]
