@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "241204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4G54+3C7, Sandila, Bhitauly, Uttar Pradesh 241204",
+    "area": "241204",
+    "latitude": 27.1076564,
+    "longitude": 80.5060621,
+    "place_id": "ChIJIX8pKwC9njkRLN9y9Dkzu-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIX8pKwC9njkRLN9y9Dkzu-U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:09"
+  },
+  {
+    "business_name": "S D Hospital",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "241204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raison Chauraha, Lucknow - Hardoi - Shahjahanpur Rd, Tiloiya, Sandila, Makhadum Pura, Uttar Pradesh 241204",
+    "area": "Tiloiya",
+    "latitude": 27.060841,
+    "longitude": 80.51152909999999,
+    "place_id": "ChIJxUiYXI6XnjkRYGAHcBXdZgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUiYXI6XnjkRYGAHcBXdZgw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:10"
+  }
+]

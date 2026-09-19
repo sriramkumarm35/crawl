@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.M. Glass Company",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Furniture store, Interior Decorator, Interior designer",
+    "pincode": "241302",
+    "phone_number": "+91 98150 27433",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "362, Industrial Area Phase II, Chandigarh, 160002",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.698017699999998,
+    "longitude": 76.78462499999999,
+    "place_id": "ChIJ56bbs_TsDzkRfRIsrBA23VM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56bbs_TsDzkRfRIsrBA23VM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:09:46"
+  },
+  {
+    "business_name": "Perfect Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "241302",
+    "phone_number": "+91 94173 81815",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jalalabad Rd, Near payal Cinema, Subash Nagar, Sri Muktsar Sahib, Punjab 152026",
+    "area": "Near payal Cinema, Subash Nagar",
+    "latitude": 30.4794843,
+    "longitude": 74.5064007,
+    "place_id": "ChIJgZc8gjVvFzkRzQlKcvp4plI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZc8gjVvFzkRzQlKcvp4plI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:09:47"
+  }
+]

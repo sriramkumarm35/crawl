@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eye Mitra",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "241402",
+    "phone_number": "+91 77058 71294",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Satyam Eye Mitra, near Railway Station, Kamalganj, Uttar Pradesh 209724",
+    "area": "241402",
+    "latitude": 27.259584399999998,
+    "longitude": 79.6293762,
+    "place_id": "ChIJp6Ck3XU7njkRmbbgxPNJclM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6Ck3XU7njkRmbbgxPNJclM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:17:53"
+  },
+  {
+    "business_name": "Mirza Opticals Pipal Chauraha",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "241402",
+    "phone_number": "+91 82993 69815",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "Mewati Pura, Brahmnipura, Bahraich, Uttar Pradesh 271801",
+    "area": "Mewati Pura, Brahmnipura",
+    "latitude": 27.5729422,
+    "longitude": 81.5911678,
+    "place_id": "ChIJLfNafvCpmTkR6DLvuu_nZwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfNafvCpmTkR6DLvuu_nZwI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:17:54"
+  }
+]

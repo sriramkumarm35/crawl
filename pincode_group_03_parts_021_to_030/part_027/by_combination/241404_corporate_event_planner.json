@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hardoi Event planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "241404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "94MF+75X, Bilgram - Hardoi Rd, Hardoi, Uttar Pradesh 241001",
+    "area": "241404",
+    "latitude": 27.383247899999997,
+    "longitude": 80.1229932,
+    "place_id": "ChIJnd1NPQD3njkRuHPkmMVDTSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnd1NPQD3njkRuHPkmMVDTSU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:53"
+  },
+  {
+    "business_name": "Hardoi Event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "241404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "833W+4PH, Bilgram - Hardoi Rd, Hardoi, Joora, Uttar Pradesh 241001",
+    "area": "241404",
+    "latitude": 27.313122099999998,
+    "longitude": 80.1029478,
+    "place_id": "ChIJ9Sx4FwD3njkRaEbDliuY2vY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Sx4FwD3njkRaEbDliuY2vY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:55"
+  }
+]

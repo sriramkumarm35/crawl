@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushi Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store, Women's clothing store",
+    "pincode": "241404",
+    "phone_number": "+91 70802 90890",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 6 Qayum Market Under PC Jeweller, Hardoi, Uttar Pradesh 241001",
+    "area": "241404",
+    "latitude": 27.394151899999997,
+    "longitude": 80.1294041,
+    "place_id": "ChIJTTkiifn5njkRWzc53OXsfEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTkiifn5njkRWzc53OXsfEw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:04"
+  },
+  {
+    "business_name": "The trending zone",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "241404",
+    "phone_number": "+91 63962 98950",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near Mahindra showroom circular road, Lucknow Rd, chungi, Hardoi, Uttar Pradesh 241001",
+    "area": "chungi",
+    "latitude": 27.3872148,
+    "longitude": 80.1338809,
+    "place_id": "ChIJ0RSsaAD5njkR_-d9e0QzNi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RSsaAD5njkR_-d9e0QzNi0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:04"
+  }
+]

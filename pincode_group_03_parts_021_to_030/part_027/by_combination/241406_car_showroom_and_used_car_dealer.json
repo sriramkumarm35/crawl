@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "241406",
+    "phone_number": "+91 22 2568 9090",
+    "website": "http://arihantcars.com/",
+    "rating": 4.8,
+    "reviews_count": 4283,
+    "address": "Sai Dham, P. K. Road, near ST. Mary school, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Asha Nagar, Mulund West",
+    "latitude": 19.1669259,
+    "longitude": 72.944212,
+    "place_id": "ChIJC6bFxVi45zsRYQggP4olN3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6bFxVi45zsRYQggP4olN3I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:47"
+  },
+  {
+    "business_name": "Rajaram Auto Sales - Hero MotoCorp",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Motorcycle parts store, Two Wheeler Repair Shop, Motorcycle shop",
+    "pincode": "241406",
+    "phone_number": "+91 95598 16980",
+    "website": "https://dealers.heromotocorp.com/hero-motocorp/dealer-in-lakhimpur/dealer-in-Uchauliya/rajaram-auto-sales-hero-motocorp-in-Uchauliya-lakhimpur--7cdds9/home",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ground Floor NH 24, Sitapur Road, Uchauliya, opposite Allahabad UP Gramin Bank, Lakhimpur, Uttar Pradesh 242306",
+    "area": "241406",
+    "latitude": 27.8042017,
+    "longitude": 80.06818179999999,
+    "place_id": "ChIJi92fecennzkRbrpKN_K-mJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi92fecennzkRbrpKN_K-mJE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:48"
+  }
+]

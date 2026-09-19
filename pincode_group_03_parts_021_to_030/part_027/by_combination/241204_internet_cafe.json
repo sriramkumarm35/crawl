@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virat Web Point",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "241204",
+    "phone_number": "+91 89588 57997",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nizampur, Patara, Uttar Pradesh 205268",
+    "area": "Nizampur",
+    "latitude": 27.075287099999997,
+    "longitude": 79.07519769999999,
+    "place_id": "ChIJ0f5DO2TrdTkRl83yw5btnD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0f5DO2TrdTkRl83yw5btnD8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:50"
+  },
+  {
+    "business_name": "Netzone Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Computer support and services",
+    "pincode": "241204",
+    "phone_number": "+91 93199 81586",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Tapdiya Mill Rd, Kharagjeet Nagar, Awadh Nagar, Devpura Dehat, Mainpuri, Uttar Pradesh 205001",
+    "area": "Kharagjeet Nagar, Awadh Nagar",
+    "latitude": 27.2218746,
+    "longitude": 79.03692199999999,
+    "place_id": "ChIJbQDX6A-WdTkRCDLgJA5Gi_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQDX6A-WdTkRCDLgJA5Gi_M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:51"
+  }
+]

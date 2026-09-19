@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naushad Tea Stole",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "242303",
+    "phone_number": "+91 80907 61527",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "03 Railway Station, near Nuree Masjid, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Ramnagar Colony",
+    "latitude": 27.8936021,
+    "longitude": 79.9065358,
+    "place_id": "ChIJBUPWIQ69nzkRRsRNGq5V8BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUPWIQ69nzkRRsRNGq5V8BU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:43:07"
+  },
+  {
+    "business_name": "चाय वाला tea shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Smart shop",
+    "all_categories": "Smart shop",
+    "pincode": "242303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Roza Jn, Railway Hospital Colony, Rly. Settlement Roza, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "Railway Hospital Colony",
+    "latitude": 27.8528482,
+    "longitude": 79.9549837,
+    "place_id": "ChIJTXyFtu-jnzkR8uLAVz3FUH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXyFtu-jnzkR8uLAVz3FUH4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:43:07"
+  }
+]

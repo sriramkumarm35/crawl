@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sports Field",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Athletic field",
+    "all_categories": "Athletic field",
+    "pincode": "242303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Uttar Pradesh 243004",
+    "area": "242303",
+    "latitude": 28.2380519,
+    "longitude": 79.4413801,
+    "place_id": "ChIJAQAAbxP_nzkRLwYcfSrX4Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAbxP_nzkRLwYcfSrX4Gg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:06"
+  },
+  {
+    "business_name": "Cricket Play Ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "242303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "5VMC+C53, Chaniura, Uttar Pradesh 242407",
+    "area": "242303",
+    "latitude": 28.1835091,
+    "longitude": 79.8704097,
+    "place_id": "ChIJHcoR896OnzkRFa3uikCJVIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcoR896OnzkRFa3uikCJVIA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:07"
+  }
+]

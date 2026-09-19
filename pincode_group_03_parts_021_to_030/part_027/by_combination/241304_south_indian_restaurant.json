@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anna South Indian dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "241304",
+    "phone_number": "+91 63947 04173",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "Anna South, Sitapur, Uttar Pradesh 261001",
+    "area": "Vijay Laxmi Nagar",
+    "latitude": 27.567311699999998,
+    "longitude": 80.6806995,
+    "place_id": "ChIJqYGqSqXXnjkRTWWaYdmYFWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYGqSqXXnjkRTWWaYdmYFWg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:38"
+  },
+  {
+    "business_name": "Naimisharany Andhra Bhavan నైమిశారణ్యం ఆంధ్ర భవన్",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Ashram, Dharamshala, Guest house, South Indian restaurant",
+    "pincode": "241304",
+    "phone_number": "+91 99357 92067",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Naimisharanya, saini guest house, Atva, Misrikh-cum-Neemsar, Uttar Pradesh 261402",
+    "area": "241304",
+    "latitude": 27.3530479,
+    "longitude": 80.4879593,
+    "place_id": "ChIJwZYV9hvdnjkRI_ZUwoa1xZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZYV9hvdnjkRI_ZUwoa1xZw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:40"
+  }
+]

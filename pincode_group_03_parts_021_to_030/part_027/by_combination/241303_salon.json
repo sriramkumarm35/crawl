@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandini makeovers",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "241303",
+    "phone_number": "+91 87659 11372",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kamlesh wali, Dr, gali bara chauraha, Mallawan, Uttar Pradesh 241303",
+    "area": "241303",
+    "latitude": 27.0339715,
+    "longitude": 80.1596041,
+    "place_id": "ChIJ29dqZW2JnjkRzr3ARdzvays",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29dqZW2JnjkRzr3ARdzvays",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:35"
+  },
+  {
+    "business_name": "Dream 's Beauty salon araul makanpur road",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "241303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "W2C7+9XC, Araul, Keshwapur, Uttar Pradesh 209202",
+    "area": "241303",
+    "latitude": 26.920937499999997,
+    "longitude": 80.0148906,
+    "place_id": "ChIJ191ZXn99njkRbuP3GDS5bKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ191ZXn99njkRbuP3GDS5bKE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:37"
+  }
+]

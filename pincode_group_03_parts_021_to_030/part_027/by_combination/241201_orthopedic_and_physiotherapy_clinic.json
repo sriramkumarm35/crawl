@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor physio clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "241201",
+    "phone_number": "+91 90248 91243",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "shop no.2, Mansi complex, Kheda Savina Rd, near Mahavir towar, Sector 14, Savina, Udaipur, Rajasthan 313001",
+    "area": "Sector 14, Savina",
+    "latitude": 24.5466353,
+    "longitude": 73.70207409999999,
+    "place_id": "ChIJ_UUKTCXvZzkRangmx1mG3i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UUKTCXvZzkRangmx1mG3i4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:01:02"
+  },
+  {
+    "business_name": "Jay Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "241201",
+    "phone_number": "+91 94240 36604",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 50,
+    "address": "Toll kanta, station road, Jawad, Madhya Pradesh 458330",
+    "area": "241201",
+    "latitude": 24.596677,
+    "longitude": 74.8597964,
+    "place_id": "ChIJCdb_WtQNZjkRjZYGSH7P2l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdb_WtQNZjkRjZYGSH7P2l4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:01:02"
+  }
+]

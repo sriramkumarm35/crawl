@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dayal Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242221",
+    "phone_number": "+91 93355 20626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MOD, Mandi Rd, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "New Colony, Kuchha Kathara",
+    "latitude": 27.8669498,
+    "longitude": 79.91040699999999,
+    "place_id": "ChIJE8ZuBM-8nzkRJKDdZfW_Ryc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8ZuBM-8nzkRJKDdZfW_Ryc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:18"
+  },
+  {
+    "business_name": "Kushwaha Readymade Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242221",
+    "phone_number": "+91 87077 49531",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "03, Main Market Bahariya Road, Mirzapur, Uttar Pradesh 242221",
+    "area": "242221",
+    "latitude": 27.6743438,
+    "longitude": 79.54471339999999,
+    "place_id": "ChIJXSjPWoHRnzkR5uTG6P_jC9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSjPWoHRnzkR5uTG6P_jC9I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:18"
+  }
+]

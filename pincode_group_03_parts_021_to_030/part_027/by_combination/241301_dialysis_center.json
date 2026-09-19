@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, Kannauj",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "241301",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "2W7R+PH2 Dialysis Unit, District Hospital, Sanyukt jila chikitsalya, GT Rd, Kannauj, Uttar Pradesh 209727",
+    "area": "241301",
+    "latitude": 27.0151979,
+    "longitude": 79.9416045,
+    "place_id": "ChIJD3itp1VlnjkRrDV8PCAR_18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3itp1VlnjkRrDV8PCAR_18",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:47"
+  },
+  {
+    "business_name": "SS Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "241301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "94VJ+2XC, Cinema Rd, Hardoi, Uttar Pradesh 241001",
+    "area": "241301",
+    "latitude": 27.392557399999998,
+    "longitude": 80.1323981,
+    "place_id": "ChIJVxZuWAD5njkRiFVqJ5tQ1a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxZuWAD5njkRiFVqJ5tQ1a8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:48"
+  }
+]

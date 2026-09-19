@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manpreet bindra",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "241404",
+    "phone_number": "+91 91611 44341",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bindra Transportation meera, takij road, Pragati Nagar, Hardoi, Aneg Behta, Uttar Pradesh 241001",
+    "area": "Pragati Nagar",
+    "latitude": 27.402079399999998,
+    "longitude": 80.1397726,
+    "place_id": "ChIJ2ejj81_5njkReq1ysoYXqmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ejj81_5njkReq1ysoYXqmY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:28"
+  },
+  {
+    "business_name": "Ecom Express",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "241404",
+    "phone_number": "+91 83768 88888",
+    "website": "https://ecomexpress.in/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "94HM+PPV, Dhannupurwa, Industrial Area, near primary school, Uttar Pradesh 241001",
+    "area": "Industrial Area",
+    "latitude": 27.3793534,
+    "longitude": 80.1343066,
+    "place_id": "ChIJfe4frm_3njkRVTIsG-pmQzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfe4frm_3njkRVTIsG-pmQzE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:28"
+  }
+]

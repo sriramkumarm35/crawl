@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "241402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Jamapur chauraha, Uttar Pradesh 209621",
+    "area": "241402",
+    "latitude": 27.435786399999998,
+    "longitude": 79.6838874,
+    "place_id": "ChIJoyu6O8A3njkRjYvAtI4miJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyu6O8A3njkRjYvAtI4miJw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:17:53"
+  },
+  {
+    "business_name": "Sahil Trevels",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "241402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "8RCQ+CXW, Harpalpur, Uttar Pradesh 241402",
+    "area": "241402",
+    "latitude": 27.32112,
+    "longitude": 79.8399647,
+    "place_id": "ChIJfwGi16lFnjkR05JW10Y8Tgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwGi16lFnjkR05JW10Y8Tgc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:17:54"
+  }
+]

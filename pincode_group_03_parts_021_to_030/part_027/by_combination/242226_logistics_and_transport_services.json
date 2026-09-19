@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Highway Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "242226",
+    "phone_number": "+91 94153 26797",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "NH 30, Shahjahanpur, Rly. Settlement Roza, Uttar Pradesh 242406",
+    "area": "242226",
+    "latitude": 27.8541724,
+    "longitude": 79.9448718,
+    "place_id": "ChIJhxZ0c2mjnzkRZOt59fzPn9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxZ0c2mjnzkRZOt59fzPn9Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:10"
+  },
+  {
+    "business_name": "Care-Taker Road Lines",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "242226",
+    "phone_number": "+91 94150 35225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VW3Q+FQ6, Shahjahanpur, Ahmadpur Niwazpur, Uttar Pradesh 242406",
+    "area": "242226",
+    "latitude": 27.8536717,
+    "longitude": 79.9393757,
+    "place_id": "ChIJcU9INkKjnzkRSDcg66idiQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcU9INkKjnzkRSDcg66idiQg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:12"
+  }
+]

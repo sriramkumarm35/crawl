@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "241407",
+    "phone_number": "+91 95591 80188",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Jahani Khera NH 30, Uttar Pradesh 241407",
+    "area": "241407",
+    "latitude": 27.7464579,
+    "longitude": 80.24420529999999,
+    "place_id": "ChIJEyAtLwUFnzkRg-m9UM4j2dU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyAtLwUFnzkRg-m9UM4j2dU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:06"
+  },
+  {
+    "business_name": "SUNDAR MISTHAN BHANDAR",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Indian sweets shop",
+    "pincode": "241407",
+    "phone_number": "+91 84001 10751",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Ji Ti, Ji Ti Rod Maigalganj Maholi Sitapur, Rod, Maigalganj, Maholi, Uttar Pradesh 261505",
+    "area": "241407",
+    "latitude": 27.716908399999998,
+    "longitude": 80.3432978,
+    "place_id": "ChIJo1d65rcbnzkRy8UKe90YSvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1d65rcbnzkRy8UKe90YSvU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Corporation Bank",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM",
+    "pincode": "242226",
+    "phone_number": "+91 1800 425 3555",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "VWQ9+275, Seth Enclave, Opp. PWD Guest House, Near Court, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Cantt Area, Sadar Bazar",
+    "latitude": 27.887524799999998,
+    "longitude": 79.9182431,
+    "place_id": "ChIJITZiQyu9nzkR_952ICWbV1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITZiQyu9nzkR_952ICWbV1M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:50"
+  },
+  {
+    "business_name": "Himanshu Finance",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "242226",
+    "phone_number": "+91 91407 90433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25 Mohalla, Katia Tola Rd, near Nishat Talkis, Sadar Bazar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Sadar Bazar",
+    "latitude": 27.8860611,
+    "longitude": 79.91088839999999,
+    "place_id": "ChIJpYAcpB69nzkRXwF2NIh_oko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYAcpB69nzkRXwF2NIh_oko",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:53"
+  }
+]

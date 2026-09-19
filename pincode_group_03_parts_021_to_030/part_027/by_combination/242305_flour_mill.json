@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharmendra and son's flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "242305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4PQ2+7QM, Miyuna, Uttar Pradesh 242305",
+    "area": "242305",
+    "latitude": 28.138251699999998,
+    "longitude": 79.7017233,
+    "place_id": "ChIJGzSBuWLznzkRJZPnydhuZaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzSBuWLznzkRJZPnydhuZaQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:41"
+  },
+  {
+    "business_name": "Chanda Miyan Flour Mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "242305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "XP3W+CP9, Kaswa Tilhar, Tilhar, Uttar Pradesh 242307",
+    "area": "Kaswa Tilhar",
+    "latitude": 27.953525799999998,
+    "longitude": 79.7468588,
+    "place_id": "ChIJDeaBEoiVnzkRDhgDPO92_UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeaBEoiVnzkRDhgDPO92_UE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:43"
+  }
+]

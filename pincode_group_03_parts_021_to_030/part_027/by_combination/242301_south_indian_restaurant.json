@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suhani Dosa Point",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "242301",
+    "phone_number": "+91 89794 98310",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatehganj Purvi, Uttar Pradesh 243506",
+    "area": "242301",
+    "latitude": 28.0814459,
+    "longitude": 79.6305048,
+    "place_id": "ChIJDdNYFADvnzkRpyITCli42cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdNYFADvnzkRpyITCli42cg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:41:24"
+  },
+  {
+    "business_name": "Shri Vaishno Shudh Bhojnalaya",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant",
+    "pincode": "242301",
+    "phone_number": "+91 84459 24366",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 160,
+    "address": "Fatehganj Purbi, Shahjahanpur NH-24, Bareilly, Shahjahanpur Road, Faridpur, Uttar Pradesh 243506",
+    "area": "242301",
+    "latitude": 28.0746574,
+    "longitude": 79.6345901,
+    "place_id": "ChIJF8af6RPunzkRb-G8xjBAEdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8af6RPunzkRb-G8xjBAEdo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:41:24"
+  }
+]

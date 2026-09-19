@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "متعم عذيذ Aziz Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "241406",
+    "phone_number": "+91 99194 01315",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Hardoi Rd, Pihani, Pihani Dehat, Uttar Pradesh 241406",
+    "area": "241406",
+    "latitude": 27.6253858,
+    "longitude": 80.1981546,
+    "place_id": "ChIJJRqyo9IDnzkRtFvCUQmNMO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRqyo9IDnzkRtFvCUQmNMO0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:14"
+  },
+  {
+    "business_name": "Kudrail",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "241406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H3CX+67M, Peera Mahua, Uttar Pradesh 241125",
+    "area": "241406",
+    "latitude": 27.570588599999997,
+    "longitude": 80.0981869,
+    "place_id": "ChIJgyj0HQCrnzkRs77omHeSyRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyj0HQCrnzkRs77omHeSyRE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:16"
+  }
+]

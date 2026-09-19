@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khaira Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "242042",
+    "phone_number": "+91 95199 75189",
+    "website": "http://m.khairatravels.in/",
+    "rating": 3.5,
+    "reviews_count": 25,
+    "address": "Puranpur Rd, tikuniys, Khutar, Narainpur Vikrampur, Uttar Pradesh 242405",
+    "area": "tikuniys",
+    "latitude": 28.2048633,
+    "longitude": 80.2685296,
+    "place_id": "ChIJP1Sqmr97nzkRIsvRK5FchcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1Sqmr97nzkRIsvRK5FchcA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:31:39"
+  },
+  {
+    "business_name": "Railway reservation",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent",
+    "pincode": "242042",
+    "phone_number": "+91 94506 00175",
+    "website": "http://www.indianrail.gov.in/",
+    "rating": 3.8,
+    "reviews_count": 23,
+    "address": "Powayan, Uttar Pradesh 242401",
+    "area": "242042",
+    "latitude": 28.0683524,
+    "longitude": 80.0915873,
+    "place_id": "ChIJZ-H5TI-dnzkRKDJkuMDfc5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-H5TI-dnzkRKDJkuMDfc5M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:31:40"
+  }
+]

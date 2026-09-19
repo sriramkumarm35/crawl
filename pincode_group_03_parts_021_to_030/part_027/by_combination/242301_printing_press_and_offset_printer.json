@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopal Press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer",
+    "pincode": "242301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2MGC+857, Katra, Uttar Pradesh 242301",
+    "area": "242301",
+    "latitude": 28.025975,
+    "longitude": 79.669811,
+    "place_id": "ChIJnT2cewDtnzkR7DOyMJdbDrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT2cewDtnzkR7DOyMJdbDrQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:42:25"
+  },
+  {
+    "business_name": "Tilhar printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Store",
+    "pincode": "242301",
+    "phone_number": "+91 99112 38075",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "near ITI college, Ummarpur, MOHALLA NAI BASTI, Tilhar, Uttar Pradesh 242307",
+    "area": "Ummarpur, MOHALLA NAI BASTI",
+    "latitude": 27.965407,
+    "longitude": 79.7349571,
+    "place_id": "ChIJnR3hcgDrnzkRuR1bageJcaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnR3hcgDrnzkRuR1bageJcaQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:42:27"
+  }
+]

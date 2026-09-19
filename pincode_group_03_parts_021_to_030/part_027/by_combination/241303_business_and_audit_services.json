@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accountant Ashutosh",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "241303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Uttari Aloo Thok, Subhash Nagar, Hardoi, Uttar Pradesh 241001",
+    "area": "Uttari Aloo Thok, Subhash Nagar",
+    "latitude": 27.3962923,
+    "longitude": 80.1213978,
+    "place_id": "ChIJl69EoO_5njkR7j04UXL52Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl69EoO_5njkR7j04UXL52Us",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:10"
+  },
+  {
+    "business_name": "GSTN AND ACCOUNTING CENTER",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "241303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C43M+26Q, Canal Rd, Asha Nagar, Hardoi, Uttar Pradesh 241001",
+    "area": "Asha Nagar",
+    "latitude": 27.402582499999998,
+    "longitude": 80.13311809999999,
+    "place_id": "ChIJYZL9QZX5njkRYY9JPnJiqAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZL9QZX5njkRYY9JPnJiqAs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:10"
+  }
+]

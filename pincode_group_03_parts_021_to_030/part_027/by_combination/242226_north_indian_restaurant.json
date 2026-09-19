@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New City Dhawa",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "242226",
+    "phone_number": "+91 89539 80519",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "VV2P+W49, Near UCO Bank Bareilly More Marha, Uttar Pradesh 242226",
+    "area": "242226",
+    "latitude": 27.8522827,
+    "longitude": 79.8853479,
+    "place_id": "ChIJKR109I28nzkRwSL1OmuM6hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKR109I28nzkRwSL1OmuM6hs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:40"
+  },
+  {
+    "business_name": "Rahman Chicken Corner",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "242226",
+    "phone_number": "+91 96517 10528",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "04, Near, Anta Choraha, Brij Vihar Colony, Krishna Nagar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Brij Vihar Colony, Krishna Nagar",
+    "latitude": 27.875454599999998,
+    "longitude": 79.9148024,
+    "place_id": "ChIJ05zg0gK9nzkR-sVk8yCv1EE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05zg0gK9nzkR-sVk8yCv1EE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:42"
+  }
+]

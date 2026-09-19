@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wasid traders",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "VWC2+5W3, Barkzai, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Barkzai",
+    "latitude": 27.8703793,
+    "longitude": 79.9023101,
+    "place_id": "ChIJHew_LOq9nzkRM3oymP7OrEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHew_LOq9nzkRM3oymP7OrEM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:02"
+  },
+  {
+    "business_name": "Aditya Hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "242303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "VWP7+HW5, Hafiz Nematkada Govind Ganj Rd, Sadar Bazar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Sadar Bazar",
+    "latitude": 27.8863816,
+    "longitude": 79.91486359999999,
+    "place_id": "ChIJYaHvwCu9nzkRwCNF77l2zjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaHvwCu9nzkRwCNF77l2zjQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:03"
+  }
+]

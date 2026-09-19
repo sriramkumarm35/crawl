@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A S Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "241405",
+    "phone_number": "+91 82329 10912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "67/17, Strand Rd, Jorabagan, Kolkata, West Bengal 700006",
+    "area": "Jorabagan",
+    "latitude": 22.5931061,
+    "longitude": 88.3529392,
+    "place_id": "ChIJNdS59a13AjoR49SGBPcWJLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdS59a13AjoR49SGBPcWJLs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:01"
+  },
+  {
+    "business_name": "BALAJI EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter, Spice store",
+    "pincode": "241405",
+    "phone_number": "+91 99090 02101",
+    "website": "http://balajiexim.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "412- R K EMPIRE 150 FEET RING ROAD, CIRCLE, nr. MAVDI, Rajkot, Gujarat 360004",
+    "area": "Vinayak Nagar",
+    "latitude": 22.2626706,
+    "longitude": 70.7868486,
+    "place_id": "ChIJi9tTpRzKWTkRDFMHsO2In2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9tTpRzKWTkRDFMHsO2In2Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:01"
+  }
+]

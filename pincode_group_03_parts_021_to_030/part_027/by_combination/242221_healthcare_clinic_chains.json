@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shraddha Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "242221",
+    "phone_number": "+91 99563 21543",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW35+87R, Jalal Nager, Bazaria, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Jalal Nager",
+    "latitude": 27.9033713,
+    "longitude": 79.9081334,
+    "place_id": "ChIJzY-6ije9nzkR2ubA4o2QTZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzY-6ije9nzkR2ubA4o2QTZ0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:35"
+  },
+  {
+    "business_name": "Jai Bala Ji Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "242221",
+    "phone_number": "+91 88536 64049",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dodrajpur Tiraha, Tilhar, Uttar Pradesh 242307",
+    "area": "Dodrajpur Tiraha",
+    "latitude": 27.958249499999997,
+    "longitude": 79.75007699999999,
+    "place_id": "ChIJt_LABUmVnzkRP_VBiIcAK-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_LABUmVnzkRP_VBiIcAK-k",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:38"
+  }
+]

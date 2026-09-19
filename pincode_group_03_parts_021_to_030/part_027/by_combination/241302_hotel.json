@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel indian tulip",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "241302",
+    "phone_number": "+91 97216 00993",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Sitapur - Kanpur Rd, opposite Shiva Guest House, near Sunasir Nath Temple Road, Mallawan, Uttar Pradesh 241303",
+    "area": "241302",
+    "latitude": 27.0227062,
+    "longitude": 80.1561042,
+    "place_id": "ChIJibgpPgCJnjkRcn8KAIYIrfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibgpPgCJnjkRcn8KAIYIrfc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:10:03"
+  },
+  {
+    "business_name": "Ganga Jamuna Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "241302",
+    "phone_number": "+91 87650 09674",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Railway Ganj, Avas Vikas Colony, Hardoi, Maholiya Sheopar, Uttar Pradesh 241001",
+    "area": "Railway Ganj, Avas Vikas Colony",
+    "latitude": 27.3983995,
+    "longitude": 80.1444556,
+    "place_id": "ChIJWxi_ldL5njkRjm_IJOxIA1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxi_ldL5njkRjm_IJOxIA1E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:10:04"
+  }
+]

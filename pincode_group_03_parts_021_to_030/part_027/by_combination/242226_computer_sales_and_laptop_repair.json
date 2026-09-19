@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Hub",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "242226",
+    "phone_number": "+91 95808 05073",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "VWC4+89V, Kachcha Katra More, Aligai, Kuchha Kathara, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Kuchha Kathara",
+    "latitude": 27.870858899999998,
+    "longitude": 79.90592509999999,
+    "place_id": "ChIJ-eYLRfC9nzkRox0SOF5P4hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eYLRfC9nzkRox0SOF5P4hQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:46"
+  },
+  {
+    "business_name": "ANNU GRAHAK SEVA KENDRA",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer desk store",
+    "all_categories": "Computer desk store",
+    "pincode": "242226",
+    "phone_number": "+91 89572 63683",
+    "website": "https://annu-grahak-seva-kendra.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "BRAJ VIHAR COLONY, SAMNE VALI GALI, near DR Y K SINGH HOSPITAL KE, ME, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "ME, Brijbihar Madavnagar",
+    "latitude": 27.876651,
+    "longitude": 79.91664209999999,
+    "place_id": "ChIJ__lnjDe9nzkRFonpQDz1Rs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__lnjDe9nzkRFonpQDz1Rs0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pragya Electro Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Homeopathic pharmacy, Medical clinic",
+    "pincode": "241203",
+    "phone_number": "+91 99353 34310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Canal Rd, opp. Ravidas Mandir, Civil Lines, Hardoi, Uttar Pradesh 241001",
+    "area": "Civil Lines",
+    "latitude": 27.4035659,
+    "longitude": 80.1269039,
+    "place_id": "ChIJ8TcB5Tv4njkRpslbKhRpXDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TcB5Tv4njkRpslbKhRpXDo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:04:19"
+  },
+  {
+    "business_name": "Maa Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "241203",
+    "phone_number": "+91 99198 92892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maa Homoeopathic clinic, road, Rajgarh, Uttar Pradesh 231210",
+    "area": "241203",
+    "latitude": 24.8598125,
+    "longitude": 82.8660625,
+    "place_id": "ChIJuVPpN0KtjzkRHR9DzTu3s5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVPpN0KtjzkRHR9DzTu3s5s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:04:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Genral Store",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "242303",
+    "phone_number": "+91 99567 20571",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25, near Prayimari School, Vill, Rausar, Uttar Pradesh 242406",
+    "area": "Vill",
+    "latitude": 27.8310331,
+    "longitude": 79.9117871,
+    "place_id": "ChIJbzElt6i7nzkRi_d-jd1iSbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzElt6i7nzkRi_d-jd1iSbU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:43:04"
+  },
+  {
+    "business_name": "Maa Gange Agro agency",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "242303",
+    "phone_number": "+91 74590 24471",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "06 Kant, opp. Petrol Pump, Shahjahanpur, Uttar Pradesh 242223",
+    "area": "Patti Paschim",
+    "latitude": 27.813139099999997,
+    "longitude": 79.8003665,
+    "place_id": "ChIJf-4dY5q5nzkRbKROhhwDX94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-4dY5q5nzkRbKROhhwDX94",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:43:04"
+  }
+]

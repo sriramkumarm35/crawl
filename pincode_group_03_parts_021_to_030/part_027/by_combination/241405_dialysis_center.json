@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saras Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "241405",
+    "phone_number": "+91 20 2427 0202",
+    "website": "https://www.lionsclubsarasbaug.org/saras-dialysis-center",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "696/698, Maharshi Nagar, Pune, Maharashtra 411037",
+    "area": "Maharshi Nagar",
+    "latitude": 18.4921446,
+    "longitude": 73.86294579999999,
+    "place_id": "ChIJX3e_5BjAwjsRpe4_LFxGIQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3e_5BjAwjsRpe4_LFxGIQ0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:59"
+  },
+  {
+    "business_name": "Dialysis care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "241405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Subodh Sagar medical center,003,B-29, Sector-7,shanti Nagar,opp Axis bank, Maharashtra 401107",
+    "area": "Poonam Complex, Mira Road East",
+    "latitude": 19.2780556,
+    "longitude": 72.8647447,
+    "place_id": "ChIJm7XF_lCx5zsRPsul4qky-_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7XF_lCx5zsRPsul4qky-_g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:59"
+  }
+]

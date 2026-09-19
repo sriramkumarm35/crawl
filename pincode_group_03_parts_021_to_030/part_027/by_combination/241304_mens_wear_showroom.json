@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brother's Fashion Hub",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "241304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "87VJ+MHJ, Ahirori, Uttar Pradesh 241121",
+    "area": "241304",
+    "latitude": 27.3442252,
+    "longitude": 80.2812976,
+    "place_id": "ChIJT_2xRQDvnjkRJbViWIs9ezs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_2xRQDvnjkRJbViWIs9ezs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:43"
+  },
+  {
+    "business_name": "MAHI COLLECTION",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "241304",
+    "phone_number": "+91 73805 04402",
+    "website": "https://chat.whatsapp.com/LUMySgqojtXBkOpMnhKZdW",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Chauraha, Parsauli, Rannupur, Uttar Pradesh 261401",
+    "area": "Chauraha",
+    "latitude": 27.4303112,
+    "longitude": 80.52736349999999,
+    "place_id": "ChIJQdS92CzdnjkRM7dVY1thwkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdS92CzdnjkRM7dVY1thwkY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:45"
+  }
+]

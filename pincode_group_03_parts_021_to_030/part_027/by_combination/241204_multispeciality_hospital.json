@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saravana Surgical Traders",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Medical clinic",
+    "pincode": "241204",
+    "phone_number": "+91 452 438 0090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "208, E Veli St, near East Gate, Kamarajar Salai, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Kamarajar Salai, Madurai Main",
+    "latitude": 9.9198719,
+    "longitude": 78.1251436,
+    "place_id": "ChIJ0RoACpvFADsRHUZ6uy4maBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RoACpvFADsRHUZ6uy4maBI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:05"
+  },
+  {
+    "business_name": "D P Bora Superspeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Dialysis center, Eye care center, Gynecologist, Maternity Centre, Nephrologist, Oncologist, Plastic surgeon, Surgeon, Urologist",
+    "pincode": "241204",
+    "phone_number": "+91 90444 80800",
+    "website": "https://dpborahospital.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "D P Bora Superspeciality Hospital,Brij Ki Rasoi Sitapur Near Brij Ki Rasoi, Mubarakpur Kamalabad, Sitapur Rd, Barhauli, Lucknow, Uttar Pradesh 226021",
+    "area": "Barhauli, Mubarakpur",
+    "latitude": 26.944458599999997,
+    "longitude": 80.9315045,
+    "place_id": "ChIJwZpAAPhXmTkRx52S8-XyPHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZpAAPhXmTkRx52S8-XyPHY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:05"
+  }
+]

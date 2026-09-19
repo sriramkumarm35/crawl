@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan Oil and Flour Mill and Rice Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "241203",
+    "phone_number": "+91 99775 09802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NCL, Ghurital, boundary road, Waidhan, Madhya Pradesh 486886",
+    "area": "Ghurital East",
+    "latitude": 24.0756505,
+    "longitude": 82.63444779999999,
+    "place_id": "ChIJoSWPe1U3jzkRjzZkcnSolr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSWPe1U3jzkRjzZkcnSolr0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:26"
+  },
+  {
+    "business_name": "AR Oil Mill & Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill, Wholesaler",
+    "pincode": "241203",
+    "phone_number": "+91 96008 85389",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "NK Road, 2nd St, Gandhiji Nagar, Postal Colony, Vilar, Tamil Nadu 613006",
+    "area": "Gandhiji Nagar, Postal Colony",
+    "latitude": 10.7518693,
+    "longitude": 79.1476114,
+    "place_id": "ChIJzaPQ1pu5qjsRs9fRxMUHVbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaPQ1pu5qjsRs9fRxMUHVbM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:27"
+  }
+]

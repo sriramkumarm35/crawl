@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Techolic",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance broker",
+    "pincode": "241203",
+    "phone_number": "+91 99642 55000",
+    "website": "https://www.techolic.co.in/",
+    "rating": 5,
+    "reviews_count": 76,
+    "address": "SCO 64-65, Sector 34A, Sector 34, Chandigarh, 160022",
+    "area": "Sector 34A, Sector 34",
+    "latitude": 30.723351599999997,
+    "longitude": 76.76605649999999,
+    "place_id": "ChIJoSa2w9jtDzkRGCWNGq3b7Ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSa2w9jtDzkRGCWNGq3b7Ic",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:15"
+  },
+  {
+    "business_name": "Ganesh Stockinvest Pvt. Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment service",
+    "pincode": "241203",
+    "phone_number": "+91 11 4674 0000",
+    "website": "https://www.ganeshstock.com/",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "122, Vinobha Puri, Vinoba Puri, Block M, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Vinoba Puri, Block M, Lajpat Nagar II, Lajpat Nagar",
+    "latitude": 28.5671927,
+    "longitude": 77.2483747,
+    "place_id": "ChIJMxmayrHjDDkR8LRWhVGBHgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxmayrHjDDkR8LRWhVGBHgA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:16"
+  }
+]

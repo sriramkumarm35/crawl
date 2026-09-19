@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Puja - a Pure Vegetarian Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "241204",
+    "phone_number": "+91 76792 92901",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH2, near shiv shakti dham, Durgapur, West Bengal 713217",
+    "area": "Gopalmath",
+    "latitude": 23.5748441,
+    "longitude": 87.23580199999999,
+    "place_id": "ChIJiQrJPqlt9zkRJeXCnyP1iXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQrJPqlt9zkRJeXCnyP1iXo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:46"
+  },
+  {
+    "business_name": "Sandila, Uttar Pradesh 241204",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "241204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sandila, Uttar Pradesh",
+    "area": "241204",
+    "latitude": 27.064753699999997,
+    "longitude": 80.5216184,
+    "place_id": "ChIJswuZAJ68njkRSzOWx94BiJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswuZAJ68njkRSzOWx94BiJ8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:47"
+  }
+]

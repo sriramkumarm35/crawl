@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Sweet House",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "241405",
+    "phone_number": "+91 94155 64027",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "94PF+V7V, Hardoi - Kannauj Rd, opp. Mother Teresa School, Mominabad, Hardoi, Uttar Pradesh 241001",
+    "area": "Mominabad",
+    "latitude": 27.3872376,
+    "longitude": 80.1231653,
+    "place_id": "ChIJufnFYyD4njkROT8YUIK8ueU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJufnFYyD4njkROT8YUIK8ueU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:36"
+  },
+  {
+    "business_name": "Shri Ram Mishthan Bhandar",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Confectionery store",
+    "pincode": "241405",
+    "phone_number": "+91 90441 39972",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "94VF+3J8, Near PNB Bank, M.G. Marg Road, Bara Chauraha, Uttar Pradesh 241001",
+    "area": "241405",
+    "latitude": 27.392657099999997,
+    "longitude": 80.12407139999999,
+    "place_id": "ChIJfZ722SP4njkRpiZUPr6srCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZ722SP4njkRpiZUPr6srCI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:38"
+  }
+]

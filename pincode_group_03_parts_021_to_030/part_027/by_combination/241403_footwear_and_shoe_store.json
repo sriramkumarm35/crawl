@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "241403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Post Shadiyapur, Bilgram Jrolee Nevada Rod Hanuman Mandir Hardoi, Bhogaitapur, Uttar Pradesh 241403",
+    "area": "241403",
+    "latitude": 27.181467599999998,
+    "longitude": 79.9551668,
+    "place_id": "ChIJPfG50DdnnjkRGdzEWT7_ggU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfG50DdnnjkRGdzEWT7_ggU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:19:29"
+  },
+  {
+    "business_name": "Prince Shoe Centre",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "241403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Indra Park, Nagheta Rd, Chungi, Nawabganj, Sandi, Uttar Pradesh 241403",
+    "area": "Chungi, Nawabganj",
+    "latitude": 27.290231,
+    "longitude": 79.9615369,
+    "place_id": "ChIJeUBHBapbnjkRbdZ-vUSlCpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUBHBapbnjkRbdZ-vUSlCpA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:19:29"
+  }
+]

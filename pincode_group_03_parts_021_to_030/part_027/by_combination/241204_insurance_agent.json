@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "onlinesmart Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Home insurance agency, Insurance agent, Insurance broker, Insurance company, Life insurance agency, Motorcycle insurance agency, Real estate rental agency",
+    "pincode": "241204",
+    "phone_number": "+91 99118 71439",
+    "website": "http://www.onlinesmartinsurance.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Plot no 146, Rohini Sec 21 Rd, Pocket 9, Sector 21, Rohini, New Delhi, Delhi, 110086",
+    "area": "Pocket 9, Sector 21, Rohini",
+    "latitude": 28.713035299999998,
+    "longitude": 77.0696439,
+    "place_id": "ChIJmwQCcZsHDTkRP8XaSvO7PMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwQCcZsHDTkRP8XaSvO7PMM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:54"
+  },
+  {
+    "business_name": "TRUSTEGIC Insurance Broking LLP",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "241204",
+    "phone_number": "+91 522 410 4400",
+    "website": "http://www.trustegicinsurance.com/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "RWXW+H2P, Naval Kishore Rd, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.849154799999997,
+    "longitude": 80.945163,
+    "place_id": "ChIJcdP2k-_9mzkRqucg0kK4DAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdP2k-_9mzkRqucg0kK4DAM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:54"
+  }
+]

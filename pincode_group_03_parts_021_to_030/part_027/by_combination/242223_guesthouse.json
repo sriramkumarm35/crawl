@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Yatri Niwas",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "242223",
+    "phone_number": "+91 97934 50466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VWP8+46J, Opposite Vismin Park, Khirni Bagh, Sadar Bazar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Khirni Bagh, Sadar Bazar",
+    "latitude": 27.8853384,
+    "longitude": 79.9155301,
+    "place_id": "ChIJrywMsyu9nzkRmeYQxT8uWxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrywMsyu9nzkRmeYQxT8uWxg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:49"
+  },
+  {
+    "business_name": "Khatri Atithi Bhawan",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Dharamshala, Inn, Lodge, Home Stay",
+    "pincode": "242223",
+    "phone_number": "+91 99351 59991",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ghuran Talaiya, chowk, Rang Mahla, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Rang Mahla",
+    "latitude": 27.861197899999997,
+    "longitude": 79.9109557,
+    "place_id": "ChIJJTVlUci8nzkR1uXetQG7OIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTVlUci8nzkR1uXetQG7OIM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:52"
+  }
+]

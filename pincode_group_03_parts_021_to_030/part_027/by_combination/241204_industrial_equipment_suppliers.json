@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saxena Electronic",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Electronic parts supplier",
+    "all_categories": "Electronic parts supplier",
+    "pincode": "241204",
+    "phone_number": "+91 99534 63517",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sandila road, near Monu kirna store, Hulashpur mainer, Beniganj, Beniganj Dehat, Uttar Pradesh 241304",
+    "area": "Hulashpur mainer",
+    "latitude": 27.2939914,
+    "longitude": 80.4451687,
+    "place_id": "ChIJtx0MyOrrnjkRVz4kpuqfgc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtx0MyOrrnjkRVz4kpuqfgc8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:07"
+  },
+  {
+    "business_name": "Pathak Enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Diesel engine dealer",
+    "all_categories": "Diesel engine dealer",
+    "pincode": "241204",
+    "phone_number": "+91 94155 62844",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Anand Cinema, Near, Gali ke andar, near Medizone Hospital, Civil Lines, Avas Vikas Colony, Hardoi, Uttar Pradesh 241001",
+    "area": "Civil Lines, Avas Vikas Colony",
+    "latitude": 27.3977325,
+    "longitude": 80.1369855,
+    "place_id": "ChIJOw6NCi74njkRhukkBZ49P3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOw6NCi74njkRhukkBZ49P3g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:09"
+  }
+]

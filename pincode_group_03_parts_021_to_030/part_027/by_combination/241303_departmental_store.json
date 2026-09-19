@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manya Departmental & Cosmetic Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "241303",
+    "phone_number": "+91 63923 07611",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madhupur Road, Gukhru, Gukhroo, Uttar Pradesh 209727",
+    "area": "Gukhru",
+    "latitude": 26.976780599999998,
+    "longitude": 79.94994919999999,
+    "place_id": "ChIJbRYbSjd7njkRAuq3szEnaKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRYbSjd7njkRAuq3szEnaKg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:10:45"
+  },
+  {
+    "business_name": "Reliance Smart Point",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "241303",
+    "phone_number": "N/A",
+    "website": "https://www.relianceretail.com/",
+    "rating": 3.6,
+    "reviews_count": 61,
+    "address": "V6Q7+PWX, Lucknow - Mohan - Hasanganj - Rasulabad Marg, Bangarmau, Mau, Uttar Pradesh 209868",
+    "area": "241303",
+    "latitude": 26.889308699999997,
+    "longitude": 80.2148551,
+    "place_id": "ChIJ3Tm24QODnjkRC5OpaDvj7Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Tm24QODnjkRC5OpaDvj7Zc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:10:46"
+  }
+]

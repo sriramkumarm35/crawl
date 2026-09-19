@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "241407",
+    "phone_number": "+91 79052 54647",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adarsh Footwear, Katra Bazar, Pihani Dehat, Pihani, Uttar Pradesh 241406",
+    "area": "Katra Bazar",
+    "latitude": 27.6226813,
+    "longitude": 80.20302769999999,
+    "place_id": "ChIJoxIXs-4DnzkRPed6iCE5yUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxIXs-4DnzkRPed6iCE5yUY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:12"
+  },
+  {
+    "business_name": "Sofiyan Shoe Center",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "241407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MDR 14C, near Sofiyan Shoe Center, Maigalganj, Uttar Pradesh 261505",
+    "area": "241407",
+    "latitude": 27.7177062,
+    "longitude": 80.3427391,
+    "place_id": "ChIJq6IoRN4bnzkRb0ctD-XNu-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6IoRN4bnzkRb0ctD-XNu-Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:12"
+  }
+]

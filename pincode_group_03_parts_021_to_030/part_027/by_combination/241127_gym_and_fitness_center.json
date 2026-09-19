@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beast The Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Weight loss service",
+    "all_categories": "Weight loss service",
+    "pincode": "241127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "opposite Tehseel Malihabad, Malihabad, Uttar Pradesh 226102",
+    "area": "241127",
+    "latitude": 26.922484599999997,
+    "longitude": 80.7125429,
+    "place_id": "ChIJv9RncjKpnjkRG6BoOMehvBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9RncjKpnjkRG6BoOMehvBk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:59:27"
+  },
+  {
+    "business_name": "Patel brothers gym center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "241127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "36CQ+JXC, Nayagaon, Uttar Pradesh 241303",
+    "area": "241127",
+    "latitude": 27.0715282,
+    "longitude": 80.239842,
+    "place_id": "ChIJGVehTACPnjkRl2Rcph56NrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVehTACPnjkRl2Rcph56NrE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:59:29"
+  }
+]

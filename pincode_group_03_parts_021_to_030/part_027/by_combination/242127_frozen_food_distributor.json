@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Frozen Snacks Store",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Bakery and Cake Shop",
+    "pincode": "242127",
+    "phone_number": "+91 94786 59004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "Shop No 1, Division Number 3, Naulakha Garden Colony, Ludhiana, Punjab 141008",
+    "area": "Naulakha Garden Colony",
+    "latitude": 30.915168299999998,
+    "longitude": 75.8626283,
+    "place_id": "ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:32:48"
+  },
+  {
+    "business_name": "Frostar Foods Private Limited",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "242127",
+    "phone_number": "+91 92582 52752",
+    "website": "https://frostarfoods.com/",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Moradabad - Kashipur Rd, Gopiwala, Thakurdwara, Uttar Pradesh 244601",
+    "area": "242127",
+    "latitude": 29.146004899999998,
+    "longitude": 78.8655782,
+    "place_id": "ChIJIQZ6VNlFCjkRFyBzwmua_J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQZ6VNlFCjkRFyBzwmua_J0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:32:48"
+  }
+]

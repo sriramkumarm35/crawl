@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahekari Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "241404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "94JC+P5H, Hardoi, Uttar Pradesh 241001",
+    "area": "241404",
+    "latitude": 27.3818144,
+    "longitude": 80.12047179999999,
+    "place_id": "ChIJI-3SNov3njkRSb9EcHiaM3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-3SNov3njkRSb9EcHiaM3Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:17"
+  },
+  {
+    "business_name": "Dinesh Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "241404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "949W+7WR, Bahloli, Hardoi, Uttar Pradesh 241001",
+    "area": "Bahloli",
+    "latitude": 27.368248299999998,
+    "longitude": 80.1472659,
+    "place_id": "ChIJR6VVPnn3njkRAsoo5fniAd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6VVPnn3njkRAsoo5fniAd4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikhil general shop",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "242223",
+    "phone_number": "+91 73091 42495",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "12, Kanth, Uttar Pradesh 242223",
+    "area": "242223",
+    "latitude": 27.8118183,
+    "longitude": 79.7908908,
+    "place_id": "ChIJmYwZryq5nzkReIPOeAtCmwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYwZryq5nzkReIPOeAtCmwU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:37:48"
+  },
+  {
+    "business_name": "Gupta General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "242223",
+    "phone_number": "+91 95828 17044",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RPWM+V8G, Rajnish Gupta Rd, Mohanpur Mamraijpur, Jaitapur Simra, Uttar Pradesh 242223",
+    "area": "242223",
+    "latitude": 27.8471788,
+    "longitude": 79.7333428,
+    "place_id": "ChIJ14awLwDBnzkRVcuVKzXkyu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14awLwDBnzkRVcuVKzXkyu8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:37:50"
+  }
+]

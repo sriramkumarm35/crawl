@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAMI",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "242223",
+    "phone_number": "+91 73005 52912",
+    "website": "https://namicafe.framer.ai/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Police Station, Sadar Bazar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Sadar Bazar",
+    "latitude": 27.886129399999998,
+    "longitude": 79.91492389999999,
+    "place_id": "ChIJL2K3JNm9nzkR-acTuG6dfPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2K3JNm9nzkR-acTuG6dfPg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:37:56"
+  },
+  {
+    "business_name": "Craving Hub by Goel's",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "242223",
+    "phone_number": "+91 82994 90487",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pakka Pul, near Tarak Pathak School, Dalel Ganj, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Dalel Ganj",
+    "latitude": 27.8554499,
+    "longitude": 79.9181132,
+    "place_id": "ChIJW93diG29nzkRLF8s4Kz010w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW93diG29nzkRLF8s4Kz010w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:37:58"
+  }
+]

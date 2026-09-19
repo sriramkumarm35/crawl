@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Street chai cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "241407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 101, bus stand, Shop no 26 shaheed bhagat singh complex old, Main Road, near Purana Bus Stand, Pandav Nagar, Shahdol, Madhya Pradesh 484001",
+    "area": "Pandav Nagar",
+    "latitude": 23.306613499999997,
+    "longitude": 81.3540458,
+    "place_id": "ChIJLUabhb_7hjkR8FoR6VYnE70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUabhb_7hjkR8FoR6VYnE70",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:01"
+  },
+  {
+    "business_name": "Kulhad Chai Corporate Office",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "241407",
+    "phone_number": "+91 88008 79693",
+    "website": "https://www.kulhadchaiindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "UGF, Madiyaon Gaon Rd, opp. to Tru BestMart, Sector I, Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector I, Janki Vihar Colony, Jankipuram",
+    "latitude": 26.9240145,
+    "longitude": 80.9484411,
+    "place_id": "ChIJXfMA-C5XmTkRw3hx52kqIQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfMA-C5XmTkRw3hx52kqIQ0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:02"
+  }
+]

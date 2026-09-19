@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Naimish travelling services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Hotel, Travel agency",
+    "pincode": "241304",
+    "phone_number": "+91 89220 53028",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "near Ved vyas dham Naimisharanya, Naimisharanya, Atva, Lakaria Mau, Uttar Pradesh 261402",
+    "area": "Naimisharanya",
+    "latitude": 27.3646691,
+    "longitude": 80.4777132,
+    "place_id": "ChIJjRgxI0rDnjkR28dwahIx1lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRgxI0rDnjkR28dwahIx1lE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:13:06"
+  },
+  {
+    "business_name": "Sitapur Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "241304",
+    "phone_number": "+91 94151 36938",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Arya Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Arya Nagar",
+    "latitude": 27.564669799999997,
+    "longitude": 80.683492,
+    "place_id": "ChIJt102BADXnjkRM-MSN7VbEU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt102BADXnjkRM-MSN7VbEU0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:13:06"
+  }
+]

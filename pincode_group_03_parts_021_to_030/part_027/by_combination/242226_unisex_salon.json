@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "velora unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "242226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V bazaar and City Cart, Guru Nanak hospital, Kannaujiya near, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Mohalla Chau Bhurji",
+    "latitude": 27.8753399,
+    "longitude": 79.9147268,
+    "place_id": "ChIJfcLeTJq9nzkRv01GbDK5oeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcLeTJq9nzkRv01GbDK5oeg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:23"
+  },
+  {
+    "business_name": "Royal Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "242226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "RWV9+VG4, Saraikaiyan, Mishripur, Uttar Pradesh 242406",
+    "area": "Saraikaiyan",
+    "latitude": 27.8446195,
+    "longitude": 79.918751,
+    "place_id": "ChIJdzrStQ29nzkRhlrPID8w6uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzrStQ29nzkRhlrPID8w6uo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:25"
+  }
+]

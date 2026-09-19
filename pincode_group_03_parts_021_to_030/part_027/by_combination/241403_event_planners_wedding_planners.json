@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Perfect Knot",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "241403",
+    "phone_number": "+91 89563 37300",
+    "website": "http://theperfectknot.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Flat no 101, Prime Orchid, Miraton Garden, Adarsh Nagar, Chicalim, New Vaddem, Goa 403802",
+    "area": "Adarsh Nagar",
+    "latitude": 15.3905005,
+    "longitude": 73.8329626,
+    "place_id": "ChIJWb5lmSnHvzsR1YVeBHiUkKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWb5lmSnHvzsR1YVeBHiUkKA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:07"
+  },
+  {
+    "business_name": "Hitched India",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Event venue, Party planner, Wedding service, Wedding venue",
+    "pincode": "241403",
+    "phone_number": "+91 98600 56230",
+    "website": "http://www.hitchedindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Apex Business Court, 813, Gaganvihar, Gangadham Phase II, Ganga Dham, Pune, Maharashtra 411037",
+    "area": "Gaganvihar, Gangadham Phase II, Ganga Dham",
+    "latitude": 18.481479,
+    "longitude": 73.87642269999999,
+    "place_id": "ChIJM44wKiu_wjsR9ttmUMhU1vA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM44wKiu_wjsR9ttmUMhU1vA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:07"
+  }
+]

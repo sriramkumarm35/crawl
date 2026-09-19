@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta saree center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "गुप्ता बर्तन भंडार के सामने, फौजी मार्केट, Sindhauli, Pirtala, Uttar Pradesh 242001",
+    "area": "फौजी मार्केट",
+    "latitude": 27.9711717,
+    "longitude": 79.9742132,
+    "place_id": "ChIJvVwjnMyZnzkRbYNwqaNjAg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVwjnMyZnzkRbYNwqaNjAg0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:38"
+  },
+  {
+    "business_name": "Roza adda market",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "VX32+XVC, Shahjahanpur, Rly. Settlement Roza, Uttar Pradesh 242406",
+    "area": "Shahjahanpur",
+    "latitude": 27.855524,
+    "longitude": 79.9526415,
+    "place_id": "ChIJy8W-bwCjnzkR3ex_k2ZwuOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8W-bwCjnzkR3ex_k2ZwuOs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HEALTH CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "241305",
+    "phone_number": "+91 87200 49400",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "95X6+36C, NH 346, Madhya Pradesh 466661",
+    "area": "241305",
+    "latitude": 23.397686399999998,
+    "longitude": 77.1605144,
+    "place_id": "ChIJCTgpDGiIfDkRqRpXmDaCYK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTgpDGiIfDkRqRpXmDaCYK4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:43"
+  },
+  {
+    "business_name": "CHC SIDHAULI vaccination center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "241305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 19,
+    "address": "Hospital Rd, Sidhauli, Uttar Pradesh 261303",
+    "area": "241305",
+    "latitude": 27.2826488,
+    "longitude": 80.8322407,
+    "place_id": "ChIJRWZiWD01mTkRqqwBZYPNV5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWZiWD01mTkRqqwBZYPNV5Y",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:43"
+  }
+]

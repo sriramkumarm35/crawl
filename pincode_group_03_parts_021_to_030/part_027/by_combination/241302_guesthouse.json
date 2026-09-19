@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PWD Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "241302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "25M2+8G9, Mallawan, Uttar Pradesh 241303",
+    "area": "241302",
+    "latitude": 27.033288199999998,
+    "longitude": 80.1513469,
+    "place_id": "ChIJ538yy42InjkRrHoSvJVXZNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ538yy42InjkRrHoSvJVXZNg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:10:03"
+  },
+  {
+    "business_name": "Balaji guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Marriage celebrant",
+    "all_categories": "Marriage celebrant",
+    "pincode": "241302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "25R2+9PV, Mallawan, Uttar Pradesh 241303",
+    "area": "241302",
+    "latitude": 27.040983999999998,
+    "longitude": 80.1517908,
+    "place_id": "ChIJE7tn5vKInjkRtyPyQL0zcVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7tn5vKInjkRtyPyQL0zcVg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:10:04"
+  }
+]

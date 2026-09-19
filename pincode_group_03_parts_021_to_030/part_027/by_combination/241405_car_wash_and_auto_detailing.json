@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Detailing Daddy",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto repair shop, Auto restoration service, Dry cleaner",
+    "pincode": "241405",
+    "phone_number": "+91 95410 67716",
+    "website": "https://www.detailingdaddy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Building No. 3, Rajendra Enclave, Main Rd, behind saini sweets, opposite vidyut nagar, Industrial Area, Hisar, Haryana 125005",
+    "area": "Industrial Area",
+    "latitude": 29.1327754,
+    "longitude": 75.75503789999999,
+    "place_id": "ChIJeeKAFfMzEjkRxYPpLI22wpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeKAFfMzEjkRxYPpLI22wpY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:23:04"
+  },
+  {
+    "business_name": "Detailing Daddy Registered Office",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "241405",
+    "phone_number": "+91 70470 46900",
+    "website": "https://detailingdaddy.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "2nd Floor, A-13, Block A, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi, Delhi, 110064",
+    "area": "Block A, Mayapuri Industrial Area Phase I, Mayapuri",
+    "latitude": 28.6323799,
+    "longitude": 77.1274135,
+    "place_id": "ChIJ6T41LGMDDTkRTh7jYtRMfqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6T41LGMDDTkRTh7jYtRMfqo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:23:04"
+  }
+]

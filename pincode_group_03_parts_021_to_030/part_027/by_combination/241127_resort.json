@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ira's Paradise",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "241127",
+    "phone_number": "+91 73103 72212",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sewa Farms, near Deshpremi Filling Station, Lucknow, Borumau, Uttar Pradesh 226201",
+    "area": "241127",
+    "latitude": 26.964845699999998,
+    "longitude": 80.8437718,
+    "place_id": "ChIJax9FYOZVmTkRc5-rmZHF8uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJax9FYOZVmTkRc5-rmZHF8uM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:59:54"
+  },
+  {
+    "business_name": "Hotel Madhava Naimisharanya",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Temp agency",
+    "pincode": "241127",
+    "phone_number": "+91 79851 96826",
+    "website": "http://madhavatirupati.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Naimisharanya, Uttar Pradesh 261402",
+    "area": "241127",
+    "latitude": 27.349177299999997,
+    "longitude": 80.48626519999999,
+    "place_id": "ChIJcTB89pLDnjkRnBuPGJnSIyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTB89pLDnjkRnBuPGJnSIyo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:59:55"
+  }
+]

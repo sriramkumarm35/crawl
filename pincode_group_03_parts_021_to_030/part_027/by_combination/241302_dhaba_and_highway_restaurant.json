@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "241302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sitapur Rd, Laliyapur, Uttar Pradesh 261131",
+    "area": "241302",
+    "latitude": 27.5063282,
+    "longitude": 80.75027589999999,
+    "place_id": "ChIJxXVINpHTnjkRB-9xbhizJa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXVINpHTnjkRB-9xbhizJa4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:09:11"
+  },
+  {
+    "business_name": "राधे ढाबा",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "241302",
+    "phone_number": "+91 96258 42889",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 20,
+    "address": "24GJ+PC, Kalyanpur, Mustafabad, Uttar Pradesh 241303",
+    "area": "241302",
+    "latitude": 27.027173299999998,
+    "longitude": 80.1310091,
+    "place_id": "ChIJNfmnLD2JnjkR2LWCadA6LZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfmnLD2JnjkR2LWCadA6LZc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:09:12"
+  }
+]

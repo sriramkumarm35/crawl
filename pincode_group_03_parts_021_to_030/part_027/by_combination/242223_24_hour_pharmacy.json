@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAM MEDICAL AGENCY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "242223",
+    "phone_number": "+91 92352 71111",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "01, near Gishamehal, Reti, Sarai Khas, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Reti, Sarai Khas",
+    "latitude": 27.857003199999998,
+    "longitude": 79.9301511,
+    "place_id": "ChIJZ_MIBBqjnzkRmPttjmxS3CA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_MIBBqjnzkRmPttjmxS3CA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:09"
+  },
+  {
+    "business_name": "Siraj Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "242223",
+    "phone_number": "+91 96519 18071",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01, Puttulal, Sarai Khas, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "Sarai Khas",
+    "latitude": 27.853247399999997,
+    "longitude": 79.92357369999999,
+    "place_id": "ChIJpW7OckyjnzkRmLCQ2wOxzNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW7OckyjnzkRmLCQ2wOxzNI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:09"
+  }
+]

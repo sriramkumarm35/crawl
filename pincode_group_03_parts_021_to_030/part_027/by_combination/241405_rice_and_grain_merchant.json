@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhoomi Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "241405",
+    "phone_number": "+91 80 4110 0880",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1855, 4th Main Rd, Hal, HAL 3rd Stage, Stage 3, New Thippasandra, Bengaluru, Karnataka 560075",
+    "area": "Hal, HAL 3rd Stage, Stage 3, New Thippasandra",
+    "latitude": 12.971641499999999,
+    "longitude": 77.65145319999999,
+    "place_id": "ChIJL14F8qoWrjsRCtDXPyBzyY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL14F8qoWrjsRCtDXPyBzyY0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:33"
+  },
+  {
+    "business_name": "Atwa Asigaon, Uttar Pradesh 241405",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "241405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Atwa Asigaon, Uttar Pradesh",
+    "area": "241405",
+    "latitude": 27.505645299999998,
+    "longitude": 80.1651854,
+    "place_id": "ChIJX2b-tKr4njkRLRjRqAiB798",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2b-tKr4njkRLRjRqAiB798",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:35"
+  }
+]

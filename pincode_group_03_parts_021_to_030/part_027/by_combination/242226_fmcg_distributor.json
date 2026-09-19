@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Trading Company",
+    "search_category": "FMCG Distributor",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "242226",
+    "phone_number": "+91 99360 96253",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "02, Market, Keruganj, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Keruganj",
+    "latitude": 27.8592394,
+    "longitude": 79.911908,
+    "place_id": "ChIJk7nrnBG9nzkR-aHtr8q9SC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7nrnBG9nzkR-aHtr8q9SC0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:35"
+  },
+  {
+    "business_name": "Shiv Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "242226",
+    "phone_number": "+91 94151 62258",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VW87+WF5, Mohalla Mohammad Zai, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Mohalla Mohammad Zai",
+    "latitude": 27.8672543,
+    "longitude": 79.91374689999999,
+    "place_id": "ChIJCfpOKsy8nzkRp-CNEG-3rmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfpOKsy8nzkRp-CNEG-3rmE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:35"
+  }
+]

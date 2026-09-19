@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saif Paint Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "241201",
+    "phone_number": "+91 88401 59189",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "241204, station road, Sandila, Uttar Pradesh 241204",
+    "area": "Tiloiya",
+    "latitude": 27.062823599999998,
+    "longitude": 80.5130552,
+    "place_id": "ChIJCRwXi8K8njkRH27fNoqgU3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRwXi8K8njkRH27fNoqgU3c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:01:16"
+  },
+  {
+    "business_name": "Khan Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "241201",
+    "phone_number": "+91 94157 06004",
+    "website": "https://www.asianpaints.com/where-the-heart-is/season-2/mini-mathur-and-kabir-khan.html",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Khadia Project, Shakti Nagar, Chilkadand, Uttar Pradesh 231222",
+    "area": "Khadia Project",
+    "latitude": 24.124377199999998,
+    "longitude": 82.6706373,
+    "place_id": "ChIJK66JPugwjzkRiUxgsYwAJ-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK66JPugwjzkRiUxgsYwAJ-U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:01:18"
+  }
+]

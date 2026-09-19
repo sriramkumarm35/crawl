@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "241203",
+    "phone_number": "+91 91255 66000",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "25M2+PVQ, near DIWAKAR KIRANA STORE, Mallawan, Uttar Pradesh 241303",
+    "area": "241203",
+    "latitude": 27.034325799999998,
+    "longitude": 80.1522221,
+    "place_id": "ChIJ9a6DxI2InjkRtlwB37JdrWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a6DxI2InjkRtlwB37JdrWA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:04:18"
+  },
+  {
+    "business_name": "Maureyabeejandkhaadbhandar",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "241203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4JJ4+XC6, Dhikunni, Uttar Pradesh 241203",
+    "area": "241203",
+    "latitude": 27.132419799999997,
+    "longitude": 80.6060088,
+    "place_id": "ChIJD3E90Cu7njkRzVKXj9Fi50o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3E90Cu7njkRzVKXj9Fi50o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:04:20"
+  }
+]

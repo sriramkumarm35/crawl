@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guddu Trading Company",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "241301",
+    "phone_number": "+91 93703 72956",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "2X53+RG6, Rajgirikar, Uttar Pradesh 209727",
+    "area": "241301",
+    "latitude": 27.009529399999998,
+    "longitude": 79.9537778,
+    "place_id": "ChIJn-IdOQBlnjkR0tErzO-IaCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-IdOQBlnjkR0tErzO-IaCQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:19"
+  },
+  {
+    "business_name": "Adhat",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "241301",
+    "phone_number": "+91 63067 86186",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bigram chauraha, Newada, Bilgram, Uttar Pradesh 241301",
+    "area": "Newada",
+    "latitude": 27.1705008,
+    "longitude": 80.0311715,
+    "place_id": "ChIJExOFFe9hnjkREUF7HehsjZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExOFFe9hnjkREUF7HehsjZs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:19"
+  }
+]

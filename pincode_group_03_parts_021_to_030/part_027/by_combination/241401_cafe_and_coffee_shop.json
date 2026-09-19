@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaka Hotel",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "8RJX+X9F, Dhobaha, Uttar Pradesh 241402",
+    "area": "241401",
+    "latitude": 27.332438,
+    "longitude": 79.848434,
+    "place_id": "ChIJnYWCcAAhlzkRbkfZ4YDbnNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYWCcAAhlzkRbkfZ4YDbnNo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:06"
+  },
+  {
+    "business_name": "Swayamberphotography & Mixing lab",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Wedding store",
+    "pincode": "241401",
+    "phone_number": "+91 91702 59720",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "near new G. O. V Hospital, Harpalpur, Hardoi, Uttar Pradesh 241402",
+    "area": "241401",
+    "latitude": 27.325763,
+    "longitude": 79.84426789999999,
+    "place_id": "ChIJk-Xjgs5FnjkR5q-qAKZkybA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-Xjgs5FnjkR5q-qAKZkybA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:07"
+  }
+]

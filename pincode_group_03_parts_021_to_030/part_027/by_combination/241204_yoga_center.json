@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divyanand Ashram",
+    "search_category": "Yoga Center",
+    "primary_category": "Religious destination",
+    "all_categories": "Religious destination",
+    "pincode": "241204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "3FCV+6CV, Unnamed Road, Sant Kripal Nager, Sandila, Meetau, Uttar Pradesh 241204",
+    "area": "Sant Kripal Nager",
+    "latitude": 27.070605399999998,
+    "longitude": 80.49354989999999,
+    "place_id": "ChIJRT4R61W9njkR9bOL8hnfIbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRT4R61W9njkR9bOL8hnfIbM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:09"
+  },
+  {
+    "business_name": "Brahma Kumaris Sandila",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "241204",
+    "phone_number": "+91 99355 61558",
+    "website": "http://brahmakumaris.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ANAND BHAWAN, BEGUM GANJ, Tiloiya, Sandila, Tikra Daudpur, Uttar Pradesh 241204",
+    "area": "BEGUM GANJ, Tiloiya",
+    "latitude": 27.054599399999997,
+    "longitude": 80.5181838,
+    "place_id": "ChIJT2NEclO9njkRY1Qj6_9GiCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2NEclO9njkRY1Qj6_9GiCk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:09"
+  }
+]

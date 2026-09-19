@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prudent Advisory",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial advisor",
+    "all_categories": "Financial advisor",
+    "pincode": "241204",
+    "phone_number": "+91 98206 83965",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Manji Ka Hatha, 241, Paota, Jodhpur, Rajasthan 342006",
+    "area": "Paota",
+    "latitude": 26.297822,
+    "longitude": 73.0401208,
+    "place_id": "ChIJV-25vwy0lKsRYwzaoY-ZKEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-25vwy0lKsRYwzaoY-ZKEE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:59"
+  },
+  {
+    "business_name": "Finlaw Pro Consulting",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "241204",
+    "phone_number": "+91 94547 65633",
+    "website": "https://finlawpro.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Finlaw Pro Consulting, 241204, India",
+    "area": "241204",
+    "latitude": 21.4324229,
+    "longitude": 82.7864352,
+    "place_id": "ChIJs6rCFgQzgQIRqmyuvlrY5H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6rCFgQzgQIRqmyuvlrY5H8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:00"
+  }
+]

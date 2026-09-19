@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma house",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "241201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "S/O ram keshan house/bldg./apt:no 9 street/lane,,area/locality/sector batula village/town/city: tiar , district:, P.O, :, Tiyar, Uttar Pradesh 209870",
+    "area": "241201",
+    "latitude": 26.8867285,
+    "longitude": 80.4693716,
+    "place_id": "ChIJt964YCmhnjkRyIWqLDy7qqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt964YCmhnjkRyIWqLDy7qqs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:01:25"
+  },
+  {
+    "business_name": "National spare part JCB",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "241201",
+    "phone_number": "+91 80813 44118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sandila Rd, kajipur, Bangarmau, Sahadani, Uttar Pradesh 209868",
+    "area": "kajipur",
+    "latitude": 26.9046837,
+    "longitude": 80.23325799999999,
+    "place_id": "ChIJjzKiDiCDnjkRgCXRSgCcEWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzKiDiCDnjkRgCXRSgCcEWw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:01:25"
+  }
+]

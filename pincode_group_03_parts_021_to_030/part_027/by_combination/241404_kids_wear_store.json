@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wonder Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "241404",
+    "phone_number": "+91 87563 94909",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wonder Kids Wear Shop, Eidgah Market, Bilgram Chungi, Hardoi, Uttar Pradesh 241001",
+    "area": "241404",
+    "latitude": 27.382496099999997,
+    "longitude": 80.1227471,
+    "place_id": "ChIJx30hkwr3njkRp3kf-h1_0J4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx30hkwr3njkRp3kf-h1_0J4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:05"
+  },
+  {
+    "business_name": "Awal Sports & Toys",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "241404",
+    "phone_number": "+91 94154 35415",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 65,
+    "address": "Cinema Rd, next to RK Tailor, Hardoi, Uttar Pradesh 241001",
+    "area": "241404",
+    "latitude": 27.3923134,
+    "longitude": 80.1252413,
+    "place_id": "ChIJyQh_WCH4njkRA6VKOC-LOwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQh_WCH4njkRA6VKOC-LOwA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:21:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "241305",
+    "phone_number": "+91 81878 82435",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Krishna Reddy Nagar, Jaya Ram Nagar, Abbas Nagar, New Krishna Nagar, Kurnool, Andhra Pradesh 518002",
+    "area": "Krishna Reddy Nagar, Jaya Ram Nagar, Abbas Nagar, New Krishna Nagar",
+    "latitude": 15.8058739,
+    "longitude": 78.0399043,
+    "place_id": "ChIJoSu2DuvdtTsRoFZGJ9EWayM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSu2DuvdtTsRoFZGJ9EWayM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:11"
+  },
+  {
+    "business_name": "Mother Dairy Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "241305",
+    "phone_number": "+91 1800 180 1018",
+    "website": "https://www.motherdairy.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "H8W5+84F, Subhash Park, Block C 1, New Ashok Nagar, New Delhi, Delhi, 110096",
+    "area": "Subhash Park, Block C 1, New Ashok Nagar",
+    "latitude": 28.5958193,
+    "longitude": 77.307795,
+    "place_id": "ChIJtVxHFI3kDDkR4KowmIUHCZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVxHFI3kDDkR4KowmIUHCZA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:11"
+  }
+]

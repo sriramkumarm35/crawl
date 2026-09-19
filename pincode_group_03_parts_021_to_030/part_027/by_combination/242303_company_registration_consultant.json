@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RGV ENTERPRISES",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "242303",
+    "phone_number": "+91 79056 77126",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "26/A, Lodhipur, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Lodhipur",
+    "latitude": 27.8733903,
+    "longitude": 79.9312442,
+    "place_id": "ChIJYULZBACjnzkRO29GRn-naAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYULZBACjnzkRO29GRn-naAc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:20"
+  },
+  {
+    "business_name": "Vehicle Insurance Center & Online Center",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "242303",
+    "phone_number": "+91 86047 01023",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Gorakshnath Mandir Rd, near Srcm Ashram, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "242303",
+    "latitude": 27.8369827,
+    "longitude": 79.9212345,
+    "place_id": "ChIJG88Wgs2jnzkRbQ3VWdwBM6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG88Wgs2jnzkRbQ3VWdwBM6k",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:20"
+  }
+]

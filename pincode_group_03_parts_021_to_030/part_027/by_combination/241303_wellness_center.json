@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health and Wellness Center Aakilpur",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "241303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XX76+FW2, Mochipur, Akilpur, Uttar Pradesh 209727",
+    "area": "241303",
+    "latitude": 26.963646999999998,
+    "longitude": 79.962256,
+    "place_id": "ChIJ8zHzu_16njkRXzovFaI0J3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zHzu_16njkRXzovFaI0J3U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:42"
+  },
+  {
+    "business_name": "Ayuroma Wellness Center (Waidhraj Madan Mohan)",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "241303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "R3H9+WR5, Subhanpur Muradnagar, Uttar Pradesh 209202",
+    "area": "241303",
+    "latitude": 26.829767,
+    "longitude": 80.0695983,
+    "place_id": "ChIJwzmfOat_njkRUs1ygNJK0m8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzmfOat_njkRUs1ygNJK0m8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cafe (Mahendra Plaza)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Restaurant",
+    "pincode": "241404",
+    "phone_number": "+91 95543 58005",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Circular Rd, near Avas Vikas, Nagheta Purvi, Avas Vikas Colony, Hardoi, Uttar Pradesh 241001",
+    "area": "Nagheta Purvi, Avas Vikas Colony",
+    "latitude": 27.3906617,
+    "longitude": 80.1395455,
+    "place_id": "ChIJ2_fjNoP5njkRwqq0JJH7PxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_fjNoP5njkRwqq0JJH7PxI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:59"
+  },
+  {
+    "business_name": "Green Valley Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, North Indian restaurant",
+    "pincode": "241404",
+    "phone_number": "+91 63075 50846",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 130,
+    "address": "Near Dev Service Station,Sandi Road,Sandi, Chungi, Hardoi, Uttar Pradesh 241001",
+    "area": "Chungi",
+    "latitude": 27.383338199999997,
+    "longitude": 80.10519049999999,
+    "place_id": "ChIJ52pHIBD3njkR-yrWsQ1VpAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52pHIBD3njkR-yrWsQ1VpAk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:59"
+  }
+]

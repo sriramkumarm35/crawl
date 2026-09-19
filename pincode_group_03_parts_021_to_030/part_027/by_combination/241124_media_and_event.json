@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India add advertising",
+    "search_category": "Media and Event",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Advertising agency",
+    "pincode": "241124",
+    "phone_number": "+91 90158 51903",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Khalil Meat Shop, Radhe Purwa Road, Azadnagar, Hardoi, Uttar Pradesh 241001",
+    "area": "Azadnagar",
+    "latitude": 27.4183953,
+    "longitude": 80.1208242,
+    "place_id": "ChIJsdVNwfP5njkRUCW8jdwM6AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdVNwfP5njkRUCW8jdwM6AA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:54:47"
+  },
+  {
+    "business_name": "MAA VAISHNO D.J",
+    "search_category": "Media and Event",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "241124",
+    "phone_number": "+91 99905 02367",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "0, SHAHABAD ROAD, Azadnagar, Hardoi, Uttar Pradesh 241001",
+    "area": "Azadnagar",
+    "latitude": 27.415366,
+    "longitude": 80.1240945,
+    "place_id": "ChIJmZqrEQD5njkRIN5puw7IKto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZqrEQD5njkRIN5puw7IKto",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:54:48"
+  }
+]

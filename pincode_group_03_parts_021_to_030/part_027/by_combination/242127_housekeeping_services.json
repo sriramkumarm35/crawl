@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ultimate super cleaner",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "242127",
+    "phone_number": "+91 84393 81082",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "E-60 House Rap graphics kk hospital road , Rajendra Nagar-233122, Bareilly, Uttar Pradesh 243122",
+    "area": "Rajendra Nagar",
+    "latitude": 28.3872733,
+    "longitude": 79.4300738,
+    "place_id": "ChIJtUAVzb4HoDkRNhPuj2xOnkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUAVzb4HoDkRNhPuj2xOnkk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:34:05"
+  },
+  {
+    "business_name": "Maa Radha Rani Manpower Services LLP",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "242127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "H8G3+8MX, Raipur Khas, Uttar Pradesh 209502",
+    "area": "242127",
+    "latitude": 27.575913099999998,
+    "longitude": 79.3042431,
+    "place_id": "ChIJhz6zWwB_dTkRatfRmd9S59Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhz6zWwB_dTkRatfRmd9S59Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:34:05"
+  }
+]

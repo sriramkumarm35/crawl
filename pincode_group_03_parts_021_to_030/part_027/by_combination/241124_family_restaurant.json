@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swagat Dhaba and family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "241124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 18,
+    "address": "JXM2+J8J, Lucknow - Hardoi - Shahjahanpur Rd, Shahabad, Uttar Pradesh 241124",
+    "area": "241124",
+    "latitude": 27.6340811,
+    "longitude": 79.9507574,
+    "place_id": "ChIJpXwVSH2tnzkRlMrSV9gITDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXwVSH2tnzkRlMrSV9gITDw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:53:53"
+  },
+  {
+    "business_name": "Yummy eats",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "241124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JWRQ+6XX, Radha Rani Mandir Rd, Sardar Ganj, Shahabad, Uttar Pradesh 241124",
+    "area": "Sardar Ganj",
+    "latitude": 27.640622,
+    "longitude": 79.9399979,
+    "place_id": "ChIJ1R_mDACtnzkRn7X2fA2EN3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1R_mDACtnzkRn7X2fA2EN3Y",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:53:53"
+  }
+]

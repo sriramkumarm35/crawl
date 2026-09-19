@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rampuri Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "241406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 86,
+    "address": "near Railway Station, Maigalganj, Uttar Pradesh 261505",
+    "area": "241406",
+    "latitude": 27.718945899999998,
+    "longitude": 80.3391709,
+    "place_id": "ChIJLXd6YWkbnzkRTkKzhupx6sY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXd6YWkbnzkRTkKzhupx6sY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:15"
+  },
+  {
+    "business_name": "Nishat Marriage Lawn , Pihani",
+    "search_category": "Resort",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "241406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J5GQ+J4, Pihani Dehat, Uttar Pradesh 241406",
+    "area": "241406",
+    "latitude": 27.626575,
+    "longitude": 80.187776,
+    "place_id": "ChIJgVDqNAADnzkRqIPYU6MrkmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVDqNAADnzkRqIPYU6MrkmQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:16"
+  }
+]

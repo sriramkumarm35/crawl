@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIMBA PET MART",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "241405",
+    "phone_number": "+91 98915 80677",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "Shop No. 6, S-44-45, Chowk, Param Puri, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Param Puri, Uttam Nagar",
+    "latitude": 28.615311,
+    "longitude": 77.05187099999999,
+    "place_id": "ChIJVfe1GM4FDTkRyZ4zvwxzj8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfe1GM4FDTkRyZ4zvwxzj8Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:37"
+  },
+  {
+    "business_name": "Anuj Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Dog breeder, Pet boarding service",
+    "pincode": "241405",
+    "phone_number": "+91 94585 79677",
+    "website": "https://anuj-pet-shop.grexa.site/",
+    "rating": 4.3,
+    "reviews_count": 80,
+    "address": "Gali Number 17, Shiv Nagar, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.4835739,
+    "longitude": 77.7128666,
+    "place_id": "ChIJC3QiTdsbDDkRm_Hh6zH3g4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3QiTdsbDDkRm_Hh6zH3g4w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:38"
+  }
+]

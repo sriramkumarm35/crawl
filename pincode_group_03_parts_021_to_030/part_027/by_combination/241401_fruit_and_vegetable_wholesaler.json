@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farming",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9V38+8CP, Barsohiya, Uttar Pradesh 241401",
+    "area": "241401",
+    "latitude": 27.353348999999998,
+    "longitude": 79.8660836,
+    "place_id": "ChIJLfueI8VFnjkR_GbW81fyTNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfueI8VFnjkR_GbW81fyTNk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:15:55"
+  },
+  {
+    "business_name": "Azeem Market",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "241401",
+    "phone_number": "+91 88538 78880",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Main Road, near Bilgram, Chungi, Nawabganj, Sandi, Uttar Pradesh 241403",
+    "area": "Chungi, Nawabganj",
+    "latitude": 27.2893296,
+    "longitude": 79.96097879999999,
+    "place_id": "ChIJJ_WcHnlbnjkREZTjOPWwyUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_WcHnlbnjkREZTjOPWwyUw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:15:56"
+  }
+]

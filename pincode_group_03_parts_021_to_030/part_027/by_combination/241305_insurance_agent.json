@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv mandir",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "241305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37HM+MPC, Mallawan - Sandila Rd, Sandila, Gausganj, Uttar Pradesh 241305",
+    "area": "241305",
+    "latitude": 27.0791908,
+    "longitude": 80.28427359999999,
+    "place_id": "ChIJb37SjzeRnjkRO0ghX3sEGeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb37SjzeRnjkRO0ghX3sEGeU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:15:29"
+  },
+  {
+    "business_name": "Insurance Advisors",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "241305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tower 2, My Home, Tridasa, Tellapur, Hyderabad, Telangana 502300",
+    "area": "Tridasa, Tellapur",
+    "latitude": 17.4691323,
+    "longitude": 78.2582086,
+    "place_id": "ChIJucT-UADtyzsRrwcToxnG1uQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucT-UADtyzsRrwcToxnG1uQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:15:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirankari Enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Lighting store, Paint store",
+    "pincode": "241204",
+    "phone_number": "+91 94159 36701",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 34,
+    "address": "MDR 31C, Aoras, Uttar Pradesh 209870",
+    "area": "241204",
+    "latitude": 26.9064211,
+    "longitude": 80.5003401,
+    "place_id": "ChIJY3jirAChnjkRSPoKxw1jdEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3jirAChnjkRSPoKxw1jdEQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:23"
+  },
+  {
+    "business_name": "Harihar Brick Field",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Brick Manufacturer",
+    "all_categories": "Brick Manufacturer",
+    "pincode": "241204",
+    "phone_number": "+91 94512 10430",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Barbar Road Dhamapur (Jahanikhera, Post, Mahmoodpur Saraiyan, Uttar Pradesh 241407",
+    "area": "241204",
+    "latitude": 27.7541381,
+    "longitude": 80.2328607,
+    "place_id": "ChIJrRJE1MsFnzkRSvvWGqO_MBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRJE1MsFnzkRSvvWGqO_MBI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:23"
+  }
+]

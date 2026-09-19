@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Namya Travel Agency",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "242226",
+    "phone_number": "+91 84470 83325",
+    "website": "https://namya-travel-agency.ueniweb.com/?utm_campaign=gmb",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Namya Travel Agency, 242226, India",
+    "area": "242226",
+    "latitude": 27.879806799999997,
+    "longitude": 79.9204012,
+    "place_id": "ChIJp24KCg-9nzkRYxrtwInKcw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp24KCg-9nzkRYxrtwInKcw0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:10"
+  },
+  {
+    "business_name": "ANSH TOUR AND TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "242226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near hdfc bank, South city, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "South city",
+    "latitude": 27.850400699999998,
+    "longitude": 79.8832163,
+    "place_id": "ChIJOVYas3m9nzkRsaQDOHnm9kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVYas3m9nzkRsaQDOHnm9kQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:10"
+  }
+]

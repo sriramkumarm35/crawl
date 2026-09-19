@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyan prabha flour mill marena",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "242301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2H3H+9G4, Jaitipur, Uttar Pradesh 242301",
+    "area": "242301",
+    "latitude": 28.0033991,
+    "longitude": 79.5788197,
+    "place_id": "ChIJg6NBPgDvnzkRMrYG3FNFQaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6NBPgDvnzkRMrYG3FNFQaM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:41:16"
+  },
+  {
+    "business_name": "Khan Farms",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Aquaculture farm, Organic farm, Picnic ground",
+    "pincode": "242301",
+    "phone_number": "+91 92590 11111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Stiswa, Uttar Pradesh 243506",
+    "area": "242301",
+    "latitude": 28.129792199999997,
+    "longitude": 79.6080434,
+    "place_id": "ChIJcbUGU1rxnzkRStE58OrPHdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbUGU1rxnzkRStE58OrPHdc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:41:18"
+  }
+]

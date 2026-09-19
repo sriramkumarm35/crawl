@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AZHARI GENERAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "242305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 12,
+    "address": "Bhagwantapur, Bhanpur, Uttar Pradesh 243503",
+    "area": "242305",
+    "latitude": 28.222303999999998,
+    "longitude": 79.6177087,
+    "place_id": "ChIJUwaZKvr3nzkRwankY-Ez3uI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwaZKvr3nzkRwankY-Ez3uI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:39"
+  },
+  {
+    "business_name": "Sunny Madhusudan deary",
+    "search_category": "Departmental Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "242305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4JQG+F7M, Rampuria Ilaka Tiswa, Jadopur Badsha, Uttar Pradesh 243506",
+    "area": "242305",
+    "latitude": 28.1387228,
+    "longitude": 79.62566149999999,
+    "place_id": "ChIJ51fuXwDxnzkRoOocdXStXKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51fuXwDxnzkRoOocdXStXKc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:41"
+  }
+]

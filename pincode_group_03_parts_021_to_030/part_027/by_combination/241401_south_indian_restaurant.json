@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "241401",
+    "phone_number": "+91 63877 58453",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 275,
+    "address": "bhargav tower, near, Lbs chauraha, near Siya ram chai bagal, Azad Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Azad Nagar",
+    "latitude": 27.1331673,
+    "longitude": 81.9579475,
+    "place_id": "ChIJKU6sSw_vmTkR_O_6hxuA-qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKU6sSw_vmTkR_O_6hxuA-qo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:04"
+  },
+  {
+    "business_name": "online food delivery - Chinese - Indian - South indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7XM2+M2J, Shahabad Road, Mohalla khalsa, Sandi, Jalpipur Pansala, Uttar Pradesh 241403",
+    "area": "Mohalla khalsa",
+    "latitude": 27.284218799999998,
+    "longitude": 79.9500135,
+    "place_id": "ChIJywr3Yd1bnjkRywNEorwAO8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywr3Yd1bnjkRywNEorwAO8A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:05"
+  }
+]

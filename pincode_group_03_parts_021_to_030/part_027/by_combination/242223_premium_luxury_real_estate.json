@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premier Estates",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Industrial real estate agency, Property investment company, Real estate rental agency, Retail space rental agency",
+    "pincode": "242223",
+    "phone_number": "+91 77100 08968",
+    "website": "https://www.premierestates.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "32-B, Shree Laxmi Vijay Industrial Estate, New Link Road,Laxmi Industrial, Estate, SAB TV Road, Suresh Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Laxmi Industrial Estate, Suresh Nagar, Andheri West",
+    "latitude": 19.136025999999998,
+    "longitude": 72.82804,
+    "place_id": "ChIJ_5CbkCK25zsRoj38GyjJqH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5CbkCK25zsRoj38GyjJqH4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:13"
+  },
+  {
+    "business_name": "Vikram Property Dealer",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real Estate Builders & Construction Company",
+    "pincode": "242223",
+    "phone_number": "+91 88018 81188",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "5-3-1/38, Padmavathi Colony, Annapurna Colony, Boduppal, Hyderabad, Telangana 500092",
+    "area": "Padmavathi Colony, Annapurna Colony, Boduppal",
+    "latitude": 17.424184999999998,
+    "longitude": 78.5845081,
+    "place_id": "ChIJJe26w8SfyzsRIIlXMR9M1K4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJe26w8SfyzsRIIlXMR9M1K4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:13"
+  }
+]

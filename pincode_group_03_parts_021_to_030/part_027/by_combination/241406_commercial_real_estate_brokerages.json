@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saykar Real Estate Pvt.Ltd",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Consultant, Investment service, Property investment company, Property management company, Real estate agent, Real estate appraiser, Real estate rental agency, Real estate surveyor",
+    "pincode": "241406",
+    "phone_number": "+91 99215 41414",
+    "website": "http://www.saykarrealestate.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground floor, Mhetre’ corner, Balewadi Phata, Baner, Pune, Maharashtra 411069",
+    "area": "Balewadi Phata, Baner",
+    "latitude": 18.5645415,
+    "longitude": 73.78273109999999,
+    "place_id": "ChIJy3eMY4S_wjsRR7hDZNUdOqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3eMY4S_wjsRR7hDZNUdOqU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:36"
+  },
+  {
+    "business_name": "BrokerNetwork.in",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "241406",
+    "phone_number": "+91 93981 98921",
+    "website": "https://brokernetwork.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4-836/13, 2, New Nagole, Nagole, Hyderabad, Telangana 500068",
+    "area": "New Nagole, Nagole",
+    "latitude": 17.374042799999998,
+    "longitude": 78.5573946,
+    "place_id": "ChIJJ1aJ0jmZyzsRvYuFsyCh2i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1aJ0jmZyzsRvYuFsyCh2i4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapil",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "241407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P5HW+8JG, Kunwarpur Baseet, Uttar Pradesh 241407",
+    "area": "241407",
+    "latitude": 27.728323999999997,
+    "longitude": 80.19658609999999,
+    "place_id": "ChIJAZZxUQAFnzkRwpapx6clDYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZZxUQAFnzkRwpapx6clDYM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:45"
+  },
+  {
+    "business_name": "Mansoori Foam And Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories supplier",
+    "all_categories": "Furniture accessories supplier",
+    "pincode": "241407",
+    "phone_number": "+91 88406 46265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lakhimpur Road, Maigalganj, Uttar Pradesh 261505",
+    "area": "241407",
+    "latitude": 27.718687799999998,
+    "longitude": 80.3440294,
+    "place_id": "ChIJa9QTKsgbnzkRk6wEtBysftM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9QTKsgbnzkRk6wEtBysftM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:45"
+  }
+]

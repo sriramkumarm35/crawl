@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nivansh health care centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre",
+    "pincode": "242042",
+    "phone_number": "+91 86047 83708",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bareilly Mode, Madha, opposite Swayamvar marriage lawn, Shahjahanpur, Uttar Pradesh 242226",
+    "area": "242042",
+    "latitude": 27.8525855,
+    "longitude": 79.8866611,
+    "place_id": "ChIJIY6JDLa9nzkRtJo9tHecMb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIY6JDLa9nzkRtJo9tHecMb0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:31:33"
+  },
+  {
+    "business_name": "Hamid Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Private hospital",
+    "pincode": "242042",
+    "phone_number": "+91 94159 12597",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "01, Main Market Road, Khudaganj, Uttar Pradesh 242305",
+    "area": "242042",
+    "latitude": 28.1460998,
+    "longitude": 79.7117452,
+    "place_id": "ChIJ0Xug5h3znzkRUcZCzvapoUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Xug5h3znzkRUcZCzvapoUY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:31:34"
+  }
+]

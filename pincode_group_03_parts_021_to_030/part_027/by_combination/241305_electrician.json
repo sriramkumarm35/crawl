@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BALA JI ELECTRICAL AND REPAIRING CENTER",
+    "search_category": "Electrician",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "241305",
+    "phone_number": "+91 73982 41240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chungi Numbar 2, Lala Bazar Road, Mirzapur, Mallawan, Uttar Pradesh 241303",
+    "area": "Mirzapur",
+    "latitude": 27.0465052,
+    "longitude": 80.15452259999999,
+    "place_id": "ChIJV0vFPvqJnjkRJyrS2Ga18wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0vFPvqJnjkRJyrS2Ga18wo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:56"
+  },
+  {
+    "business_name": "Yuva Electical Sarvices",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "241305",
+    "phone_number": "+91 96374 42326",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tadoba Road, near Axis Bank, Durgapur, Maharashtra 442401",
+    "area": "Durgapur",
+    "latitude": 20.0085941,
+    "longitude": 79.30049919999999,
+    "place_id": "ChIJRazQ8_rV0jsRNMJ1q2sUEA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRazQ8_rV0jsRNMJ1q2sUEA4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:56"
+  }
+]

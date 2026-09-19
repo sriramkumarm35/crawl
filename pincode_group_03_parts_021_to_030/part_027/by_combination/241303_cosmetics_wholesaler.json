@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Purple - A Cosmetic Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Beauty product supplier, Beauty supply store, Cosmetics store, Flavours, Fragrances & Aroma Supplier, Hair extensions supplier, Skin care products vending machine",
+    "pincode": "241303",
+    "phone_number": "+91 63076 31630",
+    "website": "http://thepurplestores.in/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "LGF-14, Azad Market, behind Abhishek Traders, Pratap Market, Kamla Market, Swadeshi Market, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Pratap Market, Kamla Market, Swadeshi Market, Aminabad",
+    "latitude": 26.8460476,
+    "longitude": 80.92566149999999,
+    "place_id": "ChIJvS8uXiT9mzkRbw35_-9y514",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvS8uXiT9mzkRbw35_-9y514",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:39"
+  },
+  {
+    "business_name": "STAR AROMAS Indian Attar & Perfumes",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Perfume store",
+    "all_categories": "Perfume store",
+    "pincode": "241303",
+    "phone_number": "N/A",
+    "website": "http://www.stararomas.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kamangran street, Mohalla Kazi Tola, Kannauj, Uttar Pradesh 209725",
+    "area": "Mohalla Kazi Tola",
+    "latitude": 27.0519604,
+    "longitude": 79.92160919999999,
+    "place_id": "ChIJ535Q04BlnjkRsNHa-0Vlf5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ535Q04BlnjkRsNHa-0Vlf5E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bank Of India",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM",
+    "pincode": "241303",
+    "phone_number": "+91 5851 242 029",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 30,
+    "address": "25Q2+HXF, Unnao - Hardoi Rd, Dist, Mallawan, Uttar Pradesh 241303",
+    "area": "241303",
+    "latitude": 27.0389396,
+    "longitude": 80.152418,
+    "place_id": "ChIJcRcmNI2InjkR2Om5RmInNxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRcmNI2InjkR2Om5RmInNxQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:04"
+  },
+  {
+    "business_name": "State Bank of India MALLAWAN",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, Public Sector Bank",
+    "pincode": "241303",
+    "phone_number": "+91 5851 242 793",
+    "website": "https://www.sbi.co.in/",
+    "rating": 3.3,
+    "reviews_count": 36,
+    "address": "Hardoi Kanpur, Road, near SBI, Mallawan, Uttar Pradesh 241303",
+    "area": "241303",
+    "latitude": 27.036833899999998,
+    "longitude": 80.1519213,
+    "place_id": "ChIJhSzkBY2InjkRPlIQc4f2GPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSzkBY2InjkRPlIQc4f2GPY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:05"
+  }
+]

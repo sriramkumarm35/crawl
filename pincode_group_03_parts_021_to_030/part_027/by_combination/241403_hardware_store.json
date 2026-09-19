@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madan mohan panday",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "241403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V and P kakendi, Hardoi, Ullamau, Uttar Pradesh 241001",
+    "area": "241403",
+    "latitude": 27.3596479,
+    "longitude": 80.0512668,
+    "place_id": "ChIJdWkxDQBZnjkRkECw_W8Jjzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWkxDQBZnjkRkECw_W8Jjzk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:19:51"
+  },
+  {
+    "business_name": "Annapurna hardware and paint store",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "241403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "119 malkanth, peepal chauraha, Newada, Bilgram, Uttar Pradesh 241301",
+    "area": "Newada",
+    "latitude": 27.173226699999997,
+    "longitude": 80.03422929999999,
+    "place_id": "ChIJIyAGXe9hnjkRlGKd0VbQMPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyAGXe9hnjkRlGKd0VbQMPc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:19:54"
+  }
+]

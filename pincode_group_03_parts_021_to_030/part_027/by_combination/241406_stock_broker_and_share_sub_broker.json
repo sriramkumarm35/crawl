@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Net Brokers",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "241406",
+    "phone_number": "+91 98112 64927",
+    "website": "https://www.netbrokers.co.in/",
+    "rating": 4.7,
+    "reviews_count": 52,
+    "address": "3rd Floor, DLF Avenue, 309, Saket, New Delhi, Delhi 110017",
+    "area": "Saket District Centre, District Centre, Sector 6, Saket",
+    "latitude": 28.5282467,
+    "longitude": 77.2159123,
+    "place_id": "ChIJ5dElfBziDDkR0qX6KJnLm5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dElfBziDDkR0qX6KJnLm5s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:32"
+  },
+  {
+    "business_name": "Trustline Securities ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "241406",
+    "phone_number": "+91 84202 20385",
+    "website": "http://www.trustline.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th Floor, Talk of the Town, 398, Grand Trunk Rd, Badamtala, Perbirhata, Bardhaman, West Bengal 713101",
+    "area": "Badamtala, Perbirhata",
+    "latitude": 23.2365426,
+    "longitude": 87.8666896,
+    "place_id": "ChIJt3MM5INJ-DkRecvUGETAJVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3MM5INJ-DkRecvUGETAJVw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:35"
+  }
+]

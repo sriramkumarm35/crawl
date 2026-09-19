@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Ji Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "241401",
+    "phone_number": "+91 99883 55023",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "JVHC+8WQ, Hathi Gate, Katra Ahluwalia, Amritsar, Punjab 143006",
+    "area": "Hathi Gate, Katra Ahluwalia",
+    "latitude": 31.6283313,
+    "longitude": 74.8723626,
+    "place_id": "ChIJO3VeyapkGTkR0TKKKO2GCGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3VeyapkGTkR0TKKKO2GCGo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:03"
+  },
+  {
+    "business_name": "Tea Lover's Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gadi adda, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+    "area": "Sindhi Colony",
+    "latitude": 23.2014149,
+    "longitude": 77.08348219999999,
+    "place_id": "ChIJiUYqXGzzfDkR6ocnFVoycjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUYqXGzzfDkR6ocnFVoycjc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:03"
+  }
+]

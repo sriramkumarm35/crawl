@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramleela Maidan",
+    "search_category": "Tradeshows",
+    "primary_category": "Park",
+    "all_categories": "Park",
+    "pincode": "242221",
+    "phone_number": "+91 63921 42458",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "PMJ5+83J, Parashurampuri, Uttar Pradesh 242221",
+    "area": "242221",
+    "latitude": 27.730844599999998,
+    "longitude": 79.6576491,
+    "place_id": "ChIJzd4hDgTGnzkR9fC25gpb4Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzd4hDgTGnzkR9fC25gpb4Rg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:37:35"
+  },
+  {
+    "business_name": "Vidhata Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Welder",
+    "all_categories": "Welder, Hardware store",
+    "pincode": "242221",
+    "phone_number": "+91 98898 17788",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "VWH8+G4Q, Jail Rd, Chamkani, Karbala, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Chamkani, Karbala",
+    "latitude": 27.8788298,
+    "longitude": 79.9153443,
+    "place_id": "ChIJHaTfSNS8nzkRlDbtf-Ejjyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaTfSNS8nzkRlDbtf-Ejjyg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:37:36"
+  }
+]

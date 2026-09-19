@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash Bati chokha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "241301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sandi Rd, Bilgram, Uttar Pradesh 241301",
+    "area": "241301",
+    "latitude": 27.1816747,
+    "longitude": 80.0383389,
+    "place_id": "ChIJD0zgSTFhnjkRpsHhb1jE42Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0zgSTFhnjkRpsHhb1jE42Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:28"
+  },
+  {
+    "business_name": "Big Chilli Thali",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "241301",
+    "phone_number": "+91 92352 16868",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near police line, Kazitola, Kannauj, Uttar Pradesh 209725",
+    "area": "Kazitola",
+    "latitude": 27.0450366,
+    "longitude": 79.9228789,
+    "place_id": "ChIJr2WQQ6FlnjkR1Z9kBGEDxMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2WQQ6FlnjkR1Z9kBGEDxMk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:07:29"
+  }
+]

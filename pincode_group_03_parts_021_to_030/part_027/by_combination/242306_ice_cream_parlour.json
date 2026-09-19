@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faiz",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "242306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W362+5M3, Mohammadpur Tajpur, Uttar Pradesh 262804",
+    "area": "242306",
+    "latitude": 27.9103927,
+    "longitude": 80.05166229999999,
+    "place_id": "ChIJ0-GLEAChnzkRWXyZkm4QjKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-GLEAChnzkRWXyZkm4QjKA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:37"
+  },
+  {
+    "business_name": "Farheen Ghazi Khan PrincessFatima0786",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "242306",
+    "phone_number": "+91 63923 48433",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Farheen Ghazi Khan FatthePur, Reti, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Reti, Sarai Khas",
+    "latitude": 27.8541496,
+    "longitude": 79.9239597,
+    "place_id": "ChIJhbN2csajnzkREDXJPMd-CiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbN2csajnzkREDXJPMd-CiQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Future Plus Multi-Super Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "242221",
+    "phone_number": "+91 93351 51232",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "vali masjid, Bazar, kresar vali gali, Kanth, Uttar Pradesh 242223",
+    "area": "242221",
+    "latitude": 27.808287399999998,
+    "longitude": 79.794152,
+    "place_id": "ChIJJ0kjolK5nzkRNU8Ebsf6sgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0kjolK5nzkRNU8Ebsf6sgg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:29"
+  },
+  {
+    "business_name": "I. S. Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "242221",
+    "phone_number": "+91 92087 09252",
+    "website": "https://ishospital.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Rajkiya Inter College, Kanth, Uttar Pradesh 242223",
+    "area": "242221",
+    "latitude": 27.8062875,
+    "longitude": 79.7904951,
+    "place_id": "ChIJv80gSX25nzkR5LUYirIA9w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv80gSX25nzkR5LUYirIA9w0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:31"
+  }
+]

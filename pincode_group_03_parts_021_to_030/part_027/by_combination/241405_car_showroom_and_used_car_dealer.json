@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER CARZ",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "241405",
+    "phone_number": "+91 80997 29702",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 22,
+    "address": "Balkampet Rd, opp. Green Land, BK Guda, Hotel, Hyderabad, Telangana 500038",
+    "area": "BK Guda, Hotel",
+    "latitude": 17.4441748,
+    "longitude": 78.44861759999999,
+    "place_id": "ChIJM-ypy8aQyzsR3iKbe4Gt8jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-ypy8aQyzsR3iKbe4Gt8jk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:23:05"
+  },
+  {
+    "business_name": "J.K. Auto car",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer, Consignment shop, Second hand store",
+    "pincode": "241405",
+    "phone_number": "+91 99833 31101",
+    "website": "http://www.jkcarsolx.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kailash Nagar, Chittorgarh, Rajasthan 312612",
+    "area": "Kailash Nagar",
+    "latitude": 24.885015199999998,
+    "longitude": 74.6228472,
+    "place_id": "ChIJfSIsuo6haDkRqteWGnc6cXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSIsuo6haDkRqteWGnc6cXc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:23:06"
+  }
+]

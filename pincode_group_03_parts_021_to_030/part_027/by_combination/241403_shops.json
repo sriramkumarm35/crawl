@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambey Traders",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "241403",
+    "phone_number": "+91 98381 16519",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Hardoi Rd, in front of Police Station, Sandi, Mirzapur, Uttar Pradesh 241403",
+    "area": "241403",
+    "latitude": 27.2961147,
+    "longitude": 79.96497769999999,
+    "place_id": "ChIJe45KcJ1bnjkRz2BOQteFMSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe45KcJ1bnjkRz2BOQteFMSU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:49"
+  },
+  {
+    "business_name": "RAMJEET KIRANA STORE AND INTERNET POINT",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "241403",
+    "phone_number": "+91 93357 52619",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chungi, Hardoi, Sandi, Uttar Pradesh 241403",
+    "area": "Chungi",
+    "latitude": 27.2888758,
+    "longitude": 79.9631991,
+    "place_id": "ChIJv7N57FxbnjkRQVFFBLl3wVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7N57FxbnjkRQVFFBLl3wVU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:49"
+  }
+]

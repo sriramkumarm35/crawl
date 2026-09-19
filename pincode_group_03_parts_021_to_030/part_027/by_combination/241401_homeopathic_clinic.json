@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasu Homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8RCQ+WH7, Harpalpur, Uttar Pradesh 241402",
+    "area": "241401",
+    "latitude": 27.3222851,
+    "longitude": 79.8389242,
+    "place_id": "ChIJrbTHiYlFnjkR0OaFDay7Ymo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbTHiYlFnjkR0OaFDay7Ymo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:18"
+  },
+  {
+    "business_name": "Yasu Homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8RCQ+WH3, Harpalpur, Uttar Pradesh 241402",
+    "area": "241401",
+    "latitude": 27.322272599999998,
+    "longitude": 79.8389148,
+    "place_id": "ChIJN-ngHMRFnjkRmFsurtGv2qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-ngHMRFnjkRmFsurtGv2qo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:19"
+  }
+]

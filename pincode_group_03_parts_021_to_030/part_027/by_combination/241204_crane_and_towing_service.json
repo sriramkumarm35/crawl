@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nant Automible",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, RV repair shop",
+    "pincode": "241204",
+    "phone_number": "+91 98759 83001",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kansal Rd, Chandigarh, 160103",
+    "area": "241204",
+    "latitude": 30.7709631,
+    "longitude": 76.7991601,
+    "place_id": "ChIJex_QeFXzDzkReCdzbbQ-XRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJex_QeFXzDzkReCdzbbQ-XRo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:19"
+  },
+  {
+    "business_name": "Allen's Full Service Towing LLC",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "241204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Allen's Full Service Towing LLC, 241204, India",
+    "area": "241204",
+    "latitude": 42.106407999999995,
+    "longitude": -88.605113,
+    "place_id": "ChIJfwTh-GyoNUYRsCTIULr6iw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwTh-GyoNUYRsCTIULr6iw0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:21"
+  }
+]

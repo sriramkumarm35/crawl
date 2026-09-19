@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Ornaments",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Wholesale jeweler",
+    "all_categories": "Wholesale jeweler, Jeweler, Jewelry store",
+    "pincode": "241405",
+    "phone_number": "+91 97118 81372",
+    "website": "http://www.yashornaments.in/",
+    "rating": 4.6,
+    "reviews_count": 407,
+    "address": "Yash Wali building, 1159/1114, Old Delhi, Kucha Mahajani, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Kucha Mahajani, Chandni Chowk",
+    "latitude": 28.656971799999997,
+    "longitude": 77.2285438,
+    "place_id": "ChIJ4UJNdxD9DDkRET79NjKycWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UJNdxD9DDkRET79NjKycWA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:49"
+  },
+  {
+    "business_name": "Vrij Rani Jewels",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "241405",
+    "phone_number": "+91 96435 02324",
+    "website": "https://vrijranijewels.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "115/1, Cinema Rd, Bahra Saudagar, Hardoi, Uttar Pradesh 241001",
+    "area": "Bahra Saudagar",
+    "latitude": 27.3924454,
+    "longitude": 80.12702039999999,
+    "place_id": "ChIJNTnR9W75njkRKzaeCWsjIvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTnR9W75njkRKzaeCWsjIvI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:22:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बालाजी बुक डिपो",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "241303",
+    "phone_number": "+91 63925 25865",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rampur bazaar, near government primary school, Beria Nazirpur, Uttar Pradesh 209869",
+    "area": "241303",
+    "latitude": 26.964509699999997,
+    "longitude": 80.07851339999999,
+    "place_id": "ChIJh5iNOwB9njkR8DNSv01wf00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5iNOwB9njkR8DNSv01wf00",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:54"
+  },
+  {
+    "business_name": "Kanaujia Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "241303",
+    "phone_number": "+91 81888 18854",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "Bilhaur, Uttar Pradesh 209202",
+    "area": "241303",
+    "latitude": 26.8423181,
+    "longitude": 80.0582991,
+    "place_id": "ChIJ-SYUQRF_njkR7IEUv3_NGZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SYUQRF_njkR7IEUv3_NGZQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:11:55"
+  }
+]

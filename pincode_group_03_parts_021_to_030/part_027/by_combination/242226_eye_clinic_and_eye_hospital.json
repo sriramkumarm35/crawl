@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Shood Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "242226",
+    "phone_number": "+91 91981 32727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop number.87, Mohammad jai, Mohalla Mohammad Zai, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Mohalla Mohammad Zai",
+    "latitude": 27.867848199999997,
+    "longitude": 79.9141934,
+    "place_id": "ChIJE63v0s28nzkRkj1mjkuCVAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE63v0s28nzkRkj1mjkuCVAM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:56"
+  },
+  {
+    "business_name": "Bala Ji Eye Care. Dr. Apoorva Shukla",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "242226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VWH6+QHW, train, Bahadurganj Rd, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Ghanta Ghar",
+    "latitude": 27.8794869,
+    "longitude": 79.91145279999999,
+    "place_id": "ChIJwexQo2K9nzkRYsMQy5aHq5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwexQo2K9nzkRYsMQy5aHq5A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:56"
+  }
+]

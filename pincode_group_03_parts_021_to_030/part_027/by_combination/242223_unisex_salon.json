@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Curly Top Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "242223",
+    "phone_number": "+91 63936 31718",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "106 Bangle Ke Niche, Uttar Pradesh 242001",
+    "area": "Kaench",
+    "latitude": 27.8659584,
+    "longitude": 79.9064255,
+    "place_id": "ChIJndBfLT-9nzkRW2mfIGEOrhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndBfLT-9nzkRW2mfIGEOrhQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:41"
+  },
+  {
+    "business_name": "The style studio unisex salon and acedmy",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "242223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anta Chauraha, Brij Vihar Colony, Mohalla Chau Bhurji, Shahjahanpur, Sari Tallqua Chatouna, Uttar Pradesh 242001",
+    "area": "Brij Vihar Colony, Mohalla Chau Bhurji",
+    "latitude": 27.875420499999997,
+    "longitude": 79.91479249999999,
+    "place_id": "ChIJH7wpEwC9nzkRnGyyINhybfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7wpEwC9nzkRnGyyINhybfQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:42"
+  }
+]

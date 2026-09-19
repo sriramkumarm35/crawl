@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoib Fruit Shop",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "242226",
+    "phone_number": "+91 70072 71593",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Thandi Sadak, Cantt Area, Chinnor, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Cantt Area, Chinnor",
+    "latitude": 27.895524199999997,
+    "longitude": 79.9155972,
+    "place_id": "ChIJPV_jVhC9nzkRFPM92052q0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPV_jVhC9nzkRFPM92052q0Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:33"
+  },
+  {
+    "business_name": "Sonu Traders",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "242226",
+    "phone_number": "+91 91516 75464",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Kacheri, 101, near by GF College Road, Sadar Bazar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Sadar Bazar",
+    "latitude": 27.8839075,
+    "longitude": 79.9159772,
+    "place_id": "ChIJdaHQ3dy9nzkRnJmI_qGrQgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaHQ3dy9nzkRnJmI_qGrQgM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:34"
+  }
+]

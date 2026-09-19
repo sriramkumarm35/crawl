@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shruti Auto Sales Bajaj",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "242306",
+    "phone_number": "+91 78954 87377",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Baraincha, Kheri, SH-93, Mahomadi Gola Road, Lakhimpur Kheri, Lakhimpur Kheri, Uttar Pradesh 262804",
+    "area": "242306",
+    "latitude": 27.9258,
+    "longitude": 80.1167,
+    "place_id": "ChIJBfqczL4KnzkRjx-cwInOngc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfqczL4KnzkRjx-cwInOngc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:59"
+  },
+  {
+    "business_name": "Tata Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "242306",
+    "phone_number": "+91 96190 63206",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-auto-matrix-kadur-car-dealer-kadur-chickmagalur-267390/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Hathoda Chauraha, near City Park, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "242306",
+    "latitude": 27.8770134,
+    "longitude": 79.9326208,
+    "place_id": "ChIJo7bjzyWjnzkRpC6L-p9PMtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7bjzyWjnzkRpC6L-p9PMtw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:59"
+  }
+]

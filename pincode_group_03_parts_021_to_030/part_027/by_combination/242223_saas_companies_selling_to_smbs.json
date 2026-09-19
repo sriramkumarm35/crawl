@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMB Infotech",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Web hosting company, Website designer",
+    "pincode": "242223",
+    "phone_number": "+91 504302731",
+    "website": "https://smbinfotech.com/",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "Century Tower, 201-M, Khatiwala Tank Main Rd, Saifee Nagar, Indore, Madhya Pradesh 452014",
+    "area": "Saifee Nagar",
+    "latitude": 22.6968848,
+    "longitude": 75.85554189999999,
+    "place_id": "ChIJq6qq-m39YjkRgLFRRgeOfwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq-m39YjkRgLFRRgeOfwY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:24"
+  },
+  {
+    "business_name": "Bulk sms Software",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Smart shop",
+    "all_categories": "Smart shop, Service establishment",
+    "pincode": "242223",
+    "phone_number": "+91 74177 83846",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bulk sms Software, 242223, India",
+    "area": "242223",
+    "latitude": 28.5722234,
+    "longitude": 77.32538,
+    "place_id": "ChIJoag_EwH9DDkREMsZ9h9_cao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoag_EwH9DDkREMsZ9h9_cao",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:25"
+  }
+]

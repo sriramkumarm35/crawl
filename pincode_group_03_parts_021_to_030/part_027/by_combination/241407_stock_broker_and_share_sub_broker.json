@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StockPi",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "241407",
+    "phone_number": "+91 62896 37652",
+    "website": "http://stockpi.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2nd floor, 5B, Narendra Chandra Dutta Sarani, Fairley Place, B.B.D. Bagh, Kolkata, West Bengal 700001",
+    "area": "Fairley Place, B.B.D. Bagh",
+    "latitude": 22.5779043,
+    "longitude": 88.3481706,
+    "place_id": "ChIJZ29dEgB3AjoRSTCz7o4kh8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ29dEgB3AjoRSTCz7o4kh8Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:27:15"
+  },
+  {
+    "business_name": "BrokerApp",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "241407",
+    "phone_number": "+91 96675 99743",
+    "website": "http://brokerapp.com/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "6TH, OFFICE-05, UNIT NO, M3M, URBAN SB/C, 61, Sohna - Gurgaon Rd, Sector 67, Gurugram, Haryana 122018",
+    "area": "Sector 67",
+    "latitude": 28.4220018,
+    "longitude": 77.03889579999999,
+    "place_id": "ChIJo1YYBp4iDTkRFwer_p5QHhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1YYBp4iDTkRFwer_p5QHhE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:27:16"
+  }
+]

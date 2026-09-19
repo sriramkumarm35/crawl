@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shan Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "242301",
+    "phone_number": "+91 95657 18084",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2MG7+GR4, Katra, Uttar Pradesh 242301",
+    "area": "242301",
+    "latitude": 28.026267599999997,
+    "longitude": 79.6645738,
+    "place_id": "ChIJxY-Ogz3snzkRMZ9BsSNf6ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxY-Ogz3snzkRMZ9BsSNf6ug",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:41:17"
+  },
+  {
+    "business_name": "SM RICE MANUFACTURERS AND TRADERS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "242301",
+    "phone_number": "+91 91081 17369",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "#122, 4th Main Rd, Doctor Layout, Naganathapura, Rayasandra, Bengaluru, Karnataka 560100",
+    "area": "Doctor Layout, Naganathapura, Rayasandra",
+    "latitude": 12.870299399999999,
+    "longitude": 77.6680852,
+    "place_id": "ChIJ46qacnttrjsRkpj4VqjbRn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46qacnttrjsRkpj4VqjbRn4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:41:18"
+  }
+]

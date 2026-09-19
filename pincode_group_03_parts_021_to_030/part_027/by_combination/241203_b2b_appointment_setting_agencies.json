@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Staff Book",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "241203",
+    "phone_number": "N/A",
+    "website": "http://www.staffbook.in/",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "Staff Book, 241203, India",
+    "area": "241203",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJy5y6AM3QgWoRh-p9M-Xg7WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5y6AM3QgWoRh-p9M-Xg7WE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:34"
+  },
+  {
+    "business_name": "Talent Hunters Pvt Ltd",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "241203",
+    "phone_number": "+91 84386 99133",
+    "website": "http://www.talenthunterspvtltd.com/",
+    "rating": 4.8,
+    "reviews_count": 187,
+    "address": "180, Palakkad - Coimbatore Rd, Kuniyamuthr, Coimbatore, Kuniyamuthur, Tamil Nadu 641008",
+    "area": "Kuniyamuthr",
+    "latitude": 10.9621508,
+    "longitude": 76.9547699,
+    "place_id": "ChIJjxdfHyhbqDsRx51R3YctL90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxdfHyhbqDsRx51R3YctL90",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:05:34"
+  }
+]

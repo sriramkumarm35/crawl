@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Pharmacy Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "241305",
+    "phone_number": "+91 95896 58016",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "23, Umrhar, Deosar, Khairabada, Madhya Pradesh 486881",
+    "area": "Umrhar",
+    "latitude": 24.3210283,
+    "longitude": 82.352447,
+    "place_id": "ChIJkTGyFiZdjzkR_hBRnUGRFMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTGyFiZdjzkR_hBRnUGRFMg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:32"
+  },
+  {
+    "business_name": "HEALTHY CHOICE PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Medical Center",
+    "pincode": "241305",
+    "phone_number": "+91 81302 46428",
+    "website": "https://www.drgargshealthcare.com/index.php",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Roza Yakubpur, Greater Noida, Uttar Pradesh 201305",
+    "area": "Roza Yakubpur",
+    "latitude": 28.6047917,
+    "longitude": 77.4563513,
+    "place_id": "ChIJKyqSchHvDDkRydr5qUdxGYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyqSchHvDDkRydr5qUdxGYs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:34"
+  }
+]

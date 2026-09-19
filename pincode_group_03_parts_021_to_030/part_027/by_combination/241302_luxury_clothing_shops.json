@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Planet Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "241302",
+    "phone_number": "+91 5862 796 440",
+    "website": "https://www.planetfashion.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4Station Road, Vijay Laxmi Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Vijay Laxmi Nagar",
+    "latitude": 27.565416799999998,
+    "longitude": 80.68183979999999,
+    "place_id": "ChIJCcY7D_vXnjkRiwvHsZTbymY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcY7D_vXnjkRiwvHsZTbymY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:09:24"
+  },
+  {
+    "business_name": "Cinema road hardoi",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "241302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Cinema Rd, Sader Bazar, Hardoi, Uttar Pradesh 241001",
+    "area": "Sader Bazar",
+    "latitude": 27.393683499999998,
+    "longitude": 80.12898899999999,
+    "place_id": "ChIJ5XpoMwD5njkRZJeXFvdwhrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XpoMwD5njkRZJeXFvdwhrU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:09:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhudh dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "241124",
+    "phone_number": "+91 95591 53253",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MOH KHALIL POST, HNO 141, Pali - Shahabad Rd, Jogipur, Shahabad, Uttar Pradesh 241124",
+    "area": "241124",
+    "latitude": 27.652943999999998,
+    "longitude": 79.935593,
+    "place_id": "ChIJCbm-AwCvnzkRoor6MHt8dfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCbm-AwCvnzkRoor6MHt8dfw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:53:41"
+  },
+  {
+    "business_name": "Suraj patel dudh dery gausganj",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "241124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "37PQ+5Q4, Gausganj, Uttar Pradesh 241305",
+    "area": "241124",
+    "latitude": 27.0853751,
+    "longitude": 80.2894424,
+    "place_id": "ChIJLSysDQCRnjkRWrs_GoKLwYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSysDQCRnjkRWrs_GoKLwYQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:53:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Motel & Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Caterer, Motel",
+    "pincode": "242306",
+    "phone_number": "+91 97943 42465",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "VW3P+9HM, Roza Byp, opp. Vijaya Bank, Niwazpur, Ahmadpur, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "Niwazpur",
+    "latitude": 27.8534673,
+    "longitude": 79.9364121,
+    "place_id": "ChIJ0SJk80OjnzkRlAnTQq_JAAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SJk80OjnzkRlAnTQq_JAAg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:33"
+  },
+  {
+    "business_name": "Big Mumbai Cafe",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "242306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "WW8H+F8P, Chinnor, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Chinnor",
+    "latitude": 27.9162142,
+    "longitude": 79.9283274,
+    "place_id": "ChIJBWLmQACjnzkRDwhnGXjGOHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWLmQACjnzkRDwhnGXjGOHI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:46:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Gupta Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "241202",
+    "phone_number": "+91 96543 71832",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "89, Sita Road, Vikas Nagar, Kurseli, Uttar Pradesh 241405",
+    "area": "Vikas Nagar",
+    "latitude": 27.508053699999998,
+    "longitude": 80.1316008,
+    "place_id": "ChIJhz1V9Pz_njkR8jEMehZ3ylo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhz1V9Pz_njkR8jEMehZ3ylo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:02:55"
+  },
+  {
+    "business_name": "DriverNet",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "241202",
+    "phone_number": "+91 76685 65830",
+    "website": "https://www.drivernet.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "655/441, Tedhi Pulia Ring Rd, Vasundhara Vihar Colony, Adil Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Vasundhara Vihar Colony, Adil Nagar",
+    "latitude": 26.907166699999998,
+    "longitude": 80.9613225,
+    "place_id": "ChIJ-9dlYr9XmTkRp_aMZApagkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9dlYr9XmTkRp_aMZApagkQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:02:55"
+  }
+]

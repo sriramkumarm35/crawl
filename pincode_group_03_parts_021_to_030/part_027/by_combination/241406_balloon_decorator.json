@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Floonza",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Balloon artist, Event management company, Event planner",
+    "pincode": "241406",
+    "phone_number": "+91 62640 01583",
+    "website": "https://www.floonza.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C, 4/29A, Gali No. 1, Block D, Acharya Niketan, Mayur Vihar, New Delhi, Delhi, 110091",
+    "area": "Block D, Acharya Niketan, Mayur Vihar",
+    "latitude": 28.609965,
+    "longitude": 77.29256219999999,
+    "place_id": "ChIJg6eP4B3lDDkRa8RGJdvqGhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6eP4B3lDDkRa8RGJdvqGhM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:12"
+  },
+  {
+    "business_name": "Balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "241406",
+    "phone_number": "+91 90093 96788",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Govt school के सामने, 3/11, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme No 54",
+    "latitude": 22.75452,
+    "longitude": 75.88337,
+    "place_id": "ChIJWz64ZSoDYzkRP5m-UdTb0Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWz64ZSoDYzkRP5m-UdTb0Y4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:14"
+  }
+]

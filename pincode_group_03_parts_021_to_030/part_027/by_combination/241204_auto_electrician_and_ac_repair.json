@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car electrical and ac work",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "241204",
+    "phone_number": "+91 93814 04308",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madhapur hi-tech City vittal rao Nagar Sarva number 11, Hitech City Rd, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Vittal Rao Nagar, Madhapur",
+    "latitude": 17.440120099999998,
+    "longitude": 78.38460309999999,
+    "place_id": "ChIJxxuNGhCRyzsR9Ztpj3Q_ew4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxuNGhCRyzsR9Ztpj3Q_ew4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:15"
+  },
+  {
+    "business_name": "Air care",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Machine repair service",
+    "all_categories": "Machine repair service",
+    "pincode": "241204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "94PG+Q23, Mominabad, Hardoi, Uttar Pradesh 241001",
+    "area": "Mominabad",
+    "latitude": 27.386897899999997,
+    "longitude": 80.12506239999999,
+    "place_id": "ChIJK0nYTgD5njkR2xsMyctm1Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0nYTgD5njkR2xsMyctm1Sc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:15"
+  }
+]

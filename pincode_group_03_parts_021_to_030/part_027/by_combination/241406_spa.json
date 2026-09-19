@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Madical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "241406",
+    "phone_number": "+91 94736 57594",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mishra Madical Store, Shahabad - Pihani Rd, Singoha, Uttar Pradesh 241125",
+    "area": "241406",
+    "latitude": 27.6405739,
+    "longitude": 80.0618743,
+    "place_id": "ChIJLx3QOJKrnzkRypx6ZR8TNc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx3QOJKrnzkRypx6ZR8TNc4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:02"
+  },
+  {
+    "business_name": "𝐆𝐨𝐥𝐝𝐞𝐧 𝐃𝐨𝐨𝐫 𝐒𝐩𝐚 & 𝐒𝐚𝐥𝐨𝐨𝐧",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Spa",
+    "pincode": "241406",
+    "phone_number": "+91 88810 94284",
+    "website": "https://goldendoorspa.in/",
+    "rating": 4.9,
+    "reviews_count": 2051,
+    "address": "3rd Floor, Om Complex, Vidyapeeth Rd, above Honda Bigwing Showroom, Annapurna Nagar Colony, Vidya Vihar Colony, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Annapurna Nagar Colony, Vidya Vihar Colony, Sigra",
+    "latitude": 25.318860299999997,
+    "longitude": 82.9880453,
+    "place_id": "ChIJr1tACyYtjjkR-hMMVyJGOPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1tACyYtjjkR-hMMVyJGOPo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:25:03"
+  }
+]

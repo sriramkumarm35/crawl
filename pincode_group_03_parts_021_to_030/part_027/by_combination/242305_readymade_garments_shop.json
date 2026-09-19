@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anwar Ali readymade garments shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5QHC+RMH, Rasiakhanpur, Uttar Pradesh 262201",
+    "area": "242305",
+    "latitude": 28.179560499999997,
+    "longitude": 79.7717464,
+    "place_id": "ChIJbW8lJgCNnzkRlQiBna0opCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbW8lJgCNnzkRlQiBna0opCg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:52"
+  },
+  {
+    "business_name": "Mubarak Cloth House",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242305",
+    "phone_number": "+91 95607 88727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Khudaganj-Nigohi Road, Khudaganj, Uttar Pradesh 242305",
+    "area": "242305",
+    "latitude": 28.1480857,
+    "longitude": 79.7120738,
+    "place_id": "ChIJuxPFnrbznzkRotsIF0pL8-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxPFnrbznzkRotsIF0pL8-E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:52"
+  }
+]

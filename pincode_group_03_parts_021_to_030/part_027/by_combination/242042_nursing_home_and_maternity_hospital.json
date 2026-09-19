@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajdhani hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "242042",
+    "phone_number": "+91 93696 95022",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Near lalbag Chauraha Hardoi road rausar kothi chauthera, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "242042",
+    "latitude": 27.826549699999998,
+    "longitude": 79.9232344,
+    "place_id": "ChIJk-1p06KlnzkRkf9nYpEY_lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-1p06KlnzkRkf9nYpEY_lM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:31:26"
+  },
+  {
+    "business_name": "Shiv Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "242042",
+    "phone_number": "+91 82570 95680",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "SH 29, Rauli Bouri, Uttar Pradesh 242221",
+    "area": "242042",
+    "latitude": 27.708063499999998,
+    "longitude": 79.65113339999999,
+    "place_id": "ChIJZdHxFezJnzkRXujQk59X1S0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdHxFezJnzkRXujQk59X1S0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:31:26"
+  }
+]

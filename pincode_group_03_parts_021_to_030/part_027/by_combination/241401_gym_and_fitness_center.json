@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandi hippie gym club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7XR4+26V mitha mitha kua, Sandi, Uttar Pradesh 241403",
+    "area": "241401",
+    "latitude": 27.2901003,
+    "longitude": 79.95554469999999,
+    "place_id": "ChIJnwQpRQBbnjkR-3FgEGG8y2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwQpRQBbnjkR-3FgEGG8y2w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:25"
+  },
+  {
+    "business_name": "The Hulk gym center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "8R9R+45X, Harpalpur - Paliya Rd, Harpalpur, Uttar Pradesh 241402",
+    "area": "241401",
+    "latitude": 27.3178713,
+    "longitude": 79.8404764,
+    "place_id": "ChIJ_bvRegBFnjkR-TOjrK8b9Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bvRegBFnjkR-TOjrK8b9Dw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:25"
+  }
+]

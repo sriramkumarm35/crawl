@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community Health Centre R. (New Government Hospital)",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "242223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kanth, Uttar Pradesh 242223",
+    "area": "242223",
+    "latitude": 27.8075613,
+    "longitude": 79.7857739,
+    "place_id": "ChIJSY1hvSC5nzkRzxe8mrq4e9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSY1hvSC5nzkRzxe8mrq4e9Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:43"
+  },
+  {
+    "business_name": "प्राथमिक स्वास्थ्य केन्द्र",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "242223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RPXJ+P8W, Jaitapur Simra, Uttar Pradesh 242301",
+    "area": "242223",
+    "latitude": 27.849358799999997,
+    "longitude": 79.7308427,
+    "place_id": "ChIJp7Icwz3BnzkRYDpfmhQI6_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7Icwz3BnzkRYDpfmhQI6_I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:38:43"
+  }
+]

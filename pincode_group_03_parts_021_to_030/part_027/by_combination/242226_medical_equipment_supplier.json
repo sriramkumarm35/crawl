@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taafi Medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "242226",
+    "phone_number": "+91 87389 51508",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chauraha, Mishripur, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "Chauraha",
+    "latitude": 27.843331499999998,
+    "longitude": 79.9178709,
+    "place_id": "ChIJP7rM-My9nzkRSwaVsFgARvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7rM-My9nzkRSwaVsFgARvM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:01"
+  },
+  {
+    "business_name": "Baba Medical shop",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy",
+    "pincode": "242226",
+    "phone_number": "+91 89601 31118",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VW48+9X5, Dalel Ganj, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Dalel Ganj",
+    "latitude": 27.8558803,
+    "longitude": 79.91748969999999,
+    "place_id": "ChIJa4QnrLW8nzkRAPu5LbVfnCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4QnrLW8nzkRAPu5LbVfnCk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:40:01"
+  }
+]

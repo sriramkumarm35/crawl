@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Som Driver Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Airport Shuttle Service Provider, Limousine service, Taxi service, Transportation service, Valet parking service",
+    "pincode": "241126",
+    "phone_number": "+91 73881 00005",
+    "website": "https://sites.google.com/view/somdriverservices/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3/886, Vastu Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vastu Khand, Gomti Nagar",
+    "latitude": 26.865867899999998,
+    "longitude": 81.0264406,
+    "place_id": "ChIJXxTJBinjmzkRGx3KztilJnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxTJBinjmzkRGx3KztilJnk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:57:52"
+  },
+  {
+    "business_name": "A one driver service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "241126",
+    "phone_number": "+91 82991 47960",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shama bakery, Picnic Spot Rd, near Lucky juice, Kamla Nehru Nagar, Khurram Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Kamla Nehru Nagar, Khurram Nagar",
+    "latitude": 26.8910816,
+    "longitude": 80.97184759999999,
+    "place_id": "ChIJt7xasfpXmTkRGFKZdmaFAwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7xasfpXmTkRGFKZdmaFAwQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 05:57:52"
+  }
+]

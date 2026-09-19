@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S. K. Garment collection",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "241401",
+    "phone_number": "+91 88744 03760",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hardoi jagdeeshpur road, Bawan, Jagdishpur, Uttar Pradesh 241001",
+    "area": "241401",
+    "latitude": 27.3991102,
+    "longitude": 79.9961936,
+    "place_id": "ChIJrRgmgMVRnjkR5utJ7aPDsms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRgmgMVRnjkR5utJ7aPDsms",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:08"
+  },
+  {
+    "business_name": "Cloth",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sakhera, Sandi, Hardoi, Uttar Pradesh 241403",
+    "area": "Sakhera",
+    "latitude": 27.2901003,
+    "longitude": 79.95554469999999,
+    "place_id": "ChIJ901ipNhbnjkRdDTF55gUjU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ901ipNhbnjkRdDTF55gUjU4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:08"
+  }
+]

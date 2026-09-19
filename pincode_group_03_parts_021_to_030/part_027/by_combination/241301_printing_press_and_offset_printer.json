@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Enterprises",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "241301",
+    "phone_number": "+91 97941 48184",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Rathour Market, near Peapal Chauraha, Bilgram, Uttar Pradesh 241301",
+    "area": "241301",
+    "latitude": 27.1730529,
+    "longitude": 80.0346428,
+    "place_id": "ChIJP_4E75RgnjkRT0c-46NnkdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_4E75RgnjkRT0c-46NnkdI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:29"
+  },
+  {
+    "business_name": "Anjali Cards",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Advertising agency, Digital printing service, Gift shop, Invitation printing service, Offset Printer, Screen printing shop, Stationery store",
+    "pincode": "241301",
+    "phone_number": "+91 90440 08551",
+    "website": "http://www.anjalicards.com/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "near Union Bank, Patel Nagar, Kananuj, Saraimeera, Kannauj, Uttar Pradesh 209727",
+    "area": "Patel Nagar, Kananuj, Saraimeera",
+    "latitude": 27.023604499999998,
+    "longitude": 79.9306053,
+    "place_id": "ChIJZbcgG6llnjkRmganu4vLL4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbcgG6llnjkRmganu4vLL4o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:29"
+  }
+]

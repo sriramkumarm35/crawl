@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khalik Auto Repairing",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "241401",
+    "phone_number": "+91 99935 58054",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "45 Jhakharawal, Deosar - Chitrangi Rd, Rod, Singrauli, Madhya Pradesh 486881",
+    "area": "Rod",
+    "latitude": 24.3207167,
+    "longitude": 82.3422185,
+    "place_id": "ChIJW2uIdXZdjzkRV53xF3l2V0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2uIdXZdjzkRV53xF3l2V0A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:27"
+  },
+  {
+    "business_name": "Radhe Krishna Automobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "241401",
+    "phone_number": "+91 96696 64286",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7XHP+QX7, Masangaon, Madhya Pradesh 461331",
+    "area": "241401",
+    "latitude": 22.2794164,
+    "longitude": 76.9874098,
+    "place_id": "ChIJ0-6DXQBlfTkRUTBtilw2X7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-6DXQBlfTkRUTBtilw2X7I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:27"
+  }
+]

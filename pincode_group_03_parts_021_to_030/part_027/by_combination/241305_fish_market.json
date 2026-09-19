@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ocea Seafoods",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood wholesaler",
+    "all_categories": "Seafood wholesaler, Seafood market",
+    "pincode": "241305",
+    "phone_number": "+91 81234 56111",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "CHETTALI Trade Center, Russell Market Square, 35/1, Shivaji Nagar, Bengaluru, Karnataka 560051",
+    "area": "Shivaji Nagar",
+    "latitude": 12.984495299999999,
+    "longitude": 77.6059858,
+    "place_id": "ChIJTyEG074XrjsRTGLfEAaJsmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyEG074XrjsRTGLfEAaJsmQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:15"
+  },
+  {
+    "business_name": "Fish Market (fish and prawns)",
+    "search_category": "Fish Market",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "241305",
+    "phone_number": "+91 89516 83817",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "WP67+329, Chikkabellandur Main Rd, Varthur, Hobli, Chikkabellandur, Bengaluru, Karnataka 560035",
+    "area": "Varthur, Hobli, Chikkabellandur",
+    "latitude": 12.9100453,
+    "longitude": 77.7125787,
+    "place_id": "ChIJ-0pzuikTrjsRbNigo-oF1Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0pzuikTrjsRbNigo-oF1Qg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:14:15"
+  }
+]

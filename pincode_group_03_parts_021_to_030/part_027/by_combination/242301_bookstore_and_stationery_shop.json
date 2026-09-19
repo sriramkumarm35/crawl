@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "242301",
+    "phone_number": "+91 78973 56001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "00, Jalalabad Road, near Indian Bank, Meeranpur, Katra, Feel Nagar, Uttar Pradesh 242301",
+    "area": "Meeranpur",
+    "latitude": 28.020077999999998,
+    "longitude": 79.6669199,
+    "place_id": "ChIJ867Zz2ztnzkR8Lw-cy9U5Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ867Zz2ztnzkR8Lw-cy9U5Jc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:42:25"
+  },
+  {
+    "business_name": "AWASTHI BOOK DEPOT",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "242301",
+    "phone_number": "+91 94504 41507",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 31,
+    "address": "Nakasa Bazar, Khutar, Narainpur Vikrampur, Uttar Pradesh 242405",
+    "area": "242301",
+    "latitude": 28.2041191,
+    "longitude": 80.26454489999999,
+    "place_id": "ChIJXXOn7jl7nzkRWcz9EDwipUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXOn7jl7nzkRWcz9EDwipUk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:42:25"
+  }
+]

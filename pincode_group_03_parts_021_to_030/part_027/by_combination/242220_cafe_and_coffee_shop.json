@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE PIZZA PARADISE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "242220",
+    "phone_number": "+91 98763 60763",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nigohi, Uttar Pradesh 242407",
+    "area": "242220",
+    "latitude": 28.0985816,
+    "longitude": 79.8649181,
+    "place_id": "ChIJE-6NbUqRnzkRLyidpV8nRRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-6NbUqRnzkRLyidpV8nRRo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:34:37"
+  },
+  {
+    "business_name": "99 Cafe &Family Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "242220",
+    "phone_number": "+91 90053 24831",
+    "website": "https://99cafeparshurampuri.netlify.app/",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "HDFC bank ke saamne, mod, Gunara, Parashurampuri, Uttar Pradesh 242221",
+    "area": "242220",
+    "latitude": 27.7183012,
+    "longitude": 79.65277859999999,
+    "place_id": "ChIJhwZSUwDJnzkRwKGmenGkN90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwZSUwDJnzkRwKGmenGkN90",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:34:37"
+  }
+]

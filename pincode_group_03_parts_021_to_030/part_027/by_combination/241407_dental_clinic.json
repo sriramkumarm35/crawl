@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nadira Dental and Eye Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "241407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P8CV+2R3, Maigalganj, Uttar Pradesh 261505",
+    "area": "241407",
+    "latitude": 27.7200065,
+    "longitude": 80.344534,
+    "place_id": "ChIJ32TKrG4bnzkRC8HPV_8HDZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32TKrG4bnzkRC8HPV_8HDZI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:19"
+  },
+  {
+    "business_name": "Pathak Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "241407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GT Road, Maigalganj, Uttar Pradesh 261505",
+    "area": "241407",
+    "latitude": 27.717334899999997,
+    "longitude": 80.344931,
+    "place_id": "ChIJAQAAQMgbnzkRMeyq4s86Gl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQMgbnzkRMeyq4s86Gl8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gadgetstore Mallawan",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "241301",
+    "phone_number": "+91 70070 82437",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Mallawan, Uttar Pradesh 241303",
+    "area": "241301",
+    "latitude": 27.0261137,
+    "longitude": 80.1549713,
+    "place_id": "ChIJR-wzGACJnjkRWpuV4VnXpCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-wzGACJnjkRWpuV4VnXpCk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:31"
+  },
+  {
+    "business_name": "A to Z mobail Repairing Centre Sandeep",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "241301",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/profile.php?id=100068312464045&mibextid=ZbWKwL",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Guruwan, Naugawan, Uttar Pradesh 231211",
+    "area": "Guruwan",
+    "latitude": 24.8922456,
+    "longitude": 82.2619206,
+    "place_id": "ChIJtRSkEE6JjzkRgtST7XDoOuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRSkEE6JjzkRgtST7XDoOuY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:33"
+  }
+]

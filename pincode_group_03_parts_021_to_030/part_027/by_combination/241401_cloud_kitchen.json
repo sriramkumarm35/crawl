@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOM'S Kitchen - Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "241401",
+    "phone_number": "+91 89068 76937",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Kalna Gate, New Market, Bardhaman, West Bengal 713103",
+    "area": "New Market",
+    "latitude": 23.2375609,
+    "longitude": 87.88171249999999,
+    "place_id": "ChIJsxoKVLtJ-DkRsszsTmv_1cQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxoKVLtJ-DkRsszsTmv_1cQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:06"
+  },
+  {
+    "business_name": "Shree Radhe Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "241401",
+    "phone_number": "+91 70003 75583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "188/5, 188, Alakhdham Colony, Shastri Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Alakhdham Colony, Shastri Nagar",
+    "latitude": 23.169240199999997,
+    "longitude": 75.7875984,
+    "place_id": "ChIJibH13Dx1YzkRbL1XwwDVIh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibH13Dx1YzkRbL1XwwDVIh8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:06"
+  }
+]

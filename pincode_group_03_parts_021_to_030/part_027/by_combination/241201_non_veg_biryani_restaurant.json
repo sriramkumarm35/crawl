@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow chiken biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant, Soup kitchen",
+    "pincode": "241201",
+    "phone_number": "+91 73550 10927",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 93,
+    "address": "shital ganj chouraha, Sandila Rd, near sahil furniture house, gotpali, Bhagwantpur, Bangarmau, Uttar Pradesh 209868",
+    "area": "gotpali",
+    "latitude": 26.910161499999997,
+    "longitude": 80.24336919999999,
+    "place_id": "ChIJFRy9WACDnjkRBw8RHygE8QA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRy9WACDnjkRBw8RHygE8QA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:00:43"
+  },
+  {
+    "business_name": "Anas biryani corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "241201",
+    "phone_number": "+91 95114 56716",
+    "website": "https://anasmansuri067gmail.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Gausganj chouraha, Sandila Rd, Gausganj, Uttar Pradesh 241305",
+    "area": "Gausganj",
+    "latitude": 26.9947146,
+    "longitude": 80.3520451,
+    "place_id": "ChIJXyowg5ubnjkRwKxWmvKTB5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyowg5ubnjkRwKxWmvKTB5k",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:00:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "91Trucks",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Used truck dealer",
+    "all_categories": "Used truck dealer",
+    "pincode": "241407",
+    "phone_number": "N/A",
+    "website": "https://www.91trucks.com/",
+    "rating": 4.9,
+    "reviews_count": 50,
+    "address": "Khasra No-210, Industrial Land, Rithani West, Rithani, Meerut, Uttar Pradesh 250103",
+    "area": "Rithani West, Rithani",
+    "latitude": 28.9382906,
+    "longitude": 77.6643534,
+    "place_id": "ChIJ4brSEFNjDDkRhULxucILlI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4brSEFNjDDkRhULxucILlI8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:29"
+  },
+  {
+    "business_name": "Awasthi Tractors New Holland Tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "241407",
+    "phone_number": "+91 89533 34603",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 10,
+    "address": "Norang Market, Lucknow - Hardoi - Shahjahanpur Rd, near Galaxy Hotel And Restaurant, Hardoi, Uttar Pradesh 241001",
+    "area": "Azadnagar",
+    "latitude": 27.4143635,
+    "longitude": 80.1245563,
+    "place_id": "ChIJy8fT1Q_5njkRbdrh39MiGx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8fT1Q_5njkRbdrh39MiGx4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:26:31"
+  }
+]

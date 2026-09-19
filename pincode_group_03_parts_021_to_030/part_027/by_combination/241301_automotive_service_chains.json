@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Automotive Hub",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "241301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Infront of Krishi Mahavidyalaya Gate, Bilgram - Hardoi Rd, near Bilgram Chungi, Radha Nagar, Hardoi, Uttar Pradesh 241001",
+    "area": "Radha Nagar",
+    "latitude": 27.379464499999997,
+    "longitude": 80.1226466,
+    "place_id": "ChIJG2T_JNz3njkR2lksZhYJn9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2T_JNz3njkR2lksZhYJn9U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:00"
+  },
+  {
+    "business_name": "HS ENGINICS (Valvoline Mobil Oil Wholesale Distributor)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Electric generator shop",
+    "pincode": "241301",
+    "phone_number": "+91 63863 07758",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "169, Laxmi Nagar, Near Aloo Mill, Circular Road, Bilgram, Chungi, Hardoi, Uttar Pradesh 241001",
+    "area": "241301",
+    "latitude": 27.3836583,
+    "longitude": 80.1199633,
+    "place_id": "ChIJEeBsjcP3njkR7bDzY3B4qAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeBsjcP3njkR7bDzY3B4qAc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:00"
+  }
+]

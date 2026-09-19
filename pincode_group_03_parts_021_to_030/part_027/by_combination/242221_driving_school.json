@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj Auto",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "242221",
+    "phone_number": "+91 95809 25723",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "03, Jalalabad Road, Parashurampuri, Kumhrua, Uttar Pradesh 242221",
+    "area": "242221",
+    "latitude": 27.7146992,
+    "longitude": 79.726428,
+    "place_id": "ChIJ5W6DnLzJnzkRkqjrrbOgFhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5W6DnLzJnzkRkqjrrbOgFhM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:45"
+  },
+  {
+    "business_name": "Skill Development Training Centre",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "242221",
+    "phone_number": "+91 80906 56070",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Daya Kutir, Pitarmau Road, 3rd Street, near Kakori Shaheed Inter College, Pratap Nagar, Parashurampuri, Uttar Pradesh 242221",
+    "area": "Pratap Nagar",
+    "latitude": 27.724587099999997,
+    "longitude": 79.6497421,
+    "place_id": "ChIJ0SqZ5v_FnzkRLTenYkp_ReE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SqZ5v_FnzkRLTenYkp_ReE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:36:45"
+  }
+]

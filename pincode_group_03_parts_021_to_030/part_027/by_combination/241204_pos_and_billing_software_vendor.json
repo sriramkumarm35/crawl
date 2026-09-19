@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ezeetech Solutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Accounting firm, Business administration service, Business management consultant, Investment company, Payroll Service Provider, Website designer",
+    "pincode": "241204",
+    "phone_number": "+91 11 4990 1562",
+    "website": "https://ezeetechonline.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd Floor, Baba House Complex, 149-A, Mahatma Gandhi Rd, Kilokri, Phase 1, Sunlight Colony, New Delhi, Delhi 110014",
+    "area": "Kilokri, Phase 1, Sunlight Colony",
+    "latitude": 28.5765912,
+    "longitude": 77.2627268,
+    "place_id": "ChIJ8XVy-qHjDDkRNpU2vDkjeSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XVy-qHjDDkRNpU2vDkjeSw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:52"
+  },
+  {
+    "business_name": "Aman Infosolutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services",
+    "pincode": "241204",
+    "phone_number": "+91 141 261 4400",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C-13, Pratap Marg, Sethi Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Sethi Colony",
+    "latitude": 26.904787,
+    "longitude": 75.8404,
+    "place_id": "ChIJVVUVM8O2bTkRmbSCC-PgiIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUVM8O2bTkRmbSCC-PgiIA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:06:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crown cricket academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "241403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "City park, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "241403",
+    "latitude": 27.8732388,
+    "longitude": 79.9300305,
+    "place_id": "ChIJH3estXijnzkRsueSECFfW_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3estXijnzkRsueSECFfW_c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:19"
+  },
+  {
+    "business_name": "SR cricket academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket club",
+    "all_categories": "Cricket club",
+    "pincode": "241403",
+    "phone_number": "+91 86019 26162",
+    "website": "http://www.srcricketacademysitapur.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "behind HKP inter College, near pani ki tanki, Lohar Bagh, Ambedkar Nagar, Sanjay Nagar, Sitapur, Uttar Pradesh 261001",
+    "area": "Lohar Bagh, Ambedkar Nagar, Sanjay Nagar",
+    "latitude": 27.563310299999998,
+    "longitude": 80.6773547,
+    "place_id": "ChIJi5xJI7_XnjkRhMm2idbSJ64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5xJI7_XnjkRhMm2idbSJ64",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:19"
+  }
+]

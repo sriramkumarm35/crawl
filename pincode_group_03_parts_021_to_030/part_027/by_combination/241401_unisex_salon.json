@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "82C4+FV9, Sandi Rd, Jagdishpur, Hardoi, Adampur, Uttar Pradesh 241403",
+    "area": "Jagdishpur",
+    "latitude": 27.3211567,
+    "longitude": 80.0072452,
+    "place_id": "ChIJwQqjGABbnjkRP-Pw9MeLciY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQqjGABbnjkRP-Pw9MeLciY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:44"
+  },
+  {
+    "business_name": "Rohit hair dresser",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "241401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CX2W+79F, Jagdishpur, Teriya, Uttar Pradesh 241001",
+    "area": "241401",
+    "latitude": 27.4006854,
+    "longitude": 79.9958691,
+    "place_id": "ChIJizvaOQBRnjkRALER5-GfHQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizvaOQBRnjkRALER5-GfHQc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:16:44"
+  }
+]

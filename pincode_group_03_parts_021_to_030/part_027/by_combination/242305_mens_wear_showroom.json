@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW FANCY VASTRALAY",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "242305",
+    "phone_number": "+91 95571 45714",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Hanuman Gali, Khudaganj, Uttar Pradesh 242305",
+    "area": "242305",
+    "latitude": 28.1460704,
+    "longitude": 79.713475,
+    "place_id": "ChIJIwznFh7znzkRLVxiNlVomoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwznFh7znzkRLVxiNlVomoc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:54"
+  },
+  {
+    "business_name": "Mittal General Store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "242305",
+    "phone_number": "+91 95576 75809",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "Main road, near Nager Palika, Sahukara, Faridpur, Uttar Pradesh 243503",
+    "area": "Sahukara",
+    "latitude": 28.2082645,
+    "longitude": 79.5388272,
+    "place_id": "ChIJ08sZNLf5nzkRUZe-vN51d2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08sZNLf5nzkRUZe-vN51d2w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:44:56"
+  }
+]

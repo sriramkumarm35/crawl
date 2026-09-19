@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "your digital agency",
+    "search_category": "Growth Marketing",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "241303",
+    "phone_number": "+91 78004 98828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05, unnao, Shahpur Ganga, Uttar Pradesh 241303",
+    "area": "241303",
+    "latitude": 26.9935849,
+    "longitude": 80.1651854,
+    "place_id": "ChIJCyyJvtSHnjkRjxCicWGHKOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyyJvtSHnjkRjxCicWGHKOw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:21"
+  },
+  {
+    "business_name": "Tiwari Beej Bhandar",
+    "search_category": "Growth Marketing",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "241303",
+    "phone_number": "+91 90264 87854",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Heerapurva Tiraha Pawanr, Shahpur, Mallawan, Uttar Pradesh 241303",
+    "area": "241303",
+    "latitude": 26.9559689,
+    "longitude": 80.0484699,
+    "place_id": "ChIJMwjYqACJnjkRiV5ceRMag3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwjYqACJnjkRiV5ceRMag3U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:12:23"
+  }
+]

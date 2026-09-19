@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Bihari Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "241404",
+    "phone_number": "+91 95599 65281",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "road, near junior high school, Pihani, Pihani Dehat, Uttar Pradesh 241406",
+    "area": "241404",
+    "latitude": 27.6227983,
+    "longitude": 80.19833059999999,
+    "place_id": "ChIJeYXXqi4DnzkRwITtikBFOt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYXXqi4DnzkRwITtikBFOt4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:49"
+  },
+  {
+    "business_name": "RCM Store, Sheopar, Hardoi (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "241404",
+    "phone_number": "+91 70719 12245",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Swagat WW Sri Nagar, Sitapur Road, near Sports Stadium, Sheopar, Shivpar, Maholiya Sheopar, Hardoi, Uttar Pradesh 241001",
+    "area": "Sheopar, Shivpar",
+    "latitude": 27.4083842,
+    "longitude": 80.1602827,
+    "place_id": "ChIJrTDAv4j5njkRQQoYiV6UIWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTDAv4j5njkRQQoYiV6UIWk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:20:50"
+  }
+]

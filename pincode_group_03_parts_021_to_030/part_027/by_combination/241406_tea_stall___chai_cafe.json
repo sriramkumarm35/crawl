@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAI CLUB",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "241406",
+    "phone_number": "+91 95021 62168",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop1, opp. Aswin Curry Point, Ameerpet, Yella Reddy Guda, Hyderabad, Telangana 500073",
+    "area": "Ameerpet, Yella Reddy Guda",
+    "latitude": 17.4316183,
+    "longitude": 78.4428147,
+    "place_id": "ChIJo5HITimRyzsRDR1nhjruPAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5HITimRyzsRDR1nhjruPAA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:18"
+  },
+  {
+    "business_name": "COFFEE TEA POWDER",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee machine supplier",
+    "all_categories": "Coffee machine supplier, Coffee roastery, Coffee shop, Coffee vending machine, Coffee wholesaler, Machine maintenance service, Repair service, Tea Wholesaler",
+    "pincode": "241406",
+    "phone_number": "+91 89208 64115",
+    "website": "http://coffeeteapowder.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "E-5, Rani Garden, Shastri Nagar, Geeta Colony, Delhi, 110031",
+    "area": "Rani Garden, Shastri Nagar, Geeta Colony",
+    "latitude": 28.6464374,
+    "longitude": 77.2719692,
+    "place_id": "ChIJD7lTNZ_9DDkRi1KpOl0WqKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7lTNZ_9DDkRi1KpOl0WqKM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:20"
+  }
+]

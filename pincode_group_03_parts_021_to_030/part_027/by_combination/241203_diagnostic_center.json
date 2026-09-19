@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "241203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6FJF+86C, Kothawan, Uttar Pradesh 241304",
+    "area": "241203",
+    "latitude": 27.230810299999998,
+    "longitude": 80.4730304,
+    "place_id": "ChIJRYNCXgDBnjkR5m2N89z69HU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYNCXgDBnjkR5m2N89z69HU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:04:24"
+  },
+  {
+    "business_name": "Health care diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "241203",
+    "phone_number": "+91 90056 08469",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Health care diagnostic centre, chauraha, imaliyabagh, Sandila, Uttar Pradesh 241204",
+    "area": "imaliyabagh",
+    "latitude": 27.077046499999998,
+    "longitude": 80.51925349999999,
+    "place_id": "ChIJVyTv8Oq9njkRujxpdvnkr3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyTv8Oq9njkRujxpdvnkr3o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:04:24"
+  }
+]

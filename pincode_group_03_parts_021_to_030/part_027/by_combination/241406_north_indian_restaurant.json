@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Dhaba and Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "241406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "P948+CG9, Lidhipai, Uttar Pradesh 261505",
+    "area": "241406",
+    "latitude": 27.706370999999997,
+    "longitude": 80.3658827,
+    "place_id": "ChIJ90-hNgAZnzkRT8DtRcUcSIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90-hNgAZnzkRT8DtRcUcSIg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:20"
+  },
+  {
+    "business_name": "Shambho Sthal Baati Chokha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "241406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 60,
+    "address": "Q4V9+9V3, NH 30, Kotra, Uttar Pradesh 261505",
+    "area": "241406",
+    "latitude": 27.7933819,
+    "longitude": 80.1196801,
+    "place_id": "ChIJT1Vdl8sJnzkReQXfxML-RGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1Vdl8sJnzkReQXfxML-RGA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:24:21"
+  }
+]

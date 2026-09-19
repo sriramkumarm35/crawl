@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home bk",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "241301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Newada, Bilgram, Pasner, Uttar Pradesh 241301",
+    "area": "Newada",
+    "latitude": 27.173538399999998,
+    "longitude": 80.0339312,
+    "place_id": "ChIJLfbnZ5lhnjkR2CffSrMaC7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfbnZ5lhnjkR2CffSrMaC7M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:10"
+  },
+  {
+    "business_name": "Shristi (श्रृष्टि) beauty parlour and hair salon",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "241301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mallawan Public School Rd, Mallawan, Uttar Pradesh 241303",
+    "area": "241301",
+    "latitude": 27.0314378,
+    "longitude": 80.1534987,
+    "place_id": "ChIJ5aulabyJnjkRW2GuKVEKIpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5aulabyJnjkRW2GuKVEKIpk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:08:12"
+  }
+]

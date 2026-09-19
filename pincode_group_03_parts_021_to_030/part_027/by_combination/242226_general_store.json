@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "242226",
+    "phone_number": "+91 85659 88340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RWX9+56M, Hardoi Road, Ram Bagh, Mishripur, Uttar Pradesh 242001",
+    "area": "Ram Bagh",
+    "latitude": 27.8479586,
+    "longitude": 79.91804119999999,
+    "place_id": "ChIJUbGZobK8nzkRAWsCdm9gaCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbGZobK8nzkRAWsCdm9gaCk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:34"
+  },
+  {
+    "business_name": "Hari Om General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "242226",
+    "phone_number": "+91 80053 31588",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "01 Keruganj, Road, Mission Field, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Mission Field",
+    "latitude": 27.8643765,
+    "longitude": 79.9156653,
+    "place_id": "ChIJuxy4LAW9nzkRAe_XuRpQPwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxy4LAW9nzkRAe_XuRpQPwY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:39:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Hari Enterprise",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services, Water Tank Cleaners",
+    "pincode": "242220",
+    "phone_number": "+91 63591 25019",
+    "website": "https://www.shreeharienterpriseindia.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "G/F 35, Kalpvruksh Complex, Gotri Rd, nr. T.B. Hospital, opp. G.E.B. Substation, Harikrupa society 1, Gotri, Vadodara, Gujarat 390007",
+    "area": "Harikrupa society 1, Gotri",
+    "latitude": 22.3148268,
+    "longitude": 73.1408332,
+    "place_id": "ChIJ_x3x7Y3IXzkRTC6rSniBrmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_x3x7Y3IXzkRTC6rSniBrmM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:35:45"
+  },
+  {
+    "business_name": "Sinehome",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Leather cleaning service, Upholstery cleaning service, Window cleaning service",
+    "pincode": "242220",
+    "phone_number": "+91 88225 22270",
+    "website": "https://sinehome.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dargah Rd, Hatigaon, Guwahati, Assam 781038",
+    "area": "Hatigaon",
+    "latitude": 26.1290957,
+    "longitude": 91.7802968,
+    "place_id": "ChIJaSPBDPy8xywRoJxgmFNd0fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSPBDPy8xywRoJxgmFNd0fo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:35:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Durga Travels and Taxi service in Bareilly",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "242303",
+    "phone_number": "+91 94118 83212",
+    "website": "https://ndtaxicabservicebareilly.com/",
+    "rating": 4.9,
+    "reviews_count": 296,
+    "address": "House No-A.38, Ashutosh City, Gate No-2, Pilibhit Bypass Rd, Chhoti Vihar, Bareilly, Uttar Pradesh 243122",
+    "area": "Chhoti Vihar",
+    "latitude": 28.4007425,
+    "longitude": 79.4601895,
+    "place_id": "ChIJT2xNO4cHoDkRgYSKOF0rCuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2xNO4cHoDkRgYSKOF0rCuU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:43:35"
+  },
+  {
+    "business_name": "Tinku Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Auto auction, Auto upholsterer, Car leasing service, Tour operator",
+    "pincode": "242303",
+    "phone_number": "+91 90841 23453",
+    "website": "https://tinkutravels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shiv Garden, Rohilkhand, Dental College Rd, M.J.P Rohilkahand University, Bareilly, Uttar Pradesh 243006",
+    "area": "M.J.P Rohilkahand University",
+    "latitude": 28.378268499999997,
+    "longitude": 79.458438,
+    "place_id": "ChIJF2GzHjAHoDkRyXu5JvgxisA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2GzHjAHoDkRyXu5JvgxisA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:43:36"
+  }
+]
