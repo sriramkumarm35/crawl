@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Auto Service Centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243727",
+    "phone_number": "+91 87559 14420",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "G8J7+3JC, Babrala Rajpura Kesarpur Village Marg, Rahra, Uttar Pradesh 244255",
+    "area": "243727",
+    "latitude": 28.530189,
+    "longitude": 78.3140092,
+    "place_id": "ChIJvejgpOc_CzkR88CnPaxVY10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvejgpOc_CzkR88CnPaxVY10",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:14:00"
+  },
+  {
+    "business_name": "PRAJAPATI AUTO WORKSOAP",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243727",
+    "phone_number": "+91 84750 04415",
+    "website": "https://www.prajapatiautoworksoap.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MOHAMADPUR, Sondhan Mohammadpur, SAMBHAL, Uttar Pradesh 244303",
+    "area": "MOHAMADPUR",
+    "latitude": 28.521158,
+    "longitude": 78.4354042,
+    "place_id": "ChIJa_oNSq09CzkRg2aC0Fim4AQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_oNSq09CzkRg2aC0Fim4AQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:14:00"
+  }
+]

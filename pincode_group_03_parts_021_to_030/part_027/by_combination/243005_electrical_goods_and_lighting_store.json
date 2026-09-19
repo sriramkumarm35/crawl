@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RADHIKA ELECTRICALS",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "243005",
+    "phone_number": "+91 94114 10581",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sanjay Nagar Rd, Gopal Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Gopal Nagar",
+    "latitude": 28.3819256,
+    "longitude": 79.44743969999999,
+    "place_id": "ChIJQ7iilXwHoDkRpKdVtFkeLbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7iilXwHoDkRpKdVtFkeLbc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:59"
+  },
+  {
+    "business_name": "Advance Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "243005",
+    "phone_number": "+91 92195 67978",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bus Stand, Bareilly College Rd, near Old Roadways, Gangapur, Bareilly, Uttar Pradesh 243001",
+    "area": "Gangapur",
+    "latitude": 28.3577166,
+    "longitude": 79.4198409,
+    "place_id": "ChIJe-BPS9kHoDkRUDyeDJWZ9zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-BPS9kHoDkRUDyeDJWZ9zA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:01"
+  }
+]

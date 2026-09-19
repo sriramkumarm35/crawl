@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "243722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6CVM+RM6, Gunnaur badaun road, SH 18, near R.K Nursing Home, Gunnaur, Uttar Pradesh 243722",
+    "area": "243722",
+    "latitude": 28.244535799999998,
+    "longitude": 78.4341494,
+    "place_id": "ChIJn3OIAWkzCzkRwQX0bu3z4ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3OIAWkzCzkRwQX0bu3z4ow",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:46"
+  },
+  {
+    "business_name": "Vansh Palace Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hotel, Hospital",
+    "pincode": "243722",
+    "phone_number": "+91 94569 21777",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "roadways workshop, napp road, Narora, Uttar Pradesh 203389",
+    "area": "243722",
+    "latitude": 28.197665599999997,
+    "longitude": 78.3806899,
+    "place_id": "ChIJrS-j24U1CzkRWSNDDNN7Szo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrS-j24U1CzkRWSNDDNN7Szo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:47"
+  }
+]

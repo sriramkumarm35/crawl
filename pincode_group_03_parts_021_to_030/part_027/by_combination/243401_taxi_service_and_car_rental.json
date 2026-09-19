@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi Service Bareilly | Outstation Taxi Bareilly | Taxi Near Me Bareilly",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "243401",
+    "phone_number": "N/A",
+    "website": "http://www.wandercab.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9FR4+J7R, BulBulCabs अजन्ता स्वीट्स के सामने महानगर, Pilibhit Bypass Rd, रोड, Bareilly, Uttar Pradesh 243122",
+    "area": "रोड",
+    "latitude": 28.3916093,
+    "longitude": 79.4556412,
+    "place_id": "ChIJa21a5-QHoDkR8Xs_c6UJERs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa21a5-QHoDkR8Xs_c6UJERs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:55"
+  },
+  {
+    "business_name": "Cab go taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Chauffeur service, Transportation service",
+    "pincode": "243401",
+    "phone_number": "+91 80065 36432",
+    "website": "http://www.cabgotaxi.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "airport gate, Nainital Rd, near Aman communication, Gayatri Nagar, Kurmanchal Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Gayatri Nagar, Kurmanchal Nagar",
+    "latitude": 28.4181617,
+    "longitude": 79.4306082,
+    "place_id": "ChIJFfnf258HoDkRAiWJbzerBUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfnf258HoDkRAiWJbzerBUo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:56"
+  }
+]

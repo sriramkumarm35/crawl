@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pacific Stone Studio",
+    "search_category": "Granite Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store, Home goods store",
+    "pincode": "243631",
+    "phone_number": "+91 90155 73088",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 24,
+    "address": "Mauja, Haridwar - Dehradun Rd, Natthanpur, Dehradun, Uttarakhand 248014",
+    "area": "Natthanpur, Jogiwala",
+    "latitude": 30.2827085,
+    "longitude": 78.0700171,
+    "place_id": "ChIJM2c21EgpCTkRDYFFV9p_STM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2c21EgpCTkRDYFFV9p_STM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:46:19"
+  },
+  {
+    "business_name": "Shukla Marbles & Paints",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "243631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HP7G+3V3, Panigaon Banger, Uttar Pradesh 281121",
+    "area": "243631",
+    "latitude": 27.5631533,
+    "longitude": 77.727381,
+    "place_id": "ChIJcVZoWABxczkRdm70KKO6q7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVZoWABxczkRdm70KKO6q7c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:46:20"
+  }
+]

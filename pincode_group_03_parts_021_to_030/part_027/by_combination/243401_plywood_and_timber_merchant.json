@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal Timber Industries",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Home goods store",
+    "pincode": "243401",
+    "phone_number": "+91 98370 01610",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 132,
+    "address": "Gandhi Park, Aligarh, Uttar Pradesh 202001",
+    "area": "Gandhi Park",
+    "latitude": 27.884649399999997,
+    "longitude": 78.07305029999999,
+    "place_id": "ChIJ7wBbfY-kdDkR2SPFGg3mSeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wBbfY-kdDkR2SPFGg3mSeg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:01"
+  },
+  {
+    "business_name": "Kamla Timber Products",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Lumber store, Wood and laminate flooring supplier",
+    "pincode": "243401",
+    "phone_number": "+91 99976 88144",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "218, 368, Bhuteshwar Rd, opp. ShriJi Baba Ashram, Manoharpura, Mathura, Uttar Pradesh 281001",
+    "area": "Manoharpura",
+    "latitude": 27.500849799999997,
+    "longitude": 77.669737,
+    "place_id": "ChIJS71FbG5xczkRBtt2Di_hBew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS71FbG5xczkRBtt2Di_hBew",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:01"
+  }
+]

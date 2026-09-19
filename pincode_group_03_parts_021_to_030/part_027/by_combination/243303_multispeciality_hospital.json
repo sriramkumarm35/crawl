@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sainik hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "243303",
+    "phone_number": "+91 99277 06483",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Sainik hospital kulcha mirganj, Bareilly, Uttar Pradesh 243504",
+    "area": "243303",
+    "latitude": 28.561639999999997,
+    "longitude": 79.1929806,
+    "place_id": "ChIJB-rvRWy9CjkR9JuN3H8V3lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-rvRWy9CjkR9JuN3H8V3lg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:22:54"
+  },
+  {
+    "business_name": "Satyaraj hospital & ayurvedic medical college",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243303",
+    "phone_number": "+91 97581 08080",
+    "website": "https://satyarajamch.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bareilly Delhi highway Near labhari police chowki, Meerganj, Uttar Pradesh 243504",
+    "area": "Meerganj",
+    "latitude": 28.5686586,
+    "longitude": 79.189031,
+    "place_id": "ChIJz1e0X4S9CjkREiSi2EEOFpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1e0X4S9CjkREiSi2EEOFpw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:22:54"
+  }
+]

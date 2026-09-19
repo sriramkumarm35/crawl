@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ss sales corporation",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "243631",
+    "phone_number": "+91 99118 83636",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 4168,
+    "address": "L BLOCK L, L-2, Main Rd, near GURUDWARA, Block L, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Block L, Kalkaji",
+    "latitude": 28.537941,
+    "longitude": 77.2593512,
+    "place_id": "ChIJ7z0-GGDhDDkRxx_ORtjcvk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7z0-GGDhDDkRxx_ORtjcvk4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:45:57"
+  },
+  {
+    "business_name": "Helios Watch Store - Block E, New Delhi",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "243631",
+    "phone_number": "+91 80 6291 4785",
+    "website": "https://www.helioswatchstore.com/store-locator/New%20Delhi/watch-store-in-connaught-place",
+    "rating": 4.8,
+    "reviews_count": 2603,
+    "address": "Gate No 4, Infront Of Metro, Shop No E, 1, Inner Cir, Block E, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Block E, Connaught Place",
+    "latitude": 28.6333226,
+    "longitude": 77.221363,
+    "place_id": "ChIJv7_O2zf9DDkRs3xqHJhdZq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7_O2zf9DDkRs3xqHJhdZq0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:45:57"
+  }
+]

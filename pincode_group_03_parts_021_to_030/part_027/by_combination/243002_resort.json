@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radisson Hotel Bareilly Airport",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243002",
+    "phone_number": "+91 581 240 7000",
+    "website": "https://www.radissonhotels.com/en-us/hotels/radisson-bareilly?cid=a:se+b:gmb+c:apac+i:local+e:rad+d:ind+h:INUPBEK1",
+    "rating": 4.3,
+    "reviews_count": 2135,
+    "address": "Plot No. 772, Pilibhit Rd, Mundia Ahmed Nagar, Bareilly, Uttar Pradesh 243006",
+    "area": "243002",
+    "latitude": 28.4296741,
+    "longitude": 79.4767055,
+    "place_id": "ChIJE1fERwcRoDkR0XEEjXdutS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1fERwcRoDkR0XEEjXdutS0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:59:41"
+  },
+  {
+    "business_name": "RMS Hotels",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243002",
+    "phone_number": "+91 98923 00065",
+    "website": "https://www.radissonhotels.com/en-us/hotels/radisson-bareilly/contact",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "Plot No - 772, Central, Pilibhit Rd, near Bareilly Airport, Mundia Ahmed Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "243002",
+    "latitude": 28.429592999999997,
+    "longitude": 79.4767169,
+    "place_id": "ChIJcZg1fawRoDkR-TXFiFZ9OOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZg1fawRoDkR-TXFiFZ9OOw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:59:43"
+  }
+]

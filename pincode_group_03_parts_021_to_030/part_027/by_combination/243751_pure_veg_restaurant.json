@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Tanu's Logili",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "243751",
+    "phone_number": "+91 91007 58778",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13444,
+    "address": "NH65, Suryapet, Undrugonda, Telangana 508213",
+    "area": "243751",
+    "latitude": 17.1115082,
+    "longitude": 79.6932652,
+    "place_id": "ChIJkY_7pLbfNDoRsgNd-QrPabw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkY_7pLbfNDoRsgNd-QrPabw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:15:15"
+  },
+  {
+    "business_name": "Parampara - Flavours Of India",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "243751",
+    "phone_number": "+91 80749 32383",
+    "website": "http://www.paramparafoi.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "ANR Centre, Road No. 1, Naveen Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Naveen Nagar, Banjara Hills",
+    "latitude": 17.4150787,
+    "longitude": 78.4501365,
+    "place_id": "ChIJD2xTlR-XyzsRBrWHH2jDPGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2xTlR-XyzsRBrWHH2jDPGg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:15:15"
+  }
+]

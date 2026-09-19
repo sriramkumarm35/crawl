@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skin and Hair Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist",
+    "pincode": "243402",
+    "phone_number": "+91 99249 33999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rampur garden, near prabha talkies, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3479824,
+    "longitude": 79.4235415,
+    "place_id": "ChIJ3Q6dlgkBoDkR_MR7g65y8gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Q6dlgkBoDkR_MR7g65y8gE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:26"
+  },
+  {
+    "business_name": "Verma Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "243402",
+    "phone_number": "+91 97567 52959",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "26, Bhar tul, near SBI Bank Ka Pass, Bhartaul, Bareilly, Uttar Pradesh 243123",
+    "area": "Bhartaul",
+    "latitude": 28.3424251,
+    "longitude": 79.46495399999999,
+    "place_id": "ChIJzVUP1jcBoDkRGYkeMYS8nMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVUP1jcBoDkRGYkeMYS8nMQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:29"
+  }
+]

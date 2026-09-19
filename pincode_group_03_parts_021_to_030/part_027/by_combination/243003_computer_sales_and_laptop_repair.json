@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonara Computer Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "243003",
+    "phone_number": "+91 93588 89115",
+    "website": "http://www.sonaracomputers.com/",
+    "rating": 4,
+    "reviews_count": 17,
+    "address": "Sonara Computer, butler plaza, D-9, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3493203,
+    "longitude": 79.4199039,
+    "place_id": "ChIJofovuQEBoDkRJMHNY_dxzKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofovuQEBoDkRJMHNY_dxzKM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:01:48"
+  },
+  {
+    "business_name": "Ketonetech IT Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store",
+    "pincode": "243003",
+    "phone_number": "+91 91492 69605",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near, Bareilly College Rd, Siklapur, Gangapur, Bareilly, Uttar Pradesh 243005",
+    "area": "Siklapur, Gangapur",
+    "latitude": 28.358498599999997,
+    "longitude": 79.4226912,
+    "place_id": "ChIJn3NmowIHoDkRuWdb1y-qkEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3NmowIHoDkRuWdb1y-qkEk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:01:50"
+  }
+]

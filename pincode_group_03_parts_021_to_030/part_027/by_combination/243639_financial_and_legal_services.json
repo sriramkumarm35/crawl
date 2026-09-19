@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dakshan Financial Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Health insurance agency, Investment service, Life insurance agency",
+    "pincode": "243639",
+    "phone_number": "+91 99628 41324",
+    "website": "http://dakshanfinancial.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, 6/84, 6th block, Mogappair West, Mogappair, Chennai, Tamil Nadu 600037",
+    "area": "6th block, Mogappair West, Mogappair",
+    "latitude": 13.083209799999999,
+    "longitude": 80.17380759999999,
+    "place_id": "ChIJw7QxKgZhUjoRiqgXsB5C91U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7QxKgZhUjoRiqgXsB5C91U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:00:53"
+  },
+  {
+    "business_name": "N&V Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Debt collecting",
+    "all_categories": "Debt collecting",
+    "pincode": "243639",
+    "phone_number": "N/A",
+    "website": "https://www.nvservices.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Badarpur Metro Station, Plot No-A1 FF, 40 Feet Rd, Block C, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block C, Molar band Extension, Badarpur",
+    "latitude": 28.490120599999997,
+    "longitude": 77.3054958,
+    "place_id": "ChIJk-7n4Q_nDDkRLKLN-4z3aEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-7n4Q_nDDkRLKLN-4z3aEY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:00:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sobti House",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "243005",
+    "phone_number": "+91 581 253 1474",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "Stadium Road, D.D. Puram Chauraha, near Sai Hospital, Bareilly, Uttar Pradesh 243005",
+    "area": "FCI Colony",
+    "latitude": 28.378809,
+    "longitude": 79.434102,
+    "place_id": "ChIJtYNLg-cGoDkRT7YfPnCIoLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYNLg-cGoDkRT7YfPnCIoLM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:22"
+  },
+  {
+    "business_name": "SKDBLY Hospitaliety Cunsultant Pvt Ltd",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "243005",
+    "phone_number": "+91 95576 29192",
+    "website": "http://skdblyhospitaliety.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pilibhit Bypass Rd, Mahanagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Mahanagar",
+    "latitude": 28.378722,
+    "longitude": 79.4545886,
+    "place_id": "ChIJ7_8h7L0GoDkRw5VwKLP-cWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_8h7L0GoDkRw5VwKLP-cWw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:25"
+  }
+]

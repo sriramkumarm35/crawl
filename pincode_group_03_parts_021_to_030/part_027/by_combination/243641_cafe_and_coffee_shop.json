@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Kashyap",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "243641",
+    "phone_number": "+91 89419 27146",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhak Bali Jay Ka Pass, near Dhaak Wali Zyarat, Dam Rd, Maharaj Nagar, Shastri Nagar, Mauzampur Nehnagar, Budaun, Uttar Pradesh 243601",
+    "area": "Maharaj Nagar, Shastri Nagar",
+    "latitude": 28.015535,
+    "longitude": 79.14073669999999,
+    "place_id": "ChIJXSzDS9lFdTkRoHAzXNL9ouY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSzDS9lFdTkRoHAzXNL9ouY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:23"
+  },
+  {
+    "business_name": "kaadri Market Dolly Studio Bagrain",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "243641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Unnamed Road, Manakpur, Uttar Pradesh 243725",
+    "area": "243641",
+    "latitude": 28.300117099999998,
+    "longitude": 79.0342395,
+    "place_id": "ChIJqW-hQVq1CjkRd-CGBhHC8EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqW-hQVq1CjkRd-CGBhHC8EM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:23"
+  }
+]

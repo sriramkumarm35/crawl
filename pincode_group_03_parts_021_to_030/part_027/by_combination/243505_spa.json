@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seva Pathalogy Lab",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "243505",
+    "phone_number": "+91 80774 93596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "01, Main Market, Shishgarh, Uttar Pradesh 243505",
+    "area": "243505",
+    "latitude": 28.730893599999998,
+    "longitude": 79.3160676,
+    "place_id": "ChIJuyweOlKdCjkRNq2XtlrHVuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyweOlKdCjkRNq2XtlrHVuY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:39:25"
+  },
+  {
+    "business_name": "Yes Madam",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "243505",
+    "phone_number": "+91 80771 01713",
+    "website": "https://www.yesmadam.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "B-50, BSNL Colony, Deen Dayal Puram, Bareilly, Uttar Pradesh 243001",
+    "area": "BSNL Colony, Deen Dayal Puram",
+    "latitude": 28.3787158,
+    "longitude": 79.4322277,
+    "place_id": "ChIJtXu5j1sHoDkREkiGXXtXZ6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXu5j1sHoDkREkiGXXtXZ6Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:39:28"
+  }
+]

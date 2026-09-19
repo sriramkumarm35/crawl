@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panna Jewellers Exclusive",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "243727",
+    "phone_number": "+91 70365 92020",
+    "website": "https://pannajewellers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jade Arcade, Paradise Circle, 1&2, M.G Road, Kalasiguda, Secunderabad, Hyderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4412722,
+    "longitude": 78.4879902,
+    "place_id": "ChIJM7Zz6LubyzsRdMRF9LS07Fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7Zz6LubyzsRdMRF9LS07Fc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:13:42"
+  },
+  {
+    "business_name": "The Diamond Store by Chandubhai",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Jewelry designer, Jewelry manufacturer",
+    "pincode": "243727",
+    "phone_number": "+91 96764 98891",
+    "website": "http://www.thediamondkart.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "470, Road No. 36, Jawahar Colony, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "Jawahar Colony, Jubilee Hills",
+    "latitude": 17.4303721,
+    "longitude": 78.4093608,
+    "place_id": "ChIJkTksYzaRyzsRVv31wz8_-CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTksYzaRyzsRVv31wz8_-CU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:13:42"
+  }
+]

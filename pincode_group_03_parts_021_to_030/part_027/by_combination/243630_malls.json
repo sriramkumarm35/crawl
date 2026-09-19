@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fivestar Shopping Complex",
+    "search_category": "Malls",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243630",
+    "phone_number": "+91 93580 35897",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 54,
+    "address": "Kolhar, Sahaswan, Uttar Pradesh 243638",
+    "area": "Kolhar",
+    "latitude": 28.069324599999998,
+    "longitude": 78.7517584,
+    "place_id": "ChIJOR9L9dUudTkR65W5LkmbApU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOR9L9dUudTkR65W5LkmbApU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:45:31"
+  },
+  {
+    "business_name": "VK house",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "243630",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "38MF+PQQ, Majhara, Uttar Pradesh 243630",
+    "area": "243630",
+    "latitude": 28.0843326,
+    "longitude": 79.324483,
+    "place_id": "ChIJzT34iF9XdTkRhKSja1DKT48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzT34iF9XdTkRhKSja1DKT48",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:45:33"
+  }
+]

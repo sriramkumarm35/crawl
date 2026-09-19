@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amol Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "243407",
+    "phone_number": "+91 84307 44408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pilibhit Rd, Delapeer, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Delapeer, Rajendra Nagar",
+    "latitude": 28.3870395,
+    "longitude": 79.4367987,
+    "place_id": "ChIJ45Z0LIMHoDkR5yoFtnY6GA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45Z0LIMHoDkR5yoFtnY6GA4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:30"
+  },
+  {
+    "business_name": "Deepak Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "243407",
+    "phone_number": "+91 82998 96950",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "New Ram Nagar, Niyamatpur, Orai, Uttar Pradesh 285001",
+    "area": "New Ram Nagar, Niyamatpur",
+    "latitude": 25.9841014,
+    "longitude": 79.45215499999999,
+    "place_id": "ChIJI09AUVd_nTkR8kRv-JakNmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI09AUVd_nTkR8kRv-JakNmI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:33"
+  }
+]

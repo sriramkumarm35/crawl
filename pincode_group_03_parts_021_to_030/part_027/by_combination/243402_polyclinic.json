@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandhya polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Sports medicine physician",
+    "all_categories": "Sports medicine physician",
+    "pincode": "243402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6927+F4P, Devchara Dataganj Road, Ballia, Uttar Pradesh 243402",
+    "area": "243402",
+    "latitude": 28.2011959,
+    "longitude": 79.36275309999999,
+    "place_id": "ChIJuUYwHwBVdTkRc4GAEVpu-PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUYwHwBVdTkRc4GAEVpu-PY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:29"
+  },
+  {
+    "business_name": "Prakash Lata polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "243402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bareilly - Badaun Rd, Ganga Nagar, BDA Colony, Bareilly, Itawa Sukhdevpur, Uttar Pradesh 243001",
+    "area": "Ganga Nagar, BDA Colony",
+    "latitude": 28.3328307,
+    "longitude": 79.3978468,
+    "place_id": "ChIJ6Z3Q6KsBoDkRY6HYihLtYlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Z3Q6KsBoDkRY6HYihLtYlM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:29"
+  }
+]

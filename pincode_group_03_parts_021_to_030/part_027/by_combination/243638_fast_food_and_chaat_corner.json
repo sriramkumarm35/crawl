@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akarshan Samosa & Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Hawker stall",
+    "all_categories": "Hawker stall",
+    "pincode": "243638",
+    "phone_number": "+91 78706 31977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "3, Ambedkar Path, Mridula Vihar, Rukanpura, Patna, Bihar 800014",
+    "area": "Mridula Vihar, Rukanpura",
+    "latitude": 25.6109442,
+    "longitude": 85.0727198,
+    "place_id": "ChIJTbQ8rbdX7TkRAAAAMFNU2xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbQ8rbdX7TkRAAAAMFNU2xY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:57:57"
+  },
+  {
+    "business_name": "Raghav Sweets and Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243638",
+    "phone_number": "+91 85305 84111",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "Gokul Path, near BP Petrol Pump & SBI ATM Branch, North Patel Nagar, Patna, Bihar 801103",
+    "area": "North Patel Nagar, East Patel Nagar, Adarsh Colony, North Shastri Nagar",
+    "latitude": 25.617015,
+    "longitude": 85.10148269999999,
+    "place_id": "ChIJpciO2EJX7TkRv0tKHPUzV44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpciO2EJX7TkRv0tKHPUzV44",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:57:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tow Service USA",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "242401",
+    "phone_number": "N/A",
+    "website": "http://www.towserviceusa.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tow Service USA, 242401, India",
+    "area": "242401",
+    "latitude": 31.3078701,
+    "longitude": -96.9130436,
+    "place_id": "ChIJQasVQs0ZTIYRpz1WdBJem7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQasVQs0ZTIYRpz1WdBJem7Y",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:38"
+  },
+  {
+    "business_name": "Crane And Recovery Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "242401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anapalam Jn, near Old Bus Stand, Manivayal, Madiyur, Kalpetta, Keralam 673121",
+    "area": "Manivayal, Madiyur",
+    "latitude": 11.6005639,
+    "longitude": 76.0811528,
+    "place_id": "ChIJBzpnEyxzpjsRe_dkPPV0KsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzpnEyxzpjsRe_dkPPV0KsU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:38"
+  }
+]

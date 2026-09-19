@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Vivan",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Health consultant",
+    "pincode": "243006",
+    "phone_number": "+91 88659 89523",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "178/2, Lane No. 9, Greater Green Park Colony, Green Park Colony, Bareilly, Uttar Pradesh 243006",
+    "area": "Greater Green Park Colony, Green Park Colony",
+    "latitude": 28.363806,
+    "longitude": 79.47292829999999,
+    "place_id": "ChIJZXpZSaQFoDkRJYhNu32uUYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXpZSaQFoDkRJYhNu32uUYo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:38"
+  },
+  {
+    "business_name": "LIFE LINE GASES",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Oxygen equipment supplier",
+    "all_categories": "Oxygen equipment supplier",
+    "pincode": "243006",
+    "phone_number": "+91 82731 70324",
+    "website": "http://lifelinegases.indiamart.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near satellite bus stand, Civil Lines, Bareilly, Uttar Pradesh 243005",
+    "area": "Civil Lines",
+    "latitude": 28.3513491,
+    "longitude": 79.4361696,
+    "place_id": "ChIJpTLB01oHoDkRrV6gt9Wk0rA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTLB01oHoDkRrV6gt9Wk0rA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:40"
+  }
+]

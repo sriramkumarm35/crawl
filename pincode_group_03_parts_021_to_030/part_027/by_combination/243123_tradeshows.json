@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Krishna Enterprises",
+    "search_category": "Tradeshows",
+    "primary_category": "Electric motor scooter dealer",
+    "all_categories": "Electric motor scooter dealer",
+    "pincode": "243123",
+    "phone_number": "+91 78380 55504",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "43, Dohra Road, near Mayfair Lawn, Suresh Sharma Nagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Suresh Sharma Nagar",
+    "latitude": 28.376998699999998,
+    "longitude": 79.46514289999999,
+    "place_id": "ChIJnawsNh8HoDkRCV9GxvtggQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnawsNh8HoDkRCV9GxvtggQ8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:36"
+  },
+  {
+    "business_name": "Amolak Industries",
+    "search_category": "Tradeshows",
+    "primary_category": "Door manufacturer",
+    "all_categories": "Door manufacturer",
+    "pincode": "243123",
+    "phone_number": "+91 96399 32222",
+    "website": "https://www.amolakindustries.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Faridpur, Uttar Pradesh 243503",
+    "area": "243123",
+    "latitude": 28.2279789,
+    "longitude": 79.53978939999999,
+    "place_id": "ChIJRcU-nbj5nzkRM2CgLaYPQ0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcU-nbj5nzkRM2CgLaYPQ0s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:36"
+  }
+]

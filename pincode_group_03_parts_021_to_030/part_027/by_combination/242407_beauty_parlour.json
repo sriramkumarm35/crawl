@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Dulhan beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "242407",
+    "phone_number": "+91 99198 33265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Purv Rd, Nigohi, Uttar Pradesh 242407",
+    "area": "242407",
+    "latitude": 28.105976499999997,
+    "longitude": 79.8691383,
+    "place_id": "ChIJ3Q7f6uKRnzkR2qIHKrML0So",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Q7f6uKRnzkR2qIHKrML0So",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:55:54"
+  },
+  {
+    "business_name": "Sargam Beuty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "242407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4V96+PVF, Patrajpur, Uttar Pradesh 242407",
+    "area": "242407",
+    "latitude": 28.119324799999998,
+    "longitude": 79.8621857,
+    "place_id": "ChIJbfpVGQCPnzkRC6XmivzcvLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfpVGQCPnzkRC6XmivzcvLk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:55:54"
+  }
+]

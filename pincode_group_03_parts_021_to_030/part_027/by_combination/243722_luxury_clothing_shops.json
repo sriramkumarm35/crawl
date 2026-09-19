@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aanchal's Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store",
+    "pincode": "243722",
+    "phone_number": "+91 96908 49999",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "01-A, beside Angel Salon, Ram Ganga Vihar Phase 2, Moradabad, Uttar Pradesh 244105",
+    "area": "Ram Ganga Vihar Phase 2",
+    "latitude": 28.8715662,
+    "longitude": 78.75176619999999,
+    "place_id": "ChIJYR_xjzf5CjkRVhq5vAv32WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYR_xjzf5CjkRVhq5vAv32WA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:06"
+  },
+  {
+    "business_name": "Royal Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243722",
+    "phone_number": "+91 93193 85583",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Royalfashion0315, Budaun, Uttar Pradesh 243601",
+    "area": "Royalfashion0315",
+    "latitude": 28.0299619,
+    "longitude": 79.13324589999999,
+    "place_id": "ChIJ5xsDASlFdTkRvKUx2-KaL5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xsDASlFdTkRvKUx2-KaL5M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Chaat Centre",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "243723",
+    "phone_number": "+91 89814 97069",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "G9P2+CWP, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Sreepally, Bhowanipore",
+    "latitude": 22.5360886,
+    "longitude": 88.3523354,
+    "place_id": "ChIJbze5QgB3AjoRmibnUZMhKKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbze5QgB3AjoRmibnUZMhKKI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:06:41"
+  },
+  {
+    "business_name": "Sumit narsery sarva",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Frituur",
+    "all_categories": "Frituur",
+    "pincode": "243723",
+    "phone_number": "+91 79839 13524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarva, Bisauli, Uttar Pradesh 243720",
+    "area": "243723",
+    "latitude": 28.315545099999998,
+    "longitude": 78.9217522,
+    "place_id": "ChIJ8zWRlzDPCjkRDnOi4ZjAoHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zWRlzDPCjkRDnOi4ZjAoHw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:06:41"
+  }
+]

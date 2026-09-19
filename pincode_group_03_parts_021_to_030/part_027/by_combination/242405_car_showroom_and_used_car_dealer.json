@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Kirana Store",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "242405",
+    "phone_number": "+91 95697 01127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road Harnahi Chauraha, Harnahi, Chandpur, Hariharpur, Uttar Pradesh 242405",
+    "area": "Harnahi",
+    "latitude": 28.329694099999998,
+    "longitude": 80.31243169999999,
+    "place_id": "ChIJe3s8bkbZoTkRvkKCRtpsl6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3s8bkbZoTkRvkKCRtpsl6A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:52:11"
+  },
+  {
+    "business_name": "Castle Honda",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Dent Removal Service Station, Auto repair shop, Auto Accessories Store, Honda dealer",
+    "pincode": "242405",
+    "phone_number": "+91 86575 88463",
+    "website": "https://dealer.hondacarindia.com/castle-honda-shree-ram-raja-cars-pvt-ltd-car-dealer-digara-jhansi-67129/Home",
+    "rating": 4,
+    "reviews_count": 487,
+    "address": "No 741, Kanpur - Jhansi Hwy, Digara, Karguwan, Uttar Pradesh 284121",
+    "area": "242405",
+    "latitude": 25.468696299999998,
+    "longitude": 78.6608251,
+    "place_id": "ChIJV6E8P4addzkRyBcQiGE8kJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6E8P4addzkRyBcQiGE8kJc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:52:13"
+  }
+]

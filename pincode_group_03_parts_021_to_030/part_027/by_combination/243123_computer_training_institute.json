@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Franklin College",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Hotel Management Institute",
+    "all_categories": "Hotel Management Institute, Software Training Institute",
+    "pincode": "243123",
+    "phone_number": "+91 80775 73996",
+    "website": "https://franklinhm.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sanjay Nagar Road, 28, Pilibhit Bypass Rd, Bareilly, Uttar Pradesh 243006",
+    "area": "Laxmi Nagar, Nawada",
+    "latitude": 28.3831182,
+    "longitude": 79.4516585,
+    "place_id": "ChIJ_-WMTj4HoDkRYUAz8kPLuXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-WMTj4HoDkRYUAz8kPLuXY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:09"
+  },
+  {
+    "business_name": "Genius Computer Training Institute & Genius Library",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Public library",
+    "pincode": "243123",
+    "phone_number": "+91 81929 14998",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 98,
+    "address": "Umedpur Bhuta, Uttar Pradesh 243126",
+    "area": "243123",
+    "latitude": 28.3253426,
+    "longitude": 79.6015396,
+    "place_id": "ChIJAQAAAP0coDkRP4Bx25aUugQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAP0coDkRP4Bx25aUugQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:10"
+  }
+]

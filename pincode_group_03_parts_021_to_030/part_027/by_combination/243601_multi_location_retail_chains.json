@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ITC Choupal Sagar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store, Shopping mall",
+    "pincode": "243601",
+    "phone_number": "+91 91515 13207",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Khunak, Budaun, SH-33, Bareilly Badaun Road, Budaun, Budaun, Uttar Pradesh 243601",
+    "area": "243601",
+    "latitude": 28.0809,
+    "longitude": 79.1681,
+    "place_id": "ChIJKQV8br1PdTkRRJlN9CV_g3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQV8br1PdTkRRJlN9CV_g3I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:43:45"
+  },
+  {
+    "business_name": "Blinkit store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "243601",
+    "phone_number": "+91 90279 61167",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "24JG+CRJ, Budaun, Uttar Pradesh 243601",
+    "area": "243601",
+    "latitude": 28.0310949,
+    "longitude": 79.127021,
+    "place_id": "ChIJy_fbJgBFdTkRMCkI4pbQMcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_fbJgBFdTkRMCkI4pbQMcA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:43:47"
+  }
+]

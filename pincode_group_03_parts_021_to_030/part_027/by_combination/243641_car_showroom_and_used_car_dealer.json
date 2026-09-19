@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fusion Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "243641",
+    "phone_number": "+91 99999 92532",
+    "website": "http://www.fusioncars.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "A-99/100, Ganesh Nagar, Tilak Nagar, Delhi, 110018",
+    "area": "Ganesh Nagar, Tilak Nagar",
+    "latitude": 28.6354942,
+    "longitude": 77.0914602,
+    "place_id": "ChIJzU5itewEDTkRxUh69RycfRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU5itewEDTkRxUh69RycfRc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:48"
+  },
+  {
+    "business_name": "MAHADEV HYUNDAI",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Hyundai dealer",
+    "all_categories": "Hyundai dealer",
+    "pincode": "243641",
+    "phone_number": "+91 70421 93333",
+    "website": "https://mahadev.hyundaimotor.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "13, 3, NH-19, near Frick India Company, DLF Industrial Area, NHPC Chowk, Faridabad, Haryana 121003",
+    "area": "DLF Industrial Area, NHPC Chowk",
+    "latitude": 28.464136699999997,
+    "longitude": 77.30694,
+    "place_id": "ChIJE7WB_WfnDDkRSBo6RVhahxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7WB_WfnDDkRSBo6RVhahxI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:49"
+  }
+]

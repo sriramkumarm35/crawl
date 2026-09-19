@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "243002",
+    "phone_number": "+91 89542 13113",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Holi choke, near Ali garnel store, Basant Vihar Colony, Izatnagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Basant Vihar Colony, Izatnagar",
+    "latitude": 28.3954488,
+    "longitude": 79.4127577,
+    "place_id": "ChIJcfqMy3QHoDkRIElaNu9tOzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfqMy3QHoDkRIElaNu9tOzQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:58:54"
+  },
+  {
+    "business_name": "Pannu Jwellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "243002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bareilly - Badaun Rd, BDA Colony, Bareilly, Kargaina, Uttar Pradesh 243001",
+    "area": "BDA Colony",
+    "latitude": 28.325127499999997,
+    "longitude": 79.3939418,
+    "place_id": "ChIJQySBwZgBoDkRt21XFqRvL7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQySBwZgBoDkRt21XFqRvL7Y",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:58:55"
+  }
+]

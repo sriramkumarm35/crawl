@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer trevels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "243503",
+    "phone_number": "+91 97414 95049",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Faridpur, Uttar Pradesh 243503",
+    "area": "243503",
+    "latitude": 28.205764799999997,
+    "longitude": 79.5493846,
+    "place_id": "ChIJ1eYRQTD5nzkRNBnMSku0ZUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1eYRQTD5nzkRNBnMSku0ZUk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:36"
+  },
+  {
+    "business_name": "Anshul gupta",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "243503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6G5W+VPP, MDR 149W, Faridpur, Uttar Pradesh 243503",
+    "area": "243503",
+    "latitude": 28.209709099999998,
+    "longitude": 79.546808,
+    "place_id": "ChIJxZuvPAD5nzkRVUuMEyC5BWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZuvPAD5nzkRVUuMEyC5BWs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:38"
+  }
+]

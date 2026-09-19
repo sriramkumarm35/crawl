@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G M CAR SERVICE",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243720",
+    "phone_number": "+91 97911 55673",
+    "website": "http://www.gmcarservicecenter.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NO .2 , ALANAYAKAR STREET, 200 Feet Radial Rd, S. Kolathur, Kovilambakkam, Tambaram, Tamil Nadu 600117",
+    "area": "S. Kolathur, Kovilambakkam",
+    "latitude": 12.9495021,
+    "longitude": 80.19612339999999,
+    "place_id": "ChIJve9fy8BdUjoR3TrXIGreBfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJve9fy8BdUjoR3TrXIGreBfw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:36"
+  },
+  {
+    "business_name": "P P Auto Car AC Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "243720",
+    "phone_number": "+91 98291 34543",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "Shop No. 44, Patil Circle, Opposite R.S.E.B, Khanjipeer, Udaipur, Rajasthan 313001",
+    "area": "Patil Circle, Opposite R.S.E.B, Khanjipeer",
+    "latitude": 24.5632906,
+    "longitude": 73.6932437,
+    "place_id": "ChIJBUG0X4TvZzkR8Uw2KsdeKsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUG0X4TvZzkR8Uw2KsdeKsY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:37"
+  }
+]

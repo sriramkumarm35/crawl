@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashad ac service point",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "243501",
+    "phone_number": "+91 97587 61508",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dakhkhana road, nearby primary school, meergang, Nagaria Kalyanpur, Uttar Pradesh 243504",
+    "area": "meergang",
+    "latitude": 28.5433833,
+    "longitude": 79.21330019999999,
+    "place_id": "ChIJWc2TTnGjCjkRhwC4cI-_8bU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWc2TTnGjCjkRhwC4cI-_8bU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:32:09"
+  },
+  {
+    "business_name": "Shaan Cooling Centre",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "243501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near, Mansa Devi Mandir Road, Karamchari Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar",
+    "latitude": 28.38864,
+    "longitude": 79.40140199999999,
+    "place_id": "ChIJoXW96nIHoDkR0KmpXDj6taI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXW96nIHoDkR0KmpXDj6taI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:32:09"
+  }
+]

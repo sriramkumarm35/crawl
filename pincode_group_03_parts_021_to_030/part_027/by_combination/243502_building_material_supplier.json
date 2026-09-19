@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A J ENTERPRISES",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "243502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward Number 73, SANOUA, C.B.Ganj, Bareilly, Uttar Pradesh 243502",
+    "area": "Ward Number 73, SANOUA, C.B.Ganj",
+    "latitude": 28.397481,
+    "longitude": 79.3901155,
+    "place_id": "ChIJ7y1dwc4HoDkR8YY-4OugmvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7y1dwc4HoDkR8YY-4OugmvI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:52"
+  },
+  {
+    "business_name": "Arun kumar",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "243502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "99QW+GMM, Bareilly, Uttar Pradesh 243122",
+    "area": "243502",
+    "latitude": 28.3888344,
+    "longitude": 79.3966872,
+    "place_id": "ChIJbdt6RAAHoDkRI8dS8arT3g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdt6RAAHoDkRI8dS8arT3g8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:52"
+  }
+]

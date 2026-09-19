@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manit Gangwar",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "243505",
+    "phone_number": "+91 95202 44726",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main, Market Sisghar Road, Gokilpur, Uttar Pradesh 243505",
+    "area": "243505",
+    "latitude": 28.6843012,
+    "longitude": 79.29276689999999,
+    "place_id": "ChIJ49-SWVGfCjkRG7qO9_Y3ELw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49-SWVGfCjkRG7qO9_Y3ELw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:38:48"
+  },
+  {
+    "business_name": "Mujahid Husain",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "243505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G84W+H37, Gram, Sorha, Uttar Pradesh 243501",
+    "area": "Gram",
+    "latitude": 28.506417799999998,
+    "longitude": 79.3451712,
+    "place_id": "ChIJ1XhqbTGnCjkRmBfy0FfuDUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XhqbTGnCjkRmBfy0FfuDUE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:38:48"
+  }
+]

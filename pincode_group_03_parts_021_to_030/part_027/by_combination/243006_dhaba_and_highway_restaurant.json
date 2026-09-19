@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "243006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "33, Bareilly - Badaun Rd, BDA Colony, Bareilly, Uttar Pradesh 243401",
+    "area": "BDA Colony",
+    "latitude": 28.237383599999998,
+    "longitude": 79.3269473,
+    "place_id": "ChIJl0IJ12hVdTkRBD-tpkOQNRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0IJ12hVdTkRBD-tpkOQNRg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:15"
+  },
+  {
+    "business_name": "SATKAR DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH-24, Bada Bypass Road, Pardholi, Bareilly, Uttar Pradesh 243502",
+    "area": "243006",
+    "latitude": 28.4455675,
+    "longitude": 79.38261539999999,
+    "place_id": "ChIJrf_QZDUJoDkRj8kTZVoG1EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrf_QZDUJoDkRj8kTZVoG1EQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:15"
+  }
+]

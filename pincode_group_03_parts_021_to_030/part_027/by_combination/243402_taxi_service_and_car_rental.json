@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spn Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Travel agency",
+    "pincode": "243402",
+    "phone_number": "+91 88690 24233",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Station Rd, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3396823,
+    "longitude": 79.4136106,
+    "place_id": "ChIJv-dGTZgBoDkRMIy8x19Nfgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-dGTZgBoDkRMIy8x19Nfgc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:39"
+  },
+  {
+    "business_name": "Repozit Cab Service -: Bareilly Taxi | Outstation Taxi In Bareilly | One way Cab | Local Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Travel agency",
+    "pincode": "243402",
+    "phone_number": "+91 90846 55551",
+    "website": "https://zittaxi.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pilibhit Bypass Rd, Civil Lines, Bareilly, Uttar Pradesh 243005",
+    "area": "Civil Lines",
+    "latitude": 28.355262099999997,
+    "longitude": 79.446862,
+    "place_id": "ChIJJ7b7RTUBoDkRnV4DQPNeng4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7b7RTUBoDkRnV4DQPNeng4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:40"
+  }
+]

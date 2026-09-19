@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Sundar kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "243501",
+    "phone_number": "+91 84451 82985",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Madi ke paas, Bareilly, Uttar Pradesh 243502",
+    "area": "243501",
+    "latitude": 28.4204993,
+    "longitude": 79.3639415,
+    "place_id": "ChIJ_4Zjm1SpCjkR_K--R4cO5AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4Zjm1SpCjkR_K--R4cO5AA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:18"
+  },
+  {
+    "business_name": "Family Mart,Karamchari Nagar,Bareilly(U.P)",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "243501",
+    "phone_number": "+91 93894 37337",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 15,
+    "address": "Family Mart Building, near Mansa Devi Mandir, Karamchari Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar",
+    "latitude": 28.384083,
+    "longitude": 79.39839889999999,
+    "place_id": "ChIJGwhgZMkHoDkRQs-52cZ26Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwhgZMkHoDkRQs-52cZ26Lo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:19"
+  }
+]

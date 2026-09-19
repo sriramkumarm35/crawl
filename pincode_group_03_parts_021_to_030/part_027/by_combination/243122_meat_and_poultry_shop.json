@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vyapar junction",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat processor",
+    "all_categories": "Meat processor",
+    "pincode": "243122",
+    "phone_number": "+91 78178 75370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CB ganj, Ghunsa, Bareilly, Uttar Pradesh 243502",
+    "area": "CB ganj",
+    "latitude": 28.4208651,
+    "longitude": 79.39986669999999,
+    "place_id": "ChIJJ6qJGfkHoDkRqz2xNpkMiPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6qJGfkHoDkRqz2xNpkMiPE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:00"
+  },
+  {
+    "business_name": "F.R Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Poultry farm",
+    "pincode": "243122",
+    "phone_number": "+91 95686 91552",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "01, Nawabganj, Uttar Pradesh 262406",
+    "area": "243122",
+    "latitude": 28.540526699999997,
+    "longitude": 79.6305495,
+    "place_id": "ChIJUZkQv4UHoDkRsg_e4AHrvac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZkQv4UHoDkRsg_e4AHrvac",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:01"
+  }
+]

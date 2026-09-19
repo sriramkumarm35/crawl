@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yeshvi Beuty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "243504",
+    "phone_number": "+91 75796 93579",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "02 Near, Chauraha, Kharanja Road, Sirauli, Mirganj, Uttar Pradesh 243504",
+    "area": "243504",
+    "latitude": 28.5438361,
+    "longitude": 79.2070524,
+    "place_id": "ChIJWw9mBAyjCjkRKsJHPlrIyIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWw9mBAyjCjkRKsJHPlrIyIA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:39"
+  },
+  {
+    "business_name": "Janta Medical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "243504",
+    "phone_number": "+91 90125 05065",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhaneta, Ballia, Uttar Pradesh 243504",
+    "area": "243504",
+    "latitude": 28.538232599999997,
+    "longitude": 79.2133261,
+    "place_id": "ChIJc0jauFCjCjkRN-TDW7ACMMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0jauFCjCjkRN-TDW7ACMMc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:41"
+  }
+]

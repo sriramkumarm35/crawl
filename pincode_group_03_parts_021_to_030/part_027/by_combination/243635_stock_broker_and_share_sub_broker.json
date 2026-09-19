@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aapka Investments",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Education center",
+    "pincode": "243635",
+    "phone_number": "+91 84609 09037",
+    "website": "https://aapkainvestments.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "911, Ratnaker Nine Square, Keshavbaug Party Plot, B-910, opp. Itc Narmada, Suryapooja Block B, Vastrapur, Ahmedabad, Gujarat 380015",
+    "area": "Suryapooja Block B, Vastrapur",
+    "latitude": 23.0280235,
+    "longitude": 72.5300901,
+    "place_id": "ChIJt4-GyS-FXjkRGFKmxvl_LV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4-GyS-FXjkRGFKmxvl_LV4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:53:51"
+  },
+  {
+    "business_name": "Future Savings",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Health insurance agency, Property management company, Tax preparation service",
+    "pincode": "243635",
+    "phone_number": "+91 93448 14045",
+    "website": "http://futuresavings.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "43, Chintamani Vinayagar Koil St, Alwartirunagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+    "area": "Alwartirunagar, Valasaravakkam",
+    "latitude": 13.046721999999999,
+    "longitude": 80.18235609999999,
+    "place_id": "ChIJ3aheR81mUjoRNsASO8rNhrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aheR81mUjoRNsASO8rNhrg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:53:51"
+  }
+]

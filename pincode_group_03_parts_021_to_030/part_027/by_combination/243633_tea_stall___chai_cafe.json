@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhu Babu's Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant, Tea house",
+    "pincode": "243633",
+    "phone_number": "+91 94332 87779",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "8A, Near, Janak Rd, Lake Market, Kalighat, Kolkata, West Bengal 700029",
+    "area": "Lake Market, Kalighat",
+    "latitude": 22.516225,
+    "longitude": 88.3482863,
+    "place_id": "ChIJwYxsVstwAjoRYofxHvK4pi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYxsVstwAjoRYofxHvK4pi0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:49:08"
+  },
+  {
+    "business_name": "Chai34",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "243633",
+    "phone_number": "+91 93862 65200",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Patna Cafeteria,Shop No.7, Maurya Tower, Mourya Lok Complex, New Dakbunglow, road, New Dak Bunglow Rd, Patna, Bihar 800001",
+    "area": "Fraser Road Area",
+    "latitude": 25.6089201,
+    "longitude": 85.13471899999999,
+    "place_id": "ChIJGVeDzotZ7TkRQ6K35p2xsVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVeDzotZ7TkRQ6K35p2xsVM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:49:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Selection Point",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243006",
+    "phone_number": "+91 70604 57757",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 990,
+    "address": "c, 38, Rajendra Nagar Rd, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Rajendra Nagar",
+    "latitude": 28.3811334,
+    "longitude": 79.4289196,
+    "place_id": "ChIJ-ZRGuCEHoDkRv4v-nm4zKgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZRGuCEHoDkRv4v-nm4zKgo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:19"
+  },
+  {
+    "business_name": "Bansal Fancy Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bridal shop, Women's clothing store",
+    "pincode": "243006",
+    "phone_number": "+91 98377 65633",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "N.M.C, Railway Colony, Izatnagar, Bareilly, Uttar Pradesh 243002",
+    "area": "Railway Colony, Izatnagar",
+    "latitude": 28.4110636,
+    "longitude": 79.4258335,
+    "place_id": "ChIJTYQ5t1IGoDkR1PWd53CbSwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYQ5t1IGoDkR1PWd53CbSwQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:22"
+  }
+]

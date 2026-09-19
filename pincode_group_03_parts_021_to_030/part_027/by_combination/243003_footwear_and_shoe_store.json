@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Boot House 🏡",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243003",
+    "phone_number": "+91 78955 77552",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Mini Byp, near Allahabad Bank, Karamchari Nagar, Izatnagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar, Izatnagar",
+    "latitude": 28.381501,
+    "longitude": 79.3954224,
+    "place_id": "ChIJYzdtz24HoDkR8Q7oDH9k-LI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzdtz24HoDkR8Q7oDH9k-LI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:48"
+  },
+  {
+    "business_name": "Rana footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243003",
+    "phone_number": "+91 80772 03404",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Bara Bazar, sahukara, Bareilly, Uttar Pradesh 243003",
+    "area": "sahukara",
+    "latitude": 28.3652935,
+    "longitude": 79.4101932,
+    "place_id": "ChIJH8EpTMIHoDkRxxWmh6kBPVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8EpTMIHoDkRxxWmh6kBPVE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:48"
+  }
+]

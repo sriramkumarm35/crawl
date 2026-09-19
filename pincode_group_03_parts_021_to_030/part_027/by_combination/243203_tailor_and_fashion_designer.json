@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kherati Lal",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "243203",
+    "phone_number": "+91 95206 19771",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "144, Kutub Khana Rd, Gangapur, Bareilly, Uttar Pradesh 243003",
+    "area": "Gangapur",
+    "latitude": 28.3612762,
+    "longitude": 79.4156722,
+    "place_id": "ChIJx-JPHVMHoDkRgGNVNVx9VcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-JPHVMHoDkRgGNVNVx9VcE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:27"
+  },
+  {
+    "business_name": "Naveen Budhraja",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "243203",
+    "phone_number": "+91 98972 12504",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Durga Optical, Kutub Khana Rd, Chamankoti, Bareilly, Uttar Pradesh 243003",
+    "area": "Chamankoti",
+    "latitude": 28.363993599999997,
+    "longitude": 79.4151121,
+    "place_id": "ChIJBw2oRd8HoDkR-q_ienMviQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBw2oRd8HoDkR-q_ienMviQc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:27"
+  }
+]

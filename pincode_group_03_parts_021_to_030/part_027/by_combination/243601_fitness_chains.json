@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rock Hard Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243601",
+    "phone_number": "+91 81910 31913",
+    "website": "http://www.rockhardfitness.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DM Rd Civil Lines, near Pawan banquet lawn, PWD Road, Shastri Nagar, Budaun, Uttar Pradesh 243601",
+    "area": "PWD Road, Shastri Nagar",
+    "latitude": 28.020336,
+    "longitude": 79.1365715,
+    "place_id": "ChIJ49_BSTRFdTkR5yHQ4F1ZnaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49_BSTRFdTkR5yHQ4F1ZnaQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:42:38"
+  },
+  {
+    "business_name": "Maharishi Physical Academy Budaun",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "243601",
+    "phone_number": "+91 63967 27665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SK field, Budaun, Uttar Pradesh 243601",
+    "area": "243601",
+    "latitude": 28.025778,
+    "longitude": 79.1370396,
+    "place_id": "ChIJ04zAgRRFdTkR8g2nCt78FR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04zAgRRFdTkR8g2nCt78FR4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:42:38"
+  }
+]

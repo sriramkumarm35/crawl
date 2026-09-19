@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IRANI CHA--EE",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Restaurant",
+    "pincode": "243727",
+    "phone_number": "+91 72051 84101",
+    "website": "https://www.instagram.com/iranichaee/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "INFRONT OF CET COLLEGE, SALOMI COMPLEX, Ghatikia, Bhubaneswar, Odisha 751029",
+    "area": "Ghatikia",
+    "latitude": 20.2722296,
+    "longitude": 85.7760137,
+    "place_id": "ChIJTQvsW_enGToRGQthEBUvpF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQvsW_enGToRGQthEBUvpF0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:13:33"
+  },
+  {
+    "business_name": "Gupta Hotel And Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Dhaba",
+    "pincode": "243727",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7C64+XJ7, Babrala, Uttar Pradesh 243751",
+    "area": "243727",
+    "latitude": 28.2624201,
+    "longitude": 78.40655699999999,
+    "place_id": "ChIJS-oBguczCzkR0PMPCXTeAVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-oBguczCzkR0PMPCXTeAVA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:13:34"
+  }
+]

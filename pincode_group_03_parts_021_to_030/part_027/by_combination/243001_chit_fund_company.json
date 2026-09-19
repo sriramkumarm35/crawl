@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Vichar",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher",
+    "pincode": "243001",
+    "phone_number": "+91 581 400 0222",
+    "website": "http://amritvichar.com/",
+    "rating": 3.9,
+    "reviews_count": 21,
+    "address": "katra chand khan, 932, Pilibhit Bypass Rd, Sindhu Nagar, Bareilly, Uttar Pradesh 243005",
+    "area": "Sindhu Nagar",
+    "latitude": 28.353424699999998,
+    "longitude": 79.4424619,
+    "place_id": "ChIJl3g4gzQBoDkRhebipTcUTIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3g4gzQBoDkRhebipTcUTIU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:58:10"
+  },
+  {
+    "business_name": "UTI Mutual Fund",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "243001",
+    "phone_number": "+91 1800 266 1230",
+    "website": "https://www.utimf.com/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "1st Floor, Mandakani Tower 148, Station Rd, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3457355,
+    "longitude": 79.4191883,
+    "place_id": "ChIJ2UWNy0QHoDkRPiJlO5G3CgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UWNy0QHoDkRPiJlO5G3CgY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:58:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Balaji Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "243503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7G2F+JJ, Jerh, Uttar Pradesh 243123",
+    "area": "243503",
+    "latitude": 28.251569999999997,
+    "longitude": 79.524068,
+    "place_id": "ChIJYSB8dAD5nzkRP6bAbFQLrFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSB8dAD5nzkRP6bAbFQLrFw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:34:56"
+  },
+  {
+    "business_name": "Sumod Flour Mills Pvt. Ltd",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "243503",
+    "phone_number": "N/A",
+    "website": "http://www.sumodflourmills.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhitariya, Ram Sanehi Ghat, Uttar Pradesh 225409",
+    "area": "Bhitariya",
+    "latitude": 26.8033838,
+    "longitude": 81.52416989999999,
+    "place_id": "ChIJn_agTLYsmjkRlraAKA7HVcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_agTLYsmjkRlraAKA7HVcg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:34:59"
+  }
+]

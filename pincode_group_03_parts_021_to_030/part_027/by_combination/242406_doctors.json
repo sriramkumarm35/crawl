@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra medical store",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "242406",
+    "phone_number": "+91 70684 94635",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "handa farm ke samne, Ahmadpur Niwazpur, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "242406",
+    "latitude": 27.854852299999997,
+    "longitude": 79.9382638,
+    "place_id": "ChIJFxp-7XqjnzkRfXedh8zbVVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxp-7XqjnzkRfXedh8zbVVw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:53:47"
+  },
+  {
+    "business_name": "Lucky Medical store",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "242406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RWXR+WQJ, Ahmadpur Niwazpur, Uttar Pradesh 242406",
+    "area": "242406",
+    "latitude": 27.849021399999998,
+    "longitude": 79.942888,
+    "place_id": "ChIJTRlEXQCjnzkRMjSX8guuMo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRlEXQCjnzkRMjSX8guuMo8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:53:47"
+  }
+]

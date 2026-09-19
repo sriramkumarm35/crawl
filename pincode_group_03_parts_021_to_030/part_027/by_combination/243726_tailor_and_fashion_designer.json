@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swiss Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "243726",
+    "phone_number": "+91 99940 91979",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "No.4 ellappa nagar opp collectrate office kanchipuram, Kanchipuram, Tamil Nadu 631501",
+    "area": "Ellappa Nagar",
+    "latitude": 12.821628599999999,
+    "longitude": 79.69889359999999,
+    "place_id": "ChIJDVt5yfzCUjoRTr-aQ3Cuzzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVt5yfzCUjoRTr-aQ3Cuzzw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:11:59"
+  },
+  {
+    "business_name": "Fashion tailor and cloth",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "243726",
+    "phone_number": "+91 90010 60936",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Udaipur Rd, Bojunda, Rajasthan 312001",
+    "area": "243726",
+    "latitude": 24.8423853,
+    "longitude": 74.5935614,
+    "place_id": "ChIJf-Pnu7ofZjkR6yjpHLGrKf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-Pnu7ofZjkR6yjpHLGrKf4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:00"
+  }
+]

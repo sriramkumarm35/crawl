@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreeji Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "243004",
+    "phone_number": "+91 97591 46143",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Opp. Bishop Conrad School Near Golden Green Park Harunagla, Bareilly, Uttarpradesh, Bareilly, Uttar Pradesh 243006",
+    "area": "Greater Green Park Colony, Green Park Colony",
+    "latitude": 28.362324299999997,
+    "longitude": 79.4677009,
+    "place_id": "ChIJvU8VkKsGoDkRRkXoN1tuJ8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvU8VkKsGoDkRRkXoN1tuJ8k",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:03"
+  },
+  {
+    "business_name": "Bilal Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "243004",
+    "phone_number": "+91 90457 74060",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Thiriya Nizawat Khan, Uttar Pradesh 243123",
+    "area": "243004",
+    "latitude": 28.3117135,
+    "longitude": 79.4530667,
+    "place_id": "ChIJw8pR53UBoDkRSq2jPuma4eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8pR53UBoDkRSq2jPuma4eM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ultra Dynamic Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "243005",
+    "phone_number": "+91 75970 44765",
+    "website": "https://wa.link/bc6l3s",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Moti Tower, Bisalpur Rd, opposite Sai Mandir, Green Park, Bareilly, Uttar Pradesh 243006",
+    "area": "Green Park",
+    "latitude": 28.3601358,
+    "longitude": 79.4618522,
+    "place_id": "ChIJtX53sV8HoDkRvEYwNQO8sTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtX53sV8HoDkRvEYwNQO8sTc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:50"
+  },
+  {
+    "business_name": "Tattva Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243005",
+    "phone_number": "+91 97560 22731",
+    "website": "https://www.facebook.com/ankur.teotia.31149",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "PNB Colony krishna vihar, B- 7b, near sindhi Dharamshala, Veer Savarkar Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Veer Savarkar Nagar",
+    "latitude": 28.387363299999997,
+    "longitude": 79.4463344,
+    "place_id": "ChIJ7aU4cE8HoDkRW3qoIzJ6bbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7aU4cE8HoDkRW3qoIzJ6bbM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:50"
+  }
+]

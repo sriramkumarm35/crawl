@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanu Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Optical Wholesaler",
+    "pincode": "243203",
+    "phone_number": "+91 97584 44415",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infront Babu Ansari, Chairman House, Main Road, Shergarh, Uttar Pradesh 243505",
+    "area": "243203",
+    "latitude": 28.6501414,
+    "longitude": 79.3646835,
+    "place_id": "ChIJk9iQUAufCjkRcDhAh-gP8ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9iQUAufCjkRcDhAh-gP8ZM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:32"
+  },
+  {
+    "business_name": "Bhatia Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "243203",
+    "phone_number": "+91 581 230 2030",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "UG-1, Avadh Plaza, Karamchari Nagar, Janakpuri, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar, Janakpuri",
+    "latitude": 28.391894599999997,
+    "longitude": 79.3995545,
+    "place_id": "ChIJt9lWTOAGoDkRxC45a5zROYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9lWTOAGoDkRxC45a5zROYQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:34"
+  }
+]

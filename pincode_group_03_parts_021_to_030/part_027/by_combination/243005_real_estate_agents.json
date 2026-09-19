@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Homes Apartment",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "243005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "10, Rajeev Kunj Colony, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Rajeev Kunj Colony, Rajendra Nagar",
+    "latitude": 28.386699999999998,
+    "longitude": 79.4331,
+    "place_id": "ChIJt54AWOQGoDkRdoOT7JvH3mU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt54AWOQGoDkRdoOT7JvH3mU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:44"
+  },
+  {
+    "business_name": "Avdanam properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "243005",
+    "phone_number": "+91 95578 35321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "35/A, Ambuj Super City, Super City, Super City Twp, Colony, Bareilly, Dohara, Uttar Pradesh 243001",
+    "area": "Super City, Super City Township, Colony",
+    "latitude": 28.369738299999998,
+    "longitude": 79.4654973,
+    "place_id": "ChIJHfBHqj4HoDkRev8PN8Uv6wI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfBHqj4HoDkRev8PN8Uv6wI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:46"
+  }
+]

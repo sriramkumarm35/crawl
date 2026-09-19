@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaska Street",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243630",
+    "phone_number": "+91 95828 41123",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chaska Street, Bela Dandi Road, Mohalla Sadak, Dataganj, Uttar Pradesh 243635",
+    "area": "Mohalla Sadak",
+    "latitude": 28.025884599999998,
+    "longitude": 79.4054105,
+    "place_id": "ChIJXYn1AYXjnzkRa3Z8hNiKWkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYn1AYXjnzkRa3Z8hNiKWkA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:43:57"
+  },
+  {
+    "business_name": "Hari Bhog Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant, Dhaba, Family restaurant, Indian restaurant, Restaurant",
+    "pincode": "243630",
+    "phone_number": "+91 82660 72316",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "ISBT, Saharanpur Rd, Morowala, Clement Town, Dehradun, Sewla Khurd, Uttarakhand 248002",
+    "area": "Morowala, Clement Town",
+    "latitude": 30.2884887,
+    "longitude": 77.9970752,
+    "place_id": "ChIJee_M_T4rCTkRWaRz8GBC7pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee_M_T4rCTkRWaRz8GBC7pk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:43:58"
+  }
+]

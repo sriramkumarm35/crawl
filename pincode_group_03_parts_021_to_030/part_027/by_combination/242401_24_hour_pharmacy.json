@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "242401",
+    "phone_number": "+91 98394 88070",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "23XC+P64, Baragaon, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.0492717,
+    "longitude": 80.0705933,
+    "place_id": "ChIJxac198OdnzkREMBAOjuYUfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxac198OdnzkREMBAOjuYUfQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:19"
+  },
+  {
+    "business_name": "Savitri Medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "242401",
+    "phone_number": "+91 94505 84422",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "Dank bangla road, Powayan, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.070498699999998,
+    "longitude": 80.0991787,
+    "place_id": "ChIJ2bUACyh2nzkRv4dB1YBAH2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bUACyh2nzkRv4dB1YBAH2M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:20"
+  }
+]

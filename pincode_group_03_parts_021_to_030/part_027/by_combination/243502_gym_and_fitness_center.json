@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RRR Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "243502",
+    "phone_number": "+91 90842 70146",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bidhouliya, Ward Number 73, Bareilly, Uttar Pradesh 243502",
+    "area": "Ward Number 73",
+    "latitude": 28.3878308,
+    "longitude": 79.3835485,
+    "place_id": "ChIJb7okQQAHoDkRG2jYC5f2ieM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7okQQAHoDkRG2jYC5f2ieM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:38"
+  },
+  {
+    "business_name": "Astra Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hartman College Rd, near new siddharth nagar, Siddharth Nagar, Izatnagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Siddharthnagar, Izatnagar",
+    "latitude": 28.3799335,
+    "longitude": 79.4067402,
+    "place_id": "ChIJyR6csewHoDkR9BCu--Lsklc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyR6csewHoDkR9BCu--Lsklc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:40"
+  }
+]

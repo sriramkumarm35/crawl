@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MK Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "243641",
+    "phone_number": "+91 97596 02406",
+    "website": "http://mkjewellersushait.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main, Market, Main Market, Usahait, Uttar Pradesh 243641",
+    "area": "Main Market",
+    "latitude": 27.7970427,
+    "longitude": 79.23889989999999,
+    "place_id": "ChIJT68ZlStndTkRxFvGtCRhPPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT68ZlStndTkRxFvGtCRhPPg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:28"
+  },
+  {
+    "business_name": "M J Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "243641",
+    "phone_number": "+91 78954 11772",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Near, Nakasha Bazar, Usahait, Uttar Pradesh 243641",
+    "area": "243641",
+    "latitude": 27.7971255,
+    "longitude": 79.238817,
+    "place_id": "ChIJ91EbNelndTkRZs-ccTzxBIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91EbNelndTkRZs-ccTzxBIo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:29"
+  }
+]

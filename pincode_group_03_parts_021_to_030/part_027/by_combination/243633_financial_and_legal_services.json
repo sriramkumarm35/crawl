@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAA Capital Services Private Limited",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "243633",
+    "phone_number": "+91 11 4607 0000",
+    "website": "http://aaacapitalservices.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "House number 143, 144, Block B, Lajpat Nagar I, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Block B, Lajpat Nagar I, Lajpat Nagar",
+    "latitude": 28.5755205,
+    "longitude": 77.2419522,
+    "place_id": "ChIJraqqaqvjDDkRZceaWvt4dgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraqqaqvjDDkRZceaWvt4dgY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:50:24"
+  },
+  {
+    "business_name": "Legal services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Stamp shop",
+    "all_categories": "Stamp shop, Legal services",
+    "pincode": "243633",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ch. Charan singh statue, Near, Collectorate compound, in front of Old DM office, Police Lines, Mathura Cantonment, Mathura, Uttar Pradesh 281001",
+    "area": "Police Lines, Mathura Cantonment",
+    "latitude": 27.4740784,
+    "longitude": 77.6925352,
+    "place_id": "ChIJK9obW3lxczkRgSBwmH4Fruk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9obW3lxczkRgSBwmH4Fruk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:50:27"
+  }
+]

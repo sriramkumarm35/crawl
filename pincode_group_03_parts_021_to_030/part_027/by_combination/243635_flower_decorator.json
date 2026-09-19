@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pink Buds",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "243635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 30,
+    "address": "Shop - 25, near Shani Mandir, Kanhai Colony, Sector 44, Gurugram, Haryana 122003",
+    "area": "Kanhai Colony, Sector 44",
+    "latitude": 28.4480933,
+    "longitude": 77.0785405,
+    "place_id": "ChIJAzMfLw0ZDTkRLXrdulwTjgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzMfLw0ZDTkRLXrdulwTjgM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:53:28"
+  },
+  {
+    "business_name": "Hanuman Flower Decorators",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "243635",
+    "phone_number": "+91 82859 14899",
+    "website": "https://wa.me/+918285914899",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Hanuman Temple, Bhagat Singh Lane, Gole Market, New Delhi, Delhi 110001",
+    "area": "Gole Market",
+    "latitude": 28.633411499999998,
+    "longitude": 77.2063153,
+    "place_id": "ChIJUWlnobX9DDkR5nblDE_U7x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWlnobX9DDkR5nblDE_U7x0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:53:28"
+  }
+]

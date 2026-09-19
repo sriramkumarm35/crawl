@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A K Salon & Makeup Studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "243601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivpuram gali no 5, Bus Stand Rd, near hathi park, Budaun, Uttar Pradesh 243601",
+    "area": "243601",
+    "latitude": 28.029836799999998,
+    "longitude": 79.124831,
+    "place_id": "ChIJG9B7SQBFdTkR7Edt8SFQVYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9B7SQBFdTkR7Edt8SFQVYo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:43:00"
+  },
+  {
+    "business_name": "Ceragem Badaun",
+    "search_category": "Unisex Salon",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "243601",
+    "phone_number": "+91 75009 10448",
+    "website": "http://www.ceragem.co.in/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Budaun, Uttar Pradesh 243601",
+    "area": "243601",
+    "latitude": 28.0439324,
+    "longitude": 79.1301988,
+    "place_id": "ChIJqyEZJoFFdTkRMOuShCBWY8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyEZJoFFdTkRMOuShCBWY8s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:43:01"
+  }
+]

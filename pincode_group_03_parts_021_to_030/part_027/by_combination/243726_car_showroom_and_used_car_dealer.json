@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Das Hyundai",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Hyundai dealer",
+    "all_categories": "Hyundai dealer, Car dealer",
+    "pincode": "243726",
+    "phone_number": "+91 79 4910 8631",
+    "website": "http://www.das.hyundaimotor.in/",
+    "rating": 4.8,
+    "reviews_count": 8464,
+    "address": "Das Building, Abu Ln, Sadar Bazaar, Meerut, Uttar Pradesh 250001",
+    "area": "Sadar Bazaar",
+    "latitude": 28.996551699999998,
+    "longitude": 77.7027392,
+    "place_id": "ChIJk34w8gdlDDkRfDe4vhnLI8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk34w8gdlDDkRfDe4vhnLI8U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:17"
+  },
+  {
+    "business_name": "Sunny Toyota",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Toyota dealer",
+    "all_categories": "Toyota dealer",
+    "pincode": "243726",
+    "phone_number": "+91 1800 123 4404",
+    "website": "https://www.sunnytoyota.com/",
+    "rating": 4.1,
+    "reviews_count": 90,
+    "address": "KHASRA NO. 136 AND 146 Gram Saidpur Nagla, Etawah, Uttar Pradesh 206002",
+    "area": "243726",
+    "latitude": 26.8132754,
+    "longitude": 78.9891928,
+    "place_id": "ChIJiWFKLfrfdTkRuD2XGNGis5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWFKLfrfdTkRuD2XGNGis5A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:17"
+  }
+]

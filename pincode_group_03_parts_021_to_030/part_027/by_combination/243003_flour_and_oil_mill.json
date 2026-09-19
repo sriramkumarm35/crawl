@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Tirupati Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Oil refinery",
+    "all_categories": "Oil refinery",
+    "pincode": "243003",
+    "phone_number": "+91 94122 88500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shahdana, Gangapur, Bareilly, Uttar Pradesh 243005",
+    "area": "Shahdana, Gangapur",
+    "latitude": 28.3628583,
+    "longitude": 79.4265482,
+    "place_id": "ChIJLznBS30HoDkRs5ftV7dUoMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLznBS30HoDkRs5ftV7dUoMg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:05"
+  },
+  {
+    "business_name": "Old Ganna mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Sugar factory",
+    "all_categories": "Sugar factory",
+    "pincode": "243003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "Subhash Nagar Colony, Bareilly, Uttar Pradesh 243001",
+    "area": "Subhash Nagar Colony",
+    "latitude": 28.344502499999997,
+    "longitude": 79.4061639,
+    "place_id": "ChIJv4OFA8kAoDkRYMnyAAT5WDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4OFA8kAoDkRYMnyAAT5WDk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:05"
+  }
+]

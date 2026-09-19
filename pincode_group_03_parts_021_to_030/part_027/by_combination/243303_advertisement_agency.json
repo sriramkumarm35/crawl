@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Video creator",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Public relations firm",
+    "all_categories": "Public relations firm, Service establishment",
+    "pincode": "243303",
+    "phone_number": "+91 87081 21104",
+    "website": "https://www.youtube.com/@vfxKrishana",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Video creator, 243303, India",
+    "area": "243303",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ12NMSs8qKUIR-gLloFOgh4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12NMSs8qKUIR-gLloFOgh4o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:08"
+  },
+  {
+    "business_name": "Vikas Printing Press",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Print shop",
+    "pincode": "243303",
+    "phone_number": "+91 95685 13805",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vikas Printing Press, Meerganj Road, Hurhuri, Uttar Pradesh 243504",
+    "area": "243303",
+    "latitude": 28.5092297,
+    "longitude": 79.2295652,
+    "place_id": "ChIJLaqZqsylCjkRjdAbwx-EtaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLaqZqsylCjkRjdAbwx-EtaQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:08"
+  }
+]

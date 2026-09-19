@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Engine guru Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto machine shop",
+    "pincode": "243720",
+    "phone_number": "+91 73763 08993",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pachferva mod Bypass, Pandit Deen Dayal Upadhyaya Nagar, Khan Jahan Chak, Uttar Pradesh 232101",
+    "area": "243720",
+    "latitude": 25.2672365,
+    "longitude": 83.16171159999999,
+    "place_id": "ChIJc5gI4Io7jjkRaXB50lUsDdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5gI4Io7jjkRaXB50lUsDdk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:33"
+  },
+  {
+    "business_name": "Car Care World",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243720",
+    "phone_number": "+91 72755 35328",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sawaiya Pattidari, Bhagwan Talav Fatak, Saiyadraja, Uttar Pradesh 232110",
+    "area": "243720",
+    "latitude": 25.255528299999998,
+    "longitude": 83.32501859999999,
+    "place_id": "ChIJiYXRPHYXjjkRmaHG7OiOZr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYXRPHYXjjkRmaHG7OiOZr4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:33"
+  }
+]

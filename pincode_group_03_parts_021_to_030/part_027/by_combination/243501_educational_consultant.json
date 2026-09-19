@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PrepHub",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "243501",
+    "phone_number": "+91 95325 62309",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A-47, Dhantiya Rd, Bareilly, Dhantiya, Uttar Pradesh 243502",
+    "area": "243501",
+    "latitude": 28.4471474,
+    "longitude": 79.3441168,
+    "place_id": "ChIJG1A4AHKnCjkRx9Lzp0ASUZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1A4AHKnCjkRx9Lzp0ASUZQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:32:32"
+  },
+  {
+    "business_name": "MedUnity Abroad Services | Educational Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "243501",
+    "phone_number": "N/A",
+    "website": "http://www.medunityabroad.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Post Office Road Meer Khan BabarNagar, Mirganj, Uttar Pradesh 243504",
+    "area": "243501",
+    "latitude": 28.5431809,
+    "longitude": 79.21119,
+    "place_id": "ChIJrxnVYzSjCjkRCJ-4OaUliP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxnVYzSjCjkRCJ-4OaUliP4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:32:32"
+  }
+]

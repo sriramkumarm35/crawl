@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "bytecore computer centre (Nariyawal)",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "243004",
+    "phone_number": "+91 63968 35709",
+    "website": "https://bytecores.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "bithri road, near kuwer indane gas agency, Nariyawal, Bareilly, Uttar Pradesh 243123",
+    "area": "243004",
+    "latitude": 28.3173706,
+    "longitude": 79.4745157,
+    "place_id": "ChIJZfwaidkDoDkRZ0B0ZwE5lo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfwaidkDoDkRZ0B0ZwE5lo4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:35"
+  },
+  {
+    "business_name": "Pragati Associates",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "243004",
+    "phone_number": "+91 90270 52407",
+    "website": "http://pragatiit.in/",
+    "rating": 4.4,
+    "reviews_count": 22,
+    "address": "77, Harigovind Nagar, Stadium Rd, Bareilly, Uttar Pradesh 243122",
+    "area": "FCI Colony",
+    "latitude": 28.3836433,
+    "longitude": 79.4373121,
+    "place_id": "ChIJFU4vrugGoDkRbJeXur2-kgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFU4vrugGoDkRbJeXur2-kgo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:37"
+  }
+]

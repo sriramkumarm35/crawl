@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jasmine Luxury Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243638",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3P68+XQG, Nagla Choie, Uttar Pradesh 243638",
+    "area": "243638",
+    "latitude": 28.062440499999997,
+    "longitude": 78.7169663,
+    "place_id": "ChIJsSRDw6QpdTkRpDxNak8dUOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSRDw6QpdTkRpDxNak8dUOg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:58:48"
+  },
+  {
+    "business_name": "Golden Farm House",
+    "search_category": "Resort",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "243638",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "7Q8J+9H9, Eekh Khera, Kundavali Musia Nagla, Uttar Pradesh 243724",
+    "area": "243638",
+    "latitude": 28.265912,
+    "longitude": 78.7814995,
+    "place_id": "ChIJMSANPgDTCjkRnllSGsGYOcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSANPgDTCjkRnllSGsGYOcg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:58:49"
+  }
+]

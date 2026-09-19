@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Leathers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Belt shop, Luggage store",
+    "pincode": "242307",
+    "phone_number": "+91 90342 36230",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Main Bazar, Old City, Kaithal, Haryana 136027",
+    "area": "Main Bazar, Old City",
+    "latitude": 29.8022468,
+    "longitude": 76.3964695,
+    "place_id": "ChIJLXk1uLPhETkRnsIpgdxqsuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXk1uLPhETkRnsIpgdxqsuw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:29"
+  },
+  {
+    "business_name": "Leather Town",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "242307",
+    "phone_number": "+91 98852 27423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "#3-6-365/A & B,Sama Towers,Liberty X Road, Himayat Nagar Rd, opposite STANZA, Gagan Mahal, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Gagan Mahal, Domalguda, Himayatnagar",
+    "latitude": 17.406525,
+    "longitude": 78.4777647,
+    "place_id": "ChIJ2bRcF-eZyzsRDAYgZIEU0HI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bRcF-eZyzsRDAYgZIEU0HI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:29"
+  }
+]

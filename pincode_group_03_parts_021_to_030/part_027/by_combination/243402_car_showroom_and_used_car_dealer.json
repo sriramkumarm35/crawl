@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala Ji Auto Sale",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "243402",
+    "phone_number": "+91 84332 23784",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Mohanpur, Bareilly, Uttar Pradesh 243123",
+    "area": "Mohanpur",
+    "latitude": 28.3248125,
+    "longitude": 79.4658125,
+    "place_id": "ChIJ4VX5y0QBoDkROevyaTi7JsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VX5y0QBoDkROevyaTi7JsI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:35"
+  },
+  {
+    "business_name": "Mahindra Mosaram Enterprises",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "243402",
+    "phone_number": "+91 82911 93891",
+    "website": "https://dealers-auto.mahindra.com/mahindra-mosaram-enterprises-ltd-suv-commercial-vehicle-showroom-mosaram-enterprises-ltd-car-dealer-meerpur-lakhimpur-kheri-472562/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "LRP Rd, Govind Nagar, Meerpuri, Lakhimpur, Uttar Pradesh 262701",
+    "area": "Govind Nagar, Meerpuri",
+    "latitude": 27.933869899999998,
+    "longitude": 80.7735498,
+    "place_id": "ChIJy26aKAXUnjkRunoK2juhH1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy26aKAXUnjkRunoK2juhH1Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:37"
+  }
+]

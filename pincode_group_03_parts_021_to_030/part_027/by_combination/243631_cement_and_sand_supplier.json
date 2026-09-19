@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N C Enterprise",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "243631",
+    "phone_number": "+91 98311 25274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22B, Tollygunge Circular Rd, near Shani Mandir, Tollygunge, Kolkata, West Bengal 700033",
+    "area": "Tollygunge",
+    "latitude": 22.5038612,
+    "longitude": 88.3424501,
+    "place_id": "ChIJ9w_yK7hwAjoRsWkozQUy7TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w_yK7hwAjoRsWkozQUy7TU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:46:21"
+  },
+  {
+    "business_name": "Meghalaya Cements Limited",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Manufacturer",
+    "all_categories": "Cement Manufacturer",
+    "pincode": "243631",
+    "phone_number": "+91 33 2334 0666",
+    "website": "http://www.topcem.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "4th Cross Rd, BE Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "area": "BE Block, Sector 1, Bidhannagar",
+    "latitude": 22.597301599999998,
+    "longitude": 88.4153496,
+    "place_id": "ChIJm4iv5-R1AjoRi2H1j3t1aXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4iv5-R1AjoRi2H1j3t1aXU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:46:21"
+  }
+]

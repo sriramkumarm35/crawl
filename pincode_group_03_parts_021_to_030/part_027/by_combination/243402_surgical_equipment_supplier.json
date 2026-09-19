@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanchit Medicare",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Medical Equipment Manufacturer",
+    "pincode": "243402",
+    "phone_number": "+91 99717 93802",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gate No 1, GF Shop ,khasra No 262, near South city Colony, Kargaina, Uttar Pradesh 243004",
+    "area": "Baheti Deha Jangir, Kargana",
+    "latitude": 28.323582799999997,
+    "longitude": 79.38901489999999,
+    "place_id": "ChIJ0SYjg18BoDkRLk14XtEBTE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SYjg18BoDkRLk14XtEBTE0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:30"
+  },
+  {
+    "business_name": "Bashiri Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "243402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hussain Masjid, Near, Sector Rd, near Hussain Masjid, Thiriya Nizawat Khan, Uttar Pradesh 243123",
+    "area": "243402",
+    "latitude": 28.3116113,
+    "longitude": 79.4623829,
+    "place_id": "ChIJwRbHhXgBoDkRW0edljQR0M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRbHhXgBoDkRW0edljQR0M4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:30"
+  }
+]

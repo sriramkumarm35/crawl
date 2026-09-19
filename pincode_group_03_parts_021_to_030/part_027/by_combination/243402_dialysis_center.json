@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dial a Dialysis Tripura",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "243402",
+    "phone_number": "+91 98756 44708",
+    "website": "https://www.dialadialysis.in/",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "Tripura Medical College, Master Para, Hapania, Agartala, Tripura 799014",
+    "area": "Master Para, Hapania",
+    "latitude": 23.7845175,
+    "longitude": 91.25888119999999,
+    "place_id": "ChIJ50BqD9_1UzcRYl0swlkGWfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50BqD9_1UzcRYl0swlkGWfE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:31"
+  },
+  {
+    "business_name": "Clinic & Madical & Health",
+    "search_category": "Dialysis Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "243402",
+    "phone_number": "+91 88680 02897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post Office, 00, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.339997999999998,
+    "longitude": 79.421295,
+    "place_id": "ChIJC6qLNBsBoDkRrFNsLlvxeJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6qLNBsBoDkRrFNsLlvxeJQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:32"
+  }
+]

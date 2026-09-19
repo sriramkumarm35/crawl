@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev fitness center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gularia Uprala, Uttar Pradesh 243303",
+    "area": "243302",
+    "latitude": 28.4018423,
+    "longitude": 79.1621341,
+    "place_id": "ChIJmVhXFACxCjkRLsZr59NRmYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVhXFACxCjkRLsZr59NRmYU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:21:15"
+  },
+  {
+    "business_name": "Fitness club unisex gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243302",
+    "phone_number": "+91 73513 11784",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bareilly - Badaun Rd, near chandrawati banquet hall 243001, Bareilly, Uttar Pradesh 243401",
+    "area": "243302",
+    "latitude": 28.1914703,
+    "longitude": 79.2871645,
+    "place_id": "ChIJJ8uHWbpTdTkRj4L55z99O0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8uHWbpTdTkRj4L55z99O0g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:21:15"
+  }
+]

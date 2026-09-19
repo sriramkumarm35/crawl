@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Dhaba And Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243638",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3PMC+P57, SH 18, Khairpur Khairati, Sahaswan, Parsauna, Uttar Pradesh 243638",
+    "area": "Khairpur Khairati",
+    "latitude": 28.084275299999998,
+    "longitude": 78.7204065,
+    "place_id": "ChIJQdFNEc0pdTkRR8cSyytMrNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdFNEc0pdTkRR8cSyytMrNs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:57:53"
+  },
+  {
+    "business_name": "Shri Ganga Ji Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dhaba",
+    "pincode": "243638",
+    "phone_number": "+91 94119 32231",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 455,
+    "address": "NH 530B Bahadur Nagar, Soron, Shah Pur Mafi, Uttar Pradesh 207403",
+    "area": "243638",
+    "latitude": 27.8905954,
+    "longitude": 78.76401469999999,
+    "place_id": "ChIJg0hiBswjdTkRmQjyQ5vNarM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0hiBswjdTkRmQjyQ5vNarM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:57:55"
+  }
+]

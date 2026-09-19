@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Kumar Arya",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "243303",
+    "phone_number": "+91 83950 69892",
+    "website": "https://www.rahulkumararya.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Uttar Pradesh 244922",
+    "area": "243303",
+    "latitude": 28.573930299999997,
+    "longitude": 78.9966888,
+    "place_id": "ChIJ6xc7u93BCjkRdvuMcmu8n4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xc7u93BCjkRdvuMcmu8n4U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:23:42"
+  },
+  {
+    "business_name": "AgriMoon Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Customs office",
+    "pincode": "243303",
+    "phone_number": "+91 79009 00676",
+    "website": "https://www.agrimoon.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shiv Building Sai vihar Colony, Bisauli, Uttar Pradesh 243720",
+    "area": "243303",
+    "latitude": 28.3089171,
+    "longitude": 78.94217359999999,
+    "place_id": "ChIJf8QgkuTLCjkRe-jnu7QJsSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8QgkuTLCjkRe-jnu7QJsSA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:23:43"
+  }
+]

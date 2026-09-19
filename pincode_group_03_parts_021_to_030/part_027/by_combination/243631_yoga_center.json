@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Icon fitness gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243631",
+    "phone_number": "+91 82660 35786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "puliya, Allapur, Kakrala, Uttar Pradesh 243631",
+    "area": "puliya",
+    "latitude": 27.9190054,
+    "longitude": 79.24647379999999,
+    "place_id": "ChIJsegcGKpddTkRSZru1q0iDyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsegcGKpddTkRSZru1q0iDyQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:46:05"
+  },
+  {
+    "business_name": "Hiranyagarbh Yogshala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "243631",
+    "phone_number": "+91 98973 92298",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Hotel Aketa, 113-1/2, Rajpur road, Hathibarkala, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Hathibarkala Salwala",
+    "latitude": 30.3486279,
+    "longitude": 78.0616491,
+    "place_id": "ChIJx68jLVzXCDkR0e61a0gErb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx68jLVzXCDkR0e61a0gErb4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:46:06"
+  }
+]

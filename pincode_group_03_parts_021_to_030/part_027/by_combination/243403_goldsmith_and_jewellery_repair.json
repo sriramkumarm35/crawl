@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ganesh Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "243403",
+    "phone_number": "+91 94120 35052",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "34, Choti Bajar, Khalilpur Road, C.B.Ganj, Bareilly, Uttar Pradesh 243502",
+    "area": "C.B.Ganj",
+    "latitude": 28.400601199999997,
+    "longitude": 79.3733944,
+    "place_id": "ChIJE2QNyWmpCjkRsoNoJ417kgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2QNyWmpCjkRsoNoJ417kgM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:28:04"
+  },
+  {
+    "business_name": "Kunj bihari bullions & jewellers pvt ltd",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "243403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9C7C+87F, Alamgiri Ganj, Bareilly, Uttar Pradesh 243005",
+    "area": "Alamgiri Ganj",
+    "latitude": 28.3633451,
+    "longitude": 79.4205273,
+    "place_id": "ChIJJYbIBwAHoDkRjJWR5ij2bB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYbIBwAHoDkRjJWR5ij2bB4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:28:04"
+  }
+]

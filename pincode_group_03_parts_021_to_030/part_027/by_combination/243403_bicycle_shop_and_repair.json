@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ACTOR (MUKESH KARTIK)",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "243403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "66PH+3H9, Aonla- Bareilly Link Road, Motipura, Uttar Pradesh 243301",
+    "area": "243403",
+    "latitude": 28.2351742,
+    "longitude": 79.2289887,
+    "place_id": "ChIJRQTa_rBTdTkR_4A9gr8Ivxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQTa_rBTdTkR_4A9gr8Ivxc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:28:26"
+  },
+  {
+    "business_name": "Maurya New Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243403",
+    "phone_number": "+91 90587 04817",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Motipura, Uttar Pradesh 243301",
+    "area": "243403",
+    "latitude": 28.2280081,
+    "longitude": 79.23507049999999,
+    "place_id": "ChIJDSCqYlpTdTkRnrGjfaR3gYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSCqYlpTdTkRnrGjfaR3gYA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:28:29"
+  }
+]

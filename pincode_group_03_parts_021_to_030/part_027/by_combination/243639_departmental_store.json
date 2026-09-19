@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "243639",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X2X8+88C, Mujuri, Ujhani, Uttar Pradesh 243639",
+    "area": "243639",
+    "latitude": 27.9982263,
+    "longitude": 79.0158046,
+    "place_id": "ChIJW7mQnkg5dTkRChkuehA5cTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7mQnkg5dTkRChkuehA5cTM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:59:30"
+  },
+  {
+    "business_name": "Sonu Company",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "243639",
+    "phone_number": "+91 84490 08512",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "223G+VJR, BADAUN Road, Ujhani Bypass Saraura, Shri Narayan Ganj, Ujhani, Uttar Pradesh 243639",
+    "area": "Shri Narayan Ganj",
+    "latitude": 28.0047392,
+    "longitude": 79.0265216,
+    "place_id": "ChIJ6XkBi4NHdTkRAAAA0Hrd0ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XkBi4NHdTkRAAAA0Hrd0ng",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:59:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "243720",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "8W4M+FVJ, Bisauli, Uttar Pradesh 243720",
+    "area": "243720",
+    "latitude": 28.306222599999998,
+    "longitude": 78.9346553,
+    "place_id": "ChIJU4lpK_rLCjkRsjED_rqQViY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4lpK_rLCjkRsjED_rqQViY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:19"
+  },
+  {
+    "business_name": "PLATINUM FASHION",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "243720",
+    "phone_number": "+91 80 3730 1985",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nai Basti, Maliyaan, Mohalla, Bisauli, Uttar Pradesh 243720",
+    "area": "Maliyaan, Mohalla",
+    "latitude": 28.2978317,
+    "longitude": 78.9344814,
+    "place_id": "ChIJAQAAAPTLCjkR1GZ3vQgJRRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAPTLCjkR1GZ3vQgJRRU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Rathore",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "243402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "694M+H37, Dhanaura, Danora, Uttar Pradesh 243402",
+    "area": "243402",
+    "latitude": 28.206418799999998,
+    "longitude": 79.38265969999999,
+    "place_id": "ChIJTx-yEgD_nzkROR9vm6fS5qA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTx-yEgD_nzkROR9vm6fS5qA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:27:06"
+  },
+  {
+    "business_name": "DINESH KUMAR",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "243402",
+    "phone_number": "+91 99173 47825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shyam Event, Subhash Nagar, Rajeev Colony, Ganesh Nagar, Bareilly, Uttar Pradesh 243001",
+    "area": "Subhash Nagar, Rajeev Colony, Ganesh Nagar",
+    "latitude": 28.344331999999998,
+    "longitude": 79.4045562,
+    "place_id": "ChIJKxaJXvUBoDkRCW5vrnVlD1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxaJXvUBoDkRCW5vrnVlD1Y",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:27:08"
+  }
+]

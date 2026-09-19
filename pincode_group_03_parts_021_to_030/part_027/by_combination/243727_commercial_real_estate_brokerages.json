@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RealtorOnline",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency, Property management company",
+    "pincode": "243727",
+    "phone_number": "0314 3334990",
+    "website": "http://realtoronline.pk/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A-4, 1st Floor, Toshi Square, Main University Rd, near Al Mustafa Medical Center, Block 13 C Gulshan-e-Iqbal, Karachi, 75300, Pakistan",
+    "area": "Gulshan 13-B Block 13 C Gulshan-e-Iqbal",
+    "latitude": 24.9081707,
+    "longitude": 67.0830259,
+    "place_id": "ChIJpQ0CB7A5sz4RkcXPQrnCHCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQ0CB7A5sz4RkcXPQrnCHCw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:14:48"
+  },
+  {
+    "business_name": "VT GROUP ( PROPERTY DEALER )",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Real Estate Builders & Construction Company, Real estate agency, Real estate consultant, Real estate rental agency",
+    "pincode": "243727",
+    "phone_number": "+91 98295 23244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5, Karni Nagar, Manwakheda, Udaipur, Manava Kheda, Rajasthan 313003",
+    "area": "Karni Nagar, Manwakheda",
+    "latitude": 24.5595452,
+    "longitude": 73.7316536,
+    "place_id": "ChIJ17b7woXvZzkR1Hg08MdmV2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17b7woXvZzkR1Hg08MdmV2o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:14:50"
+  }
+]

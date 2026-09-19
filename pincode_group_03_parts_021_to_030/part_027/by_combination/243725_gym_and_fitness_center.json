@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.K. Fitness Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243725",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karamat Khan colony Ward no.12 near primary school Saidpur, Budaun, Uttar Pradesh 243725",
+    "area": "243725",
+    "latitude": 28.240990099999998,
+    "longitude": 79.0353665,
+    "place_id": "ChIJ_0losi-1CjkRnKNknRZxxBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0losi-1CjkRnKNknRZxxBU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:10:30"
+  },
+  {
+    "business_name": "Diamond Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "243725",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Purani Mahjid, Wazirganj Rd, Karbala, Wazirganj, Byoli, Uttar Pradesh 243726",
+    "area": "Karbala",
+    "latitude": 28.209943799999998,
+    "longitude": 79.04870389999999,
+    "place_id": "ChIJLcNdZZxLdTkRruH6GlaZVm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcNdZZxLdTkRruH6GlaZVm4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:10:31"
+  }
+]

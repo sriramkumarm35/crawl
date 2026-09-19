@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dental Centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "243724",
+    "phone_number": "+91 97560 31786",
+    "website": "https://dental-2.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "behind Kotwali, Company Bagh, Kotwali, Gurunanak Colony, Chandausi, Uttar Pradesh 244412",
+    "area": "Company Bagh, Kotwali, Gurunanak Colony",
+    "latitude": 28.450219999999998,
+    "longitude": 78.780948,
+    "place_id": "ChIJrXNe40vbCjkR5579KLYJHX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXNe40vbCjkR5579KLYJHX8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:43"
+  },
+  {
+    "business_name": "S H Dental & Health care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "243724",
+    "phone_number": "+91 91052 01554",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashok Nagar, Chandausi, Uttar Pradesh 244412",
+    "area": "Ashok Nagar",
+    "latitude": 28.466828,
+    "longitude": 78.7730953,
+    "place_id": "ChIJDwa51UTbCjkR6yzM0AvZEBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwa51UTbCjkR6yzM0AvZEBA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon 11 Food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "243004",
+    "phone_number": "+91 84759 52093",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lohiya vihar, Plot no. A-226, near B.L.International School, C.B.Ganj, Bareilly, Uttar Pradesh 243502",
+    "area": "C.B.Ganj",
+    "latitude": 28.3945668,
+    "longitude": 79.37724879999999,
+    "place_id": "ChIJsY_Y0oGpCjkRXg_e0PQ3Gmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsY_Y0oGpCjkRXg_e0PQ3Gmw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:37"
+  },
+  {
+    "business_name": "S.S. FOOD PLAZA",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant",
+    "pincode": "243004",
+    "phone_number": "+91 99170 42003",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "police chowkiMini bypass road, opposite Kuber hotel, near Karamchari nagar, Izatnagar, Bareilly, Uttar Pradesh 243001",
+    "area": "Izatnagar",
+    "latitude": 28.384468799999997,
+    "longitude": 79.4008396,
+    "place_id": "ChIJPe2zTkQHoDkRuFELZSr8K-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPe2zTkQHoDkRuFELZSr8K-4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:37"
+  }
+]

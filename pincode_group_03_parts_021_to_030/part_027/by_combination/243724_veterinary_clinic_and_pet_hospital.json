@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vet Dr. Himanshu Vyas",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Service establishment, Pet store",
+    "pincode": "243724",
+    "phone_number": "+91 80033 00600",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vet Dr. Himanshu Vyas, 243724, India",
+    "area": "243724",
+    "latitude": 24.467348299999998,
+    "longitude": 74.2301378,
+    "place_id": "ChIJjwtfFpXlZzkRgJ4avfIlYEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwtfFpXlZzkRgJ4avfIlYEQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:45"
+  },
+  {
+    "business_name": "Sunrise Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet boarding service",
+    "all_categories": "Pet boarding service, Medical clinic, Pet groomer, Pet store, Pet supply store",
+    "pincode": "243724",
+    "phone_number": "+91 92050 56334",
+    "website": "http://www.sunrisepetclinic.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B-23, Basement, Landmark: Happy Mart, Ramprastha Colony, B Block, Surya Nagar, Ghaziabad, Uttar Pradesh 201011",
+    "area": "Ramprastha Colony, B Block, Surya Nagar",
+    "latitude": 28.6608703,
+    "longitude": 77.32537529999999,
+    "place_id": "ChIJXdhnlOL7DDkRI8G8sKn5Atg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdhnlOL7DDkRI8G8sKn5Atg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:45"
+  }
+]

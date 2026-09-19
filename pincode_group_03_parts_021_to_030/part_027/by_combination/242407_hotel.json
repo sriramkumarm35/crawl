@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "चौहान ढाबा",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "242407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "101, Shahjahanpur Rd, Nigohi, Uttar Pradesh 242407",
+    "area": "242407",
+    "latitude": 28.097102399999997,
+    "longitude": 79.86477339999999,
+    "place_id": "ChIJzY50CACRnzkRsUhAdpccE9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzY50CACRnzkRsUhAdpccE9Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:56:03"
+  },
+  {
+    "business_name": "INDIAN HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "242407",
+    "phone_number": "+91 75100 16958",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bisalpur, Uttar Pradesh 262201",
+    "area": "242407",
+    "latitude": 28.281425199999997,
+    "longitude": 79.8034394,
+    "place_id": "ChIJaTZWT3KKnzkRoW2voSoPDlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTZWT3KKnzkRoW2voSoPDlY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:56:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivang Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "243005",
+    "phone_number": "+91 63981 62514",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Trimurti Rd, Sanjay Nagar, Gopal Nagar, Bareilly, Uttar Pradesh 243005",
+    "area": "Sanjay Nagar, Gopal Nagar",
+    "latitude": 28.378031,
+    "longitude": 79.43791519999999,
+    "place_id": "ChIJ1diTf_8HoDkROu3gR7awB7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1diTf_8HoDkROu3gR7awB7I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:28"
+  },
+  {
+    "business_name": "Peter England",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243005",
+    "phone_number": "+91 82188 52612",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "SHOP AT C13&C14 GROUND FLOOR, 243005, Deen Dayal Puram, Bareilly, Uttar Pradesh 243122",
+    "area": "Deen Dayal Puram",
+    "latitude": 28.3805084,
+    "longitude": 79.42980709999999,
+    "place_id": "ChIJ9XSpXCgHoDkRjr_kveKm9ZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XSpXCgHoDkRjr_kveKm9ZE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:28"
+  }
+]

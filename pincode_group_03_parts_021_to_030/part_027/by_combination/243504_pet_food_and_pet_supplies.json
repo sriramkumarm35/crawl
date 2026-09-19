@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet paradise",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "243504",
+    "phone_number": "+91 95488 28980",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Q2XF+C89, Shahabad Gate Rd, Gangapur Avas Vikas, Civil Lines, Rampur, Uttar Pradesh 244901",
+    "area": "Gangapur Avas Vikas, Civil Lines",
+    "latitude": 28.7985433,
+    "longitude": 79.02335529999999,
+    "place_id": "ChIJHfkPSQCNCjkREMHba85ylS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfkPSQCNCjkREMHba85ylS4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:52"
+  },
+  {
+    "business_name": "Furr Friendly",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "243504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Unchi Masjid, 38/04 Ghair Kalander khan, Rampur, Uttar Pradesh 244901",
+    "area": "Roshan Bagh",
+    "latitude": 28.814064799999997,
+    "longitude": 79.03643819999999,
+    "place_id": "ChIJ5RJqpcONCjkRoOqoKkLqOeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RJqpcONCjkRoOqoKkLqOeA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:52"
+  }
+]

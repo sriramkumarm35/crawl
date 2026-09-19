@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAPL Ford",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Ford dealer",
+    "all_categories": "Ford dealer, Auto Dent Removal Service Station, Auto repair shop, Car dealer",
+    "pincode": "243302",
+    "phone_number": "+91 99306 08017",
+    "website": "https://www.dealer.india.ford.com/capl-ford-ford-india-ford-dealer-mathurapur-bareilly-2204/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Plot No 408 & 409 Rampur Delhi Rd, Parsakhera, Mathurapur, Bareilly, Uttar Pradesh 243502",
+    "area": "Parsakhera Industrial Area, Mathurapur",
+    "latitude": 28.428038299999997,
+    "longitude": 79.35298879999999,
+    "place_id": "ChIJM4jCsxIHoDkRi-QgG0qcOUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4jCsxIHoDkRi-QgG0qcOUE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:21:16"
+  },
+  {
+    "business_name": "AKC - Hyundai Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "243302",
+    "phone_number": "+91 78959 80902",
+    "website": "http://akc.hyundaimotor.in/",
+    "rating": 4.1,
+    "reviews_count": 138,
+    "address": "Road No. 2, NH 24, Parsakhera Industrial Area, Bareilly, Uttar Pradesh 243502",
+    "area": "Parsakhera Industrial Area",
+    "latitude": 28.4255319,
+    "longitude": 79.3557156,
+    "place_id": "ChIJaSZ98myoCjkRZSwvfwI12s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSZ98myoCjkRZSwvfwI12s8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:21:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "T3 Tasty Table Talks",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243202",
+    "phone_number": "+91 82189 83303",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "House No. 285, Utsav Part 2, Ujjwal Phase - 1, Mahanagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Utsav Part 2, Ujjwal Phase - 1, Mahanagar",
+    "latitude": 28.392820999999998,
+    "longitude": 79.46337129999999,
+    "place_id": "ChIJzeWYuIYHoDkRW071iFnaSUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeWYuIYHoDkRW071iFnaSUY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:31"
+  },
+  {
+    "business_name": "Naks Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243202",
+    "phone_number": "+91 88267 92675",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "H 1407 Nilaya Greens, Sikrod, Ghaziabad, Uttar Pradesh 201003",
+    "area": "Sikrod",
+    "latitude": 28.7189604,
+    "longitude": 77.4517453,
+    "place_id": "ChIJoRvprmTxDDkRyEO926ITmiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRvprmTxDDkRyEO926ITmiQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:32"
+  }
+]

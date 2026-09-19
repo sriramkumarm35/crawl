@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Tractor",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "243123",
+    "phone_number": "+91 98372 38682",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chopla Road Chopla Road, near Police Line, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3521799,
+    "longitude": 79.410808,
+    "place_id": "ChIJM7rP2swAoDkRRqZxFUvMviU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7rP2swAoDkRRqZxFUvMviU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:30"
+  },
+  {
+    "business_name": "Farmtrac Dealer",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "243123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanaua Mod, opposite MG Showroom, Bareilly, Nawadia Ilaqa Singhai, Uttar Pradesh 243122",
+    "area": "243123",
+    "latitude": 28.4395578,
+    "longitude": 79.4816378,
+    "place_id": "ChIJZ4wTqHYFoDkRwsOiWeAk4Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4wTqHYFoDkRwsOiWeAk4Kg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wildbean Café | Izzatnagar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Coffee roastery, Coffee stand, Coffee store, Espresso bar, Pizza restaurant, Restaurant, Sandwich shop, Tea store",
+    "pincode": "243202",
+    "phone_number": "+91 88593 01049",
+    "website": "https://www.jiobp.com/products-and-services/wild-bean-cafe",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop, Plot No, 442 ViII, Dohna Pitam Rai, Bareilly, Uttar Pradesh 243202",
+    "area": "243202",
+    "latitude": 28.45151,
+    "longitude": 79.43668,
+    "place_id": "ChIJ2VTxNAAJoDkRrrdgv-_XSoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VTxNAAJoDkRrrdgv-_XSoM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:32"
+  },
+  {
+    "business_name": "Good vibe cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "243202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Village, soraha abhaypur road, Sorha, Uttar Pradesh 243501",
+    "area": "243202",
+    "latitude": 28.506814,
+    "longitude": 79.3422566,
+    "place_id": "ChIJCSx0MwCnCjkRR3Mhg3auvxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSx0MwCnCjkRR3Mhg3auvxU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:34"
+  }
+]

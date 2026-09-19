@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aksha Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Jagatpur, Old City, Mustafa Munzil Ajaz Nagar, Bareilly, Uttar Pradesh 243005",
+    "area": "Jagatpur, Old City, Mustafa Munzil Ajaz Nagar",
+    "latitude": 28.363205699999998,
+    "longitude": 79.4430022,
+    "place_id": "ChIJM4svOMkGoDkRiFrHB8NSuj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4svOMkGoDkRiFrHB8NSuj8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:17"
+  },
+  {
+    "business_name": "Reeva stylish footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243122",
+    "phone_number": "+91 90275 91453",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Koharapeer, Bareilly, Uttar Pradesh 243003",
+    "area": "Koharapeer",
+    "latitude": 28.3675638,
+    "longitude": 79.414898,
+    "place_id": "ChIJi4zH8sYHoDkRHsxJ-8g8Yr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4zH8sYHoDkRHsxJ-8g8Yr0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:19"
+  }
+]

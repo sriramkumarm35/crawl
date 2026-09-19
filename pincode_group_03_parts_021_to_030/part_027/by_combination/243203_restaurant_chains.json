@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tadka Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243203",
+    "phone_number": "+91 63951 32762",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 19,
+    "address": "Main Market, 4/2, Rajendra Nagar Rd, behind Main Road, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Rajendra Nagar",
+    "latitude": 28.3838156,
+    "longitude": 79.4246986,
+    "place_id": "ChIJ5fTY_IwHoDkRE8F_B4qHXrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fTY_IwHoDkRE8F_B4qHXrk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:23"
+  },
+  {
+    "business_name": "Royal Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "243203",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/__royalrestaurant?igsh=a21keGhwM3hyeHBo",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near toll plaza, Thiria Khetal, Uttar Pradesh 243501",
+    "area": "243203",
+    "latitude": 28.4687502,
+    "longitude": 79.28941069999999,
+    "place_id": "ChIJ8w2rCwSlCjkRtIkjAM2jphE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8w2rCwSlCjkRtIkjAM2jphE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:26"
+  }
+]

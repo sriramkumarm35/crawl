@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Batteries",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "243720",
+    "phone_number": "+91 90843 61333",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Sita ashram road, Chandausi, Pathra, Uttar Pradesh 244412",
+    "area": "243720",
+    "latitude": 28.4384941,
+    "longitude": 78.79265319999999,
+    "place_id": "ChIJ1WZCbRbbCjkReryOjyyq2mQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WZCbRbbCjkReryOjyyq2mQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:35"
+  },
+  {
+    "business_name": "Gupta Batteries & Sons",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243720",
+    "phone_number": "+91 78308 77227",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "04 Chandausi Rd Chandausi Rd Near Roadbase Bisauli, Budaun, Uttar Pradesh 243720",
+    "area": "243720",
+    "latitude": 28.310940199999997,
+    "longitude": 78.93207939999999,
+    "place_id": "ChIJi5pwOQfLCjkRO-WQsrvvShQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5pwOQfLCjkRO-WQsrvvShQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:39"
+  }
+]

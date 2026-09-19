@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav tourist Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "8GF3+4J3, SH 39, Garha, Dhanaripatti Lalsingh, Uttar Pradesh 243751",
+    "area": "243722",
+    "latitude": 28.322768999999997,
+    "longitude": 78.5040432,
+    "place_id": "ChIJD4LaEzgvCzkRjQXG9-kC2mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4LaEzgvCzkRjQXG9-kC2mk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:04:51"
+  },
+  {
+    "business_name": "Hotel Highway and family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "243722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "NH 44, Birdha, Richh Pura, Uttar Pradesh 284403",
+    "area": "243722",
+    "latitude": 24.525891899999998,
+    "longitude": 78.4894056,
+    "place_id": "ChIJ-ZFYJ5GoeTkRGs7WelimX3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZFYJ5GoeTkRGs7WelimX3g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:04:53"
+  }
+]

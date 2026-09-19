@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanoor Footwear & General Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243402",
+    "phone_number": "+91 78953 51413",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "14-Jagriti Nagar, Bareilly - Badaun Rd, BDA Colony, Bareilly, Kargaina, Uttar Pradesh 243001",
+    "area": "BDA Colony",
+    "latitude": 28.3241746,
+    "longitude": 79.3934007,
+    "place_id": "ChIJm1UmPJcAoDkR_WBMchVCQMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1UmPJcAoDkR_WBMchVCQMU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:19"
+  },
+  {
+    "business_name": "Footwear Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243402",
+    "phone_number": "+91 85320 36016",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "145 Jasoli Maluk Pur Chocky Raod, Uttar Pradesh 243003",
+    "area": "Mohalla Jasoli",
+    "latitude": 28.3596282,
+    "longitude": 79.4060445,
+    "place_id": "ChIJKTivD7MHoDkR612uXx7DGqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTivD7MHoDkR612uXx7DGqQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:20"
+  }
+]

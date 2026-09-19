@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Car Point",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "243503",
+    "phone_number": "+91 96344 04447",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pilibhit Bypass Rd, opp. Mahindra Showroom, Pashupati Vihar Colony, Bareilly, Uttar Pradesh 243006",
+    "area": "Pashupati Vihar Colony",
+    "latitude": 28.3650503,
+    "longitude": 79.45461949999999,
+    "place_id": "ChIJfVNyKYgHoDkRCoWo6yw8zag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVNyKYgHoDkRCoWo6yw8zag",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:33"
+  },
+  {
+    "business_name": "Mahindra M S Dua Cars & Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "243503",
+    "phone_number": "+91 97116 24229",
+    "website": "http://www.duamotor.com/outlet/showroom-aasam-chauraha--pilibhit.html",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "Gutaya Mod, near Durga Rice Mill, Pilibhit, Uttar Pradesh 262001",
+    "area": "243503",
+    "latitude": 28.612884899999997,
+    "longitude": 79.7848606,
+    "place_id": "ChIJ14HrA2U_oDkRz2bUO8Ow1nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14HrA2U_oDkRz2bUO8Ow1nU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:33"
+  }
+]

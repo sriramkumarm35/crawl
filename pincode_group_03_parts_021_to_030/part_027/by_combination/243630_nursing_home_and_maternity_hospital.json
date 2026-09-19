@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayesha Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243630",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "343J+6MW, Khera Navada, Arifpur Navada, Budaun, Uttar Pradesh 243601",
+    "area": "Khera Navada",
+    "latitude": 28.053117699999998,
+    "longitude": 79.1316942,
+    "place_id": "ChIJQzS1XK9FdTkRmdo_wGy5hpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzS1XK9FdTkRmdo_wGy5hpM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:44:15"
+  },
+  {
+    "business_name": "Naziya Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "243630",
+    "phone_number": "+91 90276 16834",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Alapur, Budaun, SH-43, Badaun Farrukhabad Road, Budaun, Budaun, Uttar Pradesh 243631",
+    "area": "243630",
+    "latitude": 27.9165784,
+    "longitude": 79.247216,
+    "place_id": "ChIJ0Un2oqlddTkRJU4m50T1qhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Un2oqlddTkRJU4m50T1qhM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:44:15"
+  }
+]

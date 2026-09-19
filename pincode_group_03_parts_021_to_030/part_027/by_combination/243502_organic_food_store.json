@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nisarga Natural Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "243502",
+    "phone_number": "+91 76969 52327",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, near Kendriya Vidyalaya, Siddharth Nagar, Izatnagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Siddharthnagar, Izatnagar",
+    "latitude": 28.381315899999997,
+    "longitude": 79.40822969999999,
+    "place_id": "ChIJ938PfMwHoDkRY4MPvomNb0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ938PfMwHoDkRY4MPvomNb0U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:05"
+  },
+  {
+    "business_name": "Organic Makeup By Pooja Pathak",
+    "search_category": "Organic Food Store",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "243502",
+    "phone_number": "+91 91021 63439",
+    "website": "https://www.organicbypooja.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Janakpuri, Bareilly, Uttar Pradesh 243122",
+    "area": "Janakpuri",
+    "latitude": 28.3806898,
+    "longitude": 79.42399259999999,
+    "place_id": "ChIJ04aRs5oHoDkRN01LFqYLnOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04aRs5oHoDkRN01LFqYLnOA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:08"
+  }
+]

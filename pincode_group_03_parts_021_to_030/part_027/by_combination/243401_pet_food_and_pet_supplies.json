@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "243401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9F33+V85, Aala Hazrat Hospital Rd, Civil Lines, Bareilly, Uttar Pradesh 243006",
+    "area": "Civil Lines",
+    "latitude": 28.3546409,
+    "longitude": 79.4533589,
+    "place_id": "ChIJIaE2YksBoDkRvvDU0WrFGqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaE2YksBoDkRvvDU0WrFGqI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:21"
+  },
+  {
+    "business_name": "Antriksh Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Cat breeder, Cat trainer, Dog breeder, Dog trainer, Pet groomer, Pet store, Pet trainer",
+    "pincode": "243401",
+    "phone_number": "+91 81262 67864",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 4, vikas complex, Ramghat Rd, opposite stadium, Rambag Colony, Aligarh, Uttar Pradesh 202001",
+    "area": "Rambag Colony",
+    "latitude": 27.9031687,
+    "longitude": 78.0988899,
+    "place_id": "ChIJI6mDcKqldDkRT_0RJLp7Evc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6mDcKqldDkRT_0RJLp7Evc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:23"
+  }
+]

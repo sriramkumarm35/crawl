@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Miramar Real Estate Management LTD",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Financial planner, Leasing service, Property investment company, Property maintenance, Property management company, Real estate consultant, Retail space rental agency",
+    "pincode": "243725",
+    "phone_number": "N/A",
+    "website": "https://www.miramar-uae.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Al Reem Island - Shams Abu Dhabi - Abu Dhabi - United Arab Emirates",
+    "area": "Al Reem Island - Shams Abu Dhabi",
+    "latitude": 24.4961725,
+    "longitude": 54.4085189,
+    "place_id": "ChIJz7QiE6dnXj4RT-8NngWIC1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7QiE6dnXj4RT-8NngWIC1A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:11:24"
+  },
+  {
+    "business_name": "Shreenath Real Estate & Constr. Co.",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "243725",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kaladwas, Rajasthan 313003",
+    "area": "243725",
+    "latitude": 24.53184,
+    "longitude": 73.7589808,
+    "place_id": "ChIJgVBjDijpZzkRSvknXIqd-qE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVBjDijpZzkRSvknXIqd-qE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:11:24"
+  }
+]

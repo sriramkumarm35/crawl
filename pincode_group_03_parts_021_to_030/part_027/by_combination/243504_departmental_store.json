@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE bala ji grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "243504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "F5RF+54C, Khamaria Azampur, Uttar Pradesh 243504",
+    "area": "243504",
+    "latitude": 28.4904475,
+    "longitude": 79.1727808,
+    "place_id": "ChIJlyZDYgC7CjkRkkdje-yr15g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyZDYgC7CjkRkkdje-yr15g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:45"
+  },
+  {
+    "business_name": "AKASH KUMAR",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "243504",
+    "phone_number": "+91 79063 19632",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagariya Kalan Main Market, Road, Hurhuri, Uttar Pradesh 243504",
+    "area": "243504",
+    "latitude": 28.5205971,
+    "longitude": 79.239189,
+    "place_id": "ChIJufIIZJ2lCjkRrZTQ1vSXmAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJufIIZJ2lCjkRrZTQ1vSXmAs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:45"
+  }
+]

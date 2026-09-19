@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "243303",
+    "phone_number": "+91 88690 03689",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00 Kesarpur, Bareilly, Uttar Pradesh 243303",
+    "area": "243303",
+    "latitude": 28.441861799999998,
+    "longitude": 79.1119839,
+    "place_id": "ChIJUQYQ0OG7CjkRDvNE4tkuhQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQYQ0OG7CjkRDvNE4tkuhQY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:22:55"
+  },
+  {
+    "business_name": "Bhardwaj Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243303",
+    "phone_number": "+91 98370 19210",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "Bilsi Rd, adjacent Hero motors, Bisauli, Uttar Pradesh 243720",
+    "area": "243303",
+    "latitude": 28.3044311,
+    "longitude": 78.941451,
+    "place_id": "ChIJ93VQXuXLCjkRpQzcEf_nSXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93VQXuXLCjkRpQzcEf_nSXU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:22:55"
+  }
+]

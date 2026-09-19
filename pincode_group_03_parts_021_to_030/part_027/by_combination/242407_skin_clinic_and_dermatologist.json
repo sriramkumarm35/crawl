@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skin Care Medicos",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "242407",
+    "phone_number": "+91 81715 44558",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Chauraha, Bhogapur, Bisalpur, Uttar Pradesh 262201",
+    "area": "Chauraha",
+    "latitude": 28.287895199999998,
+    "longitude": 79.8050581,
+    "place_id": "ChIJCZzRdACLnzkREWNY7tOUPM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZzRdACLnzkREWNY7tOUPM8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:55:30"
+  },
+  {
+    "business_name": "Dr. Divya Sharma",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "242407",
+    "phone_number": "+91 94131 14184",
+    "website": "https://www.instagram.com/sharma.drdivya/",
+    "rating": 4.9,
+    "reviews_count": 208,
+    "address": "Plot No 48 & 49, Block A, Pratap Nagar, Udaipur, Rajasthan 313001",
+    "area": "Block A, Pratap Nagar",
+    "latitude": 24.590233899999998,
+    "longitude": 73.7417011,
+    "place_id": "ChIJMUXOqRrvZzkRD-YYWBHC1rE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUXOqRrvZzkRD-YYWBHC1rE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:55:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amber Residency Farms",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Property investment company, Property management company, Real estate appraiser, Real estate consultant",
+    "pincode": "243123",
+    "phone_number": "+91 87555 58271",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Amber Residency Farms, NH 730, Barehpura, Uttar Pradesh 243126",
+    "area": "243123",
+    "latitude": 28.334131499999998,
+    "longitude": 79.5761653,
+    "place_id": "ChIJUXfa9cIdoDkR8rI6UDQkkwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXfa9cIdoDkR8rI6UDQkkwQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:24"
+  },
+  {
+    "business_name": "Fresh Property",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "243123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9F25+FCV, Spera Rd, Faiq Enclave Phase-II, Khushboo Enclave, Bareilly, Uttar Pradesh 243006",
+    "area": "Faiq Enclave Phase-II, Khushboo Enclave",
+    "latitude": 28.3512405,
+    "longitude": 79.4585341,
+    "place_id": "ChIJJ40-_U0BoDkR3MoC682TlYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ40-_U0BoDkR3MoC682TlYk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:24"
+  }
+]

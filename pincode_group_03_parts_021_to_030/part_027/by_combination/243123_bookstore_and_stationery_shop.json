@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stationery Palace",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "243123",
+    "phone_number": "+91 74528 96606",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mohanpur, Thiriya Nizawat Khan, Uttar Pradesh 243123",
+    "area": "Mohanpur",
+    "latitude": 28.316568699999998,
+    "longitude": 79.4569865,
+    "place_id": "ChIJe0GPTwABoDkRbfkWQPwK6i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0GPTwABoDkRbfkWQPwK6i4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:10"
+  },
+  {
+    "business_name": "Laxmi Stationery and Gift Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "243123",
+    "phone_number": "+91 90279 23500",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Opp. Gali No.3, Adarsh Colony Mohanpur Road, Nakatia Bridge, Bareilly, Uttar Pradesh 243123",
+    "area": "Chetna Colony, Mohanpur",
+    "latitude": 28.3304166,
+    "longitude": 79.4597869,
+    "place_id": "ChIJVaUfMGYBoDkR0tViQ297YSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaUfMGYBoDkR0tViQ297YSM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:10"
+  }
+]

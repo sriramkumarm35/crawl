@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shah Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "243203",
+    "phone_number": "+91 95572 96328",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Tanki Chauraha, Shergarh, Uttar Pradesh 243505",
+    "area": "243203",
+    "latitude": 28.653533799999998,
+    "longitude": 79.36787939999999,
+    "place_id": "ChIJDROZxuOfCjkRHqfYTNDRXk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDROZxuOfCjkRHqfYTNDRXk8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:21"
+  },
+  {
+    "business_name": "KASHISH FAST FOOD",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "243203",
+    "phone_number": "+91 85956 45614",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mathura Pur, C.B.Ganj, Bareilly, Kharowa, Uttar Pradesh 243502",
+    "area": "Mathura Pur, C.B.Ganj",
+    "latitude": 28.415869299999997,
+    "longitude": 79.3643432,
+    "place_id": "ChIJrcIihPqpCjkReD8TFa9PaQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcIihPqpCjkReD8TFa9PaQE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:21"
+  }
+]

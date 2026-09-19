@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D devi medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "243005",
+    "phone_number": "+91 86500 95654",
+    "website": "https://www.devidcenter.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SHIV GARDEN COLONY DANCE FACTORY, Dohra Road, near Rudraksh Apartment, Suresh Sharma Nagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Suresh Sharma Nagar",
+    "latitude": 28.3761378,
+    "longitude": 79.46080789999999,
+    "place_id": "ChIJh-_ZOtcHoDkRdFR6O-trGKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-_ZOtcHoDkRdFR6O-trGKU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:37"
+  },
+  {
+    "business_name": "Lavkush Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "243005",
+    "phone_number": "+91 97589 29557",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "opp. SBI, Nawada, Jogiyan, Bareilly, Uttar Pradesh 243006",
+    "area": "Nawada",
+    "latitude": 28.376690999999997,
+    "longitude": 79.4512699,
+    "place_id": "ChIJJYKwV74GoDkRjOg9h72V1bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYKwV74GoDkRjOg9h72V1bc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:40"
+  }
+]

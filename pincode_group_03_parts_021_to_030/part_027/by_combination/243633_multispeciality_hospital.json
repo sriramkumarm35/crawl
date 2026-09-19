@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Bazaar",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "243633",
+    "phone_number": "+91 78978 96686",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "Pathik Chowk, Budaun, Uttar Pradesh 243601",
+    "area": "243633",
+    "latitude": 28.042366599999998,
+    "longitude": 79.1267319,
+    "place_id": "ChIJVVYIJkJFdTkRrfgn2kyBtIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVYIJkJFdTkRrfgn2kyBtIQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:49:25"
+  },
+  {
+    "business_name": "Dr Ram Niwas Gupta Hospital 🏥",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243633",
+    "phone_number": "+91 98180 59321",
+    "website": "http://rnghospital.com/",
+    "rating": 4.5,
+    "reviews_count": 58,
+    "address": "Dr Ram Niwas Gupta Hospital, opposite Roadways bus stand, Sahaswan, Uttar Pradesh 243638",
+    "area": "Kolhar",
+    "latitude": 28.0689519,
+    "longitude": 78.7530895,
+    "place_id": "ChIJAQAAANcudTkRexyiE02kdew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAANcudTkRexyiE02kdew",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:49:25"
+  }
+]

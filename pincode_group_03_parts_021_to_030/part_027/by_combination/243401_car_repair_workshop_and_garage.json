@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aas Mohmmad Shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "243401",
+    "phone_number": "+91 93544 15002",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Holi Chowk, marg, Rafiabad, Bareilly, Uttar Pradesh 243402",
+    "area": "marg",
+    "latitude": 28.2610481,
+    "longitude": 79.352254,
+    "place_id": "ChIJ-WVnEaqrCjkRV77dhIk0QbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WVnEaqrCjkRV77dhIk0QbM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:48"
+  },
+  {
+    "business_name": "M. K. Motor Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "243401",
+    "phone_number": "+91 95093 85738",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Ricco Colony, Abu Road, Santpur, Rajasthan 307026",
+    "area": "Ricco Colony",
+    "latitude": 24.4560402,
+    "longitude": 72.7699645,
+    "place_id": "ChIJG9kMRiUmXTkRTXfrKRz1E34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9kMRiUmXTkRTXfrKRz1E34",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:51"
+  }
+]

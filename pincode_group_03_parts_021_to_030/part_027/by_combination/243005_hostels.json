@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S N Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "243005",
+    "phone_number": "+91 98977 94777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gardan City, Bareilly, Uttar Pradesh 243005",
+    "area": "Gardan City",
+    "latitude": 28.3612818,
+    "longitude": 79.45364529999999,
+    "place_id": "ChIJs7NOQmAHoDkRs27ys_GNNi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7NOQmAHoDkRs27ys_GNNi4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:19"
+  },
+  {
+    "business_name": "Vidyapeeth Private Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "243005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "9FH2+2VF, Bareilly Rd, Suresh Sharma Nagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Suresh Sharma Nagar",
+    "latitude": 28.377571699999997,
+    "longitude": 79.4521862,
+    "place_id": "ChIJC7zJab4GoDkRzna4tUEHuBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7zJab4GoDkRzna4tUEHuBQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:19"
+  }
+]

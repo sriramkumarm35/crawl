@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taiba Banquet Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "243005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9F92+8V9, Tulsi Nagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Tulsi Nagar",
+    "latitude": 28.368292099999998,
+    "longitude": 79.4522305,
+    "place_id": "ChIJ9bJtJ_gHoDkRq-ENuL_eWu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bJtJ_gHoDkRq-ENuL_eWu0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:15"
+  },
+  {
+    "business_name": "Khushi Banquet Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "243005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "9CJV+4WV, Durga Nagar, Gopal Nagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Durga Nagar, Gopal Nagar",
+    "latitude": 28.380356,
+    "longitude": 79.4447893,
+    "place_id": "ChIJmRLsBKoHoDkRXiBlVWyv2G8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRLsBKoHoDkRXiBlVWyv2G8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:15"
+  }
+]

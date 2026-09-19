@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Confectionery",
+    "search_category": "Gifting",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "243407",
+    "phone_number": "+91 70176 76928",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Tahesil choraha, Banjaran Mohalla, Nawabganj, Uttar Pradesh 262406",
+    "area": "Banjaran Mohalla",
+    "latitude": 28.5392971,
+    "longitude": 79.6327031,
+    "place_id": "ChIJLfx4jUMRoDkRw9OmMRZgv2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfx4jUMRoDkRw9OmMRZgv2s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:36"
+  },
+  {
+    "business_name": "Rahman Khan shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "243407",
+    "phone_number": "+91 97619 75409",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "15, Village Pachomi, NH24, Pachomi Bazar Road, near Masjid, Bareilly, Uttar Pradesh 243503",
+    "area": "243407",
+    "latitude": 28.1709456,
+    "longitude": 79.57776559999999,
+    "place_id": "ChIJBzcJqhbxnzkRzdwm7i_X_6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzcJqhbxnzkRzdwm7i_X_6g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:36"
+  }
+]

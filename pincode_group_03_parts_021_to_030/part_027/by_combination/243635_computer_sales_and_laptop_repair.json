@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakya Janaseva Kendra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "243635",
+    "phone_number": "+91 83079 58932",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Dataganj, Uttar Pradesh 243635",
+    "area": "243635",
+    "latitude": 28.020013,
+    "longitude": 79.40619939999999,
+    "place_id": "ChIJM-7fu_rjnzkRHUHBIlTCAe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-7fu_rjnzkRHUHBIlTCAe0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:53:44"
+  },
+  {
+    "business_name": "S.K Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer networking service, Computer service, Computer Wholesaler, Repair service, Used computer store",
+    "pincode": "243635",
+    "phone_number": "+91 79832 03497",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop number 24, Capri Trade Centre, Chakrata Rd, Old Cannaught Place, Connaught Place, Dehradun, Uttarakhand 248001",
+    "area": "Old Cannaught Place, Connaught Place",
+    "latitude": 30.3264046,
+    "longitude": 78.0365739,
+    "place_id": "ChIJ6cpKCOwpCTkRyVxVewZD_s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cpKCOwpCTkRyVxVewZD_s8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:53:46"
+  }
+]

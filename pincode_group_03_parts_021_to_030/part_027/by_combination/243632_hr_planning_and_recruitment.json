@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advait HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Employment consultant, Recruiter",
+    "pincode": "243632",
+    "phone_number": "+91 98999 79034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Block E, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block E, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.5102495,
+    "longitude": 77.2985884,
+    "place_id": "ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:48:39"
+  },
+  {
+    "business_name": "Finderbro",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "243632",
+    "phone_number": "+91 78784 24845",
+    "website": "http://www.finderbro.com/",
+    "rating": 4.9,
+    "reviews_count": 76,
+    "address": "Finderbro,Ground, Rahat, Fatehpur Rd, Ambedkar Nagar, Sikar, Rajasthan 332001",
+    "area": "Ambedkar Nagar",
+    "latitude": 27.6247018,
+    "longitude": 75.1442998,
+    "place_id": "ChIJSVZMkIWlbDkROf8Xk2u_ccI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVZMkIWlbDkROf8Xk2u_ccI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:48:39"
+  }
+]

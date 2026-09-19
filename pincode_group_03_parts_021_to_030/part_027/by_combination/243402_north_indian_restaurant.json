@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akbari",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant, Banquet hall, Fast food restaurant",
+    "pincode": "243402",
+    "phone_number": "+91 581 297 0102",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Amaya Hotel Civil Lines, 35A Civil Lines,Prabha Talkies Road, Bareilly, Uttar Pradesh 243001",
+    "area": "Rampur Garden",
+    "latitude": 28.348481999999997,
+    "longitude": 79.42143899999999,
+    "place_id": "ChIJgbseIdQAoDkRq12xL1hQFyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbseIdQAoDkRq12xL1hQFyA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:10"
+  },
+  {
+    "business_name": "Mughlai Restaurant and Guest House",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant",
+    "pincode": "243402",
+    "phone_number": "+91 75358 70283",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "01, Malgodam Rd, near Saran Hospital, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3406783,
+    "longitude": 79.4125463,
+    "place_id": "ChIJZ5ssasUAoDkRBGW6wpft6yM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5ssasUAoDkRBGW6wpft6yM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Store My Goods",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Self-storage facility",
+    "all_categories": "Self-storage facility, Automobile storage facility, Luggage storage facility, Storage facility, Warehouse",
+    "pincode": "243302",
+    "phone_number": "+91 93118 06600",
+    "website": "https://www.storemygoods.com/",
+    "rating": 4.8,
+    "reviews_count": 2890,
+    "address": "Store my goods, A-23, A Block, Sector 83, Noida, Uttar Pradesh 201304",
+    "area": "A Block, Sector 83",
+    "latitude": 28.528710399999998,
+    "longitude": 77.3976849,
+    "place_id": "ChIJU5TV_YfpDDkRqC1jSjCM6oM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5TV_YfpDDkRqC1jSjCM6oM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:22:16"
+  },
+  {
+    "business_name": "Super Cold Store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "243302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wazirganj, road, near Eid Gah, Aonla, Uttar Pradesh 243301",
+    "area": "243302",
+    "latitude": 28.2708522,
+    "longitude": 79.1483854,
+    "place_id": "ChIJjXEb9a2zCjkRCQUD6HjiI-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXEb9a2zCjkRCQUD6HjiI-g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:22:17"
+  }
+]

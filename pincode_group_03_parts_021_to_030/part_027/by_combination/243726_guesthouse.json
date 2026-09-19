@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Radhe Shyam Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging, Vacation rental",
+    "pincode": "243726",
+    "phone_number": "N/A",
+    "website": "https://br.bluepillow.com/search/67a24420905c444f2d0da451?dest=ago&cat=Vacation+rental+(other)&lat=28.27547&lng=79.13278&language=pt",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uttar Pradesh 243301",
+    "area": "243726",
+    "latitude": 28.2754707,
+    "longitude": 79.13278199999999,
+    "place_id": "ChIJwR2sMQ2zCjkRVyn4BMoi_Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwR2sMQ2zCjkRVyn4BMoi_Lc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:43"
+  },
+  {
+    "business_name": "Akashdeep Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243726",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 36,
+    "address": "628X+X5P, Wazirganj, Nandwari, Uttar Pradesh 243726",
+    "area": "243726",
+    "latitude": 28.217469599999998,
+    "longitude": 79.047966,
+    "place_id": "ChIJbRaTLMRKdTkRwH7QmxH1UoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRaTLMRKdTkRwH7QmxH1UoY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:43"
+  }
+]

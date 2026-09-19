@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart stay hotel Bareilly",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "Nainital Rd, Bilwa, Bareilly, Uttar Pradesh 243202",
+    "area": "243122",
+    "latitude": 28.4395962,
+    "longitude": 79.4337494,
+    "place_id": "ChIJHZU2voQHoDkRmzPDKyQCQJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZU2voQHoDkRmzPDKyQCQJo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:09:05"
+  },
+  {
+    "business_name": "Green Apple Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243122",
+    "phone_number": "+91 92593 76306",
+    "website": "https://www.booking.com/Pulse-qU0pDO",
+    "rating": 4.7,
+    "reviews_count": 87,
+    "address": "Pilibhit Bypass Rd, near bajrang dhaba, Chandpur Bichpuri, Bareilly, Uttar Pradesh 243006",
+    "area": "Chandpur Bichpuri",
+    "latitude": 28.382630199999998,
+    "longitude": 79.45337459999999,
+    "place_id": "ChIJvSSi3_kHoDkR9ylCN865zgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSSi3_kHoDkR9ylCN865zgY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:09:06"
+  }
+]

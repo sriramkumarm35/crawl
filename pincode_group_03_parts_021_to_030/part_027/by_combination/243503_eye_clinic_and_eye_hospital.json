@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap hospital and eye care center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department, Health consultant",
+    "pincode": "243503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6G4R+XFX, Awadh market, Faridpur, Uttar Pradesh 243503",
+    "area": "243503",
+    "latitude": 28.2075616,
+    "longitude": 79.5412396,
+    "place_id": "ChIJTb5CSPD5nzkRtSylmywEANc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTb5CSPD5nzkRtSylmywEANc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:22"
+  },
+  {
+    "business_name": "Garima eye clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "243503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "21, first floor lala changamal market station road moh bakshariya, Faridpur, Uttar Pradesh 243503",
+    "area": "243503",
+    "latitude": 28.2052306,
+    "longitude": 79.5401354,
+    "place_id": "ChIJfVd7hJP5nzkR_gLC45pIogk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVd7hJP5nzkR_gLC45pIogk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:22"
+  }
+]

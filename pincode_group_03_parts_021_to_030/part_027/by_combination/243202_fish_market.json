@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam fast food",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "243202",
+    "phone_number": "+91 81919 49573",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kharseni, Uttar Pradesh 243505",
+    "area": "243202",
+    "latitude": 28.504327099999998,
+    "longitude": 79.3174113,
+    "place_id": "ChIJPVl9oAWnCjkRy7I9UF9n3Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVl9oAWnCjkRy7I9UF9n3Z0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:23"
+  },
+  {
+    "business_name": "M S CHAUDHARY Market",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "243202",
+    "phone_number": "+91 93681 53796",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Jadaunpur, Uttar Pradesh 243202",
+    "area": "243202",
+    "latitude": 28.591804999999997,
+    "longitude": 79.46849499999999,
+    "place_id": "ChIJXY7zCq0LoDkRzPM_jKIiiiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXY7zCq0LoDkRzPM_jKIiiiA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:23"
+  }
+]

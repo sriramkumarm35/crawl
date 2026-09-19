@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Jawed habib unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Hair removal service, Make-up artist, Hairdresser, Waxing hair removal service",
+    "pincode": "243004",
+    "phone_number": "+91 90847 96296",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "214, near k bareilly hotel, opp. haveli hanquet hall, Sadar Bazar, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Sadar Bazar, Civil Lines",
+    "latitude": 28.3190477,
+    "longitude": 79.4374534,
+    "place_id": "ChIJx_rGa88BoDkRUZFPKjfO5xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_rGa88BoDkRUZFPKjfO5xM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:19"
+  },
+  {
+    "business_name": "Jawed Habib Hair & Beauty Salon Satellite Bareilly",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "243004",
+    "phone_number": "+91 76695 48706",
+    "website": "https://www.facebook.com/JawedHabibSatellite/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Infront of yamaha showroom, Jawed Habib, Pilibhit Bypass Rd, near chadrlok hospital, satellite, Bareilly, Uttar Pradesh 243005",
+    "area": "satellite",
+    "latitude": 28.3550249,
+    "longitude": 79.4468272,
+    "place_id": "ChIJ71vMBboGoDkRFvG3NxImYrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71vMBboGoDkRFvG3NxImYrM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:21"
+  }
+]

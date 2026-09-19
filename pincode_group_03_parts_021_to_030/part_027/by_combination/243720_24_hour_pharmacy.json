@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Pharmqcy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "243720",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "24HJ+RCG, Unnamed Road, Budaun, Uttar Pradesh 243601",
+    "area": "243720",
+    "latitude": 28.029564099999998,
+    "longitude": 79.1310811,
+    "place_id": "ChIJFXWOnh1FdTkRlSpNhqMcxL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXWOnh1FdTkRlSpNhqMcxL0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:22"
+  },
+  {
+    "business_name": "Budaun Drug Agency",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "243720",
+    "phone_number": "+91 89419 96800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "24QG+M6H, Budaun, Uttar Pradesh 243601",
+    "area": "243720",
+    "latitude": 28.039184199999998,
+    "longitude": 79.12560739999999,
+    "place_id": "ChIJDYrrY-5FdTkRps55NjpNWhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYrrY-5FdTkRps55NjpNWhE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yummy Point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant",
+    "pincode": "242401",
+    "phone_number": "+91 70808 01322",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "Shahjahan road, Nakasha bagh, Powayan, Lakhoha, Uttar Pradesh 242401",
+    "area": "Nakasha bagh",
+    "latitude": 28.0842939,
+    "longitude": 80.1428584,
+    "place_id": "ChIJsTIIZhx3nzkR-QI1uZRZ7YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTIIZhx3nzkR-QI1uZRZ7YY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:08"
+  },
+  {
+    "business_name": "Navya Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "242401",
+    "phone_number": "+91 94511 44568",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Munna ganeral store, BRC Rd, Chauchh, Vill, Powayan, Uttar Pradesh 242401",
+    "area": "Chauchh, Vill",
+    "latitude": 28.0650895,
+    "longitude": 80.0958601,
+    "place_id": "ChIJvZgHWlU0nzkRdvjkJVfaqoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZgHWlU0nzkRdvjkJVfaqoY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:10"
+  }
+]

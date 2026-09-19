@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vurnee",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Online Share Trading Center",
+    "pincode": "243506",
+    "phone_number": "N/A",
+    "website": "https://www.vurnee.store/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village, Richha Richa, Kishorra, Uttar Pradesh 243503",
+    "area": "243506",
+    "latitude": 28.204702299999997,
+    "longitude": 79.582819,
+    "place_id": "ChIJcUui_RT3nzkRV1yxjyGgDzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUui_RT3nzkRV1yxjyGgDzE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:42:02"
+  },
+  {
+    "business_name": "Nishar Tractor Parts Store",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "243506",
+    "phone_number": "+91 97196 86541",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "3JHM+M3R, NH 30, Fatehganj Purvi, Uttar Pradesh 243506",
+    "area": "243506",
+    "latitude": 28.079227099999997,
+    "longitude": 79.6326328,
+    "place_id": "ChIJpSyEOhfunzkRlAsP1C88t1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSyEOhfunzkRlAsP1C88t1s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:42:02"
+  }
+]

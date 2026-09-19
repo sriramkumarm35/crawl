@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smirti Yoga Training Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "243303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rampur road, near rajshree medical college institute & hospital, near toll plaza, Bareilly, Makrandpur Thakuran, Uttar Pradesh 243501",
+    "area": "243303",
+    "latitude": 28.4845805,
+    "longitude": 79.28404309999999,
+    "place_id": "ChIJWctyU_ylCjkRX07LpeHDdss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWctyU_ylCjkRX07LpeHDdss",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:23:01"
+  },
+  {
+    "business_name": "Power Edge Fitness",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8W5R+6J5, Bisauli, Uttar Pradesh 243720",
+    "area": "243303",
+    "latitude": 28.308309899999998,
+    "longitude": 78.9415959,
+    "place_id": "ChIJbTZBXgDLCjkRCEbxdLM5H8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTZBXgDLCjkRCEbxdLM5H8w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:23:01"
+  }
+]

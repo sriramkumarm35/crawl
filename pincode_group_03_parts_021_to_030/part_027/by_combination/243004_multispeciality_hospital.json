@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvottam Hospital Bareilly",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243004",
+    "phone_number": "+91 80770 68259",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shakti Nagar, Pilibhit ByePass Road, Mod, near Dohra, Bareilly, Uttar Pradesh 243006",
+    "area": "Shakti Nagar, Avas Vikas Colony",
+    "latitude": 28.3747533,
+    "longitude": 79.4544514,
+    "place_id": "ChIJQTRv2R4HoDkR9ko9TSpJkjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTRv2R4HoDkR9ko9TSpJkjs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:47"
+  },
+  {
+    "business_name": "Shri Bhola Nath Global Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243004",
+    "phone_number": "+91 75005 54565",
+    "website": "http://www.globalhospitalbly.com/",
+    "rating": 4.8,
+    "reviews_count": 86,
+    "address": "Bisalpur Rd, Green Park Colony, Bareilly, Uttar Pradesh 243006",
+    "area": "Green Park Colony",
+    "latitude": 28.359854199999997,
+    "longitude": 79.4627924,
+    "place_id": "ChIJs6qqqloEoDkRe-K0B52gonU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6qqqloEoDkRe-K0B52gonU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:49"
+  }
+]

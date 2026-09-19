@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Vaibhav Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Architectural designer, Home improvement store, Interior Decorator, Interior designer",
+    "pincode": "243126",
+    "phone_number": "+91 98103 25821",
+    "website": "http://architectsgva.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4th Floor, B-24, Block B, Sector 67, Noida, Uttar Pradesh 201301",
+    "area": "Block B, Sector 67",
+    "latitude": 28.605552199999998,
+    "longitude": 77.38214289999999,
+    "place_id": "ChIJo5t0yljlDDkRilfWA2XAc_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5t0yljlDDkRilfWA2XAc_g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:12:34"
+  },
+  {
+    "business_name": "Arcon Consulting & Design Advisory, A unit of Arcon",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "243126",
+    "phone_number": "+91 98370 95138",
+    "website": "http://arconarchitects.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Second Floor, Shri Kailasham, 714, Janakpuri, Bareilly, Uttar Pradesh 243122",
+    "area": "Janakpuri",
+    "latitude": 28.3810303,
+    "longitude": 79.424007,
+    "place_id": "ChIJ7UtpOB4HoDkRd1X2apjO4DI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UtpOB4HoDkRd1X2apjO4DI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:12:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool Care & Contractor",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service, Electrical repair shop",
+    "pincode": "243407",
+    "phone_number": "+91 97195 77275",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "Stadium Rd, behind Sai Hospital, Sanjay Nagar, Bareilly, Haziyapur, Uttar Pradesh 243005",
+    "area": "Sanjay Nagar",
+    "latitude": 28.370481299999998,
+    "longitude": 79.43388569999999,
+    "place_id": "ChIJl9LOQt0GoDkRdP103Nf-iXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9LOQt0GoDkRdP103Nf-iXw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:19"
+  },
+  {
+    "business_name": "Climate refrigeration & spare parts",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "243407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "27, 100 Futa Rd, Rajatvihar Colony, FCI Colony, Bareilly, Uttar Pradesh 243005",
+    "area": "Rajatvihar Colony, FCI Colony",
+    "latitude": 28.3871604,
+    "longitude": 79.4413939,
+    "place_id": "ChIJDw5SCAAHoDkRFNFnKMURNfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDw5SCAAHoDkRFNFnKMURNfU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:22"
+  }
+]

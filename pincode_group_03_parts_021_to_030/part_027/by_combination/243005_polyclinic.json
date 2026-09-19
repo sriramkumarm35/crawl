@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjivani Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "243005",
+    "phone_number": "+91 94121 91246",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "01, Sanjay Nagar Rd, near Holy Churaha, FCI Colony, Bareilly, Uttar Pradesh 243005",
+    "area": "FCI Colony",
+    "latitude": 28.377191999999997,
+    "longitude": 79.436105,
+    "place_id": "ChIJbWzHTt0GoDkR040nmHkAT88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWzHTt0GoDkR040nmHkAT88",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:43"
+  },
+  {
+    "business_name": "M A Homeo poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "243005",
+    "phone_number": "+91 81938 39099",
+    "website": "http://www.mahomeopolyclinic.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bisalpur Rd, near Bharatgas Agency, Faridpur, Uttar Pradesh 243503",
+    "area": "243005",
+    "latitude": 28.2095067,
+    "longitude": 79.545699,
+    "place_id": "ChIJ3d__umb5nzkRaDyC_b-Xdzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3d__umb5nzkRaDyC_b-Xdzo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:46"
+  }
+]

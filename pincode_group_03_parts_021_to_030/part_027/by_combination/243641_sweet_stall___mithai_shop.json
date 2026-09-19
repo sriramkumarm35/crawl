@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Munne sweet shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "243641",
+    "phone_number": "+91 90451 20823",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sheikhupur, Uttar Pradesh 243601",
+    "area": "243641",
+    "latitude": 28.0076081,
+    "longitude": 79.1057185,
+    "place_id": "ChIJQT_BGABHdTkR8fFNstwm54A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQT_BGABHdTkR8fFNstwm54A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:17"
+  },
+  {
+    "business_name": "Shankar Sweets House",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "243641",
+    "phone_number": "+91 94529 32150",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12,
+    "address": "9C69+53F, Kuthond, Uttar Pradesh 285125",
+    "area": "243641",
+    "latitude": 26.3604399,
+    "longitude": 79.4176846,
+    "place_id": "ChIJ2b13E_mKnTkRmtmav3kNnBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2b13E_mKnTkRmtmav3kNnBA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:01:19"
+  }
+]

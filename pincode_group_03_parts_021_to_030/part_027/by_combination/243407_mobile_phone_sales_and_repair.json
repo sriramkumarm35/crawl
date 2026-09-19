@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D K Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Cell phone accessory store",
+    "pincode": "243407",
+    "phone_number": "+91 70783 47275",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Dr. Bangali, Harunagla, Bareilly, Uttar Pradesh 243006",
+    "area": "Harunagla",
+    "latitude": 28.3598209,
+    "longitude": 79.46770049999999,
+    "place_id": "ChIJ63HiraYBoDkRhqJCEf9oZis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63HiraYBoDkRhqJCEf9oZis",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:49"
+  },
+  {
+    "business_name": "Mev traders",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "243407",
+    "phone_number": "+91 70786 01448",
+    "website": "https://sites.google.com/view/mev-traders/home#h.t072ynq0qg8",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BHOJIPURA ROAD INFRONTOF, UNION BANK OF INDIA TOWN AREA, Rithora, Bareilly, Uttar Pradesh 243122",
+    "area": "243407",
+    "latitude": 28.4552962,
+    "longitude": 79.50359929999999,
+    "place_id": "ChIJy6e-BHgPoDkREiX9R5bjoPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6e-BHgPoDkREiX9R5bjoPE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:51"
+  }
+]

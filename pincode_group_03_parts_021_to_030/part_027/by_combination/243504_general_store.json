@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mena General Store",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "243504",
+    "phone_number": "+91 90842 12905",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "01, Main Chauraha, Sirodhi Angadpur, Bahroli, Uttar Pradesh 243504",
+    "area": "243504",
+    "latitude": 28.4807371,
+    "longitude": 79.1991553,
+    "place_id": "ChIJnRB79Ra7CjkRpVAMQzIdKyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRB79Ra7CjkRpVAMQzIdKyI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:49"
+  },
+  {
+    "business_name": "Mena General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "243504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "15, near Primery School, Sirodhi Angadpur, Uttar Pradesh 243504",
+    "area": "243504",
+    "latitude": 28.4802996,
+    "longitude": 79.19734319999999,
+    "place_id": "ChIJQ5vNX2m7CjkROhUgnvscXb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5vNX2m7CjkROhUgnvscXb4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:51"
+  }
+]

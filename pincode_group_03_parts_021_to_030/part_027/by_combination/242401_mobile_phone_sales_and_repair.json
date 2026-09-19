@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cell Top Service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Computer accessories store, Cell phone accessory store",
+    "pincode": "242401",
+    "phone_number": "+91 97409 40095",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "949 ground floor, 16th Main Rd, next to swadist Aahar hotel, BTM 2nd Stage, 2nd Stage, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+    "area": "BTM 2nd Stage, 2nd Stage, BTM Layout 2nd Stage, BTM Layout",
+    "latitude": 12.9137977,
+    "longitude": 77.610162,
+    "place_id": "ChIJZw8XD_0UrjsRwMlv9zud2q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZw8XD_0UrjsRwMlv9zud2q8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:51:09"
+  },
+  {
+    "business_name": "Anit Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "242401",
+    "phone_number": "+91 80092 09834",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "254, Banda Road, Mazgama, Powayan, Bikrampur, Uttar Pradesh 242401",
+    "area": "Mazgama",
+    "latitude": 28.1351305,
+    "longitude": 80.097698,
+    "place_id": "ChIJxSoA4lODnzkRnnxoSR_GJcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSoA4lODnzkRnnxoSR_GJcw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:51:11"
+  }
+]

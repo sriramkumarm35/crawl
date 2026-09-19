@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal pet shop aonla (murad ali )",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "243301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7596+X55, Aonla, Uttar Pradesh 243301",
+    "area": "243301",
+    "latitude": 28.269893699999997,
+    "longitude": 79.160485,
+    "place_id": "ChIJmZUBKACzCjkRdth9iODxrWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZUBKACzCjkRdth9iODxrWw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:19:00"
+  },
+  {
+    "business_name": "Rishav Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "243301",
+    "phone_number": "+91 82678 47199",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Aonla, Uttar Pradesh 243301",
+    "area": "243301",
+    "latitude": 28.274182999999997,
+    "longitude": 79.15526059999999,
+    "place_id": "ChIJU3i1q6yzCjkRLmDvbzQyCB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3i1q6yzCjkRLmDvbzQyCB8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:19:02"
+  }
+]

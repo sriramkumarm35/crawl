@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gkr foods bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "243302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "678, Joharpur, Bareilly, Uttar Pradesh 243502",
+    "area": "Joharpur",
+    "latitude": 28.4086873,
+    "longitude": 79.3682997,
+    "place_id": "ChIJfemMZACpCjkR-YZ_F6mFqaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfemMZACpCjkR-YZ_F6mFqaA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "Roli Detergent Powder",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "243302",
+    "phone_number": "+91 89419 03111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Karoura Meerganj Bareilly Karoura, Uttar Pradesh 243504",
+    "area": "243302",
+    "latitude": 28.475659999999998,
+    "longitude": 79.2309767,
+    "place_id": "ChIJZXeoTBelCjkRk4Ttp2tvKMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXeoTBelCjkRk4Ttp2tvKMU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:20:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Brothers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Bag shop, Handbags shop, Luggage repair service, Luggage wholesaler",
+    "pincode": "243401",
+    "phone_number": "+91 98375 71005",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 73,
+    "address": "St Johns Crossing, 6 A, M G Road, Raja ki Mandi, Agra, Uttar Pradesh 282002",
+    "area": "Raja ki Mandi",
+    "latitude": 27.1920982,
+    "longitude": 78.000739,
+    "place_id": "ChIJb85O6T53dDkRGMt9ClK6egU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb85O6T53dDkRGMt9ClK6egU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:35"
+  },
+  {
+    "business_name": "New Vardhman Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Bag shop, Luggage repair service, Shopping mall",
+    "pincode": "243401",
+    "phone_number": "+91 93596 79010",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 152,
+    "address": "22, Sharda Road, Brahmpuri, Meerut, Uttar Pradesh 250002",
+    "area": "Brahmpuri",
+    "latitude": 28.9725446,
+    "longitude": 77.6960514,
+    "place_id": "ChIJAb11MVlkDDkRngAtQOPddRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAb11MVlkDDkRngAtQOPddRU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:35"
+  }
+]

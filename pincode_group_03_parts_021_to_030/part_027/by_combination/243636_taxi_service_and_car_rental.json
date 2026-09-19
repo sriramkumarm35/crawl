@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "243636",
+    "phone_number": "+91 94626 87652",
+    "website": "https://www.taxiservicemountabu.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Neel Kanth Rd, near Sterling, Dhundai Village, Dhundayi, Aburaj, Rajasthan 307501",
+    "area": "Dhundai Village, Dhundayi",
+    "latitude": 24.5867449,
+    "longitude": 72.72477359999999,
+    "place_id": "ChIJ_aXPVXAqXTkR_MABPx23enk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aXPVXAqXTkR_MABPx23enk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:54:56"
+  },
+  {
+    "business_name": "Vedanshi cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Minibus taxi service, Sightseeing Tour Operator, Tour agency, Tour operator, Transportation service, Travel agency",
+    "pincode": "243636",
+    "phone_number": "+91 78785 43433",
+    "website": "https://www.vedanshicabs.com/",
+    "rating": 4.9,
+    "reviews_count": 469,
+    "address": "1/162, Sukher Rd, near Kendriya Vidyalaya, E Class, Housing Board Colony, Pratap Nagar, Udaipur, Rajasthan 313001",
+    "area": "E Class, Housing Board Colony, Pratap Nagar",
+    "latitude": 24.592989199999998,
+    "longitude": 73.7462975,
+    "place_id": "ChIJkUOQ-y3lZzkRdyNv8HkIxH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUOQ-y3lZzkRdyNv8HkIxH0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:54:58"
+  }
+]

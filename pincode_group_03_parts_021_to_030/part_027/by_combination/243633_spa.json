@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Satendra",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "243633",
+    "phone_number": "+91 97206 28353",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Labedpur Sahaswan, Uttar Pradesh 243633",
+    "area": "243633",
+    "latitude": 28.1340813,
+    "longitude": 78.80940509999999,
+    "place_id": "ChIJUwke9lwtdTkRunI2yyIc3yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwke9lwtdTkRunI2yyIc3yg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:49:53"
+  },
+  {
+    "business_name": "Jk Medical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa, Pharmacy",
+    "pincode": "243633",
+    "phone_number": "+91 82736 00619",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Jk Medical Store, 359, Ambedkar Park, Gudhni, Uttar Pradesh 243633",
+    "area": "Ambedkar Park",
+    "latitude": 28.185278099999998,
+    "longitude": 78.9380161,
+    "place_id": "ChIJSZFNcKkzCzkRAGySrmRz1Zg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZFNcKkzCzkRAGySrmRz1Zg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:49:53"
+  }
+]

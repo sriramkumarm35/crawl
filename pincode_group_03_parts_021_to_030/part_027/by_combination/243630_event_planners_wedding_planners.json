@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hustler Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "243630",
+    "phone_number": "+91 99209 31277",
+    "website": "http://hustlerevents.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nuapatna Rd, Infront of Saheed Park, Manglabag, Maachhua Bazar, Kataka, Odisha 753001",
+    "area": "Manglabag, Maachhua Bazar",
+    "latitude": 20.475536299999998,
+    "longitude": 85.8830997,
+    "place_id": "ChIJ6zH0DdUTGToReJyDj9CrLbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zH0DdUTGToReJyDj9CrLbA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:44:51"
+  },
+  {
+    "business_name": "Next Level Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Corporate office, Event management company, Event planner, Party planner",
+    "pincode": "243630",
+    "phone_number": "+91 79031 33317",
+    "website": "https://nextlevelevents.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kanke Rd, Jhirga Toli, Gandhi Nagar, Ranchi, Jharkhand 834002",
+    "area": "Jhirga Toli, Gandhi Nagar",
+    "latitude": 23.4178271,
+    "longitude": 85.3166754,
+    "place_id": "ChIJR_3h7mTh9DkRHcFadLx_clM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_3h7mTh9DkRHcFadLx_clM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:44:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suzuki Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Auto repair shop",
+    "pincode": "243006",
+    "phone_number": "+91 75359 36030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gali no 1 Samrat Ashok Nagar, Jogi Navada, Bareilly, Uttar Pradesh 243006",
+    "area": "Samrat Ashok Nagar, Jogi Navada",
+    "latitude": 28.3727588,
+    "longitude": 79.4536873,
+    "place_id": "ChIJbfG68HsHoDkRFhjkqtBrO1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfG68HsHoDkRFhjkqtBrO1M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:42"
+  },
+  {
+    "business_name": "L.k Auto Traders",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop, Auto parts store",
+    "pincode": "243006",
+    "phone_number": "+91 92197 43081",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "00, Eitpanja Cauraha, Bareilly, Haziyapur, Uttar Pradesh 243005",
+    "area": "243006",
+    "latitude": 28.367560599999997,
+    "longitude": 79.4308372,
+    "place_id": "ChIJNVqs9dkGoDkRyHU1lJuogUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVqs9dkGoDkRyHU1lJuogUw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:42"
+  }
+]

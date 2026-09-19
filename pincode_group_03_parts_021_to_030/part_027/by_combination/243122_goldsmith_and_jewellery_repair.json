@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.V. Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "243122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2032, Qureshi Nagar, Bareilly, Haziyapur, Uttar Pradesh 243005",
+    "area": "Qureshi Nagar",
+    "latitude": 28.364690699999997,
+    "longitude": 79.4344673,
+    "place_id": "ChIJx1W1NAAHoDkRKESo8iZnH9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1W1NAAHoDkRKESo8iZnH9Y",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:16"
+  },
+  {
+    "business_name": "Girish Jewellars",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "243122",
+    "phone_number": "+91 81265 02563",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "neem ki chadi, Bara Bazar, sahukara, Bareilly, Uttar Pradesh 243003",
+    "area": "sahukara",
+    "latitude": 28.365890699999998,
+    "longitude": 79.4082097,
+    "place_id": "ChIJ4dGV9DkHoDkRBHVnB4kLLnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dGV9DkHoDkRBHVnB4kLLnk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:16"
+  }
+]

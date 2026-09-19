@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Tea & Snacks",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "243726",
+    "phone_number": "+91 83403 77128",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ground floor, Shop, MJ complex, 4, Mahatma Gandhi Main Rd, near Radisson Blu hotel, New Daily Market, Upper Bazar, Ranchi, Jharkhand 834001",
+    "area": "New Daily Market, Upper Bazar",
+    "latitude": 23.3662335,
+    "longitude": 85.3248278,
+    "place_id": "ChIJtTeLcjbh9DkRKDDE1wYuCSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTeLcjbh9DkRKDDE1wYuCSI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:11:50"
+  },
+  {
+    "business_name": "Chaioffee",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant, Coffee shop, Tea store",
+    "pincode": "243726",
+    "phone_number": "+91 74950 66250",
+    "website": "http://www.chaioffee.co.in/",
+    "rating": 4.8,
+    "reviews_count": 232,
+    "address": "RP3P+C3, Ismaila-B, Haryana 124501",
+    "area": "243726",
+    "latitude": 28.8009167,
+    "longitude": 76.7402611,
+    "place_id": "ChIJ8bRCfgCfDTkRzOW7ZF3QtZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bRCfgCfDTkRzOW7ZF3QtZk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:11:52"
+  }
+]

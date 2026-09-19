@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Hi Way Cottage A.V.T",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243504",
+    "phone_number": "+91 84303 53535",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shivapuram, Road, near New Roadways, Civil Lines, Bareilly, Rampur, Uttar Pradesh 244901",
+    "area": "Civil Lines",
+    "latitude": 28.7764906,
+    "longitude": 79.0289566,
+    "place_id": "ChIJa79vwvCTCjkRpRI12EsR0ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa79vwvCTCjkRpRI12EsR0ps",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:49"
+  },
+  {
+    "business_name": "Mayasheel Resort",
+    "search_category": "Hotel",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "243504",
+    "phone_number": "+91 94102 55621",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bilaspur Road, Purainiya jadid, Milak, Rampur, Uttar Pradesh 244701",
+    "area": "Purainiya jadid",
+    "latitude": 28.6707602,
+    "longitude": 79.17867969999999,
+    "place_id": "ChIJ9a1xkDWXCjkRdqsXmxx7e50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a1xkDWXCjkRdqsXmxx7e50",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:49"
+  }
+]

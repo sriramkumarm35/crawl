@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Studypedia",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Education center, Educational institution, Tutoring service",
+    "pincode": "243504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "near SDM awas milak, Milak, Uttar Pradesh 244701",
+    "area": "243504",
+    "latitude": 28.6128517,
+    "longitude": 79.17102299999999,
+    "place_id": "ChIJbY80kNSXCjkRGIZ6G1eJcT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbY80kNSXCjkRGIZ6G1eJcT8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:59"
+  },
+  {
+    "business_name": "KaamKhojo.com",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "243504",
+    "phone_number": "+91 80778 48980",
+    "website": "https://kaamkhojo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KaamKhojo.com, 243504, India",
+    "area": "243504",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJhcq0wqk6rYkRXcMqeUlup10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcq0wqk6rYkRXcMqeUlup10",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:59"
+  }
+]

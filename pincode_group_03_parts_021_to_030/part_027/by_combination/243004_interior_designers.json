@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naeem interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "243004",
+    "phone_number": "+91 84334 50031",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thiriya Nizawat Khan, Bareilly, Uttar Pradesh 243123",
+    "area": "243004",
+    "latitude": 28.314980199999997,
+    "longitude": 79.4577314,
+    "place_id": "ChIJ2QFn_tIBoDkR8tTCSF4XYpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QFn_tIBoDkR8tTCSF4XYpA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:13"
+  },
+  {
+    "business_name": "SERENE CONSTRUCTION AND DESIGN",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "243004",
+    "phone_number": "+91 76783 59353",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Rohilkhand Medical College, Near, Bareilly, Uttar Pradesh 243001",
+    "area": "Suresh Sharma Nagar",
+    "latitude": 28.3779073,
+    "longitude": 79.4621404,
+    "place_id": "ChIJ958CJf0HoDkR_cuR49OqDHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ958CJf0HoDkR_cuR49OqDHg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:03:13"
+  }
+]

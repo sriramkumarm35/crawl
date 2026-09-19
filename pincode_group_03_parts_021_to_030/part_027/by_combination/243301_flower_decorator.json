@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lovely Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "243301",
+    "phone_number": "+91 83958 58902",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Bag Bakshi, Aonla, Uttar Pradesh 243301",
+    "area": "Bag Bakshi",
+    "latitude": 28.2711042,
+    "longitude": 79.1609862,
+    "place_id": "ChIJizTtXImzCjkRNOIkHQs2qG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizTtXImzCjkRNOIkHQs2qG4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:19:54"
+  },
+  {
+    "business_name": "Kalyaan Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "243301",
+    "phone_number": "+91 88594 12717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9CJH+H8R Vector Classes, Janakpuri, Bareilly, Uttar Pradesh 243122",
+    "area": "Janakpuri",
+    "latitude": 28.3814773,
+    "longitude": 79.4282776,
+    "place_id": "ChIJjadzXQAHoDkRnbE2tYpYkZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjadzXQAHoDkRnbE2tYpYkZQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:19:56"
+  }
+]

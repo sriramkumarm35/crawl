@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "242405",
+    "phone_number": "+91 99198 34021",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4 Gola By Pass Road Near Ayshman Clinic Khutar Shahjahanpur 242405, Uttar Pradesh 242405",
+    "area": "242405",
+    "latitude": 28.1996699,
+    "longitude": 80.26993949999999,
+    "place_id": "ChIJE5ln1CR7nzkR0JkxoT4CydA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5ln1CR7nzkR0JkxoT4CydA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:52:30"
+  },
+  {
+    "business_name": "Sujit Hair Selone",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "242405",
+    "phone_number": "+91 63930 95214",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "02, Main Market, Miyanpur, Uttar Pradesh 262804",
+    "area": "242405",
+    "latitude": 28.027359399999998,
+    "longitude": 80.2377077,
+    "place_id": "ChIJQdrMsK9znzkR0XfI45kdc5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdrMsK9znzkR0XfI45kdc5M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:52:31"
+  }
+]

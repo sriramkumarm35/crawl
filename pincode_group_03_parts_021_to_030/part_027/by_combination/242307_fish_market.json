@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kolathur Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "242307",
+    "phone_number": "N/A",
+    "website": "http://www.kolathurfishmarket.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Nagar, Girija Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Mahatma Gandhi Nagar, Girija Nagar, Kolathur",
+    "latitude": 13.1277929,
+    "longitude": 80.21494659999999,
+    "place_id": "ChIJRfRz2vVkUjoRcdR17g_0-vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfRz2vVkUjoRcdR17g_0-vo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:13"
+  },
+  {
+    "business_name": "Jyoti battery service",
+    "search_category": "Fish Market",
+    "primary_category": "Battery Wholesaler",
+    "all_categories": "Battery Wholesaler, Battery Store",
+    "pincode": "242307",
+    "phone_number": "+91 72758 58792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Tilhar, Uttar Pradesh 242307",
+    "area": "242307",
+    "latitude": 27.9696283,
+    "longitude": 79.7421634,
+    "place_id": "ChIJGT3c-GuVnzkRoNGKUVCrtAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGT3c-GuVnzkRoNGKUVCrtAs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:14"
+  }
+]

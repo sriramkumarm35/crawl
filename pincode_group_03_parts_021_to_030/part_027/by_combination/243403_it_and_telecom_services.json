@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KESHAV DTH POINT",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics Company",
+    "all_categories": "Electronics Company",
+    "pincode": "243403",
+    "phone_number": "N/A",
+    "website": "https://keshav-dth-point.grexa.site/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Majhawa Road, near Landmark. Dastageer Pharma Agency, Bhoji Pura, Bhojipura, Uttar Pradesh 243202",
+    "area": "243403",
+    "latitude": 28.517106,
+    "longitude": 79.45240629999999,
+    "place_id": "ChIJ5YcFLy4JoDkRf_oOuy2t3YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YcFLy4JoDkRf_oOuy2t3YM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:29:06"
+  },
+  {
+    "business_name": "SARWAR ELECTRONICS",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "243403",
+    "phone_number": "+91 93580 02990",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saxena Complex, Brahampura, Bareilly, Uttar Pradesh 243003",
+    "area": "Brahampura",
+    "latitude": 28.372916,
+    "longitude": 79.418759,
+    "place_id": "ChIJiYHxwyMHoDkRZpQuGc5A4Wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYHxwyMHoDkRZpQuGc5A4Wo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:29:06"
+  }
+]

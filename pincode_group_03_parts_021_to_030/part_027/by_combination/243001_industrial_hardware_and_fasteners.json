@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Iron & Hardware Store",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "243001",
+    "phone_number": "+91 94122 91528",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Pilibhit Bypass Rd, near chandralok, Gulzar Nagar, hospitalhospitalIndia, Bareilly, Uttar Pradesh 243005",
+    "area": "Gulzar Nagar",
+    "latitude": 28.355762,
+    "longitude": 79.44770009999999,
+    "place_id": "ChIJLZ-pv8QBoDkR-812w7y6SqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZ-pv8QBoDkR-812w7y6SqY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:58:18"
+  },
+  {
+    "business_name": "Shivam Fastners",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Importer",
+    "all_categories": "Importer, Equipment Importer, Exporter, Hardware store, Import export company, Industrial consultant, Manufacturer, Screw supplier, Tool exporter, Wholesaler",
+    "pincode": "243001",
+    "phone_number": "+91 94455 09929",
+    "website": "https://linktr.ee/ShivamFastner",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lalpuri Mata Mandir Compund Dariyapur Darwaja Circle, Ramji Mandir Rd, Bardolpura, Ahmedabad, Gujarat 380016",
+    "area": "Bardolpura, Madhupura",
+    "latitude": 23.038264899999998,
+    "longitude": 72.5932108,
+    "place_id": "ChIJ30HjOEiEXjkRseOT1FE0Et4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30HjOEiEXjkRseOT1FE0Et4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:58:19"
+  }
+]

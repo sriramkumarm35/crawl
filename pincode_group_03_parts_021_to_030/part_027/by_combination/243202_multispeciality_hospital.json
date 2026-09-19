@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devansh Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243202",
+    "phone_number": "+91 99535 63658",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Devansh hospital, Nainital Rd, Abhaipur, Abheypur Keshonpur, Bareilly, Uttar Pradesh 243202",
+    "area": "243202",
+    "latitude": 28.4687497,
+    "longitude": 79.441149,
+    "place_id": "ChIJE1SFAHAJoDkR8Yb3Xj1PqV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1SFAHAJoDkR8Yb3Xj1PqV4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:45"
+  },
+  {
+    "business_name": "Shri ram murti hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Bareilly - Nainital Rd, Bhoji Pura, Abheypur Keshonpur, Uttar Pradesh 243202",
+    "area": "243202",
+    "latitude": 28.4813621,
+    "longitude": 79.4432898,
+    "place_id": "ChIJGYyXRFEBoDkRxDzBPOC1Bjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYyXRFEBoDkRxDzBPOC1Bjs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:45"
+  }
+]

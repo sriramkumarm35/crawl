@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "242307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XP6X+WW3, Tilhar, Uttar Pradesh 242307",
+    "area": "242307",
+    "latitude": 27.962260299999997,
+    "longitude": 79.7497827,
+    "place_id": "ChIJlYB-syqVnzkRw8Zdc7dwcEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYB-syqVnzkRw8Zdc7dwcEg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:21"
+  },
+  {
+    "business_name": "Amilkhan Ghar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "242307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XVM7+QGJ, Udaipur Kataiya, Uttar Pradesh 242001",
+    "area": "242307",
+    "latitude": 27.984469999999998,
+    "longitude": 79.8637782,
+    "place_id": "ChIJM9HeEACXnzkRJ7q0rxdkSbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9HeEACXnzkRJ7q0rxdkSbo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:24"
+  }
+]

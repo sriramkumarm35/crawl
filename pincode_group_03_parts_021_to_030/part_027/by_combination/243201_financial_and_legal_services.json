@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legal and tax consultant",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax attorney",
+    "all_categories": "Tax attorney",
+    "pincode": "243201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Meena bazar, madar chowk, Baheri, Uttar Pradesh 243201",
+    "area": "punjabi colony",
+    "latitude": 28.7780401,
+    "longitude": 79.4956974,
+    "place_id": "ChIJV0LlZ5RxoDkRnrOCf8-utJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0LlZ5RxoDkRnrOCf8-utJs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:14:59"
+  },
+  {
+    "business_name": "Verdictive Legal Pvt. Ltd.",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Debt collection agency",
+    "all_categories": "Debt collection agency",
+    "pincode": "243201",
+    "phone_number": "+91 87911 70013",
+    "website": "https://verdlegal.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "243201",
+    "latitude": 28.981058899999997,
+    "longitude": 79.4010828,
+    "place_id": "ChIJX3Jv7qJ_oDkRQAS9xNdR8IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3Jv7qJ_oDkRQAS9xNdR8IU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:14:59"
+  }
+]

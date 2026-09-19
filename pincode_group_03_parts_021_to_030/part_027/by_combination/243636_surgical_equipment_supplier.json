@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Balaji Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "243636",
+    "phone_number": "+91 91542 92355",
+    "website": "https://www.sribalajisurgicals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "232,233, 4-4, Inder Bagh Rd, Sri Sai Shivani Complex, Sultan Bazar, Koti, Hyderabad, Telangana 500001",
+    "area": "Sri Sai Shivani Complex, Sultan Bazar, Koti",
+    "latitude": 17.3852069,
+    "longitude": 78.4837513,
+    "place_id": "ChIJ440J2neZyzsRVmLLoF6zNM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ440J2neZyzsRVmLLoF6zNM8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:54:46"
+  },
+  {
+    "business_name": "Therapy Toolbox",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Service establishment",
+    "pincode": "243636",
+    "phone_number": "N/A",
+    "website": "https://therapytoolbox.online/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Therapy Toolbox, 243636, India",
+    "area": "243636",
+    "latitude": 28.3097118,
+    "longitude": 78.12089759999999,
+    "place_id": "ChIJo9ZFVPQ-kgQRuwKUeJLysT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9ZFVPQ-kgQRuwKUeJLysT0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:54:46"
+  }
+]

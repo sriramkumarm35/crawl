@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Up-25 Restaurant & Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "243005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "Pilibhit Bypass Rd, Civil Lines, Bareilly, Uttar Pradesh 243091",
+    "area": "Civil Lines",
+    "latitude": 28.3525642,
+    "longitude": 79.44233129999999,
+    "place_id": "ChIJXw5CvrgBoDkR_OIf_03200U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXw5CvrgBoDkR_OIf_03200U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:26"
+  },
+  {
+    "business_name": "Yaadgar Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "243005",
+    "phone_number": "N/A",
+    "website": "http://yaadgarresto.blogspot.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9C6Q+55J, Bareilly - Bisalpur Rd, near Meera Ki Peth, Old City, Qureshi Nagar, Bareilly, Uttar Pradesh 243005",
+    "area": "Old City, Qureshi Nagar",
+    "latitude": 28.360457999999998,
+    "longitude": 79.437877,
+    "place_id": "ChIJgYW1580GoDkRuzefC_eHJQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYW1580GoDkRuzefC_eHJQA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:28"
+  }
+]

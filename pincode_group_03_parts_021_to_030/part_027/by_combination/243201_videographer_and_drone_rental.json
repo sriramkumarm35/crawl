@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jetayu Gadgets",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone shop",
+    "all_categories": "Drone shop, Camera store, Drone service",
+    "pincode": "243201",
+    "phone_number": "+91 80 6298 7443",
+    "website": "https://jetayugadgets.com/",
+    "rating": 4,
+    "reviews_count": 203,
+    "address": "M3M Cosmopolitan, Badshahpur, Sector 66, Gurugram, Haryana 122002",
+    "area": "Badshahpur, Sector 66",
+    "latitude": 28.4018151,
+    "longitude": 77.0589081,
+    "place_id": "ChIJwQWPnO8ZDTkRP1jR7tz3DgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQWPnO8ZDTkRP1jR7tz3DgQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:14:38"
+  },
+  {
+    "business_name": "Skylens Technology",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone shop",
+    "all_categories": "Drone shop, Aerial photographer, Camera repair shop, Camera store, Drone service, Land surveyor, Mapping service, Repair service, Surveyor, Toy store",
+    "pincode": "243201",
+    "phone_number": "N/A",
+    "website": "https://skylenstechno.com/",
+    "rating": 4.9,
+    "reviews_count": 122,
+    "address": "metro station, Gali 8 220, Burari Rd, Sant Nagar Extension, Sant Nagar, Burari, Delhi, 110084",
+    "area": "Sant Nagar Extension, Sant Nagar, Burari",
+    "latitude": 28.7356132,
+    "longitude": 77.197516,
+    "place_id": "ChIJ1_-3t6P_DDkRfs8H6vZeN1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_-3t6P_DDkRfs8H6vZeN1g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:14:39"
+  }
+]

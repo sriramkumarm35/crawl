@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Five Star Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "243123",
+    "phone_number": "+91 98973 11033",
+    "website": "https://fivestartailors.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "State Highway 33, islamia road, opp. government clg, Civil Lines, Bareilly, Uttar Pradesh 243003",
+    "area": "Civil Lines",
+    "latitude": 28.358260599999998,
+    "longitude": 79.4161111,
+    "place_id": "ChIJ_6aeCDIHoDkRjCniMoOQ3Xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6aeCDIHoDkRjCniMoOQ3Xk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:09"
+  },
+  {
+    "business_name": "Raza Ladis Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "243123",
+    "phone_number": "+91 82659 97861",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "237, Zakhira, Bareilly, Uttar Pradesh 243003",
+    "area": "Zakhira",
+    "latitude": 28.3659341,
+    "longitude": 79.4023686,
+    "place_id": "ChIJ6VSVFbMHoDkR_DRphThPUFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VSVFbMHoDkR_DRphThPUFI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:12"
+  }
+]

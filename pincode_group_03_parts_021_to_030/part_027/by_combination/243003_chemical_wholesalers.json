@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramswaroop Traders",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "243003",
+    "phone_number": "+91 80776 08792",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Quila, Katghar, Bareilly, Uttar Pradesh 243003",
+    "area": "Katghar",
+    "latitude": 28.368648699999998,
+    "longitude": 79.3998747,
+    "place_id": "ChIJ6dYhW18HoDkR-9IZs--xnQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dYhW18HoDkR-9IZs--xnQ8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:02"
+  },
+  {
+    "business_name": "Raghunandan Interior",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Chauffeur service",
+    "pincode": "243003",
+    "phone_number": "+91 99170 86555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Narkulaganj, Brahampura, Bareilly, Uttar Pradesh 243005",
+    "area": "Narkulaganj, Brahampura",
+    "latitude": 28.3654314,
+    "longitude": 79.4244555,
+    "place_id": "ChIJFdohUKsHoDkRyGoBLiN3m1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdohUKsHoDkRyGoBLiN3m1M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:04"
+  }
+]

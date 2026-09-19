@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hero MotoCorp",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "243726",
+    "phone_number": "+91 93199 64179",
+    "website": "https://www.heromotocorp.com/en-in.html",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Wazirganj, Budaun SH-43, Chandausi, Bareilly - Badaun Rd, Budaun, Uttar Pradesh 243726",
+    "area": "243726",
+    "latitude": 28.2117851,
+    "longitude": 79.0532139,
+    "place_id": "ChIJBWdN08JKdTkR0DgtERCiPfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWdN08JKdTkR0DgtERCiPfc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:16"
+  },
+  {
+    "business_name": "Firoz So Pyare",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "243726",
+    "phone_number": "+91 84456 49954",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00000002, Vill And Post Kumargao Near Pnb Bank, Uttar Pradesh 243601",
+    "area": "243726",
+    "latitude": 28.1715092,
+    "longitude": 79.141807,
+    "place_id": "ChIJ-XVHOWdNdTkRzPipiN1qhpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XVHOWdNdTkRzPipiN1qhpw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:18"
+  }
+]

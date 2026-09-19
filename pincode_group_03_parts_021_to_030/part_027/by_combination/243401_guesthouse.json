@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "243401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D-47, Road PO, IFFCO Township, Iffco Census Village, Uttar Pradesh 243403",
+    "area": "IFFCO Township",
+    "latitude": 28.2194836,
+    "longitude": 79.2446083,
+    "place_id": "ChIJ6UAh--FSdTkR_I6P-UIwftI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UAh--FSdTkR_I6P-UIwftI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:18"
+  },
+  {
+    "business_name": "Babu bhai🪖",
+    "search_category": "Guesthouse",
+    "primary_category": "Hindu temple",
+    "all_categories": "Hindu temple",
+    "pincode": "243401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "579F+JM7, Sadullapur Bhitara, Uttar Pradesh 243634",
+    "area": "243401",
+    "latitude": 28.169037799999998,
+    "longitude": 79.27416219999999,
+    "place_id": "ChIJrScVU6FTdTkR9cRfk_QRa5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrScVU6FTdTkR9cRfk_QRa5s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:18"
+  }
+]

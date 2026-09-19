@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Fitness Club & Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "243638",
+    "phone_number": "+91 72530 27001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sharma dhaba, Distric, near mujariya, Mujariya, Aliganj, Uttar Pradesh 243638",
+    "area": "243638",
+    "latitude": 28.0436011,
+    "longitude": 78.90950269999999,
+    "place_id": "ChIJzzXTLoMxdTkR_iCLrkQYzlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzXTLoMxdTkR_iCLrkQYzlU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:58:18"
+  },
+  {
+    "business_name": "Star Health Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243638",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "3P8V+3RP, Sahaswan, Uttar Pradesh 243638",
+    "area": "243638",
+    "latitude": 28.0652241,
+    "longitude": 78.7445876,
+    "place_id": "ChIJBzKY5hopdTkRuRv4qAJbWmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzKY5hopdTkRuRv4qAJbWmQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:58:18"
+  }
+]

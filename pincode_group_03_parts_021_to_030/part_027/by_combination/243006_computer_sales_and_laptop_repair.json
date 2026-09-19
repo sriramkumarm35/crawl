@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maczone Computer Bareilly",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "243006",
+    "phone_number": "+91 89547 25436",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 05, Akash Tower, Pilibhit Bypass Rd, Gardan City, Bareilly, Uttar Pradesh 243005",
+    "area": "Gardan City",
+    "latitude": 28.3600973,
+    "longitude": 79.4543975,
+    "place_id": "ChIJbWjyWwAHoDkRlcOYI9Yjkjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWjyWwAHoDkRlcOYI9Yjkjk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:07:25"
+  },
+  {
+    "business_name": "laptop repair shop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "243006",
+    "phone_number": "+91 96276 32427",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "shop.25, n.h 74, behind urban cooperative bank, Deen Dayal Puram, Bareilly, Uttar Pradesh 243122",
+    "area": "Deen Dayal Puram",
+    "latitude": 28.3821086,
+    "longitude": 79.4301552,
+    "place_id": "ChIJBYuLgN4HoDkREa7pz-9xh1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYuLgN4HoDkREa7pz-9xh1k",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:07:25"
+  }
+]

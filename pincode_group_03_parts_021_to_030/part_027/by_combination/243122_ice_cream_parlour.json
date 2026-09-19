@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Iec Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "243122",
+    "phone_number": "+91 90272 72563",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Rajendra Nagar",
+    "latitude": 28.381244199999998,
+    "longitude": 79.4287243,
+    "place_id": "ChIJoeAfKGIHoDkRR5NaVmiTNhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeAfKGIHoDkRR5NaVmiTNhc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:10"
+  },
+  {
+    "business_name": "Mahalaxmi Bartan Store",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Restaurant supply store",
+    "pincode": "243122",
+    "phone_number": "+91 94574 68020",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "1154/2, Delapeer, Izatnagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Delapeer, Izatnagar",
+    "latitude": 28.386756799999997,
+    "longitude": 79.4368896,
+    "place_id": "ChIJyWPbfu8GoDkRklToTjGszRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWPbfu8GoDkRklToTjGszRI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:12"
+  }
+]

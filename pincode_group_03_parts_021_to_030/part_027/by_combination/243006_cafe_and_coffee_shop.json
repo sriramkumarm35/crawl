@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dularish Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "243006",
+    "phone_number": "+91 79832 84799",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 106,
+    "address": "flyover, bada bypass, near navadiya jhada, Bareilly, Uttar Pradesh 243006",
+    "area": "243006",
+    "latitude": 28.356009,
+    "longitude": 79.49745109999999,
+    "place_id": "ChIJgwt-36QDoDkR1Ei388nBZGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwt-36QDoDkR1Ei388nBZGg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:16"
+  },
+  {
+    "business_name": "The Mayra's Cafe and Restaurent",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243006",
+    "phone_number": "+91 90844 35545",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "242/2, Dohra Road, opposite Rudraksh Apartment, Suresh Sharma Nagar, Bareilly, Uttar Pradesh 243006",
+    "area": "Suresh Sharma Nagar",
+    "latitude": 28.3756657,
+    "longitude": 79.46197389999999,
+    "place_id": "ChIJMbDoPboHoDkRCRqve3qRVUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbDoPboHoDkRCRqve3qRVUA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:18"
+  }
+]

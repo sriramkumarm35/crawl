@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FISH MARKET",
+    "search_category": "Fish Market",
+    "primary_category": "Goldfish store",
+    "all_categories": "Goldfish store",
+    "pincode": "243407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GJVQ+56Q, Main Rd, Nawabganj, Uttar Pradesh 262406",
+    "area": "243407",
+    "latitude": 28.542965499999998,
+    "longitude": 79.6381183,
+    "place_id": "ChIJK6ajIRERoDkRIY8cuKjwCsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6ajIRERoDkRIY8cuKjwCsE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:29:34"
+  },
+  {
+    "business_name": "Ram chandra",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "243407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FJC3+7C, Rampatia Bisharat Ali, Uttar Pradesh 243407",
+    "area": "243407",
+    "latitude": 28.470330999999998,
+    "longitude": 79.603338,
+    "place_id": "ChIJt5DfMAARoDkRlxNISTHGiHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5DfMAARoDkRlxNISTHGiHY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:29:34"
+  }
+]

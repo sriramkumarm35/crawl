@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidyarthi Kendra",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Book store, Clothing store",
+    "pincode": "243407",
+    "phone_number": "+91 95288 57804",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Rd, Banjaran Mohalla, Nawabganj, Uttar Pradesh 262406",
+    "area": "Banjaran Mohalla",
+    "latitude": 28.539621399999998,
+    "longitude": 79.6332913,
+    "place_id": "ChIJjV2ciUMRoDkR5ztiKiCH0uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjV2ciUMRoDkR5ztiKiCH0uA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:29:33"
+  },
+  {
+    "business_name": "Faizane Badiuddin General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "243407",
+    "phone_number": "+91 96344 59211",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pilibhit Rd, Hafiz Ganj, Uttar Pradesh 243407",
+    "area": "243407",
+    "latitude": 28.4896735,
+    "longitude": 79.57910729999999,
+    "place_id": "ChIJHVPSETkQoDkRkLs5IIJkrYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVPSETkQoDkRkLs5IIJkrYk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:29:33"
+  }
+]

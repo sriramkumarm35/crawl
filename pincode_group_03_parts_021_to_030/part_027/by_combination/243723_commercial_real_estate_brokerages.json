@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Excel Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "243723",
+    "phone_number": "N/A",
+    "website": "http://www.excelrealtyhomes.net/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Excel Realty, 243723, India",
+    "area": "243723",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ1ZJwrMczTIYRIe1Sn6rN-Ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZJwrMczTIYRIe1Sn6rN-Ls",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:07:54"
+  },
+  {
+    "business_name": "Tripurari Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Building consultant, Real estate consultant, Real estate developer",
+    "pincode": "243723",
+    "phone_number": "+91 97201 69601",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Royal Enclave, Kamalwaganja, Uttrakhand, India, Haldwani, Uttarakhand 263139",
+    "area": "Kamaluaganja, Bhagwanpur Vichla",
+    "latitude": 29.210491899999997,
+    "longitude": 79.46734579999999,
+    "place_id": "ChIJ44Ujf5-coDkRuBrvue8NJi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44Ujf5-coDkRuBrvue8NJi8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:07:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Event Bareilly",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "243402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "123, Subhash Nagar, Subhash Nagar Colony, Bareilly, Uttar Pradesh 243001",
+    "area": "Subhash Nagar, Subhash Nagar Colony",
+    "latitude": 28.3370417,
+    "longitude": 79.40704439999999,
+    "place_id": "ChIJuS71NgABoDkRGJk2MYdgrqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuS71NgABoDkRGJk2MYdgrqk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:27:02"
+  },
+  {
+    "business_name": "Balanced Diet Caterer Bareilly",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Service establishment",
+    "pincode": "243402",
+    "phone_number": "+91 88023 40462",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Balanced Diet Caterer Bareilly, 243402, India",
+    "area": "243402",
+    "latitude": 28.3760788,
+    "longitude": 79.42193979999999,
+    "place_id": "ChIJcZeL9lSXbGMRgAgK3CiQ4bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZeL9lSXbGMRgAgK3CiQ4bk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:27:05"
+  }
+]

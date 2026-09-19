@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murarilal Valmiki",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "243634",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No. 17 Mauzampur Chhajju Post , Salarpur, 43, Budaun Rd, Budaun, Uttar Pradesh 243601",
+    "area": "243634",
+    "latitude": 28.0861634,
+    "longitude": 79.1164845,
+    "place_id": "ChIJr98Ny_FPdTkRgJlmDG5D058",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr98Ny_FPdTkRgJlmDG5D058",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:51:48"
+  },
+  {
+    "business_name": "Arun home",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "243634",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "345G+G5G, Bhagautipur, Uttar Pradesh 243601",
+    "area": "243634",
+    "latitude": 28.058817899999998,
+    "longitude": 79.1254459,
+    "place_id": "ChIJlerRHwBPdTkRjKmruKp6S18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlerRHwBPdTkRjKmruKp6S18",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:51:48"
+  }
+]

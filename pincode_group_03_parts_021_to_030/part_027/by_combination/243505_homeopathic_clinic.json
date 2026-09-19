@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr . Arun homeopathic clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Homeopathic pharmacy, Medical clinic",
+    "pincode": "243505",
+    "phone_number": "+91 82797 23918",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gaffar market, Shishgarh, Uttar Pradesh 243505",
+    "area": "243505",
+    "latitude": 28.7265978,
+    "longitude": 79.31368549999999,
+    "place_id": "ChIJkWmoa_udCjkRgX90IA3Otv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWmoa_udCjkRgX90IA3Otv4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:38:55"
+  },
+  {
+    "business_name": "Cinchona homeopathic centre",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "243505",
+    "phone_number": "+91 90585 75790",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9CFJ+MQM, Model Town, Bareilly, Uttar Pradesh 243005",
+    "area": "Model Town",
+    "latitude": 28.374203899999998,
+    "longitude": 79.43193149999999,
+    "place_id": "ChIJ4RbhxlUHoDkRMRCNTZt_uGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RbhxlUHoDkRMRCNTZt_uGo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:38:58"
+  }
+]

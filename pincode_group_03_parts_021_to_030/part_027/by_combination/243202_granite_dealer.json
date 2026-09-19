@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karni Kripa Granites",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier, Manufacturer",
+    "pincode": "243202",
+    "phone_number": "+91 80 4897 1500",
+    "website": "http://karnikripagranites.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khasra No.863,867,868 Vill, Asola, Saket, Delhi 110074",
+    "area": "Asola, Saket",
+    "latitude": 28.4587692,
+    "longitude": 77.1793039,
+    "place_id": "ChIJq6fHj67hDDkRFwSpViyLGNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6fHj67hDDkRFwSpViyLGNQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:16:07"
+  },
+  {
+    "business_name": "Radhaservesar Marbles",
+    "search_category": "Granite Dealer",
+    "primary_category": "Marble supplier",
+    "all_categories": "Marble supplier",
+    "pincode": "243202",
+    "phone_number": "+91 98685 81502",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "F-224, Radhey Shyam Mandir Marg, Block FB, Mansarover Garden, New Delhi, Delhi, 110015",
+    "area": "Block FB, Mansarover Garden",
+    "latitude": 28.646327399999997,
+    "longitude": 77.13247109999999,
+    "place_id": "ChIJG2acHBMDDTkRlXCc0fw86zI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2acHBMDDTkRlXCc0fw86zI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:16:08"
+  }
+]

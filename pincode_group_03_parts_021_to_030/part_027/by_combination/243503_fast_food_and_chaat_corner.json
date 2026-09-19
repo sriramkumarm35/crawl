@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teacher's Grand Bistro Family Restaurant",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243503",
+    "phone_number": "+91 70178 15272",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ashok, N. H. 730 Navadiya, Faridpur, Uttar Pradesh 243503",
+    "area": "243503",
+    "latitude": 28.1904386,
+    "longitude": 79.554441,
+    "place_id": "ChIJAfOpJUv5nzkR38v-6sZP7tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfOpJUv5nzkR38v-6sZP7tc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:08"
+  },
+  {
+    "business_name": "Guddu Muslim Hotel",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "6GFV+358, Bareilly, Uttar Pradesh 243503",
+    "area": "243503",
+    "latitude": 28.2226558,
+    "longitude": 79.54294519999999,
+    "place_id": "ChIJE6uxuaj5nzkRZw2EOl9VFj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6uxuaj5nzkRZw2EOl9VFj4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:35:08"
+  }
+]

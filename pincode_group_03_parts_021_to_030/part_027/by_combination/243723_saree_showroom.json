@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Payal Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243723",
+    "phone_number": "+91 70179 03522",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gola Ganj Bazar, Sambhal - Bahjoi Rd, Sambhal, Uttar Pradesh 244410",
+    "area": "243723",
+    "latitude": 28.393713899999998,
+    "longitude": 78.6226708,
+    "place_id": "ChIJI-C8qXMnCzkROwSmfrNl3tY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-C8qXMnCzkROwSmfrNl3tY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:06:41"
+  },
+  {
+    "business_name": "Om collection",
+    "search_category": "Saree Showroom",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "243723",
+    "phone_number": "+91 89239 55839",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "me j. P saree sansar ke samne, Bhatnagar gali, Islamnagar, Uttar Pradesh 243723",
+    "area": "243723",
+    "latitude": 28.3318513,
+    "longitude": 78.724094,
+    "place_id": "ChIJKWJxYUDXCjkRNs-etvhz1ro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWJxYUDXCjkRNs-etvhz1ro",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:06:42"
+  }
+]

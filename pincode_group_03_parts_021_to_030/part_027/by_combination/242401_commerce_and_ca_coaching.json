@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Telecom Book Depot",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "242401",
+    "phone_number": "+91 96700 70030",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH730A, Gangsara, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.121119099999998,
+    "longitude": 80.1668442,
+    "place_id": "ChIJz4GlykJ3nzkRAqt5xM0jag0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4GlykJ3nzkRAqt5xM0jag0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:51:03"
+  },
+  {
+    "business_name": "Commerce Coaching Classes",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "242401",
+    "phone_number": "+91 95018 28347",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "Hoshiarpur Rd, Adda Hoshiarpur, Old Court, Jalandhar, Punjab 144008",
+    "area": "Adda Hoshiarpur, Old Court",
+    "latitude": 31.3372866,
+    "longitude": 75.5810882,
+    "place_id": "ChIJz-FRmfxbGjkRU-TkhLnXA-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-FRmfxbGjkRU-TkhLnXA-c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:51:04"
+  }
+]

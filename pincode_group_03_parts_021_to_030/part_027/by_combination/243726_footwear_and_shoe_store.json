@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Campus Exclusive Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243726",
+    "phone_number": "+91 8071 962 683",
+    "website": "https://stores.campusshoes.com/uttarakhand/dehradun/campus-exclusive-store-gms-road",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "KHASRA NO. 1482/1/7, VIJAY TOWER, MAIN, GMS Rd, MAUJA, Kanwali, Dehradun, Uttarakhand 248001",
+    "area": "MAUJA, Kanwali",
+    "latitude": 30.3091978,
+    "longitude": 78.0076177,
+    "place_id": "ChIJuY3pHgcZDTkRNwP0vWMVqwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuY3pHgcZDTkRNwP0vWMVqwA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:01"
+  },
+  {
+    "business_name": "MIR SHOE LOVERS",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "243726",
+    "phone_number": "+91 70085 32900",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jail Rd, Dargah Bazaar, Kataka, Odisha 753001",
+    "area": "Dargah Bazaar",
+    "latitude": 20.469660299999997,
+    "longitude": 85.8703955,
+    "place_id": "ChIJPZvWnX8TGToRSQbDBlUlWBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZvWnX8TGToRSQbDBlUlWBc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:02"
+  }
+]

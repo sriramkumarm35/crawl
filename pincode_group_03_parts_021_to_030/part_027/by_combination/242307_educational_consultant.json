@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaushal house",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "242307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raghopur Raghopur, sikandarpur, Nigohi, Radhaupur Sikandarpur, Uttar Pradesh 242407",
+    "area": "sikandarpur",
+    "latitude": 28.037761999999997,
+    "longitude": 79.8781616,
+    "place_id": "ChIJXegqfZqRnzkR3r38LJAZVwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXegqfZqRnzkR3r38LJAZVwQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:49:21"
+  },
+  {
+    "business_name": "Vikasdhan Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Financial institution, Service establishment",
+    "pincode": "242307",
+    "phone_number": "N/A",
+    "website": "https://www.vikasdhan.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vikasdhan Education, 242307, India",
+    "area": "242307",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJHfNtAKqE9Y0RsxjJZPU05vA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfNtAKqE9Y0RsxjJZPU05vA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:49:21"
+  }
+]

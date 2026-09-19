@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anoopam Press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Advertising agency, Digital printer, Invitation printing service, Print shop, Screen printer",
+    "pincode": "243401",
+    "phone_number": "+91 581 254 5522",
+    "website": "https://anoopampress.com/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "74/295, Madhobari, near SBI ATM, Brahampura, Bareilly, Uttar Pradesh 243005",
+    "area": "Brahampura",
+    "latitude": 28.366234499999997,
+    "longitude": 79.4279727,
+    "place_id": "ChIJVaCrK9gGoDkRuAl-UjXZ620",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaCrK9gGoDkRuAl-UjXZ620",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:28"
+  },
+  {
+    "business_name": "Faiza Printers (Arshi)",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "243401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9C77+Q2P, Bhoor, Bareilly, Uttar Pradesh 243003",
+    "area": "Bhoor",
+    "latitude": 28.364469699999997,
+    "longitude": 79.4125864,
+    "place_id": "ChIJX0I-10YHoDkRcnIiHdjXmxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0I-10YHoDkRcnIiHdjXmxA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:30"
+  }
+]

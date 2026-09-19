@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Domino's Pizza",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "243006",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 3.8,
+    "reviews_count": 461,
+    "address": "2, Nawa, Ground Floor, Khatha, No 115, Pilibhit Bypass Rd, beside Jalsa Green, Bareilly, Uttar Pradesh 243006",
+    "area": "Gulzar Nagar",
+    "latitude": 28.3589918,
+    "longitude": 79.45252599999999,
+    "place_id": "ChIJdycWv5wHoDkRyrw7drpEmJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdycWv5wHoDkRyrw7drpEmJo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:19"
+  },
+  {
+    "business_name": "ZORKO - brand of food lovers",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243006",
+    "phone_number": "+91 99971 55665",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 33,
+    "address": "Ground Floor, C- 91, Ekta Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Ekta Nagar",
+    "latitude": 28.3834323,
+    "longitude": 79.4334775,
+    "place_id": "ChIJXdOn9EMHoDkRFdzEK2up4i4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdOn9EMHoDkRFdzEK2up4i4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:19"
+  }
+]

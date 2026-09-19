@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haldwani Plumber Service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "243505",
+    "phone_number": "+91 87556 99853",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 925,
+    "address": "RK Tent House Rd, Pratap Nagar, Pilikothi, Haldwani, Harinagar, Uttarakhand 263139",
+    "area": "Pratap Nagar, Pilikothi",
+    "latitude": 29.216434099999997,
+    "longitude": 79.5035772,
+    "place_id": "ChIJreoLOWmboDkRjbZ-hGiWNJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreoLOWmboDkRjbZ-hGiWNJQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:39:20"
+  },
+  {
+    "business_name": "Hussain Construction",
+    "search_category": "Plumber",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor",
+    "pincode": "243505",
+    "phone_number": "+91 97587 06910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mo Nawab Nagar ward no. 15, Shishgarh, Uttar Pradesh 243505",
+    "area": "243505",
+    "latitude": 28.7253914,
+    "longitude": 79.3093707,
+    "place_id": "ChIJ1d8_61KdCjkR71PlRpxQMW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1d8_61KdCjkR71PlRpxQMW8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:39:22"
+  }
+]

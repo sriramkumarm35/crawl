@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchsheel Hospital and Trauma Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243202",
+    "phone_number": "+91 87550 95011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Majhua Road, near bhojipura, junction, Bhoji Pura, Uttar Pradesh 243202",
+    "area": "junction",
+    "latitude": 28.514618799999997,
+    "longitude": 79.4517243,
+    "place_id": "ChIJ1SdWdq4JoDkRvi4QDBA2X0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SdWdq4JoDkRvi4QDBA2X0o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:54"
+  },
+  {
+    "business_name": "Dr Saif Sheikh Faiz Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "243202",
+    "phone_number": "+91 94114 70260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Faiz Hospital Mohalla Mirdhan, Old Khudaganj Road, Uttar Pradesh 243503",
+    "area": "243202",
+    "latitude": 28.2056252,
+    "longitude": 79.54963049999999,
+    "place_id": "ChIJ3ftuVwD5nzkRsrd34YV15uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ftuVwD5nzkRsrd34YV15uE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:54"
+  }
+]

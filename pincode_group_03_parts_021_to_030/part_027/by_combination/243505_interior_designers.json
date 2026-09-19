@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAIMS INTERIOR",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "243505",
+    "phone_number": "+91 72510 00103",
+    "website": "https://landing-page-1rs.pages.dev/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NAIMS INTERIOR, 243505, India",
+    "area": "243505",
+    "latitude": 20.8678246,
+    "longitude": 78.9466908,
+    "place_id": "ChIJW8zMVl_MPwIRYvtXvWcXiJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8zMVl_MPwIRYvtXvWcXiJI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:39:21"
+  },
+  {
+    "business_name": "Visionary home designing and properties",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "243505",
+    "phone_number": "+91 96270 41704",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bilaspur road, Shishgarh, Uttar Pradesh 243505",
+    "area": "243505",
+    "latitude": 28.7303365,
+    "longitude": 79.3157177,
+    "place_id": "ChIJ0ZirwoudCjkR2bOWe15mt9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZirwoudCjkR2bOWe15mt9g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:39:23"
+  }
+]

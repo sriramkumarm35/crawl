@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joint Studios",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "243126",
+    "phone_number": "+91 90129 01263",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9CCJ+3GF, 37, opp. Khushlok hospital, adjacent Gurudwara sahib 111, Shahdana Colony, City Heart Colony, Bareilly, Uttar Pradesh 243005",
+    "area": "Shahdana Colony, City Heart Colony",
+    "latitude": 28.370162999999998,
+    "longitude": 79.4312851,
+    "place_id": "ChIJC-Ej1UUHoDkRTbCXPsvY7I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-Ej1UUHoDkRTbCXPsvY7I8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:12:34"
+  },
+  {
+    "business_name": "Studio Adikarah",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Engineer, Interior construction contractor, Interior Decorator, Architect, Landscape architect, Landscape designer",
+    "pincode": "243126",
+    "phone_number": "+91 94112 21043",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C626, Patel Nagar, Rajendra Nagar, Bareilly, Uttar Pradesh 243002",
+    "area": "Patel Nagar, Rajendra Nagar",
+    "latitude": 28.3857097,
+    "longitude": 79.4320104,
+    "place_id": "ChIJMeQVYrUHoDkRsUKRhVJPCGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeQVYrUHoDkRsUKRhVJPCGc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:12:34"
+  }
+]

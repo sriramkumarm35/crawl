@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohania Bazar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "243202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "PHJQ+RJ8, Unnamed Road, Mundia Nabibaksha, Uttar Pradesh 243201",
+    "area": "243202",
+    "latitude": 28.7320373,
+    "longitude": 79.5890842,
+    "place_id": "ChIJVVXkN9ltoDkReAlPvp1mCQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXkN9ltoDkReAlPvp1mCQk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:07"
+  },
+  {
+    "business_name": "Ahiladpur Baazar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "243202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "CF3X+W54, Ahladpur, Uttar Pradesh 243122",
+    "area": "243202",
+    "latitude": 28.404750699999997,
+    "longitude": 79.4979474,
+    "place_id": "ChIJzcBHFtQFoDkRGUeaD23T7HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcBHFtQFoDkRGUeaD23T7HA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "243637",
+    "phone_number": "+91 90977 27219",
+    "website": "http://www.skinclinic.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Arvind cyber zone, Imamganj, Bihar 824206",
+    "area": "243637",
+    "latitude": 24.4559827,
+    "longitude": 84.57790589999999,
+    "place_id": "ChIJs6mruoHrjDkRHwNOPmmXHA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6mruoHrjDkRHwNOPmmXHA0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:56:29"
+  },
+  {
+    "business_name": "MySkin Clinic, Dr. Raghvendra pratap Singh",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "243637",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ambedkar Chauraha, Bajaria, Orai, Uttar Pradesh 285001",
+    "area": "Bajaria",
+    "latitude": 25.994284999999998,
+    "longitude": 79.4565226,
+    "place_id": "ChIJ4Sd7jrt_nTkR_Q179l1eThQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Sd7jrt_nTkR_Q179l1eThQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:56:29"
+  }
+]

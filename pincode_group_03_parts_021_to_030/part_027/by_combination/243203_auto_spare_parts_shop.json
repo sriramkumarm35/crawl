@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahindra Arjun",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "243203",
+    "phone_number": "+91 81264 02673",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tacter Hounspur Road, Haunspur, Uttar Pradesh 243505",
+    "area": "243203",
+    "latitude": 28.5873118,
+    "longitude": 79.3590234,
+    "place_id": "ChIJA_95DHahCjkRVJpX0TVWthw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_95DHahCjkRVJpX0TVWthw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:46"
+  },
+  {
+    "business_name": "MANISHA GANGWAR",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "243203",
+    "phone_number": "+91 95680 74343",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Vill, Katharra, Karanpur, Uttar Pradesh 243203",
+    "area": "Vill",
+    "latitude": 28.6522828,
+    "longitude": 79.47916049999999,
+    "place_id": "ChIJU6pxzP5zoDkROvNpIBha0FY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6pxzP5zoDkROvNpIBha0FY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suchitha Hospitality Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Consultant",
+    "pincode": "243636",
+    "phone_number": "+91 81849 76003",
+    "website": "https://suchithahospitalityservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no :- 1684, 1685, Gajularamaram Rd, near pochamma temple, Devender Nagar, Quthbullapur, Hyderabad, Telangana 500055",
+    "area": "Devender Nagar, Quthbullapur",
+    "latitude": 17.5184243,
+    "longitude": 78.43582239999999,
+    "place_id": "ChIJh7GEAdaPyzsROIbxoWX1GDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7GEAdaPyzsROIbxoWX1GDg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:55:22"
+  },
+  {
+    "business_name": "Dattatray Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "243636",
+    "phone_number": "+91 77993 05958",
+    "website": "http://www.dattatrayconsultancy.com/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Oyster Complex, Greenlands Road Somajiguda, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Nishat Bagh Colony, Begumpet",
+    "latitude": 17.430217,
+    "longitude": 78.45623739999999,
+    "place_id": "ChIJF__MD0mbyzsReC6HPXHgMBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF__MD0mbyzsReC6HPXHgMBE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:55:23"
+  }
+]

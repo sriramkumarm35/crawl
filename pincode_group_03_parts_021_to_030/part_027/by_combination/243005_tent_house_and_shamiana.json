@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatia Tent House",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier, Event planner",
+    "pincode": "243005",
+    "phone_number": "+91 81920 69027",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Gate No. 2, A128, Kurmanchal Nagar, Bareilly, Uttar Pradesh 243002",
+    "area": "Kurmanchal Nagar",
+    "latitude": 28.406791199999997,
+    "longitude": 79.4454847,
+    "place_id": "ChIJY12nZl4GoDkRgu9uMUkqqg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY12nZl4GoDkRgu9uMUkqqg8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:16"
+  },
+  {
+    "business_name": "Mishra Tent House",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Tent House and Shamiana",
+    "all_categories": "Tent House and Shamiana",
+    "pincode": "243005",
+    "phone_number": "+91 98972 64195",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Veer Savarkar Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Veer Savarkar Nagar",
+    "latitude": 28.3877477,
+    "longitude": 79.44408589999999,
+    "place_id": "ChIJI3ues-0GoDkRYAzvg5Drf8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3ues-0GoDkRYAzvg5Drf8c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:05:17"
+  }
+]

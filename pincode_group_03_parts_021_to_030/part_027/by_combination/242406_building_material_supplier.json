@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "242406",
+    "phone_number": "+91 99350 78985",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Sheramu, Shahjahanpur, Uttar Pradesh 242406",
+    "area": "242406",
+    "latitude": 27.7500476,
+    "longitude": 79.9416444,
+    "place_id": "ChIJO9woPhWlnzkR8xDmeiUM5dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9woPhWlnzkR8xDmeiUM5dc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:54:05"
+  },
+  {
+    "business_name": "Raja Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "242406",
+    "phone_number": "+91 80090 09693",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Chauraha, Gorakshnath Mandir Rd, Saraikaiyan, Mishripur, Uttar Pradesh 242406",
+    "area": "Saraikaiyan",
+    "latitude": 27.844705899999997,
+    "longitude": 79.9184171,
+    "place_id": "ChIJSVZZ2Ky8nzkRoMeS0g4AOgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVZZ2Ky8nzkRoMeS0g4AOgQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:54:05"
+  }
+]

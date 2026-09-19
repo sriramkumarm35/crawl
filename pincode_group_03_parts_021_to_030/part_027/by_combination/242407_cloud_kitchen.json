@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hamid Raza Khan Crockery",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "242407",
+    "phone_number": "+91 92361 66510",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "4V49+8C2, main market steton road nigohi, Nigohi, Shahjahanpur, Uttar Pradesh 242407",
+    "area": "242407",
+    "latitude": 28.105768599999998,
+    "longitude": 79.8685256,
+    "place_id": "ChIJb3ZSodaRnzkRAGyyZaV8IU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3ZSodaRnzkRAGyyZaV8IU8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:55:16"
+  },
+  {
+    "business_name": "Kitchen Cloud",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "242407",
+    "phone_number": "+91 83770 50337",
+    "website": "https://kitchencloud.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B 21, New, New Vijay Nagar Colony, Block B, Sector 9, Vijay Nagar, Ghaziabad, Uttar Pradesh 201009",
+    "area": "New Vijay Nagar Colony, Block B, Sector 9, Vijay Nagar",
+    "latitude": 28.6440266,
+    "longitude": 77.4272802,
+    "place_id": "ChIJKdCAqZzxDDkR1VrMixBwkKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdCAqZzxDDkR1VrMixBwkKo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:55:17"
+  }
+]

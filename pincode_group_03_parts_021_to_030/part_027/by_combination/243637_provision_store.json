@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naeem general store sakhanu",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "243637",
+    "phone_number": "+91 63972 36984",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "reliance tower, SH 43, Sakhanu, Uttar Pradesh 243601",
+    "area": "243637",
+    "latitude": 27.955196899999997,
+    "longitude": 79.2244582,
+    "place_id": "ChIJORZjH-RddTkRDCvaNAT2sF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORZjH-RddTkRDCvaNAT2sF4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:56:04"
+  },
+  {
+    "business_name": "SK Traders & Agency",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "243637",
+    "phone_number": "+91 70884 30359",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Damber Nagar Ramjanpur road, Behta, Behta Dambarnagar, Uttar Pradesh 243637",
+    "area": "243637",
+    "latitude": 27.907890499999997,
+    "longitude": 79.1591511,
+    "place_id": "ChIJvXf7GgBDdTkRPmax4igUa6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXf7GgBDdTkRPmax4igUa6o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:56:04"
+  }
+]

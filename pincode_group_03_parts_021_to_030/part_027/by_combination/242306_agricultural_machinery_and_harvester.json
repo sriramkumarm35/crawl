@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Combine harvester",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "242306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "W2X6+47X, nahar, Saimha, Uttar Pradesh 212306",
+    "area": "242306",
+    "latitude": 24.9478519,
+    "longitude": 82.0107395,
+    "place_id": "ChIJS4mcC4hvhTkROBW5X-EgHTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4mcC4hvhTkROBW5X-EgHTs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:47:58"
+  },
+  {
+    "business_name": "Guru Ramdas farm",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "242306",
+    "phone_number": "N/A",
+    "website": "http://www.farm.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WWG4+29R, Nigohi Rd, Satwan Bujurg, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Satwan Bujurg",
+    "latitude": 27.9251167,
+    "longitude": 79.90587579999999,
+    "place_id": "ChIJ0fglewC9nzkRfKX_8IrR6JA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fglewC9nzkRfKX_8IrR6JA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:47:58"
+  }
+]

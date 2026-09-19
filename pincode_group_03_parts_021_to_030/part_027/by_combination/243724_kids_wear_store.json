@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Tedas",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "243724",
+    "phone_number": "+91 85329 99859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajpur - Rudain Rd, Vikarampur Charsaura, Rajpur Roshannagar, Uttar Pradesh 243724",
+    "area": "243724",
+    "latitude": 28.2876732,
+    "longitude": 78.7831933,
+    "place_id": "ChIJGy5OaTfTCjkRCV0O_RljrO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGy5OaTfTCjkRCV0O_RljrO0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:31"
+  },
+  {
+    "business_name": "COCOONS",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Baby store",
+    "pincode": "243724",
+    "phone_number": "+91 75072 45454",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 154,
+    "address": "Trade field Building, Sanghvi Keshri Road, DP Rd, Aundh, Pune, Maharashtra 411067",
+    "area": "Sanghvi Nagar, Ward No. 8, Aundh Gaon, Aundh",
+    "latitude": 18.5608656,
+    "longitude": 73.8121484,
+    "place_id": "ChIJu5sTpde_wjsRLxaF9RN45hY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5sTpde_wjsRLxaF9RN45hY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:33"
+  }
+]

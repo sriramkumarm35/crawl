@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darpin Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243401",
+    "phone_number": "+91 89792 52222",
+    "website": "http://www.darpinhospital.com/",
+    "rating": 4.7,
+    "reviews_count": 214,
+    "address": "Sanjay Nagar Road, Pilibhit Bypass Rd, Bareilly, Uttar Pradesh 243006",
+    "area": "Chandpur Bichpuri",
+    "latitude": 28.3829319,
+    "longitude": 79.45286779999999,
+    "place_id": "ChIJR8quxo0HoDkRkb0E2BwOVGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8quxo0HoDkRkb0E2BwOVGs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:42"
+  },
+  {
+    "business_name": "Neelkanth Multi Super Specialty Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243401",
+    "phone_number": "+91 94125 67113",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "202, hirdaypur andhrapura, NH–24 shahanpur road, Bareilly, Uttar Pradesh 243123",
+    "area": "243401",
+    "latitude": 28.278347,
+    "longitude": 79.5024371,
+    "place_id": "ChIJ61F4d2QDoDkRPD6HY3-SeIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61F4d2QDoDkRPD6HY3-SeIY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vintage cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "243003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "B-15, Karamchari Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar",
+    "latitude": 28.3866537,
+    "longitude": 79.3966947,
+    "place_id": "ChIJh3k3EAAHoDkRLCIJr7fICWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3k3EAAHoDkRLCIJr7fICWg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:37"
+  },
+  {
+    "business_name": "Janta Bartan Bhandar",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store",
+    "pincode": "243003",
+    "phone_number": "+91 92861 31819",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 16,
+    "address": "Zakhira, Bareilly, Uttar Pradesh 243003",
+    "area": "Zakhira",
+    "latitude": 28.365462299999997,
+    "longitude": 79.4091148,
+    "place_id": "ChIJJbMKEDoHoDkRKj6Nb3IJoAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbMKEDoHoDkRKj6Nb3IJoAE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:39"
+  }
+]

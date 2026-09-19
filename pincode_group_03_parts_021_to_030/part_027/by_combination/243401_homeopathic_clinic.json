@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seva Ram Clinic Store",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "243401",
+    "phone_number": "+91 99977 93431",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.3, Jalalganj Chauraha, Bheta Buzurg, Uttar Pradesh 243302",
+    "area": "243401",
+    "latitude": 28.2950238,
+    "longitude": 79.2704368,
+    "place_id": "ChIJl8wjA0KtCjkRPFMkDoyWZMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8wjA0KtCjkRPFMkDoyWZMk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:38"
+  },
+  {
+    "business_name": "Gargee Homeo Hall",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "243401",
+    "phone_number": "+91 98370 30656",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9CGC+C6X, Trivati Nath Mandir Road, Bareilly, Uttar Pradesh 243122",
+    "area": "243401",
+    "latitude": 28.3761174,
+    "longitude": 79.4206236,
+    "place_id": "ChIJXx9Y7iEHoDkR24e6o5RHkv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXx9Y7iEHoDkR24e6o5RHkv0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:40"
+  }
+]

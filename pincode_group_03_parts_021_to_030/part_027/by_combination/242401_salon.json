@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajneesh Hair Shop",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "242401",
+    "phone_number": "+91 86013 13105",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7, Powayan, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.0638449,
+    "longitude": 80.09394979999999,
+    "place_id": "ChIJvwCiHjOdnzkRFWF4vjo3iwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwCiHjOdnzkRFWF4vjo3iwg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:46"
+  },
+  {
+    "business_name": "Ajeet Kumar Cilink",
+    "search_category": "Salon",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "242401",
+    "phone_number": "+91 63929 77307",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gerenal Store, Daduriy, Shahjahanpur, Dadiura, Uttar Pradesh 242001",
+    "area": "Daduriy",
+    "latitude": 27.9223543,
+    "longitude": 79.9787672,
+    "place_id": "ChIJXz7Mp9ajnzkR7eVo29ARWE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXz7Mp9ajnzkR7eVo29ARWE4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:48"
+  }
+]

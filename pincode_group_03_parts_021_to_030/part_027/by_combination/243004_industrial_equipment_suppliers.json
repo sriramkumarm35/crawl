@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New R.K Machinery",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "243004",
+    "phone_number": "+91 98707 50367",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "00, Kargaina, Uttar Pradesh 243001",
+    "area": "Mahaveer City Colony, Sarvodaya Nagar, BDA Colony",
+    "latitude": 28.3308088,
+    "longitude": 79.3972902,
+    "place_id": "ChIJtTGqNAQBoDkR3J5FRSWpXn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTGqNAQBoDkR3J5FRSWpXn8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:00"
+  },
+  {
+    "business_name": "SHARDA TRADERS fire fighting equipments",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Fire protection equipment supplier",
+    "all_categories": "Fire protection equipment supplier, Fire alarm supplier",
+    "pincode": "243004",
+    "phone_number": "+91 98971 22780",
+    "website": "https://shardatrader.co.in/index.php",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "katra chand khan, 546- C, Old City, Sindhu Nagar, Bareilly, Uttar Pradesh 243005",
+    "area": "Old City, Sindhu Nagar",
+    "latitude": 28.3540454,
+    "longitude": 79.4375786,
+    "place_id": "ChIJGWRPU7kHoDkRfqg3GKMMkrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWRPU7kHoDkRfqg3GKMMkrc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:04:02"
+  }
+]

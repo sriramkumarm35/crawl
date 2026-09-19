@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brothers spare parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "243122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nainital Rd, Modern Village, Bareilly, Bilwa, Uttar Pradesh 243201",
+    "area": "Modern Village",
+    "latitude": 28.4553576,
+    "longitude": 79.43757219999999,
+    "place_id": "ChIJzZpMeeYJoDkRX6SPQm2zY24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZpMeeYJoDkRX6SPQm2zY24",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:36"
+  },
+  {
+    "business_name": "new India automobile bareilly",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto machine shop",
+    "all_categories": "Auto machine shop, Truck parts supplier",
+    "pincode": "243122",
+    "phone_number": "+91 70172 99785",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Jhumka chauraha, Parsakhera, Uttar Pradesh 243502",
+    "area": "243122",
+    "latitude": 28.438503299999997,
+    "longitude": 79.3500486,
+    "place_id": "ChIJL-D4fWMHoDkRSrnet5q2Ark",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-D4fWMHoDkRSrnet5q2Ark",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:36"
+  }
+]

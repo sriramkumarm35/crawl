@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BKS MOTORS PVT LTD",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "243724",
+    "phone_number": "+91 90151 17777",
+    "website": "http://www.bksmotors.com/",
+    "rating": 4,
+    "reviews_count": 1261,
+    "address": "2714, Lothiyan Marg, Old Delhi, Chabi Ganj, Kashmere Gate, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Chabi Ganj, Kashmere Gate",
+    "latitude": 28.662952299999997,
+    "longitude": 77.2327146,
+    "place_id": "ChIJ4ZGjXAT9DDkRuEXE50t8qOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZGjXAT9DDkRuEXE50t8qOo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:52"
+  },
+  {
+    "business_name": "Ilyas Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "243724",
+    "phone_number": "+91 97195 58606",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bilsi Road, Islamnagar, Uttar Pradesh 243723",
+    "area": "243724",
+    "latitude": 28.322518,
+    "longitude": 78.7306385,
+    "place_id": "ChIJpQgKGanXCjkRjSNgvMcsbAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQgKGanXCjkRjSNgvMcsbAg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:08:52"
+  }
+]

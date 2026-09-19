@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Style Zone Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "243638",
+    "phone_number": "+91 70178 12543",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Gate, Kachhla, Soron, Uttar Pradesh 207403",
+    "area": "243638",
+    "latitude": 27.8891808,
+    "longitude": 78.7496906,
+    "place_id": "ChIJZSSdkhIjdTkRYWaLLFj514c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSSdkhIjdTkRYWaLLFj514c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:58:39"
+  },
+  {
+    "business_name": "Babloo unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "243638",
+    "phone_number": "+91 78190 19811",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "मेन रोड़, फौजी मार्केट, Danpur, Garhi Bichaula, Uttar Pradesh 243723",
+    "area": "फौजी मार्केट",
+    "latitude": 28.252225,
+    "longitude": 78.67254009999999,
+    "place_id": "ChIJo9lAEY_VCjkREXcHlvUIOQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9lAEY_VCjkREXcHlvUIOQQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:58:41"
+  }
+]

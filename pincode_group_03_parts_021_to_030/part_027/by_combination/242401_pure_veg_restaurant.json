@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharaja Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "242401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "337V+XW4, Powayan, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.0648983,
+    "longitude": 80.0948135,
+    "place_id": "ChIJU7VLzAKdnzkR3anKOeDeS8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7VLzAKdnzkR3anKOeDeS8w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:02"
+  },
+  {
+    "business_name": "Yummy Point",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Cafe, Coffee shop, Pizza delivery, Pizza takeaway, Sandwich shop",
+    "pincode": "242401",
+    "phone_number": "+91 70808 01322",
+    "website": "https://www.instagram.com/yummy_.point?igsh=MWVya25kYm1nbjhqcg==",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Powayan Rd, near ola store, Samulia, Powayan, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.0629338,
+    "longitude": 80.0932334,
+    "place_id": "ChIJY9_MHACdnzkRQY8mHlgypa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9_MHACdnzkRQY8mHlgypa0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:02"
+  }
+]

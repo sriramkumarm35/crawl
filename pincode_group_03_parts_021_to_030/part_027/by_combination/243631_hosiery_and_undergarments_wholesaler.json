@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "London Beauty",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Beauty",
+    "all_categories": "Beauty, Lingerie store",
+    "pincode": "243631",
+    "phone_number": "+91 11 2361 3827",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 12,
+    "address": "5693-94, Gandhi Market We Have North Drive, near Pani Ka Piao, Sadar Bazar, New Delhi, Delhi 110006",
+    "area": "Narain Market, Sadar Bazar",
+    "latitude": 28.657988999999997,
+    "longitude": 77.2143971,
+    "place_id": "ChIJAQAAAG_9DDkRNGAMp0z_dTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAG_9DDkRNGAMp0z_dTM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:45:55"
+  },
+  {
+    "business_name": "Shree Shyam Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243631",
+    "phone_number": "+91 86699 66830",
+    "website": "http://www.shyamgrouppune.com/",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "2nd floor, 201, Mahalaxmi Market, 1482, Shukrawar Peth, Pune, Maharashtra 411002",
+    "area": "Mandai, Shukrawar Peth",
+    "latitude": 18.5131609,
+    "longitude": 73.8543115,
+    "place_id": "ChIJVVVVJW_AwjsRQB5KekmaJhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJW_AwjsRQB5KekmaJhE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:45:55"
+  }
+]

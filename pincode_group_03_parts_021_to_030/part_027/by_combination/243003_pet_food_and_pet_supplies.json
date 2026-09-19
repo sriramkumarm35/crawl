@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "243003",
+    "phone_number": "+91 89237 26811",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Shop no 2, Alakhnath Rd, near Krishna hospital, sahukara, Bareilly, Uttar Pradesh 243003",
+    "area": "sahukara",
+    "latitude": 28.3710314,
+    "longitude": 79.4048736,
+    "place_id": "ChIJn71HjRQHoDkRcR6Cv_-8tZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn71HjRQHoDkRcR6Cv_-8tZQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:31"
+  },
+  {
+    "business_name": "BAREILLY MEDICOS & PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Cosmetics store, General store, Pet boarding service, Pet groomer, Pharmacy",
+    "pincode": "243003",
+    "phone_number": "+91 90681 66636",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO. 1 AND 2, DILDAR KI KOTHI, Rampur Rd, Swale Nagar, Bareilly, Uttar Pradesh 243003",
+    "area": "Swale Nagar",
+    "latitude": 28.3726518,
+    "longitude": 79.39560569999999,
+    "place_id": "ChIJVfLJLzsHoDkR2i3hAkFQaO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfLJLzsHoDkR2i3hAkFQaO8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:32"
+  }
+]

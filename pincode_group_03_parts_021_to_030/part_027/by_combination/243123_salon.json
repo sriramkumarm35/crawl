@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Looks Saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "243123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Om plaza, Mohanpur road, Nakatia Bridge, near gupta sweets, Bareilly, Uttar Pradesh 243123",
+    "area": "Chetna Colony, Mohanpur",
+    "latitude": 28.3304358,
+    "longitude": 79.45998139999999,
+    "place_id": "ChIJsdvEi2ABoDkRLUYuXRrzisM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdvEi2ABoDkRLUYuXRrzisM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:48"
+  },
+  {
+    "business_name": "Ansari Saloon Purnapur Road Balipur Ahmadpur Bareilly",
+    "search_category": "Salon",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "243123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village Purnapur, Post, Balipur Ahmedpur, Bareilly, Uttar Pradesh 243123",
+    "area": "Post",
+    "latitude": 28.3621943,
+    "longitude": 79.5107706,
+    "place_id": "ChIJ3_vX3kMDoDkR3szL1mX9U0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_vX3kMDoDkR3szL1mX9U0w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:48"
+  }
+]

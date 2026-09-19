@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mary Gold Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "243203",
+    "phone_number": "+91 89231 13779",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mandal Vihar, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Mandal Vihar, Rajendra Nagar",
+    "latitude": 28.3910983,
+    "longitude": 79.42639179999999,
+    "place_id": "ChIJhxBwbv0GoDkR2ZYKQ67qPxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxBwbv0GoDkR2ZYKQ67qPxI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:18:04"
+  },
+  {
+    "business_name": "The Looks Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "243203",
+    "phone_number": "+91 75349 36370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P-3/28, near Chaat Bazaar, Deen Dayal Puram, Bareilly, Uttar Pradesh 243122",
+    "area": "Deen Dayal Puram",
+    "latitude": 28.3818935,
+    "longitude": 79.4323429,
+    "place_id": "ChIJUQ6ifUAHoDkRBO6Uk8_jeO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQ6ifUAHoDkRBO6Uk8_jeO0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:18:04"
+  }
+]

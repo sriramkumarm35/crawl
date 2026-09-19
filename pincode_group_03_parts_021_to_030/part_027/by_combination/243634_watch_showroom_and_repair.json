@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rich Time Titan exclusive store",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "243634",
+    "phone_number": "+91 63547 65192",
+    "website": "https://richtime.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "18, Rich Time, Avani Icon, near Shalby Hospitals, Haridarshan chokdi, Nava Naroda, Ahmedabad, Gujarat 382330",
+    "area": "Haridarshan chokdi, Nava Naroda",
+    "latitude": 23.0704146,
+    "longitude": 72.6721637,
+    "place_id": "ChIJhxInay2HXjkReop8LS57GYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxInay2HXjkReop8LS57GYg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:51:06"
+  },
+  {
+    "business_name": "Titan World - Karol Bagh, New Delhi",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "243634",
+    "phone_number": "+91 80 6291 4280",
+    "website": "https://www.titan.co.in/stores?storeId=TKBN",
+    "rating": 4.8,
+    "reviews_count": 4575,
+    "address": "Shop No, 17A/10, Ajmal Khan Rd, opposite Red Tape, Block 7, Block 10, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block 7, Block 10, WEA, Karol Bagh",
+    "latitude": 28.645582299999997,
+    "longitude": 77.18894519999999,
+    "place_id": "ChIJBS-YgWQDDTkRY01_26SRx2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBS-YgWQDDTkRY01_26SRx2A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

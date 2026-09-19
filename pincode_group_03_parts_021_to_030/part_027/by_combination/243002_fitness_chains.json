@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kaya ladies gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Physical fitness program, Women's personal trainer",
+    "pincode": "243002",
+    "phone_number": "+91 88997 13212",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Pilibhit Bypass Rd, Sun City Vistaar, Bareilly, Uttar Pradesh 243002",
+    "area": "Sun City Vistaar",
+    "latitude": 28.403571099999997,
+    "longitude": 79.45574289999999,
+    "place_id": "ChIJY7wtemIGoDkRAqUYwfoDNFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7wtemIGoDkRAqUYwfoDNFI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:59:09"
+  },
+  {
+    "business_name": "Green Line Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243002",
+    "phone_number": "+91 70601 62039",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Tower 8, Second floor , Dohra, Chauraha, Pilibhit Bypass Rd, near Medicity Hospital, Nawada, Bareilly, Uttar Pradesh 243006",
+    "area": "Nawada",
+    "latitude": 28.3789564,
+    "longitude": 79.4545844,
+    "place_id": "ChIJo0x-mlsHoDkRN_R2AdFXNII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0x-mlsHoDkRN_R2AdFXNII",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:59:12"
+  }
+]

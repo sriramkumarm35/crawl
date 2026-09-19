@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EzyHelpers",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency, Home health care service, Home help",
+    "pincode": "243123",
+    "phone_number": "+91 76196 29005",
+    "website": "https://www.ezyhelpers.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Divyasree Elan Homes, Sarjapur - Marathahalli Rd, opp. Total Mall, Bellandur, Bengaluru, Karnataka 560035",
+    "area": "Bellandur",
+    "latitude": 12.918247899999999,
+    "longitude": 77.67351649999999,
+    "place_id": "ChIJS92SZMwTrjsR5gnON5yz3fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS92SZMwTrjsR5gnON5yz3fw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:44"
+  },
+  {
+    "business_name": "Dainik care Repair Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Air conditioning repair service, Chimney services, Microwave oven repair service, Refrigerator repair service, Washer & dryer repair service, Water purification company",
+    "pincode": "243123",
+    "phone_number": "+91 72520 43100",
+    "website": "http://dainikcare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "HN 200 shanti nagar ekta colony, Dhakka Rd, Line Par, Moradabad, Uttar Pradesh 244001",
+    "area": "Line Par",
+    "latitude": 28.821737199999998,
+    "longitude": 78.7526468,
+    "place_id": "ChIJy7UljLj7CjkR6gtRd5q5hG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7UljLj7CjkR6gtRd5q5hG0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:10:44"
+  }
+]

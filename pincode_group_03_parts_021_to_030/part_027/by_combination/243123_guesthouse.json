@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Royal Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243123",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/245384/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijay petrol pump ke samne, Raj NagarRajni Ratan Towe, Plot No. 368, Pilibhit Bypass Rd, Sindhu Nagar, Bareilly, Uttar Pradesh 243005",
+    "area": "Sindhu Nagar",
+    "latitude": 28.3538966,
+    "longitude": 79.4431604,
+    "place_id": "ChIJgbxg66MBoDkR7nZHCAb94ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbxg66MBoDkR7nZHCAb94ik",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:00"
+  },
+  {
+    "business_name": "Hotel Shiv Ganga",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243123",
+    "phone_number": "+91 73515 32929",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "Furniture Mandi, Siklapur, Gangapur, Bareilly, Uttar Pradesh 243005",
+    "area": "Siklapur, Gangapur",
+    "latitude": 28.358200999999998,
+    "longitude": 79.4211239,
+    "place_id": "ChIJhyp7lSsHoDkRKXFAm4VmUXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyp7lSsHoDkRKXFAm4VmUXM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:00"
+  }
+]

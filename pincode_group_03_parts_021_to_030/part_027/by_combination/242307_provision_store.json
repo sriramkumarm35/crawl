@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "242307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Moh. Biriyaganj, Tilhar, Uttar Pradesh 242307",
+    "area": "Moh. Biriyaganj",
+    "latitude": 27.962073999999998,
+    "longitude": 79.7368841,
+    "place_id": "ChIJoXrz7pPrnzkRZ0zJkqTq2zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXrz7pPrnzkRZ0zJkqTq2zk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:08"
+  },
+  {
+    "business_name": "Ashmeet Convenient Store",
+    "search_category": "Provision Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "242307",
+    "phone_number": "+91 87379 72081",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mailani Rd, Luktaha, Heerpur, Uttar Pradesh 242405",
+    "area": "242307",
+    "latitude": 28.2713386,
+    "longitude": 80.30405929999999,
+    "place_id": "ChIJ-buS9SNjnzkRQCLAlYQw41U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-buS9SNjnzkRQCLAlYQw41U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:48:08"
+  }
+]

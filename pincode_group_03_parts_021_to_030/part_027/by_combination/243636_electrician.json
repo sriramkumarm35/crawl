@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Electric Works",
+    "search_category": "Electrician",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electronics store",
+    "pincode": "243636",
+    "phone_number": "+91 94124 61574",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghanta Ghar, Station Rd, Ujhani, Uttar Pradesh 243639",
+    "area": "243636",
+    "latitude": 28.0014841,
+    "longitude": 79.01005119999999,
+    "place_id": "ChIJN2FOCQA5dTkRlyjoMNIxT9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2FOCQA5dTkRlyjoMNIxT9Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:55:04"
+  },
+  {
+    "business_name": "Yadram Prajapati motor repairing centre",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "243636",
+    "phone_number": "+91 73106 38695",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ujhani, Khukhania Jauje, Uttar Pradesh 243636",
+    "area": "243636",
+    "latitude": 27.9995543,
+    "longitude": 78.8815582,
+    "place_id": "ChIJO1oN1OI7dTkRIlUTefwmIcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1oN1OI7dTkRIlUTefwmIcw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:55:04"
+  }
+]

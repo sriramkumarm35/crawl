@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "243502",
+    "phone_number": "+91 88905 33335",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Dhobi Ghat, Shriji Residency, Abu Road, Rajasthan 307026",
+    "area": "Ambica Colony",
+    "latitude": 24.4776432,
+    "longitude": 72.7905632,
+    "place_id": "ChIJk2W1Xpbj6kgRpodg6RpebWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2W1Xpbj6kgRpodg6RpebWA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:34:08"
+  },
+  {
+    "business_name": "Infinity Wedding Entries & Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Event management company",
+    "pincode": "243502",
+    "phone_number": "+91 98878 88670",
+    "website": "https://infinityweddingentiresevents.com/",
+    "rating": 4.6,
+    "reviews_count": 48,
+    "address": "Gandhi Nagar, Abu Road, Rajasthan 307026",
+    "area": "Gandhi Nagar",
+    "latitude": 24.472896499999997,
+    "longitude": 72.7798238,
+    "place_id": "ChIJZwVRuxxbMEcRckPwSJPXdaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwVRuxxbMEcRckPwSJPXdaA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:34:08"
+  }
+]

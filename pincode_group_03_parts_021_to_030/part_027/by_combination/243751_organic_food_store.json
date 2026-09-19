@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mala Cosmetic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetic Products Manufacturer",
+    "all_categories": "Cosmetic Products Manufacturer, General store",
+    "pincode": "243751",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babrala, Uttar Pradesh 243751",
+    "area": "243751",
+    "latitude": 28.2644247,
+    "longitude": 78.405718,
+    "place_id": "ChIJh1_UR-czCzkR7UmaTYiE4RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1_UR-czCzkR7UmaTYiE4RY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:15:06"
+  },
+  {
+    "business_name": "Naturally Good by Kanpan organic farms Pvt ltd",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm, Produce market",
+    "pincode": "243751",
+    "phone_number": "+91 96437 22200",
+    "website": "http://www.naturallygood.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Farm no 2, village khor, near bavri farm Post office dhaula, Harchandpur, Haryana 122102",
+    "area": "243751",
+    "latitude": 28.2772828,
+    "longitude": 77.1381892,
+    "place_id": "ChIJNdSTSGEnDTkR963dKsGqOl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdSTSGEnDTkR963dKsGqOl4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:15:08"
+  }
+]

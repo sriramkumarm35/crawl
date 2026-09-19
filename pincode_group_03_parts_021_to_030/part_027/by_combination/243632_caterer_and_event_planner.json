@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "243632",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ratanpur road, Khanpur, Khanupura Seondara, Uttar Pradesh 244412",
+    "area": "243632",
+    "latitude": 28.5040443,
+    "longitude": 78.8556493,
+    "place_id": "ChIJ1RDNh_LDCjkRRZszZUphsjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RDNh_LDCjkRRZszZUphsjA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:48:17"
+  },
+  {
+    "business_name": "Khempal Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "243632",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ram road, Bhram Bazaar, Chandausi, Uttar Pradesh 244412",
+    "area": "Bhram Bazaar",
+    "latitude": 28.437268999999997,
+    "longitude": 78.778262,
+    "place_id": "ChIJh2bTzXjbCjkR3d17ddA2oZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2bTzXjbCjkR3d17ddA2oZQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:48:17"
+  }
+]

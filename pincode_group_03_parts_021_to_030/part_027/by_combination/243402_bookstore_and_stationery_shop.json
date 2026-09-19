@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Old and New Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "243402",
+    "phone_number": "+91 90395 35825",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 275,
+    "address": "Ambedkar Rd, jawahar Nagar, Vikas Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "jawahar Nagar, Vikas Nagar",
+    "latitude": 24.462825799999997,
+    "longitude": 74.87424039999999,
+    "place_id": "ChIJNR5yfn90ZjkRMtunqndVoEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNR5yfn90ZjkRMtunqndVoEo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:27:13"
+  },
+  {
+    "business_name": "Sahu Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "243402",
+    "phone_number": "+91 93190 01914",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Sadar Bazar, Sadar Colony, Bareilly, Uttar Pradesh 243001",
+    "area": "Sadar Bazar, Sadar Colony",
+    "latitude": 28.318757899999998,
+    "longitude": 79.43840639999999,
+    "place_id": "ChIJUQB4vA8BoDkRzdJoylYt4qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQB4vA8BoDkRzdJoylYt4qQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:27:15"
+  }
+]

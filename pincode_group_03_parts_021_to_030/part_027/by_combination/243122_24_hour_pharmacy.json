@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "243122",
+    "phone_number": "+91 70078 65464",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "56, 532, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Rajendra Nagar",
+    "latitude": 28.3893356,
+    "longitude": 79.4256071,
+    "place_id": "ChIJQ5kmVP0GoDkRAAAAsBg1Yko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5kmVP0GoDkRAAAAsBg1Yko",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:21"
+  },
+  {
+    "business_name": "Kumars pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "243122",
+    "phone_number": "+91 91490 52083",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "behind sambhav hospital, Munshi Nagar, Veer Savarkar Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Munshi Nagar, Veer Savarkar Nagar",
+    "latitude": 28.3907587,
+    "longitude": 79.448188,
+    "place_id": "ChIJBdFZq7EHoDkR4EvyqC9krAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdFZq7EHoDkR4EvyqC9krAI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:22"
+  }
+]

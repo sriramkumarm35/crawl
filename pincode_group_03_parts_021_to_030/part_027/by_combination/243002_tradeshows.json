@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "243002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajendra Nagar, Bareilly, Bilwa, Uttar Pradesh 243202",
+    "area": "Rajendra Nagar",
+    "latitude": 28.4422629,
+    "longitude": 79.4422593,
+    "place_id": "ChIJMX0pN3kHoDkRfRPPyT5VYtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMX0pN3kHoDkRfRPPyT5VYtA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:14"
+  },
+  {
+    "business_name": "Event Riders",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "243002",
+    "phone_number": "+91 95489 18304",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Prabhat Nagar, Hindustan Media Building, near Ashok Mehndiratta Hospital, Janakpuri, Bareilly, Uttar Pradesh 243122",
+    "area": "Janakpuri",
+    "latitude": 28.378494999999997,
+    "longitude": 79.4256025,
+    "place_id": "ChIJtY8jfesHoDkRHLkMEBajpUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtY8jfesHoDkRHLkMEBajpUU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:00:17"
+  }
+]

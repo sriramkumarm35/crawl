@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashyap Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "243401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "57Q8+VH8, Road, Hazratpur, Khuli Taharpur, Uttar Pradesh 243401",
+    "area": "243401",
+    "latitude": 28.190070199999997,
+    "longitude": 79.26683589999999,
+    "place_id": "ChIJT7065K5TdTkRgBugSaIcCtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7065K5TdTkRgBugSaIcCtA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:41"
+  },
+  {
+    "business_name": "जय.शिव.पाइप.स्टोर",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "243401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "68VM+2J2, Bareilly - Badaun Rd, Makrandpur Dharajit, Uttar Pradesh 243401",
+    "area": "243401",
+    "latitude": 28.243424599999997,
+    "longitude": 79.3350035,
+    "place_id": "ChIJa3O5KABVdTkR3RAJamLPVVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3O5KABVdTkR3RAJamLPVVw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:25:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Motors",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center, Gas installation service",
+    "pincode": "243501",
+    "phone_number": "+91 93145 12432",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3, behind Chabra Road, Chambal GSS Colony, Hawa Sadak, Ramnagar Extension, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Chambal GSS Colony, Hawa Sadak, Ramnagar Extension, Sodala",
+    "latitude": 26.8995742,
+    "longitude": 75.7805748,
+    "place_id": "ChIJAQAAQA20bTkR5yQFxAF3VOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQA20bTkR5yQFxAF3VOU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:56"
+  },
+  {
+    "business_name": "CNG Auto Point",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center",
+    "pincode": "243501",
+    "phone_number": "+91 99119 15118",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Metro Pillar No.172, 153, Ami Chand Khand, Block AC, Giri Nagar, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Ami Chand Khand, Block AC, Giri Nagar, Kalkaji",
+    "latitude": 28.542356899999998,
+    "longitude": 77.264692,
+    "place_id": "ChIJLQv3N-fjDDkRvpjAw7AycHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQv3N-fjDDkRvpjAw7AycHg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:56"
+  }
+]

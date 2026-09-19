@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepali Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "243723",
+    "phone_number": "+91 94141 60642",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 264,
+    "address": "501, Lodha S.M. Complex, Near Court Chouraha, Shakti Nagar, Udaipur, Rajasthan 313001",
+    "area": "Near Court Chouraha, Shakti Nagar",
+    "latitude": 24.587213499999997,
+    "longitude": 73.6968831,
+    "place_id": "ChIJU9YN5XblZzkRr0J24CkpRvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9YN5XblZzkRr0J24CkpRvU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:07:29"
+  },
+  {
+    "business_name": "Maa Sandhya Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "243723",
+    "phone_number": "+91 84201 56529",
+    "website": "https://www.facebook.com/profile.php?id=100085262252064",
+    "rating": 4.7,
+    "reviews_count": 64,
+    "address": "76,Gorkhara, A, Badamtala, Sarat Sarani Main Rd, West Bengal 700150",
+    "area": "Ghasiara",
+    "latitude": 22.4482499,
+    "longitude": 88.43885209999999,
+    "place_id": "ChIJqwXrR4h9rAARXY8iz1RG61g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwXrR4h9rAARXY8iz1RG61g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:07:29"
+  }
+]

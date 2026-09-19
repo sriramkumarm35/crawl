@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zofie pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "243402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "near Hindustan homeo clinic, Kandharpur, Bareilly, Uttar Pradesh 243004",
+    "area": "243402",
+    "latitude": 28.3092537,
+    "longitude": 79.42217699999999,
+    "place_id": "ChIJg9rBgysBoDkRDJNcDtFbWPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9rBgysBoDkRDJNcDtFbWPY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:06"
+  },
+  {
+    "business_name": "Manas Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet groomer",
+    "all_categories": "Pet groomer, Bird shop, Pet store",
+    "pincode": "243402",
+    "phone_number": "+91 70173 26515",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st Floor, Bob Building, Madinath Rd, Marhinath Road, Madhinath, Bareilly, Uttar Pradesh 243001",
+    "area": "Marhinath Road, Madhinath",
+    "latitude": 28.3497548,
+    "longitude": 79.4014426,
+    "place_id": "ChIJH30jeokBoDkRbFkCBSrkcHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH30jeokBoDkRbFkCBSrkcHw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:08"
+  }
+]

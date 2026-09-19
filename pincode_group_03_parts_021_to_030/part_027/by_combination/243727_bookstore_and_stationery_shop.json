@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The English Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "243727",
+    "phone_number": "+91 135 265 5192",
+    "website": "https://www.englishbookdepot.com/",
+    "rating": 4.5,
+    "reviews_count": 356,
+    "address": "15A, C\\O English Book Depot, 15, Rajpur Rd, Ghanta Ghar, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Ghanta Ghar, Chukkuwala",
+    "latitude": 30.326932099999997,
+    "longitude": 78.0447782,
+    "place_id": "ChIJ7R86mcEpCTkRksAYIP--Ey4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7R86mcEpCTkRksAYIP--Ey4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:14:35"
+  },
+  {
+    "business_name": "Khushi Stationery Shop & Online CSC Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "243727",
+    "phone_number": "+91 95558 21704",
+    "website": "https://khushionlinestationary.web.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mairwa Darauli Rd, Kanhauli, Kanaila, Bihar 841235",
+    "area": "243727",
+    "latitude": 26.1473019,
+    "longitude": 84.1481503,
+    "place_id": "ChIJlWq-PONRkjkR2m9EmftjnMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWq-PONRkjkR2m9EmftjnMg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:14:37"
+  }
+]

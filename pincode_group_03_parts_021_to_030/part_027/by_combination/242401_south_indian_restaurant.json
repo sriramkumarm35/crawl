@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Junction Cafe and Family restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "242401",
+    "phone_number": "+91 73101 22333",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "338W+76R, Shahjahanpur Road, near Jilla Sarkari Bank, Powayan, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.0657481,
+    "longitude": 80.0955273,
+    "place_id": "ChIJpTzyJfydnzkRSQ93nMiXZHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTzyJfydnzkRSQ93nMiXZHo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:04"
+  },
+  {
+    "business_name": "THE CHATTORE",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "242401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Khutar Rd, opposite baljeet petrol pump, Powayan, Uttar Pradesh 242401",
+    "area": "242401",
+    "latitude": 28.068406,
+    "longitude": 80.0979373,
+    "place_id": "ChIJQZ3XtQSdnzkRGbtpcZ3zdfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZ3XtQSdnzkRGbtpcZ3zdfk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:50:04"
+  }
+]

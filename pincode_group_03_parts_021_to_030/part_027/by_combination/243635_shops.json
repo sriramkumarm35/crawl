@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Menza Studio",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No 11, Dr sayed wali gali, near Bus stand, Allapur, Uttar Pradesh 243631",
+    "area": "243635",
+    "latitude": 27.9153161,
+    "longitude": 79.2472853,
+    "place_id": "ChIJpROzj49ddTkRb-LXIB2MbyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpROzj49ddTkRb-LXIB2MbyQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:54:13"
+  },
+  {
+    "business_name": "Riyasat Telor Shop",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243635",
+    "phone_number": "+91 90272 50229",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "29CX 6VR, Dataganj, Uttar Pradesh 243635",
+    "area": "243635",
+    "latitude": 28.0204193,
+    "longitude": 79.40158029999999,
+    "place_id": "ChIJ4UhVn8njnzkR1xYTkY_5b1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UhVn8njnzkR1xYTkY_5b1c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:54:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB&T MART",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Equipment supplier",
+    "pincode": "243123",
+    "phone_number": "+91 97027 70555",
+    "website": "http://www.avnt.co.in/",
+    "rating": 4.3,
+    "reviews_count": 79,
+    "address": "B Wing, B84/85, opposite Railway Station, Shanti Vihar, Mira Road East, Thane, Mira Bhayandar, Maharashtra 401107",
+    "area": "Shanti Vihar, Mira Road East",
+    "latitude": 19.2807687,
+    "longitude": 72.85720289999999,
+    "place_id": "ChIJW9CpQYyx5zsRHeWrqBYCr2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9CpQYyx5zsRHeWrqBYCr2Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:05"
+  },
+  {
+    "business_name": "Kodashri Enterprises - Housekeeping Material Supplier in Greater Noida",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "243123",
+    "phone_number": "+91 89296 16222",
+    "website": "https://www.kodashri.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Unit - 6, Kanti Devi Market, Bhangel, Block A, Sector 2, Greater Noida, Ghaziabad, Uttar Pradesh 201318",
+    "area": "Bhangel, Block A, Sector 2",
+    "latitude": 28.6073193,
+    "longitude": 77.4504922,
+    "place_id": "ChIJo67y_m3vDDkRcfT7KNvtWxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo67y_m3vDDkRcfT7KNvtWxY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:11:05"
+  }
+]

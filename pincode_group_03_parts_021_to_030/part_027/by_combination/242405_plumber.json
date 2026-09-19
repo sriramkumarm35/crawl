@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aneesh technician plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "242405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Aneesh Khan Plumber, Kukra, Uttar Pradesh 262801",
+    "area": "242405",
+    "latitude": 28.1890675,
+    "longitude": 80.4500702,
+    "place_id": "ChIJO-ge2GxnnzkRcMjaG9HwKX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-ge2GxnnzkRcMjaG9HwKX4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:52:24"
+  },
+  {
+    "business_name": "Umar and Sons Plumbers",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "242405",
+    "phone_number": "+91 80521 84062",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Chudi wali gali, Khutar, Narainpur Vikrampur, Uttar Pradesh 242405",
+    "area": "242405",
+    "latitude": 28.204218899999997,
+    "longitude": 80.2689123,
+    "place_id": "ChIJa6cWiXN7nzkRwWlzIMVkTCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6cWiXN7nzkRwWlzIMVkTCo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:52:24"
+  }
+]

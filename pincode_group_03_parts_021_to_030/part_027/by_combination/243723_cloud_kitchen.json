@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "243723",
+    "phone_number": "+91 85272 88494",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jagannath Mandir Road, Garhi Chaukhandi, Sector 121, Noida, Uttar Pradesh 201307",
+    "area": "Garhi Chaukhandi, Sector 121",
+    "latitude": 28.597680999999998,
+    "longitude": 77.3965607,
+    "place_id": "ChIJNzajSxPlDDkRbcbmLXsFq2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzajSxPlDDkRbcbmLXsFq2s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:06:39"
+  },
+  {
+    "business_name": "MAA CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "243723",
+    "phone_number": "+91 88603 26332",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "1073, Kamla Apartments, 2, Jharsa, Jharsa Village, Sector 39, Gurugram, Haryana 122003",
+    "area": "Jharsa, Jharsa Village, Sector 39",
+    "latitude": 28.439590199999998,
+    "longitude": 77.05015929999999,
+    "place_id": "ChIJtRh2n1wZDTkR650CZz5aaGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRh2n1wZDTkR650CZz5aaGc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:06:41"
+  }
+]

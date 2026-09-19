@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambey agro food",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "243203",
+    "phone_number": "+91 91520 89432",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "marg, Baraur, Anandipur, Uttar Pradesh 243203",
+    "area": "marg",
+    "latitude": 28.6206076,
+    "longitude": 79.5068271,
+    "place_id": "ChIJIbA63W4NoDkR0y333apfvnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbA63W4NoDkR0y333apfvnI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:12"
+  },
+  {
+    "business_name": "Javed Malik chakki store",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "243203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JFFQ+9FF, Deoranian, Uttar Pradesh 243203",
+    "area": "243203",
+    "latitude": 28.6235219,
+    "longitude": 79.48897939999999,
+    "place_id": "ChIJdZgzAwANoDkR3NVpoEgpYnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZgzAwANoDkR3NVpoEgpYnU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:12"
+  }
+]

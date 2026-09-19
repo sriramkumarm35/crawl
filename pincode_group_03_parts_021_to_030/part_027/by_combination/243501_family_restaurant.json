@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mourya hotal & restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243501",
+    "phone_number": "+91 82738 24866",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "Fatehganj Pashchimi, Bareilly, NH-24, Rampur Road, Bareilly, Bareilly, Uttar Pradesh 243501",
+    "area": "243501",
+    "latitude": 28.4676369,
+    "longitude": 79.29512869999999,
+    "place_id": "ChIJCw7c23amCjkRkmLoQeNbE_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCw7c23amCjkRkmLoQeNbE_I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:31"
+  },
+  {
+    "business_name": "One India Pizza Corner & Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "243501",
+    "phone_number": "+91 70177 11932",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "hp gas agency, to, meerganj road, near vedansh hospital, Bareilly, Fatehganj Pashchimi, Uttar Pradesh 243501",
+    "area": "243501",
+    "latitude": 28.4664611,
+    "longitude": 79.2984468,
+    "place_id": "ChIJ6XGv0R6lCjkRTgvnjyeL9KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XGv0R6lCjkRTgvnjyeL9KU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:31"
+  }
+]

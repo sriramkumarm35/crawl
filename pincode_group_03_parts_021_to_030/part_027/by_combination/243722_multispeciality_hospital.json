@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243722",
+    "phone_number": "+91 95997 41997",
+    "website": "https://delhimutispecialityhospital.my.canva.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pt. Deen Dayal Chowk, NAPS Twp, Narora, Uttar Pradesh 203389",
+    "area": "243722",
+    "latitude": 28.187194899999998,
+    "longitude": 78.3855438,
+    "place_id": "ChIJEfUfCJo1CzkRIvJ1eLCwQN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfUfCJo1CzkRIvJ1eLCwQN8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:08"
+  },
+  {
+    "business_name": "TCL Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243722",
+    "phone_number": "+91 5836 664 444",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "7CQ4+R53, Babrala Rajpura Kesarpur Village Marg, Babrala, Mehua Hasanganj, Uttar Pradesh 242021",
+    "area": "243722",
+    "latitude": 28.2895242,
+    "longitude": 78.4054213,
+    "place_id": "ChIJGewGBkExCzkRmOXlc5fpEBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGewGBkExCzkRmOXlc5fpEBs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pizza Hub🍕",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "243401",
+    "phone_number": "+91 98379 27906",
+    "website": "https://thepizzahubdevchara.netlify.app/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "House no 189, Bareilly - Badaun Rd, in front of Gramin bank of baroda, Devchara, Uttar Pradesh 243401",
+    "area": "243401",
+    "latitude": 28.227964999999998,
+    "longitude": 79.3187153,
+    "place_id": "ChIJ-coSYv9VdTkRejPHWZFORQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-coSYv9VdTkRejPHWZFORQ8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:28"
+  },
+  {
+    "business_name": "Moga family dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "243401",
+    "phone_number": "+91 70176 76808",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 25,
+    "address": "NH 13, near fareedpur toll plaza, Megi Nagla, Uttar Pradesh 243503",
+    "area": "243401",
+    "latitude": 28.2505915,
+    "longitude": 79.51611199999999,
+    "place_id": "ChIJvXUf8gMHoDkRk0BLRJoBLLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXUf8gMHoDkRk0BLRJoBLLY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:24:31"
+  }
+]

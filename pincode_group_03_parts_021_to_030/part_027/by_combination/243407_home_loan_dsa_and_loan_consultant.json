@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Loan Counter",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "243407",
+    "phone_number": "+91 87558 00238",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "90, behind Bareilly Club Limited, Avas Vikas, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Avas Vikas, Civil Lines",
+    "latitude": 28.3408491,
+    "longitude": 79.4267267,
+    "place_id": "ChIJ8U3ElycBoDkR4TA4LymfSUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8U3ElycBoDkR4TA4LymfSUU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:53"
+  },
+  {
+    "business_name": "Mahi Associates",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "243407",
+    "phone_number": "+91 97833 05155",
+    "website": "https://mahiassociate.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "3rd floor, ICON TOWER, 309, Madhuban, Udaipur, Rajasthan 313004",
+    "area": "Madhuban",
+    "latitude": 24.593424499999998,
+    "longitude": 73.69335199999999,
+    "place_id": "ChIJaVog083lZzkRAQY1dm96rF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVog083lZzkRAQY1dm96rF4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:53"
+  }
+]

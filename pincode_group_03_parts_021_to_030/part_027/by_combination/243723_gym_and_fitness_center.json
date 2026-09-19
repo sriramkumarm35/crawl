@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSK Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "243723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Police Chowki, New, Road, near Narauli, Green Colony, Narauli, Uttar Pradesh 244414",
+    "area": "Green Colony",
+    "latitude": 28.481728,
+    "longitude": 78.7188194,
+    "place_id": "ChIJlWkOUPHZCjkRWPCLFgtJg0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWkOUPHZCjkRWPCLFgtJg0Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:07:00"
+  },
+  {
+    "business_name": "Anand Fitness | Gym Equipments Supplier & Gym Setup",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Exercise equipment store",
+    "all_categories": "Exercise equipment store, Outdoor sports store, Playground equipment supplier, Sportswear store",
+    "pincode": "243723",
+    "phone_number": "+91 98278 33808",
+    "website": "http://www.anandfitness.in/",
+    "rating": 4.8,
+    "reviews_count": 1032,
+    "address": "Buxi Bazar Rd, opposite GPO, Buxi Bazaar, Kataka, Odisha 753001",
+    "area": "Buxi Bazaar",
+    "latitude": 20.4752446,
+    "longitude": 85.8745969,
+    "place_id": "ChIJ5-1N7ZcTGToRQy3ZKzLfVSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-1N7ZcTGToRQy3ZKzLfVSs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:07:03"
+  }
+]

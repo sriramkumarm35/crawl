@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vipin General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "243502",
+    "phone_number": "+91 81719 44907",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "1361, C.B.Ganj, Bareilly, Uttar Pradesh 243502",
+    "area": "C.B.Ganj",
+    "latitude": 28.402592499999997,
+    "longitude": 79.37489939999999,
+    "place_id": "ChIJHWRJVCmoCjkRxQr2utgW5Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWRJVCmoCjkRxQr2utgW5Ys",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:04"
+  },
+  {
+    "business_name": "Sharma General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "243502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Badshah Nagar Rd, C.B.Ganj, Bareilly, Badshah Nagar, Uttar Pradesh 243502",
+    "area": "C.B.Ganj",
+    "latitude": 28.4020829,
+    "longitude": 79.3511185,
+    "place_id": "ChIJ2R0B2rSpCjkRUbICxEbznaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2R0B2rSpCjkRUbICxEbznaA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:33:06"
+  }
+]

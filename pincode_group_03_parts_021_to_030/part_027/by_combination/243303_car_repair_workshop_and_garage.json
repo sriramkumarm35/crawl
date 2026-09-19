@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G k Asif garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243303",
+    "phone_number": "+91 85279 35086",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kakrouwa, Uttar Pradesh 244922",
+    "area": "243303",
+    "latitude": 28.5568898,
+    "longitude": 79.015587,
+    "place_id": "ChIJYy9ucQDBCjkR1yKwPJD-iBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYy9ucQDBCjkR1yKwPJD-iBs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:23:02"
+  },
+  {
+    "business_name": "Mehmood Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HXCW+5WX, Shahabad, Uttar Pradesh 244922",
+    "area": "243303",
+    "latitude": 28.5703732,
+    "longitude": 78.9972751,
+    "place_id": "ChIJk2wZHADBCjkRK6MGhF9PeWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2wZHADBCjkRK6MGhF9PeWs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:23:02"
+  }
+]

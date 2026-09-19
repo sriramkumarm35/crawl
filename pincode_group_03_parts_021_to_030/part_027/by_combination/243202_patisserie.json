@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blissful_cake_studio",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "243202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "65, Nainital Rd, near amritsar sweets, Izatnagar, Bareilly, Uttar Pradesh 243001",
+    "area": "Izatnagar",
+    "latitude": 28.4208251,
+    "longitude": 79.4291228,
+    "place_id": "ChIJwxSLAkgHoDkR7YPVkwdWzaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxSLAkgHoDkR7YPVkwdWzaA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:27"
+  },
+  {
+    "business_name": "yash communication",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Money transfer service",
+    "pincode": "243202",
+    "phone_number": "+91 84455 80883",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "abhaypur keshopur, near, railway crossing, Bareilly, Uttar Pradesh 243202",
+    "area": "243202",
+    "latitude": 28.47027,
+    "longitude": 79.4426237,
+    "place_id": "ChIJxQpi66EJoDkRwOl_T9syqPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQpi66EJoDkRwOl_T9syqPw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:15:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "243403",
+    "phone_number": "+91 98374 75916",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "near State bank, Subhash Nagar, Subhash Nagar Colony, Bareilly, Uttar Pradesh 243001",
+    "area": "Subhash Nagar, Subhash Nagar Colony",
+    "latitude": 28.3370176,
+    "longitude": 79.4071233,
+    "place_id": "ChIJD96Gr-cBoDkR4IDc9ZPh0i0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD96Gr-cBoDkR4IDc9ZPh0i0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:28:15"
+  },
+  {
+    "business_name": "Dental Solutions",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "243403",
+    "phone_number": "+91 75795 55566",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Bhagwati complex, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.344011199999997,
+    "longitude": 79.42130829999999,
+    "place_id": "ChIJ26sFokwBoDkRsdEcsolP5Xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26sFokwBoDkRsdEcsolP5Xo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:28:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jk Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "243634",
+    "phone_number": "+91 84498 69183",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "00, Bareilly - Badaun Rd, Budaun, Uttar Pradesh 243634",
+    "area": "243634",
+    "latitude": 28.1339281,
+    "longitude": 79.2307326,
+    "place_id": "ChIJUfOCXqJRdTkRJ7n8tQA1vHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfOCXqJRdTkRJ7n8tQA1vHw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:50:58"
+  },
+  {
+    "business_name": "Cloth Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "243634",
+    "phone_number": "+91 84488 04937",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Budaun, Lahi Faridpur, Uttar Pradesh 243601",
+    "area": "243634",
+    "latitude": 28.119597499999998,
+    "longitude": 79.14788279999999,
+    "place_id": "ChIJu3L-NZJPdTkRCsWu5krILOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3L-NZJPdTkRCsWu5krILOo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:51:01"
+  }
+]

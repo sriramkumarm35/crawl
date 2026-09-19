@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Cement Traders",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "243504",
+    "phone_number": "+91 98977 73565",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "J578+PWH, Milak, Uttar Pradesh 244701",
+    "area": "243504",
+    "latitude": 28.6143106,
+    "longitude": 79.1673467,
+    "place_id": "ChIJGaCpONeXCjkRJhzo7rdfgzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaCpONeXCjkRJhzo7rdfgzc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:29"
+  },
+  {
+    "business_name": "KinG Brothers Paint Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "243504",
+    "phone_number": "+91 89235 38494",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Roshan Bagh, Rampur, Uttar Pradesh 244901",
+    "area": "Roshan Bagh",
+    "latitude": 28.8192754,
+    "longitude": 79.0373049,
+    "place_id": "ChIJr4Z4Vz2NCjkRDRK_uxRY2Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4Z4Vz2NCjkRDRK_uxRY2Go",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:37:31"
+  }
+]

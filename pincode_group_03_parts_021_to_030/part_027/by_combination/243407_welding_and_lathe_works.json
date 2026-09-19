@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welding Workshop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "243407",
+    "phone_number": "+91 98110 50210",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5shiv Mandir Khurd, Nawabpura, Uttar Pradesh 243303",
+    "area": "243407",
+    "latitude": 28.412555299999998,
+    "longitude": 79.0266876,
+    "place_id": "ChIJafqJzW63CjkRynGISd3r5MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafqJzW63CjkRynGISd3r5MQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:03"
+  },
+  {
+    "business_name": "Service Welding Workshop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "243407",
+    "phone_number": "+91 89546 13025",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "32, Bisalpur Rd, near Tikri, Pilibhit, Parasiram Kishan, Uttar Pradesh 262203",
+    "area": "243407",
+    "latitude": 28.3806843,
+    "longitude": 79.7997304,
+    "place_id": "ChIJR-tzEk8hoDkRrVgyXCUYmK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-tzEk8hoDkRrVgyXCUYmK8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:04"
+  }
+]

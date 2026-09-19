@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swarn Palace",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "243301",
+    "phone_number": "+91 97206 86363",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 144,
+    "address": "Aonla, Uttar Pradesh 243301",
+    "area": "243301",
+    "latitude": 28.270708,
+    "longitude": 79.1697677,
+    "place_id": "ChIJcZpVHLqzCjkRPSIFdrk3jLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZpVHLqzCjkRPSIFdrk3jLM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:19:05"
+  },
+  {
+    "business_name": "Raj Garden & Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "243301",
+    "phone_number": "N/A",
+    "website": "https://www.rajgardenhotels.com/",
+    "rating": 4.1,
+    "reviews_count": 245,
+    "address": "Aonla - Shahabad Rd, Aonla, Behta Janu, Uttar Pradesh 243301",
+    "area": "243301",
+    "latitude": 28.285511099999997,
+    "longitude": 79.14979079999999,
+    "place_id": "ChIJ0-L9swCzCjkRdZbBLnruMaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-L9swCzCjkRdZbBLnruMaI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:19:05"
+  }
+]

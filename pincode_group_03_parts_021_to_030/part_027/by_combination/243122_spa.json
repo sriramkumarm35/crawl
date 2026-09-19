@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ocean unisex saloon & spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "243122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Building No 6, Mini Byp, near bhaskar Hospital, Karamchari Nagar, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar, Rajendra Nagar",
+    "latitude": 28.388803,
+    "longitude": 79.4348512,
+    "place_id": "ChIJceVNz74HoDkRNm15s0qDrkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceVNz74HoDkRNm15s0qDrkg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:55"
+  },
+  {
+    "business_name": "Buddha Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "243122",
+    "phone_number": "+91 78309 56090",
+    "website": "https://sites.google.com/view/buddha-spa-bareilly/home",
+    "rating": 1,
+    "reviews_count": 3,
+    "address": "near Royal Tandoor, Deen Dayal Puram, Bareilly, Uttar Pradesh 243122",
+    "area": "Deen Dayal Puram",
+    "latitude": 28.381412899999997,
+    "longitude": 79.4306502,
+    "place_id": "ChIJ1_-SkCcHoDkRbkG6B-UDKCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_-SkCcHoDkRbkG6B-UDKCg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:08:55"
+  }
+]

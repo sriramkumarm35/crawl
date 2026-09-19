@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradhan Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "243726",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 103,
+    "address": "Ait, Jalaun NH, 25, Kanpur - Jhansi Hwy, Jalaun, Uttar Pradesh 285201",
+    "area": "243726",
+    "latitude": 25.884795,
+    "longitude": 79.22645709999999,
+    "place_id": "ChIJqwUjGrfRdzkRcioz67gMINQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwUjGrfRdzkRcioz67gMINQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:11:50"
+  },
+  {
+    "business_name": "Surya Dhaba and Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Family restaurant",
+    "pincode": "243726",
+    "phone_number": "+91 94136 22969",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 335,
+    "address": "Aata, Jalaun, NH-25, Kanpur Jhansi Highway, Jalaun, Jalaun, Uttar Pradesh 285202",
+    "area": "243726",
+    "latitude": 26.041580099999997,
+    "longitude": 79.591904,
+    "place_id": "ChIJaxDTith3nTkRsFw0XOmuZFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxDTith3nTkRsFw0XOmuZFo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:11:50"
+  }
+]

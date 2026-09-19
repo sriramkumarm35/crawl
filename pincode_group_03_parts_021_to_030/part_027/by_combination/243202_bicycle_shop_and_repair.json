@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Agarwal Cycle Company",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "243202",
+    "phone_number": "+91 70074 08118",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 58,
+    "address": "489 Thompsanganj, Lalbagh, Parao, Sitapur, Uttar Pradesh 261001",
+    "area": "Lalbagh, Parao",
+    "latitude": 27.567855599999998,
+    "longitude": 80.6809931,
+    "place_id": "ChIJw-ZO_LXXnjkRhutjNCjgbqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-ZO_LXXnjkRhutjNCjgbqE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:16:01"
+  },
+  {
+    "business_name": "Prince TOYS & CYCLE STORE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "243202",
+    "phone_number": "+91 82793 53818",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Guna Hattu, Uttar Pradesh 243203",
+    "area": "243202",
+    "latitude": 28.6470141,
+    "longitude": 79.4542268,
+    "place_id": "ChIJL6c1O7p0oDkRFdF1XAIhNNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6c1O7p0oDkRFdF1XAIhNNo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:16:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bareilly fitness zone gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243407",
+    "phone_number": "+91 84459 78629",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mini Byp, near Vipin chouraha, Basant Vihar Colony, Ram Nagar Colony, Bareilly, Uttar Pradesh 243122",
+    "area": "Basant Vihar Colony, Ram Nagar Colony",
+    "latitude": 28.3926242,
+    "longitude": 79.4110731,
+    "place_id": "ChIJB-VfL10HoDkRL2iopbSFkE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-VfL10HoDkRL2iopbSFkE0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:03"
+  },
+  {
+    "business_name": "Matrix Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "243407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "GJPM+XVQ, Nawabganj, Uttar Pradesh 262406",
+    "area": "243407",
+    "latitude": 28.5374739,
+    "longitude": 79.63473599999999,
+    "place_id": "ChIJt00HNYARoDkRPwAW3ba-_5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt00HNYARoDkRPwAW3ba-_5g",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:03"
+  }
+]

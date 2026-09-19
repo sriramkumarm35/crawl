@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vetspark Pharmaceuticals",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "243407",
+    "phone_number": "+91 99971 00671",
+    "website": "https://vetsparkpharma.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Defense Enclave Lal Phatak , Badaun, Road, near Doordarshan Kendra, Bareilly, Uttar Pradesh 243004",
+    "area": "243407",
+    "latitude": 28.3093519,
+    "longitude": 79.4145971,
+    "place_id": "ChIJ02KnZqEBoDkR50U9dushFjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02KnZqEBoDkR50U9dushFjM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:03"
+  },
+  {
+    "business_name": "Medical",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "243407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Government Hospital, Main Road Near, Maswasi, Uttar Pradesh 244924",
+    "area": "243407",
+    "latitude": 29.101819,
+    "longitude": 79.0642812,
+    "place_id": "ChIJ6ZONRBBnCjkRcOXNl-mGGtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZONRBBnCjkRcOXNl-mGGtk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:03"
+  }
+]

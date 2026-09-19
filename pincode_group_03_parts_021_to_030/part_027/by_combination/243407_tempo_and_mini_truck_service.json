@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imran truck workshop",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "243407",
+    "phone_number": "+91 63972 82566",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bareilly, Kashipur - Sitarganj Hwy, transport Nagar, Pulbhatta, Kichha, Uttarakhand 263148",
+    "area": "transport Nagar",
+    "latitude": 28.9055854,
+    "longitude": 79.5047646,
+    "place_id": "ChIJK2BrF-N7oDkRe82tZFGXX1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2BrF-N7oDkRe82tZFGXX1s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:11"
+  },
+  {
+    "business_name": "Yamin Tractor Mechanic",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "243407",
+    "phone_number": "+91 97584 46148",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway station, 01, near Senthal, Sethal, Bareilly, Uttar Pradesh 243407",
+    "area": "243407",
+    "latitude": 28.5406567,
+    "longitude": 79.5601756,
+    "place_id": "ChIJTWJAJwAPoDkR2XF0zQYJXD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWJAJwAPoDkR2XF0zQYJXD4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:11"
+  }
+]

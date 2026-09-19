@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APS FARMS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm",
+    "pincode": "243727",
+    "phone_number": "+91 99715 06594",
+    "website": "http://www.peelzfactory.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Babrala chauraha, P.o and village, Khagupra road, Gawan, Uttar Pradesh 243727",
+    "area": "243727",
+    "latitude": 28.4151976,
+    "longitude": 78.3561987,
+    "place_id": "ChIJ0cC6pYk5CzkREYJbj4on7XY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cC6pYk5CzkREYJbj4on7XY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:13:24"
+  },
+  {
+    "business_name": "Dhanyam Organic Superstore",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "243727",
+    "phone_number": "+91 44 2815 7654",
+    "website": "https://www.dhanyam.in/home_",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No. 24, N Boag Rd, Lakshimi Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Lakshimi Colony, T. Nagar",
+    "latitude": 13.0454806,
+    "longitude": 80.24483839999999,
+    "place_id": "ChIJn8lOvk9mUjoRhEv-ZYNTA74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8lOvk9mUjoRhEv-ZYNTA74",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:13:25"
+  }
+]

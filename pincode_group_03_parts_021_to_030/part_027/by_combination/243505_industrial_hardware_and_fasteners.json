@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ns Traders",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "243505",
+    "phone_number": "+91 89791 28785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "03, 100 Futa Rd, Tula Sherpur, Bareilly, Uttar Pradesh 243122",
+    "area": "Tula Sherpur",
+    "latitude": 28.3861904,
+    "longitude": 79.4501344,
+    "place_id": "ChIJuZ5oTTAHoDkRNuHhqzYBbTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZ5oTTAHoDkRNuHhqzYBbTI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:40:04"
+  },
+  {
+    "business_name": "Hindustan Machine Repairing And Retail Center",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "243505",
+    "phone_number": "+91 98083 43739",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "02 Ekta Nagar Kohadapir, Road, opp. Jhulelal Gate, Bareilly, Uttar Pradesh 243122",
+    "area": "Rajendra Nagar",
+    "latitude": 28.385060799999998,
+    "longitude": 79.434192,
+    "place_id": "ChIJ0_e_YGsHoDkRc6gsluNyNCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_e_YGsHoDkRc6gsluNyNCQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:40:06"
+  }
+]

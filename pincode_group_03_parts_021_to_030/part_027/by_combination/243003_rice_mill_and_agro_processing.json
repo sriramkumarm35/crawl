@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.L.Agro Industries Ltd",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "243003",
+    "phone_number": "+91 1800 121 158 158",
+    "website": "https://blagro.org/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "B-31, Rd No. 2, Parsakhera Industrial Area, Bareilly, Parsakhera, Uttar Pradesh 243502",
+    "area": "Parsakhera Industrial Area",
+    "latitude": 28.4273745,
+    "longitude": 79.3565859,
+    "place_id": "ChIJ6e_xKBOoCjkRGND39T3hzE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6e_xKBOoCjkRGND39T3hzE8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:05"
+  },
+  {
+    "business_name": "Raheem Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "243003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Atamanda Road, Samaspur, Dhaunra, Bareilly, Uttar Pradesh 243202",
+    "area": "Samaspur",
+    "latitude": 28.5686532,
+    "longitude": 79.4286008,
+    "place_id": "ChIJSyCCbbQLoDkRZCFcWbNRKA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyCCbbQLoDkRZCFcWbNRKA4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:02:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navtara Restaurant (Pure Veg) by the pearl hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "243504",
+    "phone_number": "+91 92594 81828",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 121,
+    "address": "Nainital Rd, BP Colony, Adarsh Colony, Civil Lines, Rampur, Uttar Pradesh 244926",
+    "area": "BP Colony, Adarsh Colony, Civil Lines",
+    "latitude": 28.7805145,
+    "longitude": 79.02576739999999,
+    "place_id": "ChIJrWHgryKTCjkRk3ELT3Pn2Fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWHgryKTCjkRk3ELT3Pn2Fw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:53"
+  },
+  {
+    "business_name": "Aarif Vegetable Store",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "243504",
+    "phone_number": "+91 81714 74424",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tiliyapur, C.B.Ganj, Bareilly, Uttar Pradesh 243502",
+    "area": "C.B.Ganj",
+    "latitude": 28.431210399999998,
+    "longitude": 79.38457609999999,
+    "place_id": "ChIJacoc_xQHoDkRQJOpsbKTUKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacoc_xQHoDkRQJOpsbKTUKI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:36:55"
+  }
+]

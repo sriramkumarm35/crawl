@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JJ Engineering",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator, Steel construction company",
+    "pincode": "243634",
+    "phone_number": "+91 93809 02802",
+    "website": "http://jjengineering.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "No.146 1a & 1b ,Thodukadu Village & Post, Sriperumbudur, Tamil Nadu 602105",
+    "area": "243634",
+    "latitude": 12.997173799999999,
+    "longitude": 79.9322171,
+    "place_id": "ChIJT55JO2pmUjoRKCiqsEL0ML0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT55JO2pmUjoRKCiqsEL0ML0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:52:11"
+  },
+  {
+    "business_name": "BhatiaS Enterprises",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator, Aluminum window, Double glazing installer, Glass industry, Metal construction company, PVC windows supplier, Railing contractor, Shed builder, Siding contractor, Window supplier",
+    "pincode": "243634",
+    "phone_number": "+91 97714 63500",
+    "website": "http://www.bhatias.co/",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "Bariatu Rd, Deepatoli, Jai Prakash Nagar, Ranchi, Jharkhand 834012",
+    "area": "Deepatoli, Jai Prakash Nagar",
+    "latitude": 23.399618999999998,
+    "longitude": 85.3749483,
+    "place_id": "ChIJzSg3Ro3j9DkRntBk5Tv3N5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSg3Ro3j9DkRntBk5Tv3N5E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:52:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Kumar Travels",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "243402",
+    "phone_number": "+91 96752 60892",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "04, Link Road, Ballia, Bilaspur, Uttar Pradesh 243402",
+    "area": "243402",
+    "latitude": 28.1860713,
+    "longitude": 79.3688044,
+    "place_id": "ChIJ6xSK67VVdTkRy0uhjPPq4UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xSK67VVdTkRy0uhjPPq4UY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:42"
+  },
+  {
+    "business_name": "Lakshya motor driving training school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "243402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pragatidham, Chandrabhaga, Pithoragarh, Uttarakhand 262530",
+    "area": "Chandrabhaga",
+    "latitude": 29.573531799999998,
+    "longitude": 80.20977909999999,
+    "place_id": "ChIJU27jDnMloTkRYYcL_Nj-BfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU27jDnMloTkRYYcL_Nj-BfI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:26:44"
+  }
+]

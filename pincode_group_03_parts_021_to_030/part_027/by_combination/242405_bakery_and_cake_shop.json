@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khutar",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "242405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "163, Puranpur Rd, Narainpur Vikrampur, Khutar, Uttar Pradesh 242405",
+    "area": "242405",
+    "latitude": 28.212111699999998,
+    "longitude": 80.267906,
+    "place_id": "ChIJhavpTwB7nzkR834PQ_mcE8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhavpTwB7nzkR834PQ_mcE8A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:51:42"
+  },
+  {
+    "business_name": "Rathore Egg Corner",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "242405",
+    "phone_number": "+91 70812 87044",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Banda Road, Khutar, Narainpur Vikrampur, Uttar Pradesh 242405",
+    "area": "242405",
+    "latitude": 28.2033053,
+    "longitude": 80.26583509999999,
+    "place_id": "ChIJz4f4kvB7nzkRNVjeWPggVFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4f4kvB7nzkRNVjeWPggVFY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 06:51:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harnam singh",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "243637",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V5VW+MV2, Kakrala West, Kakrala, Uttar Pradesh 243637",
+    "area": "Kakrala West",
+    "latitude": 27.8941339,
+    "longitude": 79.19713229999999,
+    "place_id": "ChIJBTjSEQBDdTkR8BCf-CVQ1Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTjSEQBDdTkR8BCf-CVQ1Z0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:57:23"
+  },
+  {
+    "business_name": "Skyking Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "243637",
+    "phone_number": "+91 96341 28651",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": 8,
+    "address": "V3QF+X35, Rasal Ganj, Aligarh, Uttar Pradesh 202001",
+    "area": "Rasal Ganj",
+    "latitude": 27.8898875,
+    "longitude": 78.0727344,
+    "place_id": "ChIJUZqfD7-ldDkRfJ5Ppo41R34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZqfD7-ldDkRfJ5Ppo41R34",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:57:25"
+  }
+]

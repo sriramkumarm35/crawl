@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RM Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "243501",
+    "phone_number": "+91 84393 71837",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "in front of Mansa Devi Mandir, Karamchari Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Karamchari Nagar",
+    "latitude": 28.3838843,
+    "longitude": 79.39821119999999,
+    "place_id": "ChIJwS9_LtkHoDkRo1iKCGhBpWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS9_LtkHoDkRo1iKCGhBpWc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:35"
+  },
+  {
+    "business_name": "Priyam Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "243501",
+    "phone_number": "+91 78952 57335",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Jama Masjid, Fatehganj Pashchimi, Uttar Pradesh 243501",
+    "area": "243501",
+    "latitude": 28.4624076,
+    "longitude": 79.3051115,
+    "place_id": "ChIJS21Q9NSnCjkRduV6jgLxsec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS21Q9NSnCjkRduV6jgLxsec",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:31:35"
+  }
+]

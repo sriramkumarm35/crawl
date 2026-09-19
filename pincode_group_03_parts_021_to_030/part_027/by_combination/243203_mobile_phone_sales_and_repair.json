@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik iPhone Store",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "243203",
+    "phone_number": "+91 79066 51827",
+    "website": "https://www.malikiphonestore.com/",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "near LIC, Mirganj, Uttar Pradesh 243504",
+    "area": "243203",
+    "latitude": 28.5503169,
+    "longitude": 79.2033453,
+    "place_id": "ChIJP3OtEwajCjkR7un2uYgXzy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3OtEwajCjkR7un2uYgXzy4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:18:26"
+  },
+  {
+    "business_name": "OPPO Service Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Electronics store, Repair service",
+    "pincode": "243203",
+    "phone_number": "+91 92890 10285",
+    "website": "https://www.dainiksurkhiyan.com/",
+    "rating": 4.7,
+    "reviews_count": 1724,
+    "address": "Bareilly College Road Ratna Restaurant Near Chowki Chauraha Near Sagar, Rampur Garden, Bareilly, Uttar Pradesh 243001",
+    "area": "Rampur Garden",
+    "latitude": 28.351096499999997,
+    "longitude": 79.42068069999999,
+    "place_id": "ChIJt-9YidQAoDkRsdJ7TGUPjyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-9YidQAoDkRsdJ7TGUPjyE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:18:29"
+  }
+]

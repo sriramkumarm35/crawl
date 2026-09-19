@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SaladSaa",
+    "search_category": "Organic Food Store",
+    "primary_category": "Salad shop",
+    "all_categories": "Salad shop",
+    "pincode": "243006",
+    "phone_number": "+91 81715 33539",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 39,
+    "address": "Golden Green Park, 198/1, Lane No. 14, Greater Green Park Colony, Green Park Colony, Bareilly, Uttar Pradesh 243006",
+    "area": "Greater Green Park Colony, Green Park Colony",
+    "latitude": 28.363045999999997,
+    "longitude": 79.47213889999999,
+    "place_id": "ChIJt9nDiwYHoDkRu39ww0xb0_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9nDiwYHoDkRu39ww0xb0_w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:07"
+  },
+  {
+    "business_name": "Patanjali Arogya Kendra",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "243006",
+    "phone_number": "+91 63960 98792",
+    "website": "https://patanjalistores.patanjaliayurved.org/patanjali-arogya-kendra-sundaram-traders-indian-grocery-store-dohra-road-bareilly-428421/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": 41,
+    "address": "Infront of Kailash Mansarover Hotel, 293/2, Dohra Road, Super City Twp, Green Park, Bareilly, Dohara, Uttar Pradesh 243006",
+    "area": "Super City Township, Green Park",
+    "latitude": 28.3687276,
+    "longitude": 79.4627347,
+    "place_id": "ChIJwdphRAAHoDkRSI3_OpnFm7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdphRAAHoDkRSI3_OpnFm7c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:08"
+  }
+]

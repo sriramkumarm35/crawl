@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Eye Hospital & Laser Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "243006",
+    "phone_number": "+91 80094 94800",
+    "website": "https://prakasheyehospital.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ln 2, Civil Lines, Doctors Colony, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Civil Lines, Doctors Colony",
+    "latitude": 28.982127499999997,
+    "longitude": 79.3975105,
+    "place_id": "ChIJD7q6Nel_oDkRlPmh6MjZiUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7q6Nel_oDkRlPmh6MjZiUQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:35"
+  },
+  {
+    "business_name": "Drishti Eye Care & Optical Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "243006",
+    "phone_number": "+91 94587 01910",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 17,
+    "address": "opposite of anjanta sweets, near dargamandir, Shahdana Colony, Model Town, Nawada, Bareilly, Uttar Pradesh 243005",
+    "area": "Shahdana Colony, Model Town, Nawada",
+    "latitude": 28.374407599999998,
+    "longitude": 79.4495489,
+    "place_id": "ChIJ6z0deV8HoDkRjVL6LOP1SZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6z0deV8HoDkRjVL6LOP1SZ4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:06:36"
+  }
+]

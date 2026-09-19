@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikash kurmi",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "243203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JHV2+JRC, Khamaria Gopa Dandi, Uttar Pradesh 243203",
+    "area": "243203",
+    "latitude": 28.644070199999998,
+    "longitude": 79.5520033,
+    "place_id": "ChIJQZ93eQBzoDkRzkgwHerKpf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZ93eQBzoDkRzkgwHerKpf8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:57"
+  },
+  {
+    "business_name": "Mohan pipe store",
+    "search_category": "Plumber",
+    "primary_category": "Sanitary inspection",
+    "all_categories": "Sanitary inspection",
+    "pincode": "243203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9C88+446, Kutub Khana Flyover, Chamankoti, Bareilly, Uttar Pradesh 243003",
+    "area": "Chamankoti",
+    "latitude": 28.365282299999997,
+    "longitude": 79.4152502,
+    "place_id": "ChIJD2JxPwAHoDkRdEeE6rzlvtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2JxPwAHoDkRdEeE6rzlvtA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:17:59"
+  }
+]

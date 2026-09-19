@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghuwar Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electronics Company",
+    "pincode": "243720",
+    "phone_number": "+91 98370 84821",
+    "website": "https://instagram.com/raghuwar_enterprises?igshid=MzRlODBiNWFlZA==",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vrindavan Garden, Moradabad Road, bypass, Chandausi, Uttar Pradesh 244412",
+    "area": "bypass",
+    "latitude": 28.467159499999998,
+    "longitude": 78.7823945,
+    "place_id": "ChIJGQppm0XbCjkRQkvSU7YsuRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQppm0XbCjkRQkvSU7YsuRo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:43"
+  },
+  {
+    "business_name": "Pankaj Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop, Electric motor repair shop",
+    "pincode": "243720",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "7WXM+4QQ, near bhagat ji shop, Bisauli, Uttar Pradesh 243720",
+    "area": "243720",
+    "latitude": 28.2978317,
+    "longitude": 78.9344814,
+    "place_id": "ChIJyWNz2vvLCjkRFfzxPg96jFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWNz2vvLCjkRFfzxPg96jFs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:03:44"
+  }
+]

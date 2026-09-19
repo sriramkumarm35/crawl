@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Health Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "243726",
+    "phone_number": "+91 77328 65086",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rama Khera, Rajasthan 312204",
+    "area": "243726",
+    "latitude": 24.8431544,
+    "longitude": 74.2598934,
+    "place_id": "ChIJGW-FPEqAaDkRAa_-YuLw6Gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGW-FPEqAaDkRAa_-YuLw6Gw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:11"
+  },
+  {
+    "business_name": "Baby Care and Vaccination Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "243726",
+    "phone_number": "+91 96692 52978",
+    "website": "https://book-appointment.healthplix.com/dr-dr-batul-husaini-pediatrics-bohra-masjid-chowkb-guna",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bohra Masjid, Chowk, Laxmi Ganj, Guna, Madhya Pradesh 473001",
+    "area": "Laxmi Ganj",
+    "latitude": 24.648681699999997,
+    "longitude": 77.3046869,
+    "place_id": "ChIJK8jyLdZdejkRcpmPardez-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8jyLdZdejkRcpmPardez-E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:12:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fannatraders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "243725",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62RJ+982, Chandausi Rd, Badaun, Saidpur, Raharia, Uttar Pradesh 243725",
+    "area": "Badaun",
+    "latitude": 28.240898899999998,
+    "longitude": 79.0307772,
+    "place_id": "ChIJ1fQAJwC1CjkRcg0ij8U3yuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fQAJwC1CjkRcg0ij8U3yuo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:10:43"
+  },
+  {
+    "business_name": "Rajdhani paint store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "243725",
+    "phone_number": "+91 75050 99568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Main road, Saidpur, Raharia, Uttar Pradesh 243725",
+    "area": "243725",
+    "latitude": 28.2344495,
+    "longitude": 79.02948099999999,
+    "place_id": "ChIJhwtOw_y1CjkR0yh9BNCxxn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwtOw_y1CjkR0yh9BNCxxn8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:10:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash Sports",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "243407",
+    "phone_number": "+91 95680 00011",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Achal Tank, 14/47, GT Rd, near Ramlila Ground, Achal Taal, Aligarh, Uttar Pradesh 202001",
+    "area": "Achal Taal",
+    "latitude": 27.879516799999998,
+    "longitude": 78.077523,
+    "place_id": "ChIJlTjM8FajdDkRKqGT8i4vwIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTjM8FajdDkRKqGT8i4vwIM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:47"
+  },
+  {
+    "business_name": "Sports Field",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Athletic field",
+    "all_categories": "Athletic field",
+    "pincode": "243407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "M.J.P Rohilkahand University, Dohara, Bareilly, Uttar Pradesh 243006",
+    "area": "M.J.P Rohilkahand University",
+    "latitude": 28.3680754,
+    "longitude": 79.458083,
+    "place_id": "ChIJ____C7AGoDkRb19UKZkrq_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____C7AGoDkRb19UKZkrq_k",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 07:30:48"
+  }
+]

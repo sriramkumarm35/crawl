@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "243722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sori, Bihar 824102",
+    "area": "243722",
+    "latitude": 24.695589,
+    "longitude": 84.2452722,
+    "place_id": "ChIJjVrHSHRWjDkRq-lIaO6h-Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVrHSHRWjDkRq-lIaO6h-Q8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:16"
+  },
+  {
+    "business_name": "सर्वोदय हेल्थ क्लीनिक",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "243722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VH7J+R4R, Bar, Uttar Pradesh 284123",
+    "area": "243722",
+    "latitude": 24.8646145,
+    "longitude": 78.5802795,
+    "place_id": "ChIJO_v1dADLeTkR8L2Zh0PB48w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_v1dADLeTkR8L2Zh0PB48w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:05:16"
+  }
+]
