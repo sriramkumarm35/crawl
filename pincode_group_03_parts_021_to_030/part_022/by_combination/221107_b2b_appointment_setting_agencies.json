@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SalesAR",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Internet marketing service",
+    "pincode": "221107",
+    "phone_number": "N/A",
+    "website": "https://salesar.io/",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "Okhtyrsky Lane, Okhtyrskyi Ln, 3, Kyiv, Ukraine, 02000",
+    "area": "Holosiivs'kyi district",
+    "latitude": 50.3940462,
+    "longitude": 30.477908799999998,
+    "place_id": "ChIJVVVltyLM1EARjd7egLK1iGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVltyLM1EARjd7egLK1iGk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:07"
+  },
+  {
+    "business_name": "Kestone",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "221107",
+    "phone_number": "+91 11 4050 8888",
+    "website": "https://kestoneglobal.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1st Floor, Pash Building, A45, Block B, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block B, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.520429999999998,
+    "longitude": 77.29246599999999,
+    "place_id": "ChIJq6qqqmHhDDkRqexJulfiLh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqmHhDDkRqexJulfiLh8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:08"
+  }
+]

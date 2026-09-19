@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kream On Cake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "221112",
+    "phone_number": "+91 94383 49539",
+    "website": "http://www.facebook.com/kreamoncake",
+    "rating": 4.2,
+    "reviews_count": 795,
+    "address": "Shop no-1, Ground Floor, Ginni Enclave, Main Rd, opp. of SD Women's College, Rajgangpur, Odisha 770017",
+    "area": "221112",
+    "latitude": 22.1922861,
+    "longitude": 84.5775554,
+    "place_id": "ChIJ2YN3peNqIDoRJX2JuY5ORfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YN3peNqIDoRJX2JuY5ORfQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:25:48"
+  },
+  {
+    "business_name": "Sufiya Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "221112",
+    "phone_number": "+91 91406 65595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "Masjid Al Quraishi, Shaikh Saleem Fatak, C2/151, Maulvibagh, Nai Sarak, Varanasi, Uttar Pradesh 221010",
+    "area": "Maulvibagh, Nai Sarak",
+    "latitude": 25.3133511,
+    "longitude": 83.0031551,
+    "place_id": "ChIJhwwBWAMujjkRaBYUOncv4yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwwBWAMujjkRaBYUOncv4yI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:25:49"
+  }
+]

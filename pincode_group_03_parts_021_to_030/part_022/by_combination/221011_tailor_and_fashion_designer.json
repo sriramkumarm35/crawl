@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Tailoring Hub",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor, Clothing store",
+    "pincode": "221011",
+    "phone_number": "+91 83185 67105",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "opposite King health Club, Near Sankat Mochan Tiraha, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Near Sankat Mochan Tiraha, Anandbagh, Bhelupur",
+    "latitude": 25.2829612,
+    "longitude": 83.0024613,
+    "place_id": "ChIJa7XSYt4xjjkRdR-LfR7IFr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7XSYt4xjjkRdR-LfR7IFr4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:09"
+  },
+  {
+    "business_name": "Laxmi Ladies Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing alteration service",
+    "all_categories": "Clothing alteration service",
+    "pincode": "221011",
+    "phone_number": "+91 90445 59889",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Chunar Rd, Savitri Market, Chitaipur Chauraha, Gokul Nagar, DLW Colony, Chitaipur, Varanasi, Kanchanpur, Uttar Pradesh 221106",
+    "area": "Savitri Market, Chitaipur Chauraha, Gokul Nagar, DLW Colony, Chitaipur",
+    "latitude": 25.271728,
+    "longitude": 82.967141,
+    "place_id": "ChIJy58eE0YyjjkRnXwudjLmoCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy58eE0YyjjkRnXwudjLmoCY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:12"
+  }
+]

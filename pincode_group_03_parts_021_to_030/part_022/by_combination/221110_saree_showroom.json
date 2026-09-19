@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Trading Company",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "221110",
+    "phone_number": "+91 73908 19014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "Vip Complex, near Bateshwar Hanuman Mandir, Sultanpur, Ramnagar, Varanasi, Uttar Pradesh 221008",
+    "area": "Sultanpur",
+    "latitude": 25.2678963,
+    "longitude": 83.0303555,
+    "place_id": "ChIJxxZuVoMxjjkRznQjbub9YXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxZuVoMxjjkRznQjbub9YXk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:24:07"
+  },
+  {
+    "business_name": "Shree Kala Niketan",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "221110",
+    "phone_number": "+91 542 240 1586",
+    "website": "https://shreekalaniketan.in/",
+    "rating": 3.2,
+    "reviews_count": 44,
+    "address": "8255+JFG, Dashashwamedh Ghat Rd, Lahori Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Lahori Tola",
+    "latitude": 25.309055599999997,
+    "longitude": 83.00870619999999,
+    "place_id": "ChIJ19PY5h0ujjkR_TO49I7HaRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19PY5h0ujjkR_TO49I7HaRw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:24:07"
+  }
+]

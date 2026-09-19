@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Her Dzire",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Women's clothing store",
+    "pincode": "221103",
+    "phone_number": "+91 88876 05883",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Mahmoorganj",
+    "latitude": 25.3023582,
+    "longitude": 82.9762286,
+    "place_id": "ChIJ7xG2xQsyjjkRKsV-GEFw_fI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xG2xQsyjjkRKsV-GEFw_fI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:58"
+  },
+  {
+    "business_name": "Suit N Soul",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "221103",
+    "phone_number": "+91 73881 69555",
+    "website": "https://www.suitnsoul.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2C/2, Akash Builders Colony, D-65/145, Lahartara, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Maheshpur",
+    "latitude": 25.316350699999997,
+    "longitude": 82.9730064,
+    "place_id": "ChIJPb0b6dstjjkRRYFJwDjBgNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb0b6dstjjkRRYFJwDjBgNA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:58"
+  }
+]

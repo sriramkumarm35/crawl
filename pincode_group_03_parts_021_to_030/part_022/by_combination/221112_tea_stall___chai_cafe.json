@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Cafe KING",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Food Processing Company",
+    "pincode": "221112",
+    "phone_number": "+91 93411 27991",
+    "website": "https://chaicafeking.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bela Rd, near hotel Buddha park, Varanasi, Goppur, Uttar Pradesh 221007",
+    "area": "221112",
+    "latitude": 25.4216443,
+    "longitude": 83.01354549999999,
+    "place_id": "ChIJWWtqBBkpjjkRK3SNnlIdoUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWtqBBkpjjkRK3SNnlIdoUI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:25:49"
+  },
+  {
+    "business_name": "JAISWAL TEA COMPANY",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "221112",
+    "phone_number": "+91 63062 07795",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no-21, Neta ji market, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Maldahiya, Chetganj",
+    "latitude": 25.3242847,
+    "longitude": 82.9912944,
+    "place_id": "ChIJC9c2JuItjjkRho57OqmB35k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9c2JuItjjkRho57OqmB35k",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:25:50"
+  }
+]

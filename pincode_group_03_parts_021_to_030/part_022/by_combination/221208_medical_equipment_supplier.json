@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Herbal medicine store",
+    "pincode": "221208",
+    "phone_number": "+91 85745 69780",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sindhora bazar, Uttar Pradesh 221208",
+    "area": "Sindhora",
+    "latitude": 25.535724199999997,
+    "longitude": 82.9338752,
+    "place_id": "ChIJGayfYwvVkTkRfFr_GldGlF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGayfYwvVkTkRfFr_GldGlF4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:45"
+  },
+  {
+    "business_name": "Pradhanmantri Jan Aushadhi Kendra",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "221208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sindhora bazar, Uttar Pradesh 221208",
+    "area": "Sindhora",
+    "latitude": 25.534301499999998,
+    "longitude": 82.93296579999999,
+    "place_id": "ChIJsdJeCurVkTkRXC0vf5mPfgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdJeCurVkTkRXC0vf5mPfgU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:46"
+  }
+]

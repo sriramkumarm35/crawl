@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Shanti Health Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221008",
+    "phone_number": "+91 91299 73868",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bandha Road, near Khorabir Baba Mandir, Padav, Varanasi, Uttar Pradesh 232101",
+    "area": "Padav, Jalil Pur",
+    "latitude": 25.3173884,
+    "longitude": 83.04569839999999,
+    "place_id": "ChIJ7WaG6rEvjjkRU5tC6lYL6UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WaG6rEvjjkRU5tC6lYL6UE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:59:55"
+  },
+  {
+    "business_name": "Medanta Labs - Teliyabag, Varanasi",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "221008",
+    "phone_number": "+91 124 483 4542",
+    "website": "https://www.medanta.org/medanta-labs",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Piyariya Pokhari, S 12/10, Teliyabag, Varanasi, Uttar Pradesh 221002",
+    "area": "Teliyabag",
+    "latitude": 25.329546999999998,
+    "longitude": 82.996213,
+    "place_id": "ChIJt2515xIvjjkRZuYykH504CY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2515xIvjjkRZuYykH504CY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:59:56"
+  }
+]

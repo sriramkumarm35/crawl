@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kayaa’s",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "221103",
+    "phone_number": "+91 93354 71257",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "D 59/235-B-3 (Kh), Shiv Purwa,, Nirala Nagar, Jai Prakash Nagar, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Nirala Nagar, Jai Prakash Nagar, Mahmoorganj",
+    "latitude": 25.309676999999997,
+    "longitude": 82.97856399999999,
+    "place_id": "ChIJPYz08vYtjjkRVe6SuWXsEFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYz08vYtjjkRVe6SuWXsEFc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:31"
+  },
+  {
+    "business_name": "Adorn",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic, Hair extension technician",
+    "pincode": "221103",
+    "phone_number": "+91 83185 05331",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 84,
+    "address": "Ranipur, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Ranipur, Mahmoorganj",
+    "latitude": 25.299288999999998,
+    "longitude": 82.9753724,
+    "place_id": "ChIJM7MwbAwyjjkRpu1ilRD9A3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7MwbAwyjjkRpu1ilRD9A3Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furniture shop",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "221110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bypass, Bhiti chowki bypass chouraha, near police chowki, Ramnagar, Varanasi, Uttar Pradesh 221008",
+    "area": "Ram nagar",
+    "latitude": 25.2580262,
+    "longitude": 83.0363605,
+    "place_id": "ChIJl20qN00xjjkR-kbDsgTxARw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl20qN00xjjkR-kbDsgTxARw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:24:48"
+  },
+  {
+    "business_name": "Koina Furniture Studio",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "221110",
+    "phone_number": "+91 73070 98502",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Khasra no. 496, First Floor, Shri Ramprabha Complex, Sahitayanaka (Value Plus Store Building, Ram nagar, Ramnagar, Bhitti, Uttar Pradesh 221008",
+    "area": "Ram nagar",
+    "latitude": 25.2617776,
+    "longitude": 83.0329821,
+    "place_id": "ChIJgYpU_FUxjjkRpH8iI4Wxvik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYpU_FUxjjkRpH8iI4Wxvik",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:24:48"
+  }
+]

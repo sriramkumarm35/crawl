@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TanSam",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Meal delivery",
+    "pincode": "221103",
+    "phone_number": "+91 70072 70106",
+    "website": "https://www.facebook.com/pg/tansambytanushree/reviews/",
+    "rating": 3.8,
+    "reviews_count": 108,
+    "address": "Amlalaya, Lahartara, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Maheshpur",
+    "latitude": 25.3160714,
+    "longitude": 82.969163,
+    "place_id": "ChIJD5t9ikwtjjkRasgAtvjgTo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5t9ikwtjjkRasgAtvjgTo8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:41"
+  },
+  {
+    "business_name": "SHREE BAKERS",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "221103",
+    "phone_number": "+91 76180 00036",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "Lahartara bridge, Golghar, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Golghar, Bazardiha, Maheshpur",
+    "latitude": 25.3176779,
+    "longitude": 82.9735432,
+    "place_id": "ChIJQx8sAwDljzkRkf3cBA7_svg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQx8sAwDljzkRkf3cBA7_svg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:41"
+  }
+]

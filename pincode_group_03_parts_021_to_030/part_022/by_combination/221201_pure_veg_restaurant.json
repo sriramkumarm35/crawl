@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Eatery",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221201",
+    "phone_number": "+91 94523 95539",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 42,
+    "address": "Suddhipur, Shivpur, Varanasi, Uttar Pradesh 221003",
+    "area": "Suddhipur, Shivpur",
+    "latitude": 25.3608726,
+    "longitude": 82.95630369999999,
+    "place_id": "ChIJJxtsYnItjjkReBPoIQ0710I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxtsYnItjjkReBPoIQ0710I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:13"
+  },
+  {
+    "business_name": "Siddharth Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "221201",
+    "phone_number": "+91 81770 63029",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "8XGQ+626, Cantt Rd, Pared Kothi, Vijay Nagar Colony, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Pared Kothi, Vijay Nagar Colony, Chetganj",
+    "latitude": 25.325529099999997,
+    "longitude": 82.9875248,
+    "place_id": "ChIJSS85JLItjjkRH4LiTb148nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS85JLItjjkRH4LiTb148nE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:16"
+  }
+]

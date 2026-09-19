@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matri Kripa Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "221106",
+    "phone_number": "+91 93359 80700",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D 64/39 Sigra - Mahmoorganj Rd Near Mahmoorganj Road, Back Side Padmini Hotel, near Dr. Rohit Gupta, Bank Colony, Chhittupura, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Bank Colony, Chhittupura, Sigra",
+    "latitude": 25.3084419,
+    "longitude": 82.9834891,
+    "place_id": "ChIJTXq6FPgtjjkR5hXDxAKv1vQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXq6FPgtjjkR5hXDxAKv1vQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:16:49"
+  },
+  {
+    "business_name": "Ishita boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "221106",
+    "phone_number": "+91 86040 03364",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "D61/38E7, Sigra Chauraha Rd, Sidhgiribagh, Varanasi, Uttar Pradesh 221002",
+    "area": "Sidhgiribagh",
+    "latitude": 25.314682899999998,
+    "longitude": 82.9890841,
+    "place_id": "ChIJ4_P5SE0vjjkRhQbvhiqqypY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_P5SE0vjjkRhQbvhiqqypY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:16:51"
+  }
+]

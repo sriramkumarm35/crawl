@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divine Amul parlor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "221103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Plot no. 40, front of kabir math, 15, Lahartara Rd, Lahartara, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Maheshpur",
+    "latitude": 25.313142799999998,
+    "longitude": 82.9673921,
+    "place_id": "ChIJ3RmS8XstjjkRk1VZs_t8Rko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RmS8XstjjkRk1VZs_t8Rko",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:47"
+  },
+  {
+    "business_name": "Mahadev Sattu Lassi Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "221103",
+    "phone_number": "+91 95451 65605",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sushil Kumar Gupta, Lehertara Industrial Estate, Chandpur, Varanasi, Uttar Pradesh 221106",
+    "area": "Lehertara Industrial Estate",
+    "latitude": 25.303856,
+    "longitude": 82.9568772,
+    "place_id": "ChIJ-chDhugzjjkRoKKOW7E0U_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-chDhugzjjkRoKKOW7E0U_o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:50"
+  }
+]

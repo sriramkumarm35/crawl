@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajpoot Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Fast food restaurant, Tea house, Vegetarian restaurant",
+    "pincode": "221201",
+    "phone_number": "+91 73559 62382",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 11489,
+    "address": "7CW4+6MF, Grand Trunk Rd, Gopiganj, Chak Parauna, Uttar Pradesh 221303",
+    "area": "221201",
+    "latitude": 25.2963266,
+    "longitude": 82.4070644,
+    "place_id": "ChIJxQD3ekHljzkRikOV4NW1i_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQD3ekHljzkRikOV4NW1i_w",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:14"
+  },
+  {
+    "business_name": "Ananya Dhaba and restaurant veg and nonveg",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221201",
+    "phone_number": "+91 99199 37327",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "highway road, Pindra, Uttar Pradesh 221206",
+    "area": "221201",
+    "latitude": 25.4786987,
+    "longitude": 82.8049173,
+    "place_id": "ChIJkxrKlZ3XjzkRVxVib4NS99w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxrKlZ3XjzkRVxVib4NS99w",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Ganga Bahar",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Sweet shop",
+    "pincode": "221108",
+    "phone_number": "+91 83181 03788",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Psc South Gate, Bhulanpur PAC, Bhullanpur, Varanasi, Nathupur, Uttar Pradesh 221108",
+    "area": "Bhulanpur PAC, Bhullanpur",
+    "latitude": 25.2872681,
+    "longitude": 82.9446624,
+    "place_id": "ChIJ2eesgVwyjjkRh7BoouW3lYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2eesgVwyjjkRh7BoouW3lYM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:21"
+  },
+  {
+    "business_name": "SS Sales And Services",
+    "search_category": "Patisserie",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store, Beverage Store, Cookie shop, Exporter, Wholesale Food Store, Wholesaler",
+    "pincode": "221108",
+    "phone_number": "+91 80 6267 9607",
+    "website": "https://www.sssalesandservices.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No 48, Gangapuri Colony, Lahartara, Maheshpur, Varanasi, Uttar Pradesh 221106",
+    "area": "Gangapuri Colony, Lahartara, Maheshpur",
+    "latitude": 25.3129338,
+    "longitude": 82.9600377,
+    "place_id": "ChIJHXMCHh0tjjkRT3cfQAOnDLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXMCHh0tjjkRT3cfQAOnDLE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:22"
+  }
+]

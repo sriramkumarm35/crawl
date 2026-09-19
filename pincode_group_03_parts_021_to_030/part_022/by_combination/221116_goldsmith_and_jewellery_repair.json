@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suman Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "221116",
+    "phone_number": "+91 94312 51837",
+    "website": "https://sumanya.co/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Saheb Ganj Sonar Patti, Chota Telpa, Chapra, Athasia, Bihar 841301",
+    "area": "Chota Telpa",
+    "latitude": 25.7778307,
+    "longitude": 84.74725839999999,
+    "place_id": "ChIJY6SPfcG6kjkRcl1Vv2cGncA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6SPfcG6kjkRcl1Vv2cGncA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:38"
+  },
+  {
+    "business_name": "Thyagu Silver Works",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Silversmith",
+    "all_categories": "Silversmith",
+    "pincode": "221116",
+    "phone_number": "+91 82480 19069",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "37, Thambiah Rd, Ramakrishnapuram, West Mambalam, Chennai, Tamil Nadu 600033",
+    "area": "Ramakrishnapuram, West Mambalam",
+    "latitude": 13.044766,
+    "longitude": 80.2256293,
+    "place_id": "ChIJVeNH1zFnUjoRP7fRlSbiPKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeNH1zFnUjoRP7fRlSbiPKs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:40"
+  }
+]

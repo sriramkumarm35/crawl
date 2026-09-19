@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SADHANA COMPUTER",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "221116",
+    "phone_number": "+91 96161 29305",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "BELVA BABA, Soyepur, Varanasi, Uttar Pradesh 221007",
+    "area": "BELVA BABA",
+    "latitude": 25.3776627,
+    "longitude": 82.9939278,
+    "place_id": "ChIJ9aCSDyUvjjkRPbfzEUoKLsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9aCSDyUvjjkRPbfzEUoKLsE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:37"
+  },
+  {
+    "business_name": "Cyber Cafe / Jan Sewa Kendra / Digital CSC",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "221116",
+    "phone_number": "+91 72378 39893",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Awadhipur, Chaubepur, Uttar Pradesh 221104",
+    "area": "221116",
+    "latitude": 25.435240099999998,
+    "longitude": 83.1077765,
+    "place_id": "ChIJzU8GfEknjjkRqCwMldqhod0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU8GfEknjjkRqCwMldqhod0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:38"
+  }
+]

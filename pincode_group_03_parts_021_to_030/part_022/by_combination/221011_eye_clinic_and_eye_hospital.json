@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221011",
+    "phone_number": "+91 70713 39785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 41,
+    "address": "Near Lathiya, panchkoshi marg, chauraha, Kandwa, Varanasi, Uttar Pradesh 221011",
+    "area": "chauraha, Bari bazar",
+    "latitude": 25.251508299999998,
+    "longitude": 82.9380315,
+    "place_id": "ChIJQRpv9dozjjkREXQ3kRz_Lug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRpv9dozjjkREXQ3kRz_Lug",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:20"
+  },
+  {
+    "business_name": "Dr.Pradhan Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital",
+    "pincode": "221011",
+    "phone_number": "+91 79852 65636",
+    "website": "https://book-appointment.healthplix.com/dr-rahul-pradhan-ophthalmology-upasana-nagar-varanasi",
+    "rating": 4.6,
+    "reviews_count": 38,
+    "address": "Unnamed Road, Amara Village, Bari bazar, Varanasi, Akhileshpur, Uttar Pradesh 221106",
+    "area": "Amara Village, Bari bazar",
+    "latitude": 25.252266,
+    "longitude": 82.95696,
+    "place_id": "ChIJX4tpMGszjjkRzYQfpcm-l60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4tpMGszjjkRzYQfpcm-l60",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:20"
+  }
+]

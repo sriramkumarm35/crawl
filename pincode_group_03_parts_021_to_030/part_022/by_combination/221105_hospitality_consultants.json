@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bankedge Varanasi",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "221105",
+    "phone_number": "+91 94559 13424",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bankedge 2nd Floor, above Union Bank of India, next to Hotel Santoor, Near Punjab National Bank Mahmoorganj ATM, Sigra, Varanasi, Uttar Pradesh 221010",
+    "area": "Near Punjab National Bank Mahmoorganj ATM, Sigra",
+    "latitude": 25.3093586,
+    "longitude": 82.9883207,
+    "place_id": "ChIJTdj4wjgtjjkRSwybHvCmtm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdj4wjgtjjkRSwybHvCmtm8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:39"
+  },
+  {
+    "business_name": "Hiresight Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Computer support and services, Payroll Service Provider, Security service",
+    "pincode": "221105",
+    "phone_number": "+91 79057 45044",
+    "website": "http://www.hiresightservices.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ranipur Rd, Shivraj Nagar Colony, Mahmoorganj, Varanasi, Uttar Pradesh 221106",
+    "area": "Shivraj Nagar Colony, Mahmoorganj",
+    "latitude": 25.297238999999998,
+    "longitude": 82.9772417,
+    "place_id": "ChIJG7m08uMzjjkRrDsFsxbQYW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7m08uMzjjkRrDsFsxbQYW8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:41"
+  }
+]

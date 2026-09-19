@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surana Sons",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Appliance store, Gift shop, Glassware store",
+    "pincode": "221112",
+    "phone_number": "+91 92033 16661",
+    "website": "http://www.suranasons.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Malviya Road, Near Head Post Office, Malviya Rd, Raipur, Chhattisgarh 492001",
+    "area": "Ganeshram Nagar",
+    "latitude": 21.2422875,
+    "longitude": 81.6361048,
+    "place_id": "ChIJx3H4tJDdKDoRMu7ozJH_E8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3H4tJDdKDoRMu7ozJH_E8U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:49"
+  },
+  {
+    "business_name": "Shri Tirupati Stores",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Religious goods store",
+    "pincode": "221112",
+    "phone_number": "+91 99366 97521",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Shop No.D45/3, Luxa Rd, Near Luxa Thana,Opposite Muthoot Finance,Near Ramkrishna Mission, Gurubagh, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Near Luxa Thana,Opposite Muthoot Finance,Near Ramkrishna Mission, Gurubagh, Bhelupur",
+    "latitude": 25.3079537,
+    "longitude": 82.9981806,
+    "place_id": "ChIJU8Go8AEujjkR9XG5Ph8WftA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8Go8AEujjkR9XG5Ph8WftA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:51"
+  }
+]

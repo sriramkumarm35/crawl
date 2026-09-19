@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WINGS HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment, Talent agency",
+    "pincode": "221103",
+    "phone_number": "N/A",
+    "website": "https://wingshr.in/",
+    "rating": 4.1,
+    "reviews_count": 40,
+    "address": "WINGS HR, 221103, India",
+    "area": "221103",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJZ3mcfwjBwjsR-qnXypVaQkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3mcfwjBwjsR-qnXypVaQkQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:12:04"
+  },
+  {
+    "business_name": "Dansk Hr Service",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "221103",
+    "phone_number": "N/A",
+    "website": "https://dhrs.dk/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Dansk Hr Service, 221103, India",
+    "area": "221103",
+    "latitude": 56.23008,
+    "longitude": 11.542499999999999,
+    "place_id": "ChIJpxocP3-P9qwRF2VfeU-aWUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxocP3-P9qwRF2VfeU-aWUM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:12:05"
+  }
+]

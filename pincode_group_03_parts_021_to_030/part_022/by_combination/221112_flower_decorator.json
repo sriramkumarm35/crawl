@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Florist & Decorator",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Florist, Flower delivery",
+    "pincode": "221112",
+    "phone_number": "+91 99674 09869",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Office No.1, Room No.6, Sant Krupa Chawl, Datta Mandir Rd, Kandivali, Kandivalis Dharavi, Dahanukar Wadi, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Kandivalis Dharavi, Dahanukar Wadi, Kandivali West",
+    "latitude": 19.210493,
+    "longitude": 72.8345032,
+    "place_id": "ChIJF2TFpZ635zsRePcr2C7AyIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2TFpZ635zsRePcr2C7AyIM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:43"
+  },
+  {
+    "business_name": "Fresh Petal",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "221112",
+    "phone_number": "+91 82925 96594",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 12,
+    "address": "8, Panchwati Gali, Central Bank, Kacchap Complex, Kanke Road, Ranchi, Jharkhand 834008",
+    "area": "Jawahar Nagar, Hatma",
+    "latitude": 23.3939079,
+    "longitude": 85.3144238,
+    "place_id": "ChIJEb0ykifh9DkR72KfkjkkzQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEb0ykifh9DkR72KfkjkkzQM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:44"
+  }
+]

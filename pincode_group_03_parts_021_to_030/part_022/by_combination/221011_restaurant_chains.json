@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB Mountain MoMo",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chinese restaurant",
+    "pincode": "221011",
+    "phone_number": "+91 79057 16259",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Saraidangari Kala Bhagwatipur, near R S Public School, Tikari, Varanasi, Uttar Pradesh 221011",
+    "area": "221011",
+    "latitude": 25.227471599999998,
+    "longitude": 82.9731243,
+    "place_id": "ChIJC9nsx4UzjjkRzqX8vWvlNjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9nsx4UzjjkRzqX8vWvlNjY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:06"
+  },
+  {
+    "business_name": "The Burger Company",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221011",
+    "phone_number": "+91 542 407 9469",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 315,
+    "address": "B28, 1B, Lanka Rd, Anandbagh, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Anandbagh, Lanka",
+    "latitude": 25.2856928,
+    "longitude": 83.0002909,
+    "place_id": "ChIJF0x-4fkxjjkRtRU1FCxk9TA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0x-4fkxjjkRtRU1FCxk9TA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:08"
+  }
+]

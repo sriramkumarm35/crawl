@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Book & Stationery Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "221104",
+    "phone_number": "+91 96955 87882",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 86,
+    "address": "New St John's Colony, Kanchan Vihar Colony, Manduwadih, Varanasi, Manrauli, Uttar Pradesh 221108",
+    "area": "New St John's Colony, Kanchan Vihar Colony, Manduwadih",
+    "latitude": 25.2964509,
+    "longitude": 82.9512925,
+    "place_id": "ChIJ_bRKXEEzjjkRbAnYTSBTcD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bRKXEEzjjkRbAnYTSBTcD8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:13:47"
+  },
+  {
+    "business_name": "Manoj Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Bag shop, Book store",
+    "pincode": "221104",
+    "phone_number": "+91 94152 94190",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 36,
+    "address": "Shop Number 61, Gumti Market, Near DLW Inter College DLW, Jalal Patti, Uttar Pradesh 221004",
+    "area": "Central market DLW, Bhullanpur",
+    "latitude": 25.281876099999998,
+    "longitude": 82.9536679,
+    "place_id": "ChIJUYZznGAyjjkRNDgXsJq1SoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYZznGAyjjkRNDgXsJq1SoM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:13:47"
+  }
+]

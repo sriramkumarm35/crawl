@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rama Enterprises",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electronics wholesaler, Refrigerator store",
+    "pincode": "221201",
+    "phone_number": "+91 88829 59297",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kundi bazar, Varanasi, Dinapur, Uttar Pradesh 221204",
+    "area": "221201",
+    "latitude": 25.4023871,
+    "longitude": 82.7903461,
+    "place_id": "ChIJEy-xu63XjzkRvtFFuWMwD8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy-xu63XjzkRvtFFuWMwD8U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:32:26"
+  },
+  {
+    "business_name": "Roshan Rajbhar store",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Electronics Accessories Wholesaler",
+    "all_categories": "Electronics Accessories Wholesaler, Service establishment",
+    "pincode": "221201",
+    "phone_number": "+91 95111 75697",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Roshan Rajbhar store, 221201, India",
+    "area": "221201",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ9bodD-3XjzkR5MYOssB-S-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bodD-3XjzkR5MYOssB-S-A",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:32:29"
+  }
+]

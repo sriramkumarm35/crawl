@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "221109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Rairangpur, Odisha 757043",
+    "area": "221109",
+    "latitude": 22.2583211,
+    "longitude": 86.1712656,
+    "place_id": "ChIJYSuuNgANHjoRXf0qKG-tu-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSuuNgANHjoRXf0qKG-tu-4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:30"
+  },
+  {
+    "business_name": "CSC and Insurance center",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Business banking service",
+    "pincode": "221109",
+    "phone_number": "+91 85650 75548",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5RX3+J2H, Marui, Uttar Pradesh 221305",
+    "area": "221109",
+    "latitude": 25.1990625,
+    "longitude": 82.8026094,
+    "place_id": "ChIJ3xES6-DJjzkRaaIHOrB7zwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xES6-DJjzkRaaIHOrB7zwU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:30"
+  }
+]

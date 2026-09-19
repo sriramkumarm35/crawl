@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "devil icecream shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "221206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Industrial Area, Karkhiyaon, Uttar Pradesh 221206",
+    "area": "Industrial Area",
+    "latitude": 25.530747599999998,
+    "longitude": 82.8075032,
+    "place_id": "ChIJTSLmh8YpkDkR-IYaKxZcPhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSLmh8YpkDkR-IYaKxZcPhk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:36:51"
+  },
+  {
+    "business_name": "Ankit Bakers and Icecream Parlour Makara Chauraha,Trilochan Mahadev,Jaunpur",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "221206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Makar Chouraha,trilochan mahadev, Uttar Pradesh 222136",
+    "area": "221206",
+    "latitude": 25.564694,
+    "longitude": 82.7886707,
+    "place_id": "ChIJecuyWwApkDkR7QL7fqWcWbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecuyWwApkDkR7QL7fqWcWbw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:36:51"
+  }
+]

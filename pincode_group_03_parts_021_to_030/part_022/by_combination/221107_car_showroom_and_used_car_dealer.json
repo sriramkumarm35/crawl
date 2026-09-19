@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfa Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "221107",
+    "phone_number": "+91 88108 39160",
+    "website": "https://alfamotorscare.shop/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near True Value Rohaniya, Balirampur, Jagatpur, Varanasi, Uttar Pradesh 221302",
+    "area": "Balirampur",
+    "latitude": 25.2842175,
+    "longitude": 82.9157321,
+    "place_id": "ChIJadZDnUkzjjkRIO9iqt1KWdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadZDnUkzjjkRIO9iqt1KWdA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:58"
+  },
+  {
+    "business_name": "Sabari Motors Luxery Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "221107",
+    "phone_number": "+91 81141 95257",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Badasur Gate, Rohana, Balirampur, Narur, Varanasi, Uttar Pradesh 221108",
+    "area": "Rohana, Balirampur",
+    "latitude": 25.284298,
+    "longitude": 82.9173304,
+    "place_id": "ChIJY4IZ_PYzjjkRV6m3wQl2aOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4IZ_PYzjjkRV6m3wQl2aOg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:58"
+  }
+]

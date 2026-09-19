@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Bekars & Icecreem",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Ice cream shop",
+    "pincode": "221204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Barema, Rameshwar, Varanasi, Uttar Pradesh 221405",
+    "area": "221204",
+    "latitude": 25.367466699999998,
+    "longitude": 82.84928219999999,
+    "place_id": "ChIJgapr-bzTjzkRUK-SjRZwH_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgapr-bzTjzkRUK-SjRZwH_o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:56"
+  },
+  {
+    "business_name": "Shivani Fast Food &Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "221204",
+    "phone_number": "+91 99350 03142",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shivani Fast Food, Baragaon, Uttar Pradesh 221204",
+    "area": "221204",
+    "latitude": 25.4290965,
+    "longitude": 82.82327699999999,
+    "place_id": "ChIJx1jxIj_VjzkRbJ3bmsjIWOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1jxIj_VjzkRbJ3bmsjIWOI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:58"
+  }
+]

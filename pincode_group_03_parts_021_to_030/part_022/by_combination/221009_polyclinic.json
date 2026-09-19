@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAM Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221009",
+    "phone_number": "+91 63924 10456",
+    "website": "https://samhospital.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ward No. 14, Gandhi Nagar, Bazaar, Gautam Nagar, Chandauli, Uttar Pradesh 232104",
+    "area": "Gautam Nagar",
+    "latitude": 25.2593522,
+    "longitude": 83.2654685,
+    "place_id": "ChIJuRCq4DoWjjkRaGR6gu9hghE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRCq4DoWjjkRaGR6gu9hghE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:01:43"
+  },
+  {
+    "business_name": "Jd hospital maheshua",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "889R+X98, Market road, Nai Bazaar, Nai Bazar, Uttar Pradesh 232108",
+    "area": "221009",
+    "latitude": 25.3199164,
+    "longitude": 83.3409425,
+    "place_id": "ChIJB7b46K8RjjkRWVQI5sgeiMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7b46K8RjjkRWVQI5sgeiMU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:01:43"
+  }
+]

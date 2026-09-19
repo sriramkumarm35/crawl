@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221006",
+    "phone_number": "+91 63935 05026",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lal Bahadur Shastri International Airport, Varanasi, Babatpur, Varanasi, Uttar Pradesh 221006",
+    "area": "221006",
+    "latitude": 25.449156799999997,
+    "longitude": 82.8466993,
+    "place_id": "ChIJaagm8JTVjzkRn_5vWKz3Joo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaagm8JTVjzkRn_5vWKz3Joo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:55:50"
+  },
+  {
+    "business_name": "Dinesh Chat Bhandar and fast food corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221006",
+    "phone_number": "+91 79056 43849",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Maqbool Alam Rd, Tulsi Vihar Colony, Khajuri Colony, Varanasi, Uttar Pradesh 221002",
+    "area": "Tulsi Vihar Colony, Khajuri Colony",
+    "latitude": 25.3377679,
+    "longitude": 82.9956888,
+    "place_id": "ChIJ6Y0JCXYujjkR6WOBec49h5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Y0JCXYujjkR6WOBec49h5s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:55:52"
+  }
+]

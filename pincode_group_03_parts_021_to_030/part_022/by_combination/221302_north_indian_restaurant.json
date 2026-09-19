@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Curry",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "Curry House Restaurant Hotel kaushik, Varanasi, Bhadawar, Uttar Pradesh 221311",
+    "area": "221302",
+    "latitude": 25.258948399999998,
+    "longitude": 82.9133475,
+    "place_id": "ChIJwWDBFrMzjjkRNpVJqQbAbHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWDBFrMzjjkRNpVJqQbAbHg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:43:56"
+  },
+  {
+    "business_name": "Hotel Kaushik And Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Banquet hall, Hotel, Wedding venue",
+    "pincode": "221302",
+    "phone_number": "+91 94526 31237",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "NH2, Bhadawar, near Heritage Medical College, Varanasi, Uttar Pradesh 221311",
+    "area": "221302",
+    "latitude": 25.2588406,
+    "longitude": 82.9132996,
+    "place_id": "ChIJr46JYtYyjjkRk90GQfLLOEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr46JYtYyjjkRk90GQfLLOEs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:43:58"
+  }
+]

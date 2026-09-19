@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GUPTA AUTOMOBILES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Two Wheeler Dealer",
+    "pincode": "221103",
+    "phone_number": "+91 96964 80905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lahartara, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Maheshpur",
+    "latitude": 25.3171701,
+    "longitude": 82.9731473,
+    "place_id": "ChIJK9HeiWMtjjkR7QTe-78w7Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9HeiWMtjjkR7QTe-78w7Sc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:14"
+  },
+  {
+    "business_name": "Sardar auto Store's",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "221103",
+    "phone_number": "+91 83184 37811",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Lahartara Rd, near Devin Sainik School, Manduwadih, Shivdaspur, Varanasi, Uttar Pradesh 221103",
+    "area": "Manduwadih",
+    "latitude": 25.307686699999998,
+    "longitude": 82.9676825,
+    "place_id": "ChIJ0xzZLCgtjjkRD4FTP0FrLeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xzZLCgtjjkRD4FTP0FrLeU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:14"
+  }
+]

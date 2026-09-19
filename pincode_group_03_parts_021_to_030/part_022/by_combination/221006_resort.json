@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Royal Country Club",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "221006",
+    "phone_number": "+91 81278 03914",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Lucknow - Varanasi Rd, Sarayswami, Uttar Pradesh 221105",
+    "area": "221006",
+    "latitude": 25.414365699999998,
+    "longitude": 82.8823932,
+    "place_id": "ChIJ95ObMZTUjzkRMuO-O5_DQdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95ObMZTUjzkRMuO-O5_DQdc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:56:42"
+  },
+  {
+    "business_name": "Kps resort mangari babatpur",
+    "search_category": "Resort",
+    "primary_category": "Park",
+    "all_categories": "Park",
+    "pincode": "221006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Mangari, Babatpur, Uttar Pradesh 221006",
+    "area": "Mangari",
+    "latitude": 25.448558199999997,
+    "longitude": 82.8811511,
+    "place_id": "ChIJz1fPfwDVjzkR8Uf7sTlZmbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1fPfwDVjzkR8Uf7sTlZmbQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:56:44"
+  }
+]

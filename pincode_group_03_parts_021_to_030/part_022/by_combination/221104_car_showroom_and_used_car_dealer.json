@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "221104",
+    "phone_number": "+91 94525 18181",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Chandra Green, Shivpur Bypass Rd, Bharilayi, Varanasi, Uttar Pradesh 221003",
+    "area": "Bharilayi",
+    "latitude": 25.360005899999997,
+    "longitude": 82.943467,
+    "place_id": "ChIJyZP_cwAtjjkRtbVbLsX4mLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZP_cwAtjjkRtbVbLsX4mLE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:13:08"
+  },
+  {
+    "business_name": "NEXA (AGR Automobiles, Varanasi, Harhua)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "221104",
+    "phone_number": "+91 80 6251 1477",
+    "website": "https://www.nexaofharhua.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "rating": 4.7,
+    "reviews_count": 2131,
+    "address": "Arazi no - 285, 286 Luccherpur, Pargana-Athgawa, Pindra, Harhua, Uttar Pradesh 221105",
+    "area": "221104",
+    "latitude": 25.392476199999997,
+    "longitude": 82.89408329999999,
+    "place_id": "ChIJly2GBGItjjkR-e44hrx_95Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJly2GBGItjjkR-e44hrx_95Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:13:09"
+  }
+]

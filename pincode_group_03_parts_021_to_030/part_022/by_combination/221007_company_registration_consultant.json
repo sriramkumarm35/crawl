@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Business",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "221007",
+    "phone_number": "+91 81770 09090",
+    "website": "http://primebusiness.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ring Road, Sindhora Rd, Christ Nagar, Bada Lalpur, Chandmari, Varanasi, Uttar Pradesh 221003",
+    "area": "Christ Nagar, Bada Lalpur, Chandmari",
+    "latitude": 25.386436399999997,
+    "longitude": 82.9699622,
+    "place_id": "ChIJNdYxjN4tjjkRcRDvBBynQfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdYxjN4tjjkRcRDvBBynQfE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:58:53"
+  },
+  {
+    "business_name": "Registrationwalah Varanasi",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Service establishment",
+    "pincode": "221007",
+    "phone_number": "N/A",
+    "website": "https://registrationwalah.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Registrationwalah Varanasi, 221007, India",
+    "area": "221007",
+    "latitude": 25.3857358,
+    "longitude": 82.88890599999999,
+    "place_id": "ChIJo-EzPW_d5IwR5Y0KsoQnojQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-EzPW_d5IwR5Y0KsoQnojQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:58:55"
+  }
+]

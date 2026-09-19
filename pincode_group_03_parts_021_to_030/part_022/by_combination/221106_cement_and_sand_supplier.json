@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samrat Construction Company",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Building materials supplier",
+    "pincode": "221106",
+    "phone_number": "+91 94502 24566",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Akhari, Uttar Pradesh 221106",
+    "area": "221106",
+    "latitude": 25.2432549,
+    "longitude": 82.9499106,
+    "place_id": "ChIJB24WzwkzjjkREtyuAQXDMFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB24WzwkzjjkREtyuAQXDMFQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:17:13"
+  },
+  {
+    "business_name": "Kashyap Trading",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "221106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Amara khaira chak, Kandwa, Uttar Pradesh 221106",
+    "area": "Bari bazar",
+    "latitude": 25.265511399999998,
+    "longitude": 82.947925,
+    "place_id": "ChIJycjTIfUzjjkRs4uN9V13Hnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycjTIfUzjjkRs4uN9V13Hnw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:17:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phone Care Mobile Shoppee",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Computer repair service, Computer store, Mobile phone repair shop",
+    "pincode": "221116",
+    "phone_number": "+91 83088 10810",
+    "website": "http://www.phonecaremobile.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Phase 1, Ground Floor, Fortaleza Society, Shop No 102, next to HDFC Bank, opposite Sunshine Court Society, Kalyani Nagar, Pune, Maharashtra 411006",
+    "area": "Kalyani Nagar",
+    "latitude": 18.546050599999997,
+    "longitude": 73.9042461,
+    "place_id": "ChIJN1kpVBDBwjsRJzKSWLdQ25s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1kpVBDBwjsRJzKSWLdQ25s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:37"
+  },
+  {
+    "business_name": "U S A Communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "221116",
+    "phone_number": "+91 94547 38778",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Durga Mandir, 6/12, Durgakund Rd, Durgakund, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Durgakund, Anandbagh, Bhelupur",
+    "latitude": 25.288297999999998,
+    "longitude": 82.999374,
+    "place_id": "ChIJN1VV7PMxjjkRtIoQYALlvHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1VV7PMxjjkRtIoQYALlvHw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:39"
+  }
+]

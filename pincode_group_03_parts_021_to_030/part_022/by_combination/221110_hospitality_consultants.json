@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kratos Hospitality Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "221110",
+    "phone_number": "+91 97392 43344",
+    "website": "http://www.kratoshospitality.com/",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Serene -73, Harmony Homes, HRBR Layout 3rd Block, HRBR Layout, HBR Layout, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 3rd Block, HRBR Layout, HBR Layout",
+    "latitude": 13.0251136,
+    "longitude": 77.6320805,
+    "place_id": "ChIJmyE047AXrjsRdeykwVYGKl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyE047AXrjsRdeykwVYGKl4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:24:59"
+  },
+  {
+    "business_name": "HBT Consultant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "221110",
+    "phone_number": "N/A",
+    "website": "https://www.hbtconsultant.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sai Green Colony, DSCC, Baraipur, Uttar Pradesh 231305",
+    "area": "DSCC",
+    "latitude": 25.2195379,
+    "longitude": 83.0455351,
+    "place_id": "ChIJFbOcTkcxjjkRiE18PedecsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbOcTkcxjjkRiE18PedecsA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:25:02"
+  }
+]

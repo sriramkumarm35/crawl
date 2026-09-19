@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heritage Institute of Medical Sciences",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor, Emergency care service, Obstetrician-gynecologist, Heart hospital, Private College, Medical school, Orthopedic clinic, Plastic surgeon, Surgical center",
+    "pincode": "221302",
+    "phone_number": "+91 542 711 1071",
+    "website": "https://www.heritageimshospital.com/",
+    "rating": 4.4,
+    "reviews_count": 1168,
+    "address": "Heritage Hospitals, N.H.-2, Grand Trunk Rd, Bhadawar, Uttar Pradesh 221311",
+    "area": "221302",
+    "latitude": 25.2633412,
+    "longitude": 82.9103248,
+    "place_id": "ChIJv9snY9MyjjkRMg7S62N_HC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9snY9MyjjkRMg7S62N_HC4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:44:16"
+  },
+  {
+    "business_name": "Daruk Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "221302",
+    "phone_number": "+91 99360 46066",
+    "website": "https://darukdialysiscenter.com/",
+    "rating": 4.5,
+    "reviews_count": 26,
+    "address": "B19, Sector J, Asiana Nagar, Chowk, Bangla Bazar, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector J, Bangla Bazar",
+    "latitude": 26.800528,
+    "longitude": 80.9217977,
+    "place_id": "ChIJF8jPMNuJhwgRtXBX0txP61g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8jPMNuJhwgRtXBX0txP61g",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:44:18"
+  }
+]

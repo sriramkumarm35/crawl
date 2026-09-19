@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jamua",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "221208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "HW5R+8P8, Unnamed Road, Ratnupur, Uttar Pradesh 222181",
+    "area": "221208",
+    "latitude": 25.558288299999997,
+    "longitude": 82.9418307,
+    "place_id": "ChIJc6UpM33VkTkR2_IdSKiXuNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6UpM33VkTkR2_IdSKiXuNo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:15"
+  },
+  {
+    "business_name": "Poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "221208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FVXH+JR2, Jhanjhaur, Pindra, Kharagpur, Uttar Pradesh 221206",
+    "area": "Jhanjhaur",
+    "latitude": 25.499008,
+    "longitude": 82.879508,
+    "place_id": "ChIJ6XcBPQArkDkRJhOmMg8i2Zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XcBPQArkDkRJhOmMg8i2Zc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:15"
+  }
+]

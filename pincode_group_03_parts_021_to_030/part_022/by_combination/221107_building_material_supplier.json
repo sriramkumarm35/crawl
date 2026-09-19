@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avanish Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "221107",
+    "phone_number": "+91 94154 48345",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhadohi Rd, Lohta Bazar, Bhatti, Uttar Pradesh 221107",
+    "area": "Lohta Bazar",
+    "latitude": 25.3129927,
+    "longitude": 82.9288503,
+    "place_id": "ChIJJXEkHQMtjjkRWxYZSbcb5FQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXEkHQMtjjkRWxYZSbcb5FQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:10"
+  },
+  {
+    "business_name": "Aarush building materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "221107",
+    "phone_number": "+91 82997 59051",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Varanasi, Bisunpur, Uttar Pradesh 221107",
+    "area": "221107",
+    "latitude": 25.3038198,
+    "longitude": 82.9184717,
+    "place_id": "ChIJfVNSj4otjjkR16xrlouydZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVNSj4otjjkR16xrlouydZQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:12"
+  }
+]

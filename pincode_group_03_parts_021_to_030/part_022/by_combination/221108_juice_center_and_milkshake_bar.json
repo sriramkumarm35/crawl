@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Juice and Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "221108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8XXH+MJP, Ordali Bazar, Aziz Katra-1, Tagore Town, Orderly Bazar, Varanasi, Uttar Pradesh 221002",
+    "area": "Ordali Bazar, Aziz Katra-1, Tagore Town, Orderly Bazar",
+    "latitude": 25.3492055,
+    "longitude": 82.9790836,
+    "place_id": "ChIJfXvrQQ8tjjkRMCrjBAS5tkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXvrQQ8tjjkRMCrjBAS5tkc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:23"
+  },
+  {
+    "business_name": "Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "221108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "opposite to Blood Bank Lane, Juhi Colony, Dwarika Puri, Rajapur, Prayagraj, Uttar Pradesh 211002",
+    "area": "Juhi Colony, Dwarika Puri, Rajapur",
+    "latitude": 25.4677626,
+    "longitude": 81.8444106,
+    "place_id": "ChIJh8ulkM_LmjkR4p_46GwYbjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8ulkM_LmjkR4p_46GwYbjk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:24"
+  }
+]

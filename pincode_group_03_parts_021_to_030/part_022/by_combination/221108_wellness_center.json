@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "221108",
+    "phone_number": "+91 70071 37360",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DLW Colony Rd, Pahadi Gaon, DLW Colony, Bhullanpur, Rudranagar, Ganeshpuram, Uttar Pradesh 221108",
+    "area": "Pahadi Gaon, DLW Colony, Bhullanpur",
+    "latitude": 25.2738098,
+    "longitude": 82.9528167,
+    "place_id": "ChIJLRvHvCwzjjkR8TAlG5K-Go8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRvHvCwzjjkR8TAlG5K-Go8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:21:14"
+  },
+  {
+    "business_name": "Jan kalyan wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist",
+    "pincode": "221108",
+    "phone_number": "N/A",
+    "website": "http://www.asclepiuswellness.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Near naitik upwan, Rohaniya - DLW Road, near padmashini vidya vihar school, south gate PAC, Bhullanpur, Varanasi, Uttar Pradesh 221108",
+    "area": "south gate PAC, Bhullanpur",
+    "latitude": 25.2882009,
+    "longitude": 82.94171399999999,
+    "place_id": "ChIJmZmp5ogzjjkRFiW8oNCscKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZmp5ogzjjkRFiW8oNCscKg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:21:14"
+  }
+]

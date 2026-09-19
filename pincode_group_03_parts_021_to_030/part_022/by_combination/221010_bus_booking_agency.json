@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bus Hotel Booking Varanasi",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221010",
+    "phone_number": "N/A",
+    "website": "http://www.balajitravels.org/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Flat no. 15, Siddharth Vihar Apartments, Mahmoorganj Rd, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Bhelupur",
+    "latitude": 25.303279,
+    "longitude": 82.98413359999999,
+    "place_id": "ChIJ__8PTAYyjjkRYZlF6ciI7B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8PTAYyjjkRYZlF6ciI7B4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:39"
+  },
+  {
+    "business_name": "Maa Tara Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Sightseeing Tour Operator, Taxi service, Tour operator, Railway Ticket Agent",
+    "pincode": "221010",
+    "phone_number": "+91 93358 53282",
+    "website": "http://www.maataratravels.in/",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "B, 12/112 B, Gauriganj, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Gauriganj, Bhelupur",
+    "latitude": 25.2971941,
+    "longitude": 83.00235049999999,
+    "place_id": "ChIJsbuFwucxjjkRCjLQbnRIxAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbuFwucxjjkRCjLQbnRIxAk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Building Material",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "221202",
+    "phone_number": "+91 94502 50007",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GVM8+5WM, Pindra, Barawa Village Road, Jalalpur, Uttar Pradesh 221208",
+    "area": "221202",
+    "latitude": 25.532970499999998,
+    "longitude": 82.8672928,
+    "place_id": "ChIJUVDQ-v4qkDkRp7K99kxytpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVDQ-v4qkDkRp7K99kxytpI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:45"
+  },
+  {
+    "business_name": "Samrat Building Material",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "221202",
+    "phone_number": "+91 90056 99657",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sindhora Bazar Dharshona Road, Uttar Pradesh 221208",
+    "area": "Sindhora",
+    "latitude": 25.5341354,
+    "longitude": 82.9328468,
+    "place_id": "ChIJMUzLtR7VkTkRcOXT-0RvhSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUzLtR7VkTkRcOXT-0RvhSA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:45"
+  }
+]

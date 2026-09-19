@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhilesh Laptop Sale And Service center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, News service",
+    "pincode": "221208",
+    "phone_number": "+91 96167 57228",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Sindhora, Chaauraha, Basantpura, Uttar Pradesh 221208",
+    "area": "Sindhora",
+    "latitude": 25.533356299999998,
+    "longitude": 82.9318006,
+    "place_id": "ChIJO5AWtkrVkTkRUyLinaoSg3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5AWtkrVkTkRUyLinaoSg3w",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:41:30"
+  },
+  {
+    "business_name": "WESTERN INFOTECH",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "221208",
+    "phone_number": "+91 77177 93483",
+    "website": "https://westerninfotech.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GWQJ+287 Bank, Infront Of Sbi, Bazar, Sindhora, VARANASI, Basantpura, Uttar Pradesh 221208",
+    "area": "Sindhora",
+    "latitude": 25.5375625,
+    "longitude": 82.9308125,
+    "place_id": "ChIJ9fvc2TDVkTkRD2qpqWxijKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fvc2TDVkTkRD2qpqWxijKQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:41:30"
+  }
+]

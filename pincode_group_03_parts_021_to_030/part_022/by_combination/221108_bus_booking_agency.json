@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Safar Express Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221108",
+    "phone_number": "+91 70071 56051",
+    "website": "https://www.safarexpressbus.com/",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Grand Trunk Rd, beside Indian Oil - Shudhir Automobile, Lohta Bazar, Varanasi, Manrauli, Uttar Pradesh 221108",
+    "area": "Lohta Bazar",
+    "latitude": 25.298568799999998,
+    "longitude": 82.94678329999999,
+    "place_id": "ChIJn8nvzYYyjjkR7IgtJKqvWIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8nvzYYyjjkR7IgtJKqvWIY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:55"
+  },
+  {
+    "business_name": "Raj Ratan Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "221108",
+    "phone_number": "+91 96444 85888",
+    "website": "http://www.rajratanbus.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Grand Trunk (GT) Road, near Primeland Hotel, Bhullanpur, Varanasi, Manrauli, Uttar Pradesh 221108",
+    "area": "Bhullanpur",
+    "latitude": 25.2974355,
+    "longitude": 82.9445114,
+    "place_id": "ChIJvYmBtPMtjjkRv_0LoTTnmuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYmBtPMtjjkRv_0LoTTnmuI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:55"
+  }
+]

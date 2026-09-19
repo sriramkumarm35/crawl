@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sam Barnett Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "221201",
+    "phone_number": "N/A",
+    "website": "http://www.sambarnettbroker.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sam Barnett Real Estate, 221201, India",
+    "area": "221201",
+    "latitude": 35.352844,
+    "longitude": -80.9193935,
+    "place_id": "ChIJE9O0TbirVogRTLoBVNappTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9O0TbirVogRTLoBVNappTI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:32:36"
+  },
+  {
+    "business_name": "BrickAsset Homes",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial agent, Commercial real estate agency, Real Estate Builders & Construction Company, Industrial real estate agency",
+    "pincode": "221201",
+    "phone_number": "+91 84212 91921",
+    "website": "http://www.brickasset.homes/",
+    "rating": 5,
+    "reviews_count": 58,
+    "address": "Fortune Business Center, Kaspate Wasti, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "Kaspate Wasti, Wakad",
+    "latitude": 18.5903845,
+    "longitude": 73.7727341,
+    "place_id": "ChIJ1aetvTO5wjsRXR7kVaBJr8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aetvTO5wjsRXR7kVaBJr8I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:32:39"
+  }
+]

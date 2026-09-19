@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Kartik Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "221104",
+    "phone_number": "+91 87933 33152",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kamchchha, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Kamchchha, Bhelupur",
+    "latitude": 25.3022313,
+    "longitude": 82.9867117,
+    "place_id": "ChIJJYh46WAzjjkRLHUUAAZ6rJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYh46WAzjjkRLHUUAAZ6rJA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:13:50"
+  },
+  {
+    "business_name": "Laptop Service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service",
+    "pincode": "221104",
+    "phone_number": "+91 73762 56397",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pandeypur Rd, Hukulganj, Naibasti, Varanasi, Uttar Pradesh 221002",
+    "area": "Hukulganj, Naibasti",
+    "latitude": 25.3468312,
+    "longitude": 82.9944886,
+    "place_id": "ChIJZSHvr_YvjjkRogWsvQ3ZQw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSHvr_YvjjkRogWsvQ3ZQw4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:13:54"
+  }
+]

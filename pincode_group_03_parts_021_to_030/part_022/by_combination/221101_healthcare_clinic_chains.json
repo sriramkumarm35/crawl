@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medanta Labs - Bashi, Varanasi",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "221101",
+    "phone_number": "+91 124 483 4542",
+    "website": "https://www.medanta.org/medanta-labs",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "S-27/32, Nawalpur Rd, beside Indian Petrol Pump, Meerapur Basahi, Sector -B, Ekta Nagar Colony, Varanasi, Lalpur, Uttar Pradesh 221002",
+    "area": "Meerapur Basahi, Sector -B, Ekta Nagar Colony",
+    "latitude": 25.368644,
+    "longitude": 82.97348199999999,
+    "place_id": "ChIJmQzfVBotjjkRZS98Xseotjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQzfVBotjjkRZS98Xseotjw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:09:16"
+  },
+  {
+    "business_name": "Medanta Labs - Pandeypur, Varanasi",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "221101",
+    "phone_number": "+91 124 483 4542",
+    "website": "https://www.medanta.org/medanta-labs",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Medanta Labs, Chota, Lalpur Pandeypur, Varanasi, Uttar Pradesh 221002",
+    "area": "Lalpur Pandeypur, Chhota Lalpur",
+    "latitude": 25.3625486,
+    "longitude": 82.99328109999999,
+    "place_id": "ChIJyU79V50vjjkR-zZYmRvfnm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyU79V50vjjkR-zZYmRvfnm4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:09:16"
+  }
+]

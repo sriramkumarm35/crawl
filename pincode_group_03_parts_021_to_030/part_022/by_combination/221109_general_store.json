@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayshankar general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "221109",
+    "phone_number": "+91 89339 87762",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 17,
+    "address": "meerashah, Pindra Kathiraon Rd, Thana, Uttar Pradesh 221206",
+    "area": "221109",
+    "latitude": 25.5027607,
+    "longitude": 82.81796729999999,
+    "place_id": "ChIJ-3HEze0pkDkRd29KNzC36aU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3HEze0pkDkRd29KNzC36aU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:13"
+  },
+  {
+    "business_name": "Shri Sahu Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "221109",
+    "phone_number": "+91 98897 02295",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "S. 14/54, A -1, Grand Trunk Rd, near Andhrapul, Andhrapull, Chauraha, Chaukaghat, Varanasi, Uttar Pradesh 221002",
+    "area": "Andhrapull, Chauraha, Chaukaghat",
+    "latitude": 25.3306081,
+    "longitude": 82.9929275,
+    "place_id": "ChIJH0Y8_t8tjjkRBNq9RiW93B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0Y8_t8tjjkRBNq9RiW93B0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:15"
+  }
+]

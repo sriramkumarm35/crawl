@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba ka dhaba",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "221116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "F467+8PC, Varanasi - Gorakhpur Hwy, Chandrawati, Gaurapurwar, Uttar Pradesh 221104",
+    "area": "221116",
+    "latitude": 25.4608052,
+    "longitude": 83.11425249999999,
+    "place_id": "ChIJlUQyPQsnjjkRT04zu1X5zZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUQyPQsnjjkRT04zu1X5zZw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:33"
+  },
+  {
+    "business_name": "Radha Ji Tredars",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Hardware store",
+    "pincode": "221116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Radha Ji Tredar, Mehnajpur, Dariapur Nevada, Uttar Pradesh 276203",
+    "area": "221116",
+    "latitude": 25.6760679,
+    "longitude": 83.09179499999999,
+    "place_id": "ChIJLze4aZfrkTkRJFBBmf3pbAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLze4aZfrkTkRJFBBmf3pbAc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:35"
+  }
+]

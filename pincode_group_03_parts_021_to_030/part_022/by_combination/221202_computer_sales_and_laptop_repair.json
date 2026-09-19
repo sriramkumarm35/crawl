@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TRUE BUCKS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Electronics store",
+    "pincode": "221202",
+    "phone_number": "+91 99350 38585",
+    "website": "http://truebucksholidays.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jai Nagar Colony, Gilat Bazar, Shivpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Jai Nagar Colony, Gilat Bazar, Shivpur",
+    "latitude": 25.353492199999998,
+    "longitude": 82.9670946,
+    "place_id": "ChIJJzCoT0ssjjkRAAAAMBCW5Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzCoT0ssjjkRAAAAMBCW5Tg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:19"
+  },
+  {
+    "business_name": "Avi Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "221202",
+    "phone_number": "+91 73764 74216",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C-32/4, Vidyapeeth Rd, Englishiyaline, Vidya Vihar Colony, Shivpurwa, Varanasi, Uttar Pradesh 221002",
+    "area": "Englishiyaline, Vidya Vihar Colony, Shivpurwa",
+    "latitude": 25.3224616,
+    "longitude": 82.98732509999999,
+    "place_id": "ChIJS35tceQtjjkRp9mvVUj-UnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS35tceQtjjkRp9mvVUj-UnU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:19"
+  }
+]

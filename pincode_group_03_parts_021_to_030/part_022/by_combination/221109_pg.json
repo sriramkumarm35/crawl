@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Girls Hostel",
+    "search_category": "PG",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel, Student dormitory",
+    "pincode": "221109",
+    "phone_number": "+91 73478 04403",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 215,
+    "address": "Gurudham Rd, near Ram Mandir, Khojwan, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Khojwan, Bhelupur",
+    "latitude": 25.293529,
+    "longitude": 82.99539999999999,
+    "place_id": "ChIJbVTNPvgxjjkR_aE_zwsZ34k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVTNPvgxjjkR_aE_zwsZ34k",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:11"
+  },
+  {
+    "business_name": "Sri Kashi Vishwanath Girls Hostel",
+    "search_category": "PG",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel, Backpacker Hostel, Student dormitory, Working women's hostel, Youth Hostel",
+    "pincode": "221109",
+    "phone_number": "+91 93363 75493",
+    "website": "https://g.co/kgs/xdmVYop",
+    "rating": 4,
+    "reviews_count": 104,
+    "address": "S 12/19, near Netaji painter, Andhrapull, Chauraha, Chaukaghat, Varanasi, Uttar Pradesh 221002",
+    "area": "Andhrapull, Chauraha, Chaukaghat",
+    "latitude": 25.3300651,
+    "longitude": 82.99620379999999,
+    "place_id": "ChIJO3B0vxUvjjkRnk44M0jeDXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3B0vxUvjjkRnk44M0jeDXc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:11"
+  }
+]

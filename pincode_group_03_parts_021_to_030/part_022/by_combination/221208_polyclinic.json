@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vartika Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "221208",
+    "phone_number": "+91 70848 37852",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "34, Rasada, Uttar Pradesh 222129",
+    "area": "221208",
+    "latitude": 25.5875104,
+    "longitude": 83.0258995,
+    "place_id": "ChIJCW_CI1DXkTkR4HSDVDJE1s0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCW_CI1DXkTkR4HSDVDJE1s0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:42"
+  },
+  {
+    "business_name": "Dr.Ramashankar Singh Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221208",
+    "phone_number": "+91 95696 03244",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "chunar, Narayanpur, mirzapur, Uttar Pradesh 231305",
+    "area": "221208",
+    "latitude": 25.196263599999998,
+    "longitude": 83.02455789999999,
+    "place_id": "ChIJ8diCxkg3jjkRlgYHu0UQGJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8diCxkg3jjkRlgYHu0UQGJo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:43"
+  }
+]

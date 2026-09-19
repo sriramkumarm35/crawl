@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homiopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "221109",
+    "phone_number": "+91 90444 44809",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "82C3+FGM, Piplani Katra, Chetganj, Varanasi, Uttar Pradesh 221001",
+    "area": "Piplani Katra, Chetganj",
+    "latitude": 25.321203,
+    "longitude": 83.00380919999999,
+    "place_id": "ChIJ7xyl2A8ujjkRvbHjDXzKbDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xyl2A8ujjkRvbHjDXzKbDc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:33"
+  },
+  {
+    "business_name": "Raj Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "221109",
+    "phone_number": "+91 94505 61055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B 37/155,Badi Gaibi Trimohani, Varanasi, Uttar Pradesh 221010",
+    "area": "Giri Nagar Colony",
+    "latitude": 25.303646999999998,
+    "longitude": 82.98509899999999,
+    "place_id": "ChIJP1VVVQYyjjkRP9y8PoyPyj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1VVVQYyjjkRP9y8PoyPyj0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:35"
+  }
+]

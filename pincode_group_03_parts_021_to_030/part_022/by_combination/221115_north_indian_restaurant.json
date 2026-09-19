@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kasimkhan",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kashmiri restaurant",
+    "all_categories": "Kashmiri restaurant",
+    "pincode": "221115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatehullapur, Veerpur, Mhukedaganaj, Uttar Pradesh 233221",
+    "area": "Veerpur",
+    "latitude": 25.537698199999998,
+    "longitude": 83.1959914,
+    "place_id": "ChIJK9u94gXfkTkRVyWKaLR_Dn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9u94gXfkTkRVyWKaLR_Dn4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:27:42"
+  },
+  {
+    "business_name": "Jassi De Parathe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Family restaurant, North Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "221115",
+    "phone_number": "+91 99250 02706",
+    "website": "https://www.jassideparathe.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "107 & 108, Safal Pegasus, 106, 100 Feet Anand Nagar Rd, Chinar Bungalows, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+    "area": "Chinar Bungalows, Prahlad Nagar",
+    "latitude": 23.0123358,
+    "longitude": 72.51095029999999,
+    "place_id": "ChIJ0xLMVyibXjkRRVANQWi2jzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xLMVyibXjkRRVANQWi2jzo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:27:43"
+  }
+]

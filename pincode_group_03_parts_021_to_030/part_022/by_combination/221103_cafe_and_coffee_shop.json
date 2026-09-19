@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ring Road Cafe & Lounge",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221103",
+    "phone_number": "+91 72757 98897",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Near Fly Over, Danoopur, Ring Road, Varanasi, Uttar Pradesh 221003",
+    "area": "221103",
+    "latitude": 25.387245099999998,
+    "longitude": 82.96729429999999,
+    "place_id": "ChIJc81_GHgtjjkRxWkIfq8_5xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc81_GHgtjjkRxWkIfq8_5xY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:49"
+  },
+  {
+    "business_name": "Dwarkapuri Milk Bhandar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "221103",
+    "phone_number": "+91 88816 30567",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "gurudwara k bagal me, Nichibagh, Rani Kuan,Chowk,Chowk Godowlia, Ghasi Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Rani Kuan,Chowk,Chowk Godowlia, Ghasi Tola",
+    "latitude": 25.313488099999997,
+    "longitude": 83.0114564,
+    "place_id": "ChIJ6Tacqa0vjjkRv3ESZEoICv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tacqa0vjjkRv3ESZEoICv0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:49"
+  }
+]

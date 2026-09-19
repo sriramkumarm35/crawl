@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishali Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "221109",
+    "phone_number": "+91 83180 09477",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "S-14/48,, Sarnath, Varanasi, Uttar Pradesh 221007",
+    "area": "Sarnath",
+    "latitude": 25.3795224,
+    "longitude": 83.0276378,
+    "place_id": "ChIJB80UfN0ujjkRB49lanU2DoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB80UfN0ujjkRB49lanU2DoA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:17"
+  },
+  {
+    "business_name": "Khadak singh da dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221109",
+    "phone_number": "+91 81760 19991",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "C19/120-2, behind Sigra - Mahmoorganj Road, Kamla Nagar, Guru Nanak Nagar Colony, thana, Varanasi, Uttar Pradesh 221001",
+    "area": "Kamla Nagar, Guru Nanak Nagar Colony, thana",
+    "latitude": 25.3185929,
+    "longitude": 82.9901587,
+    "place_id": "ChIJcfJw2fktjjkRjEuS6Z2RAek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfJw2fktjjkRjEuS6Z2RAek",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:18"
+  }
+]

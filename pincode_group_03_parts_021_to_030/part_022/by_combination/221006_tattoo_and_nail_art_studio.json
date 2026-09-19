@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Nail Spot and Salon",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon, Beauty Parlour, Charter school, Eyelash salon, Tattoo shop",
+    "pincode": "221006",
+    "phone_number": "+91 84463 74000",
+    "website": "https://thenailspot.odoo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, C Wing, Sai Ganesh Residency, Bhumkar Chowk, Narhe, Pune, Maharashtra 411041",
+    "area": "Mokarwadi, Narhe",
+    "latitude": 18.4472682,
+    "longitude": 73.83357579999999,
+    "place_id": "ChIJB7jDwcyVwjsRVsdMLKBAaKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7jDwcyVwjsRVsdMLKBAaKk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:56:36"
+  },
+  {
+    "business_name": "Tips & tints",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "221006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Zee Construction Building, opp. Westside, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Himayatnagar",
+    "latitude": 17.401605,
+    "longitude": 78.48540369999999,
+    "place_id": "ChIJTSfawXWZyzsRoEF6BT1TlXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSfawXWZyzsRoEF6BT1TlXw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:56:36"
+  }
+]

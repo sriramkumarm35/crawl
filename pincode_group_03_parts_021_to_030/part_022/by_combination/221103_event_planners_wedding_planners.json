@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "221103",
+    "phone_number": "+91 95553 12582",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "Lahartara Rd, Maheshpur, Varanasi, Maruadih Rly. Settlement, Uttar Pradesh 221106",
+    "area": "Maheshpur",
+    "latitude": 25.3096338,
+    "longitude": 82.9597288,
+    "place_id": "ChIJ0bX1fp0tjjkRt_ZwFTEViNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bX1fp0tjjkRt_ZwFTEViNM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:37"
+  },
+  {
+    "business_name": "The Event Creations vns",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "221103",
+    "phone_number": "+91 91377 91029",
+    "website": "https://www.instagram.com/the_event_creationsvns?igsh=MTE3bXphdHczdXBqeg==",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Industrial Area, Maheshpur, Varanasi, Uttar Pradesh 221106",
+    "area": "Industrial Area, Maheshpur",
+    "latitude": 25.3089595,
+    "longitude": 82.9585594,
+    "place_id": "ChIJvVpZorItjjkRdsYxywi5WUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVpZorItjjkRdsYxywi5WUw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:37"
+  }
+]

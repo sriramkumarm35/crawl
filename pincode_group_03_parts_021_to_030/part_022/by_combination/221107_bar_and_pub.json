@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ekhlak",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "221107",
+    "phone_number": "+91 73928 08837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "MohammadEkhlak Mohammad, Lohta Bazar, Varanasi, Bhatti, Uttar Pradesh 221107",
+    "area": "Lohta Bazar",
+    "latitude": 25.3124792,
+    "longitude": 82.9317114,
+    "place_id": "ChIJ7WoIM6MtjjkROrOdenHZL-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WoIM6MtjjkROrOdenHZL-E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:34"
+  },
+  {
+    "business_name": "Mahadev Sport Akelawa",
+    "search_category": "Bar and Pub",
+    "primary_category": "Sports bar",
+    "all_categories": "Sports bar",
+    "pincode": "221107",
+    "phone_number": "+91 73478 28770",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Ramaraypur, Akelawa Chauraha, Varanasi, Uttar Pradesh 221302",
+    "area": "221107",
+    "latitude": 25.316876,
+    "longitude": 82.8848388,
+    "place_id": "ChIJf8k6q-bTjzkRo_jasWkQMAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8k6q-bTjzkRo_jasWkQMAk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshmi Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "221010",
+    "phone_number": "+91 88967 70405",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Tulsipur, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Tulsipur, Mahmoorganj",
+    "latitude": 25.3020285,
+    "longitude": 82.9758003,
+    "place_id": "ChIJdaazQOozjjkRvjfXdDtwsKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaazQOozjjkRvjfXdDtwsKc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:35"
+  },
+  {
+    "business_name": "Alka Auto Spairs",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Store",
+    "pincode": "221010",
+    "phone_number": "+91 98385 97123",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "8X79+H4H, Laharatara, near Ram Janki Mandir, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Manduwadih",
+    "latitude": 25.3139258,
+    "longitude": 82.9678484,
+    "place_id": "ChIJoSzPR4wtjjkRS_Ewft4mTEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSzPR4wtjjkRS_Ewft4mTEg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:37"
+  }
+]

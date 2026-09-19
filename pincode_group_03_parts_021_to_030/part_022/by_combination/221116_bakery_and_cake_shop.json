@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Benaras Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "221116",
+    "phone_number": "+91 78009 91991",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near Satguru Ravidass Gate, Saket Nagar Colony, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Saket Nagar Colony, Lanka",
+    "latitude": 25.2816305,
+    "longitude": 83.00341929999999,
+    "place_id": "ChIJg7YPewsxjjkRKmMgQwfLiVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7YPewsxjjkRKmMgQwfLiVA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:27"
+  },
+  {
+    "business_name": "Winni Cakes & More",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "221116",
+    "phone_number": "+91 78294 63510",
+    "website": "https://www.winni.in/cake/varanasi",
+    "rating": 3.8,
+    "reviews_count": 121,
+    "address": "B29/26 A1A, Lanka Rd, near Sankat Mochan Temple, opposite Canara Bank, Near Sankat Mochan Tiraha, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Near Sankat Mochan Tiraha, Anandbagh, Bhelupur",
+    "latitude": 25.284860899999998,
+    "longitude": 83.00089919999999,
+    "place_id": "ChIJ3ae9AM0xjjkRpNtE2gzWJrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ae9AM0xjjkRpNtE2gzWJrA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:29"
+  }
+]

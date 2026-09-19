@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mother's food Super Delicious",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Food manufacturer",
+    "pincode": "221105",
+    "phone_number": "+91 89495 10524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "107, Janakpuri-I, Janakpuri, Imli Phatak, Tonk Phatak, Jaipur, Rajasthan 302015",
+    "area": "Janakpuri-I, Janakpuri, Imli Phatak, Tonk Phatak",
+    "latitude": 26.8883467,
+    "longitude": 75.79284,
+    "place_id": "ChIJAXpUP1a1bTkR8eH8SLGJ_EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXpUP1a1bTkR8eH8SLGJ_EA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:14:38"
+  },
+  {
+    "business_name": "Shree hari tiffin centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "221105",
+    "phone_number": "+91 63502 61140",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "B-89, behind rose public school, Jamnapuri, Murlipura Scheme, Alkapuri, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302013",
+    "area": "Jamnapuri, Murlipura Scheme, Alkapuri",
+    "latitude": 26.9771449,
+    "longitude": 75.76252079999999,
+    "place_id": "ChIJxVEJj2KzbTkRHzFyhOHwz58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVEJj2KzbTkRHzFyhOHwz58",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:14:38"
+  }
+]

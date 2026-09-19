@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saloni Makeover Zone",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair transplantation clinic, Hairdresser",
+    "pincode": "221109",
+    "phone_number": "+91 73808 21080",
+    "website": "https://salonimakeoverzone.netlify.app/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "D1, 6, Neel cottage colony, S21/114, road, near panchwati mandir, Pared Kothi, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Pared Kothi, Maldahiya, Chetganj",
+    "latitude": 25.3260222,
+    "longitude": 82.9919616,
+    "place_id": "ChIJXwt00_MtjjkRayIV_KiH_9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwt00_MtjjkRayIV_KiH_9Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:03"
+  },
+  {
+    "business_name": "looks",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "221109",
+    "phone_number": "+91 81738 22613",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "9245+P72, Paharia Rd, Ganpathi Nagar, Paharia, Varanasi, Uttar Pradesh 221007",
+    "area": "Ganpathi Nagar, Paharia",
+    "latitude": 25.3567541,
+    "longitude": 83.0081488,
+    "place_id": "ChIJYU36lokujjkRSVLJKWep8QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYU36lokujjkRSVLJKWep8QY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:03"
+  }
+]

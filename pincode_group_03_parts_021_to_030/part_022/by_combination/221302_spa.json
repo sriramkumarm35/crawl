@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansh Men's Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "221302",
+    "phone_number": "+91 73552 70017",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Daffalpur Chauraha Rohania Road, Uttar Pradesh 221108",
+    "area": "221302",
+    "latitude": 25.2779338,
+    "longitude": 82.9280933,
+    "place_id": "ChIJ4Wzwo_kzjjkRhJMHKsY5xFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Wzwo_kzjjkRhJMHKsY5xFE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:44:40"
+  },
+  {
+    "business_name": "THE NATURE FRESH SALOON",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "221302",
+    "phone_number": "+91 87262 47729",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Oriana hospital, Near, Ravindrapuri Rd, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Anandbagh, Bhelupur",
+    "latitude": 25.290204,
+    "longitude": 83.001628,
+    "place_id": "ChIJiWUa4JExjjkR8-xIL9g9GKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWUa4JExjjkR8-xIL9g9GKM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:44:42"
+  }
+]

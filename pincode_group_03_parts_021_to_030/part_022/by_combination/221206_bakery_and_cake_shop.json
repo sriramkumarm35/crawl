@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Bekars",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "221206",
+    "phone_number": "+91 63942 92701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kuar Bazar, Varanasi Kuar Bazar, in front of Nayra petrol pump)⛽, Tetua, Uttar Pradesh 221206",
+    "area": "221206",
+    "latitude": 25.4733277,
+    "longitude": 82.7759537,
+    "place_id": "ChIJYwwxjPvXjzkRPD1cHBP_lQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwwxjPvXjzkRPD1cHBP_lQQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:36:44"
+  },
+  {
+    "business_name": "Shri Balaji Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "221206",
+    "phone_number": "+91 72700 78002",
+    "website": "https://shreebalajibakers2.odoo.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Balaji bakers, Old ubi Sadi, ganj bajar, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "ganj bajar",
+    "latitude": 25.6870527,
+    "longitude": 82.4089953,
+    "place_id": "ChIJMXE1js4RkDkR_MPckqpf15I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXE1js4RkDkR_MPckqpf15I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:36:47"
+  }
+]

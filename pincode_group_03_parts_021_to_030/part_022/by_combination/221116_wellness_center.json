@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushman Aarogya Mandir",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "221116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "G42Q+JW4, Rajwari, Uttar Pradesh 221116",
+    "area": "221116",
+    "latitude": 25.501329,
+    "longitude": 83.1400831,
+    "place_id": "ChIJz6tkCgAnjjkRYfrjCRCH9nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6tkCgAnjjkRYfrjCRCH9nM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:17"
+  },
+  {
+    "business_name": "Additional Primary Health Center Dharahara",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Government hospital",
+    "pincode": "221116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F3RX+4W4, Dhaurahara, Uttar Pradesh 221104",
+    "area": "221116",
+    "latitude": 25.4902513,
+    "longitude": 83.0998193,
+    "place_id": "ChIJt_IRuPInjjkRX8Sakx9-bWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_IRuPInjjkRX8Sakx9-bWs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:17"
+  }
+]

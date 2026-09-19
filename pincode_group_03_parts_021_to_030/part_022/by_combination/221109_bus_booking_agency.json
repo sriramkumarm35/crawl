@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H.R . Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency, Transportation service",
+    "pincode": "221109",
+    "phone_number": "+91 74994 84024",
+    "website": "https://www.hrtravels.co.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "77, Noorullah Rd, opposite hotel, Minhajpur, Miurabad, Prayagraj, Uttar Pradesh 211003",
+    "area": "Minhajpur, Miurabad",
+    "latitude": 25.443021599999998,
+    "longitude": 81.8246928,
+    "place_id": "ChIJ64lYWtbKmjkR9mo6fYW95Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64lYWtbKmjkR9mo6fYW95Jo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:48"
+  },
+  {
+    "business_name": "Samarth travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221109",
+    "phone_number": "+91 73804 70745",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 46,
+    "address": "Tahbarpur - Azamgarh Rd, Azamgarh, Kisundaspur No.2 Or Kishund, Uttar Pradesh 276135",
+    "area": "221109",
+    "latitude": 26.0893737,
+    "longitude": 83.167794,
+    "place_id": "ChIJ_0tCVQCjkTkRYa1SOV3gQao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0tCVQCjkTkRYa1SOV3gQao",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaman Sweets.",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Indian restaurant",
+    "pincode": "221208",
+    "phone_number": "+91 88969 38960",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GW8M+FWH, Sindhora - Garthama Rd, Varanasi, Maruee, Uttar Pradesh 221208",
+    "area": "221208",
+    "latitude": 25.5161937,
+    "longitude": 82.93485629999999,
+    "place_id": "ChIJGyUVs2zVkTkR4CEViDuwBuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyUVs2zVkTkR4CEViDuwBuA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:18"
+  },
+  {
+    "business_name": "Shri Kunju Sao",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "221208",
+    "phone_number": "+91 98890 07979",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 59,
+    "address": "Dashaswmedh Ghat Rd , Vishwanath Gali, Dedshi-Ka-Pul , Near Shri Kashi Vishwanath Singh Dwar, Lahori Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Dedshi-Ka-Pul , Near Shri Kashi Vishwanath Singh Dwar, Lahori Tola",
+    "latitude": 25.308881399999997,
+    "longitude": 83.00940299999999,
+    "place_id": "ChIJWWQgCh4ujjkRSKXbKjBE1UA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWQgCh4ujjkRSKXbKjBE1UA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:40:20"
+  }
+]

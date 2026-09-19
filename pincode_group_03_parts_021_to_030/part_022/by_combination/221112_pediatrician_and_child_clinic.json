@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Aashvi Baby Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "221112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Aashvi ployclinic. Near anjani medical Ravi nagar, PT, DDU Nagar, Pandit Deen Dayal Upadhyaya Nagar, Uttar Pradesh 232101",
+    "area": "Ravi Nagar, DDU Nagar",
+    "latitude": 25.2882394,
+    "longitude": 83.11194669999999,
+    "place_id": "ChIJcy6BpYo7jjkRmb_yc2EYLPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcy6BpYo7jjkRmb_yc2EYLPk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:09"
+  },
+  {
+    "business_name": "Dr Alka Verma",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "221112",
+    "phone_number": "+91 94152 56872",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J14/88, Bari Bazar Rd Alaipura, Bari Bazar Rd, Dosi Pura, Alaipura, Jaitpura, Varanasi, Uttar Pradesh 221002",
+    "area": "Dosi Pura, Alaipura, Jaitpura",
+    "latitude": 25.3330833,
+    "longitude": 83.00452729999999,
+    "place_id": "ChIJHfWaZW0ujjkRQzzDz9fm2v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfWaZW0ujjkRQzzDz9fm2v8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:10"
+  }
+]

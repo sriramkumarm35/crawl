@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khadi India Outlet",
+    "search_category": "Malls",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "221103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "B39, 10-16, Raja Moti Chand Rd, Manduwadih Bazar, Maheshpur, Varanasi, Uttar Pradesh 221103",
+    "area": "Manduwadih Bazar, Maheshpur",
+    "latitude": 25.302201699999998,
+    "longitude": 82.9690665,
+    "place_id": "ChIJj9iCh-8zjjkRg-qtU5sCvQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9iCh-8zjjkRg-qtU5sCvQk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:12:22"
+  },
+  {
+    "business_name": "Khojawa",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "221103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "8X74+87G, Maheshpur, Bhitari, Uttar Pradesh 221106",
+    "area": "Maheshpur",
+    "latitude": 25.313304,
+    "longitude": 82.955704,
+    "place_id": "ChIJRUbVeYQtjjkRyo4lNerwVQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUbVeYQtjjkRyo4lNerwVQs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:12:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eve's",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Hair extension technician, Make-up artist, Nail salon",
+    "pincode": "221008",
+    "phone_number": "+91 93361 12467",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 463,
+    "address": "80, Durgakund Rd, Jawahar Nagar Colony, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Jawahar Nagar Colony, Bhelupur",
+    "latitude": 25.296201999999997,
+    "longitude": 83.001392,
+    "place_id": "ChIJZ5oyhvoxjjkRELZgSxkcIZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5oyhvoxjjkRELZgSxkcIZU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:00:18"
+  },
+  {
+    "business_name": "Nawab unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "221008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Patel Chowk, Teliyabag Crossing, Maldahiya, Chaukaghat, Varanasi, Uttar Pradesh 221002",
+    "area": "Teliyabag Crossing, Maldahiya, Chaukaghat",
+    "latitude": 25.3289087,
+    "longitude": 82.9934485,
+    "place_id": "ChIJZ8kGRsMxjjkRdBBX-N4g9oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8kGRsMxjjkRdBBX-N4g9oE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:00:20"
+  }
+]

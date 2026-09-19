@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Light & Living",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "221112",
+    "phone_number": "+91 77950 37278",
+    "website": "http://www.lightsandliving.com/",
+    "rating": 4.4,
+    "reviews_count": 808,
+    "address": "No. 1571, HSR, Outer Ring Rd, near Dominos Pizza, Sector 1, Agara Village, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 1, Agara Village, 1st Sector, HSR Layout",
+    "latitude": 12.9228163,
+    "longitude": 77.6462353,
+    "place_id": "ChIJs9DGE4cUrjsRChWcLITNWHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9DGE4cUrjsRChWcLITNWHU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:27"
+  },
+  {
+    "business_name": "Rudraksh Jhoomars N Decor",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Craft store, Handicrafts Wholesaler, Lamp shade supplier, Lighting products wholesaler, Scrapbooking store",
+    "pincode": "221112",
+    "phone_number": "+91 80 4171 3815",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 272,
+    "address": "2,3rd cross, Kempegowda Rd, behind Parking Complex, Bengaluru, Karnataka 560009",
+    "area": "Anchepet, Chickpet",
+    "latitude": 12.9735494,
+    "longitude": 77.5783569,
+    "place_id": "ChIJ38droQ4WrjsR3VVo4ZinyHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38droQ4WrjsR3VVo4ZinyHs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:26:27"
+  }
+]

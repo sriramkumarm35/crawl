@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya welding workshop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "221101",
+    "phone_number": "+91 96385 17490",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Munari, Chaubepur, Uttar Pradesh 221104",
+    "area": "221101",
+    "latitude": 25.4483011,
+    "longitude": 83.0579837,
+    "place_id": "ChIJe5KOQ5MpjjkRaxoz4vferG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5KOQ5MpjjkRaxoz4vferG0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:16"
+  },
+  {
+    "business_name": "Steel Sheets",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "221101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8296+P62, Bulanala, Varanasi, Uttar Pradesh 221001",
+    "area": "Bulanala",
+    "latitude": 25.3192569,
+    "longitude": 83.0105033,
+    "place_id": "ChIJL7XP4BkujjkRBoqeGnnVBlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7XP4BkujjkRBoqeGnnVBlQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:18"
+  }
+]

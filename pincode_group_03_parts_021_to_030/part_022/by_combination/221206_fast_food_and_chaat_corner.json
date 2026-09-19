@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prajapati chat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221206",
+    "phone_number": "+91 89532 60834",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hiramanpur, Nadoy, Varanasi, Uttar Pradesh 221208",
+    "area": "221206",
+    "latitude": 25.553365799999998,
+    "longitude": 82.8745327,
+    "place_id": "ChIJZXkG7Q8rkDkRUYeD-0a2bk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXkG7Q8rkDkRUYeD-0a2bk0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:36:49"
+  },
+  {
+    "business_name": "Vijay Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221206",
+    "phone_number": "+91 79058 76728",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hiramanpur, Uttar Pradesh 221208",
+    "area": "221206",
+    "latitude": 25.5533887,
+    "longitude": 82.8742839,
+    "place_id": "ChIJn-59rmcrkDkRX2BzW60jvZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-59rmcrkDkRX2BzW60jvZI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:36:49"
+  }
+]

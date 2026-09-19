@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Idli Dosa Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "221106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8X5V+3XF, Gurubagh, opposite central hindu girl's school, Uttar Pradesh 221010",
+    "area": "Jahumandi",
+    "latitude": 25.3076802,
+    "longitude": 82.9949212,
+    "place_id": "ChIJe5GAIwAujjkRyc91KPSpLbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5GAIwAujjkRyc91KPSpLbU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:16:36"
+  },
+  {
+    "business_name": "UDUPI SAGAR",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Chinese restaurant, North Indian restaurant",
+    "pincode": "221106",
+    "phone_number": "+91 73888 90965",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "No -2, Plot No. B20/48, Door, near Jain Mandir Complex, Bhelupur, Varanasi, Uttar Pradesh 221001",
+    "area": "Bhelupur",
+    "latitude": 25.2998083,
+    "longitude": 83.002337,
+    "place_id": "ChIJETm9kG8xjjkRsES0seDuxYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETm9kG8xjjkRsES0seDuxYY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:16:36"
+  }
+]

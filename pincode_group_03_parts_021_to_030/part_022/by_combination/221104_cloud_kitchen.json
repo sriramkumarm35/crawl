@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221104",
+    "phone_number": "+91 80528 24444",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 142,
+    "address": "Ground Floor, Ishwar Tower, Luxa Rd, Godowliya, Sidhgiribagh, Varanasi, Uttar Pradesh 221010",
+    "area": "Godowliya, Sidhgiribagh",
+    "latitude": 25.309631099999997,
+    "longitude": 83.0036355,
+    "place_id": "ChIJgbyglMIvjjkRGncankxrO3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbyglMIvjjkRGncankxrO3s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:12:42"
+  },
+  {
+    "business_name": "Housewife Kitchen (Cloud Kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221104",
+    "phone_number": "+91 95696 35376",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C-10/96, A-1, Jiyapura, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Jiyapura, Chetganj",
+    "latitude": 25.31761,
+    "longitude": 82.9998074,
+    "place_id": "ChIJY8uhvUAvjjkR8_zeq9l4Ad8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8uhvUAvjjkR8_zeq9l4Ad8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:12:42"
+  }
+]

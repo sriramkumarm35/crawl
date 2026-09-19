@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Stores ! Saree Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store",
+    "pincode": "221011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "D -28 /129, Pandey Haveli Rd, Tilbhandeshwer, Bhelupur, Varanasi, Uttar Pradesh 221001",
+    "area": "Tilbhandeshwer, Bhelupur",
+    "latitude": 25.3036648,
+    "longitude": 83.00466899999999,
+    "place_id": "ChIJw4aDJeMxjjkRN0LqbYHeyhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4aDJeMxjjkRN0LqbYHeyhU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:09"
+  },
+  {
+    "business_name": "Facebook Garment",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "221011",
+    "phone_number": "+91 87569 96770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kabir Nagar colony, Durgakund, Khojwan, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Kabir Nagar colony, Durgakund, Khojwan, Bhelupur",
+    "latitude": 25.2901027,
+    "longitude": 82.9949991,
+    "place_id": "ChIJi6mDcPYxjjkRu_qln5fLAnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6mDcPYxjjkRu_qln5fLAnE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:10"
+  }
+]

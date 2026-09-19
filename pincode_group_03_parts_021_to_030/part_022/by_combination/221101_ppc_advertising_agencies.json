@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AdKaroBar",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "221101",
+    "phone_number": "N/A",
+    "website": "https://adkarobar.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "AdKaroBar, 221101, India",
+    "area": "221101",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJy9utVf3_hC4R7VAKNRenvpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9utVf3_hC4R7VAKNRenvpk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:25"
+  },
+  {
+    "business_name": "AgniSpark",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Website designer, Advertising Photographer, Architectural designer, Marketing agency, Software company",
+    "pincode": "221101",
+    "phone_number": "+91 89228 34972",
+    "website": "https://agnispark.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pandeypur, Paharia, Varanasi, Uttar Pradesh 221002",
+    "area": "Pandeypur, Paharia",
+    "latitude": 25.3567753,
+    "longitude": 82.9972402,
+    "place_id": "ChIJGau1tlMvjjkRATQGyt0zLkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGau1tlMvjjkRATQGyt0zLkA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:25"
+  }
+]

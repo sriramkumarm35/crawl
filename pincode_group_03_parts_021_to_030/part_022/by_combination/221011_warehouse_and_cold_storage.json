@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Childcare warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "221011",
+    "phone_number": "+91 63038 00718",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Plot No: 1, Vijay Sree Colony, Auto Nagar, Hyderabad, Telangana 500070",
+    "area": "Vijay Sree Colony, Auto Nagar",
+    "latitude": 17.3476479,
+    "longitude": 78.5795098,
+    "place_id": "ChIJ44YCTb-fyzsRMnKuJdJgkKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44YCTb-fyzsRMnKuJdJgkKU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:06:32"
+  },
+  {
+    "business_name": "Bihari Pan Bhandar",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Cold storage facility",
+    "pincode": "221011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B30/1, Ganga Bagh Colony, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Ganga Bagh Colony, Lanka",
+    "latitude": 25.283698599999997,
+    "longitude": 83.00352989999999,
+    "place_id": "ChIJzf4pjkkxjjkRZMb6dfcuN3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzf4pjkkxjjkRZMb6dfcuN3o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:06:34"
+  }
+]

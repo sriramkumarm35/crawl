@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ratna merchant",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "221204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 68,
+    "address": "55/25, bazar, Bhadohi Rd, Gorai, Varanasi, Uttar Pradesh 221307",
+    "area": "221204",
+    "latitude": 25.3342657,
+    "longitude": 82.7890359,
+    "place_id": "ChIJDeoWCvnRjzkRnu7QwcTYGCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeoWCvnRjzkRnu7QwcTYGCw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:54"
+  },
+  {
+    "business_name": "Baragaon, Uttar Pradesh 221204",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "221204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baragaon, Uttar Pradesh",
+    "area": "221204",
+    "latitude": 25.428857299999997,
+    "longitude": 82.8317486,
+    "place_id": "ChIJfehy-ITWjzkRRhRvjB56ICw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfehy-ITWjzkRRhRvjB56ICw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:55"
+  }
+]

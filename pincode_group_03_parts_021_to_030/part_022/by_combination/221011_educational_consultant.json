@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TopTutor",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "221011",
+    "phone_number": "+91 94159 48403",
+    "website": "https://toptutor.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "TopTutor, 221011, India",
+    "area": "221011",
+    "latitude": 25.3722978,
+    "longitude": 82.9273905,
+    "place_id": "ChIJZVIuqhGusAURehQ_Qa3MMy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVIuqhGusAURehQ_Qa3MMy4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:06:11"
+  },
+  {
+    "business_name": "Kashi Tuition Bureau",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "221011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4853, Seer Gobardhanpur, Bhagwanpur, Varanasi, Sear Govardhan Dafi, Uttar Pradesh 221011",
+    "area": "Bhagwanpur",
+    "latitude": 25.258141,
+    "longitude": 82.999991,
+    "place_id": "ChIJOQmGXgAxjjkRyw7M18pM_5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQmGXgAxjjkRyw7M18pM_5A",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:06:11"
+  }
+]

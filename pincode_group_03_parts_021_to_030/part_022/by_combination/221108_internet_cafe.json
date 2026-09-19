@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedanta E Service Point",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Fencing salon",
+    "pincode": "221108",
+    "phone_number": "+91 98386 64283",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "dlw, Pahadi Gate, DLW, Rohaniya Varanasi, Pahadi Gaon, DLW Colony, Bhullanpur, Jalalipatti, Uttar Pradesh 221108",
+    "area": "Pahadi Gaon, DLW Colony, Bhullanpur",
+    "latitude": 25.278069499999997,
+    "longitude": 82.9494069,
+    "place_id": "ChIJN7KHTiwzjjkR4cfIVhEj974",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7KHTiwzjjkR4cfIVhEj974",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:21:36"
+  },
+  {
+    "business_name": "Digital sewa kendra",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "221108",
+    "phone_number": "+91 86047 81283",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DLW, 137, Pahadi Gate, 137, Pahadi Gaon, DLW Colony, Bhullanpur, Varanasi, Ganeshpuram, Uttar Pradesh 221108",
+    "area": "Pahadi Gaon, DLW Colony, Bhullanpur",
+    "latitude": 25.2761683,
+    "longitude": 82.9482688,
+    "place_id": "ChIJ1agLNwAzjjkRh_QFvTbSgOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1agLNwAzjjkRh_QFvTbSgOo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:21:36"
+  }
+]

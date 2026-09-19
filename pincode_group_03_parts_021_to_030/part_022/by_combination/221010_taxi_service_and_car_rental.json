@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chiku Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "221010",
+    "phone_number": "+91 62808 20037",
+    "website": "https://chikucab.com/cabs-services-in-varanasi.html",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "D - 65/426, Bauliya Lahartara, D-1A, Golghar, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Golghar, Bazardiha, Maheshpur",
+    "latitude": 25.314737599999997,
+    "longitude": 82.97349009999999,
+    "place_id": "ChIJ7WS3JT8tjjkRTcZPfASuOwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WS3JT8tjjkRTcZPfASuOwM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:39"
+  },
+  {
+    "business_name": "Varanasi Dham Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "221010",
+    "phone_number": "+91 82991 96004",
+    "website": "https://varanasidhamtravels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C19/15, near Fatman Road, near Sankalp Tutorial, A-P-R-1, Badshah Bagh Colony, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "A-P-R-1, Badshah Bagh Colony, Maldahiya, Chetganj",
+    "latitude": 25.3200954,
+    "longitude": 82.9912147,
+    "place_id": "ChIJK_OFTVstjjkRlgeUSvZz3G0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_OFTVstjjkRlgeUSvZz3G0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:42"
+  }
+]

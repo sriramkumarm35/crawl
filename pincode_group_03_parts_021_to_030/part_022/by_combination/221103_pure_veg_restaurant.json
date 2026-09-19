@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjhi Rasoi",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221103",
+    "phone_number": "+91 99360 38099",
+    "website": "https://sanjhirasoe.netlify.app/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Indian Oil Petrol Pump, Lahartara, Bazardiha, Baulia, Kotwa, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Baulia",
+    "latitude": 25.3178166,
+    "longitude": 82.9666108,
+    "place_id": "ChIJJRJR7eAtjjkRdmZ59EKFjRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRJR7eAtjjkRdmZ59EKFjRs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:42"
+  },
+  {
+    "business_name": "Hislerim Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221103",
+    "phone_number": "+91 70073 08886",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "D65/284B BAULIYA, Lahartara, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Manduwadih",
+    "latitude": 25.3156276,
+    "longitude": 82.9648015,
+    "place_id": "ChIJse2K3tMtjjkRbGmVDUiCTk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJse2K3tMtjjkRbGmVDUiCTk0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:42"
+  }
+]

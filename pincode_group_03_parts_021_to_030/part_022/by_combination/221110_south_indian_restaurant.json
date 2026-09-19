@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Brother's Dosa Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "221110",
+    "phone_number": "+91 89576 26770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Purana, near balua ghat, Ramnagar Fort, Varanasi, Uttar Pradesh 221008",
+    "area": "Ramnagar Fort, Ram nagar",
+    "latitude": 25.2711422,
+    "longitude": 83.0248503,
+    "place_id": "ChIJ-QOD5hcxjjkREGCk2dMyBUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-QOD5hcxjjkREGCk2dMyBUU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:24:02"
+  },
+  {
+    "business_name": "Dosa Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Cafe, Coffee shop, Indian restaurant",
+    "pincode": "221110",
+    "phone_number": "+91 90268 84641",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 487,
+    "address": "D15/49 Near Maan Mandir Dashaswamegh Ghat, Varanasi, Uttar Pradesh 221001",
+    "area": "Bangali Tola",
+    "latitude": 25.308329,
+    "longitude": 83.0102352,
+    "place_id": "ChIJTZfPGx4ujjkR6ceTVCYmkVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZfPGx4ujjkR6ceTVCYmkVg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:24:03"
+  }
+]

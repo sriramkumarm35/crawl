@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi sales ro plant factory",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "221107",
+    "phone_number": "+91 63872 68170",
+    "website": "https://www.roprice.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Rohaniya - DLW Road, Balirampur, Varanasi, Zafarabad, Uttar Pradesh 221302",
+    "area": "Balirampur",
+    "latitude": 25.283768199999997,
+    "longitude": 82.92220789999999,
+    "place_id": "ChIJoSfRv3ozjjkR-yPaG-nO1ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSfRv3ozjjkR-yPaG-nO1ak",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:58"
+  },
+  {
+    "business_name": "Rice mil",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Campground",
+    "all_categories": "Campground",
+    "pincode": "221107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "92HW+F6M, Sandaha, Uttar Pradesh 221112",
+    "area": "221107",
+    "latitude": 25.378719699999998,
+    "longitude": 83.0455351,
+    "place_id": "ChIJz4BVU78vjjkRO-UVqhIsnIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4BVU78vjjkRO-UVqhIsnIk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:59"
+  }
+]

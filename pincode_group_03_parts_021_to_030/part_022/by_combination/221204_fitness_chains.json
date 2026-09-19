@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Boss Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "221204",
+    "phone_number": "+91 79857 63358",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mayur vihar colony, Phulwari Village, Varanasi cantonment, Phulwaria, Varanasi, Uttar Pradesh 221106",
+    "area": "Mayur vihar colony, Phulwari Village, Varanasi cantonment",
+    "latitude": 25.325445799999997,
+    "longitude": 82.9653948,
+    "place_id": "ChIJfTxAPz4tjjkRYKv7JoadYDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTxAPz4tjjkRYKv7JoadYDM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:35:23"
+  },
+  {
+    "business_name": "K.P. SPORTS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Outdoor sports store",
+    "all_categories": "Outdoor sports store",
+    "pincode": "221204",
+    "phone_number": "+91 89573 63536",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Azamgarh Rd, near Rai Sahab bagicha, Pandeypur, Sikraul, Varanasi, Uttar Pradesh 221002",
+    "area": "Pandeypur, Sikraul",
+    "latitude": 25.3569274,
+    "longitude": 82.99302039999999,
+    "place_id": "ChIJYw67XwAvjjkR5IcOG2YqlKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYw67XwAvjjkR5IcOG2YqlKg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:35:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARNOLD GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "221204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "CRPG+HXR, Madanpur, Baragaon, Uttar Pradesh 221204",
+    "area": "221204",
+    "latitude": 25.4364775,
+    "longitude": 82.827405,
+    "place_id": "ChIJN1CzGTTVjzkRakyQpXYb5YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1CzGTTVjzkRakyQpXYb5YE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:35:22"
+  },
+  {
+    "business_name": "Harsh Gym & Fitness Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "221204",
+    "phone_number": "+91 94507 85626",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "Bhattha 221204, Baragaon, Uttar Pradesh 221204",
+    "area": "221204",
+    "latitude": 25.4305733,
+    "longitude": 82.80482289999999,
+    "place_id": "ChIJ3_AhgI7WjzkRV4VpFAFi08o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_AhgI7WjzkRV4VpFAFi08o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:35:22"
+  }
+]

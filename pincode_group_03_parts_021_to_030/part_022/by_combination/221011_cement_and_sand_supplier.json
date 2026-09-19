@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Braj Enterprises and Godown",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Warehouse",
+    "pincode": "221011",
+    "phone_number": "+91 91255 75548",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Indra Prastha Colony, opposite Roma Building, Bisokhar, Akhari, Varanasi, Uttar Pradesh 221011",
+    "area": "Bisokhar",
+    "latitude": 25.246625899999998,
+    "longitude": 82.9437489,
+    "place_id": "ChIJVznncpczjjkRbEfQF3d2RkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVznncpczjjkRbEfQF3d2RkA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:41"
+  },
+  {
+    "business_name": "Babu Enterprises Adalpura",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "221011",
+    "phone_number": "+91 94552 38148",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 35,
+    "address": "SH 74, Adalpura, Uttar Pradesh 231304",
+    "area": "221011",
+    "latitude": 25.1718893,
+    "longitude": 82.8763812,
+    "place_id": "ChIJpZjHoRrLjzkRpr05upNsB44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZjHoRrLjzkRpr05upNsB44",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Devrai",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "221202",
+    "phone_number": "+91 94158 39978",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 131,
+    "address": "Pindra Vidhayak Rod, Deorai, Uttar Pradesh 221206",
+    "area": "221202",
+    "latitude": 25.4984057,
+    "longitude": 82.8446379,
+    "place_id": "ChIJf8wz8nIqkDkRPU_JLNRNvvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8wz8nIqkDkRPU_JLNRNvvc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:14"
+  },
+  {
+    "business_name": "Maharashtra Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "221202",
+    "phone_number": "+91 96239 66230",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "19/03, Garmal, Dhayari, Pune, Maharashtra 411041",
+    "area": "Garmal, Dhayari",
+    "latitude": 18.4555144,
+    "longitude": 73.812057,
+    "place_id": "ChIJBwHEXROVwjsRNvbyHu3ZPt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwHEXROVwjsRNvbyHu3ZPt0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:34:15"
+  }
+]

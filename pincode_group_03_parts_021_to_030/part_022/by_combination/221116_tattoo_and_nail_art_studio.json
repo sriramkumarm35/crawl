@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tatoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "221116",
+    "phone_number": "+91 76006 93089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "No.2, E-4,1st Floor,Aaditya Enclave, opp. Kabadi, Bhulabhai Park, Ahmedabad, Gujarat 380022",
+    "area": "Bhulabhai Park, Behrampura",
+    "latitude": 23.0071147,
+    "longitude": 72.5877008,
+    "place_id": "ChIJkxhV1BuFXjkRKFHhM3ymwlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxhV1BuFXjkRKFHhM3ymwlU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:16"
+  },
+  {
+    "business_name": "Kings Tattoo Art",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo artist",
+    "all_categories": "Tattoo artist",
+    "pincode": "221116",
+    "phone_number": "+91 91113 88466",
+    "website": "http://kingstattooart.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kings Tattoo Art, Katra, Binjhiya, Madhya Pradesh 481661",
+    "area": "221116",
+    "latitude": 22.6070076,
+    "longitude": 80.3701652,
+    "place_id": "ChIJvX-JB3WXgDkRdlPpMscbyQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvX-JB3WXgDkRdlPpMscbyQE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:16"
+  }
+]

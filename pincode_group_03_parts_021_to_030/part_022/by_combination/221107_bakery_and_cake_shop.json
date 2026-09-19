@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "221107",
+    "phone_number": "+91 63876 27407",
+    "website": "https://shubham-bakery.odoo.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "patel market, Rohaniya - DLW Road, Bhullanpur, Gobindpur, Varanasi, Uttar Pradesh 221108",
+    "area": "Bhullanpur",
+    "latitude": 25.2877616,
+    "longitude": 82.94204049999999,
+    "place_id": "ChIJReuDD00zjjkRy6B1eGSHprI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReuDD00zjjkRy6B1eGSHprI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:27"
+  },
+  {
+    "business_name": "The Singh's Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "221107",
+    "phone_number": "+91 89579 90259",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "nath nagar colony, near KPS School, Bhulanpur PAC, Bhullanpur, Varanasi, Uttar Pradesh 221108",
+    "area": "Bhulanpur PAC, Bhullanpur",
+    "latitude": 25.2890458,
+    "longitude": 82.94187629999999,
+    "place_id": "ChIJ17rEfTAzjjkRbPzF9z0FxJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17rEfTAzjjkRbPzF9z0FxJQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:27"
+  }
+]

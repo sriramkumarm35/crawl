@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naman Honda",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "221201",
+    "phone_number": "+91 89537 53772",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "Bharthipur, Uttar Pradesh 221201",
+    "area": "221201",
+    "latitude": 25.4539385,
+    "longitude": 82.73792279999999,
+    "place_id": "ChIJLWdS1BfXjzkRHdxl9pGhmU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWdS1BfXjzkRHdxl9pGhmU8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:41"
+  },
+  {
+    "business_name": "Pari tvs",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "221201",
+    "phone_number": "+91 84375 90594",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "near Hanuman mandir, Baragaon, Uttar Pradesh 221204",
+    "area": "221201",
+    "latitude": 25.4298199,
+    "longitude": 82.8120761,
+    "place_id": "ChIJXySmABvXjzkRAVluDSJnbow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXySmABvXjzkRAVluDSJnbow",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:45"
+  }
+]

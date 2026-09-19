@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Acedmy",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "221116",
+    "phone_number": "+91 95982 00130",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, Kaithi, Dhakhawa, Uttar Pradesh 221116",
+    "area": "221116",
+    "latitude": 25.480303,
+    "longitude": 83.1379,
+    "place_id": "ChIJPdXJSOT7kTkRmZ8ulWpVSz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdXJSOT7kTkRmZ8ulWpVSz4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:03"
+  },
+  {
+    "business_name": "Ashish Chaubey",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "221116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G37Q+G7H, Gauri - Tetarpur Rd, Tatarpur, Uttar Pradesh 233223",
+    "area": "221116",
+    "latitude": 25.513800699999997,
+    "longitude": 83.08824249999999,
+    "place_id": "ChIJy3BhqVnZkTkRx2vkL4Uska8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3BhqVnZkTkRx2vkL4Uska8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:03"
+  }
+]

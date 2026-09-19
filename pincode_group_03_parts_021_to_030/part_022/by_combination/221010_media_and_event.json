@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eagle Spark Media",
+    "search_category": "Media and Event",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency, Branding agency, Graphic designer, Internet marketing service, Marketing consultant, Website designer",
+    "pincode": "221010",
+    "phone_number": "+91 87654 52794",
+    "website": "http://eaglesparkmedia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd floor, Sundar Vihar Colony, Lohta Bazar, Kerakatpur, Varanasi, Uttar Pradesh 221107",
+    "area": "Sundar Vihar Colony, Lohta Bazar",
+    "latitude": 25.3068505,
+    "longitude": 82.9493109,
+    "place_id": "ChIJa_kXYpctjjkR-FdLjuJ31DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_kXYpctjjkR-FdLjuJ31DM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:04:10"
+  },
+  {
+    "business_name": "Moonlight Pictures",
+    "search_category": "Media and Event",
+    "primary_category": "Film Production Company",
+    "all_categories": "Film Production Company, Design agency, Event management company, Graphic designer, Offset Printer, Website designer",
+    "pincode": "221010",
+    "phone_number": "+91 72758 49015",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Mahmoorganj",
+    "latitude": 25.3053766,
+    "longitude": 82.9758829,
+    "place_id": "ChIJyR4gygkyjjkR5l2ARiC9EkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyR4gygkyjjkR5l2ARiC9EkI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:04:11"
+  }
+]

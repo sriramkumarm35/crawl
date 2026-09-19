@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon-a-topia",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "221107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balloon-a-topia, Defence Colony, varunapuri colony, Phulwari Village, cantonment, Varanasi, Uttar Pradesh 221002",
+    "area": "Defence Colony, varunapuri colony, Phulwari Village, cantonment",
+    "latitude": 25.330239799999998,
+    "longitude": 82.9610295,
+    "place_id": "ChIJ2YDAQ4AtjjkRdHYOXz5cyhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YDAQ4AtjjkRdHYOXz5cyhA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:24"
+  },
+  {
+    "business_name": "Aashvi Wedding Creations",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Balloon artist, Event planner",
+    "pincode": "221107",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/aashviweddingcreations/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhitari Rd, Maheshpur, Lohta, Varanasi, Uttar Pradesh 221107",
+    "area": "Maheshpur",
+    "latitude": 25.3128486,
+    "longitude": 82.9525876,
+    "place_id": "ChIJ9zCuOWYtjjkRwJaT3RHSrA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zCuOWYtjjkRwJaT3RHSrA8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:24"
+  }
+]

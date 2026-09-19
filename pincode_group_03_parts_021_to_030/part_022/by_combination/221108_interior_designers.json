@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "the space mastermind",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "221108",
+    "phone_number": "+91 78605 36676",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "virindavan susuwahi, near om hospital, Awaleshpur, Varanasi, Kandwa, Uttar Pradesh 221106",
+    "area": "Awaleshpur",
+    "latitude": 25.2533724,
+    "longitude": 82.96214359999999,
+    "place_id": "ChIJma3LCAAzjjkRa79kTHmAsvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJma3LCAAzjjkRa79kTHmAsvw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:21:06"
+  },
+  {
+    "business_name": "Wood Green Furniture",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "221108",
+    "phone_number": "N/A",
+    "website": "https://woodgreenfurniture.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vahini PAC Gate, Bhullanpur 34, near Jio petrol pump, Varanasi, Uttar Pradesh 221108",
+    "area": "Lohta Bazar",
+    "latitude": 25.297389799999998,
+    "longitude": 82.9403962,
+    "place_id": "ChIJZ83tLvAzjjkRBiArA08kPvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ83tLvAzjjkRBiArA08kPvA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:21:08"
+  }
+]

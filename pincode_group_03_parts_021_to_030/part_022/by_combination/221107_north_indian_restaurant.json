@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJSHRI JAYEKA RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "221107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 99,
+    "address": "Varanasi - Allahabad Rd, Varanasi, Kesharipur, Uttar Pradesh 221108",
+    "area": "221107",
+    "latitude": 25.2906962,
+    "longitude": 82.9316108,
+    "place_id": "ChIJ2UlCC5cyjjkRU7RbF-H8Jws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UlCC5cyjjkRU7RbF-H8Jws",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:31"
+  },
+  {
+    "business_name": "Lemon Grass (Pdr Mall)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "221107",
+    "phone_number": "+91 72339 90088",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "PDR Mall, Luxa Rd, near Kashi Vishwanath Mandir, Sidhgiribagh, Varanasi, Uttar Pradesh 221010",
+    "area": "Sidhgiribagh",
+    "latitude": 25.3099123,
+    "longitude": 83.0028553,
+    "place_id": "ChIJu5xt3AIujjkRXadvOj06TH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5xt3AIujjkRXadvOj06TH0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:34"
+  }
+]

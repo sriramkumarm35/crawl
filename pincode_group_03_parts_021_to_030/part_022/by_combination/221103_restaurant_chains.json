@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice root",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fast food restaurant, Momo restaurant, Non Vegetarian Restaurant, Shawarma restaurant, Vegetarian restaurant",
+    "pincode": "221103",
+    "phone_number": "+91 73791 39139",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 238,
+    "address": "B 1/128, 44 Dumraon baag colony, Assi - Lanka Rd, near Dr. Mahesh Kumar Singh, Varanasi, Uttar Pradesh 221005",
+    "area": "Dumraon Colony",
+    "latitude": 25.2875317,
+    "longitude": 83.0041488,
+    "place_id": "ChIJ71OX7o0xjjkRoh8Pc9XiDMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71OX7o0xjjkRoh8Pc9XiDMU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:51"
+  },
+  {
+    "business_name": "Domino's Pizza | Manduadih,, Varanasi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "221103",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 3.3,
+    "reviews_count": 869,
+    "address": "Ground Floor, Shop No. 4, A & B, Plot No. 166 & 167, DLW Rd, Manduwadih, Varanasi, Uttar Pradesh 221103",
+    "area": "Manduwadih",
+    "latitude": 25.3006498,
+    "longitude": 82.9693202,
+    "place_id": "ChIJPY5pIaczjjkR07CKKqfzsOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPY5pIaczjjkR07CKKqfzsOg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:51"
+  }
+]

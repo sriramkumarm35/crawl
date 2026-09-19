@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airport Cab Varanasi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "221103",
+    "phone_number": "+91 63870 94243",
+    "website": "https://airportcabvaranasi.com/",
+    "rating": 4.8,
+    "reviews_count": 71,
+    "address": "Pillar No.26A-27A, Fulwaria Road, near, Lahartara Rd, Chauraha, Varanasi, Uttar Pradesh 221002",
+    "area": "Lahartara, Bazardiha, Chauraha",
+    "latitude": 25.3136384,
+    "longitude": 82.96763779999999,
+    "place_id": "ChIJofdOuhwtjjkRKGEjGpvGQPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofdOuhwtjjkRKGEjGpvGQPY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:16"
+  },
+  {
+    "business_name": "Varanasitaxi - Cab Service in Varanasi, Car Rental/Hire in India",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency",
+    "pincode": "221103",
+    "phone_number": "+91 98180 22687",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "d59/212k, lane no 1, Nirala Nagar, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Nirala Nagar, Mahmoorganj",
+    "latitude": 25.3091172,
+    "longitude": 82.9773297,
+    "place_id": "ChIJJX86-CAtjjkRhW8ybXQGF3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJX86-CAtjjkRhW8ybXQGF3Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:11:16"
+  }
+]

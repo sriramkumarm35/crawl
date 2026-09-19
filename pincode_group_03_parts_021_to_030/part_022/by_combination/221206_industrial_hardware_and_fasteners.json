@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parmar Trading Company",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "221206",
+    "phone_number": "+91 96654 30749",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Parmar Trading Company, 206, Ganesh Peth Rd, Raje Wadi, Pangul Ali, Pune, Maharashtra 411042",
+    "area": "Raje Wadi, Pangul Ali",
+    "latitude": 18.515532099999998,
+    "longitude": 73.8620838,
+    "place_id": "ChIJ26d6VDzBwjsRS0wnio1t99g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26d6VDzBwjsRS0wnio1t99g",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:38:10"
+  },
+  {
+    "business_name": "India Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "221206",
+    "phone_number": "+91 90491 39365",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Udgir Rd, Dapaka Gundopant, Maharashtra 431719",
+    "area": "221206",
+    "latitude": 18.500097099999998,
+    "longitude": 77.2775307,
+    "place_id": "ChIJT--OsQlTzjsRdiA7pKwcB6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT--OsQlTzjsRdiA7pKwcB6Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:38:11"
+  }
+]

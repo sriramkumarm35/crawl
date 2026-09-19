@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Platinum Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Property investment company, Property maintenance",
+    "pincode": "221301",
+    "phone_number": "+91 92658 53466",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "KB royal Serenity, 38, Chandkheda - Zundal Rd, Ahmedabad, Gujarat 382424",
+    "area": "221301",
+    "latitude": 23.1240684,
+    "longitude": 72.58391859999999,
+    "place_id": "ChIJX6R873eDXjkRwWMzLqrULc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6R873eDXjkRwWMzLqrULc0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:43:28"
+  },
+  {
+    "business_name": "PRIME PROPERTIES",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "221301",
+    "phone_number": "+91 93397 85494",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamrangu, Andul, Nibra, Howrah, West Bengal 711409",
+    "area": "Kamrangu, Andul",
+    "latitude": 22.6059709,
+    "longitude": 88.24968439999999,
+    "place_id": "ChIJ5zPCv6t4AjoRZ8kXNBauLf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zPCv6t4AjoRZ8kXNBauLf0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:43:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Sahni",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "221116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F5R5+WGH, Dhakhawa, Kaithi, Uttar Pradesh 221116",
+    "area": "221116",
+    "latitude": 25.4923143,
+    "longitude": 83.1588672,
+    "place_id": "ChIJLdZAawAnjjkRLq5Yrk8WdmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdZAawAnjjkRLq5Yrk8WdmU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:46"
+  },
+  {
+    "business_name": "KAVERI ESTATE AGENCY",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "221116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "G5X4+2JG Bihari gangh, Dagara, Ghoghawa, Aurihar Mehnajpur Road, Gopalapur, Saidpur, Uttar Pradesh 233223",
+    "area": "221116",
+    "latitude": 25.547571899999998,
+    "longitude": 83.156567,
+    "place_id": "ChIJz6vdKO_ZkTkRaF_PFbEJpBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6vdKO_ZkTkRaF_PFbEJpBg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:30:48"
+  }
+]

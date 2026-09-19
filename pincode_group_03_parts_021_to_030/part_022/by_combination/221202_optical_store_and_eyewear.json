@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vision Eye Care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "221202",
+    "phone_number": "+91 90440 91930",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sharda nahar, Narshimhapur road, 600metre, Ayar, Uttar Pradesh 221202",
+    "area": "221202",
+    "latitude": 25.4327933,
+    "longitude": 82.95550329999999,
+    "place_id": "ChIJ98U4amgrjjkR0dEtO48xDAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98U4amgrjjkR0dEtO48xDAc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:22"
+  },
+  {
+    "business_name": "HARIOM OPTICAL",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "221202",
+    "phone_number": "+91 94500 11115",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 54,
+    "address": "Navrang Katra, Saidham, Laxmanpur, Shivpur, Varanasi, Bashi, Uttar Pradesh 221002",
+    "area": "Laxmanpur, Shivpur",
+    "latitude": 25.363116599999998,
+    "longitude": 82.9684838,
+    "place_id": "ChIJZXApqgotjjkRNH-nZwaAS9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXApqgotjjkRNH-nZwaAS9M",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:22"
+  }
+]

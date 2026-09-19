@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gharana Bliss",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221108",
+    "phone_number": "+91 90447 87312",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "Dhanwantari Nagar Colony, Plot No. 455, Samne Ghat Rd, Bhagwanpur, Varanasi, Uttar Pradesh 221005",
+    "area": "Bhagwanpur",
+    "latitude": 25.2700015,
+    "longitude": 83.01298729999999,
+    "place_id": "ChIJTYk7y8QxjjkRFHay4MTnhjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYk7y8QxjjkRFHay4MTnhjM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:23"
+  },
+  {
+    "business_name": "Shri Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "221108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7X25+2XX, Chitaipur, Varanasi, Akhari, Uttar Pradesh 221011",
+    "area": "Chitaipur",
+    "latitude": 25.25,
+    "longitude": 82.9599999,
+    "place_id": "ChIJAezoMK4zjjkRQEnfB_kwNnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAezoMK4zjjkRQEnfB_kwNnQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:20:24"
+  }
+]

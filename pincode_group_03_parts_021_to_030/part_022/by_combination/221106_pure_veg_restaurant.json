@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalika Haveli family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Indian restaurant, Non Vegetarian Restaurant, Restaurant",
+    "pincode": "221106",
+    "phone_number": "+91 92780 91116",
+    "website": "https://www.zomato.com/varanasi/kalika-haveli-family-restaurant-lahartara",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bhadohi Road, Lohta Rd, near Omi Mart, Kerakatpur, Varanasi, Uttar Pradesh 221107",
+    "area": "Lohta Bazar",
+    "latitude": 25.3068067,
+    "longitude": 82.9489329,
+    "place_id": "ChIJ7TpQFKUtjjkRGpeW6fRalwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TpQFKUtjjkRGpeW6fRalwI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "The Food Courtyard | Sigra | Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Mahatama Gandhi Vidyapeeth, Kashi Vidyapith, Sigra, Varanasi, Uttar Pradesh 221001",
+    "area": "Kashi Vidyapith, Sigra",
+    "latitude": 25.319996,
+    "longitude": 82.9895031,
+    "place_id": "ChIJHfvZ1MYtjjkR80khN_1h8fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfvZ1MYtjjkR80khN_1h8fQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:16:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "221010",
+    "phone_number": "+91 87870 90126",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B20, 51, Kamachha Rd, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Bhelupur",
+    "latitude": 25.3000512,
+    "longitude": 82.9994152,
+    "place_id": "ChIJZamy-gcxjjkRV4sjj6yoe1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZamy-gcxjjkRV4sjj6yoe1w",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:07"
+  },
+  {
+    "business_name": "Baba Tea Stall - Tulsi Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "221010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8254+QG8, Godowliya-Luxa Rd, Sidhgiribagh, Varanasi, Uttar Pradesh 221001",
+    "area": "Sidhgiribagh",
+    "latitude": 25.309410099999997,
+    "longitude": 83.0063375,
+    "place_id": "ChIJ0cV2cfwvjjkRmYzRpLKeOS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cV2cfwvjjkRmYzRpLKeOS0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:03:07"
+  }
+]

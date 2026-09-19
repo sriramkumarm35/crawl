@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayank Siddhivinayak Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "221106",
+    "phone_number": "+91 73887 43060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Lohta Bazar, Kerakatpur, Lohta, Uttar Pradesh 221107",
+    "area": "Lohta Bazar",
+    "latitude": 25.3075627,
+    "longitude": 82.9419168,
+    "place_id": "ChIJkTBNEAItjjkRElHCIwmC-7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTBNEAItjjkRElHCIwmC-7I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:17:10"
+  },
+  {
+    "business_name": "Krishna Steel And Pipe",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Pipe supplier, Store",
+    "pincode": "221106",
+    "phone_number": "+91 95327 70521",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Awaleshpur, Kandwa, Varanasi, Uttar Pradesh 221106",
+    "area": "Awaleshpur",
+    "latitude": 25.2607821,
+    "longitude": 82.96337729999999,
+    "place_id": "ChIJu5GiAU0yjjkRP41cC2pyFzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5GiAU0yjjkRP41cC2pyFzo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:17:10"
+  }
+]

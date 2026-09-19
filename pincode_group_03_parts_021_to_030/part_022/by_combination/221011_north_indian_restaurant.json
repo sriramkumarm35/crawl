@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paprika Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant",
+    "pincode": "221011",
+    "phone_number": "+91 94552 21624",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1365,
+    "address": "BHU - Lanka Rd, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Lanka",
+    "latitude": 25.279480099999997,
+    "longitude": 83.0029608,
+    "place_id": "ChIJT4VqBskxjjkRsw6aiYsXlxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4VqBskxjjkRsw6aiYsXlxc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:02"
+  },
+  {
+    "business_name": "Shri Kripa Family Restaurant & Banquet",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "221011",
+    "phone_number": "+91 91256 69366",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bypass Chauraha, Amara Village, Bari bazar, Akhari, Amara Khaira Chak, Uttar Pradesh 221106",
+    "area": "Amara Village, Bari bazar",
+    "latitude": 25.2493782,
+    "longitude": 82.9547276,
+    "place_id": "ChIJ4a_sPrczjjkRu-5Ph4dypr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4a_sPrczjjkRu-5Ph4dypr8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:05:03"
+  }
+]

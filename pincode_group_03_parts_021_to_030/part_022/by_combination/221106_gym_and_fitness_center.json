@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cobram Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "221106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 48,
+    "address": "Chunar Rd, Awaleshpur, Varanasi, Kandwa, Uttar Pradesh 221106",
+    "area": "Awaleshpur",
+    "latitude": 25.261796399999998,
+    "longitude": 82.9639698,
+    "place_id": "ChIJAaTeIh0zjjkRItGbB7Klcm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaTeIh0zjjkRItGbB7Klcm4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:16:59"
+  },
+  {
+    "business_name": "CROSSFIT CLUB GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "221106",
+    "phone_number": "+91 91253 70306",
+    "website": "http://crossfit-gymclub.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shiv Ratan Pur, Lakhraw Road, Bajardiha, Varanasi, Uttar Pradesh 221106",
+    "area": "Bajardiha",
+    "latitude": 25.293782699999998,
+    "longitude": 82.9772294,
+    "place_id": "ChIJNSduo-szjjkRdMktwNvwZOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSduo-szjjkRdMktwNvwZOk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:17:00"
+  }
+]

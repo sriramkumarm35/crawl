@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Maharaja dhaba and family restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221202",
+    "phone_number": "+91 99369 62500",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 122,
+    "address": "Babusrai, Kataka, Uttar Pradesh 221314",
+    "area": "221202",
+    "latitude": 25.2573994,
+    "longitude": 82.65779979999999,
+    "place_id": "ChIJ1UURtWjFjzkRtg5kzSaHLAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UURtWjFjzkRtg5kzSaHLAk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:05"
+  },
+  {
+    "business_name": "Highway City Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "221202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "4V8V+QFM, NH37, Patarkuchi, Tepesia, Assam 782402",
+    "area": "Patarkuchi",
+    "latitude": 26.116950199999998,
+    "longitude": 91.8936828,
+    "place_id": "ChIJPwuzOxn0WjcRBhD6siNADO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwuzOxn0WjcRBhD6siNADO0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashi Property",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Real estate consultant",
+    "pincode": "221104",
+    "phone_number": "+91 74087 00002",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Barai Rd, Varanasi, Umaraha, Uttar Pradesh 221104",
+    "area": "221104",
+    "latitude": 25.3898944,
+    "longitude": 83.0688138,
+    "place_id": "ChIJh3jD1KEvjjkRL-x7RuXkCFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3jD1KEvjjkRL-x7RuXkCFo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:14:04"
+  },
+  {
+    "business_name": "बरकत एसोसिएट",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "221104",
+    "phone_number": "+91 91983 99576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8476+7P9, चन्दौली, मवईकलाँ, Mahadevpur, Uttar Pradesh 232101",
+    "area": "चन्दौली, मवईकलाँ",
+    "latitude": 25.3131578,
+    "longitude": 83.1118594,
+    "place_id": "ChIJcU9IUC0ljjkRcnr0lmmTSyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcU9IUC0ljjkRcnr0lmmTSyA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:14:06"
+  }
+]

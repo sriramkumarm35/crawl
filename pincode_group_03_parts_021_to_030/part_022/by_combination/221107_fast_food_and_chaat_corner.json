@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Guru Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221107",
+    "phone_number": "+91 85769 11839",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4567, Bhitari Rd, Maheshpur, Varanasi, Bhitari, Uttar Pradesh 221106",
+    "area": "Maheshpur",
+    "latitude": 25.3136233,
+    "longitude": 82.9537842,
+    "place_id": "ChIJb3PL3WItjjkR2_yfgw_j6Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3PL3WItjjkR2_yfgw_j6Xs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:33"
+  },
+  {
+    "business_name": "Vishal Chat Chauming Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221107",
+    "phone_number": "+91 93053 62700",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rohaniya, Govindpur, Balirampur, Govindpur, Varanasi, Uttar Pradesh 221108",
+    "area": "Govindpur, Balirampur",
+    "latitude": 25.2885958,
+    "longitude": 82.9270567,
+    "place_id": "ChIJ04EcZTkzjjkRJjWBcBnB1gI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04EcZTkzjjkRJjWBcBnB1gI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:33"
+  }
+]

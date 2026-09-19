@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hangout Cafe Assi Ghat",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "221116",
+    "phone_number": "+91 79056 21968",
+    "website": "https://www.instagram.com/hangoutcafe_assi?igsh=YWhlZzA3ZjVlZWx2",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dumraon Bagh Colony, 72Q3+4Q, B-1/122, plot No. 45, Assi Ghat Rd, Assi Ghat, Varanasi, Uttar Pradesh 221005",
+    "area": "Assi Ghat, Dumraon Colony",
+    "latitude": 25.287861499999998,
+    "longitude": 83.004387,
+    "place_id": "ChIJh-z6m7UxjjkREJGzHfLBbG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-z6m7UxjjkREJGzHfLBbG0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:33"
+  },
+  {
+    "business_name": "Sparrow Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Breakfast restaurant, Cafe, Diner",
+    "pincode": "221116",
+    "phone_number": "+91 79090 07364",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 609,
+    "address": "Plot no 52, Dumraobagh colony, Ground floor, Assi - Lanka Rd, Varanasi, Uttar Pradesh 221005",
+    "area": "Dumraon Colony",
+    "latitude": 25.287996699999997,
+    "longitude": 83.0043603,
+    "place_id": "ChIJk8Gvku0xjjkRI39Uied7GKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8Gvku0xjjkRI39Uied7GKg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:29:35"
+  }
+]

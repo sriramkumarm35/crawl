@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aadya Salon & Spa Unisex - Varanasi",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "221105",
+    "phone_number": "N/A",
+    "website": "https://aadyasalonandspa.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivpur Bypass Rd, Bharlai, Shivpur, Varanasi, Uttar Pradesh 221003",
+    "area": "Bharlai, Shivpur",
+    "latitude": 25.3615341,
+    "longitude": 82.94995159999999,
+    "place_id": "ChIJ7UzN840tjjkRGPbUT0bx6U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UzN840tjjkRGPbUT0bx6U0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:24"
+  },
+  {
+    "business_name": "THYROCARE COLLECTION CENTRE",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "221105",
+    "phone_number": "+91 88877 52478",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Premnagar, Babatpur Road, Gahuran, Gaura, Uttar Pradesh 221202",
+    "area": "Gahuran",
+    "latitude": 25.4545303,
+    "longitude": 82.9280319,
+    "place_id": "ChIJR4kYmrQrjjkROC6lJjTYTp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4kYmrQrjjkROC6lJjTYTp4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:26"
+  }
+]

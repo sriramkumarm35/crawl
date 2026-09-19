@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tikka's resto",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221202",
+    "phone_number": "+91 90443 12035",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 98,
+    "address": "9XP6+M7Q, Dandupur, Varanasi, Uttar Pradesh 221003",
+    "area": "221202",
+    "latitude": 25.386725,
+    "longitude": 82.9603083,
+    "place_id": "ChIJwWa1cwAtjjkRmFf7S_h3LXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWa1cwAtjjkRmFf7S_h3LXU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:04"
+  },
+  {
+    "business_name": "Lucknowi Zaika | The Taste Of Nawab's | Varanasi",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "221202",
+    "phone_number": "+91 70805 01700",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 248,
+    "address": "S -19/48 A, Victory Bridge, near CUTTING MEMORIAL SCHOOL, Varuna Bridge, JADID BAZAR, Nadesar, Chaukaghat, Varanasi, Uttar Pradesh 221002",
+    "area": "Varuna Bridge, JADID BAZAR, Nadesar, Chaukaghat",
+    "latitude": 25.3379621,
+    "longitude": 82.982726,
+    "place_id": "ChIJ8V16wootjjkRewAG5b0rQik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8V16wootjjkRewAG5b0rQik",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:33:05"
+  }
+]

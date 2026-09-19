@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Parlour (SD)",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "221201",
+    "phone_number": "+91 98395 80000",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "CQQ9+QC7, SH 98, Kharawan, Uttar Pradesh 221201",
+    "area": "221201",
+    "latitude": 25.43941,
+    "longitude": 82.7686033,
+    "place_id": "ChIJi642_r7XjzkRoQ_xkvBpOPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi642_r7XjzkRoQ_xkvBpOPo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:06"
+  },
+  {
+    "business_name": "Lucky Amul Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "221201",
+    "phone_number": "+91 95698 04749",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baragaon Bajar Pachimi Chor, Uttar Pradesh 221204",
+    "area": "221201",
+    "latitude": 25.4300493,
+    "longitude": 82.8142178,
+    "place_id": "ChIJI3VkMJHXjzkRcn7LpFn7GdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3VkMJHXjzkRcn7LpFn7GdQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:31:06"
+  }
+]

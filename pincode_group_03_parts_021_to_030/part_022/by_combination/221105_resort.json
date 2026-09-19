@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE GAUTAM RESORT BY SND HOSPITALITY",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "221105",
+    "phone_number": "N/A",
+    "website": "https://thegautamresort.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivpur, Ganeshpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Shivpur",
+    "latitude": 25.369092,
+    "longitude": 82.9259005,
+    "place_id": "ChIJcQ4-YcQtjjkRyIouf2DZB7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQ4-YcQtjjkRyIouf2DZB7o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:38"
+  },
+  {
+    "business_name": "Banaras Blossom Resort",
+    "search_category": "Resort",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "221105",
+    "phone_number": "N/A",
+    "website": "http://banarasblossomresort.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9W9Q+C66, Bharilayi, Hatiya, Uttar Pradesh 221003",
+    "area": "Bharilayi",
+    "latitude": 25.368560799999997,
+    "longitude": 82.9379792,
+    "place_id": "ChIJqTmpdgAtjjkRI7QZ6qT4CKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTmpdgAtjjkRI7QZ6qT4CKM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:38"
+  }
+]

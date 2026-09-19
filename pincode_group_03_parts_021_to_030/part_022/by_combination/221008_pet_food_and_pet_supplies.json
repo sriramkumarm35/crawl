@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramnagar Pet world",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "221008",
+    "phone_number": "+91 93367 74452",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Bhiti Panchwati Road, Ramnagar, Kabirpur, Varanasi, Ramnagar, Uttar Pradesh 221008",
+    "area": "Ramnagar, Kabirpur",
+    "latitude": 25.27646,
+    "longitude": 83.0334524,
+    "place_id": "ChIJf515k0cxjjkRMUv3GoNtZz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf515k0cxjjkRMUv3GoNtZz0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:59:25"
+  },
+  {
+    "business_name": "The pet universe",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "221008",
+    "phone_number": "+91 70808 82723",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Jalilpur, Parao, Varanasi, Uttar Pradesh 221008",
+    "area": "Parao",
+    "latitude": 25.3095194,
+    "longitude": 83.04880539999999,
+    "place_id": "ChIJjTZmmfcxjjkRj8wToQ2C1Fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTZmmfcxjjkRj8wToQ2C1Fw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:59:25"
+  }
+]

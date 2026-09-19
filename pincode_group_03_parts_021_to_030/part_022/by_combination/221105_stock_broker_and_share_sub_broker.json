@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pat-i",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "221105",
+    "phone_number": "+91 76762 61537",
+    "website": "https://pat-idea.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vistara Apt, 312, 39th Main, Poorna Pragna Layout, Subramanyapura, Bengaluru, Karnataka 560061",
+    "area": "Poorna Pragna Layout, Subramanyapura",
+    "latitude": 12.9020374,
+    "longitude": 77.5393871,
+    "place_id": "ChIJ558JNCg_rjsR8Hwk-G2W-g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ558JNCg_rjsR8Hwk-G2W-g8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:59"
+  },
+  {
+    "business_name": "Shivay Financial Services",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance agency, Insurance broker, Investment service, Financial planner",
+    "pincode": "221105",
+    "phone_number": "+91 94997 56942",
+    "website": "https://shivayfinancial.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5th, Shyam, Raiya Rd, near Ambika Park Society, Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar, Rajkot, Gujarat 360007",
+    "area": "Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar",
+    "latitude": 22.299723399999998,
+    "longitude": 70.7771116,
+    "place_id": "ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:15:59"
+  }
+]

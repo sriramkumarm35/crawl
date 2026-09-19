@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WHOLE SALE RICE AND GRAIN MERCHANT",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Agricultural Product Wholesaler",
+    "pincode": "221109",
+    "phone_number": "+91 93004 32026",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NIWARGANJ GALLA MANDI, 347, Gandhiganj Rd, near KABOOTARKHANA, Sushi Mandi, Jabalpur, Madhya Pradesh 482002",
+    "area": "Sushi Mandi",
+    "latitude": 23.1768355,
+    "longitude": 79.92944399999999,
+    "place_id": "ChIJZZBlXlevgTkRW57VGerYGag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZBlXlevgTkRW57VGerYGag",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:13"
+  },
+  {
+    "business_name": "Rice shop",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "221109",
+    "phone_number": "+91 83053 23388",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 34, Katangi, Madhya Pradesh 483105",
+    "area": "221109",
+    "latitude": 23.4388167,
+    "longitude": 79.79642849999999,
+    "place_id": "ChIJL2E6BiOVgTkRxH39sfYdias",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2E6BiOVgTkRxH39sfYdias",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:22:13"
+  }
+]

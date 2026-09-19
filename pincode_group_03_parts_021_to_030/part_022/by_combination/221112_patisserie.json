@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cake Bake",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "221112",
+    "phone_number": "N/A",
+    "website": "http://facebook.com/thecakebakevns",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "9XJH+67F, Checkpost, Bada Lalpur, Chandmari, Varanasi, Lalpur, Uttar Pradesh 221002",
+    "area": "Bada Lalpur, Chandmari",
+    "latitude": 25.3805621,
+    "longitude": 82.9781836,
+    "place_id": "ChIJxXqkjRYsjjkRuxNlmwoysgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXqkjRYsjjkRuxNlmwoysgU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:25:48"
+  },
+  {
+    "business_name": "NEW INDIA TRADERS",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "221112",
+    "phone_number": "+91 70079 95157",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9X3W+4VP, chaura nagar colony, Pandeypur, Paharia, Varanasi, Uttar Pradesh 221002",
+    "area": "Pandeypur, Paharia",
+    "latitude": 25.352834899999998,
+    "longitude": 82.9972011,
+    "place_id": "ChIJQSnsdzUvjjkRW830u4GFHEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSnsdzUvjjkRW830u4GFHEs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:25:48"
+  }
+]

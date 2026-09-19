@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "221107",
+    "phone_number": "+91 87870 88051",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "D-65/7920, Sundar Vihar Colony, Lohta Bazar, Varanasi, Kerakatpur, Uttar Pradesh 221107",
+    "area": "Sundar Vihar Colony, Lohta Bazar",
+    "latitude": 25.3069749,
+    "longitude": 82.946664,
+    "place_id": "ChIJ8RRbRX4tjjkRAOGJI_atXyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RRbRX4tjjkRAOGJI_atXyE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:02"
+  },
+  {
+    "business_name": "Imam Khan & Sons",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "221107",
+    "phone_number": "+91 94078 65151",
+    "website": "https://imam-khan-sons.netlify.app/",
+    "rating": 4.7,
+    "reviews_count": 208,
+    "address": "Clock Tower Rd, Badi Omti, Jabalpur, Madhya Pradesh 482002",
+    "area": "Badi Omti",
+    "latitude": 23.170265,
+    "longitude": 79.93912379999999,
+    "place_id": "ChIJzyyeBhOugTkRWfVgWQBUu88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyyeBhOugTkRWfVgWQBUu88",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:19:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "221008",
+    "phone_number": "+91 93361 36165",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No. 157, 158, Malviya Market, Maidagin, Varanasi, Uttar Pradesh 221001",
+    "area": "Bisweshwarganj",
+    "latitude": 25.318711999999998,
+    "longitude": 83.0150697,
+    "place_id": "ChIJoeA5bhgujjkRYodm4h4eTrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeA5bhgujjkRYodm4h4eTrE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:59:40"
+  },
+  {
+    "business_name": "Gupta Shoe House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "221008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Gurudwara Gali, Near Thana, Chowk, Kabirpur, Ramnagar, Varanasi, Uttar Pradesh 221008",
+    "area": "Near Thana, Chowk, Kabirpur",
+    "latitude": 25.2703883,
+    "longitude": 83.0306324,
+    "place_id": "ChIJe5eklq4xjjkR2blIjKQOUEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5eklq4xjjkR2blIjKQOUEQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 05:59:40"
+  }
+]

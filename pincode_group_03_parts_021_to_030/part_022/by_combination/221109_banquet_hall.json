@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samriddhi Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "221109",
+    "phone_number": "+91 96281 47185",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Deura, Panchkoshi Rd, Kashipur, Uttar Pradesh 221311",
+    "area": "221109",
+    "latitude": 25.2490129,
+    "longitude": 82.90279269999999,
+    "place_id": "ChIJ1eXEUF_NjzkRiHTxK9A8YlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1eXEUF_NjzkRiHTxK9A8YlM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:07"
+  },
+  {
+    "business_name": "Radha Krishna Upwan",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "221109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sindhora Rd, Narayanpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Narayanpur",
+    "latitude": 25.356277199999997,
+    "longitude": 82.97575859999999,
+    "place_id": "ChIJY3nzYjQsjjkRg7tsCC4WwIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3nzYjQsjjkRg7tsCC4WwIM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:23:10"
+  }
+]

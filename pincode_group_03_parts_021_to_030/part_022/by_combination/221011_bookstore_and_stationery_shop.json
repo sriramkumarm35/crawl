@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL BOOKS & STATIONERY",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "221011",
+    "phone_number": "+91 79057 22679",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Pahari Gate, Nakain Road, madaw , Varanasi Pahari Gate, Nakain Road, Pahari Gate, Road, madaw, Varanasi, Nakain, Uttar Pradesh 221001",
+    "area": "madaw",
+    "latitude": 25.276950499999998,
+    "longitude": 82.9426214,
+    "place_id": "ChIJJyQkuQAzjjkRnHK-lCD0rv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyQkuQAzjjkRnHK-lCD0rv0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:06:11"
+  },
+  {
+    "business_name": "Patel Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "221011",
+    "phone_number": "+91 84169 96999",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 67,
+    "address": "Jagatpur, Varanasi, Uttar Pradesh 221302",
+    "area": "Balirampur",
+    "latitude": 25.2822498,
+    "longitude": 82.9112571,
+    "place_id": "ChIJLwAAwMsyjjkRka-glwQ8_bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwAAwMsyjjkRka-glwQ8_bQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:06:11"
+  }
+]

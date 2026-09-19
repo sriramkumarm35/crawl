@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nivas Realty",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "221106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Awaleshpur, Varanasi, Kandwa, Uttar Pradesh 221106",
+    "area": "Awaleshpur",
+    "latitude": 25.260006399999998,
+    "longitude": 82.96302399999999,
+    "place_id": "ChIJvQ3Y2LIzjjkRYaqw_1ZFblE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQ3Y2LIzjjkRYaqw_1ZFblE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:01"
+  },
+  {
+    "business_name": "R.K. Property Dealer",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Building materials supplier",
+    "pincode": "221106",
+    "phone_number": "+91 94153 43325",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "7X56+6RX, Chunar Rd, Near Shishav Beer Baba, Near Chaura Mata Mandir, Awaleshpur, Varanasi, Kandwa, Uttar Pradesh 221106",
+    "area": "Near Chaura Mata Mandir, Awaleshpur",
+    "latitude": 25.258101399999997,
+    "longitude": 82.9621243,
+    "place_id": "ChIJy5VLtLIzjjkRnFc5-8jzznU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5VLtLIzjjkRnFc5-8jzznU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:18:02"
+  }
+]

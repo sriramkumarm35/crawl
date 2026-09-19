@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "221103",
+    "phone_number": "+91 94156 95669",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Chhittupura, Shivpurwa, Varanasi, Uttar Pradesh 221002",
+    "area": "Chhittupura, Shivpurwa",
+    "latitude": 25.3133999,
+    "longitude": 82.9804948,
+    "place_id": "ChIJ3TI4x_AtjjkRpaz2GpANHAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TI4x_AtjjkRpaz2GpANHAM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:39"
+  },
+  {
+    "business_name": "Gupta general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "221103",
+    "phone_number": "+91 95803 59015",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 20,
+    "address": "1, Bhitari Rd, Lahartara, Bazardiha, Maheshpur, Varanasi, Uttar Pradesh 221106",
+    "area": "Lahartara, Bazardiha, Maheshpur",
+    "latitude": 25.314827599999997,
+    "longitude": 82.961081,
+    "place_id": "ChIJ7XYvnaYtjjkRdxCXBavbTUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XYvnaYtjjkRdxCXBavbTUE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:10:39"
+  }
+]
