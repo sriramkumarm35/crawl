@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa consulting services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "243751",
+    "phone_number": "+91 90167 18500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maa consulting services, 243751, India",
+    "area": "243751",
+    "latitude": 21.6548114,
+    "longitude": 72.0239833,
+    "place_id": "ChIJ-7QDTeEH4jsR3O-TBJBxCIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7QDTeEH4jsR3O-TBJBxCIg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:16:13"
+  },
+  {
+    "business_name": "Advisure Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Hotel, Restaurant",
+    "pincode": "243751",
+    "phone_number": "+91 98146 71220",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot #995, Level 3 Sector 82, JLPL Industrial Area, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.6518694,
+    "longitude": 76.7319572,
+    "place_id": "ChIJq6qqqhXtDzkR6pfH-_etPwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqhXtDzkR6pfH-_etPwk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:16:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fab Closet, Moradabad",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing store",
+    "pincode": "244105",
+    "phone_number": "+91 80770 95848",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Fab Closet, HIG-A-38, opposite Khanna Driving School, Deen Dayal Nagar Phase 2, Deen Dayal Nagar-II, Moradabad, Uttar Pradesh 244105",
+    "area": "Deen Dayal Nagar Phase 2, Deen Dayal Nagar-II",
+    "latitude": 28.8666238,
+    "longitude": 78.7549607,
+    "place_id": "ChIJIyPDaqb5CjkRaU3W76gJKZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyPDaqb5CjkRaU3W76gJKZg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:19"
+  },
+  {
+    "business_name": "AL Nasir Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "244105",
+    "phone_number": "+91 82668 84991",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mufti Tola, Near, Gokuldass Road, Faiz Ganj, Moradabad, Uttar Pradesh 244001",
+    "area": "Faiz Ganj",
+    "latitude": 28.8383659,
+    "longitude": 78.7861944,
+    "place_id": "ChIJ_UVBWA_7CjkR4f-l2xMckpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UVBWA_7CjkR4f-l2xMckpo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:22"
+  }
+]

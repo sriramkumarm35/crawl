@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru raj Eye clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "244231",
+    "phone_number": "+91 94569 91190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Amroha Rd, Gandhi Nagar, Dhanaura, Uttar Pradesh 244231",
+    "area": "Gandhi Nagar",
+    "latitude": 28.958440999999997,
+    "longitude": 78.25830599999999,
+    "place_id": "ChIJVX9KXQWfCzkRTve_N0WX24k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVX9KXQWfCzkRTve_N0WX24k",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:33:07"
+  },
+  {
+    "business_name": "Dr.Satpal Singh Clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "244231",
+    "phone_number": "+91 97194 92783",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2857+6RG, Para Khalsa, Salda Nagla, Uttar Pradesh 244231",
+    "area": "244231",
+    "latitude": 29.008074299999997,
+    "longitude": 78.3145761,
+    "place_id": "ChIJ6bizFRGjCzkR49kPeElmojs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bizFRGjCzkR49kPeElmojs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:33:08"
+  }
+]

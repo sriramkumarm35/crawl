@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chemical Factory",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "244231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "45WM+XMX, Block Jalilpur, Kutubpur Gawri, Uttar Pradesh 246725",
+    "area": "244231",
+    "latitude": 29.147493299999997,
+    "longitude": 78.1842424,
+    "place_id": "ChIJVVVVRT-RCzkRIelau_D2h7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVRT-RCzkRIelau_D2h7Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:34:08"
+  },
+  {
+    "business_name": "Panacea ChemFarmacia I Universal Cure",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "244231",
+    "phone_number": "+91 79865 74361",
+    "website": "https://www.pcfarmacia.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "47RC+7X7, Chandpur - Bijnor Rd, Chandpur, Uttar Pradesh 246725",
+    "area": "244231",
+    "latitude": 29.1407334,
+    "longitude": 78.2722835,
+    "place_id": "ChIJh2ugPZvvCzkREd_epWI5ksk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2ugPZvvCzkREd_epWI5ksk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:34:08"
+  }
+]

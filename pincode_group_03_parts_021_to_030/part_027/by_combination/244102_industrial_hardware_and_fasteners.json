@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Hardware Store",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RPGF+X5V, Delhi Rd, near by Bank Of India, Majhola, Pakwara, Moradabad, Uttar Pradesh 244103",
+    "area": "Majhola",
+    "latitude": 28.8274768,
+    "longitude": 78.72291229999999,
+    "place_id": "ChIJfxDed0D8CjkR_kPi9FXZ7cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxDed0D8CjkR_kPi9FXZ7cg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:12"
+  },
+  {
+    "business_name": "Mohammad pur Bastour",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 11,
+    "address": "QQF2+X9C, Moradabad, Faridpur Hamir, Uttar Pradesh 244001",
+    "area": "244102",
+    "latitude": 28.774930299999998,
+    "longitude": 78.750888,
+    "place_id": "ChIJF-DBn_T7CjkRId38SnuFsDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-DBn_T7CjkRId38SnuFsDE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:15"
+  }
+]

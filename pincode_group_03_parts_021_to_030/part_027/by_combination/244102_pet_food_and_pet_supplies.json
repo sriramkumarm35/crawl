@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar's Pet Breeder",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "244102",
+    "phone_number": "+91 63972 04868",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 13,
+    "address": "Lakri Fazalpur, Moradabad, Uttar Pradesh 244103",
+    "area": "Lakri Fazalpur",
+    "latitude": 28.821377899999998,
+    "longitude": 78.7270728,
+    "place_id": "ChIJfZAeRz_8CjkRAxRIGlFvCAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZAeRz_8CjkRAxRIGlFvCAI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:18:45"
+  },
+  {
+    "business_name": "SRI SAI RAM TRADERS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "244102",
+    "phone_number": "+91 73513 10000",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "RPVH+GRF, Shahpur Tigri Rd, Shahpur Tigri, Khushhalpur, Moradabad, Uttar Pradesh 244103",
+    "area": "Shahpur Tigri, Khushhalpur",
+    "latitude": 28.843815199999998,
+    "longitude": 78.72955379999999,
+    "place_id": "ChIJNYfdaRn8CjkRxQ-DGkhx4FM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYfdaRn8CjkRxQ-DGkhx4FM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:18:47"
+  }
+]

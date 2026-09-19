@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D D Ice Plant",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice supplier",
+    "all_categories": "Ice supplier",
+    "pincode": "244105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQGG+29H, Rampur Rd, Gandhi Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.825068199999997,
+    "longitude": 78.7759852,
+    "place_id": "ChIJvxDx9bv7CjkRQTwzcB0Lgqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxDx9bv7CjkRQTwzcB0Lgqo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:08"
+  },
+  {
+    "business_name": "WHITE CROW SUPERMARKET",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Beverage Store, Countertop store, Dairy store, Grocery store, Grocery delivery service, Household goods wholesaler, Indian grocery store, Pet groomer, Shopping mall",
+    "pincode": "244105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 111,
+    "address": "Delhi Rd, Vikas Colony, Buddhi Vihar, Moradabad, Uttar Pradesh 244103",
+    "area": "Vikas Colony, Buddhi Vihar",
+    "latitude": 28.8329244,
+    "longitude": 78.7442694,
+    "place_id": "ChIJR9njLjf9CjkRNkN8Z9ApJ4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9njLjf9CjkRNkN8Z9ApJ4E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:09"
+  }
+]

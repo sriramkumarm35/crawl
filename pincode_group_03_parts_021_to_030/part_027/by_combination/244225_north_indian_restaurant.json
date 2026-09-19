@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tipu Sultan",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "244225",
+    "phone_number": "+91 98182 38953",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 172,
+    "address": "P7CP+P9F, City Rd, Hasanpur, Uttar Pradesh 244241",
+    "area": "244225",
+    "latitude": 28.721816699999998,
+    "longitude": 78.2859339,
+    "place_id": "ChIJgR7KTWJzCzkRIy8G73TdKZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgR7KTWJzCzkRIy8G73TdKZg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:31:09"
+  },
+  {
+    "business_name": "Ashu Enterprises | Tata Steel Dealer",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Door shop",
+    "all_categories": "Door shop, Door manufacturer, Door supplier, Iron & Steel Store, Tools Wholesaler, Window supplier",
+    "pincode": "244225",
+    "phone_number": "+91 95363 81181",
+    "website": "https://stores.tatapravesh.com/kavi-nagar/ashu_enterprises/",
+    "rating": 4.6,
+    "reviews_count": 142,
+    "address": "Atarpura-Fazalpur Road, Kavi Nagar, Gajraula, Uttar Pradesh 244235",
+    "area": "244225",
+    "latitude": 28.838078199999998,
+    "longitude": 78.24058889999999,
+    "place_id": "ChIJOw5-i1t0CzkRomLtAdEoz68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOw5-i1t0CzkRomLtAdEoz68",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:31:11"
+  }
+]

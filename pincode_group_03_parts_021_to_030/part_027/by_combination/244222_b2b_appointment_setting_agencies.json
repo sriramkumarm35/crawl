@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salesable",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Education center, Software company",
+    "pincode": "244222",
+    "phone_number": "N/A",
+    "website": "http://www.salesable.co/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "7 Temasek Blvd, #12-07 Suntec Tower One, Singapore 038987",
+    "area": "Central Area",
+    "latitude": 1.2954193999999999,
+    "longitude": 103.85847779999999,
+    "place_id": "ChIJz_aFVAUZ2jEREqE2FgbjnCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_aFVAUZ2jEREqE2FgbjnCg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:29:12"
+  },
+  {
+    "business_name": "MetaWise Pvt Ltd",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "244222",
+    "phone_number": "N/A",
+    "website": "https://themetawise.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MetaWise Pvt Ltd, 244222, India",
+    "area": "244222",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJB45RDPxnUjoRotc8x3rLYS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB45RDPxnUjoRotc8x3rLYS8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:29:12"
+  }
+]

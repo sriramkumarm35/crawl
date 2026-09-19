@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shake It Up Cafe & Lounge",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Fast food restaurant, Restaurant",
+    "pincode": "244102",
+    "phone_number": "+91 80066 63388",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1254,
+    "address": "Civil Lines, Moradabad, Uttar Pradesh 244001",
+    "area": "Civil Lines",
+    "latitude": 28.8452313,
+    "longitude": 78.7693546,
+    "place_id": "ChIJswisvuX7CjkRJ1aAgtFFSrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswisvuX7CjkRJ1aAgtFFSrE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:18:49"
+  },
+  {
+    "business_name": "Azizi Market",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "244102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "RMF9+3VH, Azizi Road, Pakwara, Uttar Pradesh 244102",
+    "area": "244102",
+    "latitude": 28.8226919,
+    "longitude": 78.6697228,
+    "place_id": "ChIJp2V_tZL9CjkRNlx3G9WIsnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2V_tZL9CjkRNlx3G9WIsnM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:18:50"
+  }
+]

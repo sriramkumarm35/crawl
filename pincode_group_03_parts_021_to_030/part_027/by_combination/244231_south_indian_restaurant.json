@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madras Dosa n cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "244231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "47JF+2RV, Chandpur, Uttar Pradesh 246725",
+    "area": "244231",
+    "latitude": 29.130122,
+    "longitude": 78.2745506,
+    "place_id": "ChIJe8LuBwCXCzkRovTAY3bu8So",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8LuBwCXCzkRovTAY3bu8So",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:32:51"
+  },
+  {
+    "business_name": "ANDHRA DOSA JUNCTION",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "244231",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/andhradosajunction?igsh=bzdyOXp3c3N5eWlk",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHUNGINAKA, in front of MPEB POWER HOUSE, Jabalpur, Madhya Pradesh 482002",
+    "area": "Karmeta",
+    "latitude": 23.1980154,
+    "longitude": 79.905853,
+    "place_id": "ChIJQxkoETyxgTkR7GOjKrqlnok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxkoETyxgTkR7GOjKrqlnok",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:32:53"
+  }
+]

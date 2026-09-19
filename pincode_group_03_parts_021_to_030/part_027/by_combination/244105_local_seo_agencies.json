@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Creative Web",
+    "search_category": "Local SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Website designer",
+    "pincode": "244105",
+    "phone_number": "N/A",
+    "website": "https://www.mycreativeweb.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Second Floor, Exide Care, 15 & 16, Delhi Rd, near Sai Hospital, Mansarover Colony, Buddhi Vihar, Moradabad, Uttar Pradesh 244103",
+    "area": "Mansarover Colony, Buddhi Vihar",
+    "latitude": 28.8325134,
+    "longitude": 78.7434079,
+    "place_id": "ChIJx_anr7v9CjkRxfDWtz14OLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_anr7v9CjkRxfDWtz14OLQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:25:42"
+  },
+  {
+    "business_name": "The Rude Engineer",
+    "search_category": "Local SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Computer support and services, Website designer",
+    "pincode": "244105",
+    "phone_number": "+91 98377 90067",
+    "website": "https://therudeengineer.com/website-developer-in-moradabad",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Basant Bihar Colony, Khushhalpur, Moradabad, Uttar Pradesh 244103",
+    "area": "Khushhalpur",
+    "latitude": 28.845857199999998,
+    "longitude": 78.7299353,
+    "place_id": "ChIJx-t-YU39CjkRTe233t1bdhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-t-YU39CjkRTe233t1bdhk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:25:42"
+  }
+]

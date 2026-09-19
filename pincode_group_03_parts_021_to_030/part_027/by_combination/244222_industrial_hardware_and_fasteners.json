@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good Luck Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244222",
+    "phone_number": "+91 98228 66273",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Jinsi Rd, Nawabpura, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Nawabpura, Mondha",
+    "latitude": 19.8855376,
+    "longitude": 75.3379247,
+    "place_id": "ChIJY7xpoxWY2zsRdP-6tLj51kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7xpoxWY2zsRdP-6tLj51kI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:29:04"
+  },
+  {
+    "business_name": "Rajeev Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244222",
+    "phone_number": "+91 98373 55134",
+    "website": "https://bizcardindia.com/RAJEEV-HARDWARE",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "5/186- C, Dayanand path, naya bazar, Meerut, Uttar Pradesh 250001",
+    "area": "naya bazar",
+    "latitude": 28.9950519,
+    "longitude": 77.7018058,
+    "place_id": "ChIJV-jx0wBlDDkROTK5_O2uaOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-jx0wBlDDkROTK5_O2uaOs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:29:04"
+  }
+]

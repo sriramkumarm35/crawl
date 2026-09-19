@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "244103",
+    "phone_number": "+91 74175 92011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "Gali no.4, Milan Vihar Rd, Khushhalpur, Moradabad, Uttar Pradesh 244001",
+    "area": "Khushhalpur",
+    "latitude": 28.8410805,
+    "longitude": 78.74706379999999,
+    "place_id": "ChIJFTwKYAb9CjkRnbONmzDJuD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTwKYAb9CjkRnbONmzDJuD0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:09"
+  },
+  {
+    "business_name": "Khatu Naresh Tour And Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "244103",
+    "phone_number": "N/A",
+    "website": "https://royglobalwebbussiness.in/KHATUNARESH/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "VP4Q+394, Kashiram Nagar, Moradabad, Uttar Pradesh 244103",
+    "area": "Kashiram Nagar",
+    "latitude": 28.8551754,
+    "longitude": 78.7384711,
+    "place_id": "ChIJPSM1Obv_CjkRcEfu7xt5hk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSM1Obv_CjkRcEfu7xt5hk8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:09"
+  }
+]

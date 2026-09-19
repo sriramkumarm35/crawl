@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "244105",
+    "phone_number": "+91 99270 71930",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "VPGR+6MH, Himgiri Colony Rd, near AXIS Bank Madaras Market, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Harthala",
+    "latitude": 28.8755591,
+    "longitude": 78.7417261,
+    "place_id": "ChIJI48Z-cn-CjkRXwhF0UodM8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI48Z-cn-CjkRXwhF0UodM8E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:41"
+  },
+  {
+    "business_name": "Toy plaza",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store, Clothing store, Game store, Gift shop, Indoor cycling, Indoor swimming pool, Outdoor sports store, Toy library",
+    "pincode": "244105",
+    "phone_number": "+91 98114 60655",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A286, adj. Nirmala Bajaj Aashiyana, Ashiyana Colony, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony, Harthala",
+    "latitude": 28.8763915,
+    "longitude": 78.7415505,
+    "place_id": "ChIJIRQtwWL_CjkRb57TnV90DOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRQtwWL_CjkRb57TnV90DOs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:43"
+  }
+]

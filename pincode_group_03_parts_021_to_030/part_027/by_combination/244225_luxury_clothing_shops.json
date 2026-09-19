@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uphar Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing store",
+    "pincode": "244225",
+    "phone_number": "+91 97739 66421",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Station Rd, near Kisan Cold Storage, behind C.L Gupta Eye Hospital Branch, Mandi, Dhanaura, Uttar Pradesh 244231",
+    "area": "Mandi",
+    "latitude": 28.9537171,
+    "longitude": 78.2585764,
+    "place_id": "ChIJRfLWKQCfCzkRRxq00c4k0hA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfLWKQCfCzkRRxq00c4k0hA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:31:21"
+  },
+  {
+    "business_name": "IMAGE (LEVI'S GAJRAULA)",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "244225",
+    "phone_number": "+91 72488 48443",
+    "website": "http://www.levis.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "G-1 by EMANATE, NH-9 Salarpur, GAJRAULA, Gajraula, Uttar Pradesh 244235",
+    "area": "244225",
+    "latitude": 28.8383653,
+    "longitude": 78.278009,
+    "place_id": "ChIJ3QlJErN1CzkRprtuYAIko4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QlJErN1CzkRprtuYAIko4s",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:31:21"
+  }
+]

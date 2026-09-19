@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Hamburger restaurant, Sandwich shop, Shawarma restaurant",
+    "pincode": "244236",
+    "phone_number": "+91 92221 23182",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Arthur Bunder Rd, near Radio Club, Apollo Bandar, Colaba, Mumbai, Maharashtra 400005",
+    "area": "Apollo Bandar, Colaba",
+    "latitude": 18.9184829,
+    "longitude": 72.8313501,
+    "place_id": "ChIJj89DEb_R5zsRxbKAuxNXqEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj89DEb_R5zsRxbKAuxNXqEU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:36:12"
+  },
+  {
+    "business_name": "Prabhas Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "244236",
+    "phone_number": "+91 97183 61606",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": ", C-112, DLF Colony, DLF Dilshad Extention-II, Dilshad Plaza, Sahibabad, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Dilshad Plaza, Shalimar Garden, Sahibabad",
+    "latitude": 28.6940125,
+    "longitude": 77.33202639999999,
+    "place_id": "ChIJj9A40bL7DDkR3DKJgpbm7Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9A40bL7DDkR3DKJgpbm7Dw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:36:12"
+  }
+]

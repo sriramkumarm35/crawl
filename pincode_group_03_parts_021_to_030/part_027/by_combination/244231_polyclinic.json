@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Bala ji Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "244231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SH 77, Ismailpur, Uttar Pradesh 246734",
+    "area": "244231",
+    "latitude": 29.031250999999997,
+    "longitude": 78.3861489,
+    "place_id": "ChIJ_8R6SgClCzkRrpmQbrMYAv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8R6SgClCzkRrpmQbrMYAv0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:33:10"
+  },
+  {
+    "business_name": "Anand poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "244231",
+    "phone_number": "+91 94577 86023",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "VW7P+VHR, Garh Rd, Kithaur, Uttar Pradesh 250104",
+    "area": "244231",
+    "latitude": 28.8647396,
+    "longitude": 77.93637749999999,
+    "place_id": "ChIJm7yH5q5_CzkRZrXUtTBLxsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7yH5q5_CzkRZrXUtTBLxsk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:33:10"
+  }
+]

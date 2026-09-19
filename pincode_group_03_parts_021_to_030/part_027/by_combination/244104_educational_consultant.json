@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Valid College",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "244104",
+    "phone_number": "+91 78200 87033",
+    "website": "https://validcollege.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Valid College, 244104, India",
+    "area": "244104",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJUZz-AZx_3osRWvpQ_x60Yyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZz-AZx_3osRWvpQ_x60Yyk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:23:30"
+  },
+  {
+    "business_name": "Sudhanshu Yadav",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "244104",
+    "phone_number": "+91 73512 51066",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VILLAGE MILAK PIPLI LAL, POST MANPUR, Uttar Pradesh 244925",
+    "area": "244104",
+    "latitude": 28.934663,
+    "longitude": 78.89786459999999,
+    "place_id": "ChIJm0HmF-v3CjkRzBzVhmJP0Q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0HmF-v3CjkRzBzVhmJP0Q4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:23:30"
+  }
+]

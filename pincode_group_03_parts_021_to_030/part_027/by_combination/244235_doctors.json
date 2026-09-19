@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangla hospital मांगल हॉस्पिटल",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244235",
+    "phone_number": "+91 90843 58162",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gajraula - Chandpur Rd, Gajraula, Uttar Pradesh 244235",
+    "area": "244235",
+    "latitude": 28.8382865,
+    "longitude": 78.2391823,
+    "place_id": "ChIJ_yM1ptl1CzkRFS6seXjjKiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yM1ptl1CzkRFS6seXjjKiw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:34:49"
+  },
+  {
+    "business_name": "Bala Ji Health Care Centre",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "244235",
+    "phone_number": "+91 63961 61883",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gajraula Road, near Bala Ji Mandir, Sulthather, Gajraula, Sultanpur Ther Mohmadpur, Uttar Pradesh 244235",
+    "area": "Sulthather",
+    "latitude": 28.786908399999998,
+    "longitude": 78.2202918,
+    "place_id": "ChIJmX8eTIVzCzkReyQPPclCOPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmX8eTIVzCzkReyQPPclCOPs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:34:51"
+  }
+]

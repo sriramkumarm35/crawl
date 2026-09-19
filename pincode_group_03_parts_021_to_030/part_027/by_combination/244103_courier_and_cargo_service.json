@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UPS Moradabad",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "244103",
+    "phone_number": "N/A",
+    "website": "http://www.ups.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 1& 2, Talwar House, C L, Delhi Rd, Majhola, Moradabad, Uttar Pradesh 244103",
+    "area": "Majhola",
+    "latitude": 28.8345572,
+    "longitude": 78.7490514,
+    "place_id": "ChIJbQ2LTer9CjkRYQg6jFCnZg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQ2LTer9CjkRYQg6jFCnZg0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:54"
+  },
+  {
+    "business_name": "Team International Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "244103",
+    "phone_number": "+91 98370 46888",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "SHOP NO.107,FIRST FLOOR, SUPER BAZAR, Chhatrapati Shivaji Maharaj Marg, Kothiwal Nagar, Malviya Nagar, Budh Bazaar, Moradabad, Uttar Pradesh 244001",
+    "area": "Kothiwal Nagar, Malviya Nagar, Budh Bazaar",
+    "latitude": 28.833757,
+    "longitude": 78.77172999999999,
+    "place_id": "ChIJTzF-OMD7CjkRiZIR6YsCfvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzF-OMD7CjkRiZIR6YsCfvo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:54"
+  }
+]

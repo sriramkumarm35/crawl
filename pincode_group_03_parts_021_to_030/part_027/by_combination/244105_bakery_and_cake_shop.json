@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WarmOven Cakes and Desert",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "244105",
+    "phone_number": "+91 63661 27558",
+    "website": "https://zomato.onelink.me/xqzv/frlbbhy5",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kanth Rd, Ashiyana Colony, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony, Harthala",
+    "latitude": 28.876976,
+    "longitude": 78.7421354,
+    "place_id": "ChIJj03HSwD_CjkRjvoUqSr4qYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj03HSwD_CjkRjvoUqSr4qYY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:08"
+  },
+  {
+    "business_name": "Tejo Mahalaya",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "244105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Sabji Mandi, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Harthala",
+    "latitude": 28.875117099999997,
+    "longitude": 78.7432808,
+    "place_id": "ChIJExqTrW3_CjkRmGS1Pzf_DI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExqTrW3_CjkRmGS1Pzf_DI4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:10"
+  }
+]

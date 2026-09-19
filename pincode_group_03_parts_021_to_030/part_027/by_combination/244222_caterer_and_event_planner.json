@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DS Caterers & Event Management",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Restaurant supply store, Wedding buffet, Wedding planner, Wedding service",
+    "pincode": "244222",
+    "phone_number": "+91 87775 79675",
+    "website": "http://www.dsevent.in/",
+    "rating": 4.9,
+    "reviews_count": 143,
+    "address": "Kamdhenu Building, 75C, Park St, Park Street area, Kolkata, West Bengal 700016",
+    "area": "Park Street area",
+    "latitude": 22.5509305,
+    "longitude": 88.3545547,
+    "place_id": "ChIJKYWble93AjoR1yPc3n9emeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYWble93AjoR1yPc3n9emeE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:28:35"
+  },
+  {
+    "business_name": "Vaibhavam Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Restaurant supply store",
+    "pincode": "244222",
+    "phone_number": "+91 99669 92059",
+    "website": "https://vaibhavamcaterers.com/",
+    "rating": 5,
+    "reviews_count": 92,
+    "address": "Cross 5, 3-2, Street Number 3, RK Nagar Colony, Malkajgiri, Hyderabad, Secunderabad, Telangana 500047",
+    "area": "RK Nagar Colony, Malkajgiri",
+    "latitude": 17.455307599999998,
+    "longitude": 78.532917,
+    "place_id": "ChIJL8WgHK-byzsRtPQJZhmfhTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8WgHK-byzsRtPQJZhmfhTQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:28:35"
+  }
+]

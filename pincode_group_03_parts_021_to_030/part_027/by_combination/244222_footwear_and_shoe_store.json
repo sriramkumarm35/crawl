@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN BOOT House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "244222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "RCP2+QFF, Atrasi Rd, Atrasi, Uttar Pradesh 244236",
+    "area": "244222",
+    "latitude": 28.836941099999997,
+    "longitude": 78.4011787,
+    "place_id": "ChIJlaXRXAAJCzkR1OzfxkoSfoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaXRXAAJCzkR1OzfxkoSfoI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:53"
+  },
+  {
+    "business_name": "Zara Shoes House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "244222",
+    "phone_number": "+91 79004 04132",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatma Complex, Jama masjid road, Joya, Uttar Pradesh 244222",
+    "area": "244222",
+    "latitude": 28.835296399999997,
+    "longitude": 78.4707363,
+    "place_id": "ChIJ3RtBc5YJCzkRcwSgI7nAMps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RtBc5YJCzkRcwSgI7nAMps",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:54"
+  }
+]

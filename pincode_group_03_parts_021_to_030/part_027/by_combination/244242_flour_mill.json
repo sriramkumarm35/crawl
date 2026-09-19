@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wheat flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "244242",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "350, Gajraula - Sambhal Rd, Deepa Sarai, Sambhal, Imadul Mulak, Uttar Pradesh 244302",
+    "area": "Deepa Sarai",
+    "latitude": 28.592321899999998,
+    "longitude": 78.5497992,
+    "place_id": "ChIJ6cj-EAAZCzkRTPnEw5uw_Iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cj-EAAZCzkRTPnEw5uw_Iw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:39:30"
+  },
+  {
+    "business_name": "Turki flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "244242",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GGRP+CHG, Adampur Road, Sambhal, Musa Esapur, Uttar Pradesh 244303",
+    "area": "244242",
+    "latitude": 28.5410535,
+    "longitude": 78.5364432,
+    "place_id": "ChIJtcr3ufsjCzkRcB6c4gwT9tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcr3ufsjCzkRcB6c4gwT9tg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:39:30"
+  }
+]

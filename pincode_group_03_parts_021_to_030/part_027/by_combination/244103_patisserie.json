@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wallnate Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "244103",
+    "phone_number": "+91 82730 01666",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Mobile Shop, Maha Shakti Plaza, Avas Vikas, Vikas Colony, Buddhi Vihar, Moradabad, Uttar Pradesh 244103",
+    "area": "Avas Vikas, Vikas Colony, Buddhi Vihar",
+    "latitude": 28.835563699999998,
+    "longitude": 78.7417384,
+    "place_id": "ChIJ4-Vg2S79CjkRmH3PnQENKfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-Vg2S79CjkRmH3PnQENKfo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:35"
+  },
+  {
+    "business_name": "Face To Face Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant",
+    "pincode": "244103",
+    "phone_number": "+91 94584 00744",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 17, Mini Complex, Near PVR Cinemas, Aashiyana 1st, Haridwar Road, 1st PVR Cinemas Road, Ashiyana, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony, Mora Mustahkam, Ashiyana",
+    "latitude": 28.8810559,
+    "longitude": 78.74182359999999,
+    "place_id": "ChIJz9Qq0t7_CjkRQaHMoId--RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9Qq0t7_CjkRQaHMoId--RM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:35"
+  }
+]

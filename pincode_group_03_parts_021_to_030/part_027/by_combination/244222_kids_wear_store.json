@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZAID Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "244222",
+    "phone_number": "+91 80760 83897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "WF3C+F8Q, Amroha Main Market, Mohalla Maja Pota, Begum Sara Kalan, Amroha, Uttar Pradesh 244221",
+    "area": "Mohalla Maja Pota, Begum Sara Kalan",
+    "latitude": 28.903708899999998,
+    "longitude": 78.4708747,
+    "place_id": "ChIJ7UmOXwkICzkRV3OF1MQmOGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UmOXwkICzkRV3OF1MQmOGs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:52"
+  },
+  {
+    "business_name": "Shreyanshi Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "244222",
+    "phone_number": "+91 97601 85857",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11, Sihora Road, Amroha, Didauli, Uttar Pradesh 244102",
+    "area": "244222",
+    "latitude": 28.8302823,
+    "longitude": 78.52786259999999,
+    "place_id": "ChIJvQ75SKkFCzkRKGUtnzJDOu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQ75SKkFCzkRKGUtnzJDOu0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:53"
+  }
+]

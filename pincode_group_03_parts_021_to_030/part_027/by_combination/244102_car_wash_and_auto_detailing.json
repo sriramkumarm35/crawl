@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Automotive",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "244102",
+    "phone_number": "+91 98975 69001",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Sector 13, Delhi Rd, near M.D.A OFFICE, New Moradabad, Moradabad, Uttar Pradesh 244102",
+    "area": "New Moradabad",
+    "latitude": 28.8248683,
+    "longitude": 78.6952088,
+    "place_id": "ChIJVe3uPa_9CjkRdKpBX--ZtZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVe3uPa_9CjkRdKpBX--ZtZo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:19:15"
+  },
+  {
+    "business_name": "Smart car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "244102",
+    "phone_number": "+91 99587 65260",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Delh Road, Budhanpur, Chak Deeppur, Uttar Pradesh 244102",
+    "area": "244102",
+    "latitude": 28.819363499999998,
+    "longitude": 78.5715677,
+    "place_id": "ChIJ7an7CYwDCzkRsergRYQszXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7an7CYwDCzkRsergRYQszXI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:19:18"
+  }
+]

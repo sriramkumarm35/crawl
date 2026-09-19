@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Chicken & Biryani Center",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Chicken restaurant",
+    "pincode": "244102",
+    "phone_number": "+91 96278 32144",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 51,
+    "address": "Himgiri Colony Rd, near Gulab Masjid, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Harthala",
+    "latitude": 28.8710581,
+    "longitude": 78.7448172,
+    "place_id": "ChIJpdq49bT-CjkRLnGLSd8nRe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdq49bT-CjkRLnGLSd8nRe4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:18:48"
+  },
+  {
+    "business_name": "Anmol chicken",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "244102",
+    "phone_number": "+91 74171 32259",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 220,
+    "address": "Kailsa Rd, Pakwara, Uttar Pradesh 244102",
+    "area": "244102",
+    "latitude": 28.8250872,
+    "longitude": 78.66751909999999,
+    "place_id": "ChIJlzvsK-r9CjkRfyQX2Aiba4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzvsK-r9CjkRfyQX2Aiba4w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:18:48"
+  }
+]

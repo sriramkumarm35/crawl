@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bridal Boutique",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "244104",
+    "phone_number": "+91 70789 55132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Town Hall, Dayal Drycleaning, near Chatta, Pat Pat Sarai, Moradabad, Uttar Pradesh 244001",
+    "area": "Pat Pat Sarai",
+    "latitude": 28.8375104,
+    "longitude": 78.77510699999999,
+    "place_id": "ChIJyXOECR77CjkRiL7fiWav5E8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXOECR77CjkRiL7fiWav5E8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:22:41"
+  },
+  {
+    "business_name": "Nayab Boutique",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "244104",
+    "phone_number": "+91 92196 11172",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "Peerzada Rd, near Masjid, Hayat Nagar, Lal Imli, Moradabad, Uttar Pradesh 244001",
+    "area": "Hayat Nagar, Lal Imli",
+    "latitude": 28.8273875,
+    "longitude": 78.7859768,
+    "place_id": "ChIJb6KZyp_7CjkRF5mzmscGjWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6KZyp_7CjkRF5mzmscGjWQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:22:41"
+  }
+]

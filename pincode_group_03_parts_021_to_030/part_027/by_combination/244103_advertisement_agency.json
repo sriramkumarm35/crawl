@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Ads",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "244103",
+    "phone_number": "+91 96270 13955",
+    "website": "http://shriramads.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khushhalpur Road, behind Ekta chowk, Preet Vihar Colony, Khushhalpur, Moradabad, Uttar Pradesh 244103",
+    "area": "Preet Vihar Colony, Khushhalpur",
+    "latitude": 28.8390712,
+    "longitude": 78.7411683,
+    "place_id": "ChIJM6Ml0V39CjkR9_W8uLmhaAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6Ml0V39CjkR9_W8uLmhaAU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:22:09"
+  },
+  {
+    "business_name": "The Jain Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment, Software company",
+    "pincode": "244103",
+    "phone_number": "+91 97618 54883",
+    "website": "https://www.thejainagency.shop/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "The Jain Agency, 244103, India",
+    "area": "244103",
+    "latitude": 28.8431534,
+    "longitude": 78.76755229999999,
+    "place_id": "ChIJOwqdsJJPJGkRpNGPflongVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwqdsJJPJGkRpNGPflongVo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:22:11"
+  }
+]

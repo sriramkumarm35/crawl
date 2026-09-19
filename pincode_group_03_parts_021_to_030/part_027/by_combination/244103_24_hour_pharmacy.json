@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Bala Ji Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "244103",
+    "phone_number": "+91 99175 73096",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gagan tiraha, 774, Milak Pandit Nagla, Moradabad, Uttar Pradesh 244001",
+    "area": "244103",
+    "latitude": 28.7920458,
+    "longitude": 78.763714,
+    "place_id": "ChIJy3OLHHf7CjkRQlSKbmvUs80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3OLHHf7CjkRQlSKbmvUs80",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:53"
+  },
+  {
+    "business_name": "Harsh Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "244103",
+    "phone_number": "+91 94100 10449",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "Majhola, Moradabad, Uttar Pradesh 244103",
+    "area": "Majhola",
+    "latitude": 28.8321591,
+    "longitude": 78.7463547,
+    "place_id": "ChIJm-EojAr8CjkR6BFhM1LK1_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-EojAr8CjkR6BFhM1LK1_A",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:53"
+  }
+]

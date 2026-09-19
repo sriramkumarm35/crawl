@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goldy Villa",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "244104",
+    "phone_number": "+91 86006 95339",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "near Nalanda IAS Acedemy, Thakurdwara, Uttar Pradesh 244601",
+    "area": "244104",
+    "latitude": 29.1941921,
+    "longitude": 78.85422059999999,
+    "place_id": "ChIJRdp-EYdFCjkR8YprwvTlYNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdp-EYdFCjkR8YprwvTlYNQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:23:22"
+  },
+  {
+    "business_name": "Moin Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "244104",
+    "phone_number": "+91 97201 99720",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "RQJR+JGF, Guiyan Bagh, Moradabad, Uttar Pradesh 244001",
+    "area": "Guiyan Bagh",
+    "latitude": 28.831564999999998,
+    "longitude": 78.7912999,
+    "place_id": "ChIJNVZFFLX7CjkRXX-GWQZyesI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVZFFLX7CjkRXX-GWQZyesI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:23:23"
+  }
+]

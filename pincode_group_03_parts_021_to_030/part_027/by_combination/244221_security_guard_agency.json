@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Security Agency",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "244221",
+    "phone_number": "+91 90272 54445",
+    "website": "https://globalsecurityagency.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jai Om Nagar, Amroha, Uttar Pradesh 244221",
+    "area": "Jai Om Nagar",
+    "latitude": 28.898394,
+    "longitude": 78.4746073,
+    "place_id": "ChIJ01EeuHkJCzkRf0nQGc5Nt2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01EeuHkJCzkRf0nQGc5Nt2I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:13"
+  },
+  {
+    "business_name": "Anjaniya Services Pvt. Ltd",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "244221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WF48+3WG, Gangapuri post Nagliya, mev, Mohalla Mullana, Village, Amroha, Uttar Pradesh 244221",
+    "area": "mev, Mohalla Mullana",
+    "latitude": 28.905177799999997,
+    "longitude": 78.46731799999999,
+    "place_id": "ChIJXXWcBAAJCzkRzmVrAYWILCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXWcBAAJCzkRzmVrAYWILCA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:13"
+  }
+]

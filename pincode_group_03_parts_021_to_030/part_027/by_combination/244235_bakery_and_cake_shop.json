@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Patties",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "244235",
+    "phone_number": "+91 76688 27946",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thana Choraha, near Rama Bai College, Gajraula, Uttar Pradesh 244235",
+    "area": "244235",
+    "latitude": 28.8380196,
+    "longitude": 78.2435168,
+    "place_id": "ChIJbX8kgoV1CzkRZmF9e6VGGSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbX8kgoV1CzkRZmF9e6VGGSQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:34:31"
+  },
+  {
+    "business_name": "Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "244235",
+    "phone_number": "+91 82728 25757",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purana dakhana, near chawla faishon point, Hasanpur, Uttar Pradesh 244241",
+    "area": "244235",
+    "latitude": 28.7237807,
+    "longitude": 78.2846303,
+    "place_id": "ChIJ3anhjzNzCzkR7cZ2sYOMrTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3anhjzNzCzkR7cZ2sYOMrTA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:34:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Satyendra Resort",
+    "search_category": "Resort",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "244225",
+    "phone_number": "+91 98372 52905",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 336,
+    "address": "Dhanaura - Chandpur Rd, Dhanaura, Uttar Pradesh 244231",
+    "area": "244225",
+    "latitude": 28.966353899999998,
+    "longitude": 78.2580222,
+    "place_id": "ChIJAbwt7BmfCzkRNMGes_pdqAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbwt7BmfCzkRNMGes_pdqAY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:32:02"
+  },
+  {
+    "business_name": "OYO 813370 Sehnai Resorts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "244225",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/212276/?utm_source=Google&utm_medium=GMB",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Gajraula, Dhanaura, Uttar Pradesh 244225",
+    "area": "244225",
+    "latitude": 28.927166999999997,
+    "longitude": 78.24820679999999,
+    "place_id": "ChIJb0s61AqfCzkRhuVVV_46ob8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0s61AqfCzkRhuVVV_46ob8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:32:02"
+  }
+]

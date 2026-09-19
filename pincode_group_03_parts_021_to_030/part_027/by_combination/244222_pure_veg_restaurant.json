@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya sweets and restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "244222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "P8R2+R3G, Hasanpur - Amroha Rd, Karanpur Mafi, Uttar Pradesh 244241",
+    "area": "244222",
+    "latitude": 28.7420726,
+    "longitude": 78.3001932,
+    "place_id": "ChIJv7unVJgNCzkRr4QcIImxQ2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7unVJgNCzkRr4QcIImxQ2U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:43"
+  },
+  {
+    "business_name": "Neelkanth Star",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "244222",
+    "phone_number": "+91 99171 63786",
+    "website": "https://neelkanthstargroup.com/",
+    "rating": 4.2,
+    "reviews_count": 658,
+    "address": "NH-24, Shakarpur Rd, Rajabpur, Uttar Pradesh 244236",
+    "area": "244222",
+    "latitude": 28.8362406,
+    "longitude": 78.3639292,
+    "place_id": "ChIJL6Q75iMLCzkRt-IwAKe3Vok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6Q75iMLCzkRt-IwAKe3Vok",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:43"
+  }
+]

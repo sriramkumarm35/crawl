@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umar Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "244102",
+    "phone_number": "+91 75000 00590",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "bard no 11, Mohalla Joi, Amroha - Joya Rd, Amroha, Uttar Pradesh 244222",
+    "area": "244102",
+    "latitude": 28.848724599999997,
+    "longitude": 78.47070529999999,
+    "place_id": "ChIJr5U4kjoJCzkRW7wXQh-QgEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5U4kjoJCzkRW7wXQh-QgEs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:19:10"
+  },
+  {
+    "business_name": "kaba poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "244102",
+    "phone_number": "+91 98379 20868",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "pipalsana, Mahmudpur Tigri, Uttar Pradesh 244402",
+    "area": "244102",
+    "latitude": 28.91896,
+    "longitude": 78.8171741,
+    "place_id": "ChIJ-VYFhRL5CjkRDhWd3A-_-t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VYFhRL5CjkRDhWd3A-_-t8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:19:12"
+  }
+]

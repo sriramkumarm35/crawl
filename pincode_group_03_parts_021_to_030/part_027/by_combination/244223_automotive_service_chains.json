@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Carz tec",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "244223",
+    "phone_number": "+91 81253 84334",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "5th Main Rd, Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560097",
+    "area": "Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli",
+    "latitude": 13.067593299999999,
+    "longitude": 77.5793595,
+    "place_id": "ChIJH2BMStQjrjsRqceJfouONg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2BMStQjrjsRqceJfouONg4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:29:59"
+  },
+  {
+    "business_name": "G.S. Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "244223",
+    "phone_number": "+91 99999 38499",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Main Rd, near INDUS VALLEY PUBLIC SCHOOL, Rajat Vihar, Sector 53, Noida, Uttar Pradesh 201020",
+    "area": "Rajat Vihar, Sector 53",
+    "latitude": 28.6222608,
+    "longitude": 77.354878,
+    "place_id": "ChIJCf_afTjlDDkRAzb5wwFZryI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCf_afTjlDDkRAzb5wwFZryI",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:29:59"
+  }
+]

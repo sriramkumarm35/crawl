@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 28375 Hotel Bhagwan Regency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "244103",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/49334/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Near Saroj Cinema, Budh Bazar, Chhatrapati Shivaji Maharaj Marg, Moradabad, Uttar Pradesh 244103",
+    "area": "Vikas Colony, Buddhi Vihar",
+    "latitude": 28.831286499999997,
+    "longitude": 78.7389657,
+    "place_id": "ChIJDT_3OcD7CjkRCR7NZbuX_x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDT_3OcD7CjkRCR7NZbuX_x8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:33"
+  },
+  {
+    "business_name": "Hotel The Fort",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "244103",
+    "phone_number": "+91 96392 23456",
+    "website": "http://www.hotelthefort.com/",
+    "rating": 4.4,
+    "reviews_count": 256,
+    "address": "Khasra No. 13, Shukla ki puliya, Kanth Rd, Moradabad, Pachokra Khanpur, Uttar Pradesh 244504",
+    "area": "244103",
+    "latitude": 28.9567117,
+    "longitude": 78.6633397,
+    "place_id": "ChIJ49iaiPNVCjkR07oorf5Q3vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49iaiPNVCjkR07oorf5Q3vs",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:34"
+  }
+]

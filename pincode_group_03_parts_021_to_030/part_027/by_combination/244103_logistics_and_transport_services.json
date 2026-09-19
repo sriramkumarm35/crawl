@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spoton Logistics Pvt. Ltd",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "244103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B-83, near Dr. Tarun Agarwal, Gandhi Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Gandhi Nagar",
+    "latitude": 28.828439,
+    "longitude": 78.77195859999999,
+    "place_id": "ChIJh5MkIrX7CjkRR60rzbiQkmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5MkIrX7CjkRR60rzbiQkmE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:11"
+  },
+  {
+    "business_name": "MARS Cargo Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency",
+    "pincode": "244103",
+    "phone_number": "+91 98370 59199",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 17,
+    "address": "RPPW+GVC, Majholi Chok,, Moradabad, Uttar Pradesh 244103",
+    "area": "Majholi, Khushhalpur",
+    "latitude": 28.836304499999997,
+    "longitude": 78.747143,
+    "place_id": "ChIJjfJtswn8CjkR6TDoId0FTgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfJtswn8CjkR6TDoId0FTgE",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:21:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohali ink",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "244235",
+    "phone_number": "+91 99156 50840",
+    "website": "http://mohaliink.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "112 First, Gmada Sports Complex, Market, Sector 69, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Sector 69",
+    "latitude": 30.6884268,
+    "longitude": 76.7161442,
+    "place_id": "ChIJQ9kQer7uDzkRr1UmpzXMpEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9kQer7uDzkRr1UmpzXMpEU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:35:16"
+  },
+  {
+    "business_name": "Tattoo trendz",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Artist",
+    "all_categories": "Artist",
+    "pincode": "244235",
+    "phone_number": "+91 98884 73831",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sector 70, Sahibzada Ajit Singh Nagar, Punjab 160071",
+    "area": "Sector 70",
+    "latitude": 30.6961314,
+    "longitude": 76.7158492,
+    "place_id": "ChIJL3xNEqPvDzkRH0nPgQy1xl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3xNEqPvDzkRH0nPgQy1xl8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:35:16"
+  }
+]

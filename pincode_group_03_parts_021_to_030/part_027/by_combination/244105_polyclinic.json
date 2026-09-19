@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashi Prabha hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244105",
+    "phone_number": "+91 72175 34470",
+    "website": "https://shashiprabhahospital.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shakar vihar colony, near Wilsonia school, Shanker Vihar Colony, Civil Lines, Moradabad, Uttar Pradesh 244001",
+    "area": "Shanker Vihar Colony, Civil Lines",
+    "latitude": 28.8495536,
+    "longitude": 78.77130819999999,
+    "place_id": "ChIJaecq-OT7CjkRhLtHnscRy9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaecq-OT7CjkRhLtHnscRy9M",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:33"
+  },
+  {
+    "business_name": "Srijan Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244105",
+    "phone_number": "+91 94122 35997",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "State Bank Colony, Civil Lines, Moradabad, Uttar Pradesh 244001",
+    "area": "State Bank Colony, Civil Lines",
+    "latitude": 28.8477617,
+    "longitude": 78.76943159999999,
+    "place_id": "ChIJVVVVVVj5CjkRN3vcMUhmpTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVVj5CjkRN3vcMUhmpTQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:34"
+  }
+]

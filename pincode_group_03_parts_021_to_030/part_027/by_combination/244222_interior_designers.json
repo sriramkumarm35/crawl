@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milestone Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "244222",
+    "phone_number": "+91 74650 08745",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Milestone Interiors, 244222, India",
+    "area": "244222",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJhfg5TYNVlUARa8PsejOzjac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfg5TYNVlUARa8PsejOzjac",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:28:22"
+  },
+  {
+    "business_name": "Panacea College of Fashion Design",
+    "search_category": "Interior Designers",
+    "primary_category": "College",
+    "all_categories": "College, Hospital",
+    "pincode": "244222",
+    "phone_number": "+91 76174 09000",
+    "website": "http://www.pcfd.in/",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "opposite to District Hospital, Amroha, Raypur Khurd, Uttar Pradesh 244222",
+    "area": "244222",
+    "latitude": 28.8634851,
+    "longitude": 78.4706801,
+    "place_id": "ChIJiQ0UrpsJCzkRsoqSqhSOsbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQ0UrpsJCzkRsoqSqhSOsbc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:28:23"
+  }
+]

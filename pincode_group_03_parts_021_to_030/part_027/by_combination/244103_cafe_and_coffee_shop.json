@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Persian Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "244103",
+    "phone_number": "+91 86301 93969",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Basement Shop, Saini Complex, Prakash Nagar, Chiriya Tola, Chowk, Moradabad, Uttar Pradesh 244103",
+    "area": "Prakash Nagar, Chiriya Tola, Chowk",
+    "latitude": 28.8332354,
+    "longitude": 78.75324169999999,
+    "place_id": "ChIJ46a_dbX7CjkRoYTziN8ROys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46a_dbX7CjkRoYTziN8ROys",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:41"
+  },
+  {
+    "business_name": "The meet up point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "244103",
+    "phone_number": "+91 90683 40273",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Akanksha Nursing Home, ke opposite, Vikas Colony, Buddhi Vihar, Moradabad, Uttar Pradesh 244001",
+    "area": "Vikas Colony, Buddhi Vihar",
+    "latitude": 28.837896699999998,
+    "longitude": 78.7391755,
+    "place_id": "ChIJQUSIFIP9CjkRm2T9Mqf-VA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUSIFIP9CjkRm2T9Mqf-VA0",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:43"
+  }
+]

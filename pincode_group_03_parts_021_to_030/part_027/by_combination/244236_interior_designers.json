@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Interior Designer",
+    "search_category": "Interior Designers",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "244236",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R9QF+R89, Rajabpur, Uttar Pradesh 244236",
+    "area": "244236",
+    "latitude": 28.839532199999997,
+    "longitude": 78.3733661,
+    "place_id": "ChIJv-luHgALCzkR8d3PdanZx0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-luHgALCzkR8d3PdanZx0E",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:36:52"
+  },
+  {
+    "business_name": "Elite designs and Arcvibe",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer, Civil engineer",
+    "pincode": "244236",
+    "phone_number": "+91 96902 89410",
+    "website": "http://www.elitedesignsarcvibe.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "H no - 92, ward no-9, town, near ANWAR-UN-LOOM madrsha, J.P. Nagar, Joya, Uttar Pradesh 244222",
+    "area": "J.P. Nagar",
+    "latitude": 28.837695699999998,
+    "longitude": 78.4717287,
+    "place_id": "ChIJCQ1i_gUJCzkRj8-bJGGk-78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQ1i_gUJCzkRj8-bJGGk-78",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:36:53"
+  }
+]

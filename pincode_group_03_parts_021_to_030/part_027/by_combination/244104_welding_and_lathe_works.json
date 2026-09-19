@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L.K Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder, Hardware store",
+    "pincode": "244104",
+    "phone_number": "+91 89586 07068",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samrat Ashok Nagar, Kashiram Nagar, Moradabad, Uttar Pradesh 244001",
+    "area": "Kashiram Nagar",
+    "latitude": 28.8420097,
+    "longitude": 78.751223,
+    "place_id": "ChIJu96Nz_n7CjkRAsIJFkicshQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu96Nz_n7CjkRAsIJFkicshQ",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:23:46"
+  },
+  {
+    "business_name": "M R Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "244104",
+    "phone_number": "+91 97561 39351",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adda, Pakwada Road Rasoolpur, near Madarsa, Moradabad, Uttar Pradesh 244102",
+    "area": "244104",
+    "latitude": 28.739645,
+    "longitude": 78.6898049,
+    "place_id": "ChIJC6jGegrjCjkR1d-l8QaIe84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6jGegrjCjkR1d-l8QaIe84",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:23:46"
+  }
+]

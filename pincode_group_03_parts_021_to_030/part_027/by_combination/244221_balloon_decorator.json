@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik Birthday Party Planner",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "244221",
+    "phone_number": "+91 97582 10071",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Change Darbaja, Sbin Main Brainch, Bara Darbar, Amroha, Uttar Pradesh 244221",
+    "area": "Bara Darbar",
+    "latitude": 28.909861499999998,
+    "longitude": 78.4773153,
+    "place_id": "ChIJAcigT4kHCzkRuyq8QyI9jm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcigT4kHCzkRuyq8QyI9jm4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:26:50"
+  },
+  {
+    "business_name": "Fancy Creation",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "244221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WF2F+C8W, Azad Rd, Begum Sara Kalan, Amroha, Uttar Pradesh 244221",
+    "area": "Begum Sara Kalan",
+    "latitude": 28.901123199999997,
+    "longitude": 78.47333669999999,
+    "place_id": "ChIJ73upBwAJCzkRP6K9r_2uFLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73upBwAJCzkRP6K9r_2uFLk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:26:52"
+  }
+]

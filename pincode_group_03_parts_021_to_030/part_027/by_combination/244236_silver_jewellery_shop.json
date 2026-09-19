@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "soumay jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "244236",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WF58+4GW, Jama Masjid Rd, Fazalpur, Amroha, Uttar Pradesh 244221",
+    "area": "Fazalpur",
+    "latitude": 28.907852799999997,
+    "longitude": 78.46631599999999,
+    "place_id": "ChIJL_u1ng8ICzkRi2bOyre8y20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_u1ng8ICzkRi2bOyre8y20",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:36:24"
+  },
+  {
+    "business_name": "SHREE BALAJI GOLD & SILVER TESTING CENTER",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "244236",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saraf bazaar, nearby shankar Jewellers, Mohalla Mullana, Amroha, Uttar Pradesh 244221",
+    "area": "Mohalla Mullana",
+    "latitude": 28.905177799999997,
+    "longitude": 78.46731799999999,
+    "place_id": "ChIJJ_KAecEJCzkRXI4WRYuzrqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_KAecEJCzkRXI4WRYuzrqk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:36:24"
+  }
+]

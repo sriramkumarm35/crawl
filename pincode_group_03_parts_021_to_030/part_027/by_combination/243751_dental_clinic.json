@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babrala station road",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "243751",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "7C74+66W, Teacher's colony, Babrala, Uttar Pradesh 243751",
+    "area": "Teacher's colony",
+    "latitude": 28.263104199999997,
+    "longitude": 78.40558229999999,
+    "place_id": "ChIJVZEYAwAzCzkRZYLwiqzS7tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZEYAwAzCzkRZYLwiqzS7tw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:15:32"
+  },
+  {
+    "business_name": "Chaman Saifi",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "243751",
+    "phone_number": "+91 88594 86041",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bahjoi Road, near Dhanari, Dhanari, Dhanaripatti Lalsingh, Uttar Pradesh 243751",
+    "area": "243751",
+    "latitude": 28.328048199999998,
+    "longitude": 78.51209539999999,
+    "place_id": "ChIJHwGAsvwvCzkRj051zprE81o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwGAsvwvCzkRj051zprE81o",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:15:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indore Chaat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "244222",
+    "phone_number": "+91 88665 02936",
+    "website": "https://facebook.com/indorchathousesatellite/",
+    "rating": 4.1,
+    "reviews_count": 1244,
+    "address": "8, sagar towar, off Mansi Towers, JAYMA SOCIETY, Vastrapur, Ahmedabad, Gujarat 380015",
+    "area": "JAYMA SOCIETY, Vastrapur",
+    "latitude": 23.0311691,
+    "longitude": 72.5257103,
+    "place_id": "ChIJjddo0suEXjkRUWspqgWat-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjddo0suEXjkRUWspqgWat-Q",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:47"
+  },
+  {
+    "business_name": "Chaat chatore",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dessert restaurant, Cafe, Pizza restaurant, Restaurant",
+    "pincode": "244222",
+    "phone_number": "+91 97000 94415",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 820,
+    "address": "7-1-29/1, beside library, public garden, Balasamudram, Hanamkonda, Telangana 506001",
+    "area": "Balasamudram",
+    "latitude": 18.007233799999998,
+    "longitude": 79.56080829999999,
+    "place_id": "ChIJLc0cAzJFMzoRpNANouiFmrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLc0cAzJFMzoRpNANouiFmrc",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:27:47"
+  }
+]

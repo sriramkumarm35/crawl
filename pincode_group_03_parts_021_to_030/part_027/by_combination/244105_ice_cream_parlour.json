@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Giani ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "244105",
+    "phone_number": "+91 95577 09900",
+    "website": "https://www.gianiicecream.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sri Sai Mandir Rd, near BURGAR STOPEG, MDA Colony, Ram Ganga Vihar, Moradabad, Uttar Pradesh 244105",
+    "area": "MDA Colony, Ram Ganga Vihar",
+    "latitude": 28.866797599999998,
+    "longitude": 78.752361,
+    "place_id": "ChIJgyq2kTT5CjkRzuGepX5W7Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyq2kTT5CjkRzuGepX5W7Rg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:17"
+  },
+  {
+    "business_name": "ICEPIES",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "244105",
+    "phone_number": "+91 90274 49885",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "74, Sale tax Road, Ram Ganga Vihar Phase 1, Moradabad, Uttar Pradesh 244001",
+    "area": "Ram Ganga Vihar Phase 1",
+    "latitude": 28.870609299999998,
+    "longitude": 78.75093129999999,
+    "place_id": "ChIJt4ag2FX5CjkR0fqNrxUT69U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4ag2FX5CjkR0fqNrxUT69U",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:17"
+  }
+]

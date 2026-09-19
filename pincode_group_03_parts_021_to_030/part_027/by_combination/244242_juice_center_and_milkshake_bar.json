@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Restaurant",
+    "pincode": "244242",
+    "phone_number": "+91 99295 00101",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 57,
+    "address": "City Mall Parking Lot, Jhalawar Road, Indraprastha Industrial Area, Kota, Kota Municipal Area, Rajasthan 324005",
+    "area": "Indraprastha Industrial Area",
+    "latitude": 25.137751899999998,
+    "longitude": 75.85534969999999,
+    "place_id": "ChIJj6nndB6FbzkRmp74JOTLwlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6nndB6FbzkRmp74JOTLwlk",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:39:37"
+  },
+  {
+    "business_name": "Joose woose (By CK Agro Company)",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "244242",
+    "phone_number": "N/A",
+    "website": "http://www.joosewoose.com/?utm_source=GMB&utm_medium=GMB_Profile&utm_campaign=002",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.1, Krishna Kunj Plaza, Rajyog Udupi Corner, Old, Agra - Mumbai Rd, opp. taxi stand, Mumbai Naka, Nashik, Maharashtra 422002",
+    "area": "Mumbai Naka, Renuka Nagar",
+    "latitude": 19.989214,
+    "longitude": 73.7830656,
+    "place_id": "ChIJG5eADenr3TsRRRZg7oqP26w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5eADenr3TsRRRZg7oqP26w",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:39:38"
+  }
+]

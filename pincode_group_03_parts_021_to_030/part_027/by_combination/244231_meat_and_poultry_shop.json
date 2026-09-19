@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joy Proteins Showroom",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Poultry farm",
+    "pincode": "244231",
+    "phone_number": "N/A",
+    "website": "https://joyproteins.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nagrath Chowk, 2668, opp. Christ church Girls School, Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.159921699999998,
+    "longitude": 79.9300962,
+    "place_id": "ChIJBfPIA3OugTkRlE9ri7gj9a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfPIA3OugTkRlE9ri7gj9a8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:32:45"
+  },
+  {
+    "business_name": "Golden Broilers",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "244231",
+    "phone_number": "+91 94249 94786",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "849, Naya Mohalla, Jabalpur, Madhya Pradesh 482002",
+    "area": "Naya Mohalla",
+    "latitude": 23.1653986,
+    "longitude": 79.9399815,
+    "place_id": "ChIJjZggeGOvgTkR8AKHHQXImiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZggeGOvgTkR8AKHHQXImiU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:32:45"
+  }
+]

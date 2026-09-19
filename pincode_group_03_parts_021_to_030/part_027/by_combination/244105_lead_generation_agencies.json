@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Code Hawker",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment, Website designer",
+    "pincode": "244105",
+    "phone_number": "+91 81930 39130",
+    "website": "http://www.codehawker.com/",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Code Hawker, 244105, India",
+    "area": "244105",
+    "latitude": 28.606035499999997,
+    "longitude": 79.08516879999999,
+    "place_id": "ChIJ7QAfHyz7CjkRd7XbrGPkgpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QAfHyz7CjkRd7XbrGPkgpw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:25:45"
+  },
+  {
+    "business_name": "Digitronix Hub",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "244105",
+    "phone_number": "+91 99979 64684",
+    "website": "http://www.digitronixhub.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kashiram Nagar, Moradabad, Uttar Pradesh 244103",
+    "area": "Kashiram Nagar",
+    "latitude": 28.8507769,
+    "longitude": 78.7433698,
+    "place_id": "ChIJsfPwwyr9CjkRCAMYxFFMBRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfPwwyr9CjkRCAMYxFFMBRo",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:25:48"
+  }
+]

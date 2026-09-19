@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti agencies",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier, FMCG Goods Wholesaler",
+    "pincode": "244104",
+    "phone_number": "+91 70174 65512",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R259+J8X, Miston Ganj, Rampur, Uttar Pradesh 244901",
+    "area": "Miston Ganj",
+    "latitude": 28.809105,
+    "longitude": 79.0185833,
+    "place_id": "ChIJc-_giv_zCjkRxm7od9DzqTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-_giv_zCjkRxm7od9DzqTY",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:22:25"
+  },
+  {
+    "business_name": "Distributor Britannia Bread & Anmol Uht milk",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Wholesale bakery",
+    "pincode": "244104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B439, Gangapur Avas Vikas, Awas Vikas, D.Ghangapur, Rampur, Uttar Pradesh 244901",
+    "area": "Gangapur Avas Vikas, Awas Vikas",
+    "latitude": 28.7892817,
+    "longitude": 79.0188422,
+    "place_id": "ChIJAycMVFONCjkRBGhD0jcD0KM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAycMVFONCjkRBGhD0jcD0KM",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:22:25"
+  }
+]

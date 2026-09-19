@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Tour & Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "244105",
+    "phone_number": "+91 86303 28119",
+    "website": "https://aman-tour-and-travels.myjoonweb.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Himgiri Colony, Sonakpur, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Sonakpur, Harthala",
+    "latitude": 28.870903499999997,
+    "longitude": 78.74433309999999,
+    "place_id": "ChIJ7fXjpBz_CjkRGouMJEks0i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fXjpBz_CjkRGouMJEks0i8",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:42"
+  },
+  {
+    "business_name": "Savaari",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "244105",
+    "phone_number": "N/A",
+    "website": "http://www.savaari.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Opposite- TDI City Gate No. 3, Ashiyana Colony, Tilokpur, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony, Tilokpur",
+    "latitude": 28.875712999999998,
+    "longitude": 78.75081,
+    "place_id": "ChIJ683MeEr5CjkRYdDjR0Nxni4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ683MeEr5CjkRYdDjR0Nxni4",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:42"
+  }
+]

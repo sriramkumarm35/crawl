@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Fruit Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "244105",
+    "phone_number": "+91 98782 69413",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Kanth Rd, near P V R Cinema, Ashiyana Colony, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony",
+    "latitude": 28.8792242,
+    "longitude": 78.7395119,
+    "place_id": "ChIJaUAsoM7_CjkRzwjNUUoeflw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUAsoM7_CjkRzwjNUUoeflw",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:04"
+  },
+  {
+    "business_name": "TryambakGroup",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "244105",
+    "phone_number": "+91 98377 05147",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishana Nagar Colony, Gulab Bari, Katghar, Moradabad, Uttar Pradesh 244105",
+    "area": "244105",
+    "latitude": 28.8736556,
+    "longitude": 78.72494689999999,
+    "place_id": "ChIJ_____7_-CjkRaJYVC5XH0mA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____7_-CjkRaJYVC5XH0mA",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:24:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K G N Bike Spair Parts And Service Centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "244222",
+    "phone_number": "+91 70658 83149",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "14, Matipur, Uttar Pradesh 244304",
+    "area": "244222",
+    "latitude": 28.768857299999997,
+    "longitude": 78.5134684,
+    "place_id": "ChIJqYmzeaAFCzkRQRMlhQnzfLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYmzeaAFCzkRQRMlhQnzfLg",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:28:12"
+  },
+  {
+    "business_name": "BSA Hercules Cycle Stor",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "244222",
+    "phone_number": "+91 63967 61149",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BSA Cycle Store, Shahbazpur Kalan, Moradabad, Uttar Pradesh 244102",
+    "area": "244222",
+    "latitude": 28.7715955,
+    "longitude": 78.5573902,
+    "place_id": "ChIJQ9L24n4FCzkRWNRRwufInNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9L24n4FCzkRWNRRwufInNU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:28:14"
+  }
+]

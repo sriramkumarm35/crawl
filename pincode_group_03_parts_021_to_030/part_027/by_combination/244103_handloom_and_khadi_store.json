@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lahore Matching Centre",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "244103",
+    "phone_number": "+91 94121 40040",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 18,
+    "address": "Shop No. 2,3, Punjabi Market, Town, kotwali, Pat Pat Sarai, Moradabad, Uttar Pradesh 244001",
+    "area": "Pat Pat Sarai",
+    "latitude": 28.8373323,
+    "longitude": 78.7747756,
+    "place_id": "ChIJs_jOXsH7CjkR2G4qKjxk13c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_jOXsH7CjkR2G4qKjxk13c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:50"
+  },
+  {
+    "business_name": "Hands & Craft",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Exporter, Handicraft Exporter",
+    "pincode": "244103",
+    "phone_number": "+91 97566 02410",
+    "website": "https://handsandcrafts.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pandit Nagla Bypass Rd, Karula, Moradabad, Uttar Pradesh 244001",
+    "area": "Karula",
+    "latitude": 28.8038566,
+    "longitude": 78.7714853,
+    "place_id": "ChIJbxftULf7CjkROAya7caP-9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxftULf7CjkROAya7caP-9c",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:20:51"
+  }
+]

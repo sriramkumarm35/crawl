@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT Dr.Abhijeet Sinha",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "244102",
+    "phone_number": "N/A",
+    "website": "https://ujalacygnus.com/doctors/dr-abhijeet-sinha",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sector 16, New Moradabad, Moradabad, Uttar Pradesh 244102",
+    "area": "Sector 16, New Moradabad",
+    "latitude": 28.829773799999998,
+    "longitude": 78.70565119999999,
+    "place_id": "ChIJN3aLPN39CjkRL_5s5ojWgjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3aLPN39CjkRL_5s5ojWgjU",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:19:10"
+  },
+  {
+    "business_name": "Dr. Anshuman Gaur",
+    "search_category": "ENT Clinic",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "244102",
+    "phone_number": "+91 98084 05757",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3C, 113, Delhi Rd, Vikas Colony, Buddhi Vihar, Moradabad, Uttar Pradesh 244103",
+    "area": "Vikas Colony, Buddhi Vihar",
+    "latitude": 28.8326101,
+    "longitude": 78.7394532,
+    "place_id": "ChIJE43ZTQz8CjkRZJEbPKyP81I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE43ZTQz8CjkRZJEbPKyP81I",
+    "part_id": "part_027",
+    "crawled_at": "2026-09-19 08:19:11"
+  }
+]
