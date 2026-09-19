@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel River View",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "230302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Jakham valley, Udaipur - Pratapgarh Rd, Dhariyawad, Rajasthan 312625",
+    "area": "230302",
+    "latitude": 24.0919609,
+    "longitude": 74.4803866,
+    "place_id": "ChIJbw6m2yT3ZjkRQpkIoZf3uIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbw6m2yT3ZjkRQpkIoZf3uIQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:42:12"
+  },
+  {
+    "business_name": "Ram Hotel Service",
+    "search_category": "Hotel",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "230302",
+    "phone_number": "+91 83491 52685",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "88, Jamtali, Ghorka Talukdari, Uttar Pradesh 230302",
+    "area": "230302",
+    "latitude": 25.8752773,
+    "longitude": 82.0904219,
+    "place_id": "ChIJZU7w66uZmjkRPWS0P4laUlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZU7w66uZmjkRPWS0P4laUlU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:42:14"
+  }
+]

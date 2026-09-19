@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr.Mohar Ali",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Asian household goods store",
+    "all_categories": "Asian household goods store",
+    "pincode": "230401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22QG+89V, Kohandaur, Uttar Pradesh 230401",
+    "area": "230401",
+    "latitude": 26.0383589,
+    "longitude": 82.02591509999999,
+    "place_id": "ChIJM22cdACPmjkRMrUh2MtBKU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM22cdACPmjkRMrUh2MtBKU0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:48:05"
+  },
+  {
+    "business_name": "Mr Ashok Kumar Painter",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "230401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gothawajagipur, Uttar Pradesh 227304",
+    "area": "230401",
+    "latitude": 26.066812499999997,
+    "longitude": 82.14106249999999,
+    "place_id": "ChIJ_efIfoKDmjkRmcHZ8vvJqck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_efIfoKDmjkRmcHZ8vvJqck",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:48:08"
+  }
+]

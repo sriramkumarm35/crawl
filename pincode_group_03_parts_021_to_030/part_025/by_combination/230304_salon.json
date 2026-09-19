@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salman Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "230304",
+    "phone_number": "+91 84239 77210",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Singhai Bazar, Delhupur Road, Jairampur, Uttar Pradesh 230304",
+    "area": "230304",
+    "latitude": 25.774693199999998,
+    "longitude": 82.0017409,
+    "place_id": "ChIJ-ejN4569mjkRzonaMa-wuf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ejN4569mjkRzonaMa-wuf4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:43:56"
+  },
+  {
+    "business_name": "SALMAN MEN'S PARLOUR",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "230304",
+    "phone_number": "+91 73809 08793",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durgaganj Prayagraj Road, Jairampur, Uttar Pradesh 230304",
+    "area": "230304",
+    "latitude": 25.7800992,
+    "longitude": 82.0006104,
+    "place_id": "ChIJR9lO6BS9mjkRoOYTAKXqiWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9lO6BS9mjkRoOYTAKXqiWY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:43:56"
+  }
+]

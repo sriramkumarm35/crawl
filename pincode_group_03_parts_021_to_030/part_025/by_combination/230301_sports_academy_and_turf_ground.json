@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhir Sports",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "230301",
+    "phone_number": "+91 98397 49009",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 13,
+    "address": "Gate,Chote, Lal Market, Nayay Nagar, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Nayay Nagar",
+    "latitude": 25.427376,
+    "longitude": 81.91772999999999,
+    "place_id": "ChIJvVaVmyVLhTkRE6Oq-HUQJLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVaVmyVLhTkRE6Oq-HUQJLQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:40:32"
+  },
+  {
+    "business_name": "CAP Club Panvel Multi Sport Turf Ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "230301",
+    "phone_number": "+91 99203 48559",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Karnala sports academy, Panvel, Maharashtra 410206",
+    "area": "Old Panvel, Panvel",
+    "latitude": 18.9989471,
+    "longitude": 73.1025761,
+    "place_id": "ChIJwXFBpzvo5zsRc757YczIOjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXFBpzvo5zsRc757YczIOjk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:40:33"
+  }
+]

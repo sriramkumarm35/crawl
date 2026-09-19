@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pushpanjali Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "230306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Kapsa, Uttar Pradesh 212402",
+    "area": "230306",
+    "latitude": 25.649235299999997,
+    "longitude": 82.0411845,
+    "place_id": "ChIJg2BMatulmjkR5f0mf643_ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2BMatulmjkR5f0mf643_ZA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:45:55"
+  },
+  {
+    "business_name": "Mr. Kartikey singh/देवा सिंह",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "230306",
+    "phone_number": "+91 81728 77751",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rishalgarh, Sultanpur, Raniganj, Uttar Pradesh 230301",
+    "area": "Rishalgarh",
+    "latitude": 25.733703,
+    "longitude": 82.0559097,
+    "place_id": "ChIJmbxV_majmjkRfs7oTjTDHpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbxV_majmjkRfs7oTjTDHpI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:45:55"
+  }
+]

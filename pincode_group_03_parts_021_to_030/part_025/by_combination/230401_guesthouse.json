@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPOT ON Yatri Niwas Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "230401",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/356759/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7, Sadar, Tekar, Uttar Pradesh 230403",
+    "area": "Sadar",
+    "latitude": 25.993361099999998,
+    "longitude": 82.0155278,
+    "place_id": "ChIJQfGprf2RmjkRNOjKnAT8VkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfGprf2RmjkRNOjKnAT8VkA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:47:45"
+  },
+  {
+    "business_name": "OYO Flagship Hotel Awadh Viram",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Hotel, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "230401",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/223795/?utm_source=Google&utm_medium=GMB",
+    "rating": 3.7,
+    "reviews_count": 23,
+    "address": "ModNear Jaipuriya School, 30/2 Rajput tiraha, Market, Narharpur, Kohandaur, Uttar Pradesh 230401",
+    "area": "230401",
+    "latitude": 26.0181816,
+    "longitude": 82.0209402,
+    "place_id": "ChIJpTaWq4mPmjkRRlN3aBpiZYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTaWq4mPmjkRRlN3aBpiZYI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:47:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kataria Carriers",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "230301",
+    "phone_number": "+91 98382 03381",
+    "website": "http://katariacarriers.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infront Of Government Hospital, Industrial Area,, Satharia, Uttar Pradesh 222202",
+    "area": "230301",
+    "latitude": 25.666943999999997,
+    "longitude": 82.19311499999999,
+    "place_id": "ChIJXVVVVZWnmjkRkemyo0R4lgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVVVVZWnmjkRkemyo0R4lgc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:56"
+  },
+  {
+    "business_name": "Rajdhani Interstate Transport Co.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "230301",
+    "phone_number": "+91 98388 70060",
+    "website": "https://www.rajdhaniinterstate.com/",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Badshahpur Gorakhpur Transport Co. Partapgarh Road, Distt., Mungra Badshahpur, Uttar Pradesh 222202",
+    "area": "Tiwari Market",
+    "latitude": 25.657978,
+    "longitude": 82.19039599999999,
+    "place_id": "ChIJw6qqqsOnmjkRnML0RG2jo5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6qqqsOnmjkRnML0RG2jo5E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:56"
+  }
+]

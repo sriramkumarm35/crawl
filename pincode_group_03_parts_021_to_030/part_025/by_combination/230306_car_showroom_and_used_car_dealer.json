@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satpal Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "230306",
+    "phone_number": "+91 98394 55455",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Satpal motors near RTO office g.i Estate Purva Chauraha, Gorakhpur, Road, Deoria, Uttar Pradesh 274001",
+    "area": "230306",
+    "latitude": 26.5211953,
+    "longitude": 83.7708822,
+    "place_id": "ChIJH_rSsNfEkzkRcaoY_XFpZ90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_rSsNfEkzkRcaoY_XFpZ90",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:45:26"
+  },
+  {
+    "business_name": "Spinny",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Audi dealer, BMW dealer, Car dealer, Honda dealer, Hyundai dealer, Suzuki dealer, Toyota dealer",
+    "pincode": "230306",
+    "phone_number": "+91 72772 77275",
+    "website": "https://www.spinny.com/used-cars-in-indore/s/",
+    "rating": 4.8,
+    "reviews_count": 1559,
+    "address": "Shop number SF-28, 2nd Floor, Malhar mega mall, AB Rd, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme 54 PU4",
+    "latitude": 22.7445933,
+    "longitude": 75.89430209999999,
+    "place_id": "ChIJSdGtdHL9YjkRSAkLJ8LF8VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdGtdHL9YjkRSAkLJ8LF8VQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:45:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chiku Car Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "230302",
+    "phone_number": "+91 99995 76441",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D, 13/14, Dichaon Rd, Shiva Enclave, Najafgarh, Delhi, 110043",
+    "area": "Shiva Enclave, Najafgarh",
+    "latitude": 28.624619799999998,
+    "longitude": 76.9858276,
+    "place_id": "ChIJxVLCZzoPDTkR3A4bcwQoJGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVLCZzoPDTkR3A4bcwQoJGw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:50"
+  },
+  {
+    "business_name": "Sonu Car Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "230302",
+    "phone_number": "+91 90092 90095",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Dhan Mandi, Mandsaur, Madhya Pradesh 458002",
+    "area": "Dhan Mandi",
+    "latitude": 24.0640644,
+    "longitude": 75.06796179999999,
+    "place_id": "ChIJE460bqkuZDkRyn7i78uhP50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE460bqkuZDkRyn7i78uhP50",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:50"
+  }
+]

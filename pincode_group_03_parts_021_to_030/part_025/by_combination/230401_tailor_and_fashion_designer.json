@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sapna Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing alteration service, Dress store, Gents Tailor",
+    "pincode": "230401",
+    "phone_number": "+91 99256 29008",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jani Sheri, Ghadiyali Pole, Chokshi Bazar, Vadodara, Gujarat 390001",
+    "area": "Jani Sheri, Ghadiyali Pole, Chokshi Bazar",
+    "latitude": 22.296661099999998,
+    "longitude": 73.2089335,
+    "place_id": "ChIJuUbP2KzIXzkRZicmnBj31Lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUbP2KzIXzkRZicmnBj31Lg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:59"
+  },
+  {
+    "business_name": "YASH TAILOR AND READYMADE",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "230401",
+    "phone_number": "+91 90238 84121",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Yash tailor, Wadi Rang Mahal, Tower Main Rd, Wadi, Vadodara, Gujarat 390017",
+    "area": "Wadi",
+    "latitude": 22.294193999999997,
+    "longitude": 73.2155138,
+    "place_id": "ChIJtdII4G3FXzkRLdbNwHIl5Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdII4G3FXzkRLdbNwHIl5Z8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:59"
+  }
+]

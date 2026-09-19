@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta oil and flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "230304",
+    "phone_number": "+91 99364 67078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "M2CH+4F7, Singaldeep, Uttar Pradesh 212109",
+    "area": "230304",
+    "latitude": 25.6702938,
+    "longitude": 82.0286825,
+    "place_id": "ChIJ9QOVttq6mjkRw-ZSYVBDl-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QOVttq6mjkRw-ZSYVBDl-I",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:44:35"
+  },
+  {
+    "business_name": "Garg Flour Mill - Shri Kedar Bhog /kohlberry",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "230304",
+    "phone_number": "+91 98141 37777",
+    "website": "https://kohlberry.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PJQR+M9M, Badala Road, opp. GRAIN MARKET, Guru Arjun Dev Colony, New Hari Enclave, Kharar, Punjab 140301",
+    "area": "Guru Arjun Dev Colony, New Hari Enclave",
+    "latitude": 30.739238699999998,
+    "longitude": 76.640874,
+    "place_id": "ChIJSbNK88PlDzkRs1-34tJ1JfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbNK88PlDzkRs1-34tJ1JfE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:44:36"
+  }
+]

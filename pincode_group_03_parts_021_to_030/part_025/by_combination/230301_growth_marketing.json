@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GROWTH Marketing Solutions",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "230301",
+    "phone_number": "N/A",
+    "website": "https://www.growthmarketingsolutions.nl/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GROWTH Marketing Solutions, 230301, India",
+    "area": "230301",
+    "latitude": 52.190976299999996,
+    "longitude": 5.2795551,
+    "place_id": "ChIJtb6FLAC51GYRMLkAfN2t72Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtb6FLAC51GYRMLkAfN2t72Q",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:00"
+  },
+  {
+    "business_name": "Genuine Growth Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment, Marketing agency, Marketing consultant, Promotional products supplier",
+    "pincode": "230301",
+    "phone_number": "N/A",
+    "website": "https://gengrowthmarketing.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Genuine Growth Marketing, 230301, India",
+    "area": "230301",
+    "latitude": 45.5652724,
+    "longitude": -122.60210599999999,
+    "place_id": "ChIJCa1OoImjlVQRFsrtDmGmMpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCa1OoImjlVQRFsrtDmGmMpM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarav Chem Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "230301",
+    "phone_number": "+91 98248 07479",
+    "website": "http://aaravchemin.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree Hari Astate, Plot No. H-32, Dadhal, Ankleshwar, Gujarat 393001",
+    "area": "Dadhal",
+    "latitude": 21.6276564,
+    "longitude": 73.0522896,
+    "place_id": "ChIJVXrU5L8j4DsRM9pF6U8dhRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXrU5L8j4DsRM9pF6U8dhRk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:40:48"
+  },
+  {
+    "business_name": "SHIVA CHEMICAL INDUSTRY",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Chemical Manufacturer",
+    "pincode": "230301",
+    "phone_number": "+91 80 4580 4026",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B No. 95, 96, Richhai Industrial Area, Richhai, Jabalpur, Madhya Pradesh 482010",
+    "area": "Richhai Industrial Area, Richhai",
+    "latitude": 23.2260998,
+    "longitude": 79.98030039999999,
+    "place_id": "ChIJWbjcXM-vgTkRpkOVcJtlTyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbjcXM-vgTkRpkOVcJtlTyA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:40:48"
+  }
+]

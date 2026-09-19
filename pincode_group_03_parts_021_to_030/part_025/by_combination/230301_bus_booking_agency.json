@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Bus Service, M. Badshahpur",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "230301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mungra Badshahpur Rd, Pura Madhu, Mungra Badshahpur, Uttar Pradesh 212402",
+    "area": "230301",
+    "latitude": 25.655652,
+    "longitude": 82.1873659,
+    "place_id": "ChIJp--AgBqnmjkRMOK6EiCFhw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp--AgBqnmjkRMOK6EiCFhw8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:54"
+  },
+  {
+    "business_name": "Arnav Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Van rental agency",
+    "all_categories": "Van rental agency, Bus tour agency, Car dealer, Real estate consultant, Surplus store, Wedding service",
+    "pincode": "230301",
+    "phone_number": "+91 99187 20808",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "M56V+C26, Mungra Badshahpur Main Market Rd, Naiganj, Sultanpur, Mungra Badshahpur, Uttar Pradesh 222202",
+    "area": "Naiganj",
+    "latitude": 25.661033699999997,
+    "longitude": 82.1925009,
+    "place_id": "ChIJGW6gAsKnmjkRJQggfZ8mzuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGW6gAsKnmjkRJQggfZ8mzuM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:55"
+  }
+]

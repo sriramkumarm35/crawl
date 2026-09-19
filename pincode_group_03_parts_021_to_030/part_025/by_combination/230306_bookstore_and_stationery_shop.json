@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "230306",
+    "phone_number": "+91 96341 35404",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "199, Patel Nagar, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Patel Nagar, New Mandi",
+    "latitude": 29.4681805,
+    "longitude": 77.7144185,
+    "place_id": "ChIJsVNpGB4bDDkRcOgQ7oakI8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVNpGB4bDDkRcOgQ7oakI8s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:05"
+  },
+  {
+    "business_name": "Modern Book Stores",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "230306",
+    "phone_number": "+91 99343 54336",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nirsa, Jharkhand 828205",
+    "area": "230306",
+    "latitude": 23.784268299999997,
+    "longitude": 86.7082267,
+    "place_id": "ChIJv-23TwTD9jkRBlTvEUCsg5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-23TwTD9jkRBlTvEUCsg5A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:05"
+  }
+]

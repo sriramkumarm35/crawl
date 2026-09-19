@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Sweets House Restaurant",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230401",
+    "phone_number": "+91 99181 32583",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "22VG+22F, Kohandaur, Ramapur, Uttar Pradesh 230401",
+    "area": "230401",
+    "latitude": 26.0425696,
+    "longitude": 82.02506,
+    "place_id": "ChIJOR7nJ5GPmjkR2ReROkfAnE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOR7nJ5GPmjkR2ReROkfAnE0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:47"
+  },
+  {
+    "business_name": "PCO",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "230401",
+    "phone_number": "N/A",
+    "website": "http://www.pco.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3X3J+9H6, Unnamed Road, Sujan Garh, Uttar Pradesh 230401",
+    "area": "230401",
+    "latitude": 26.0534073,
+    "longitude": 81.9813872,
+    "place_id": "ChIJpeAZyFiOmjkR_z8XEAhg_nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeAZyFiOmjkR_z8XEAhg_nI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:49"
+  }
+]

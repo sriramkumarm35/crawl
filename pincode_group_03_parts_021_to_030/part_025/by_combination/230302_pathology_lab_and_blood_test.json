@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Path Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "230302",
+    "phone_number": "+91 99181 91867",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "achkwa Road, near Chark Polyclinic, Sahoni, Uttar Pradesh 271855",
+    "area": "230302",
+    "latitude": 28.1493781,
+    "longitude": 81.44231909999999,
+    "place_id": "ChIJ_xyOBG2JmDkRloHoW4Ektvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xyOBG2JmDkRloHoW4Ektvk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:36"
+  },
+  {
+    "business_name": "Diagno Lab (Blood test centre)",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service, Service establishment",
+    "pincode": "230302",
+    "phone_number": "+91 79918 95990",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Diagno Lab (Blood test centre), 230302, India",
+    "area": "230302",
+    "latitude": 27.1381928,
+    "longitude": 80.8593042,
+    "place_id": "ChIJOZHpkWQ7kDkRiiZ6rpLvHco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZHpkWQ7kDkRiiZ6rpLvHco",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:39"
+  }
+]

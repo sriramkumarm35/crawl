@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meataverse, The Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Fish store, Meat products store",
+    "pincode": "230302",
+    "phone_number": "+91 88001 40409",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No. 1, Kataria Market, near The Millennia 2 - commercial, opp. Indian Oil Petrol Pump, Sector 37D, Gurugram, Haryana 122001",
+    "area": "Sector 37D",
+    "latitude": 28.452195,
+    "longitude": 76.978113,
+    "place_id": "ChIJrVDxeegXDTkRqYZqCFWNB2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVDxeegXDTkRqYZqCFWNB2Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:09"
+  },
+  {
+    "business_name": "Kaka chicken center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Egg supplier",
+    "pincode": "230302",
+    "phone_number": "+91 74770 48481",
+    "website": "https://tinw.in/kaka-chicken-center",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no, 235, pipliyahana Ring Road, Pipliyahana Rd, Chauhan Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Chauhan Nagar",
+    "latitude": 22.7041191,
+    "longitude": 75.9070033,
+    "place_id": "ChIJ9ZJa5ynjYjkR6fovhFCZ4KQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZJa5ynjYjkR6fovhFCZ4KQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:41:10"
+  }
+]

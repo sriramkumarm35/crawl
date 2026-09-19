@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansar Building Materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "230304",
+    "phone_number": "+91 70434 54817",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QW8R+C6J, Bhikhnapur, Kharwain, Uttar Pradesh 230404",
+    "area": "230304",
+    "latitude": 25.7660953,
+    "longitude": 81.9405103,
+    "place_id": "ChIJ_-j5zkG_mjkR-JseTe6eqHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-j5zkG_mjkR-JseTe6eqHA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:43:47"
+  },
+  {
+    "business_name": "Sahu Enterprise's",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "230304",
+    "phone_number": "+91 72680 07494",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tilai Mauaima Rd, Teliyabeer, Uttar Pradesh 212507",
+    "area": "230304",
+    "latitude": 25.7304398,
+    "longitude": 81.99823219999999,
+    "place_id": "ChIJgdFkyrC9mjkRb2j-Cms9qKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdFkyrC9mjkRb2j-Cms9qKQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:43:47"
+  }
+]

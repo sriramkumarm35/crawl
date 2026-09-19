@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paan House",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230401",
+    "phone_number": "+91 85532 22684",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "88, Queens Rd, opposite Congress office, Govinda Chetty Colony, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "area": "Govinda Chetty Colony, Shivaji Nagar",
+    "latitude": 12.9890247,
+    "longitude": 77.5991801,
+    "place_id": "ChIJV4tC6JgXrjsRlYUlmmcnPGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4tC6JgXrjsRlYUlmmcnPGI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:45"
+  },
+  {
+    "business_name": "Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "230401",
+    "phone_number": "+91 83026 69733",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhupendra Singh, Sector 17, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector 17, Pratap Nagar",
+    "latitude": 26.8063014,
+    "longitude": 75.8340016,
+    "place_id": "ChIJD1cNZJzJbTkRGPCSIyJGLYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1cNZJzJbTkRGPCSIyJGLYw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:46:45"
+  }
+]

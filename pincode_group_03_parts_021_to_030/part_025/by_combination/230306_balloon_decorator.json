@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons affair",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "230306",
+    "phone_number": "+91 99991 17986",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bagga Link Rd, Rithala Extension, Rithala, Rohini, Delhi, 110085",
+    "area": "Rithala Extension, Rithala, Rohini",
+    "latitude": 28.7224886,
+    "longitude": 77.1018969,
+    "place_id": "ChIJP9nxHGEHDTkRmT02coj3Z0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9nxHGEHDTkRmT02coj3Z0w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:45:53"
+  },
+  {
+    "business_name": "Dilkhush Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon Decorator",
+    "all_categories": "Balloon Decorator",
+    "pincode": "230306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "70, Gali No. 11, New Lahore, Sarojini Park, Geeta Colony, Delhi, 110031",
+    "area": "New Lahore, Sarojini Park, Geeta Colony",
+    "latitude": 28.6433844,
+    "longitude": 77.2758302,
+    "place_id": "ChIJtfa2yZn8DDkRlxuieXptoZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfa2yZn8DDkRlxuieXptoZ8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:45:53"
+  }
+]
