@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umesh flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "250004",
+    "phone_number": "+91 93891 05230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaidev Nagar, Kalyan, Meerut, Uttar Pradesh 250002",
+    "area": "Jaidev Nagar, Kalyan",
+    "latitude": 28.966334,
+    "longitude": 77.72407559999999,
+    "place_id": "ChIJ9ULF1vRlDDkRgsQ7qKXlBMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ULF1vRlDDkRgsQ7qKXlBMw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:34:25"
+  },
+  {
+    "business_name": "Amit wedding home haldi decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market",
+    "pincode": "250004",
+    "phone_number": "+91 93890 58486",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lal Singh Nagar, Sector 3, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Sector 3, Shastri Nagar",
+    "latitude": 28.9631245,
+    "longitude": 77.7253812,
+    "place_id": "ChIJ8cIzmqxlDDkRoIxJIYp2i2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cIzmqxlDDkRoIxJIYp2i2Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:34:25"
+  }
+]

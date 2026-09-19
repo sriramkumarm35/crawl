@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHE'S BOUTIQUE MEERUT",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Western apparel store",
+    "all_categories": "Western apparel store, Traditional costume club",
+    "pincode": "250110",
+    "phone_number": "+91 70174 55966",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "AGF-08, Ansal Courtyard, Ansal City, Modipuram, Meerut, Uttar Pradesh 250001",
+    "area": "Ansal City, Modipuram",
+    "latitude": 29.0457383,
+    "longitude": 77.6994429,
+    "place_id": "ChIJKSR5uBRvDDkRBEKRn9uF9lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSR5uBRvDDkRBEKRn9uF9lo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:03"
+  },
+  {
+    "business_name": "Desire the Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "250110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Ram Suvidha Complex, RAM Canteen, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "area": "RAM Canteen, Meerut Cantt",
+    "latitude": 28.9861236,
+    "longitude": 77.6879751,
+    "place_id": "ChIJ0atKpOdlDDkRv82ibY42MOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0atKpOdlDDkRv82ibY42MOg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:04"
+  }
+]

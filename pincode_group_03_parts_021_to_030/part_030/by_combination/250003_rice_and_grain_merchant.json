@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.R Rice India Pvt. Ltd",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "250003",
+    "phone_number": "+91 93111 12835",
+    "website": "https://jrriceindia.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Lahori Gate, 5593-94, Old Delhi, Naya Bazar, Khari Baoli, Chandni Chowk, Delhi, 110006",
+    "area": "Old Delhi, Naya Bazar, Khari Baoli, Chandni Chowk",
+    "latitude": 28.6590079,
+    "longitude": 77.21931219999999,
+    "place_id": "ChIJ____aw39DDkR8CGHygRJiEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____aw39DDkR8CGHygRJiEA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:31:32"
+  },
+  {
+    "business_name": "Shreyas Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "250003",
+    "phone_number": "+91 94204 25299",
+    "website": "http://www.shreyastraders.in/",
+    "rating": 4.3,
+    "reviews_count": 45,
+    "address": "Shivneri Path, Burhani Colony, Market Yard, Gultekadi, Pune, Maharashtra 411037",
+    "area": "Burhani Colony, Market Yard, Gultekadi",
+    "latitude": 18.4846246,
+    "longitude": 73.8713557,
+    "place_id": "ChIJ15rd-iDAwjsRxGSeqkpNkss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15rd-iDAwjsRxGSeqkpNkss",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:31:32"
+  }
+]

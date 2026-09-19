@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Palace Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "250205",
+    "phone_number": "+91 94100 00850",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "NH-58, Delhi - Meerut Rd, Mohiuddinpur, Uttar Pradesh 201201",
+    "area": "250205",
+    "latitude": 28.8726514,
+    "longitude": 77.6041551,
+    "place_id": "ChIJVQLe2glhDDkRF_nN81na6qI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQLe2glhDDkRF_nN81na6qI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:47"
+  },
+  {
+    "business_name": "Jain Shikanji - Modinagar",
+    "search_category": "Family Restaurant",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store, Fast food restaurant, Indian restaurant, Restaurant, Soft drinks shop, Vegetarian restaurant",
+    "pincode": "250205",
+    "phone_number": "+91 92194 48748",
+    "website": "https://www.jainshikanji.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Jain Shikanji, Vikasnagar, Kadrabad, Uttar Pradesh 201201",
+    "area": "250205",
+    "latitude": 28.870504,
+    "longitude": 77.6033333,
+    "place_id": "ChIJt9w5iklgDDkR0xfDKUS7l2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9w5iklgDDkR0xfDKUS7l2Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:50"
+  }
+]

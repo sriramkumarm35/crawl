@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mini Mall 99 Store",
+    "search_category": "Malls",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "250205",
+    "phone_number": "+91 79068 71148",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "no 99, Siwal Khas Road, Mohiuddinpur, Uttar Pradesh 250205",
+    "area": "250205",
+    "latitude": 28.891478,
+    "longitude": 77.60597,
+    "place_id": "ChIJBTT-qIhhDDkR7HQrRIq3YBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTT-qIhhDDkR7HQrRIq3YBI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:27"
+  },
+  {
+    "business_name": "Digital Priyanshu",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "250205",
+    "phone_number": "N/A",
+    "website": "https://digitalpriyanshu.online/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "74, Kanchan Pur Ghopla, Sector 9, Rithani, Meerut, Uttar Pradesh 250103",
+    "area": "Kanchan Pur Ghopla, Sector 9, Rithani",
+    "latitude": 28.920766999999998,
+    "longitude": 77.6773597,
+    "place_id": "ChIJn_cG4AJjDDkR6gXqVyJnex8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_cG4AJjDDkR6gXqVyJnex8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:28"
+  }
+]

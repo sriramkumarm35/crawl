@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riyansh Property Dealer",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "250110",
+    "phone_number": "+91 89583 83249",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dream City, A-1, Sardhana Rd, above Kanker Khera, Dream City, Meerut, Uttar Pradesh 250001",
+    "area": "Dream City",
+    "latitude": 29.0445015,
+    "longitude": 77.6600682,
+    "place_id": "ChIJxRnb9L5vDDkRYnJ9NOpNJZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRnb9L5vDDkRYnJ9NOpNJZY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:14"
+  },
+  {
+    "business_name": "Shri Khatu Shyam Property",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Industrial real estate agency, Land surveying office, Land surveyor, Property investment company, Property management company, Real estate developer, Real estate surveyor",
+    "pincode": "250110",
+    "phone_number": "+91 98977 50859",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shri Khatu Shyam Property, Khirwa Rd, Kanker khera, Meerut, Uttar Pradesh 250001",
+    "area": "Kanker khera",
+    "latitude": 29.0467165,
+    "longitude": 77.67276939999999,
+    "place_id": "ChIJE0SrK2pvDDkR3_r4U1wCijk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0SrK2pvDDkR3_r4U1wCijk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:15"
+  }
+]

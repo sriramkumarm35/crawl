@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ballia Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "250103",
+    "phone_number": "+91 91707 59652",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Q549+Q5Q, Arazi Mafi Imrit Pali, Uttar Pradesh 277001",
+    "area": "250103",
+    "latitude": 25.756959799999997,
+    "longitude": 84.1679801,
+    "place_id": "ChIJUywKUL5kkjkRhmTr8_6JPVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUywKUL5kkjkRhmTr8_6JPVg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:36"
+  },
+  {
+    "business_name": "NephroWorld Dialysis Center @ Cura Hospital Kammanhaali",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "250103",
+    "phone_number": "N/A",
+    "website": "http://nephroworld.in/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "1, Bethel St, HRBR Layout 2nd Block, Sena Vihar, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 2nd Block, Sena Vihar, Kalyan Nagar",
+    "latitude": 13.021931499999999,
+    "longitude": 77.637788,
+    "place_id": "ChIJNSOZRbwXrjsRSoSZ9TDNt1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSOZRbwXrjsRSoSZ9TDNt1c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:36"
+  }
+]

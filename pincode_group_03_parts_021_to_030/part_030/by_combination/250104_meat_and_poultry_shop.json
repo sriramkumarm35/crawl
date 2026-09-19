@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Fazlu Industries",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "250104",
+    "phone_number": "N/A",
+    "website": "https://fazlul-industries.rajputarsalan76680.workers.dev/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Country/Region: India Street address: Near Numbard Nursery, Bamba Road Town/City: Kithore Pincode:, Kithaur, Uttar Pradesh 250104",
+    "area": "250104",
+    "latitude": 28.867649999999998,
+    "longitude": 77.94331,
+    "place_id": "ChIJLy4ArcF_CzkRZmNz2KoDEp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLy4ArcF_CzkRZmNz2KoDEp0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:02"
+  },
+  {
+    "business_name": "Roshan Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "250104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2P3R+WXR, Radha Garden, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "Radha Garden, Ganga Nagar",
+    "latitude": 29.004866399999997,
+    "longitude": 77.74240549999999,
+    "place_id": "ChIJ_ZlHfC1lDDkRM-FrgYfNKws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZlHfC1lDDkRM-FrgYfNKws",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:02"
+  }
+]

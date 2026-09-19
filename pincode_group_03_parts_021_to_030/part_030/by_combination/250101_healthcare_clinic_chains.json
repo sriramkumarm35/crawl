@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baraut Medicity Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Hospital",
+    "pincode": "250101",
+    "phone_number": "+91 86508 00340",
+    "website": "http://www.barautmedicityhospital.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "36VW+JHV, Kotana Rd, Baraut, Baraut Rural, Uttar Pradesh 250611",
+    "area": "250101",
+    "latitude": 29.0950164,
+    "longitude": 77.2429763,
+    "place_id": "ChIJDzuT1oJLDDkRMM5vLZL-d70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzuT1oJLDDkRMM5vLZL-d70",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:37:44"
+  },
+  {
+    "business_name": "LIFE CARE DIAGNOSTIX",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory, Diagnostic center",
+    "pincode": "250101",
+    "phone_number": "+91 72081 81000",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop no 01 near kfc restorent Main GT road Kundli.HR Tdi, Kundli, Haryana 131028",
+    "area": "Kundli",
+    "latitude": 28.8635894,
+    "longitude": 77.1237771,
+    "place_id": "ChIJWWUPX8CrDTkRRV42NI-ZI9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWUPX8CrDTkRRV42NI-ZI9w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:37:45"
+  }
+]

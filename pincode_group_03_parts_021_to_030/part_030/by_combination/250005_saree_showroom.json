@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji saree centre",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250005",
+    "phone_number": "+91 98377 83482",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhola Rd, near bata foam factory, Multan Nagar, Meerut, Uttar Pradesh 250005",
+    "area": "Multan Nagar",
+    "latitude": 28.9732757,
+    "longitude": 77.6601392,
+    "place_id": "ChIJp5mJRwBlDDkRIH5ofmkYz4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5mJRwBlDDkRIH5ofmkYz4w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:35:30"
+  },
+  {
+    "business_name": "Kumar saree center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250005",
+    "phone_number": "+91 74173 59195",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baghpat Rd, Kishanpura, Meerut, Uttar Pradesh 250002",
+    "area": "Kishanpura",
+    "latitude": 28.971502899999997,
+    "longitude": 77.6704939,
+    "place_id": "ChIJJdYiF_1lDDkReHeaD4zxINc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdYiF_1lDDkReHeaD4zxINc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:35:31"
+  }
+]

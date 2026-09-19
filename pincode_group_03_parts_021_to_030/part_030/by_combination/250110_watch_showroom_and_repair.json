@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE WATCH",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "250110",
+    "phone_number": "+91 88689 29996",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2modipuram Road, Gangoh, Modipuram, Meerut, Uttar Pradesh 250110",
+    "area": "Gangoh, Modipuram",
+    "latitude": 29.0593811,
+    "longitude": 77.71005869999999,
+    "place_id": "ChIJB-ac-qdvDDkRM4xfhy-6KBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-ac-qdvDDkRM4xfhy-6KBg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:01"
+  },
+  {
+    "business_name": "KRISHNA WATCH CENTER",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "250110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2MFJ+974, Dr B R Ambedkar Rd, Kanker Khera, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "area": "Kanker Khera, Meerut Cantt",
+    "latitude": 29.023378599999997,
+    "longitude": 77.6807175,
+    "place_id": "ChIJNceZlI1lDDkRuWlTHCnykEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNceZlI1lDDkRuWlTHCnykEA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:01"
+  }
+]

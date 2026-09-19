@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheetal Hotel And Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "250103",
+    "phone_number": "+91 70601 54444",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Delhi Rd, opposite Shoprix Mall, Phase I, Industrial Area, Mohkam Pur, Meerut, Uttar Pradesh 250002",
+    "area": "Phase I, Industrial Area, Mohkam Pur",
+    "latitude": 28.9494862,
+    "longitude": 77.6753537,
+    "place_id": "ChIJY6ojuwxkDDkRAAAAMO6v-h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6ojuwxkDDkRAAAAMO6v-h4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:13"
+  },
+  {
+    "business_name": "Nitin Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "250103",
+    "phone_number": "+91 82797 24825",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "WJJR+P4R, Partapur, Meerut, Uttar Pradesh 250002",
+    "area": "Partapur",
+    "latitude": 28.9318714,
+    "longitude": 77.64026179999999,
+    "place_id": "ChIJNbtIzodhDDkRT0b6XwuWAEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbtIzodhDDkRT0b6XwuWAEg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:13"
+  }
+]

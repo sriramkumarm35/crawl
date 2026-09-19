@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divine Gallery",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "250110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Face-2, near Ganesh Dairy, opposite to Ganga Hospital, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "area": "Pallavpuram Phase 2, Modipuram",
+    "latitude": 29.0623252,
+    "longitude": 77.7128074,
+    "place_id": "ChIJ1WZqz2NvDDkR61mU4zvWr8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WZqz2NvDDkR61mU4zvWr8I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:50"
+  },
+  {
+    "business_name": "Dubai Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "250110",
+    "phone_number": "+91 97117 65429",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palheda Caupla, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "area": "Pallavpuram Phase 2, Modipuram",
+    "latitude": 29.0593847,
+    "longitude": 77.7100583,
+    "place_id": "ChIJG_kB8ZBvDDkRxJsMK7yjRH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_kB8ZBvDDkRxJsMK7yjRH0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:51"
+  }
+]

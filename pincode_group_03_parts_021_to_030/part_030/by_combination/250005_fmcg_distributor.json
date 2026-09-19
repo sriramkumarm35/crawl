@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meerut Fmcg",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "250005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Defence enclave, A-85, Sardhana Rd, Defence Enclave, Meerut, Uttar Pradesh 250001",
+    "area": "Defence Enclave",
+    "latitude": 29.0256047,
+    "longitude": 77.6717094,
+    "place_id": "ChIJPxaivZxlDDkRok7vyfY2P94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxaivZxlDDkRok7vyfY2P94",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:35:20"
+  },
+  {
+    "business_name": "MaxWholesale",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "250005",
+    "phone_number": "+91 88821 19999",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "99 Algorithms Private Limited 1031/1, Ground Floor, Mahipalpur, near Hotel Om Paradise, New Delhi, Delhi 110037",
+    "area": "Mahipalpur Extension, Mahipalpur",
+    "latitude": 28.5511627,
+    "longitude": 77.13234949999999,
+    "place_id": "ChIJjU9gMQ3iDDkRJTsyf8e0rFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjU9gMQ3iDDkRJTsyf8e0rFY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:35:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "250205",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3rd Floor, Dialysis Unit, Lokpriya Hospital, near Amber Cinema, Modinagar, Uttar Pradesh 201201",
+    "area": "250205",
+    "latitude": 28.8424281,
+    "longitude": 77.5820504,
+    "place_id": "ChIJDWdiVtlhDDkRyTUZjF7QIys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWdiVtlhDDkRyTUZjF7QIys",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:05"
+  },
+  {
+    "business_name": "Priyadarshi Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "250205",
+    "phone_number": "+91 76692 44563",
+    "website": "https://priyadarshihospital.com/",
+    "rating": 4.5,
+    "reviews_count": 289,
+    "address": "NH 58, near Amber Cinema, Bank Colony, Modinagar, Uttar Pradesh 201204",
+    "area": "Bank Colony",
+    "latitude": 28.8423369,
+    "longitude": 77.5813045,
+    "place_id": "ChIJTQthMR5gDDkR48-GmVTW8Fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQthMR5gDDkR48-GmVTW8Fo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "https://desidairymeerut.com/",
+    "rating": 4.3,
+    "reviews_count": 56,
+    "address": "Samaypur, Uttar Pradesh 250004",
+    "area": "250221",
+    "latitude": 28.903019999999998,
+    "longitude": 77.80433169999999,
+    "place_id": "ChIJ40L2M7J9DDkR7G9-AyGJkF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40L2M7J9DDkR7G9-AyGJkF4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:32"
+  },
+  {
+    "business_name": "Milk Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Chicken & Mutton Shop",
+    "pincode": "250221",
+    "phone_number": "+91 91197 79778",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanker Khera, Shradhapuri Phase 2, Meerut, Uttar Pradesh 250001",
+    "area": "Kanker Khera, Shradhapuri Phase 2",
+    "latitude": 29.026573499999998,
+    "longitude": 77.6886854,
+    "place_id": "ChIJH_RfF7FlDDkRMciSiTaneCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_RfF7FlDDkRMciSiTaneCQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:34"
+  }
+]

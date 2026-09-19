@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seed’s & fruits, vegetables",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "250106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MANISH CHAUDHARY FARM OF AMARPUR, Amarpur, Kasimpur, Uttar Pradesh 250106",
+    "area": "250106",
+    "latitude": 28.8938249,
+    "longitude": 77.9053182,
+    "place_id": "ChIJiWaCu4l_DDkRbsS_FgRvHWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWaCu4l_DDkRbsS_FgRvHWM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:50"
+  },
+  {
+    "business_name": "Ukkadam Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Market",
+    "pincode": "250106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 4818,
+    "address": "Perur Bypass Rd, Ukkadam, Coimbatore, Tamil Nadu 641023",
+    "area": "Ukkadam",
+    "latitude": 10.986833899999999,
+    "longitude": 76.96577649999999,
+    "place_id": "ChIJuaXh5HRZqDsR2HcAtwQDVes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaXh5HRZqDsR2HcAtwQDVes",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mapango pizza kithore",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "250104",
+    "phone_number": "+91 90126 56667",
+    "website": "http://www.mapangopizza.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shafi complex, near Ambedkar murti, Kithaur, Uttar Pradesh 250104",
+    "area": "250104",
+    "latitude": 28.8642577,
+    "longitude": 77.9373872,
+    "place_id": "ChIJYewRR9N_CzkRwHs6ayB8ZbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYewRR9N_CzkRwHs6ayB8ZbQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:11"
+  },
+  {
+    "business_name": "Berco's - If You Love Chinese",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Asian restaurant, Pan-Asian restaurant, Thai restaurant",
+    "pincode": "250104",
+    "phone_number": "+91 97739 92598",
+    "website": "https://bercos.net.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Second Floor, S-15, 16 & 17, Downtown, Meerut, Uttar Pradesh 250001",
+    "area": "Radha Garden, Downtown",
+    "latitude": 29.007711999999998,
+    "longitude": 77.7461525,
+    "place_id": "ChIJPZrRYQB7DDkRz-jLmZDhu48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZrRYQB7DDkRz-jLmZDhu48",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:11"
+  }
+]

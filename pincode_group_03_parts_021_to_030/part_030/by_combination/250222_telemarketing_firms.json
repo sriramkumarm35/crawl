@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Couponla India",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "250222",
+    "phone_number": "+91 98731 10830",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Couponla India, 250222, India",
+    "area": "250222",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJzXpWMcJ6DDkRZCpleU0E9yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXpWMcJ6DDkRZCpleU0E9yY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:10"
+  },
+  {
+    "business_name": "Aviklife Marketing Private Limited",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "250222",
+    "phone_number": "+91 87918 85729",
+    "website": "http://aviklife.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. C-2/2 Second Floor, Pallavpuram Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "area": "Pallavpuram Phase 2, Modipuram",
+    "latitude": 29.0661368,
+    "longitude": 77.710449,
+    "place_id": "ChIJO_g5saRvDDkRGDUdzP9tYxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_g5saRvDDkRGDUdzP9tYxg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukund Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "250221",
+    "phone_number": "+91 96396 65679",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daurala, Daurala Rural, Uttar Pradesh 250221",
+    "area": "250221",
+    "latitude": 29.118435299999998,
+    "longitude": 77.71247699999999,
+    "place_id": "ChIJVVVVVWJuDDkRw7EUQ4L4DUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVWJuDDkRw7EUQ4L4DUI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:47"
+  },
+  {
+    "business_name": "The boys hub men’s wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250221",
+    "phone_number": "+91 89799 60310",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main, chopla NH58, Daurala, Meerut, Uttar Pradesh 250221",
+    "area": "250221",
+    "latitude": 29.112333099999997,
+    "longitude": 77.7024706,
+    "place_id": "ChIJyb8DhZdvDDkRjOsctWe_VlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyb8DhZdvDDkRjOsctWe_VlY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:47"
+  }
+]

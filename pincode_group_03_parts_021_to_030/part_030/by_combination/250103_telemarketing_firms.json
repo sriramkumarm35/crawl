@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Service CRM",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "250103",
+    "phone_number": "+91 91057 30500",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 43,
+    "address": "B-420, SL Building, Gayatri Garden, NH-58 Partapur Bye Pass, Opp Regis Resort, near IT Park, Meerut, Uttar Pradesh 250002",
+    "area": "250103",
+    "latitude": 28.9365888,
+    "longitude": 77.635848,
+    "place_id": "ChIJKepm1CBlDDkRubXZAYED0_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKepm1CBlDDkRubXZAYED0_k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:40:51"
+  },
+  {
+    "business_name": "IKN NEWS",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Media company",
+    "all_categories": "Media company, Media house",
+    "pincode": "250103",
+    "phone_number": "+91 93685 27197",
+    "website": "https://www.youtube.com/@IKN-NEWS",
+    "rating": 5,
+    "reviews_count": 85,
+    "address": "Baral, Mheroli Road, Partapur, Meerut, Jharli, Uttar Pradesh 250103",
+    "area": "Partapur",
+    "latitude": 28.9267602,
+    "longitude": 77.6483429,
+    "place_id": "ChIJzfa98FlhDDkRCgItwp13n64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfa98FlhDDkRCgItwp13n64",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:40:51"
+  }
+]

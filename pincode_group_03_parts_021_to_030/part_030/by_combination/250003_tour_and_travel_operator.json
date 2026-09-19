@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "decidemytrip",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Travel clinic",
+    "pincode": "250003",
+    "phone_number": "+91 63978 75500",
+    "website": "http://www.decidemytrip.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "142, New Sarvodaya Colony, Prabhat Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "New Sarvodaya Colony, Prabhat Nagar",
+    "latitude": 28.9870174,
+    "longitude": 77.7388928,
+    "place_id": "ChIJFW9QBoxlDDkRShNXhaTzJOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFW9QBoxlDDkRShNXhaTzJOY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:10"
+  },
+  {
+    "business_name": "GOPAL TRAVEL & SERVICE",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "250003",
+    "phone_number": "+91 89791 69085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SHOP 2 Jail Road, Balwant Nagar,Jail Chungi, Meerut, Uttar Pradesh 250001",
+    "area": "Pandav Nagar",
+    "latitude": 28.9795354,
+    "longitude": 77.73238789999999,
+    "place_id": "ChIJSRt3CP1lDDkRTVscGRRBoyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRt3CP1lDDkRTVscGRRBoyM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:10"
+  }
+]

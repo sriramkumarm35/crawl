@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AGROMEC B 7",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Hydraulic equipment supplier, Hydraulic repair service, Machining manufacturer",
+    "pincode": "250103",
+    "phone_number": "+91 121 244 0550",
+    "website": "http://www.agromecindia.com/",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "B-7, Industrial estate, Delhi Rd, Partapur, Meerut, Uttar Pradesh 250103",
+    "area": "Sector 2, Partapur",
+    "latitude": 28.927215099999998,
+    "longitude": 77.65820769999999,
+    "place_id": "ChIJC7RWyPxjDDkRuLAi9sofrBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7RWyPxjDDkRuLAi9sofrBU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:47"
+  },
+  {
+    "business_name": "Rithani",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane and Towing Service",
+    "all_categories": "Crane and Towing Service",
+    "pincode": "250103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Meerut, Uttar Pradesh 250103",
+    "area": "Rithani",
+    "latitude": 28.9361228,
+    "longitude": 77.6648247,
+    "place_id": "ChIJGYCft_ljDDkRrCA1HOfmtLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYCft_ljDDkRrCA1HOfmtLY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:47"
+  }
+]

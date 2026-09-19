@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grace The Packing Studio",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Packaging company",
+    "all_categories": "Packaging company",
+    "pincode": "250223",
+    "phone_number": "+91 77039 82850",
+    "website": "http://www.gracethepackingstudio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-9/4, near Peeragarhi, Block NS, Mianwali Nagar, Chowk, New Delhi, Delhi, 110087",
+    "area": "Block NS, Mianwali Nagar, Chowk",
+    "latitude": 28.676761499999998,
+    "longitude": 77.08478099999999,
+    "place_id": "ChIJ0ykkyYYDDTkR2dDKJSoPj1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ykkyYYDDTkR2dDKJSoPj1E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:53:23"
+  },
+  {
+    "business_name": "Aashiyanaa Home Decor & Boutique",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Women's clothing store, Home improvement store",
+    "pincode": "250223",
+    "phone_number": "+91 95555 65525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "near Rachna store, Tejgarhi, Sector 2, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Tejgarhi, Sector 2, Shastri Nagar",
+    "latitude": 28.960916899999997,
+    "longitude": 77.730153,
+    "place_id": "ChIJQ-SiOHJlDDkRWrbG9i1uFjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-SiOHJlDDkRWrbG9i1uFjE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:53:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rani makeover",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "250104",
+    "phone_number": "+91 97584 44934",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Up, Garh Rd, Holi chowk, Kithaur, Meerut, Uttar Pradesh 250104",
+    "area": "Holi chowk",
+    "latitude": 28.864866799999998,
+    "longitude": 77.9387449,
+    "place_id": "ChIJNdWYeaB_CzkRDqnVmLBSPMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdWYeaB_CzkRDqnVmLBSPMY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:53"
+  },
+  {
+    "business_name": "Divya Makeup Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "250104",
+    "phone_number": "+91 93689 65502",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kila, bus stand, Mawana, near Tvs showroom, Parikshitgarh, Uttar Pradesh 250406",
+    "area": "250104",
+    "latitude": 28.983487099999998,
+    "longitude": 77.9373785,
+    "place_id": "ChIJDwFrM4iHCzkRKK_44YjP85I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwFrM4iHCzkRKK_44YjP85I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:54"
+  }
+]

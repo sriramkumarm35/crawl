@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaibhav Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "250205",
+    "phone_number": "+91 76177 88248",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "252 B Shastri Nagar B Block Meerut Delhi, Uttar Pradesh 250004",
+    "area": "B Block, Shastri Nagar",
+    "latitude": 28.962728,
+    "longitude": 77.7408519,
+    "place_id": "ChIJzaLsx7NkDDkRjFWJ1RABI18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaLsx7NkDDkRjFWJ1RABI18",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:10"
+  },
+  {
+    "business_name": "Health Care Clinic And Medical Store",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "250205",
+    "phone_number": "+91 91492 11823",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dayampur, 2Mf5+Hgj, Meerut, Meerut Division Delhi, Uttar Pradesh 250001",
+    "area": "250205",
+    "latitude": 29.0239375,
+    "longitude": 77.6588125,
+    "place_id": "ChIJO4H3cPxlDDkR6j6j0TasuLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4H3cPxlDDkR6j6j0TasuLM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spade Event Management Services",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "250110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sara Mart Building, near Serva Haryana Gramin Bank, Sector 52, Sector 29, Gurugram, Haryana 122002",
+    "area": "Sector 52, Sector 29",
+    "latitude": 28.4685222,
+    "longitude": 77.06724439999999,
+    "place_id": "ChIJ42oKKP0YDTkRo8kT05eHp_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42oKKP0YDTkRo8kT05eHp_E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:52"
+  },
+  {
+    "business_name": "Rejouir Events company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "250110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "127 Ganpati Vihar, Sardhana Rd, Kanker Khera, Meerut, Uttar Pradesh 250001",
+    "area": "Kanker Khera, Nangla Tashi",
+    "latitude": 29.0404011,
+    "longitude": 77.66743699999999,
+    "place_id": "ChIJxTQdDFRvDDkRJ21Y159fJDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTQdDFRvDDkRJ21Y159fJDs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:45:53"
+  }
+]

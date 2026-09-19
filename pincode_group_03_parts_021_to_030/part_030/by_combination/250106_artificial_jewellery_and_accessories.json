@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayush jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "250106",
+    "phone_number": "+91 70602 16148",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nangli abdulla, near Post office, Gand road, Machhra, meerut, Uttar Pradesh 250106",
+    "area": "250106",
+    "latitude": 28.900705799999997,
+    "longitude": 77.8966636,
+    "place_id": "ChIJ2aw3TAB_DDkRcguBwt9iPVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aw3TAB_DDkRcguBwt9iPVM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:06"
+  },
+  {
+    "business_name": "Atul Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "250106",
+    "phone_number": "+91 97195 37553",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parikshitgarh, Uttar Pradesh 250406",
+    "area": "250106",
+    "latitude": 28.984227599999997,
+    "longitude": 77.9343258,
+    "place_id": "ChIJPxmK8v-HCzkRWtLODU0XWu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxmK8v-HCzkRWtLODU0XWu8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:08"
+  }
+]

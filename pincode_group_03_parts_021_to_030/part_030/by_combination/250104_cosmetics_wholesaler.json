@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "inaya cosmetics and gift store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "250104",
+    "phone_number": "N/A",
+    "website": "https://umairazhari.netlify.app/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "WW5V+G8, Radhna Inayatpur, Uttar Pradesh 250104",
+    "area": "250104",
+    "latitude": 28.9087183,
+    "longitude": 77.9433279,
+    "place_id": "ChIJWyeYzAyBCzkRK33lN4Uxl4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyeYzAyBCzkRK33lN4Uxl4s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:56"
+  },
+  {
+    "business_name": "Multani Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "250104",
+    "phone_number": "+91 94122 04434",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bazar, 73 Valley, Meerut, Uttar Pradesh 250002",
+    "area": "Dharmashala",
+    "latitude": 28.976754099999997,
+    "longitude": 77.6976131,
+    "place_id": "ChIJj44jOVhkDDkRAAAAMPbHenI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj44jOVhkDDkRAAAAMPbHenI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:41:57"
+  }
+]

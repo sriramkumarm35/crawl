@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Animal Hospital Daurala",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 26,
+    "address": "4PG7+M29, Mataur, Uttar Pradesh 250221",
+    "area": "250221",
+    "latitude": 29.126668,
+    "longitude": 77.7126103,
+    "place_id": "ChIJwc3ZvnduDDkR4cVUAlIrUEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwc3ZvnduDDkR4cVUAlIrUEQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:04"
+  },
+  {
+    "business_name": "Animal Clinic & Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Daurala Rural, Uttar Pradesh 250221",
+    "area": "250221",
+    "latitude": 29.1212593,
+    "longitude": 77.7027847,
+    "place_id": "ChIJ4yzSLnxuDDkR7o_R8YKhuyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yzSLnxuDDkR7o_R8YKhuyQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Afflated marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Market researcher",
+    "all_categories": "Market researcher",
+    "pincode": "250104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XXQ2+VCJ, Meerut, Poothi, Uttar Pradesh 250406",
+    "area": "250104",
+    "latitude": 28.9897074,
+    "longitude": 77.9510209,
+    "place_id": "ChIJ7a2SznaHCzkRXgWs6go1QjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7a2SznaHCzkRXgWs6go1QjQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:41"
+  },
+  {
+    "business_name": "MLM Software Company",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "250104",
+    "phone_number": "+91 70373 95111",
+    "website": "https://mlmsoftwarecompany.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Garh Rd, Sector 7, Jagriti Vihar, Meerut, Uttar Pradesh 250001",
+    "area": "Sector 7, Jagriti Vihar",
+    "latitude": 28.8845852,
+    "longitude": 77.8930463,
+    "place_id": "ChIJj9hL1Dp_DDkRQHneLsxEeFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9hL1Dp_DDkRQHneLsxEeFc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:42"
+  }
+]

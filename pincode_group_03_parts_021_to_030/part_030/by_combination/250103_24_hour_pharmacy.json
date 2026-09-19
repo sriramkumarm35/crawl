@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250103",
+    "phone_number": "+91 88688 78939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2modipuram Road, Modipuram, Meerut, Uttar Pradesh 250001",
+    "area": "Modipuram",
+    "latitude": 29.048967899999997,
+    "longitude": 77.7070626,
+    "place_id": "ChIJ3WCzUpNvDDkRqN3vv95JXRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3WCzUpNvDDkRqN3vv95JXRQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:27"
+  },
+  {
+    "business_name": "Aarti Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250103",
+    "phone_number": "+91 93684 03508",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Garh Rd, Hassanpur Kalan, Uttar Pradesh 250106",
+    "area": "250103",
+    "latitude": 28.893825,
+    "longitude": 77.87352109999999,
+    "place_id": "ChIJ6WQo9kh-DDkRPmQjpSaZvoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WQo9kh-DDkRPmQjpSaZvoc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:27"
+  }
+]

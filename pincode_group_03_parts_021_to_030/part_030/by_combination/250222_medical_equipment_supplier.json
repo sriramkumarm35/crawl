@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "250222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mawana road meerut Vill Pabla, post, Incholi, Uttar Pradesh 250001",
+    "area": "250222",
+    "latitude": 29.049468899999997,
+    "longitude": 77.80622249999999,
+    "place_id": "ChIJ5XBQVqVxDDkRk7AAGX3fBb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XBQVqVxDDkRk7AAGX3fBb4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:56"
+  },
+  {
+    "business_name": "Parkash Dawakhana",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "250222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4Q7G+JMX, Unnamed Road, Lawar NP, Uttar Pradesh 250222",
+    "area": "250222",
+    "latitude": 29.1141191,
+    "longitude": 77.7767344,
+    "place_id": "ChIJq6qqqpdxDDkRZq8xBUJ1w3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqpdxDDkRZq8xBUJ1w3M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:56"
+  }
+]

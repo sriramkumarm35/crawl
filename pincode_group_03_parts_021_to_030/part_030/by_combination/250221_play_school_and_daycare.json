@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amazing Kids",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rama Cottege, Dulehra Chauhan, Uttar Pradesh 250110",
+    "area": "250221",
+    "latitude": 29.0745756,
+    "longitude": 77.7239726,
+    "place_id": "ChIJjeaZZABvDDkRNXC_RhA0QvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeaZZABvDDkRNXC_RhA0QvA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:44"
+  },
+  {
+    "business_name": "दौरालय",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4P72+5WW, Daurala, Uttar Pradesh 250221",
+    "area": "250221",
+    "latitude": 29.112979799999998,
+    "longitude": 77.70231679999999,
+    "place_id": "ChIJY16vJEZvDDkR1AO5iMryKis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY16vJEZvDDkR1AO5iMryKis",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:44"
+  }
+]

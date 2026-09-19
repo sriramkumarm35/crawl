@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajju baba delivery",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service, Service establishment",
+    "pincode": "250222",
+    "phone_number": "+91 73515 23629",
+    "website": "https://docs.google.com/forms/d/e/1FAIpQLSebQVP8OEUXfGp8o2nMa1sJDanJ0lzkrSQbUCMGhhrfgjH2jw/viewform?usp=dialog",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ajju baba delivery, 250222, India",
+    "area": "250222",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJgdcnfuWVfSIReqD96Mju-Oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdcnfuWVfSIReqD96Mju-Oo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:51:51"
+  },
+  {
+    "business_name": "Bana Branch Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "250222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3RMH+M3F, Bhagawanpur, Bana, Meerut, Uttar Pradesh 250001",
+    "area": "Bhagawanpur",
+    "latitude": 29.084190399999997,
+    "longitude": 77.8276807,
+    "place_id": "ChIJZ1Ful_RxDDkRjKW1TfXYnUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1Ful_RxDDkRjKW1TfXYnUo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:51:54"
+  }
+]

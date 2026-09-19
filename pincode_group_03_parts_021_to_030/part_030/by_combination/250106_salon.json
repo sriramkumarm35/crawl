@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishor Hair Dresser",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon, Hairdresser",
+    "pincode": "250106",
+    "phone_number": "+91 93587 27282",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 13,
+    "address": "Jai Davi Nagar, Garh Rd, Meerut, Uttar Pradesh 250106",
+    "area": "250106",
+    "latitude": 28.8862335,
+    "longitude": 77.8935599,
+    "place_id": "ChIJW6UGSr9kDDkRq7PsAqpcUX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6UGSr9kDDkRq7PsAqpcUX0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:42"
+  },
+  {
+    "business_name": "Lavish Hair Shaloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "250106",
+    "phone_number": "+91 90585 37408",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Atmadpur Prikshitgarh Kila, Main Road, Atmadpur, Uttar Pradesh 250406",
+    "area": "250106",
+    "latitude": 28.9637687,
+    "longitude": 77.880736,
+    "place_id": "ChIJvR8V3zt5DDkRbNFSPHgF5z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvR8V3zt5DDkRbNFSPHgF5z0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:44"
+  }
+]

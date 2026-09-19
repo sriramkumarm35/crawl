@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vimal Gutkha Company",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "250223",
+    "phone_number": "N/A",
+    "website": "https://vimalgutkhacompany.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "52/6/2, Rajiv Gandhi Education City, Tehsil, Jhundpur, Rai, Haryana 131029",
+    "area": "Rajiv Gandhi Education City, Tehsil",
+    "latitude": 28.9241049,
+    "longitude": 77.10363339999999,
+    "place_id": "ChIJLde6VWWtDTkRlYhpBd4zcp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLde6VWWtDTkRlYhpBd4zcp4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:22"
+  },
+  {
+    "business_name": "RS Palak Enterprises Private Limited",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Vending machine supplier",
+    "all_categories": "Vending machine supplier, FMCG Goods Wholesaler, FMCG Manufacturer, Grocery delivery service, Spice store, Spices Wholesaler",
+    "pincode": "250223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Extension, near Nau Devi Mata Mandir, Sector 2, Patwari, Noida, Greater Noida, Uttar Pradesh 201318",
+    "area": "Sector 2, Patwari",
+    "latitude": 28.5804716,
+    "longitude": 77.4460885,
+    "place_id": "ChIJjb56VQ3vDDkRt6CiygYevPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjb56VQ3vDDkRt6CiygYevPU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:22"
+  }
+]

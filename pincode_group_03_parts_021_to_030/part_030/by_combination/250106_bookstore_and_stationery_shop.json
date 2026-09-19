@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raaj Book Point",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Pen store",
+    "pincode": "250106",
+    "phone_number": "+91 93122 49887",
+    "website": "http://raajbookpoint.com/",
+    "rating": 4.2,
+    "reviews_count": 687,
+    "address": "Metro Pillar Number 124, 10, Dayanand Vihar UG Floor, Opp, Main Road, Delhi, 110092",
+    "area": "Dayanand Vihar, Anand Vihar",
+    "latitude": 28.64727,
+    "longitude": 77.3030294,
+    "place_id": "ChIJsdJVPUT7DDkR6eJSdaibHjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdJVPUT7DDkR6eJSdaibHjA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:02"
+  },
+  {
+    "business_name": "Akash Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Cell phone store, Computer store, Copy shop, Book store",
+    "pincode": "250106",
+    "phone_number": "+91 98717 85894",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Shop No.-18, G Block, Market, Sector 20, Noida, Uttar Pradesh 201301",
+    "area": "G Block, Market, Sector 20",
+    "latitude": 28.5822145,
+    "longitude": 77.3310453,
+    "place_id": "ChIJRz4FXlPkDDkRpSeYUMiEZK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRz4FXlPkDDkRpSeYUMiEZK4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V Tour And Travel - Best Taxi Service in Meerut",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "250004",
+    "phone_number": "+91 97564 25289",
+    "website": "https://vtourandtravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GP-20, Divider Rd, H-Pocket, GP Pocket, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "H-Pocket, GP Pocket, Ganga Nagar",
+    "latitude": 29.0030032,
+    "longitude": 77.7556941,
+    "place_id": "ChIJ8UXPjtB6DDkRi9X2DqkO-BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UXPjtB6DDkRi9X2DqkO-BM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:34:05"
+  },
+  {
+    "business_name": "HIREATRIP",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service, Tour operator",
+    "pincode": "250004",
+    "phone_number": "+91 74650 08300",
+    "website": "https://hireatrip.com/",
+    "rating": 4.8,
+    "reviews_count": 115,
+    "address": "no 18, kirti plaza, sector, PNB Rd, Jagriti Vihar, Uttar Pradesh 250004",
+    "area": "Sector 4, Jagriti Vihar",
+    "latitude": 28.9550622,
+    "longitude": 77.74632509999999,
+    "place_id": "ChIJqX7TlHnEqWkRWqYEwhMxIDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX7TlHnEqWkRWqYEwhMxIDk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:34:05"
+  }
+]

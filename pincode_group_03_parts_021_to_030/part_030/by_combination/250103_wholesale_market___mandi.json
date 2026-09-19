@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sattar market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "250103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Fatehullahpur, Meerut, Uttar Pradesh 250002",
+    "area": "Fatehullahpur",
+    "latitude": 28.9469313,
+    "longitude": 77.70120299999999,
+    "place_id": "ChIJ4cik__5lDDkRK2A0vTWQ92U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cik__5lDDkRK2A0vTWQ92U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:40:56"
+  },
+  {
+    "business_name": "Jamil Mohammad Ji's Plot and Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "250103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "Unnamed Road, Lisari, Meerut, Uttar Pradesh 250002",
+    "area": "Lisari",
+    "latitude": 28.944356799999998,
+    "longitude": 77.7045286,
+    "place_id": "ChIJBVgNuaplDDkRZOMP9i2TNxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVgNuaplDDkRZOMP9i2TNxU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:40:56"
+  }
+]

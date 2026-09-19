@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UB FURNITURE",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "250003",
+    "phone_number": "+91 79020 01222",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "Ub furniture nh 58 opposite Godwin hotel bagpat bypass, Uttar Pradesh 250002",
+    "area": "250003",
+    "latitude": 28.964676299999997,
+    "longitude": 77.6409029,
+    "place_id": "ChIJO1OSiWxnDDkR3z8XyD33h-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1OSiWxnDDkR3z8XyD33h-w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:37"
+  },
+  {
+    "business_name": "VVIP Decoration Hub",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "250003",
+    "phone_number": "+91 95578 78224",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Baghpat Rd, opposite Hotel Signature, near Vikas Motors, Jwala Nagar, Naval Vihar, Meerut, Uttar Pradesh 250002",
+    "area": "Jwala Nagar, Naval Vihar",
+    "latitude": 28.971623299999997,
+    "longitude": 77.6807546,
+    "place_id": "ChIJ3xy_cFRlDDkRO1xE8i4s3DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xy_cFRlDDkRO1xE8i4s3DM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Fruit Mart",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "250003",
+    "phone_number": "+91 98110 17336",
+    "website": "https://www.shivfruitmart.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "17, Bengali Market Bengali Market, Tansen Marg, New Delhi, Delhi 110001",
+    "area": "Todermal Road Area, Mandi House",
+    "latitude": 28.6296799,
+    "longitude": 77.2323874,
+    "place_id": "ChIJd-3rnjD9DDkRxYrLukPvV_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-3rnjD9DDkRxYrLukPvV_g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:31:30"
+  },
+  {
+    "business_name": "Sonu Fruit Mart",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "250003",
+    "phone_number": "+91 70117 92303",
+    "website": "http://www.fruittofresh.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "57 B, Central Rd, Jangpura, Bhogal, New Delhi, Delhi 110014",
+    "area": "Jangpura, Bhogal",
+    "latitude": 28.581962299999997,
+    "longitude": 77.2477512,
+    "place_id": "ChIJoUt4FQfjDDkRjkt1eVIAg50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUt4FQfjDDkRjkt1eVIAg50",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:31:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Juice Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "250223",
+    "phone_number": "+91 73024 29340",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6P79+2F9, Main Rd, Dadari, Meerut, Dadri, Uttar Pradesh 250223",
+    "area": "Dadari",
+    "latitude": 29.212534599999998,
+    "longitude": 77.71873889999999,
+    "place_id": "ChIJ7QnNJrhtDDkRmrHq5tVWQWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QnNJrhtDDkRmrHq5tVWQWc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:28"
+  },
+  {
+    "business_name": "Pizza Brunch",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "250223",
+    "phone_number": "+91 90451 96402",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kapsarh, Uttar Pradesh 250342",
+    "area": "250223",
+    "latitude": 29.208482399999998,
+    "longitude": 77.67036329999999,
+    "place_id": "ChIJL2TCpfJtDDkRNM_R-_ftzgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2TCpfJtDDkRNM_R-_ftzgI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:29"
+  }
+]

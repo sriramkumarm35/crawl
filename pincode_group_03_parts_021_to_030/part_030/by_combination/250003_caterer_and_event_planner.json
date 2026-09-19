@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gourmet Grub Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Service establishment",
+    "pincode": "250003",
+    "phone_number": "+91 88512 78490",
+    "website": "http://www.gourmetgrub.in/",
+    "rating": 5,
+    "reviews_count": 286,
+    "address": "Gourmet Grub Catering, 250003, India",
+    "area": "250003",
+    "latitude": 28.5936474,
+    "longitude": 77.17272439999999,
+    "place_id": "ChIJmZXWiXMZDTkRObhr9RwEGaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZXWiXMZDTkRObhr9RwEGaE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:34"
+  },
+  {
+    "business_name": "Saksham Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "250003",
+    "phone_number": "+91 99270 05051",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gali no.3, 217-B, Rohta Rd, Tej Vihar, Jawahar Nagar, Fazalpur, Meerut, Uttar Pradesh 250002",
+    "area": "Tej Vihar, Jawahar Nagar, Fazalpur",
+    "latitude": 28.991484099999997,
+    "longitude": 77.66265179999999,
+    "place_id": "ChIJQ0s04wllDDkR4tUwJuG8iRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0s04wllDDkR4tUwJuG8iRU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:36"
+  }
+]

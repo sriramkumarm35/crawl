@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ruby Mobile and Electronics",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "250005",
+    "phone_number": "+91 70175 83474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Lakhwaya, Uttar Pradesh 250005",
+    "area": "250005",
+    "latitude": 28.998856399999998,
+    "longitude": 77.6362838,
+    "place_id": "ChIJ3y2ORN5nDDkR_K1qr10Dh8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3y2ORN5nDDkR_K1qr10Dh8M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:36:37"
+  },
+  {
+    "business_name": "GadgetDaddy",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "250005",
+    "phone_number": "+91 98910 99109",
+    "website": "https://gadgetdaddy.in/",
+    "rating": 4.8,
+    "reviews_count": 293,
+    "address": "10 3, Vrindavan Garden, Vrinadavan Garden East, Raj Bagh, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Vrindavan Garden, Vrinadavan Garden East, Raj Bagh, Sahibabad",
+    "latitude": 28.680173999999997,
+    "longitude": 77.3468139,
+    "place_id": "ChIJ_SshWOz7DDkRGbk-aKo8RAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SshWOz7DDkRGbk-aKo8RAg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:36:38"
+  }
+]

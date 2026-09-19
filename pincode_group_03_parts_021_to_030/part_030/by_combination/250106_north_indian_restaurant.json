@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mirchi Seth Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "250106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "XWCP+365, Parikshitgarh, Uttar Pradesh 250406",
+    "area": "250106",
+    "latitude": 28.9701401,
+    "longitude": 77.93562419999999,
+    "place_id": "ChIJKYUSaFCHCzkRvmxB18yi8JE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYUSaFCHCzkRvmxB18yi8JE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:57"
+  },
+  {
+    "business_name": "Chilly Punjab",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Fast food restaurant",
+    "pincode": "250106",
+    "phone_number": "+91 81307 83734",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "274/5, Circular Rd, near Hanuman Chowk, Bombay Bazar, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "area": "Bombay Bazar, Meerut Cantt",
+    "latitude": 28.998682799999997,
+    "longitude": 77.6972856,
+    "place_id": "ChIJXdDLCbtlDDkRfJDVK_y_Trc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdDLCbtlDDkRfJDVK_y_Trc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:58"
+  }
+]

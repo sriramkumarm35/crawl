@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Hari real estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "250221",
+    "phone_number": "+91 70785 85848",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Nh334, Roorkee road, opp. Mataur, Daurala Rural, Meerut, Uttar Pradesh 250221",
+    "area": "250221",
+    "latitude": 29.1324431,
+    "longitude": 77.7130737,
+    "place_id": "ChIJPVI68WBtDDkRPZ4V4q5hKLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVI68WBtDDkRPZ4V4q5hKLk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:03"
+  },
+  {
+    "business_name": "Baba Neem Karoli Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Road, Daurala, Lawar NP, Uttar Pradesh 250221",
+    "area": "250221",
+    "latitude": 29.1195548,
+    "longitude": 77.71703699999999,
+    "place_id": "ChIJLT-wMkhvDDkRcLH1gHidkIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLT-wMkhvDDkRcLH1gHidkIY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:03"
+  }
+]

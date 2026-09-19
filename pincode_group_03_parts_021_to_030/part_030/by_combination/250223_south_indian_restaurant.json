@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ameda",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant, Non Vegetarian Restaurant, North Indian restaurant, Punjabi restaurant",
+    "pincode": "250223",
+    "phone_number": "+91 94122 89786",
+    "website": "http://amedaresort.com/",
+    "rating": 4.2,
+    "reviews_count": 2211,
+    "address": "Delhi - Haridwar Rd, bhanegla, Khatauli, Uttar Pradesh 251201",
+    "area": "bhanegla",
+    "latitude": 29.2233125,
+    "longitude": 77.7216875,
+    "place_id": "ChIJqyhuEUgTDDkRLyCFOJPREww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyhuEUgTDDkRLyCFOJPREww",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:25"
+  },
+  {
+    "business_name": "Bikanervala",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Breakfast restaurant, Sweet shop, Chinese restaurant, Continental restaurant, Fast food restaurant, Indian sweets shop, North Indian restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "250223",
+    "phone_number": "+91 99109 14974",
+    "website": "https://bikanervala.com/pages/khatauli",
+    "rating": 4.4,
+    "reviews_count": 7344,
+    "address": "Fun & Food Carnival at NH-58 Khatauli Bypass, Village Bhainsi Delhi, Highway, Dehradun, Uttar Pradesh 251201",
+    "area": "250223",
+    "latitude": 29.309861299999998,
+    "longitude": 77.72185429999999,
+    "place_id": "ChIJf_FT8rUTDDkRQyO38Ni44Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_FT8rUTDDkRQyO38Ni44Bw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:25"
+  }
+]

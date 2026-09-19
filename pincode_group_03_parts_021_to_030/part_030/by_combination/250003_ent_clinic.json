@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr ekta agarwal,ENT specialist",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "250003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "78/1, Mangal Pandey Nagar, Ramgarhi, Meerut, Uttar Pradesh 250004",
+    "area": "Mangal Pandey Nagar, Ramgarhi",
+    "latitude": 28.9732533,
+    "longitude": 77.7316166,
+    "place_id": "ChIJ-TeWwWNlDDkRFFd1Vn6pFSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TeWwWNlDDkRFFd1Vn6pFSM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:00"
+  },
+  {
+    "business_name": "Properties",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "250003",
+    "phone_number": "N/A",
+    "website": "https://propertiesbyrao.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "167, Civil Lines, near kanag hospital, Puspak Kunj, Saket, Meerut, Uttar Pradesh 250001",
+    "area": "Puspak Kunj, Saket",
+    "latitude": 28.9883103,
+    "longitude": 77.7273625,
+    "place_id": "ChIJPyFXo-9lDDkRIm7Mzb7OMnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyFXo-9lDDkRIm7Mzb7OMnU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:00"
+  }
+]

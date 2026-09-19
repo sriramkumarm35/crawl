@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250222",
+    "phone_number": "+91 95280 12353",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "City Pharmacy, L-501, Hapur Chungi, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Hapur Chungi, Shastri Nagar",
+    "latitude": 28.948255099999997,
+    "longitude": 77.7227699,
+    "place_id": "ChIJX7AA06FkDDkRC36JhZ47Pfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7AA06FkDDkRC36JhZ47Pfs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:49"
+  },
+  {
+    "business_name": "Siddhi vinayak medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "250222",
+    "phone_number": "+91 98973 78768",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 107,
+    "address": "C Block, Hastinapur, Uttar Pradesh 250404",
+    "area": "250222",
+    "latitude": 29.155949999999997,
+    "longitude": 77.9909799,
+    "place_id": "ChIJBbqPNt-LCzkRG8Fue95gLUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbqPNt-LCzkRG8Fue95gLUk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:49"
+  }
+]

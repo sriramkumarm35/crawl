@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service, Crane rental agency",
+    "pincode": "250205",
+    "phone_number": "+91 95571 51453",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Roorkee Rd, mrt, Sofipur, Meerut, Uttar Pradesh 250001",
+    "area": "mrt, Sofipur",
+    "latitude": 29.015413,
+    "longitude": 77.7087868,
+    "place_id": "ChIJVzc5SQBlDDkRdsLJ9OGGK-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzc5SQBlDDkRdsLJ9OGGK-4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:20"
+  },
+  {
+    "business_name": "Sk crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "250205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Roorkee Rd, Sofipur, Meerut, Uttar Pradesh 250001",
+    "area": "Sofipur",
+    "latitude": 29.0224394,
+    "longitude": 77.7060262,
+    "place_id": "ChIJ6XcfMNhlDDkRe3XT5ZIEJjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XcfMNhlDDkRe3XT5ZIEJjI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:20"
+  }
+]

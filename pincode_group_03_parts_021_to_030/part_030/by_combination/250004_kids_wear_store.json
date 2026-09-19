@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "W & son's kids wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250004",
+    "phone_number": "+91 98974 14030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XPC4+7GJ, Lisari Rd, opp. Hanuman Mandir, Prahlad Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Prahlad Nagar",
+    "latitude": 28.9703408,
+    "longitude": 77.70678629999999,
+    "place_id": "ChIJVdx-GwBlDDkRbTyhr5YC8xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdx-GwBlDDkRbTyhr5YC8xw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:40"
+  },
+  {
+    "business_name": "P. P. Kids",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "250004",
+    "phone_number": "+91 98995 83409",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 4, Rajenderpuram Market, A-16, Rajendra Puram, Radha Garden, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "Rajendra Puram, Radha Garden, Ganga Nagar",
+    "latitude": 29.005839599999998,
+    "longitude": 77.74581239999999,
+    "place_id": "ChIJ03zYARZ7DDkRBJ7eZvlDyQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03zYARZ7DDkRBJ7eZvlDyQQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:42"
+  }
+]

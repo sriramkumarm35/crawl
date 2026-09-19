@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Kumar",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "250003",
+    "phone_number": "+91 84499 92147",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Victoria Park, Balwant Nagar, Saket, Meerut, Uttar Pradesh 250003",
+    "area": "Victoria Park, Saket",
+    "latitude": 28.9822065,
+    "longitude": 77.73028649999999,
+    "place_id": "ChIJzb-fzuplDDkR1o8Y37R0F7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzb-fzuplDDkR1o8Y37R0F7Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:12"
+  },
+  {
+    "business_name": "OK DRIVING SCHOOL",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Drivers license training school, Driving test center, Learner driver training area",
+    "pincode": "250003",
+    "phone_number": "+91 88262 31545",
+    "website": "https://okdrivingschool.in/",
+    "rating": 4.9,
+    "reviews_count": 432,
+    "address": "Shop No. 24, Shopping Complex, ASC Alakananda, near Punjab National Bank Aravali, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Kalkaji",
+    "latitude": 28.532335699999997,
+    "longitude": 77.252909,
+    "place_id": "ChIJhbkziqjjDDkRFWS6JB_u5Sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbkziqjjDDkRFWS6JB_u5Sw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:32:13"
+  }
+]

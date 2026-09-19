@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohd Chand Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "250004",
+    "phone_number": "+91 70784 59127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop, Garhwal Road, Gokulpuri, Meerut, Uttar Pradesh 250004",
+    "area": "Gokulpuri",
+    "latitude": 28.9468468,
+    "longitude": 77.7657466,
+    "place_id": "ChIJoQQR8tF9DDkRUuLQqVpPSgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQQR8tF9DDkRUuLQqVpPSgo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:25"
+  },
+  {
+    "business_name": "Tropical Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium shop",
+    "pincode": "250004",
+    "phone_number": "+91 98372 12717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "XPJ2+PWW, Khair Nagar Bazar, Meerut, Uttar Pradesh 250002",
+    "area": "Khair Nagar",
+    "latitude": 28.9818574,
+    "longitude": 77.7023251,
+    "place_id": "ChIJlzSQAvlkDDkR9T3dY7eNndI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzSQAvlkDDkR9T3dY7eNndI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:27"
+  }
+]

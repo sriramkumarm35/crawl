@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEA TIME",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "250106",
+    "phone_number": "+91 98667 35652",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 160,
+    "address": "Addagutta Society - HMT Hills Rd, Kukatpally Housing Board Colony, Jal Vayu Vihar, Kukatpally, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, Jal Vayu Vihar, Kukatpally",
+    "latitude": 17.497701799999998,
+    "longitude": 78.3948061,
+    "place_id": "ChIJEQwzLKmRyzsRe-q_Qhqa3G4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQwzLKmRyzsRe-q_Qhqa3G4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:56"
+  },
+  {
+    "business_name": "Tea & Talks Café",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "250106",
+    "phone_number": "+91 91104 63828",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 853,
+    "address": "Brigade Road, 23/1, Wood St, off Brigade Road, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Ashok Nagar",
+    "latitude": 12.9675689,
+    "longitude": 77.60674329999999,
+    "place_id": "ChIJ2Qhvc7YVrjsR4iM2oqF7KFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Qhvc7YVrjsR4iM2oqF7KFs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:56"
+  }
+]

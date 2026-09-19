@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heritage Hemodialysis, P L Sharma Hospital, Meerut",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "250002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XMJX+JHF, Jali Kothi, Meerut, Uttar Pradesh 250002",
+    "area": "Jali Kothi",
+    "latitude": 28.9815749,
+    "longitude": 77.6989194,
+    "place_id": "ChIJuzRcL1ZkDDkRtUYs9nK-aD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzRcL1ZkDDkRtUYs9nK-aD8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:30:03"
+  },
+  {
+    "business_name": "Kidney Care Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "250002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "28,Pillokhri Road, Lisari Gate, Opp Old Dharam Kanta, Janakpuri, Meerut, Uttar Pradesh 250002",
+    "area": "Subhash Bazar, Purani Tehsil, Janakpuri",
+    "latitude": 28.9763877,
+    "longitude": 77.70613569999999,
+    "place_id": "ChIJyZBu2zhlDDkRGpZiFCsuNVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZBu2zhlDDkRGpZiFCsuNVE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:30:05"
+  }
+]

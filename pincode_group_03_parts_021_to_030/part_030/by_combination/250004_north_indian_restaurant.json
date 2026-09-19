@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LOCKUP, THE JAIL RESTAURANT AND CAFE",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Family restaurant",
+    "pincode": "250004",
+    "phone_number": "+91 81719 01804",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "N 71, near IIMT COLLEGE, N-Pocket, Ganga Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "N-Pocket, Ganga Nagar",
+    "latitude": 29.0005202,
+    "longitude": 77.7614755,
+    "place_id": "ChIJCzWvCwB7DDkRHQJFyBphFCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzWvCwB7DDkRHQJFyBphFCA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:33"
+  },
+  {
+    "business_name": "Global Expert Food Truck Manufacturing Co",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "250004",
+    "phone_number": "+91 97587 60006",
+    "website": "http://gefoodtrucks.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "J-15, 1st Floor, Guru Kripa Apartments, H Block, L Block, Ambedkar Chawk, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "H Block, L Block, Ambedkar Chawk, Shastri Nagar",
+    "latitude": 28.9553162,
+    "longitude": 77.7309569,
+    "place_id": "ChIJVVVVVaRkDDkR8tW5B0iIU20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaRkDDkR8tW5B0iIU20",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R And G Natural Oil",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "250106",
+    "phone_number": "+91 74550 72025",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VVPV+388, Badhla Garh Road Badhla, Garh Rd, Meerut, Uttar Pradesh 250001",
+    "area": "250106",
+    "latitude": 28.8851682,
+    "longitude": 77.89334099999999,
+    "place_id": "ChIJfSyN8BZ_DDkRnpwzFriYXiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSyN8BZ_DDkRnpwzFriYXiA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:47"
+  },
+  {
+    "business_name": "JAGRITI ORGANICS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Supermarket",
+    "pincode": "250106",
+    "phone_number": "+91 82958 53560",
+    "website": "https://www.facebook.com/jagriti.organics.3",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Satiya Wala Mandir, 216 RB, Model Town, Karnal, Haryana 132001",
+    "area": "Model Town",
+    "latitude": 29.7038168,
+    "longitude": 77.0004052,
+    "place_id": "ChIJiW1iE8VvDjkRdNhb00JnSSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiW1iE8VvDjkRdNhb00JnSSg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:49"
+  }
+]

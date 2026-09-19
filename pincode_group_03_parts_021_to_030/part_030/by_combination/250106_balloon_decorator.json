@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bloom and Balloon",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "250106",
+    "phone_number": "+91 91989 67568",
+    "website": "https://www.afloraevent.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bloom and Balloon, 250106, India",
+    "area": "250106",
+    "latitude": 28.587393499999997,
+    "longitude": 77.2291652,
+    "place_id": "ChIJk2CP0zzveWsRH8oXE8vghKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2CP0zzveWsRH8oXE8vghKo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:50"
+  },
+  {
+    "business_name": "My Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Balloon store, Event management company, Event planner",
+    "pincode": "250106",
+    "phone_number": "+91 97698 79462",
+    "website": "https://www.myballoondecoration.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Geeta nagar, Room No 52, Kapaswadi, New Link Rd, opp. Zaf Club, Versova, Andheri West, Mumbai, Maharashtra 400072",
+    "area": "Versova, Andheri West",
+    "latitude": 19.1178501,
+    "longitude": 72.8269479,
+    "place_id": "ChIJ1b_m0B1IhmwRe2Vr0BqjW6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1b_m0B1IhmwRe2Vr0BqjW6k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:51"
+  }
+]

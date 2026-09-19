@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Beauty Saloon & Ayurveda Spa Center",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "250205",
+    "phone_number": "+91 81261 87584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "23, Saroada Plaza, Xm8P+8J6, New Punjabi Pura, Beripura, Meerut Delhi, Uttar Pradesh 250002",
+    "area": "New Punjabi Pura, Beripura",
+    "latitude": 28.9658125,
+    "longitude": 77.6865625,
+    "place_id": "ChIJaXrkoUJkDDkRZ6Yh6LY3Vvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXrkoUJkDDkRZ6Yh6LY3Vvk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:32"
+  },
+  {
+    "business_name": "Ashu Dr",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "250205",
+    "phone_number": "+91 81262 60230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "112, Kazmabad Goon, Meerut, Uttar Pradesh 250205",
+    "area": "250205",
+    "latitude": 28.9010876,
+    "longitude": 77.5712556,
+    "place_id": "ChIJi7YkoSphDDkRAnfBZixhVoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7YkoSphDDkRAnfBZixhVoc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:33"
+  }
+]

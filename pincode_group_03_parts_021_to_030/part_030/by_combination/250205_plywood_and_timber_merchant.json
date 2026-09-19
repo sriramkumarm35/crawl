@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Woods",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Wood supplier",
+    "all_categories": "Wood supplier",
+    "pincode": "250205",
+    "phone_number": "+91 94122 07254",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "165, Delhi Rd, Phase I, Industrial Area, Mohkam Pur, Meerut, Uttar Pradesh 250002",
+    "area": "Phase I, Industrial Area, Mohkam Pur",
+    "latitude": 28.9518038,
+    "longitude": 77.6788085,
+    "place_id": "ChIJteZW7XJkDDkRgjLDy9pGZQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJteZW7XJkDDkRgjLDy9pGZQw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:22"
+  },
+  {
+    "business_name": "Tej Bhan Yash Pal Timber & Plywood Merchant",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "250205",
+    "phone_number": "+91 93682 27150",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Delhi Rd, near D.N.Inter College, Devpuri, Meerut, Uttar Pradesh 250002",
+    "area": "Devpuri",
+    "latitude": 28.9759264,
+    "longitude": 77.6931845,
+    "place_id": "ChIJOWWFYKRlDDkRT5SpqN7xHMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWWFYKRlDDkRT5SpqN7xHMg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:22"
+  }
+]

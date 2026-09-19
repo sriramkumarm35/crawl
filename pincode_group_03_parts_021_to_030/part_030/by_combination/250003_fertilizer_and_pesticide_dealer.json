@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADS Agrotech Pvt. Ltd.",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "250003",
+    "phone_number": "+91 120 434 4803",
+    "website": "http://adsagrotech.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "333, 3rd Floor, Angel Mega Mall, Plot No. CK-1, Kaushambi, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Kaushambi",
+    "latitude": 28.6399752,
+    "longitude": 77.32656,
+    "place_id": "ChIJKQzHWjD7DDkRcRVtgIo5sj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQzHWjD7DDkRcRVtgIo5sj0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:06"
+  },
+  {
+    "business_name": "Adnan Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "250003",
+    "phone_number": "+91 90272 31400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "124, Uttar Pradesh 250001",
+    "area": "Sotiganj",
+    "latitude": 28.9922926,
+    "longitude": 77.7044307,
+    "place_id": "ChIJqUxNhQFlDDkRAAAAsJirAlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUxNhQFlDDkRAAAAsJirAlg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:08"
+  }
+]

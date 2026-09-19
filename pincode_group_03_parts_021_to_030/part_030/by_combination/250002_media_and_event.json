@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny Entertainment Group",
+    "search_category": "Media and Event",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "250002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3, Delhi Rd, Sector 3, Madhav Puram, Meerut, Uttar Pradesh 250002",
+    "area": "Sector 3, Madhav Puram",
+    "latitude": 28.9614943,
+    "longitude": 77.68533699999999,
+    "place_id": "ChIJc4_a42hkDDkRErtVfziWHYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4_a42hkDDkRErtVfziWHYc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:30:45"
+  },
+  {
+    "business_name": "UV Media",
+    "search_category": "Media and Event",
+    "primary_category": "Media company",
+    "all_categories": "Media company",
+    "pincode": "250002",
+    "phone_number": "+91 92589 81818",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dh-3, 1, Pallavpuram, Meerut, Uttar Pradesh 250110",
+    "area": "Pallavpuram",
+    "latitude": 29.053269999999998,
+    "longitude": 77.711314,
+    "place_id": "ChIJmeIusndvDDkRg-Ww-qspKB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeIusndvDDkRg-Ww-qspKB4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:30:46"
+  }
+]

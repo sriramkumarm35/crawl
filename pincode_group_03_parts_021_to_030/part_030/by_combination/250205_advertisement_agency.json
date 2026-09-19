@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AS Marketing - Digital Marketing Agency",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "250205",
+    "phone_number": "N/A",
+    "website": "https://as-marketing-apex-solution-marketing.ai.studio/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "AS Marketing - Digital Marketing Agency, 250205, India",
+    "area": "250205",
+    "latitude": 28.9872622,
+    "longitude": 77.6989603,
+    "place_id": "ChIJUam7NKmKBUAR4DnHz-Ekr9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUam7NKmKBUAR4DnHz-Ekr9Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:22"
+  },
+  {
+    "business_name": "RsTechnograph",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Branding agency",
+    "all_categories": "Branding agency",
+    "pincode": "250205",
+    "phone_number": "+91 90847 34786",
+    "website": "https://rstechnograph.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rs technograph, Lisari Rd, Madhav Puram, Meerut, Uttar Pradesh 250002",
+    "area": "Madhav Puram",
+    "latitude": 28.947767,
+    "longitude": 77.6996099,
+    "place_id": "ChIJgcgdpyxlDDkRK8HqgspgH18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcgdpyxlDDkRK8HqgspgH18",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:23"
+  }
+]

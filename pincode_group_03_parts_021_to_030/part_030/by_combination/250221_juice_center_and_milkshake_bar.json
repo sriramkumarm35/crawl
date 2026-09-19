@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh Juic Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "250221",
+    "phone_number": "+91 98374 02827",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4,Shivlok Puri, Kanker Khera, Meerut, Uttar Pradesh 250001",
+    "area": "Subhash Puri, Kanker Khera, Meerut Cantt",
+    "latitude": 29.024344,
+    "longitude": 77.6866131,
+    "place_id": "ChIJySZbD8JlDDkR5FLVBk46ByY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySZbD8JlDDkR5FLVBk46ByY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:42"
+  },
+  {
+    "business_name": "UV Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "250221",
+    "phone_number": "+91 99275 05695",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rd, Divider Road, Sainik Vihar, Shradhapuri Phase 2, Meerut, Uttar Pradesh 250001",
+    "area": "Sainik Vihar, Shradhapuri Phase 2",
+    "latitude": 29.0276447,
+    "longitude": 77.6665706,
+    "place_id": "ChIJCYe49jJlDDkR8twOJkDyRQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYe49jJlDDkR8twOJkDyRQo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:42"
+  }
+]

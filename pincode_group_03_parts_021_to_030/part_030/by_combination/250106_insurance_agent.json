@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Insurance Agent",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment",
+    "pincode": "250106",
+    "phone_number": "+91 98727 98721",
+    "website": "https://www.carinsuranceagent.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Car Insurance Agent, 250106, India",
+    "area": "250106",
+    "latitude": 30.7412231,
+    "longitude": 76.79884349999999,
+    "place_id": "ChIJDyyyj7AozmsRpkxBkCbbkpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyyyj7AozmsRpkxBkCbbkpo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:12"
+  },
+  {
+    "business_name": "xperitus insurance Brokers pvt ltd",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment",
+    "pincode": "250106",
+    "phone_number": "+91 99535 41444",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "xperitus insurance Brokers pvt ltd, 250106, India",
+    "area": "250106",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI8Zm0QrlDDkRSrs8rnPvfBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8Zm0QrlDDkRSrs8rnPvfBI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:12"
+  }
+]

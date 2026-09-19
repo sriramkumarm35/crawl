@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Onyx Medicals Pvt. Ltd.",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer",
+    "pincode": "250103",
+    "phone_number": "+91 99581 10837",
+    "website": "https://www.onyxmedicals.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot No. 24, Ved Vyas Puri, Sector - 8, Ved Vyas Puri, Meerut, Uttar Pradesh 250103",
+    "area": "Ved Vyas Puri, Sector - 8, Ved Vyas Puri",
+    "latitude": 28.939360399999998,
+    "longitude": 77.6533292,
+    "place_id": "ChIJR-eqh3FhDDkRiZQ1w0BtLcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-eqh3FhDDkRiZQ1w0BtLcc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:35"
+  },
+  {
+    "business_name": "Satyam Rubber (INDIA)",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "250103",
+    "phone_number": "+91 99173 21666",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "40-B,Mohkampur Industrial Area, Phase-II, Rithani, Meerut, Uttar Pradesh 250103",
+    "area": "Rithani West, Phase-II, Rithani",
+    "latitude": 28.936173999999998,
+    "longitude": 77.66363439999999,
+    "place_id": "ChIJq6qq6vljDDkR08TGooxaMS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6vljDDkR08TGooxaMS0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:39:35"
+  }
+]

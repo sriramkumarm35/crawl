@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anupam Caterers and Decorators",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Catering food and drink supplier, Caterer, Event management company, Wedding planner, Party planner, Restaurant supply store, Wedding buffet, Wedding service",
+    "pincode": "250005",
+    "phone_number": "+91 98103 44741",
+    "website": "http://www.anupamcaterers.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd floor, 10,Jia Sarai, Gamel Near IIT, Gamal Abdel Nasser Marg, New Delhi, Delhi 110016",
+    "area": "Jia Sarai, Hauz Khas",
+    "latitude": 28.545842999999998,
+    "longitude": 77.189415,
+    "place_id": "ChIJW9W-qPYdDTkRKcUqv5aJr3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9W-qPYdDTkRKcUqv5aJr3k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:36:22"
+  },
+  {
+    "business_name": "Istwal Events Planner",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Restaurant supply store, Wedding buffet, Event management company, Wedding service, Wedding venue",
+    "pincode": "250005",
+    "phone_number": "+91 92124 79070",
+    "website": "http://ranajinsons.base44.app/",
+    "rating": 4.7,
+    "reviews_count": 73,
+    "address": "E 260, Gali No. 8, behind Sri Kuwa wala Hanuman Mandir, Block D, East Vinod Nagar, New Delhi, Delhi, 110091",
+    "area": "Block D, East Vinod Nagar",
+    "latitude": 28.621176,
+    "longitude": 77.3061383,
+    "place_id": "ChIJJ92Dt7fkDDkRSyMl4EnoZsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ92Dt7fkDDkRSyMl4EnoZsM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:36:24"
+  }
+]

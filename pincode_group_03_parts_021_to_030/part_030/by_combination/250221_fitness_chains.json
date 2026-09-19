@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Dumble gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/thedumblegym_?igsh=azJkZXJnZ2UzcWN4",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "3P55+JGR Palhera, Kuchesar Road, Chaupala, Pallavpuram, Meerut, Uttar Pradesh 250110",
+    "area": "Chaupala, Pallavpuram",
+    "latitude": 29.059118299999998,
+    "longitude": 77.7087799,
+    "place_id": "ChIJHwYlCABvDDkRX7qpmGhKdCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwYlCABvDDkRX7qpmGhKdCA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:06"
+  },
+  {
+    "business_name": "Impala - Fitness Hub",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 70,
+    "address": "Delhi Rd, near HRS(FOOTBALL) CHOWK, Shambhu Nagar, Beripura, Meerut, Uttar Pradesh 250002",
+    "area": "Shambhu Nagar, Beripura",
+    "latitude": 28.9731968,
+    "longitude": 77.6907708,
+    "place_id": "ChIJc2Q_d1tkDDkRVMTjNjeFtyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2Q_d1tkDDkRVMTjNjeFtyE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:07"
+  }
+]

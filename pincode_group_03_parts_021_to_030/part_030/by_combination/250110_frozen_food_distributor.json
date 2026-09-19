@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M And M Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "250110",
+    "phone_number": "+91 97616 99998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Datawali Road, Garh Rd, near HP Gas Godown, Gokulpur, Meerut, Uttar Pradesh 250004",
+    "area": "Gokulpur",
+    "latitude": 28.9448501,
+    "longitude": 77.7721534,
+    "place_id": "ChIJy2VA_8p9DDkRDK5OsUCruZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2VA_8p9DDkRDK5OsUCruZQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:44"
+  },
+  {
+    "business_name": "FUTURE FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "250110",
+    "phone_number": "+91 80 3730 3931",
+    "website": "http://www.futurefreshfoods.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Gagol Rd, Phase I, Industrial Area, Partapur, Meerut, Uttar Pradesh 250002",
+    "area": "Phase I, Industrial Area, Partapur",
+    "latitude": 28.949251099999998,
+    "longitude": 77.6752565,
+    "place_id": "ChIJMf5P9I9lDDkR5MlTwcoCWso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMf5P9I9lDDkR5MlTwcoCWso",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:46"
+  }
+]

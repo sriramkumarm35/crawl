@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Shudh Bhojnalaya Dhaba",
+    "search_category": "Spa",
+    "primary_category": "Wellness hotel",
+    "all_categories": "Wellness hotel",
+    "pincode": "250103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "dewan college, NH 58 partapur bypass Laxmi Bhojnalaya, opposit, Meerut, Uttar Pradesh 250002",
+    "area": "Partapur",
+    "latitude": 28.9318448,
+    "longitude": 77.6402714,
+    "place_id": "ChIJIRThDFdhDDkRjL2ScP-zbaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRThDFdhDDkRjL2ScP-zbaw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:40:00"
+  },
+  {
+    "business_name": "Meraqi Wellness Spa Salon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "250103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "Subharti University, Chandrashekhar Azad Marg Subhartipuram, Meerut, Uttar Pradesh 250002",
+    "area": "250103",
+    "latitude": 28.958550799999998,
+    "longitude": 77.6363717,
+    "place_id": "ChIJwa3A-9pnDDkRVDc9o3_JS0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwa3A-9pnDDkRVDc9o3_JS0o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:40:01"
+  }
+]

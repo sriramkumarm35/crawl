@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Citi Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "250106",
+    "phone_number": "N/A",
+    "website": "https://www.citidiagnosticcenter.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kila, Meerut Rd, near Police Station, Parikshitgarh, Uttar Pradesh 250406",
+    "area": "250106",
+    "latitude": 28.9760511,
+    "longitude": 77.932221,
+    "place_id": "ChIJIeF_IjaHCzkR9ZCVN_yUgzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeF_IjaHCzkR9ZCVN_yUgzw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:16"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "250106",
+    "phone_number": "+91 84450 36829",
+    "website": "https://www.pathkindlabs.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Near Primary School, Main Garh MRT Road, Distt, Kithaur, Uttar Pradesh 250001",
+    "area": "250106",
+    "latitude": 28.8851676,
+    "longitude": 77.8933467,
+    "place_id": "ChIJz0ZBuC1_DDkRzj7lg4196ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0ZBuC1_DDkRzj7lg4196ds",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:16"
+  }
+]

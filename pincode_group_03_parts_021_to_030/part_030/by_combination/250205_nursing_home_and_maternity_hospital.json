@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "250205",
+    "phone_number": "+91 97192 31310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near bhoopgarhi road, Jani, Uttar Pradesh 250501",
+    "area": "250205",
+    "latitude": 28.9641123,
+    "longitude": 77.5606258,
+    "place_id": "ChIJ5zRi5BBdDDkRsQMo7Z8Etn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zRi5BBdDDkRsQMo7Z8Etn0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:00"
+  },
+  {
+    "business_name": "Rana Maternity Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "250205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Sardhana - Binauli Rd, Sardhana, Uttar Pradesh 250342",
+    "area": "250205",
+    "latitude": 29.1420286,
+    "longitude": 77.611093,
+    "place_id": "ChIJoSXktUhrDDkRX9UIT-wJXRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSXktUhrDDkRX9UIT-wJXRM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:00"
+  }
+]

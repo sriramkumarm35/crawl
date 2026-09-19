@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ForeverKidz",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing wholesaler",
+    "pincode": "250106",
+    "phone_number": "+91 85878 64899",
+    "website": "https://foreverkidz.in/",
+    "rating": 4.2,
+    "reviews_count": 823,
+    "address": "B 105, near Noida Authority, B Block, Sector 6, Noida, Uttar Pradesh 201301",
+    "area": "B Block, Sector 6",
+    "latitude": 28.5926625,
+    "longitude": 77.3166789,
+    "place_id": "ChIJS1JiRqrlDDkR7CGytk9FPg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1JiRqrlDDkR7CGytk9FPg8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:05"
+  },
+  {
+    "business_name": "Harsh Collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Men's clothing store",
+    "pincode": "250106",
+    "phone_number": "+91 75099 64228",
+    "website": "https://harsh-collection.grexa.site/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "00, Sati Bazar, Gohad, Banipura, Madhya Pradesh 477116",
+    "area": "Sati Bazar",
+    "latitude": 26.4247297,
+    "longitude": 78.442184,
+    "place_id": "ChIJ1YcZ9paRdjkRfR59_7A8_so",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YcZ9paRdjkRfR59_7A8_so",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:43:05"
+  }
+]

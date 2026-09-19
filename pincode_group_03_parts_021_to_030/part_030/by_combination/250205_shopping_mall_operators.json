@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maheshwari Shopping Centre",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "250205",
+    "phone_number": "+91 93196 16280",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No. 422, Sector 2, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Sector 2, Shastri Nagar",
+    "latitude": 28.960228999999998,
+    "longitude": 77.7297169,
+    "place_id": "ChIJ9Wm7DbtkDDkRW22UtCu4_F4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Wm7DbtkDDkRW22UtCu4_F4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:29"
+  },
+  {
+    "business_name": "Toll plaza DELHI- MEERUT EXPRESSWAY",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Toll station",
+    "all_categories": "Toll station",
+    "pincode": "250205",
+    "phone_number": "+91 90840 67372",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 2069,
+    "address": "VJWW+H3V, Delhi - Meerut Expy, Road, Shaulana, Uttar Pradesh 250205",
+    "area": "Road",
+    "latitude": 28.896479,
+    "longitude": 77.64517,
+    "place_id": "ChIJD86DQgJhDDkRKIA4Uq13c5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD86DQgJhDDkRKIA4Uq13c5k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:30"
+  }
+]

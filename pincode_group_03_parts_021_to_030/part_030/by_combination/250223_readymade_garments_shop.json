@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Jain Cloth Merchant",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "250223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Main Market, Village, Salawa, Uttar Pradesh 250342",
+    "area": "250223",
+    "latitude": 29.230374299999998,
+    "longitude": 77.6594375,
+    "place_id": "ChIJmRYMNrATDDkRwqRv3RT3p6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRYMNrATDDkRwqRv3RT3p6I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:29"
+  },
+  {
+    "business_name": "Saroj Readymade Center",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "250223",
+    "phone_number": "+91 98374 35565",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 29,
+    "address": "Ganj Bajar, Sardhana, Uttar Pradesh 250342",
+    "area": "250223",
+    "latitude": 29.147409699999997,
+    "longitude": 77.6045307,
+    "place_id": "ChIJ3fvLAt5rDDkRc_uvsA7jv9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fvLAt5rDDkRc_uvsA7jv9w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:52:32"
+  }
+]

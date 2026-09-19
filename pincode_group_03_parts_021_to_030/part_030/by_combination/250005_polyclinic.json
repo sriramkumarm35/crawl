@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "250005",
+    "phone_number": "+91 97600 37651",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Army Colony, Mohammadpur, Meerut, Uttar Pradesh 250001",
+    "area": "Army Colony, Mohammadpur",
+    "latitude": 29.0140441,
+    "longitude": 77.66936079999999,
+    "place_id": "ChIJIxgmoT5lDDkRPlUAvX3_Pio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxgmoT5lDDkRPlUAvX3_Pio",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:35:47"
+  },
+  {
+    "business_name": "Sambhavna Clinic | Ayurvedic Cancer Treatment in Meerut",
+    "search_category": "Polyclinic",
+    "primary_category": "Cancer treatment center",
+    "all_categories": "Cancer treatment center, Ayurvedic clinic, Medical clinic",
+    "pincode": "250005",
+    "phone_number": "+91 70377 09494",
+    "website": "http://www.sambhavnaclinic.com/",
+    "rating": 4.6,
+    "reviews_count": 58,
+    "address": "E-66 Saradhapuri Phase-2, opposite Kailashi, Kanker Khera, Baypass, Meerut, Uttar Pradesh 250001",
+    "area": "A1 Block, Kanker Khera, Baypass",
+    "latitude": 28.953377699999997,
+    "longitude": 77.72022539999999,
+    "place_id": "ChIJy3kiEZlvDDkRcM9rpuUnHBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3kiEZlvDDkRcM9rpuUnHBs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:35:47"
+  }
+]

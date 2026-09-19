@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhey Radhey Enterprises",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "250004",
+    "phone_number": "+91 90846 49803",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Jai Bhim Nagar, Meerut, Uttar Pradesh 250004",
+    "area": "Jai Bhim Nagar",
+    "latitude": 28.9591064,
+    "longitude": 77.7627267,
+    "place_id": "ChIJ1bfs2el7DDkRQ0r7v7s9-ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bfs2el7DDkRQ0r7v7s9-ZQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:55"
+  },
+  {
+    "business_name": "Bharat Healthcare Solutions",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Medical supply store",
+    "pincode": "250004",
+    "phone_number": "+91 94121 08578",
+    "website": "http://www.bharathealthcare.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C-118/6, Shop No.41, Jagriti Plaza, Jagrati Vihar, Meerut, Uttar Pradesh 250002",
+    "area": "Sector 6, Jagriti Vihar",
+    "latitude": 28.958001699999997,
+    "longitude": 77.7494746,
+    "place_id": "ChIJVe9bR1J7DDkRPi5UaurqPuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVe9bR1J7DDkRPi5UaurqPuo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:57"
+  }
+]

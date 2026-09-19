@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Icon fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler, Gym, Sports Accessories Wholesaler",
+    "pincode": "250205",
+    "phone_number": "+91 76687 88485",
+    "website": "http://iconfitness.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lisari road Noornagar, ki, puliy, Meerut, Uttar Pradesh 250002",
+    "area": "puliy, Lisari",
+    "latitude": 28.9461339,
+    "longitude": 77.6996711,
+    "place_id": "ChIJJZ0oO3xlDDkRHUCJs9th7-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZ0oO3xlDDkRHUCJs9th7-4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:08"
+  },
+  {
+    "business_name": "Dark Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "250205",
+    "phone_number": "+91 70600 08303",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "K-11, Model Town, Kankar Khera, Meerut, Uttar Pradesh 250001",
+    "area": "New Arya Nagar, Arya Nagar",
+    "latitude": 29.025637999999997,
+    "longitude": 77.678961,
+    "place_id": "ChIJAQBAsY5lDDkREUY9cbYOKBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBAsY5lDDkREUY9cbYOKBk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:10"
+  }
+]

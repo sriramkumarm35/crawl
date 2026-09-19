@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electric One",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Electric motor store, Motor scooter dealer, Motor vehicle dealer, Motorcycle shop",
+    "pincode": "250002",
+    "phone_number": "+91 74174 29995",
+    "website": "https://www.electric-one.com/?utm_source=GMB",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 112, Purwa Mahaveer, Delhi Road, Near, Railway Road, Chauraha, Prempuri, Meerut, Uttar Pradesh 250002",
+    "area": "Chauraha, Prempuri",
+    "latitude": 28.9799935,
+    "longitude": 77.69451149999999,
+    "place_id": "ChIJcW5LzYplDDkRalKnwnvoPpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcW5LzYplDDkRalKnwnvoPpE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:30:10"
+  },
+  {
+    "business_name": "Vijay Batteries",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Battery Wholesaler, Battery Manufacturer, Electronics manufacturer",
+    "pincode": "250002",
+    "phone_number": "+91 98370 65020",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Baghpat Rd, opposite Anurag Cinema, Guru Nanak Nagar, Shambhu Nagar, Beripura, Meerut, Uttar Pradesh 250002",
+    "area": "Guru Nanak Nagar, Shambhu Nagar, Beripura",
+    "latitude": 28.973050999999998,
+    "longitude": 77.6900222,
+    "place_id": "ChIJu0QbJyRkDDkR4BVNhHVBZDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0QbJyRkDDkR4BVNhHVBZDk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:30:13"
+  }
+]

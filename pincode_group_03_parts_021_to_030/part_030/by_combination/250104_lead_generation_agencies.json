@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EarnU Pvt Ltd",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "250104",
+    "phone_number": "+91 83848 58950",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Durga Colony, Parikshitgarh, Uttar Pradesh 250406",
+    "area": "Durga Colony",
+    "latitude": 28.9766169,
+    "longitude": 77.924098,
+    "place_id": "ChIJBfnyeI15DDkRwj0MS2KEYxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfnyeI15DDkRwj0MS2KEYxc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:40"
+  },
+  {
+    "business_name": "Shruti Garg",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "250104",
+    "phone_number": "+91 94560 79209",
+    "website": "http://www.devstutor.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kila, Parikshitgarh, Uttar Pradesh 250406",
+    "area": "kila",
+    "latitude": 28.9766253,
+    "longitude": 77.932429,
+    "place_id": "ChIJd1mg_omHCzkR7OCBW2MKG3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1mg_omHCzkR7OCBW2MKG3I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:42:40"
+  }
+]

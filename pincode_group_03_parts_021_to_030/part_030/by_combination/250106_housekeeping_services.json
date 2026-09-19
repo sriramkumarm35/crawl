@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Sevak",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "250106",
+    "phone_number": "+91 97115 25211",
+    "website": "http://homesevak.com/",
+    "rating": 4.8,
+    "reviews_count": 200,
+    "address": "plot no 59, 46, Sector Rd, Block D, South City I, Sector 41, Gurugram, Haryana 122003",
+    "area": "Block D, South City I, Sector 41",
+    "latitude": 28.4612768,
+    "longitude": 77.0658918,
+    "place_id": "ChIJtyNJ6o8YDTkRgcrGwS6PBN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyNJ6o8YDTkRgcrGwS6PBN4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:19"
+  },
+  {
+    "business_name": "Delhi Home Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Bathroom remodeler, Carpenter, Chimney services, Electrician, Pest control service, Plumber, Repair service, Washer & dryer repair service, Water Tank Cleaners",
+    "pincode": "250106",
+    "phone_number": "+91 83683 35457",
+    "website": "https://dhs.today/",
+    "rating": 4.8,
+    "reviews_count": 139,
+    "address": "kh.no.610/1, Durga Mata, 422, Ashram Road, Chhatarpur Village, Block A1, Block G, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Chhatarpur Village, Block A1, Block G, Chhatarpur",
+    "latitude": 28.4954757,
+    "longitude": 77.1837213,
+    "place_id": "ChIJR8-y140fDTkRI_reomNoP1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8-y140fDTkRI_reomNoP1Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:19"
+  }
+]

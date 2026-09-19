@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Childcare warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "250223",
+    "phone_number": "+91 63038 00718",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Plot No: 1, Vijay Sree Colony, Auto Nagar, Hyderabad, Telangana 500070",
+    "area": "Vijay Sree Colony, Auto Nagar",
+    "latitude": 17.3476479,
+    "longitude": 78.5795098,
+    "place_id": "ChIJ44YCTb-fyzsRMnKuJdJgkKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44YCTb-fyzsRMnKuJdJgkKU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:53:51"
+  },
+  {
+    "business_name": "V S Cold storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "250223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Sr.No 96/11, Gaikwad wasti, V.S warehousing and distribution, near Malwadi, Jambhe, Maharashtra 411033",
+    "area": "Jambhe",
+    "latitude": 18.622711,
+    "longitude": 73.7232731,
+    "place_id": "ChIJS93SokC7wjsR2b12RIWFk_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS93SokC7wjsR2b12RIWFk_M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:53:51"
+  }
+]

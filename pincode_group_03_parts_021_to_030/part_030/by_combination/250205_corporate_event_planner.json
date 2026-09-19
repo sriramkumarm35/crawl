@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star decor hub",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "250205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by bhatte wali masjid, Meerut, Uttar Pradesh 245206",
+    "area": "250205",
+    "latitude": 28.9302253,
+    "longitude": 77.70051509999999,
+    "place_id": "ChIJUajBeidjDDkRDdb8mdAaBjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUajBeidjDDkRDdb8mdAaBjY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:47"
+  },
+  {
+    "business_name": "Noor Nagar, Ledi Road, Meerut",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "250205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WMVX+QFG, Noornagar, Lisari, Meerut, Uttar Pradesh 250002",
+    "area": "Noornagar, Lisari",
+    "latitude": 28.944444599999997,
+    "longitude": 77.6987091,
+    "place_id": "ChIJPwckLQBlDDkRCkk9gH2QDCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwckLQBlDDkRCkk9gH2QDCo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:47"
+  }
+]

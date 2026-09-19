@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Fight Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "250221",
+    "phone_number": "+91 84332 28797",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "House no 101, 1st Floor, near IPL Sugar mill quarters, Tanda, Sakoti, Uttar Pradesh 250223",
+    "area": "Tanda",
+    "latitude": 29.190103599999997,
+    "longitude": 77.71503369999999,
+    "place_id": "ChIJwedI4o9tDDkRmySZHnUZCqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwedI4o9tDDkRmySZHnUZCqA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:05"
+  },
+  {
+    "business_name": "Xtreme level fitness unisex gym Sakoti 250223",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Gymnastics club",
+    "pincode": "250221",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/rinkusirohi?igshid=MzRlODBiNWFlZA==",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Xtreme level, fitness gym, Sakoti, Uttar Pradesh 250223",
+    "area": "250221",
+    "latitude": 29.1989307,
+    "longitude": 77.7191285,
+    "place_id": "ChIJu4Vnn0BtDDkRjYHQtYyd7xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4Vnn0BtDDkRjYHQtYyd7xw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:49:05"
+  }
+]

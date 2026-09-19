@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gayatri Mart",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler",
+    "pincode": "250205",
+    "phone_number": "+91 88266 29819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Gate No 2, Piller no, 1250, Meerut Rd, opp. Harmukhpuri, Santpura, GT Road, Govindpuri, Delhi, Modinagar, Uttar Pradesh 201204",
+    "area": "Santpura, GT Road, Govindpuri",
+    "latitude": 28.8524228,
+    "longitude": 77.5891015,
+    "place_id": "ChIJDaPHO_JhDDkRnJifoSg84C8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaPHO_JhDDkRnJifoSg84C8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:10"
+  },
+  {
+    "business_name": "Mr. Clean wala",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Water Tank Cleaners",
+    "all_categories": "Water Tank Cleaners",
+    "pincode": "250205",
+    "phone_number": "+91 90454 35993",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Indra nagar first, Gali Number 4, Brahmpuri, dharmshala, Uttar Pradesh 250002",
+    "area": "Brahmpuri",
+    "latitude": 28.966732399999998,
+    "longitude": 77.69574759999999,
+    "place_id": "ChIJVceJEr1lDDkR9azx9Fe3YtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVceJEr1lDDkR9azx9Fe3YtE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:48:11"
+  }
+]

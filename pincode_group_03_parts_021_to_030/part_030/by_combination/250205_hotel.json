@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "250205",
+    "phone_number": "+91 94100 90576",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 131,
+    "address": "Kadrabad, Aminagar Urf Bhurbaral, Meerut, NH-58, Delhi - Meerut Expy, Mohiuddinpur, Uttar Pradesh 250205",
+    "area": "250205",
+    "latitude": 28.8949835,
+    "longitude": 77.6226365,
+    "place_id": "ChIJ15So62phDDkR9bOBPN7VWOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15So62phDDkR9bOBPN7VWOQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:42"
+  },
+  {
+    "business_name": "HOTEL RELEX IN",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "250205",
+    "phone_number": "+91 82181 93734",
+    "website": "https://reservation.staywithus.in/HOTEL-RELEX-IN/pxZLBSZEuH5nUibg/booking",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "Hotel Relex In, Modinagar - Niwari Rd, opposite DJ dentel ayurvedic college, Modinagar, Niwari Dehat, Uttar Pradesh 201204",
+    "area": "250205",
+    "latitude": 28.8599911,
+    "longitude": 77.5541281,
+    "place_id": "ChIJcRMPzIpfDDkRVfSzwbA2-jI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRMPzIpfDDkRVfSzwbA2-jI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:47:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHATABDI PUB",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "250205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daulatpur Fakhrabad Urf Kayast, Uttar Pradesh 250205",
+    "area": "250205",
+    "latitude": 28.879470899999998,
+    "longitude": 77.60969949999999,
+    "place_id": "ChIJex0ma61hDDkRbKKD7vJg9MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJex0ma61hDDkRbKKD7vJg9MA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:47"
+  },
+  {
+    "business_name": "R K Sports Industries",
+    "search_category": "Bar and Pub",
+    "primary_category": "Sports bar",
+    "all_categories": "Sports bar, Sports Accessories Wholesaler",
+    "pincode": "250205",
+    "phone_number": "+91 81719 85664",
+    "website": "https://www.youtube.com/@RKSportsIndustries",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kazim Garden Near 30, Futa Rd, Noornagar, Lisari, Meerut, Uttar Pradesh 250002",
+    "area": "Noornagar, Lisari",
+    "latitude": 28.9420747,
+    "longitude": 77.6980097,
+    "place_id": "ChIJT7oCL_ljDDkR5DEBmEgqfr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7oCL_ljDDkR5DEBmEgqfr0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:48"
+  }
+]

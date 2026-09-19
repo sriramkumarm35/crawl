@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Real Estate Organization",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "250002",
+    "phone_number": "+91 94584 18256",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "601, near BSP office, Nehru Nagar, Phool Bagh Colony, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "area": "Nehru Nagar, Phool Bagh Colony, Panchsheel Colony",
+    "latitude": 28.9770364,
+    "longitude": 77.7248354,
+    "place_id": "ChIJya6UNX5lDDkROBt01-mw96c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJya6UNX5lDDkROBt01-mw96c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:31:05"
+  },
+  {
+    "business_name": "singh associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "250002",
+    "phone_number": "+91 94122 00411",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "223, C Block, Sector 2, Jagriti Vihar, Meerut, Uttar Pradesh 250002",
+    "area": "C Block, Sector 2, Jagriti Vihar",
+    "latitude": 28.9589127,
+    "longitude": 77.74145,
+    "place_id": "ChIJmSkmiq1kDDkRwzzqtahTKNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSkmiq1kDDkRwzzqtahTKNs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:31:07"
+  }
+]

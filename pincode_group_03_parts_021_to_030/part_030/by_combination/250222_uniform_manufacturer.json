@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RG Clothing's",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Housing society",
+    "pincode": "250222",
+    "phone_number": "+91 82797 07840",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RG Clothings, Uday City, Phase 2, Modipuram, Meerut, Uttar Pradesh 250110",
+    "area": "Uday City, Phase 2, Modipuram",
+    "latitude": 29.061322299999997,
+    "longitude": 77.720953,
+    "place_id": "ChIJNwkwJgBvDDkR0ArDKKTjVTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwkwJgBvDDkR0ArDKKTjVTc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:46"
+  },
+  {
+    "business_name": "Boutique Villa",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing manufacturer",
+    "pincode": "250222",
+    "phone_number": "+91 89799 48100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "102, Mawana Rd, nearby hanumaan mandir, Ishapuram, Meerut, Uttar Pradesh 250001",
+    "area": "Ishapuram",
+    "latitude": 29.061768999999998,
+    "longitude": 77.817199,
+    "place_id": "ChIJw5yJPWhkDDkRAAAAMC93iB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5yJPWhkDDkRAAAAMC93iB8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Gallery",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "250106",
+    "phone_number": "+91 81717 16101",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 75,
+    "address": "1000, Tulsi market, Kala Aam Chauraha, opp. alpana cinema, Moti Bagh, Kotiyat, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Moti Bagh, Kotiyat",
+    "latitude": 28.407026199999997,
+    "longitude": 77.8509601,
+    "place_id": "ChIJQ-gxoHOhDDkRH5J-YYjuPlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-gxoHOhDDkRH5J-YYjuPlE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:08"
+  },
+  {
+    "business_name": "Mobile Hospital",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Computer support and services, Repair service",
+    "pincode": "250106",
+    "phone_number": "+91 99117 36667",
+    "website": "https://mobilehospitalindia.in/",
+    "rating": 4.8,
+    "reviews_count": 975,
+    "address": "pillar No-58, A36, Gali No. 1, behind of Haldiram express, Veer Savarkar Block, Block E, Laxmi Nagar, New Delhi, Delhi, 110092",
+    "area": "Veer Savarkar Block, Block E, Laxmi Nagar",
+    "latitude": 28.635395499999998,
+    "longitude": 77.28448259999999,
+    "place_id": "ChIJV5A5h6n8DDkRDwQDX_Ga4Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5A5h6n8DDkRDwQDX_Ga4Sc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:44:08"
+  }
+]

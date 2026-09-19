@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mindskills",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency, Employment consultant",
+    "pincode": "250110",
+    "phone_number": "+91 87553 00300",
+    "website": "http://www.mindskills.co.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "S-19, 20, Vardhmaan Plaza, Garh Road, Meerut, Uttar Pradesh 250002",
+    "area": "Kalyan",
+    "latitude": 28.967799099999997,
+    "longitude": 77.72696049999999,
+    "place_id": "ChIJJeBUP79kDDkR31dD9IKiwbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeBUP79kDDkR31dD9IKiwbw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:09"
+  },
+  {
+    "business_name": "HRBP Consulting",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Career guidance service, Service establishment, Resume service",
+    "pincode": "250110",
+    "phone_number": "N/A",
+    "website": "http://www.hrbpconsulting.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "HRBP Consulting, 250110, India",
+    "area": "250110",
+    "latitude": 35.2053334,
+    "longitude": -80.8221609,
+    "place_id": "ChIJy0fRiBmqPY0RpUqP4wmWQ2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0fRiBmqPY0RpUqP4wmWQ2s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:46:11"
+  }
+]

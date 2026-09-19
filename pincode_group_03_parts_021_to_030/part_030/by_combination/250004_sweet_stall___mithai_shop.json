@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajsthan Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Sweet shop",
+    "pincode": "250004",
+    "phone_number": "N/A",
+    "website": "https://rajsthan-sweets.grexa.site/",
+    "rating": 4.1,
+    "reviews_count": 116,
+    "address": "Shop no 00, Pnb Road, Garh Rd, sector-5, jagriti vihar, Jagriti Vihar, Meerut, Uttar Pradesh 250004",
+    "area": "sector-5, jagriti vihar, Jagriti Vihar",
+    "latitude": 28.958185099999998,
+    "longitude": 77.7493634,
+    "place_id": "ChIJP1qyPfF7DDkR6iW77rAWgpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1qyPfF7DDkR6iW77rAWgpY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:27"
+  },
+  {
+    "business_name": "Ram Chandra Sahai Anand Swaroop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "250004",
+    "phone_number": "+91 97607 26223",
+    "website": "https://ramchandrasahai.in/about-us",
+    "rating": 4.3,
+    "reviews_count": 76,
+    "address": "Nai Sadak Shastri Nagar, Meerut, Xp8H+Gxg, Nai Sarak, Kalyan, Meerut Division Delhi, Uttar Pradesh 250002",
+    "area": "Tejgarhi, Kalyan",
+    "latitude": 28.966324099999998,
+    "longitude": 77.729945,
+    "place_id": "ChIJIxp0HLlkDDkRqxKJZGqQVnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxp0HLlkDDkRqxKJZGqQVnY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:33:27"
+  }
+]

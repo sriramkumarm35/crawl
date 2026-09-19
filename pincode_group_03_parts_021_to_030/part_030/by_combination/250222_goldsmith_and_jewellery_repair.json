@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swarnkar jewellers mussori",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "250222",
+    "phone_number": "+91 97203 48956",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Doctor wali gali, me, Mawana Rd, Masuri, Uttar Pradesh 250001",
+    "area": "250222",
+    "latitude": 29.068983199999998,
+    "longitude": 77.825277,
+    "place_id": "ChIJbSi4AlBxDDkR1woYP-_yF3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSi4AlBxDDkR1woYP-_yF3w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:41"
+  },
+  {
+    "business_name": "Kapil Jewellers (खरदोनी वाले)",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "250222",
+    "phone_number": "+91 89583 73600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main bazar, near jama masjid, kasba, Lawar NP, Uttar Pradesh 250222",
+    "area": "kasba",
+    "latitude": 29.11121,
+    "longitude": 77.77634139999999,
+    "place_id": "ChIJpTbgkqNxDDkR5nuSXTyqc00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTbgkqNxDDkR5nuSXTyqc00",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:50:41"
+  }
+]
