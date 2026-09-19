@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ice Cream Wala",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "225416",
+    "phone_number": "+91 94557 05142",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 78,
+    "address": "Village, Salarganj Rd, near Primary School, Post, Juggaur, Lucknow, Uttar Pradesh 226028",
+    "area": "Post",
+    "latitude": 26.8745002,
+    "longitude": 81.07987179999999,
+    "place_id": "ChIJZUs78vvhmzkRR9KNnHn3TiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUs78vvhmzkRR9KNnHn3TiI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:36:45"
+  },
+  {
+    "business_name": "Kamal ice-cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "225416",
+    "phone_number": "+91 90056 58121",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 23,
+    "address": "F4C6+3FX, Bachrawan, Near Main Bachrawan Bus Top Chouraha, Lalganj Road, Bachhrawan, Uttar Pradesh 229301",
+    "area": "225416",
+    "latitude": 26.470247699999998,
+    "longitude": 81.1112449,
+    "place_id": "ChIJW2mjsleUmzkRcO7FPbunlAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2mjsleUmzkRcO7FPbunlAM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:36:45"
+  }
+]

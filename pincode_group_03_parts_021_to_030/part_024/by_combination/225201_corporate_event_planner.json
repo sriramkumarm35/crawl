@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreenika Enteprises",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Wedding planner",
+    "pincode": "225201",
+    "phone_number": "+91 73767 70781",
+    "website": "https://shreenikaenterprises.com/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Block G-1, Ganesh Vihar Colony, Fazullaganj, Lucknow, Uttar Pradesh 226013",
+    "area": "Fazullaganj",
+    "latitude": 26.905775,
+    "longitude": 80.9111393,
+    "place_id": "ChIJYexkhLJXmTkREqr2nVe0v-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYexkhLJXmTkREqr2nVe0v-8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:58:41"
+  },
+  {
+    "business_name": "Shreenika Enterprises",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "225201",
+    "phone_number": "+91 73767 70781",
+    "website": "http://shreenikaenterprises.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganesh Vihar Colony, near Jaglal Yadav Petrol Pump, Hanumant Puram 2nd, Madiyanva, Lucknow, Uttar Pradesh 226013",
+    "area": "Hanumant Puram 2nd, Madiyanva",
+    "latitude": 26.9057666,
+    "longitude": 80.9111346,
+    "place_id": "ChIJcaNaIuT9mzkRqK6TAnHvLBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaNaIuT9mzkRqK6TAnHvLBE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:58:41"
+  }
+]

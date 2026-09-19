@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225416",
+    "phone_number": "+91 73102 25409",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Asandra, Uttar Pradesh 225416",
+    "area": "225416",
+    "latitude": 26.6967397,
+    "longitude": 81.43530319999999,
+    "place_id": "ChIJk6jkepTNmzkRQFmgzZG34OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6jkepTNmzkRQFmgzZG34OY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:36:52"
+  },
+  {
+    "business_name": "Gupta Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225416",
+    "phone_number": "+91 94502 07679",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rudauli, Asandra, Uttar Pradesh 225416",
+    "area": "225416",
+    "latitude": 26.6995221,
+    "longitude": 81.4370708,
+    "place_id": "ChIJlbcZd3jNmzkRaCbhkWxFEtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbcZd3jNmzkRaCbhkWxFEtI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:36:52"
+  }
+]

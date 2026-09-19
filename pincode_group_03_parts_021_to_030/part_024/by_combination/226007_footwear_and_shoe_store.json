@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iconic Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "226007",
+    "phone_number": "+91 70074 16501",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sitapur Rd, Iradat Nagar, Khadra, Lucknow, Uttar Pradesh 226020",
+    "area": "Iradat Nagar, Khadra",
+    "latitude": 26.8775698,
+    "longitude": 80.9222077,
+    "place_id": "ChIJ8Zoa4779mzkRPkJ1N7uS1hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Zoa4779mzkRPkJ1N7uS1hM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:09"
+  },
+  {
+    "business_name": "CHY (Cinderella shoes) Lucknow",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "226007",
+    "phone_number": "N/A",
+    "website": "http://cinderellashoes.in/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Le Press, Naval Kishore Rd, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.8505844,
+    "longitude": 80.9445756,
+    "place_id": "ChIJi12dcwD9mzkRv3jF4AN3hMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi12dcwD9mzkRv3jF4AN3hMQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:09"
+  }
+]

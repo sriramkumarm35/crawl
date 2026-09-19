@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sky Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225305",
+    "phone_number": "+91 86019 21647",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Patel chauraha, Tehsil Fateh Pur, Chakkajipur, Uttar Pradesh 225305",
+    "area": "225305",
+    "latitude": 27.179306399999998,
+    "longitude": 81.21036629999999,
+    "place_id": "ChIJTZXEI5JpmTkRxA8oa4Z2MPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZXEI5JpmTkRxA8oa4Z2MPs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:18:10"
+  },
+  {
+    "business_name": "The Cloud Kitchen Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "225305",
+    "phone_number": "+91 91079 83333",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 25,
+    "address": "Apple City, 101, near HP petrol bunk, Chaitanya Ananya, Seegehalli, Kadugodi, Bengaluru, Shigehalli, Karnataka 560115",
+    "area": "Chaitanya Ananya, Seegehalli, Kadugodi",
+    "latitude": 13.008306399999999,
+    "longitude": 77.7588426,
+    "place_id": "ChIJk4fsCGgPrjsRVe75SCEu9OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4fsCGgPrjsRVe75SCEu9OA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:18:11"
+  }
+]

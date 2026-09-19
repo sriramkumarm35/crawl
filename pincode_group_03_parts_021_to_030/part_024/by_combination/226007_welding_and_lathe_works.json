@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fabend Engineering",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "226007",
+    "phone_number": "+91 72288 16668",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "40, JYOT IND. PARK, Nr. KASHTBHANJAN WEIGH BRIDGE, BAKROL, Bakrol Bujrang, Ahmedabad, Gujarat 382430",
+    "area": "226007",
+    "latitude": 22.9778239,
+    "longitude": 72.73614119999999,
+    "place_id": "ChIJC5vNCD-HXjkRd-je7yEjfE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5vNCD-HXjkRd-je7yEjfE8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:51:25"
+  },
+  {
+    "business_name": "KAMAKHYA ENGINEERING REPAIRING CENTRE",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder, Metal fabricator",
+    "pincode": "226007",
+    "phone_number": "+91 97070 33231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AK Dev Rd, Katahbari, Dhirenpara, Guwahati, Assam 781035",
+    "area": "Katahbari, Dhirenpara",
+    "latitude": 26.1179028,
+    "longitude": 91.7158752,
+    "place_id": "ChIJr30zkX1cWjcRRPfbs_AwCnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr30zkX1cWjcRRPfbs_AwCnk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:51:26"
+  }
+]

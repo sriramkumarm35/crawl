@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furniture Ghar",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Bedroom furniture store, Furniture accessories, Kitchen furniture store, Office furniture store",
+    "pincode": "225414",
+    "phone_number": "+91 94737 78001",
+    "website": "http://furnitureghar.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "A/2, Station Rd, Malhour, Ashraf Vihar Colony, Yamuna Vihar, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Malhour, Ashraf Vihar Colony, Yamuna Vihar, Chinhat",
+    "latitude": 26.8654923,
+    "longitude": 81.0371619,
+    "place_id": "ChIJSXgewl3imzkRTbtE61J0RcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXgewl3imzkRTbtE61J0RcI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:33:59"
+  },
+  {
+    "business_name": "Total Furniture Solution",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "225414",
+    "phone_number": "+91 522 407 3348",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 33,
+    "address": "First Floor, Hiral Complex, Faizabad Rd, Murari Nagar, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Murari Nagar, Indira Nagar",
+    "latitude": 26.8701354,
+    "longitude": 80.9711112,
+    "place_id": "ChIJZTnLfUP9mzkRNpJ7gOKJN_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTnLfUP9mzkRNpJ7gOKJN_8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:34:01"
+  }
+]

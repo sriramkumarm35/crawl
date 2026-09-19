@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABHUSAN",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Saree Shop",
+    "pincode": "225207",
+    "phone_number": "+91 95657 57131",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "main market Nai bajar ka mod, Tikait Nagar, Uttar Pradesh 225415",
+    "area": "225207",
+    "latitude": 26.9465672,
+    "longitude": 81.56520569999999,
+    "place_id": "ChIJOZiIYvOAmTkRYY4jV9RT9k0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZiIYvOAmTkRYY4jV9RT9k0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:02"
+  },
+  {
+    "business_name": "Swarnika",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "225207",
+    "phone_number": "+91 93694 29135",
+    "website": "https://swarnikajewel.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tikait Nagar, Uttar Pradesh 225415",
+    "area": "225207",
+    "latitude": 26.9359427,
+    "longitude": 81.567869,
+    "place_id": "ChIJSeWbO8qBmTkR4j2WtgrpUNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeWbO8qBmTkR4j2WtgrpUNE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:04"
+  }
+]

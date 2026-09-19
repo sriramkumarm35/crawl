@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahima Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225405",
+    "phone_number": "+91 90265 55592",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VFW8+H6C, Baharapur, Saidkhanpur, Hamidnagar, Uttar Pradesh 225405",
+    "area": "225405",
+    "latitude": 26.896448799999998,
+    "longitude": 81.46550529999999,
+    "place_id": "ChIJBS1KMwDVmzkRDvT97vuVF1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBS1KMwDVmzkRDvT97vuVF1o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:26:53"
+  },
+  {
+    "business_name": "Shivam polyclinic & Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Road, Rasulpur, Uttar Pradesh 225412",
+    "area": "225405",
+    "latitude": 26.8668493,
+    "longitude": 81.4155356,
+    "place_id": "ChIJ5cUcfQDXmzkRHLQsph3wyoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cUcfQDXmzkRHLQsph3wyoc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:26:53"
+  }
+]

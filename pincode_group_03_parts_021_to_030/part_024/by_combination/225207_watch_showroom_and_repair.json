@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Watch Co.",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Optical Wholesaler, Sunglasses store, Watch repair service",
+    "pincode": "225207",
+    "phone_number": "+91 93591 18000",
+    "website": "https://guptawatches.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop 1 Deen Dayal Puram, Chauraha, Ekta Nagar, Bareilly, Uttar Pradesh 243001",
+    "area": "Chauraha, Ekta Nagar",
+    "latitude": 28.3819542,
+    "longitude": 79.4299521,
+    "place_id": "ChIJAQAAEOcGoDkRuOkLiQ74Dzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAEOcGoDkRuOkLiQ74Dzk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:05"
+  },
+  {
+    "business_name": "Gouri Watch Co.",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "225207",
+    "phone_number": "+91 674 259 7944",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "90, Bapuji Nagar Main St, Bapuji Nagar, Bhubaneswar, Odisha 751009",
+    "area": "Bapuji Nagar",
+    "latitude": 20.260528,
+    "longitude": 85.8367409,
+    "place_id": "ChIJB18aY0enGToROEdfa9MXhzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB18aY0enGToROEdfa9MXhzo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gappu Hotel",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "225306",
+    "phone_number": "+91 91299 26633",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jhanjhra Chauraha, Sitapur, Shadi Pur, Uttar Pradesh 261203",
+    "area": "225306",
+    "latitude": 27.2676454,
+    "longitude": 81.1585546,
+    "place_id": "ChIJsxS2KGVBmTkRU_D535-wNs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxS2KGVBmTkRU_D535-wNs0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:19:54"
+  },
+  {
+    "business_name": "#Rahul Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "225306",
+    "phone_number": "+91 79066 33491",
+    "website": "http://rahulbakery.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ruhai muhal, Hashmat Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Hashmat Nagar",
+    "latitude": 26.463697,
+    "longitude": 79.5092185,
+    "place_id": "ChIJkzeRo67znTkRY9lJbZtyBw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzeRo67znTkRY9lJbZtyBw8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:19:54"
+  }
+]

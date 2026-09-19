@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "225412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X86V+QH4, Bansa, Uttar Pradesh 225412",
+    "area": "225412",
+    "latitude": 26.961892199999998,
+    "longitude": 81.343959,
+    "place_id": "ChIJL-lrbAB9mTkRM05Xmb79fYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-lrbAB9mTkRM05Xmb79fYY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:00"
+  },
+  {
+    "business_name": "The Better Insurance Agency",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Service establishment",
+    "pincode": "225412",
+    "phone_number": "N/A",
+    "website": "https://www.thebetterquote.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Better Insurance Agency, 225412, India",
+    "area": "225412",
+    "latitude": 37.0607256,
+    "longitude": -81.8594689,
+    "place_id": "ChIJ14xKFKEntIkRd_b22y8fdDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14xKFKEntIkRd_b22y8fdDQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:01"
+  }
+]

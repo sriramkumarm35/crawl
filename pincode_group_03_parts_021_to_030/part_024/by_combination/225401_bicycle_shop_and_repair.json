@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cycle repairing shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Service establishment",
+    "pincode": "225401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Cycle repairing shop, 225401, India",
+    "area": "225401",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJe3WKLRbPkjkRdFLLMkZWBAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3WKLRbPkjkRdFLLMkZWBAg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:03"
+  },
+  {
+    "business_name": "Vikas Cycle Showroom",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "225401",
+    "phone_number": "+91 94502 40792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Vikas Cycle Showroom, Sarvodaya Road, Lambhua, Uttar Pradesh 222302",
+    "area": "225401",
+    "latitude": 26.1366762,
+    "longitude": 82.23108789999999,
+    "place_id": "ChIJhZ4qHwB_kDkRMai8HJj0L8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZ4qHwB_kDkRMai8HJj0L8M",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:06"
+  }
+]

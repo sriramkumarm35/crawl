@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS FOODCOURT",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225306",
+    "phone_number": "+91 86012 48562",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ram Sewak Chauraha, Barail Rd, Lakhpedabagh, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Lakhpedabagh",
+    "latitude": 26.916688299999997,
+    "longitude": 81.18847799999999,
+    "place_id": "ChIJjw-zcwBhmTkRORIEk3XyDFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjw-zcwBhmTkRORIEk3XyDFM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:19:58"
+  },
+  {
+    "business_name": "KOOK DOO KU",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "225306",
+    "phone_number": "+91 84608 36764",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop number :- 28B, Unity Park, society, Custom Rd, Chala, Vapi, Gujarat 396191",
+    "area": "Chala",
+    "latitude": 20.3867238,
+    "longitude": 72.9064949,
+    "place_id": "ChIJvTsk53rP4DsRQRCxXl3E5i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTsk53rP4DsRQRCxXl3E5i8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:19:58"
+  }
+]

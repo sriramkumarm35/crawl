@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jubeer",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "225304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "58VM+7QW, Suratganj, Uttar Pradesh 225305",
+    "area": "225304",
+    "latitude": 27.1932305,
+    "longitude": 81.3344408,
+    "place_id": "ChIJQVPqaJxtmTkRebUQjUgF5oI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVPqaJxtmTkRebUQjUgF5oI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:19"
+  },
+  {
+    "business_name": "M.S. khan Hostel Z",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "225304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "56C4+6F2, Tehsil Fateh Pur, Uttar Pradesh 225305",
+    "area": "225304",
+    "latitude": 27.1705215,
+    "longitude": 81.2061458,
+    "place_id": "ChIJw-iE9YJpmTkRp0B09Trj008",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-iE9YJpmTkRp0B09Trj008",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:19"
+  }
+]

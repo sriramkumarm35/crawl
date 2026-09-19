@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan Motorcycle Repairing",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "225404",
+    "phone_number": "+91 80092 63607",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purab Fatak, Dariyabad, Khubaka Purwa, Uttar Pradesh 225404",
+    "area": "225404",
+    "latitude": 26.8869306,
+    "longitude": 81.5634185,
+    "place_id": "ChIJaQF5rKsrmjkRc68cgJ3hFQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQF5rKsrmjkRc68cgJ3hFQQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:17"
+  },
+  {
+    "business_name": "JSS Honda",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "225404",
+    "phone_number": "+91 98392 20363",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Gonda - Bahraich Rd, near Bus stand, Veer Pur, Gonda, Rudrapur Bisen, Uttar Pradesh 271003",
+    "area": "Veer Pur",
+    "latitude": 27.139087999999997,
+    "longitude": 81.9578377,
+    "place_id": "ChIJ3-v6I8_vmTkR9EmUIQOpJ9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-v6I8_vmTkR9EmUIQOpJ9Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:20"
+  }
+]

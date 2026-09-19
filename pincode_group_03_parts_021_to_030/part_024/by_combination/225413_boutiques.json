@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohini boutique and training centre",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "225413",
+    "phone_number": "+91 87266 38211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House=26 kasturi vihar, near Sai chudhi center tiwariganj, Lucknow, Uttar Pradesh 226028",
+    "area": "225413",
+    "latitude": 26.8980499,
+    "longitude": 81.06357969999999,
+    "place_id": "ChIJSwgrmatZmTkRXfjuF2CCoI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwgrmatZmTkRXfjuF2CCoI8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:46"
+  },
+  {
+    "business_name": "Vastra Villa by Chhavi Agarwal",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "225413",
+    "phone_number": "+91 70786 94552",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "purani machis factory, 479/5, madhobari, Bareilly, Uttar Pradesh 243005",
+    "area": "madhobari",
+    "latitude": 28.3640521,
+    "longitude": 79.4277098,
+    "place_id": "ChIJDR5edAMHoDkRUYH6GUsFZ7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDR5edAMHoDkRUYH6GUsFZ7s",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:47"
+  }
+]

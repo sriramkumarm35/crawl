@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha Enterprises",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "225404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by Block from side, Dariyabad, Uttar Pradesh 225404",
+    "area": "225404",
+    "latitude": 26.8818347,
+    "longitude": 81.5514247,
+    "place_id": "ChIJbQuVaDgrmjkRp_g-P06suZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQuVaDgrmjkRp_g-P06suZA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:24:51"
+  },
+  {
+    "business_name": "Mohit pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "225404",
+    "phone_number": "+91 83033 37333",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "mega shop ke bagal, Naka Chungi - Kanti Nagar Rd, Hanumat Nagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Hanumat Nagar",
+    "latitude": 26.761889,
+    "longitude": 82.1416991,
+    "place_id": "ChIJ20IT2W4JmjkRQr5wJc5zoxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20IT2W4JmjkRQr5wJc5zoxI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:24:51"
+  }
+]

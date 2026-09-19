@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R V Auto Sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "225208",
+    "phone_number": "+91 81277 09436",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "VP33+6C9, Sarai Barai, Khatasarai, Uttar Pradesh 224119",
+    "area": "225208",
+    "latitude": 26.8486132,
+    "longitude": 81.71128519999999,
+    "place_id": "ChIJEZW39aEnmjkRhNYBdIwBpdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZW39aEnmjkRhNYBdIwBpdc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:09:59"
+  },
+  {
+    "business_name": "Exotique Machines - Luxury Car Dealer Lucknow",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Motor vehicle dealer, Used car dealer",
+    "pincode": "225208",
+    "phone_number": "+91 77069 00237",
+    "website": "https://www.carwale.com/used/lucknow/dealers/exotique-machines-a-unit-of-sai-baba-car-sales-pvt-ltd/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-17/2, Faizabad Rd, Sector 18, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 18, Indira Nagar",
+    "latitude": 26.872917899999997,
+    "longitude": 80.99055659999999,
+    "place_id": "ChIJkcYD5U7jmzkRwvD_U25Zqqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcYD5U7jmzkRwvD_U25Zqqw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:09:59"
+  }
+]

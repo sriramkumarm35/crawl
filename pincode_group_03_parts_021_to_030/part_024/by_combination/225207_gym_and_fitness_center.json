@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "225207",
+    "phone_number": "+91 77538 56294",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "CHC), Dariyabaad road, near government hospital, Tikait Nagar, Uttar Pradesh 225415",
+    "area": "225207",
+    "latitude": 26.9389193,
+    "longitude": 81.5666956,
+    "place_id": "ChIJ_fv4nv6BmTkRvo-TW_ewkaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fv4nv6BmTkRvo-TW_ewkaY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:15"
+  },
+  {
+    "business_name": "Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "225207",
+    "phone_number": "+91 82996 39210",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Dariyabad Rd, Ramnagar road, Tikait Nagar, Uttar Pradesh 225415",
+    "area": "225207",
+    "latitude": 26.941889999999997,
+    "longitude": 81.5645807,
+    "place_id": "ChIJyUqsGrgrmjkRPo5iiuXcL-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUqsGrgrmjkRPo5iiuXcL-A",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:15"
+  }
+]

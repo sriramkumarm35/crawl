@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mama chai wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Fast food restaurant",
+    "pincode": "226004",
+    "phone_number": "+91 70687 20895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Para Rd, near Sai Footwear, Devpur, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Devpur, Rajajipuram",
+    "latitude": 26.824580599999997,
+    "longitude": 80.8799368,
+    "place_id": "ChIJ_8ZbDRD_mzkR1GgNqF8hDFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8ZbDRD_mzkR1GgNqF8hDFE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:44:10"
+  },
+  {
+    "business_name": "Chacchaa ki chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "226004",
+    "phone_number": "+91 84680 93313",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "266/35, Khala Bazar, Old Labour Colony, Lucknow, Uttar Pradesh 226004",
+    "area": "Khala Bazar, Old Labour Colony",
+    "latitude": 26.8510873,
+    "longitude": 80.9018971,
+    "place_id": "ChIJn-AIeQD9mzkRrnp_MMJJzE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-AIeQD9mzkRrnp_MMJJzE0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:44:10"
+  }
+]

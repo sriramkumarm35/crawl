@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansh grocery point",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "225414",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R8MJ+HHM, Zaidpur, Barabanki, Uttar Pradesh 225414",
+    "area": "225414",
+    "latitude": 26.833959999999998,
+    "longitude": 81.331414,
+    "place_id": "ChIJS0XOYwDZmzkRXMOMCMGYZ5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0XOYwDZmzkRXMOMCMGYZ5o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:33:09"
+  },
+  {
+    "business_name": "Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "225414",
+    "phone_number": "+91 89575 19075",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No 56, Kirana Store Panihal Post Tikra Usman District, Tikra Road, Barabanki, Uttar Pradesh 225121",
+    "area": "225414",
+    "latitude": 26.8447364,
+    "longitude": 81.2827171,
+    "place_id": "ChIJf0g6e9_ZmzkRkuIiOyf0Tes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0g6e9_ZmzkRkuIiOyf0Tes",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:33:09"
+  }
+]

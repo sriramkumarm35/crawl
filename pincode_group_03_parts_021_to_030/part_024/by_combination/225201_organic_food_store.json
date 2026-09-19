@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "वैदिक ऑर्गेनिक",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "225201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4F73+W96, Ganeshpur, Lohati Jai, Uttar Pradesh 225201",
+    "area": "225201",
+    "latitude": 27.1145903,
+    "longitude": 81.4535914,
+    "place_id": "ChIJibwSaQB3mTkRvDxURiOyRd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibwSaQB3mTkRvDxURiOyRd0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:31"
+  },
+  {
+    "business_name": "Vipin Kirana Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "225201",
+    "phone_number": "+91 75710 26358",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abdulla Pur, Suratganj, Uttar Pradesh 225204",
+    "area": "225201",
+    "latitude": 27.171880899999998,
+    "longitude": 81.3444703,
+    "place_id": "ChIJjchJ-AhvmTkRS6sYyAZwIcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjchJ-AhvmTkRS6sYyAZwIcU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:31"
+  }
+]

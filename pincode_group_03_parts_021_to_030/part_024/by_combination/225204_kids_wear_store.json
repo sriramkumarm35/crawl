@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Namaskar Kids",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "225204",
+    "phone_number": "+91 72350 06000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "551jha 157, Ram Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Ram Nagar, Alambagh",
+    "latitude": 26.8087219,
+    "longitude": 80.8990393,
+    "place_id": "ChIJWfdvE5j9mzkR4dCHiKP0Xm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfdvE5j9mzkR4dCHiKP0Xm8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:03:00"
+  },
+  {
+    "business_name": "HPM HUB",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "225204",
+    "phone_number": "+91 73183 87123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palika Market, New, Begum Gunj, Barabanki, Uttar Pradesh 225001",
+    "area": "Begum Gunj",
+    "latitude": 26.928992299999997,
+    "longitude": 81.1900395,
+    "place_id": "ChIJTzjaTHRhmTkRybDA1pjXDGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzjaTHRhmTkRybDA1pjXDGo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:03:01"
+  }
+]

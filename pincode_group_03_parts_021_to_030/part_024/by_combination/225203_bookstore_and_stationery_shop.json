@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Student Point",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "225203",
+    "phone_number": "+91 87952 10029",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill-Katra, Institute Of technology, near Jahangirabad, Barabanki, Mohiuddinpur, Uttar Pradesh 225203",
+    "area": "225203",
+    "latitude": 26.983819,
+    "longitude": 81.2297492,
+    "place_id": "ChIJf5iRG0thmTkRPqtSSmUH1Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5iRG0thmTkRPqtSSmUH1Js",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:02:11"
+  },
+  {
+    "business_name": "Thakur Ji Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "225203",
+    "phone_number": "+91 91298 64140",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "Shop no. 1, C-6, Infront Arjun park, Sector F, Jankipuram, Uttar Pradesh 226031",
+    "area": "Sector I, Sector F, Jankipuram",
+    "latitude": 26.921035999999997,
+    "longitude": 80.94280549999999,
+    "place_id": "ChIJTdMHiRpXmTkR3PKnYj2zicA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdMHiRpXmTkR3PKnYj2zicA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:02:13"
+  }
+]

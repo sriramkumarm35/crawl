@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arunodaya Public School",
+    "search_category": "School",
+    "primary_category": "General education school",
+    "all_categories": "General education school",
+    "pincode": "225303",
+    "phone_number": "+91 96705 99777",
+    "website": "http://apsschool.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palia Masoodpur, Uttar Pradesh 225203",
+    "area": "225303",
+    "latitude": 26.9620845,
+    "longitude": 81.1728993,
+    "place_id": "ChIJFQfCv5lgmTkR0Hoo81hwOyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQfCv5lgmTkR0Hoo81hwOyc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:15:40"
+  },
+  {
+    "business_name": "M I School",
+    "search_category": "School",
+    "primary_category": "Elementary school",
+    "all_categories": "Elementary school",
+    "pincode": "225303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tahsil, Fatehpur, chandoora, Mohammad Pur Khala, Uttar Pradesh 225303",
+    "area": "chandoora",
+    "latitude": 27.206924899999997,
+    "longitude": 81.27695969999999,
+    "place_id": "ChIJa7lDXORtmTkRRC9IX3WZJA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7lDXORtmTkRRC9IX3WZJA8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:15:40"
+  }
+]

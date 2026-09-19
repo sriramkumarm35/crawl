@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anant Shree Book & Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "225303",
+    "phone_number": "+91 91747 53940",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ghanshyam Nagar, Tapkara, Chhattisgarh 496227",
+    "area": "Ghanshyam Nagar",
+    "latitude": 22.4991001,
+    "longitude": 83.9495003,
+    "place_id": "ChIJdSOiNr-fIDoRaSNMknrlx1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSOiNr-fIDoRaSNMknrlx1A",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:15:48"
+  },
+  {
+    "business_name": "FANCY STATIONERY",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "225303",
+    "phone_number": "+91 85748 33786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Civil Line, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.260889,
+    "longitude": 82.07636099999999,
+    "place_id": "ChIJDSK8i_B8mjkROSbOKOH2DFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSK8i_B8mjkROSbOKOH2DFk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:15:48"
+  }
+]

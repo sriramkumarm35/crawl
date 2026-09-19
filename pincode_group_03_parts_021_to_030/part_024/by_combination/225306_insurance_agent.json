@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Western Union",
+    "search_category": "Insurance Agent",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service",
+    "pincode": "225306",
+    "phone_number": "+91 91125 77895",
+    "website": "https://www.westernunion.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Post Shahpur Bhagauli Fatehpur, Uttar Pradesh 261203",
+    "area": "225306",
+    "latitude": 27.22948,
+    "longitude": 81.11466999999999,
+    "place_id": "ChIJ5_vRUJRBmTkRz1_eCq-65XQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_vRUJRBmTkRz1_eCq-65XQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:03"
+  },
+  {
+    "business_name": "Anderson Insurance Agency",
+    "search_category": "Insurance Agent",
+    "primary_category": "Health insurance agency",
+    "all_categories": "Health insurance agency, Service establishment",
+    "pincode": "225306",
+    "phone_number": "N/A",
+    "website": "http://smokymountaininsurance.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Anderson Insurance Agency, 225306, India",
+    "area": "225306",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJnXsQLAX4W4gRMg6NlReDhbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXsQLAX4W4gRMg6NlReDhbg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:03"
+  }
+]

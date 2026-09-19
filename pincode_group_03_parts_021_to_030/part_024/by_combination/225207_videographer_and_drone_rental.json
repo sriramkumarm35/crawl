@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DroneVideos.com",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Aerial photographer",
+    "all_categories": "Aerial photographer, Drone service, Service establishment, Photographer",
+    "pincode": "225207",
+    "phone_number": "N/A",
+    "website": "https://dronevideos.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DroneVideos.com, 225207, India",
+    "area": "225207",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ1115Em08tokRYgY0fGKlYQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1115Em08tokRYgY0fGKlYQM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:45"
+  },
+  {
+    "business_name": "Studio Mark",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Wedding photographer",
+    "pincode": "225207",
+    "phone_number": "+91 99974 47739",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "Plot Number 64/396, Ahilya Bai Chowk, in front of Hotel Mukund Utsav, Maghora, Dampier Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Maghora, Dampier Nagar",
+    "latitude": 27.4919466,
+    "longitude": 77.6815325,
+    "place_id": "ChIJ83xtLGtxczkRyLxvRnkiACM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83xtLGtxczkRyLxvRnkiACM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:45"
+  }
+]

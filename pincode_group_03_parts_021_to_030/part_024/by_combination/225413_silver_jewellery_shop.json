@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gold smith",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "225413",
+    "phone_number": "+91 73552 00385",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chauraha, Haidergarh Rd, Bhan Mau, Uttar Pradesh 225121",
+    "area": "225413",
+    "latitude": 26.7912911,
+    "longitude": 81.2721437,
+    "place_id": "ChIJp7pkSOfbmzkROEFDZh8Jg_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7pkSOfbmzkROEFDZh8Jg_E",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:41"
+  },
+  {
+    "business_name": "Pooja jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "225413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "QC95+P22, SH 13, Mohammad Pur Chandi S, Uttar Pradesh 225413",
+    "area": "225413",
+    "latitude": 26.7692174,
+    "longitude": 81.407612,
+    "place_id": "ChIJt_aAKwDRmzkRZBlQ0YNWjg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_aAKwDRmzkRZBlQ0YNWjg4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:41"
+  }
+]

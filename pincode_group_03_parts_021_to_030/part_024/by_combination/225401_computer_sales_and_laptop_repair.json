@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TECH PLANET",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer desk store, Computer Rental Agency, Computer store, Computer service, Computer software store, Used computer store",
+    "pincode": "225401",
+    "phone_number": "+91 93244 26782",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.04, 150 Feet Rd, near Maxus Mall Road, opposite SBI Bank Bhayandar, Bhayandar, Padmavati Nagar, Bhayandar West, Mira Bhayandar, Maharashtra 401101",
+    "area": "Bhayandar, Padmavati Nagar, Bhayandar West",
+    "latitude": 19.2948563,
+    "longitude": 72.847668,
+    "place_id": "ChIJnygqRPCx5zsRwwcbiXxmfYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnygqRPCx5zsRwwcbiXxmfYw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:39"
+  },
+  {
+    "business_name": "Dj Computer and Laptop repair",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "225401",
+    "phone_number": "+91 82992 75853",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Durgaganj, Dayalpur, Uttar Pradesh 221404",
+    "area": "225401",
+    "latitude": 25.483417,
+    "longitude": 82.3353222,
+    "place_id": "ChIJWdGZHAADkDkREaW0V8BExAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdGZHAADkDkREaW0V8BExAw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:41"
+  }
+]

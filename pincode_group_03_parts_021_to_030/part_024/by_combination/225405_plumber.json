@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taaj electronic & plumber Shop",
+    "search_category": "Plumber",
+    "primary_category": "Shopfitter",
+    "all_categories": "Shopfitter, Service establishment",
+    "pincode": "225405",
+    "phone_number": "+91 70072 58586",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Taaj electronic & plumber Shop, 225405, India",
+    "area": "225405",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI5qCzU7RmzkRfYrGZUJOI6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5qCzU7RmzkRfYrGZUJOI6I",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:12"
+  },
+  {
+    "business_name": "Sandeep Iron Works",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "225405",
+    "phone_number": "+91 93369 25249",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 11, Company Bagh, Uttar Pradesh 225405",
+    "area": "225405",
+    "latitude": 26.9382901,
+    "longitude": 81.4838754,
+    "place_id": "ChIJwbKCD8l_mTkRXAau1y3gTco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbKCD8l_mTkRXAau1y3gTco",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:12"
+  }
+]

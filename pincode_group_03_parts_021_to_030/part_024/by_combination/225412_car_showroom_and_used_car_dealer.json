@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Motor Sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "225412",
+    "phone_number": "+91 73948 44707",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lucknow Motor Sales Gol Market, opposite Mahanagar, Kotwali, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Kotwali, Mahanagar",
+    "latitude": 26.8733434,
+    "longitude": 80.95862679999999,
+    "place_id": "ChIJ65EHxuP9mzkRuytswJVoTUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65EHxuP9mzkRuytswJVoTUs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:30:18"
+  },
+  {
+    "business_name": "AM Dream Cars - Best Car Dealers in Mumbai",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "225412",
+    "phone_number": "+91 90447 86171",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Chuna Bhatti, Hasmukh Nagar, Santacruz (West), Mumbai, Maharashtra 400054",
+    "area": "Hasmukh Nagar, Santacruz (West)",
+    "latitude": 19.0843377,
+    "longitude": 72.8359724,
+    "place_id": "ChIJVYgFSv3J5zsROmYrdI_NXP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYgFSv3J5zsROmYrdI_NXP4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:30:20"
+  }
+]

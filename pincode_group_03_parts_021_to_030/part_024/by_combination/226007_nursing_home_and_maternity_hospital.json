@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Life Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "226007",
+    "phone_number": "+91 96708 90682",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "plot no. 113, Kursi Rd, Lucknow, Dashauli, Uttar Pradesh 226026",
+    "area": "226007",
+    "latitude": 26.9591148,
+    "longitude": 80.99959489999999,
+    "place_id": "ChIJVVWlE-hZmTkRmH2Ub5v0ly4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWlE-hZmTkRmH2Ub5v0ly4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:17"
+  },
+  {
+    "business_name": "Radiant Maternity & Cancer Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "226007",
+    "phone_number": "+91 91298 87776",
+    "website": "https://dradityayadavoncosurgeon.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khurdahi Bazar, Sultanpur Rd, near Surya Public School, Golf City, Lucknow, Marhar Mau Kala, Uttar Pradesh 226002",
+    "area": "Golf City",
+    "latitude": 26.784789699999997,
+    "longitude": 81.03721449999999,
+    "place_id": "ChIJx9rZnTblmzkRNMza5_YkSPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9rZnTblmzkRNMza5_YkSPQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gems",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "225415",
+    "phone_number": "N/A",
+    "website": "http://www.gems.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "2MFG+QGX, Rek Sadiya, Uttar Pradesh 271504",
+    "area": "225415",
+    "latitude": 27.0244832,
+    "longitude": 81.6763464,
+    "place_id": "ChIJsUe5teOFmTkRDr6Y5dshV80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUe5teOFmTkRDr6Y5dshV80",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:35:06"
+  },
+  {
+    "business_name": "New Soni Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "225415",
+    "phone_number": "+91 89609 36734",
+    "website": "http://sonijewallers.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4J47+XXJ, Bhambhuwa Bazar, Colonelganj, Dhema, Uttar Pradesh 271311",
+    "area": "Bhambhuwa Bazar",
+    "latitude": 27.1074679,
+    "longitude": 81.6149006,
+    "place_id": "ChIJEwVSU0KFmTkRYN4hzzdL-ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwVSU0KFmTkRYN4hzzdL-ns",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:35:08"
+  }
+]

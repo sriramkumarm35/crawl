@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "225415",
+    "phone_number": "+91 89609 76750",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11, Tikait Nagar - Mankapur Rd, near by Hospital, Sitapur, Tikait Nagar, Uttar Pradesh 225415",
+    "area": "225415",
+    "latitude": 26.9443538,
+    "longitude": 81.56462499999999,
+    "place_id": "ChIJhYRqONuBmTkRy4lqgvpng1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYRqONuBmTkRy4lqgvpng1s",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:35:15"
+  },
+  {
+    "business_name": "Pal Clinics",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "225415",
+    "phone_number": "+91 96963 48005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Goura Road, Kashipur, Uttar Pradesh 271311",
+    "area": "225415",
+    "latitude": 27.052830699999998,
+    "longitude": 81.6062012,
+    "place_id": "ChIJJWGbjNyFmTkRrUnJoFhbhSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWGbjNyFmTkRrUnJoFhbhSQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:35:15"
+  }
+]

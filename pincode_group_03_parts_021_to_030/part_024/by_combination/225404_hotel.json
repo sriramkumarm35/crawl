@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sonu malik",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "225404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VHQ4+CPH Sonu malik, Dariyabad, Uttar Pradesh 225404",
+    "area": "225404",
+    "latitude": 26.8885513,
+    "longitude": 81.55686949999999,
+    "place_id": "ChIJ3ZtPUQArmjkRp9ds5Bn_fUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZtPUQArmjkRp9ds5Bn_fUE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:46"
+  },
+  {
+    "business_name": "Bismillah Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "225404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VHP7+3PJ, Dariyabad Rd, Dariyabad, Khubaka Purwa, Uttar Pradesh 225404",
+    "area": "225404",
+    "latitude": 26.8852014,
+    "longitude": 81.5642587,
+    "place_id": "ChIJZdVGQgArmjkRiXvyV3HipJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdVGQgArmjkRiXvyV3HipJw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:48"
+  }
+]

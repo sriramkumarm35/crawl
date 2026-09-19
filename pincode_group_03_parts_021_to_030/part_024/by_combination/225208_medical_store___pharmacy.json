@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225208",
+    "phone_number": "+91 91403 15865",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Shop No 439, Aravali Marg, Lucknow, Tilokpur, Uttar Pradesh 225208",
+    "area": "225208",
+    "latitude": 27.0633634,
+    "longitude": 81.30156889999999,
+    "place_id": "ChIJz-hlQoNlmTkRgX5A00Xx9gY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-hlQoNlmTkRgX5A00Xx9gY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:09:45"
+  },
+  {
+    "business_name": "Bajpai Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Ramnagar, Tilokpur, Uttar Pradesh 225208",
+    "area": "Ramnagar",
+    "latitude": 27.0644743,
+    "longitude": 81.3057536,
+    "place_id": "ChIJgW2GegBlmTkReMJH_mNwung",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW2GegBlmTkReMJH_mNwung",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:09:45"
+  }
+]

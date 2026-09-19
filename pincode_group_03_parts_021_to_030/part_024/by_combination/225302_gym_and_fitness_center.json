@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anytime Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "225302",
+    "phone_number": "+91 75188 33349",
+    "website": "https://www.anytimefitness.com/en-in/locations/lucknow-uttar-pradesh-in-1126",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HOUSE, NO. 10/9, 2nd Floor, VISA, 10, Madan Mohan Malviya Marg, Lucknow, Uttar Pradesh 226001",
+    "area": "Parehta, Gokhale Vihar, Butler Colony",
+    "latitude": 26.856135899999998,
+    "longitude": 80.95572229999999,
+    "place_id": "ChIJ1RBH4Zb9mzkRl19DNx2qVmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RBH4Zb9mzkRl19DNx2qVmk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:25"
+  },
+  {
+    "business_name": "Premium Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "225302",
+    "phone_number": "+91 91611 19441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near state bank of india, Utraula, Uttar Pradesh 271604",
+    "area": "225302",
+    "latitude": 27.317573199999998,
+    "longitude": 82.41923539999999,
+    "place_id": "ChIJ12JXdMZDlzkRYqt_R3noH6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12JXdMZDlzkRYqt_R3noH6Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:26"
+  }
+]

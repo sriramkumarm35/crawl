@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jio Point",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "225302",
+    "phone_number": "+91 1860 893 3333",
+    "website": "http://www.jio.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Lucknoe Mehmoodabad Road, Kursi, Uttar Pradesh 225302",
+    "area": "225302",
+    "latitude": 27.060887899999997,
+    "longitude": 81.04691299999999,
+    "place_id": "ChIJC6VJe0tbmTkROgacKJmAY1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6VJe0tbmTkROgacKJmAY1c",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:14:07"
+  },
+  {
+    "business_name": "Maurya Electronics & Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "225302",
+    "phone_number": "+91 95191 91923",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Balaganj Road Tikaitganj, Barabanki, Uttar Pradesh 225302",
+    "area": "225302",
+    "latitude": 27.0961055,
+    "longitude": 81.0583091,
+    "place_id": "ChIJZ-zgkb5EmTkRjMLjCVbTYLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-zgkb5EmTkRjMLjCVbTYLo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:14:10"
+  }
+]

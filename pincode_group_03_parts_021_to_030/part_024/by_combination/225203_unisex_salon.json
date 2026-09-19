@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "225203",
+    "phone_number": "+91 88583 59455",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "infront of easyday store, Sai plaza complex, Awas Vikas Colony, Barabanki, Uttar Pradesh 225001",
+    "area": "Awas Vikas Colony",
+    "latitude": 26.9237248,
+    "longitude": 81.178,
+    "place_id": "ChIJn5HuV2xgmTkRkQMxhd5GzNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5HuV2xgmTkRkQMxhd5GzNQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:55"
+  },
+  {
+    "business_name": "Streax Professional Makeup Studio & Unisex Salon Academy",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "225203",
+    "phone_number": "+91 88088 88897",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 343,
+    "address": "Shop number 6 1st floor, sai bazar, opposite BBD university, Chinhat, Lucknow, Semra, Uttar Pradesh 226028",
+    "area": "Chinhat",
+    "latitude": 26.8882254,
+    "longitude": 81.0549458,
+    "place_id": "ChIJ4yVFEOPjmzkRGGKMMtcUbuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yVFEOPjmzkRGGKMMtcUbuk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:56"
+  }
+]

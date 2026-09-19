@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bati Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant",
+    "pincode": "225206",
+    "phone_number": "+91 72758 33613",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "RDA Complex, Jail Garden Road, Awas Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Awas Vikas Colony, Indira Nagar",
+    "latitude": 26.215993599999997,
+    "longitude": 81.2462122,
+    "place_id": "ChIJq6pGdzqhmzkRKFKj72dJ-qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6pGdzqhmzkRKFKj72dJ-qY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:17"
+  },
+  {
+    "business_name": "Kalika Chulha Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Fast food restaurant",
+    "pincode": "225206",
+    "phone_number": "+91 73173 74000",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Faizabad - Lucknow Hwy, Opposite Hyundai SHowroom, Faizabad, Uttar Pradesh 224001",
+    "area": "225206",
+    "latitude": 26.766682,
+    "longitude": 82.1001216,
+    "place_id": "ChIJl69cjIkFmjkR4fOybEbjJJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl69cjIkFmjkR4fOybEbjJJ8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:17"
+  }
+]

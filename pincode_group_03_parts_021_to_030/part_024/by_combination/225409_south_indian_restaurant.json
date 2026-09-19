@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anna's Dosa - Lulu Mall",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "225409",
+    "phone_number": "+91 95555 25991",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 499,
+    "address": "2nd Floor, Food Court, Lulu Mall, Golf City, Lucknow, Hariharpur, Uttar Pradesh 226030",
+    "area": "Golf City",
+    "latitude": 26.7847765,
+    "longitude": 80.9917408,
+    "place_id": "ChIJ-8vM02TlmzkRtPs82io_BDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8vM02TlmzkRtPs82io_BDg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:28:17"
+  },
+  {
+    "business_name": "SOUTH INDIAN RAMAN DOSA",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Indian restaurant",
+    "pincode": "225409",
+    "phone_number": "+91 99775 30840",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 288,
+    "address": "Near chappan bhogh mithai shop, Sadar Bazaar, Cantonment, Lucknow, Uttar Pradesh 226002",
+    "area": "Sadar Bazaar, Cantonment",
+    "latitude": 26.8276564,
+    "longitude": 80.945081,
+    "place_id": "ChIJ04yPEWb9mzkRyVUb1YUZMXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04yPEWb9mzkRyVUb1YUZMXU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:28:17"
+  }
+]

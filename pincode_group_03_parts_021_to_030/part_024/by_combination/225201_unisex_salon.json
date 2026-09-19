@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakme",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "225201",
+    "phone_number": "+91 1800 123 1952",
+    "website": "https://www.lakmesalon.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "A, 1026, Shalimar Chauraha, near sri ram hospital, A Block, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "A Block, Indira Nagar",
+    "latitude": 26.8774601,
+    "longitude": 80.9786487,
+    "place_id": "ChIJ21CD4FD9mzkRuEGq1htF94w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21CD4FD9mzkRuEGq1htF94w",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:58:27"
+  },
+  {
+    "business_name": "Arman Hair Cutting",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "225201",
+    "phone_number": "+91 97217 43568",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arman HairCutting Saloon Ashokpur Ramanagar Barabanki 225202, Uttar Pradesh 225205",
+    "area": "225201",
+    "latitude": 27.089166,
+    "longitude": 81.3459616,
+    "place_id": "ChIJkw-F2lx7mTkRgAE6NsVGPN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkw-F2lx7mTkRgAE6NsVGPN0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:58:27"
+  }
+]

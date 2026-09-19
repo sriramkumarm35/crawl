@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Hospitality Solutions",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "225303",
+    "phone_number": "+91 88676 94574",
+    "website": "https://www.urbanhospitalitysolutions.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "2nd Floor, No 513/1, 80 Feet Rd, Nanjappa Reddy Layout, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "Nanjappa Reddy Layout, Koramangala 8th Block, Koramangala",
+    "latitude": 12.9417438,
+    "longitude": 77.62152429999999,
+    "place_id": "ChIJ8wtFARkVrjsRjguBcGErDxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wtFARkVrjsRjguBcGErDxs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:15:42"
+  },
+  {
+    "business_name": "WRaP Hospitality Services Private Limited",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Career guidance service, Hospitality and tourism school, Professional and hobby associations, Student career counseling office",
+    "pincode": "225303",
+    "phone_number": "+91 98203 55826",
+    "website": "http://www.wraphospitality.co.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "F/12 Neighbourhood Complex, First Floor, besides Rasoi Restaurant and, near SBI Bank, Sector 4, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Vinu Veena CHS, Sector 4, Nerul",
+    "latitude": 19.0441566,
+    "longitude": 73.0120851,
+    "place_id": "ChIJ7_IxtDDD5zsRlegSlf_3X5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_IxtDDD5zsRlegSlf_3X5s",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:15:43"
+  }
+]

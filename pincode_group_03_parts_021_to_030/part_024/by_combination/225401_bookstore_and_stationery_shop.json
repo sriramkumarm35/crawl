@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Student Stationery and sports shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "225401",
+    "phone_number": "+91 63935 81895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "7WMP+QCF, Karchana, Ghatwa, Uttar Pradesh 212301",
+    "area": "225401",
+    "latitude": 25.284432199999998,
+    "longitude": 81.936043,
+    "place_id": "ChIJBacjdwBJhTkRdYvtIvnG3lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBacjdwBJhTkRdYvtIvnG3lM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:35"
+  },
+  {
+    "business_name": "Student Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "225401",
+    "phone_number": "+91 94158 82282",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "627M+3WR, Renukoot, Uttar Pradesh 231217",
+    "area": "225401",
+    "latitude": 24.2127277,
+    "longitude": 83.0347551,
+    "place_id": "ChIJ0zd7uFfajjkRr4e_zTnN4n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zd7uFfajjkRr4e_zTnN4n0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:35"
+  }
+]

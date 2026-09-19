@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakhar Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, FMCG Goods Wholesaler, Food products supplier, Hotel supply store, Restaurant supply store, Wholesale Food Store, Wholesaler",
+    "pincode": "226006",
+    "phone_number": "+91 70247 88478",
+    "website": "https://prakharfoods.com/",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "327/38Mangal, Udhyog Nagar, Palda, Indore, Madhya Pradesh 452001",
+    "area": "Udhyog Nagar, Palda",
+    "latitude": 22.6859383,
+    "longitude": 75.8989667,
+    "place_id": "ChIJ7coTv43jYjkRch6LH6CK1nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7coTv43jYjkRch6LH6CK1nA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:48:02"
+  },
+  {
+    "business_name": "Radius Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Frozen food manufacturer, Grocery delivery service, Wholesaler",
+    "pincode": "226006",
+    "phone_number": "+91 84508 57007",
+    "website": "https://radius-foods.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "736 - B, near BABA KHATU SHYAM MANDIR, Scheme No 136, Vijay Nagar, Bulandshahr, Scheme Number 136, Indore, Madhya Pradesh 452010",
+    "area": "Scheme No 136, Vijay Nagar, Bulandshahr, Scheme Number 136",
+    "latitude": 22.767809099999997,
+    "longitude": 75.88194539999999,
+    "place_id": "ChIJT6xED0cDYzkRUzNLuOzONfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6xED0cDYzkRUzNLuOzONfU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:48:02"
+  }
+]

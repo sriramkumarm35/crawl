@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "225412",
+    "phone_number": "+91 93365 90510",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Xyz, Salmani House, Road, Salmani Mohalla, Bansa, Barabanki, Uttar Pradesh 225204",
+    "area": "Salmani Mohalla",
+    "latitude": 26.960943,
+    "longitude": 81.3425663,
+    "place_id": "ChIJsyiTJvp9mTkRAy0KHB4RvqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyiTJvp9mTkRAy0KHB4RvqI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:29:44"
+  },
+  {
+    "business_name": "Raju Verma",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "225412",
+    "phone_number": "+91 98388 82987",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zaidpur To Udhauli Road, Bahadur Pur, Barabanki, Uttar Pradesh 225414",
+    "area": "225412",
+    "latitude": 26.8468217,
+    "longitude": 81.3728996,
+    "place_id": "ChIJ62gpTKLXmzkRzWHSMFOutk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62gpTKLXmzkRzWHSMFOutk4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:29:45"
+  }
+]

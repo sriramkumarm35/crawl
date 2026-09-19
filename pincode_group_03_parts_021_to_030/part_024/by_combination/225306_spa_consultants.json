@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Evamastu Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Foot massage parlor, Massage spa, Massage therapist, Spa and health club, Thai massage therapist, Wellness center",
+    "pincode": "225306",
+    "phone_number": "+91 77558 64345",
+    "website": "https://evamastuspa.com/",
+    "rating": 4.9,
+    "reviews_count": 211,
+    "address": "Husariya Chauraha, 2/18, Shaheed Chandrashekhar Azad Chowk, Vinay Khand 3, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vinay Khand 3, Gomti Nagar",
+    "latitude": 26.851932899999998,
+    "longitude": 81.0068697,
+    "place_id": "ChIJC0L8D-DjmzkRUT8slaMAu3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0L8D-DjmzkRUT8slaMAu3A",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:20:41"
+  },
+  {
+    "business_name": "SPA consultants",
+    "search_category": "Spa Consultants",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "225306",
+    "phone_number": "+91 33 2486 4474",
+    "website": "http://spaconsultant.co.in/contact_us.aspx",
+    "rating": null,
+    "reviews_count": null,
+    "address": "53, Justice Chandra Madhab Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Sreepally, Bhowanipore",
+    "latitude": 22.5359473,
+    "longitude": 88.3492242,
+    "place_id": "ChIJoSTyODx3AjoRKYkhvQzHxuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSTyODx3AjoRKYkhvQzHxuk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:20:42"
+  }
+]

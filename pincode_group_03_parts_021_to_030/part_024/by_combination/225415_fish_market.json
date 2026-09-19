@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hadai Bazaar",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "225415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "XH5F+C6P, Kasba Ichauli, Uttar Pradesh 225415",
+    "area": "225415",
+    "latitude": 26.9585822,
+    "longitude": 81.5730823,
+    "place_id": "ChIJTTtDCeWAmTkREf9OJGzkIZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTtDCeWAmTkREf9OJGzkIZQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:34:53"
+  },
+  {
+    "business_name": "Ranikatra Market",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "225415",
+    "phone_number": "+91 76079 23309",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Bibia Pur, Uttar Pradesh 225415",
+    "area": "225415",
+    "latitude": 26.973697899999998,
+    "longitude": 81.5274479,
+    "place_id": "ChIJvVMGMM6BmTkRrvK8biIJjWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVMGMM6BmTkRrvK8biIJjWw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:34:53"
+  }
+]

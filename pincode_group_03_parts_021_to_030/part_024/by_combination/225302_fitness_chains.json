@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Formula Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler, Exercise equipment store, Gym, Repair service",
+    "pincode": "225302",
+    "phone_number": "+91 86042 75460",
+    "website": "http://formulafitnessindia.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "71, near Lohia Path, opposite Lucknow Cancer Institute, Manas Nagar, Manas Nagar Colony, Jiamau, Lucknow, Uttar Pradesh 226001",
+    "area": "Manas Nagar, Manas Nagar Colony, Jiamau",
+    "latitude": 26.846594399999997,
+    "longitude": 80.9607651,
+    "place_id": "ChIJPXk8zUj9mzkRLHskI23sQWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXk8zUj9mzkRLHskI23sQWo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:27"
+  },
+  {
+    "business_name": "Extreme Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Aerobics Class, Gymnastics center",
+    "pincode": "225302",
+    "phone_number": "+91 81888 88788",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 354,
+    "address": "Paradise Plam, IIM Rd, near Hanuman Mandir, opposite Raipur, Madiyanva, Lucknow, Uttar Pradesh 226013",
+    "area": "Madiyanva",
+    "latitude": 26.9307712,
+    "longitude": 80.9249452,
+    "place_id": "ChIJjya2pPdWmTkRGsCgYL5Ehz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjya2pPdWmTkRGsCgYL5Ehz0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:28"
+  }
+]

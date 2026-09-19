@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nursing Station",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing agency",
+    "all_categories": "Nursing agency",
+    "pincode": "225401",
+    "phone_number": "+91 99443 34454",
+    "website": "https://www.nursingstation.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "136/1, Melakkal Rd, near Passport Office, opposite to Asai Bakery Tea Shop, Kochadai, Madurai, Tamil Nadu 625016",
+    "area": "Kochadai",
+    "latitude": 9.9377216,
+    "longitude": 78.0856294,
+    "place_id": "ChIJzS0moC_PADsR3RlICq9LG3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzS0moC_PADsR3RlICq9LG3I",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:53"
+  },
+  {
+    "business_name": "Nursing Station Surgicals",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "225401",
+    "phone_number": "+91 99767 83123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/1, Bypass Rd, Sakthi Velammal Nagar, Ponni Nagar, Kalavasal, Madurai, Tamil Nadu 625016",
+    "area": "Sakthi Velammal Nagar, Ponni Nagar, Kalavasal",
+    "latitude": 9.9268105,
+    "longitude": 78.0948004,
+    "place_id": "ChIJcSefTjDPADsR2dlpN4FblkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSefTjDPADsR2dlpN4FblkM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:53"
+  }
+]

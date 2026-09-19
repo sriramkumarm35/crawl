@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "225413",
+    "phone_number": "+91 88403 27196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Barabanki, Haidergarh Rd, Nai Sadak Tiraha, Uttar Pradesh 225416",
+    "area": "225413",
+    "latitude": 26.6832519,
+    "longitude": 81.4254555,
+    "place_id": "ChIJs_XaShDPmzkRgDjobolW44w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_XaShDPmzkRgDjobolW44w",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:28"
+  },
+  {
+    "business_name": "Shivansh Kirana And General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "225413",
+    "phone_number": "+91 70046 73917",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Preet Vihar Colony, Civil Lines",
+    "latitude": 26.927023,
+    "longitude": 81.1820122,
+    "place_id": "ChIJ84dFotZhmTkRSrbI-CiN-IU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84dFotZhmTkRSrbI-CiN-IU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:30"
+  }
+]

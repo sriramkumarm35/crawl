@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Majelo cafe and family restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "11, Lakhpedabagh Rd, Lakhpedabagh, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Lakhpedabagh",
+    "latitude": 26.9206777,
+    "longitude": 81.1860935,
+    "place_id": "ChIJfWhPFwBhmTkRhW7InfKWzK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWhPFwBhmTkRhW7InfKWzK0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:11"
+  },
+  {
+    "business_name": "The Sky House (Open Terrace Restaurant)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "RTO office Road, beside Shri Gandhi Ashram, Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Preet Vihar Colony, Civil Lines",
+    "latitude": 26.922405899999998,
+    "longitude": 81.17440739999999,
+    "place_id": "ChIJT0AXwx9hmTkRXEzNphb5EgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0AXwx9hmTkRXEzNphb5EgQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:12"
+  }
+]

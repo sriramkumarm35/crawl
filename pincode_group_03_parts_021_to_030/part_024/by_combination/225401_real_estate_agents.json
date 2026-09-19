@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property selling and buying",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Commercial agent",
+    "all_categories": "Commercial agent, Service establishment",
+    "pincode": "225401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Property selling and buying, 225401, India",
+    "area": "225401",
+    "latitude": 27.1381928,
+    "longitude": 80.8593042,
+    "place_id": "ChIJ4RM2QXzDdTkRPq_oyyO7i-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RM2QXzDdTkRPq_oyyO7i-4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:50"
+  },
+  {
+    "business_name": "Wanda Vazquez, REALTOR®",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "225401",
+    "phone_number": "N/A",
+    "website": "https://www.wandavazquez.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Wanda Vazquez, REALTOR®, 225401, India",
+    "area": "225401",
+    "latitude": 30.146615999999998,
+    "longitude": -97.8497811,
+    "place_id": "ChIJAUsCYum1RIYRZRIYQso7POo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUsCYum1RIYRZRIYQso7POo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:50"
+  }
+]

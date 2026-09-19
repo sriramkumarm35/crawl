@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sobha Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "225203",
+    "phone_number": "+91 98392 02931",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "W5HW+PRW, Dhanokhar Chauraha, Barabanki, Uttar Pradesh 225001",
+    "area": "Rasoolpur",
+    "latitude": 26.929365299999997,
+    "longitude": 81.1970688,
+    "place_id": "ChIJGWTEXE9gmTkR72YS6TszCAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWTEXE9gmTkR72YS6TszCAU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:07"
+  },
+  {
+    "business_name": "EVER FRESH BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225203",
+    "phone_number": "+91 98397 66176",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 11,
+    "address": "Vishvkarma Mandir Ke Samne, Lakhpedabagh Rd, Lakhpedabagh, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Lakhpedabagh",
+    "latitude": 26.9228015,
+    "longitude": 81.1881102,
+    "place_id": "ChIJT58X70FhmTkRJtN0H8ao6sY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT58X70FhmTkRJtN0H8ao6sY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:09"
+  }
+]

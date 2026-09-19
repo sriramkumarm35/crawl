@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Nishad",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "225405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RFQ6+MVW, Kotwa Sarak, Sohil, Uttar Pradesh 225405",
+    "area": "225405",
+    "latitude": 26.839232,
+    "longitude": 81.4622112,
+    "place_id": "ChIJHSNCVQDVmzkRwCQRBEz84CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSNCVQDVmzkRwCQRBEz84CU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:26:29"
+  },
+  {
+    "business_name": "Rural Farmer Marketing and Development Producer company Limited",
+    "search_category": "Fish Market",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "225405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "VFV4+CV5 Pure Pandit, Hamidnagar, Uttar Pradesh 225405",
+    "area": "225405",
+    "latitude": 26.893521999999997,
+    "longitude": 81.4572196,
+    "place_id": "ChIJdVqTSQDVmzkRhnYx8DmnfXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVqTSQDVmzkRhnYx8DmnfXE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:26:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE CAPPUCCINO",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "225208",
+    "phone_number": "+91 93053 27027",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "JQ77+CP7, Jalalpur, Mahimapur, Uttar Pradesh 222136",
+    "area": "225208",
+    "latitude": 25.613544599999997,
+    "longitude": 82.7642906,
+    "place_id": "ChIJ73dTYwAvkDkR5Azhz7hi8jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73dTYwAvkDkR5Azhz7hi8jc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:09:36"
+  },
+  {
+    "business_name": "Coffee Town Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "225208",
+    "phone_number": "+91 94388 51402",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 26,
+    "address": "Shop No-04, OM COMPLEX, Damodar Vihar W Ln, near Gajapati Stadium, Paralakhemundi, Odisha 761200",
+    "area": "225208",
+    "latitude": 18.773041,
+    "longitude": 84.1074594,
+    "place_id": "ChIJ9TjHQOz5PDoRft-lAtu-ak0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TjHQOz5PDoRft-lAtu-ak0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:09:37"
+  }
+]

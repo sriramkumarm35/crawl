@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Free Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "226007",
+    "phone_number": "+91 88586 34662",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "C-36, Kapoorthla, Bara Chandganj, Sector A, Chandralok, Lucknow, Uttar Pradesh 226024",
+    "area": "Kapoorthla, Bara Chandganj, Sector A, Chandralok",
+    "latitude": 26.8816237,
+    "longitude": 80.9469817,
+    "place_id": "ChIJ64UZcgD9mzkRqVU37Bljdts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64UZcgD9mzkRqVU37Bljdts",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:56"
+  },
+  {
+    "business_name": "SSC CHAIWALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar",
+    "pincode": "226007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Arif Chambers -1, Kapoorthala Road, Kapoorthla, Sector A, Chandralok, Lucknow, Uttar Pradesh 226024",
+    "area": "Kapoorthla, Sector A, Chandralok",
+    "latitude": 26.882631099999998,
+    "longitude": 80.9463896,
+    "place_id": "ChIJZ8RtBgD9mzkRbHsSjy3WLvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8RtBgD9mzkRbHsSjy3WLvg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MARKS & ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "226006",
+    "phone_number": "+91 94150 22216",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22, Gokhale Marg, Gokhale Vihar, Butler Colony, Lucknow, Uttar Pradesh 226001",
+    "area": "Gokhale Marg, Gokhale Vihar, Butler Colony",
+    "latitude": 26.857955699999998,
+    "longitude": 80.9565568,
+    "place_id": "ChIJoVdNSQD9mzkR7lKOa1Z-URE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVdNSQD9mzkR7lKOa1Z-URE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:27"
+  },
+  {
+    "business_name": "Sahai & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "226006",
+    "phone_number": "+91 81129 69977",
+    "website": "https://sahaiandassociates.in/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "537F/124A plot no-27, IIM Rd, behind maharishi University, Indrapuri Colony, Lucknow, Uttar Pradesh 226001",
+    "area": "Indrapuri Colony, Narhi, Hazratganj",
+    "latitude": 26.84903,
+    "longitude": 80.947994,
+    "place_id": "ChIJU7ZFaqBXmTkR6tdhqgeG6AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7ZFaqBXmTkR6tdhqgeG6AI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:30"
+  }
+]

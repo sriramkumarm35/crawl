@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Delhi fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "225205",
+    "phone_number": "+91 95820 26051",
+    "website": "https://raj-delhi-fashion.grexa.site/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ramnagar, Uttar Pradesh 225205",
+    "area": "225205",
+    "latitude": 27.0857673,
+    "longitude": 81.4042577,
+    "place_id": "ChIJQ6L5EYh7mTkRLSauu8sqrHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6L5EYh7mTkRLSauu8sqrHo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:45"
+  },
+  {
+    "business_name": "Ansari cloth house",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Saree Shop",
+    "pincode": "225205",
+    "phone_number": "+91 78602 00050",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Sundhiyamau, Surihamau, Uttar Pradesh 225205",
+    "area": "225205",
+    "latitude": 27.1258658,
+    "longitude": 81.2974516,
+    "place_id": "ChIJmfP8wqdvmTkRe2x3SPED9J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfP8wqdvmTkRe2x3SPED9J0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:46"
+  }
+]

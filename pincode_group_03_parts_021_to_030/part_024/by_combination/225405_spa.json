@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Clinic",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "225405",
+    "phone_number": "+91 81277 48410",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sirauli, Road, Mahmooda Bad, Uttar Pradesh 225405",
+    "area": "225405",
+    "latitude": 26.9179478,
+    "longitude": 81.44252569999999,
+    "place_id": "ChIJ5b5IYa1_mTkR3Y56p_CkAWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5b5IYa1_mTkR3Y56p_CkAWU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:17"
+  },
+  {
+    "business_name": "Ghosi mau",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "225405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 58,
+    "address": "Sultanpur, Tikra, Uttar Pradesh 225409",
+    "area": "225405",
+    "latitude": 26.703148,
+    "longitude": 81.4971439,
+    "place_id": "ChIJoxEiagCHkTkRydhbSWM_Oug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxEiagCHkTkRydhbSWM_Oug",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:20"
+  }
+]

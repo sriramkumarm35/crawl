@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Akhilesh pandey",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "225409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MCHQ+726, Deori, Uttar Pradesh 225416",
+    "area": "225409",
+    "latitude": 26.678172399999998,
+    "longitude": 81.4375125,
+    "place_id": "ChIJpyomIQDNmzkRHdi-Y9nqhC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyomIQDNmzkRHdi-Y9nqhC8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:29:02"
+  },
+  {
+    "business_name": "Raahat Wellness Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "225409",
+    "phone_number": "+91 87793 68545",
+    "website": "https://raahat.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "flat 01/02, Panorama Park, Raahat Wellness Center, D wing, Ashok Van, Dahisar East, Mumbai, Maharashtra 400068",
+    "area": "Shreenath Nagar, Ashok Van, Dahisar East",
+    "latitude": 19.2435297,
+    "longitude": 72.8655887,
+    "place_id": "ChIJ_Uko4B6x5zsRR29MHvgocrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Uko4B6x5zsRR29MHvgocrY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:29:04"
+  }
+]

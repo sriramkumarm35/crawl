@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Chimney services, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "225404",
+    "phone_number": "+91 91203 83840",
+    "website": "http://www.smartserviceschunar.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chunar Fort Rd, line, Bharpur, Chunar, Uttar Pradesh 231304",
+    "area": "line",
+    "latitude": 25.121971499999997,
+    "longitude": 82.8785475,
+    "place_id": "ChIJNeHlfCrLjzkRo36raA7hgr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeHlfCrLjzkRo36raA7hgr4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:31"
+  },
+  {
+    "business_name": "Sterling appliances repair ac refrigerator washing Machine repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Commercial refrigerator supplier, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "225404",
+    "phone_number": "+91 83415 98851",
+    "website": "https://www.sterlingappliancesrepair.in/",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Rajeev Gandhi nagar, Plot no 59 &60, Nizampet Rd, Bachupally, Hyderabad, Telangana 500118",
+    "area": "Bachupally",
+    "latitude": 17.5280731,
+    "longitude": 78.36693509999999,
+    "place_id": "ChIJbxpkMGCNyzsRisLUV0kL-90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxpkMGCNyzsRisLUV0kL-90",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:32"
+  }
+]

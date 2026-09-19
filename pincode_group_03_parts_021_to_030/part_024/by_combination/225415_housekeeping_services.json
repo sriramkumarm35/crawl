@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOME DOOT",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Facial spa, Home help service agency, HVAC contractor, Pest control service, Upholstery cleaning service",
+    "pincode": "225415",
+    "phone_number": "+91 77386 70114",
+    "website": "https://www.homedoot.com/",
+    "rating": 4.6,
+    "reviews_count": 536,
+    "address": "Shop no.3, Matoshree Chs, Plot No.31, Sector 11, Kamothe, Panvel, Navi Mumbai, Panvel, Maharashtra 410209",
+    "area": "Sector 11, Kamothe, Panvel",
+    "latitude": 19.019765,
+    "longitude": 73.0901803,
+    "place_id": "ChIJQ7NnrWnp5zsR2SlhLopAlJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7NnrWnp5zsR2SlhLopAlJM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:36:12"
+  },
+  {
+    "business_name": "Deep Cleaning Expert",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "225415",
+    "phone_number": "+91 75179 13684",
+    "website": "https://www.deepcleaningexpert.com/",
+    "rating": 4.9,
+    "reviews_count": 71,
+    "address": "1st floor, office, Mangalam chambers, 11, Paud Rd, nr. Abhyudya bank bldg, Mahaganesh Colony, Kothrud, Pune, Maharashtra 411038",
+    "area": "Mahaganesh Colony, Kothrud",
+    "latitude": 18.5091762,
+    "longitude": 73.82230919999999,
+    "place_id": "ChIJPWDXGR6_wjsRULFNdauLtgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWDXGR6_wjsRULFNdauLtgg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:36:12"
+  }
+]

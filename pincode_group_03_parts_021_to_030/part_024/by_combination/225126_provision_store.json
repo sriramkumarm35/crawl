@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Cosmetic & General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "225126",
+    "phone_number": "+91 89579 63621",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stop, Sultanpur Rd, Bhilwal, Makan Pur, Uttar Pradesh 225126",
+    "area": "225126",
+    "latitude": 26.6995923,
+    "longitude": 81.2471039,
+    "place_id": "ChIJgTv976PDmzkRWpcsr7visKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTv976PDmzkRWpcsr7visKs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:55:37"
+  },
+  {
+    "business_name": "Manoj General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "225126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dayalganj Haidergarh, Dayalganj, Haidargarh, Uttar Pradesh 225124",
+    "area": "225126",
+    "latitude": 26.5880214,
+    "longitude": 81.2868091,
+    "place_id": "ChIJc8zwRfvHmzkREyUGM2obEbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8zwRfvHmzkREyUGM2obEbw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:55:39"
+  }
+]

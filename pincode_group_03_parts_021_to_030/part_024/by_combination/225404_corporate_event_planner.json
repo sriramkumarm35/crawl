@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Event Planner in Noida",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Balloon artist, Caterer, Event planner, Event venue, Wedding planner",
+    "pincode": "225404",
+    "phone_number": "+91 88600 49059",
+    "website": "https://www.besteventplannerinnoida.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D 16/g, Centurion low rise apartment, Tech Zone IV, Amrapali Dream Valley, Greater Noida, Uttar Pradesh 201318",
+    "area": "Tech Zone IV, Amrapali Dream Valley",
+    "latitude": 28.597142899999998,
+    "longitude": 77.4420541,
+    "place_id": "ChIJaeXZszHvDDkRPpb36m8VPoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeXZszHvDDkRPpb36m8VPoE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:50"
+  },
+  {
+    "business_name": "Dzira Luxury Weddings",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "225404",
+    "phone_number": "+91 75676 23969",
+    "website": "http://dzireeventsmanagement.in/",
+    "rating": 4.8,
+    "reviews_count": 53,
+    "address": "Office No.511, Urjanagar 1, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Urjanagar 1, Kudasan",
+    "latitude": 23.184824499999998,
+    "longitude": 72.63086919999999,
+    "place_id": "ChIJT-ZMEAArXDkR4sow2UwnJNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-ZMEAArXDkR4sow2UwnJNo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:25:52"
+  }
+]

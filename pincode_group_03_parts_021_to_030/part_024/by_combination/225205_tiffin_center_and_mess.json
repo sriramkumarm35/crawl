@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GrubHub Tiffin Services",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Meal delivery, Takeout restaurant, Restaurant, Restaurant supply store",
+    "pincode": "225205",
+    "phone_number": "+91 70808 88178",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "GrubHub Tiffin Services, B 16, Raibareli Rd, near SBI, South City, Lucknow, Uttar Pradesh 226002",
+    "area": "South City",
+    "latitude": 26.771283699999998,
+    "longitude": 80.9422895,
+    "place_id": "ChIJb8D94jP7mzkRtJDimxjl_1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8D94jP7mzkRtJDimxjl_1Y",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:33"
+  },
+  {
+    "business_name": "Khana factory tiffin center and service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, Food & Beverage Exporter",
+    "pincode": "225205",
+    "phone_number": "+91 82092 49097",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 290,
+    "address": "E-46, Nandpuri Colony, Ramnagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Nandpuri Colony, Ramnagar",
+    "latitude": 26.8937918,
+    "longitude": 75.78106489999999,
+    "place_id": "ChIJeYCPyu-1bTkRmamizo1U3zQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYCPyu-1bTkRmamizo1U3zQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:34"
+  }
+]

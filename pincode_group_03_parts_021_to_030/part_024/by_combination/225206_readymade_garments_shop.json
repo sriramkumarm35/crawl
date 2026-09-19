@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "225206",
+    "phone_number": "+91 78009 99195",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "Mohsand, Uttar Pradesh 225302",
+    "area": "225206",
+    "latitude": 27.091043199999998,
+    "longitude": 81.0589124,
+    "place_id": "ChIJEa52KrpEmTkRo62JX6Of1j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa52KrpEmTkRo62JX6Of1j4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:19"
+  },
+  {
+    "business_name": "Ansari Cloth And Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "225206",
+    "phone_number": "+91 96705 87331",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Barethi, Uttar Pradesh 225301",
+    "area": "225206",
+    "latitude": 26.9680742,
+    "longitude": 81.121071,
+    "place_id": "ChIJEW_hvmFemTkRiXasg5xox8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW_hvmFemTkRiXasg5xox8I",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:19"
+  }
+]

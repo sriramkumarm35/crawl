@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abdul Hadi shoe shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "225205",
+    "phone_number": "+91 99181 82029",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 11, Begum Gunj, Barel, Barabanki, Uttar Pradesh 225001",
+    "area": "Begum Gunj",
+    "latitude": 26.928801999999997,
+    "longitude": 81.19144829999999,
+    "place_id": "ChIJmzgn0_1hmTkR4Sq2BhbRB2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzgn0_1hmTkR4Sq2BhbRB2k",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:41"
+  },
+  {
+    "business_name": "Bata Shoe Store - Gomti Nagar, Lucknow",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Belt shop, Boot store, Clothing store",
+    "pincode": "225205",
+    "phone_number": "+91 88604 80245",
+    "website": "https://stores.bata.com/bata-shoes-sandals-store-in-patrakarpuram-road-indira-nagar-lucknow",
+    "rating": 4.7,
+    "reviews_count": 2650,
+    "address": "No. GF, 4/487, Patrakarpuram Rd, opp. Vindeez Restaurant, Vivek Khand 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vivek Khand 4, Gomti Nagar",
+    "latitude": 26.853904999999997,
+    "longitude": 81.0002696,
+    "place_id": "ChIJi8PQZXD9mzkRZN41if4E9cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8PQZXD9mzkRZN41if4E9cs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:42"
+  }
+]

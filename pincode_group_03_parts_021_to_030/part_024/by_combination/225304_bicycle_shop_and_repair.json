@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "225304",
+    "phone_number": "+91 85748 70043",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "mahmoodabad chauraha, Sidhauli, Uttar Pradesh 261303",
+    "area": "225304",
+    "latitude": 27.2753534,
+    "longitude": 80.8392195,
+    "place_id": "ChIJ5WUg4ro1mTkRharkcekV5go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WUg4ro1mTkRharkcekV5go",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:16:57"
+  },
+  {
+    "business_name": "FixMyCycle | Doorstep Cycle Service & Repair Chennai",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Service establishment",
+    "pincode": "225304",
+    "phone_number": "+91 95519 09111",
+    "website": "https://fixmycycle.com/cycle-service-chennai/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "FixMyCycle | Doorstep Cycle Service & Repair Chennai, 225304, India",
+    "area": "225304",
+    "latitude": 12.977164199999999,
+    "longitude": 80.16545719999999,
+    "place_id": "ChIJu4Lh_E9dUjoROpHAKlrM6mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4Lh_E9dUjoROpHAKlrM6mM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:00"
+  }
+]

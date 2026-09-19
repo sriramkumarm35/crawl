@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faizan General Stores",
+    "search_category": "General Store",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler",
+    "pincode": "225412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W9X2+C5X, Rahra Mau, Uttar Pradesh 225412",
+    "area": "225412",
+    "latitude": 26.9483586,
+    "longitude": 81.3504633,
+    "place_id": "ChIJcblzEgB9mTkRQQr4nikFYNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcblzEgB9mTkRQQr4nikFYNs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:29:49"
+  },
+  {
+    "business_name": "Pankaj general store Akbarpur",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "225412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V7F3+PC7, Barabanki, Uttar Pradesh 225121",
+    "area": "225412",
+    "latitude": 26.874244299999997,
+    "longitude": 81.2536557,
+    "place_id": "ChIJoXugrr_ZmzkRVBH8QADwoDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXugrr_ZmzkRVBH8QADwoDE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:29:51"
+  }
+]

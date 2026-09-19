@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE DETAILING STUDIO",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto painting, Auto radiator repair service, Auto repair shop",
+    "pincode": "225302",
+    "phone_number": "+91 70600 02080",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 96,
+    "address": "Meerut Rd, near to Vikas bhawan, Amba Vihar, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Amba Vihar",
+    "latitude": 29.4562851,
+    "longitude": 77.6968045,
+    "place_id": "ChIJjcWbpEsbDDkR3MK4i5lGLkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcWbpEsbDDkR3MK4i5lGLkQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:29"
+  },
+  {
+    "business_name": "Kataria Detailing Garage",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "225302",
+    "phone_number": "+91 70172 55247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 47,
+    "address": "587, near Indian Oil Petrol Pump, Phool Bagh Colony, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "area": "Phool Bagh Colony, Panchsheel Colony",
+    "latitude": 28.9777362,
+    "longitude": 77.724071,
+    "place_id": "ChIJyWVPY1llDDkRZXqRS01NAeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWVPY1llDDkRZXqRS01NAeI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:29"
+  }
+]

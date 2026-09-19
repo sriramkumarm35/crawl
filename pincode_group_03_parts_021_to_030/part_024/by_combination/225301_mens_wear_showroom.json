@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Looks",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "225301",
+    "phone_number": "+91 99197 17569",
+    "website": "http://www.facebook.com/fashionlooks.kursi",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bahraich - Lucknow Rd, Kursi, Uttar Pradesh 225302",
+    "area": "225301",
+    "latitude": 27.0601725,
+    "longitude": 81.0469047,
+    "place_id": "ChIJpV3iwztbmTkRzbitD5pr2h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpV3iwztbmTkRzbitD5pr2h4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:11:17"
+  },
+  {
+    "business_name": "Royal Outfit",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Women's clothing store",
+    "pincode": "225301",
+    "phone_number": "+91 80907 11072",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Lucknow - Colonelganj - Gonda Rd, opp. Dm campus, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Civil Lines",
+    "latitude": 26.9243718,
+    "longitude": 81.17879959999999,
+    "place_id": "ChIJ95MKvV5gmTkRdjK_B10CMLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95MKvV5gmTkRdjK_B10CMLM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:11:20"
+  }
+]

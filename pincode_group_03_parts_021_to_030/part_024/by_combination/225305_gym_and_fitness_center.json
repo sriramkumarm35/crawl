@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pumping Iron Premium Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "225305",
+    "phone_number": "+91 97952 23232",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bullet Chauhara, ATC Tower, Awas Vikas, Fatehpur, Uttar Pradesh 212601",
+    "area": "Awas Vikas",
+    "latitude": 25.9319836,
+    "longitude": 80.79823259999999,
+    "place_id": "ChIJAfkyP8ednDkRzFreZgKcA8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfkyP8ednDkRzFreZgKcA8s",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:18:32"
+  },
+  {
+    "business_name": "Balaji Fitness center Kumharawan",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "225305",
+    "phone_number": "+91 63927 09869",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Kumhrawan babaganj road, Kumhrava, Uttar Pradesh 226203",
+    "area": "225305",
+    "latitude": 27.0887985,
+    "longitude": 80.9737028,
+    "place_id": "ChIJjwGT02hPmTkRJIoc0hTTV4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwGT02hPmTkRJIoc0hTTV4M",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:18:35"
+  }
+]

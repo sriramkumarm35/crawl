@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bike Sales",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "226004",
+    "phone_number": "+91 98894 26150",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Gola Bazar, Gola Bazar, Mandir, Sadar Bazaar, Husainganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Sadar Bazaar, Husainganj",
+    "latitude": 26.8349573,
+    "longitude": 80.9398813,
+    "place_id": "ChIJ10N111T8mzkRuVhj8M3hEzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10N111T8mzkRuVhj8M3hEzc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:44:40"
+  },
+  {
+    "business_name": "Royal Enfield Showroom - Shreya Auto world Pvt Ltd",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "226004",
+    "phone_number": "+91 82917 23028",
+    "website": "https://dealers.royalenfield.com/uttar-pradesh/lucknow/adarsh-nagar-shreya-auto-world-pvt-ltd-9110052420?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "No 5A, Tedhi Pulia, Adarsh Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Tedhi Pulia, Adarsh Nagar, Alambagh",
+    "latitude": 26.8187781,
+    "longitude": 80.9103567,
+    "place_id": "ChIJ8-sNjD39mzkRTFFnsG29L7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8-sNjD39mzkRTFFnsG29L7c",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:44:42"
+  }
+]

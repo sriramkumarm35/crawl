@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PS3 IT Services",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "225416",
+    "phone_number": "+91 93057 38004",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Avas Vikas Barabanki, Awas Vikas Colony, Barabanki, Uttar Pradesh 225001",
+    "area": "Avas Vikas Barabanki, Awas Vikas Colony",
+    "latitude": 26.9202907,
+    "longitude": 81.1827359,
+    "place_id": "ChIJRTmYa0hhmTkR3ug7fVtj2ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTmYa0hhmTkR3ug7fVtj2ZQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:37:47"
+  },
+  {
+    "business_name": "Carlcare Service",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Phone repair service",
+    "all_categories": "Phone repair service, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "225416",
+    "phone_number": "+91 90449 94489",
+    "website": "https://ind-mis-carl.shalltry.com/carlcare_h5/repairs/build/#/order?source=INGMBonline",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "mugal darbaar, Rasheed Enclave, 1st floor, Nagar Pali, Barabanki, Uttar Pradesh 225001",
+    "area": "Nagar Pali",
+    "latitude": 26.929416999999997,
+    "longitude": 81.192247,
+    "place_id": "ChIJaRln7eBhmTkRGFp35HHKGKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRln7eBhmTkRGFp35HHKGKI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:37:49"
+  }
+]

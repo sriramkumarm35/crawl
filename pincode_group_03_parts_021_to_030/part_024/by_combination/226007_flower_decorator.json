@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Store",
+    "pincode": "226007",
+    "phone_number": "+91 94150 16862",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Kapoorthala Xing, Near Sahara India Bhawan, Sector F, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector F, Aliganj",
+    "latitude": 26.882123,
+    "longitude": 80.948148,
+    "place_id": "ChIJk8mjCH79mzkR2MBJhyOwmyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8mjCH79mzkR2MBJhyOwmyQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:54"
+  },
+  {
+    "business_name": "Artificial flower vendor",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "226007",
+    "phone_number": "+91 86045 45048",
+    "website": "https://forms.gle/Wow13hchZaZDewi48",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "C-1/472, Sector G, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector G, Jankipuram",
+    "latitude": 26.9103814,
+    "longitude": 80.9543182,
+    "place_id": "ChIJ-a5YDiNXmTkRtmdoZ3M6riA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-a5YDiNXmTkRtmdoZ3M6riA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:56"
+  }
+]

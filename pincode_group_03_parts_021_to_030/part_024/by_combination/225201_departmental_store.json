@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRADDHA TRADERS",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "225201",
+    "phone_number": "+91 94518 17200",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "near union inter College Patanshah market, Ramnagar, Burhwal, Uttar Pradesh 225205",
+    "area": "225201",
+    "latitude": 27.088127,
+    "longitude": 81.4003785,
+    "place_id": "ChIJV4sUinF6mTkRy7XbH2XLIkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4sUinF6mTkRy7XbH2XLIkU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:31"
+  },
+  {
+    "business_name": "Pawan Bartan Bhandar",
+    "search_category": "Departmental Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "225201",
+    "phone_number": "+91 88586 94127",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "PDL 00002, Badel Chauraha, Barail, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Barail",
+    "latitude": 26.9128765,
+    "longitude": 81.1985661,
+    "place_id": "ChIJX7nVFFNhmTkRXlaxfkMKDl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7nVFFNhmTkRXlaxfkMKDl4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvesh",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "225405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WC5G+7RQ, Saifpur, Uttar Pradesh 225412",
+    "area": "225405",
+    "latitude": 26.9082051,
+    "longitude": 81.4271103,
+    "place_id": "ChIJYyLfMADXmzkRLW4z1FKZEWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyLfMADXmzkRLW4z1FKZEWw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:26"
+  },
+  {
+    "business_name": "krishna patel girls hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "225405",
+    "phone_number": "+91 70071 46524",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "gurudev ,petrol pump line, 169, Lakhanpur Rd, in front of Gaytri Park, Vikas Nagar, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Vikas Nagar, Khyora",
+    "latitude": 26.4944117,
+    "longitude": 80.2822707,
+    "place_id": "ChIJjSaCaqI5nDkRF6z_eNB_Rm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSaCaqI5nDkRF6z_eNB_Rm8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:27"
+  }
+]

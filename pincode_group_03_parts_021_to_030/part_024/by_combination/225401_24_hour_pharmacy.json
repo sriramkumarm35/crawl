@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Niyazi Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225401",
+    "phone_number": "+91 79855 88206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JamuniyaBagh-Ayodhya Road, JamuniyaBagh, Jhanjhari, Khorsha, Uttar Pradesh 271123",
+    "area": "JamuniyaBagh",
+    "latitude": 27.0859313,
+    "longitude": 82.0273631,
+    "place_id": "ChIJpTJvfJXxmTkRM9CAju_Fudo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTJvfJXxmTkRM9CAju_Fudo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:49"
+  },
+  {
+    "business_name": "Prakash Medical Agency",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Resham pharam chouraha, Karanpur, Sarainya Chaubey, Uttar Pradesh 271125",
+    "area": "225401",
+    "latitude": 27.073734299999998,
+    "longitude": 81.8995087,
+    "place_id": "ChIJMQjZ2HfzmTkREfpNsUGcV3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQjZ2HfzmTkREfpNsUGcV3o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:49"
+  }
+]

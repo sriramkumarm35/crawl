@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "225403",
+    "phone_number": "+91 94531 81699",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abhinav Rcm Puc, Bhitariya Road, near Block, Dariyabad, Uttar Pradesh 225403",
+    "area": "225403",
+    "latitude": 26.8801389,
+    "longitude": 81.5510864,
+    "place_id": "ChIJPcHUT2IrmjkR7nFtx-tx6OI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcHUT2IrmjkR7nFtx-tx6OI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:23:05"
+  },
+  {
+    "business_name": "Rambabu pal [SHOP]",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "225403",
+    "phone_number": "+91 85273 99845",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Bani Konder, Uttar Pradesh 225409",
+    "area": "225403",
+    "latitude": 26.7925298,
+    "longitude": 81.5350926,
+    "place_id": "ChIJF2AwUQAtmjkRPRb0aOF5_ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2AwUQAtmjkRPRb0aOF5_ws",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:23:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Grocery delivery service",
+    "pincode": "225204",
+    "phone_number": "+91 97920 06234",
+    "website": "https://aroradepartmentalstore.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4/267, Vivek Khand 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vivek Khand 4, Gomti Nagar",
+    "latitude": 26.8547171,
+    "longitude": 80.9979468,
+    "place_id": "ChIJFaXNYs_imzkR4jwEUl7DzjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaXNYs_imzkR4jwEUl7DzjU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:02:46"
+  },
+  {
+    "business_name": "Daily Need Super Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "225204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "148-C, Manas Enclave, Chandanapur, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Manas Enclave, Chandanapur, Indira Nagar",
+    "latitude": 26.898069699999997,
+    "longitude": 80.99729049999999,
+    "place_id": "ChIJnVvVsxpYmTkRwY6wpv4EUSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVvVsxpYmTkRwY6wpv4EUSo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:02:46"
+  }
+]

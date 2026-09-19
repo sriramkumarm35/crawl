@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Clinic",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "225415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3HJJ+MPG, Village -mauhar, post Mauhar, Uttar Pradesh 271311",
+    "area": "225415",
+    "latitude": 27.0816856,
+    "longitude": 81.58182459999999,
+    "place_id": "ChIJFTL-ApWDmTkRwtTNnc_Ts2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTL-ApWDmTkRwtTNnc_Ts2U",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:35:42"
+  },
+  {
+    "business_name": "Beauty Care Unisex Saloon & Spa",
+    "search_category": "Spa",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa",
+    "pincode": "225415",
+    "phone_number": "+91 81889 20023",
+    "website": "https://wa.me/917607271287/",
+    "rating": 3.9,
+    "reviews_count": 11,
+    "address": "2nd Floor, Nitco Building, Chauraha, Service Ln, Matiyari, Lucknow, Uttar Pradesh 226028",
+    "area": "Matiyari",
+    "latitude": 26.880962099999998,
+    "longitude": 81.0397476,
+    "place_id": "ChIJjz-xetvjmzkRlSHHUIKZ-n8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjz-xetvjmzkRlSHHUIKZ-n8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:35:43"
+  }
+]

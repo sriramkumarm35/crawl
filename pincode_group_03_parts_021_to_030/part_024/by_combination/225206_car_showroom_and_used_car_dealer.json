@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ani Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "225206",
+    "phone_number": "+91 94517 00070",
+    "website": "http://www.anicars.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ab Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Ab Nagar",
+    "latitude": 26.5332018,
+    "longitude": 80.4986189,
+    "place_id": "ChIJfwXvtSAVnDkR4hnfRBVsXcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwXvtSAVnDkR4hnfRBVsXcc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:40"
+  },
+  {
+    "business_name": "Royal Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Thrift store",
+    "pincode": "225206",
+    "phone_number": "+91 99193 11118",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "19,Mission, Stanley Rd, near Beli Hospital, Old Katra, Prayagraj, Uttar Pradesh 211002",
+    "area": "Dwarika Puri, Old Katra",
+    "latitude": 25.4693498,
+    "longitude": 81.84546089999999,
+    "place_id": "ChIJ-77Sw5LKmjkRIfmS35BH_UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-77Sw5LKmjkRIfmS35BH_UE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:40"
+  }
+]

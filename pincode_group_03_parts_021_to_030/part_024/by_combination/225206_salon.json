@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari",
+    "search_category": "Salon",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop, Service establishment",
+    "pincode": "225206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ansari, 225206, India",
+    "area": "225206",
+    "latitude": 26.882956,
+    "longitude": 80.8969475,
+    "place_id": "ChIJZVCNb-V9mTkR_QoC6u7AkXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVCNb-V9mTkR_QoC6u7AkXI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:56"
+  },
+  {
+    "business_name": "Samudayik Swasth Kendra",
+    "search_category": "Salon",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "X9QJ+P4F, Mohammadpur Bahun, Uttar Pradesh 225206",
+    "area": "225206",
+    "latitude": 26.9893212,
+    "longitude": 81.3803112,
+    "place_id": "ChIJndBa5Ih8mTkR8bmoaLe4DBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndBa5Ih8mTkR8bmoaLe4DBk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:06:56"
+  }
+]

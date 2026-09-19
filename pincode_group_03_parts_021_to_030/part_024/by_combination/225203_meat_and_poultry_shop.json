@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Meat wholesaler",
+    "pincode": "225203",
+    "phone_number": "+91 88811 64701",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2/674 A, Sector 2, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 2, Vikas Nagar",
+    "latitude": 26.8944071,
+    "longitude": 80.9555872,
+    "place_id": "ChIJ5akXxtpXmTkRmHxpzyECQx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5akXxtpXmTkRmHxpzyECQx4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:05"
+  },
+  {
+    "business_name": "Jethu Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "225203",
+    "phone_number": "+91 70074 88789",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop -4, Station Rd, Ghosiyana, Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Ghosiyana, Preet Vihar Colony, Civil Lines",
+    "latitude": 26.9308677,
+    "longitude": 81.18870869999999,
+    "place_id": "ChIJC2WsjuZhmTkR-U0puZflYxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2WsjuZhmTkR-U0puZflYxc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:01:05"
+  }
+]

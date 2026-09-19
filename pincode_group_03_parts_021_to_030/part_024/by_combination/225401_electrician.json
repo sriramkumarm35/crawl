@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Izhar electric workshop",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "225401",
+    "phone_number": "+91 87388 08895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Aliabad Chauraha, patanga road, Gulchappa Kalan, Uttar Pradesh 225401",
+    "area": "225401",
+    "latitude": 26.840256699999998,
+    "longitude": 81.6394633,
+    "place_id": "ChIJkYfuUQApmjkRoNUoDqxlNaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYfuUQApmjkRoNUoDqxlNaU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:12"
+  },
+  {
+    "business_name": "Shuaib Ailmunium And Glass",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "225401",
+    "phone_number": "+91 84878 51979",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aliyabad Chauraha Rd, Rudauli, Gulchappa Kalan, Uttar Pradesh 225403",
+    "area": "225401",
+    "latitude": 26.840196799999998,
+    "longitude": 81.63792769999999,
+    "place_id": "ChIJywyUNm4pmjkRUbGcoMVb1Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywyUNm4pmjkRUbGcoMVb1Og",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:12"
+  }
+]

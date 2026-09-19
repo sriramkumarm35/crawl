@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Market",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "226005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "RVFQ+366, Unnamed Road, Deep Manak Nagar, Manak Nagar, Alambagh, Lucknow, Uttar Pradesh 226011",
+    "area": "Deep Manak Nagar, Manak Nagar, Alambagh",
+    "latitude": 26.8226612,
+    "longitude": 80.888015,
+    "place_id": "ChIJk3Nqmgz_mzkRVK-ee2Br5UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3Nqmgz_mzkRVK-ee2Br5UE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:46:02"
+  },
+  {
+    "business_name": "T2 General Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "226005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "559KHA/354, Singar Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Singar Nagar, Alambagh",
+    "latitude": 26.8073607,
+    "longitude": 80.8922106,
+    "place_id": "ChIJTYuPO6L-mzkR_pUiyVFuaLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYuPO6L-mzkR_pUiyVFuaLs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:46:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aaryan Business Point",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "225412",
+    "phone_number": "+91 95196 91407",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 01, Jalalpur, Palhari, Uttar Pradesh 225412",
+    "area": "225412",
+    "latitude": 26.9132245,
+    "longitude": 81.3037179,
+    "place_id": "ChIJIQvmCTRjmTkR9yD7_Rrj3ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQvmCTRjmTkR9yD7_Rrj3ok",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:30:56"
+  },
+  {
+    "business_name": "CSC SHOP",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "225412",
+    "phone_number": "+91 98073 69689",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nawaz Pur, Pulia, Nawabpur, Uttar Pradesh 225413",
+    "area": "225412",
+    "latitude": 26.8111273,
+    "longitude": 81.3500846,
+    "place_id": "ChIJtVck-WrRmzkRcd9piC87M14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVck-WrRmzkRcd9piC87M14",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:30:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Satyam & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor, Chartered accountant, Consultant, Financial consultant, Tax consultant",
+    "pincode": "226003",
+    "phone_number": "+91 90442 62470",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, C-4023, Sector-10, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Sector-10, Rajajipuram",
+    "latitude": 26.845924699999998,
+    "longitude": 80.8874209,
+    "place_id": "ChIJezCLPmb_mzkRppZld8dMaFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezCLPmb_mzkRppZld8dMaFU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:43:43"
+  },
+  {
+    "business_name": "Naeem Khan & Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Accountant, Accounting firm, Auditor, Tax assessor, Tax consultant",
+    "pincode": "226003",
+    "phone_number": "+91 97214 56983",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "168/19, Old Nazirabad Rd, Old Nazirabad, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Old Nazirabad, Khayali Ganj, Aminabad",
+    "latitude": 26.8491146,
+    "longitude": 80.92758429999999,
+    "place_id": "ChIJP07-M_j9mzkRZwJlaO9C-vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP07-M_j9mzkRZwJlaO9C-vg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:43:43"
+  }
+]

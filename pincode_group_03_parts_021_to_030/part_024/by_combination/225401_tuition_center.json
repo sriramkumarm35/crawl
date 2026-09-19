@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UTTAR PRADESH KAUSHAL VIKAS MISSION",
+    "search_category": "Tuition Center",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "225401",
+    "phone_number": "+91 70070 27180",
+    "website": "http://www.upsdm.gov.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH927 SHAHABPUR CHAURAHA BARABANKI, Barabanki, Uttar Pradesh 225001",
+    "area": "Gandhi Nagar",
+    "latitude": 26.939999999999998,
+    "longitude": 81.19,
+    "place_id": "ChIJ9ZMKvV5gmTkR5xdoAwcy6os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZMKvV5gmTkR5xdoAwcy6os",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:34"
+  },
+  {
+    "business_name": "Ramarpit Mahavidyalaya",
+    "search_category": "Tuition Center",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "225401",
+    "phone_number": "+91 78002 36000",
+    "website": "https://www.ramarpitmahavidyalaya.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NEAR, KATWA SARAK, Gazipur, Uttar Pradesh 225405",
+    "area": "225401",
+    "latitude": 26.877657,
+    "longitude": 81.4665313,
+    "place_id": "ChIJcSNo0ajVmzkRTizVLkHFuBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSNo0ajVmzkRTizVLkHFuBM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:22:34"
+  }
+]

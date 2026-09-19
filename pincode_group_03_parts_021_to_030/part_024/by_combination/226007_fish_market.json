@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "226007",
+    "phone_number": "+91 93896 61661",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Daliganj Market, Daliganj Market, 486/85, Panna Lal Rd, Daliganj, Lucknow, Uttar Pradesh 226020",
+    "area": "Daliganj",
+    "latitude": 26.87276,
+    "longitude": 80.92774,
+    "place_id": "ChIJceoAaI79mzkRREZR5W8w2TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceoAaI79mzkRREZR5W8w2TI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:52"
+  },
+  {
+    "business_name": "Sai Fish Aquarium",
+    "search_category": "Fish Market",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "226007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RWMR+W48, Murli Nagar, Husainganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Murli Nagar, Husainganj",
+    "latitude": 26.8347879,
+    "longitude": 80.9403167,
+    "place_id": "ChIJF5jLEwD9mzkRb00qkM1FrV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5jLEwD9mzkRb00qkM1FrV0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:54"
+  }
+]

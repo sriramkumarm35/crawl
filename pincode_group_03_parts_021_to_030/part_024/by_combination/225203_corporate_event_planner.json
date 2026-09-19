@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fathabad Barail",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "225203",
+    "phone_number": "+91 63868 42472",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "319, Barail, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Barail",
+    "latitude": 26.9099467,
+    "longitude": 81.1995213,
+    "place_id": "ChIJQRHuFwBhmTkR-UbUrPnFPz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRHuFwBhmTkR-UbUrPnFPz4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:02:07"
+  },
+  {
+    "business_name": "Blessings",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "225203",
+    "phone_number": "+91 99181 48345",
+    "website": "https://theblessings.lovable.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Barabanki, Uttar Pradesh 225003",
+    "area": "225203",
+    "latitude": 26.915404,
+    "longitude": 81.16590049999999,
+    "place_id": "ChIJw-fPPgBhmTkRZYSggjUXGVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-fPPgBhmTkRZYSggjUXGVU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:02:08"
+  }
+]

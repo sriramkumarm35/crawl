@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The dream shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "225304",
+    "phone_number": "+91 73767 00023",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Dr kumar ke, bagal mittupur road, Jalalpur, Uttar Pradesh 224149",
+    "area": "225304",
+    "latitude": 26.308044499999998,
+    "longitude": 82.7370284,
+    "place_id": "ChIJjcuUIy35kDkRm4pP_jn1Rv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcuUIy35kDkRm4pP_jn1Rv8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:16:39"
+  },
+  {
+    "business_name": "Bata Shoe Store - Civil Lines, Barabanki",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Belt shop, Boot store, Clothing store",
+    "pincode": "225304",
+    "phone_number": "N/A",
+    "website": "https://stores.bata.com/bata-shoes-sandals-store-in-civil-lines-barabanki",
+    "rating": 3.8,
+    "reviews_count": 21,
+    "address": "No. C, 18/40/242, Dewa Rd, beside Punjab & Sind Bank, Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Preet Vihar Colony, Civil Lines",
+    "latitude": 26.9273448,
+    "longitude": 81.1834958,
+    "place_id": "ChIJu7sbTLxhmTkRXuK3V0uc-zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7sbTLxhmTkRXuK3V0uc-zc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:16:41"
+  }
+]

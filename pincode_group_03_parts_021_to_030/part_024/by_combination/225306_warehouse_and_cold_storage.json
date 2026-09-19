@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Cold Store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "225306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "742P+J56, Saraiya Daljit, Shaili Kiratpur, Uttar Pradesh 261203",
+    "area": "225306",
+    "latitude": 27.2515342,
+    "longitude": 81.135385,
+    "place_id": "ChIJ7QgRDwBBmTkRXFoPYEO2Cgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QgRDwBBmTkRXFoPYEO2Cgo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:17"
+  },
+  {
+    "business_name": "Jain cold storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "225306",
+    "phone_number": "+91 94153 29813",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12,
+    "address": "Road, Seluhamau, Belahra, Mahmudabad, Uttar Pradesh 261203",
+    "area": "Seluhamau",
+    "latitude": 27.257991999999998,
+    "longitude": 81.211376,
+    "place_id": "ChIJ9QDTMTRrmTkRBEyM4LjepHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QDTMTRrmTkRBEyM4LjepHQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:17"
+  }
+]

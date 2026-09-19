@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansi Cab Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Car leasing service, Car rental agency, Minibus taxi service, Tour agency, Tour operator, Travel agency",
+    "pincode": "225207",
+    "phone_number": "+91 85858 57798",
+    "website": "http://www.mansicab.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no.9, Amrutdham, Link Road, Bidi Kamgar Colony, Nashik, Maharashtra 422003",
+    "area": "Bidi Kamgar Colony",
+    "latitude": 20.009809399999998,
+    "longitude": 73.8261843,
+    "place_id": "ChIJaWYEfK7r3TsR3_tXjZ2xQtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWYEfK7r3TsR3_tXjZ2xQtE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:21"
+  },
+  {
+    "business_name": "Shri Siddhivinayak taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "225207",
+    "phone_number": "+91 96767 92912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TG 07 T 5663, Road number 6, L N Colony, Rajalingam Colony, Telephone Colony, Boduppal, Hyderabad, Telangana 500092",
+    "area": "L N Colony, Rajalingam Colony, Telephone Colony, Boduppal",
+    "latitude": 17.4294351,
+    "longitude": 78.5889938,
+    "place_id": "ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:21"
+  }
+]

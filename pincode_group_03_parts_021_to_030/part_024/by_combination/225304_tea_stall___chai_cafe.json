@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manohar Chai Nigohi",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "225304",
+    "phone_number": "+91 89485 55091",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bajaj Agency Ke Pas, Bisalpur Road, Nigohi, Uttar Pradesh 242407",
+    "area": "225304",
+    "latitude": 28.100972,
+    "longitude": 79.86408879999999,
+    "place_id": "ChIJDWbT-7iRnzkRSO6UiTsD1Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWbT-7iRnzkRSO6UiTsD1Ik",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:16:29"
+  },
+  {
+    "business_name": "Tea and household",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "225304",
+    "phone_number": "+91 90806 38197",
+    "website": "https://code-assets--rupoldevan.replit.app/",
+    "rating": 5,
+    "reviews_count": 93,
+    "address": "302/1 N.S.C.Bose Road, Ashok Ave, Kolkata, West Bengal 700092",
+    "area": "Sangati Colony, Netaji Nagar",
+    "latitude": 22.4758992,
+    "longitude": 88.3600317,
+    "place_id": "ChIJc1kkmmZxAjoRvGnLD0twUY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1kkmmZxAjoRvGnLD0twUY4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:16:29"
+  }
+]

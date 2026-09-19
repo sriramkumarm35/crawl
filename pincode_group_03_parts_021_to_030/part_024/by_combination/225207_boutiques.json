@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daffr Clothing",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "225207",
+    "phone_number": "N/A",
+    "website": "http://daffr.clothing/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2F67+PWG, Rasulpur, Uttar Pradesh 225207",
+    "area": "225207",
+    "latitude": 27.011696099999998,
+    "longitude": 81.46491809999999,
+    "place_id": "ChIJgUHLcQB5mTkR0h0pOZjv3YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUHLcQB5mTkR0h0pOZjv3YY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:05"
+  },
+  {
+    "business_name": "Abdulla Alam",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "225207",
+    "phone_number": "+91 88406 76718",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2F95 6H2, Badosarai, Uttar Pradesh 225207",
+    "area": "225207",
+    "latitude": 27.015592599999998,
+    "longitude": 81.4607168,
+    "place_id": "ChIJsaaH2uF5mTkR2tmN_Uf50E0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaaH2uF5mTkR2tmN_Uf50E0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:05"
+  }
+]

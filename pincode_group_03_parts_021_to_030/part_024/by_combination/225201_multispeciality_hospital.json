@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Surgical and Diagnostic Centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225201",
+    "phone_number": "+91 99356 08388",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "3CQ2 844, behind Jio Petrolpump, Ramnagar, Burhwal, Uttar Pradesh 225205",
+    "area": "225201",
+    "latitude": 27.0821471,
+    "longitude": 81.3924739,
+    "place_id": "ChIJL5YYBRV7mTkRqnmHCcNZf0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5YYBRV7mTkRqnmHCcNZf0Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:57"
+  },
+  {
+    "business_name": "Arpit Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Fatahabad, Haidergarh Rd, chauraha, Barel, Barabanki, Uttar Pradesh 225001",
+    "area": "chauraha, Barail",
+    "latitude": 26.9115318,
+    "longitude": 81.19900799999999,
+    "place_id": "ChIJrU6RHZxhmTkRmB2DkERWEUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrU6RHZxhmTkRmB2DkERWEUs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:57"
+  }
+]

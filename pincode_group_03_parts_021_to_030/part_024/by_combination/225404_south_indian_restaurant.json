@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SambharSa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "225404",
+    "phone_number": "+91 70434 71866",
+    "website": "https://sambharsa.com/",
+    "rating": 4.7,
+    "reviews_count": 1055,
+    "address": "ground floor, Siddharaj Z Square, Podar International School, Shop No. East-012A, Road, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.1750758,
+    "longitude": 72.6298479,
+    "place_id": "ChIJ6ZDpMzkrXDkRgr4N0fPsQLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZDpMzkrXDkRgr4N0fPsQLs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:24:54"
+  },
+  {
+    "business_name": "Kovallam Restaurant- The South Indian Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "225404",
+    "phone_number": "+91 76228 27115",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 777,
+    "address": "Siddharaj Z Square, Podar International School, Road, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.1748747,
+    "longitude": 72.6298561,
+    "place_id": "ChIJ10PG7vcrXDkRRo5ZmLhZpMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10PG7vcrXDkRRo5ZmLhZpMU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:24:56"
+  }
+]

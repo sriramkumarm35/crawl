@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Great Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "226007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No.19, Amber Market, near Amber hotel, Vijay Nagar, Naka Hindola, Lucknow, Uttar Pradesh 226004",
+    "area": "Vijay Nagar, Naka Hindola",
+    "latitude": 26.8355988,
+    "longitude": 80.9211693,
+    "place_id": "ChIJF1VVVdH9mzkR4w_LhpTfoM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1VVVdH9mzkR4w_LhpTfoM0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:51:12"
+  },
+  {
+    "business_name": "Hello Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "226007",
+    "phone_number": "+91 90446 94580",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Daliganj Crossing Rd, Triveni Nagar, Lucknow, Uttar Pradesh 226020",
+    "area": "Triveni Nagar",
+    "latitude": 26.880876999999998,
+    "longitude": 80.93032,
+    "place_id": "ChIJJbZYNob9mzkRumrVpihF9l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbZYNob9mzkRumrVpihF9l8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:51:15"
+  }
+]

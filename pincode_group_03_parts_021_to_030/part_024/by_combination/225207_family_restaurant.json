@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan family dhaba jhukiya",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "225207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Jhukiya, Tappe Sipah, Uttar Pradesh 271901",
+    "area": "225207",
+    "latitude": 27.1066242,
+    "longitude": 81.51132609999999,
+    "place_id": "ChIJ-2VEQp93mTkRRX1JrN13TVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2VEQp93mTkRRX1JrN13TVg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:07:56"
+  },
+  {
+    "business_name": "Quick Bites Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "225207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "WHR8+7XV, Bhelsar - Tikait Nagar Rd, Tikait Nagar, Uttar Pradesh 225415",
+    "area": "225207",
+    "latitude": 26.940658199999998,
+    "longitude": 81.5673948,
+    "place_id": "ChIJ_U0KCACBmTkROVDnozh0ezo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_U0KCACBmTkROVDnozh0ezo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:07:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sparkling Bucket",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "225412",
+    "phone_number": "+91 95546 15605",
+    "website": "https://sparklingbucket.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2/433, near pooja hospital, Sector H, Jankipuram, Lucknow, Uttar Pradesh 226026",
+    "area": "Sector H, Jankipuram",
+    "latitude": 26.916180699999998,
+    "longitude": 80.9604449,
+    "place_id": "ChIJh3h2qc7d2WURaQtQ3VMpUp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3h2qc7d2WURaQtQ3VMpUp4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:30:41"
+  },
+  {
+    "business_name": "Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "225412",
+    "phone_number": "+91 86303 79953",
+    "website": "https://choudharydecoratorsncr.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rc 1044, Subhash Park, Khora Colony, Ghaziabad, Delhi, Noida, Uttar Pradesh 201020",
+    "area": "Subhash Park, Khora Colony, Ghaziabad",
+    "latitude": 28.6248272,
+    "longitude": 77.3407838,
+    "place_id": "ChIJ9eIkJILlDDkRpG88KDL-te0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eIkJILlDDkRpG88KDL-te0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:30:44"
+  }
+]

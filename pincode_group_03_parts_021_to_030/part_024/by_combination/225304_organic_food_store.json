@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tulsi mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Organic drug store",
+    "pincode": "225304",
+    "phone_number": "+91 72018 13544",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "Aishwarya, near Joggers Park Road, Aradhna Society, apartment, Park Colony, Jamnagar, Gujarat 361002",
+    "area": "Aradhna Society, apartment, Park Colony",
+    "latitude": 22.481005399999997,
+    "longitude": 70.0547369,
+    "place_id": "ChIJF3g7gTkVVzkRqsMNu9cZvYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3g7gTkVVzkRqsMNu9cZvYE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:16:22"
+  },
+  {
+    "business_name": "Suratganj, Uttar Pradesh 225304",
+    "search_category": "Organic Food Store",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "225304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suratganj, Uttar Pradesh",
+    "area": "225304",
+    "latitude": 27.198463,
+    "longitude": 81.3365036,
+    "place_id": "ChIJWc2L3WpymTkRJNIQJ1E7QBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWc2L3WpymTkRJNIQJ1E7QBA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:16:23"
+  }
+]

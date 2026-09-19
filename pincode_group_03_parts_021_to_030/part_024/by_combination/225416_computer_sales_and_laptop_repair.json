@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dristy Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Printer repair service",
+    "pincode": "225416",
+    "phone_number": "+91 70373 30447",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Airforce Station Rd, Bargadi, Bakshi Ka Talab, Roodahi, Uttar Pradesh 226201",
+    "area": "Bargadi, Bakshi Ka Talab",
+    "latitude": 26.9863693,
+    "longitude": 80.916641,
+    "place_id": "ChIJ9xGff-BRmTkRiQ9I6ypDUaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xGff-BRmTkRiQ9I6ypDUaU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:37:45"
+  },
+  {
+    "business_name": "Expert Laptop Repair",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer service, Computer store",
+    "pincode": "225416",
+    "phone_number": "+91 73072 11011",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "House On front, Janki Plaza, Sector G, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector G, Jankipuram",
+    "latitude": 26.9101826,
+    "longitude": 80.95319169999999,
+    "place_id": "ChIJTaUrQIBXmTkRopSIQVFgcDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaUrQIBXmTkRopSIQVFgcDo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:37:46"
+  }
+]

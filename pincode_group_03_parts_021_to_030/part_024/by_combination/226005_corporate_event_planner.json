@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R P Corp Event Pro",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "226005",
+    "phone_number": "+91 79760 10339",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2C/3, Bandhan Bank, near Nirankari Bhawan, Amrudhi Bagh, Singar Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Amrudhi Bagh, Singar Nagar, Alambagh",
+    "latitude": 26.805704499999997,
+    "longitude": 80.8965157,
+    "place_id": "ChIJKSFbbY__mzkR6PsRx1g_tn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSFbbY__mzkR6PsRx1g_tn0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:47:12"
+  },
+  {
+    "business_name": "Golden Grove events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "226005",
+    "phone_number": "+91 72389 79328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saketpuri, Azad Nagar, Ramprasad Bismil Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Saketpuri, Azad Nagar, Ramprasad Bismil Nagar, Alambagh",
+    "latitude": 26.8073312,
+    "longitude": 80.9104653,
+    "place_id": "ChIJc0VYMhv9mzkRuCUpWdPCqZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0VYMhv9mzkRuCUpWdPCqZc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:47:12"
+  }
+]

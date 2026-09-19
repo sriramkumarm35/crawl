@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "225304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "58XP+9JJ, road, Suratganj, Baraiya, Uttar Pradesh 225304",
+    "area": "225304",
+    "latitude": 27.198463,
+    "longitude": 81.3365036,
+    "place_id": "ChIJKR0xLgBtmTkRxj5rqpG4lRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKR0xLgBtmTkRxj5rqpG4lRI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:31"
+  },
+  {
+    "business_name": "Mishra Grahak Seva Kendra",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "225304",
+    "phone_number": "+91 98390 33196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "48F2+F6H, Karandha, Uttar Pradesh 225205",
+    "area": "225304",
+    "latitude": 27.123697399999998,
+    "longitude": 81.3006235,
+    "place_id": "ChIJSU9HH-dvmTkRnMOWuj8FhOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSU9HH-dvmTkRnMOWuj8FhOM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:31"
+  }
+]

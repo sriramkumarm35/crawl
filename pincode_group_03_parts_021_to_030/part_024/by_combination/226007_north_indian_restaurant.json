@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Asian restaurant, South Asian restaurant",
+    "pincode": "226007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No-30, Main Market, near Tempo Stand, Saray Hasanganj, Maya Nagar, Daliganj, Lucknow, Uttar Pradesh 226020",
+    "area": "Saray Hasanganj, Maya Nagar, Daliganj",
+    "latitude": 26.8718325,
+    "longitude": 80.9315518,
+    "place_id": "ChIJAYiCi4_9mzkRBpgr22L_QIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYiCi4_9mzkRBpgr22L_QIc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:00"
+  },
+  {
+    "business_name": "NAWABI MASALA",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian takeaway",
+    "all_categories": "Indian takeaway",
+    "pincode": "226007",
+    "phone_number": "+91 98899 41007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FLAT 502, ROYAL VIEW HERITAGE, Birbal Sahani Marg, Purana Haidarabad, Lucknow, Uttar Pradesh 226007",
+    "area": "Purana Haidarabad",
+    "latitude": 26.8618359,
+    "longitude": 80.94429459999999,
+    "place_id": "ChIJG5MRcVD9mzkRC4THjjDsyNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5MRcVD9mzkRC4THjjDsyNE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:50:00"
+  }
+]

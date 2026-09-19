@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phool & Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "225207",
+    "phone_number": "+91 63890 12486",
+    "website": "https://www.phoolandbaloon.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Phool & Balloon Decoration, 225207, India",
+    "area": "225207",
+    "latitude": 28.5059708,
+    "longitude": 77.4694548,
+    "place_id": "ChIJF5YXpaZxlmERqShIf2Q1OT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5YXpaZxlmERqShIf2Q1OT4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:40"
+  },
+  {
+    "business_name": "Sana Decoration's",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "225207",
+    "phone_number": "+91 73028 82152",
+    "website": "https://sana-decorations.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Basi road dhobi basti nale ke pass, chowk, near Yadav, Khekra, Uttar Pradesh 250101",
+    "area": "225207",
+    "latitude": 28.8702859,
+    "longitude": 77.2819007,
+    "place_id": "ChIJIY7sxSxVDDkR_QJtBVHC5nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIY7sxSxVDDkR_QJtBVHC5nM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:08:43"
+  }
+]

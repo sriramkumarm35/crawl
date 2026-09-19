@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gas stor",
+    "search_category": "Shops",
+    "primary_category": "Gas shop",
+    "all_categories": "Gas shop",
+    "pincode": "225126",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@raunak_vlogs_12?si=-4dnqdZyINZygMFY",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Bilawal, Trivediganj, Akhaiya Pur, Uttar Pradesh 225126",
+    "area": "Bilawal",
+    "latitude": 26.6462661,
+    "longitude": 81.27390729999999,
+    "place_id": "ChIJ0_pDF5vFmzkRWdXRUeWkzFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_pDF5vFmzkRWdXRUeWkzFI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:29"
+  },
+  {
+    "business_name": "RMNA E-Mobility Services",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "225126",
+    "phone_number": "N/A",
+    "website": "https://rmnaemobilityservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J8Q9+GM8, Haidargarh, Bara, Uttar Pradesh 225126",
+    "area": "Haidargarh",
+    "latitude": 26.6389057,
+    "longitude": 81.31918999999999,
+    "place_id": "ChIJa1DORADFmzkR6hXlz6cjsoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1DORADFmzkR6hXlz6cjsoo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:57:32"
+  }
+]

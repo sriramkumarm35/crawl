@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg M and Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "226001",
+    "phone_number": "+91 87799 67557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "4th floor, Akriti Tower, 405, 19, Vidhan Sabha Marg, near Aakriti Tower, Husainganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Husainganj",
+    "latitude": 26.8408953,
+    "longitude": 80.9405611,
+    "place_id": "ChIJO5JBVAD9mzkRRnDnFovrLFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5JBVAD9mzkRRnDnFovrLFE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:39:50"
+  },
+  {
+    "business_name": "Siddharth Gupta & Co.",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Estate appraiser, Real estate appraiser",
+    "pincode": "226001",
+    "phone_number": "+91 94150 99789",
+    "website": "http://casgc.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UGF-52, AAROHI COMPLEX (SAHARA INDIA CENTER, Kapoorthla, CHAURAHA, Lucknow, Uttar Pradesh 226024",
+    "area": "Kapoorthla, Sector A, CHAURAHA",
+    "latitude": 26.881646099999998,
+    "longitude": 80.94717729999999,
+    "place_id": "ChIJKe7wFX79mzkRCUYUI02vnjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKe7wFX79mzkRCUYUI02vnjI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:39:53"
+  }
+]

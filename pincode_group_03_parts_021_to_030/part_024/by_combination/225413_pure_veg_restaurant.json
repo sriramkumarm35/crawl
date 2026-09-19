@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Titbit Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "225413",
+    "phone_number": "+91 79834 43030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 148,
+    "address": "Devi Chod village, Girija Devi Temple, Road, near Girija Devi Temple, Garjiya, Ramnagar, Uttarakhand 244715",
+    "area": "225413",
+    "latitude": 29.494940999999997,
+    "longitude": 79.1353381,
+    "place_id": "ChIJt8P2QwARCjkRHKxQheKsE48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8P2QwARCjkRHKxQheKsE48",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:33"
+  },
+  {
+    "business_name": "Gopala's",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fine dining restaurant, Restaurant",
+    "pincode": "225413",
+    "phone_number": "+91 74392 36659",
+    "website": "https://gopalas.in/",
+    "rating": 4.3,
+    "reviews_count": 1662,
+    "address": "8/1A, Hazra Rd, near Paramount Nursing Home, Bakul Bagan, Kalighat, Kolkata, West Bengal 700026",
+    "area": "Bakul Bagan, Kalighat",
+    "latitude": 22.5243519,
+    "longitude": 88.3490676,
+    "place_id": "ChIJ7SknnjB3AjoRCPvGJkLKm84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SknnjB3AjoRCPvGJkLKm84",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:31:33"
+  }
+]

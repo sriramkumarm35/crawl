@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Trakter Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "225405",
+    "phone_number": "+91 81889 96394",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Faizabad - Lucknow Hwy, Kotwa Sarak, Lalpur Rajpur, Uttar Pradesh 225405",
+    "area": "225405",
+    "latitude": 26.8401067,
+    "longitude": 81.4607511,
+    "place_id": "ChIJy03gHdDVmzkROiXs5RMlqeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy03gHdDVmzkROiXs5RMlqeY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:01"
+  },
+  {
+    "business_name": "Bala Ji Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "225405",
+    "phone_number": "+91 88409 93550",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rudauli, Bhendwa Bahrela, Uttar Pradesh 225405",
+    "area": "225405",
+    "latitude": 26.7412629,
+    "longitude": 81.4744126,
+    "place_id": "ChIJAWXlOlrTmzkRVPta8TemAWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWXlOlrTmzkRVPta8TemAWI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:27:02"
+  }
+]

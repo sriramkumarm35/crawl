@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Love2Serve - Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Restaurant, South Indian restaurant",
+    "pincode": "225305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot no 1, Khasra no 100, Misripur Mishrapur, Near, Kursi Rd, Guramba, Uttar Pradesh 226026",
+    "area": "225305",
+    "latitude": 26.943200299999997,
+    "longitude": 80.97242609999999,
+    "place_id": "ChIJb4mbF5xXmTkREf6tqLKaQRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4mbF5xXmTkREf6tqLKaQRM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:18:11"
+  },
+  {
+    "business_name": "Ekana Lounge & Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "225305",
+    "phone_number": "+91 93359 05316",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Nareshons Blue ,BKT, Digoi, Uttar Pradesh 226202",
+    "area": "225305",
+    "latitude": 27.011396299999998,
+    "longitude": 80.9147933,
+    "place_id": "ChIJ1dOJMx1RmTkRpS2eJWQ4c0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dOJMx1RmTkRpS2eJWQ4c0Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:18:11"
+  }
+]

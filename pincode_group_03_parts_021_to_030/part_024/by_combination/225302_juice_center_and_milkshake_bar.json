@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beyond Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Ice cream shop",
+    "pincode": "225302",
+    "phone_number": "+91 96421 11300",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2-6-12/6, near Aditya College, Madhav Nagar, Srinagar, Ramanayyapeta, Andhra Pradesh 533003",
+    "area": "Madhav Nagar, Srinagar",
+    "latitude": 16.9733484,
+    "longitude": 82.24079309999999,
+    "place_id": "ChIJl2_G0zgpODoRhIJm1oXt5yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2_G0zgpODoRhIJm1oXt5yA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:01"
+  },
+  {
+    "business_name": "Juice n Shake's",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Cafe",
+    "pincode": "225302",
+    "phone_number": "+91 90229 68413",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhagtani House, Hospital, behind Gondia, Ashok Colony, Ganesh Nagar, Gondia, Maharashtra 441601",
+    "area": "Ashok Colony, Ganesh Nagar",
+    "latitude": 21.448865299999998,
+    "longitude": 80.1992927,
+    "place_id": "ChIJU28AjgWvKzoRBVM1ZQbQNeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU28AjgWvKzoRBVM1ZQbQNeU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:02"
+  }
+]

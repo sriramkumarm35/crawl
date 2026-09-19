@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANOJ BAKERY",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "225205",
+    "phone_number": "+91 89228 30820",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Ramnagar, Baddo Saraye Road, Barabanki, Ramnagar, Uttar Pradesh 225205",
+    "area": "225205",
+    "latitude": 27.0859348,
+    "longitude": 81.40393809999999,
+    "place_id": "ChIJ6wJoZW16mTkR_OETOGLn_ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wJoZW16mTkR_OETOGLn_ts",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:30"
+  },
+  {
+    "business_name": "Royal Cafe Restaurant & Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Cake shop",
+    "pincode": "225205",
+    "phone_number": "+91 88400 04186",
+    "website": "https://zomato.onelink.me/xqzv/ifdpg4r1",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "in front of Medical College \"Mandaliya Hospital, near by Saurabh Medical Store, Ayodhya, Ranopali, Uttar Pradesh 224135",
+    "area": "225205",
+    "latitude": 26.7578356,
+    "longitude": 82.2027904,
+    "place_id": "ChIJpei5GAAJmjkRrzsMUmiiLow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpei5GAAJmjkRrzsMUmiiLow",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:33"
+  }
+]

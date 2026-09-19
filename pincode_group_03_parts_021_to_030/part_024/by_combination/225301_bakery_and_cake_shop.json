@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHIMA BAKERY",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "225301",
+    "phone_number": "+91 95803 70876",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "Pioneer Chauraha lakhpedabag, Layyamandi hospital, road, near shiv mandir, near Ankit Hospital, Satyapremi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Satyapremi Nagar",
+    "latitude": 26.9290545,
+    "longitude": 81.19604059999999,
+    "place_id": "ChIJJTSaw1pgmTkR5dyO0sKNmMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTSaw1pgmTkR5dyO0sKNmMg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:11:08"
+  },
+  {
+    "business_name": "Yadav Misthan Bhandar",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Sweet shop",
+    "pincode": "225301",
+    "phone_number": "+91 98392 27622",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "X2Q9+MPP, Behta Bazaar, Kursi Road, Lucknow, Uttar Pradesh 225301",
+    "area": "225301",
+    "latitude": 26.989200699999998,
+    "longitude": 81.0193171,
+    "place_id": "ChIJP3pU9iZamTkRyRpmrwrtdFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3pU9iZamTkRyRpmrwrtdFM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:11:09"
+  }
+]

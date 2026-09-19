@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishika kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Korean grocery store",
+    "all_categories": "Korean grocery store",
+    "pincode": "225415",
+    "phone_number": "+91 95992 50949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "nawanpurwa, colonelganj, Lale Mau, Chandrabhanpur, Uttar Pradesh 271311",
+    "area": "nawanpurwa, colonelganj",
+    "latitude": 27.0698211,
+    "longitude": 81.6593505,
+    "place_id": "ChIJ65l2VtmFmTkR42YA9dohelM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65l2VtmFmTkR42YA9dohelM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:34:50"
+  },
+  {
+    "business_name": "Manoj karnal store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "225415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2J5F+2GP, Davli, Uttar Pradesh 271504",
+    "area": "225415",
+    "latitude": 27.0075956,
+    "longitude": 81.62383369999999,
+    "place_id": "ChIJW5wwAwCHmTkReEIulN0vtSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5wwAwCHmTkReEIulN0vtSw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:34:50"
+  }
+]

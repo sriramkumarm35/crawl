@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Sweet Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "225207",
+    "phone_number": "+91 77558 87339",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Ramnagar Road, Kotwa Dham, Ariya Mau, Uttar Pradesh 225415",
+    "area": "225207",
+    "latitude": 26.9825122,
+    "longitude": 81.5183069,
+    "place_id": "ChIJvSL0NlqBmTkRYEM9l56BgMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSL0NlqBmTkRYEM9l56BgMI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:07:53"
+  },
+  {
+    "business_name": "Ajay Hotal",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "225207",
+    "phone_number": "+91 83039 61499",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ajay Hotal, Bariyarpur, Rajapur, Uttar Pradesh 225202",
+    "area": "225207",
+    "latitude": 27.018044999999997,
+    "longitude": 81.4278384,
+    "place_id": "ChIJbWKYX057mTkRqHlOQ8C-vYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWKYX057mTkRqHlOQ8C-vYs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:07:53"
+  }
+]

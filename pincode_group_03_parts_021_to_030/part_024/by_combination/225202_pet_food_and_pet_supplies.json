@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aquatic Dreams Aquarium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "225202",
+    "phone_number": "+91 76077 78888",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 18,
+    "address": "Layya mandi, near Raj medical store, Satyapremi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Satyapremi Nagar",
+    "latitude": 26.928971599999997,
+    "longitude": 81.19512859999999,
+    "place_id": "ChIJcVemld9hmTkR0XkkRS3lzCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVemld9hmTkR0XkkRS3lzCE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:59:23"
+  },
+  {
+    "business_name": "Esther's Lab",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "225202",
+    "phone_number": "+91 95599 96493",
+    "website": "http://esthers-lab.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "no 633/27A, near Yamaha Showroom, Gulzar Colony, Hasangarden Colony, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Gulzar Colony, Hasangarden Colony, Chinhat",
+    "latitude": 26.8755332,
+    "longitude": 81.0257981,
+    "place_id": "ChIJedWN9C_jmzkRgOW9M-_53N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedWN9C_jmzkRgOW9M-_53N0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 05:59:25"
+  }
+]

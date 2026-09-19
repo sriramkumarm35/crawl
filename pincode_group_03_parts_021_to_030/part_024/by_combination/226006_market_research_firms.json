@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Invisor Technologies",
+    "search_category": "Market Research Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company, E-commerce service, Internet marketing service, Website designer",
+    "pincode": "226006",
+    "phone_number": "+91 73092 52227",
+    "website": "https://invisortech.com/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "C-885, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Mahanagar",
+    "latitude": 26.8822969,
+    "longitude": 80.9636472,
+    "place_id": "ChIJpeTFuVH9mzkRjILGXL_b5EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeTFuVH9mzkRjILGXL_b5EU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:43"
+  },
+  {
+    "business_name": "Jirizmi Business Consulting (OPC) Pvt. Ltd.",
+    "search_category": "Market Research Firms",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Research institute",
+    "pincode": "226006",
+    "phone_number": "+91 90444 77947",
+    "website": "http://www.jirizmi.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C-739, Sector C, K Road, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Sector-C, Mahanagar",
+    "latitude": 26.8801016,
+    "longitude": 80.9532424,
+    "place_id": "ChIJ4y7kUZb9mzkR7AQwul6JNZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4y7kUZb9mzkR7AQwul6JNZw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:49:43"
+  }
+]

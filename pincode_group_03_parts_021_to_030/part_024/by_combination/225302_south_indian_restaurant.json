@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaayka Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant, Fine dining restaurant",
+    "pincode": "225302",
+    "phone_number": "+91 92355 50655",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Faizabad Road, Babu Banarsi Das, near Indira Canal, Lucknow, Uttar Pradesh 226028",
+    "area": "225302",
+    "latitude": 26.894071699999998,
+    "longitude": 81.0757337,
+    "place_id": "ChIJ4-E1_qpYmTkR27Wo46TylEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-E1_qpYmTkR27Wo46TylEY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:05"
+  },
+  {
+    "business_name": "AL-Baik",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225302",
+    "phone_number": "+91 72358 88788",
+    "website": "http://albaikfoods.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No:1310, Road, near Amroon Foods, Amarsanda, Kursi, Uttar Pradesh 225301",
+    "area": "225302",
+    "latitude": 27.026254299999998,
+    "longitude": 81.0451037,
+    "place_id": "ChIJAQAAAKdbmTkRLQ4cQU9BPlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAKdbmTkRLQ4cQU9BPlw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:05"
+  }
+]

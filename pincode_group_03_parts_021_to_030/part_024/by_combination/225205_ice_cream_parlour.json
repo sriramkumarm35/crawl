@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gazal Cool Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "225205",
+    "phone_number": "+91 89609 99990",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "M-15, Gole Market, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Gole Market, Mahanagar",
+    "latitude": 26.8744364,
+    "longitude": 80.9578837,
+    "place_id": "ChIJJZ1tvGX9mzkRT4RtHEhTaIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZ1tvGX9mzkRT4RtHEhTaIw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:37"
+  },
+  {
+    "business_name": "Ice cream parlour & fast food",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza delivery",
+    "all_categories": "Pizza delivery, Service establishment",
+    "pincode": "225205",
+    "phone_number": "N/A",
+    "website": "http://www.greenhut.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ice cream parlour & fast food, 225205, India",
+    "area": "225205",
+    "latitude": 24.0737776,
+    "longitude": 82.6508071,
+    "place_id": "ChIJsSdtORo3jzkRyd3SR2xDSAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSdtORo3jzkRyd3SR2xDSAY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:04:38"
+  }
+]

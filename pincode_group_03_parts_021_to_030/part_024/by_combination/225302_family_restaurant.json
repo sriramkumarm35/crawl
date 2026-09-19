@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matka Restaurant & Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Country food restaurant",
+    "all_categories": "Country food restaurant",
+    "pincode": "225302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "खेवली, Kursi Rd, चौराहा, Dewa, Uttar Pradesh 225301",
+    "area": "चौराहा",
+    "latitude": 27.0327643,
+    "longitude": 81.0368548,
+    "place_id": "ChIJtW92gzdbmTkRlmec9Cbm6MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW92gzdbmTkRlmec9Cbm6MI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:07"
+  },
+  {
+    "business_name": "Puneet sweets stor",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225302",
+    "phone_number": "+91 82990 08676",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "42GQ+HPF, Unnamed Road, Chhilgawa, Uttar Pradesh 225305",
+    "area": "225302",
+    "latitude": 27.1264492,
+    "longitude": 81.03928979999999,
+    "place_id": "ChIJo4NLwotFmTkRsGb-bqubKbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4NLwotFmTkRsGb-bqubKbk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:13:07"
+  }
+]

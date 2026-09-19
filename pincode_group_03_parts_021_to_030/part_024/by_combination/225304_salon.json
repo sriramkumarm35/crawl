@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr man hair shop",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "225304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lalpur Kararauta, Uttar Pradesh 225304",
+    "area": "225304",
+    "latitude": 27.198463,
+    "longitude": 81.3365036,
+    "place_id": "ChIJy01RyKttmTkR49q6IJapVTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy01RyKttmTkR49q6IJapVTc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:09"
+  },
+  {
+    "business_name": "Alimuddin saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "225304",
+    "phone_number": "+91 79915 71732",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramkunda, Mahmudabaad, Uttar Pradesh 225305",
+    "area": "225304",
+    "latitude": 27.2045757,
+    "longitude": 81.3324339,
+    "place_id": "ChIJiaoPhCNtmTkR9w22EpCQuII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaoPhCNtmTkR9w22EpCQuII",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:09"
+  }
+]

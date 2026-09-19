@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "225306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "64P9+WMW, Basantpur, Maghgawan, Uttar Pradesh 261203",
+    "area": "225306",
+    "latitude": 27.2373653,
+    "longitude": 81.1192008,
+    "place_id": "ChIJP4G6BPZAmTkRf0mGmdY9EHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4G6BPZAmTkRf0mGmdY9EHo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:06"
+  },
+  {
+    "business_name": "Sudheer kumar",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "225306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "745M+3CH, Shaili Kiratpur, Uttar Pradesh 261203",
+    "area": "225306",
+    "latitude": 27.257702799999997,
+    "longitude": 81.1336298,
+    "place_id": "ChIJX53zUwBBmTkRzbOS8XFpv9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX53zUwBBmTkRzbOS8XFpv9c",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:21:08"
+  }
+]

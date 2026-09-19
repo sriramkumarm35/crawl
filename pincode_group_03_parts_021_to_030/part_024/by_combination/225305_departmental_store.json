@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swadesh Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "225305",
+    "phone_number": "+91 75228 99092",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 26,
+    "address": "Unnamed Road, Baddupur, Uttar Pradesh 225305",
+    "area": "225305",
+    "latitude": 27.2128081,
+    "longitude": 81.1061199,
+    "place_id": "ChIJrbBy8NxBmTkRyFey_FqR2Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbBy8NxBmTkRyFey_FqR2Ys",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:17:58"
+  },
+  {
+    "business_name": "Everyday Super Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "225305",
+    "phone_number": "+91 95181 46073",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bargadi, Bakshi Ka Talab, Roodahi, Uttar Pradesh 226201",
+    "area": "Bargadi, Bakshi Ka Talab",
+    "latitude": 26.983675299999998,
+    "longitude": 80.9192628,
+    "place_id": "ChIJhzwYbXxRmTkR6Hf-3nRaXGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzwYbXxRmTkR6Hf-3nRaXGw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:18:00"
+  }
+]
