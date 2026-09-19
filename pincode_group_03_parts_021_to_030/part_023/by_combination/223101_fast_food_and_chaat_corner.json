@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANAND CHAAT CORNER & COLDDRINK CENTER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "223101",
+    "phone_number": "+91 88749 79104",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kheta Sarai, Bara, Uttar Pradesh 222139",
+    "area": "223101",
+    "latitude": 25.9662957,
+    "longitude": 82.6807022,
+    "place_id": "ChIJqcdqY6hFkDkRb7F4JAGGS0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcdqY6hFkDkRb7F4JAGGS0s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:12"
+  },
+  {
+    "business_name": "Taste of badlapur",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "223101",
+    "phone_number": "+91 96162 30781",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Badlapur, Sarokhanpur, Uttar Pradesh 222125",
+    "area": "223101",
+    "latitude": 25.8886684,
+    "longitude": 82.4639153,
+    "place_id": "ChIJ4ZTXVLZtkDkR4osU3iLuU-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZTXVLZtkDkR4osU3iLuU-I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:13"
+  }
+]

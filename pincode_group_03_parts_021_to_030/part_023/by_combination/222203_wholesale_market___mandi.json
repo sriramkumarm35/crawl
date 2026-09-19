@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puralal Bazar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "222203",
+    "phone_number": "+91 99363 98687",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 116,
+    "address": "Puralal, Chauraha, Dhema, Badlapur, Uttar Pradesh 222125",
+    "area": "Chauraha",
+    "latitude": 25.903812799999997,
+    "longitude": 82.3830555,
+    "place_id": "ChIJU5VSu3ZykDkRUWcb5y5hZsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5VSu3ZykDkRUWcb5y5hZsQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:05:40"
+  },
+  {
+    "business_name": "New Sabji Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Fruit and vegetable store",
+    "pincode": "222203",
+    "phone_number": "+91 63868 84584",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 66,
+    "address": "satti Mata Mandir New Sabji Mandi, 10, Uttar Pradesh 222161",
+    "area": "222203",
+    "latitude": 25.6152412,
+    "longitude": 82.6107265,
+    "place_id": "ChIJAxjI8RUjkDkR2NehC-JQYc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxjI8RUjkDkR2NehC-JQYc8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:05:42"
+  }
+]

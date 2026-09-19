@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Electronic",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "223102",
+    "phone_number": "+91 63070 75602",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "315, Bhaisauli, Uttar Pradesh 228161",
+    "area": "223102",
+    "latitude": 26.0933514,
+    "longitude": 82.4503367,
+    "place_id": "ChIJa6HGN0ZkkDkRAAAAMKBdslI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6HGN0ZkkDkRAAAAMKBdslI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:15:36"
+  },
+  {
+    "business_name": "MISHRA SAHAJ JAN SEVA KENDRA",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop, Internet cafe",
+    "pincode": "223102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 223,
+    "address": "2HH2+776, Unnamed Road, Lakhraiya, Uttar Pradesh 223102",
+    "area": "223102",
+    "latitude": 26.0277794,
+    "longitude": 82.5510597,
+    "place_id": "ChIJ2-jKLXJpkDkRzyPceuZNH8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-jKLXJpkDkRzyPceuZNH8c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:15:37"
+  }
+]

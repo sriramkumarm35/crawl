@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Lalji Maurya",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "223101",
+    "phone_number": "+91 99188 91227",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paralyse And Skin Centre, H34, Baragaon, Uttar Pradesh 223103",
+    "area": "223101",
+    "latitude": 26.078995799999998,
+    "longitude": 82.6350385,
+    "place_id": "ChIJFaLKo2BdkDkR4rif_6WINd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaLKo2BdkDkR4rif_6WINd4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:57"
+  },
+  {
+    "business_name": "LEMON WELLNESS SPA",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "223101",
+    "phone_number": "+91 84237 99419",
+    "website": "https://www.facebook.com/lemonswellnessspa",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "near Sabji Mandi, Chauraha, Belaisa, Azamgarh, Uttar Pradesh 276001",
+    "area": "Chauraha",
+    "latitude": 26.032469199999998,
+    "longitude": 83.14943509999999,
+    "place_id": "ChIJ47Zt4Va7kTkR3wYEWz9VG_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47Zt4Va7kTkR3wYEWz9VG_c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:57"
+  }
+]

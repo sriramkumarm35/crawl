@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DotCar",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "223103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nh-27 Rajauli, Harraiya, Uttar Pradesh 272155",
+    "area": "223103",
+    "latitude": 26.773194399999998,
+    "longitude": 82.52608029999999,
+    "place_id": "ChIJ5WHUVkexkDkR9fadSo_rrAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WHUVkexkDkR9fadSo_rrAU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:17:17"
+  },
+  {
+    "business_name": "Prabha auto care and Insurance company",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "223103",
+    "phone_number": "+91 94520 76553",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paliya adai, opposite india bhatta, Palia Mafi, Uttar Pradesh 223222",
+    "area": "223103",
+    "latitude": 26.084681,
+    "longitude": 82.76707449999999,
+    "place_id": "ChIJabtJlhxRkDkRCNvTOp2wR2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabtJlhxRkDkRCNvTOp2wR2A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:17:18"
+  }
+]

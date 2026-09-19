@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasad tent house and caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "222202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Shree dev petrol pump, Jaunpur, Bahorikpur, Uttar Pradesh 222202",
+    "area": "222202",
+    "latitude": 25.6654499,
+    "longitude": 82.2034796,
+    "place_id": "ChIJCQ2L73qnmjkRitlBLvc9dZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQ2L73qnmjkRitlBLvc9dZo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:03:09"
+  },
+  {
+    "business_name": "Mishika Catering & Event Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "222202",
+    "phone_number": "+91 93737 42268",
+    "website": "https://mishika-catering-event.grexa.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Indora square, Laghuvetan Colony, Main Rd, Indora, gate, New Indora, Nagpur, Maharashtra 440014",
+    "area": "Indora, gate, New Indora",
+    "latitude": 21.1743019,
+    "longitude": 79.0999336,
+    "place_id": "ChIJXTslLAfB1DsRQAsialdABu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTslLAfB1DsRQAsialdABu8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:03:12"
+  }
+]

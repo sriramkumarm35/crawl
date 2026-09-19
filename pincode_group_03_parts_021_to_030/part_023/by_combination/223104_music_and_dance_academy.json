@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Neo String",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "223104",
+    "phone_number": "+91 93301 58938",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "20A, Gariahat Rd, Dhakuria, Babu Bagan, Selimpur, Kolkata, West Bengal 700031",
+    "area": "Dhakuria, Babu Bagan, Selimpur",
+    "latitude": 22.507607699999998,
+    "longitude": 88.3691427,
+    "place_id": "ChIJHeDaMfpxAjoRgQzasEdmvK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeDaMfpxAjoRgQzasEdmvK8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:46"
+  },
+  {
+    "business_name": "Madhuram Music Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school, Education center",
+    "pincode": "223104",
+    "phone_number": "+91 96622 53344",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 259,
+    "address": "66 Shivam Society, nr. Amarnath Puram Garba Ground, Soc, Manjalpur, Vadodara, Gujarat 390011",
+    "area": "Amarnath Puram Society, Soc, Manjalpur",
+    "latitude": 22.282109,
+    "longitude": 73.1930909,
+    "place_id": "ChIJMyHMj27FXzkRdR4swOXmSfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyHMj27FXzkRdR4swOXmSfk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:46"
+  }
+]

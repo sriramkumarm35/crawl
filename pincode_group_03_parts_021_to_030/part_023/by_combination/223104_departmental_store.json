@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store, Ghanshyampur, Jaunpur (Pick Up Center)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "223104",
+    "phone_number": "+91 88084 72408",
+    "website": "https://www.rcmworld.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "badlapur- shahganj road, opp. Union Bank of india, Ghanshyampur, Deoram Pur, Uttar Pradesh 223104",
+    "area": "Ghanshyampur",
+    "latitude": 25.935005,
+    "longitude": 82.519206,
+    "place_id": "ChIJq6lsbWlrkDkRxqRgLaDHLI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6lsbWlrkDkRxqRgLaDHLI0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:18:32"
+  },
+  {
+    "business_name": "RCM Store, Saraygunja, Jaunpur (Pick Up Center)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "223104",
+    "phone_number": "+91 97931 61700",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tiyara road Batauveer chauraha Badlapur, Sarai Gunja, Uttar Pradesh 222125",
+    "area": "223104",
+    "latitude": 25.922762,
+    "longitude": 82.501913,
+    "place_id": "ChIJGyytRRprkDkR18ixxHmvdtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyytRRprkDkR18ixxHmvdtg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:18:34"
+  }
+]

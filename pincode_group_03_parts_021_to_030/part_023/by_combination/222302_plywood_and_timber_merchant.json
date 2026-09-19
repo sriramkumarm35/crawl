@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Timber Mart",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "222302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7, Timber Market, Road, Harni - Halol Rd, Rajeshwar Enclave, Harni, Vadodara, Gujarat 390022",
+    "area": "Rajeshwar Enclave, Harni",
+    "latitude": 22.3419146,
+    "longitude": 73.2195337,
+    "place_id": "ChIJp2iS4ATPXzkRMwKXUjtMx_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2iS4ATPXzkRMwKXUjtMx_I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:10:07"
+  },
+  {
+    "business_name": "AK Lumbers Ltd.",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Door manufacturer, Furniture Manufacturer, Lumber store, Wood frame supplier, Wood supplier, Woodworker, Woodworking supply store",
+    "pincode": "222302",
+    "phone_number": "+91 87450 13672",
+    "website": "https://aklumbers.co.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Metro Station, 132, Main Rohtak Rd, near Rajdhani Park, Assam Timber Market, Gulshan Park, Nangloi, Delhi, 110041",
+    "area": "Assam Timber Market, Gulshan Park, Nangloi",
+    "latitude": 28.683840699999998,
+    "longitude": 77.0438848,
+    "place_id": "ChIJo7wvnMUFDTkRAl1wtKmfhiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7wvnMUFDTkRAl1wtKmfhiQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:10:08"
+  }
+]

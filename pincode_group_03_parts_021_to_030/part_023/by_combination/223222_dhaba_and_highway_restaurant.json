@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Family Resturent And Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "223222",
+    "phone_number": "+91 79851 16744",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "6G38 6X, Ahirani, Uttar Pradesh 275303",
+    "area": "223222",
+    "latitude": 26.202990699999997,
+    "longitude": 83.517774,
+    "place_id": "ChIJpaAym-SBkTkRtXYM2qyNTc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpaAym-SBkTkRtXYM2qyNTc8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:13"
+  },
+  {
+    "business_name": "Sree Sai Shanti Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "223222",
+    "phone_number": "+91 99186 76762",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W7XC+CQ8, Mustafabad, Uttar Pradesh 276131",
+    "area": "223222",
+    "latitude": 25.9485313,
+    "longitude": 83.2719382,
+    "place_id": "ChIJIfOUIJaVkTkR8i2yYvPx6Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfOUIJaVkTkR8i2yYvPx6Us",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:13"
+  }
+]

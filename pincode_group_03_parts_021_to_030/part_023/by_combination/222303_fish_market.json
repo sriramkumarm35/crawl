@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hafiz Ji Chicken Motton and Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "222303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Garavpur, Gauraha, Uttar Pradesh 222302",
+    "area": "222303",
+    "latitude": 26.069707599999997,
+    "longitude": 82.2309422,
+    "place_id": "ChIJXyINhVJ5kDkRwmkQoHxrSPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyINhVJ5kDkRwmkQoHxrSPk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:11:16"
+  },
+  {
+    "business_name": "Karaundi kala bazar",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "222303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 211,
+    "address": "Karudi kala, Haripur, Uttar Pradesh 228161",
+    "area": "222303",
+    "latitude": 26.060321,
+    "longitude": 82.4239,
+    "place_id": "ChIJw1NgpE5lkDkRzKTipERP3DI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1NgpE5lkDkRzKTipERP3DI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:11:17"
+  }
+]

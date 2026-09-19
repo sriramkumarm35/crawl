@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Saqlain's Hair Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "223222",
+    "phone_number": "+91 78956 28833",
+    "website": "https://drsaqlain.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Marris Rd, in front of Shahnai Banquet Hall, Chauraha, Aligarh, Uttar Pradesh 202001",
+    "area": "Chauraha",
+    "latitude": 27.898710599999998,
+    "longitude": 78.08675939999999,
+    "place_id": "ChIJyW4QP92ldDkRjzsE2muwtHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyW4QP92ldDkRjzsE2muwtHM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:59"
+  },
+  {
+    "business_name": "Dr Bhavesh Gupta",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair transplantation clinic",
+    "all_categories": "Hair transplantation clinic",
+    "pincode": "223222",
+    "phone_number": "+91 90821 23009",
+    "website": "https://www.hairclinique.in/",
+    "rating": 4.9,
+    "reviews_count": 1229,
+    "address": "Ground floor, Om Srishti, Clinique Internationale, shop no 1-2-3, plot-51A, opposite Central Park Metro Road, Sector 20, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Sector 20, Kharghar",
+    "latitude": 19.050822,
+    "longitude": 73.0754898,
+    "place_id": "ChIJl7TvGTTP5zsRU9FV7X3PjrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7TvGTTP5zsRU9FV7X3PjrQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:59"
+  }
+]

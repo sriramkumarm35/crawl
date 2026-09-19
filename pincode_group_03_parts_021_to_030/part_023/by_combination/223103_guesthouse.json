@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Room Racers",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Extended stay hotel, Hotel, Inn, Lodge, Home Stay, Restaurant",
+    "pincode": "223103",
+    "phone_number": "+91 91518 75691",
+    "website": "http://roomracers.com/",
+    "rating": 4.8,
+    "reviews_count": 197,
+    "address": "Lane No.5, Vaishno Vihar Colony, Akhari, Chauraha, Amara Khaira Chak, Varanasi, Uttar Pradesh 221006",
+    "area": "lathia village, Chauraha",
+    "latitude": 25.249467,
+    "longitude": 82.9501966,
+    "place_id": "ChIJSbbv2q4zjjkRtO7WldWtNSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbbv2q4zjjkRtO7WldWtNSI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:17:47"
+  },
+  {
+    "business_name": "VINTAGE HOMESTAY ROOMS & GARDEN",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "223103",
+    "phone_number": "+91 95598 01896",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 154,
+    "address": "Haathi Chauraha, Airport Road, Pipal Gaon, Jhalwa, Prayagraj, Kathula Gospur, Uttar Pradesh 211012",
+    "area": "Pipal Gaon, Jhalwa",
+    "latitude": 25.4217893,
+    "longitude": 81.7564201,
+    "place_id": "ChIJR6UBOYczhTkR07TjlZsDg9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6UBOYczhTkR07TjlZsDg9A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:17:47"
+  }
+]

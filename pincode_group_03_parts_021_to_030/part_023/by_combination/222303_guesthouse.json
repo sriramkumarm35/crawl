@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "यादव भवन",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "222303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "48FC+VR5, Unnamed Road, Chapar, Uttar Pradesh 222303",
+    "area": "222303",
+    "latitude": 26.124636499999998,
+    "longitude": 82.3221209,
+    "place_id": "ChIJbVqn5Il9kDkRDnTdcnvkXmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVqn5Il9kDkRDnTdcnvkXmA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:18"
+  },
+  {
+    "business_name": "Hanumat Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "222303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "7345+53H, Mohalla Sai Vihar, Nassar Gunj, Sultanpur, Uttar Pradesh 228001",
+    "area": "Mohalla Sai Vihar, Nassar Gunj",
+    "latitude": 26.2554332,
+    "longitude": 82.05772929999999,
+    "place_id": "ChIJk_HCrqR9mjkRuU8gmX2P1Qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_HCrqR9mjkRuU8gmX2P1Qw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:19"
+  }
+]

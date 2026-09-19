@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Platinum Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224116",
+    "phone_number": "+91 90268 88111",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 3623,
+    "address": "Golf City, Hariharpur, Uttar Pradesh 226030",
+    "area": "Golf City",
+    "latitude": 26.7838966,
+    "longitude": 80.9922035,
+    "place_id": "ChIJe8GkLqzkmzkRaQzMda8QC_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8GkLqzkmzkRaQzMda8QC_c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:38:47"
+  },
+  {
+    "business_name": "Q Shop",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "224116",
+    "phone_number": "+91 94158 48838",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 87,
+    "address": "Q38X+JWC, Mumtaj Nagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Mumtaj Nagar",
+    "latitude": 26.766558699999997,
+    "longitude": 82.0997687,
+    "place_id": "ChIJZ1y3k4kFmjkRZ_IUHrZdgKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1y3k4kFmjkRZ_IUHrZdgKw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:38:47"
+  }
+]

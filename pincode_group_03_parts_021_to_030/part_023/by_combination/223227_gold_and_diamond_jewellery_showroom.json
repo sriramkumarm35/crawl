@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop",
+    "pincode": "223227",
+    "phone_number": "+91 99366 78700",
+    "website": "https://krishna-soni-7999.my.canva.site/ajay-jewellers1-display",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Husenabad, Nai Sarak, Nizamabad, Masjidiya, Uttar Pradesh 276206",
+    "area": "Husenabad, Nai Sarak",
+    "latitude": 26.054199,
+    "longitude": 83.0552118,
+    "place_id": "ChIJv7FD3qCxkTkRq8OTEhEZgWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7FD3qCxkTkRq8OTEhEZgWQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:33:32"
+  },
+  {
+    "business_name": "Deepak Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "223227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadavarti, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sadavarti",
+    "latitude": 26.0683051,
+    "longitude": 83.18399769999999,
+    "place_id": "ChIJV41bUgC9kTkRGzg2oSOEVi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV41bUgC9kTkRGzg2oSOEVi4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:33:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saraswati Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "223101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3M4J+HJF, so, Shahganj, 223101",
+    "area": "223101",
+    "latitude": 26.0564477,
+    "longitude": 82.6815543,
+    "place_id": "ChIJG_PCGgBbkDkRWm1VLji3WH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_PCGgBbkDkRWm1VLji3WH8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:14:06"
+  },
+  {
+    "business_name": "Hotel Anchal palace",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "223101",
+    "phone_number": "+91 99180 84969",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2M4J+VPH, Majdeha, Shahganj, Uttar Pradesh 223101",
+    "area": "223101",
+    "latitude": 26.0071752,
+    "longitude": 82.6818645,
+    "place_id": "ChIJYQg7kvpEkDkRHrQeWtiftxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQg7kvpEkDkRHrQeWtiftxI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:14:06"
+  }
+]

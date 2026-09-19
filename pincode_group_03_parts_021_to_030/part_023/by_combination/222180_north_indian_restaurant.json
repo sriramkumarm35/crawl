@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satvik Swaad",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "222180",
+    "phone_number": "+91 88532 60892",
+    "website": "http://zomato.onelink.me/xqzv/rfl3bucq",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House number 76, Malipur Colony, Tarapur Colony, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Tarapur Colony, Olandganj",
+    "latitude": 25.7462338,
+    "longitude": 82.6796815,
+    "place_id": "ChIJqd6Z7IM7kDkRmv5vSh3eM_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqd6Z7IM7kDkRmv5vSh3eM_k",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:56:21"
+  },
+  {
+    "business_name": "Pooja Sweets & Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Indian restaurant",
+    "pincode": "222180",
+    "phone_number": "+91 87075 18655",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Pooja Palace, TB Hospital Rd, Jaunpur, Uttar Pradesh 222002",
+    "area": "Ganga Patti Kala",
+    "latitude": 25.726096199999997,
+    "longitude": 82.6980265,
+    "place_id": "ChIJMzO7ToA7kDkRlzkZYmrVlq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzO7ToA7kDkRlzkZYmrVlq0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:56:21"
+  }
+]

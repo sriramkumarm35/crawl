@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "riyansh",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "222181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JWQ8+9CF, Dalal Tola, Kerakat, Uttar Pradesh 222142",
+    "area": "Dalal Tola",
+    "latitude": 25.638435899999998,
+    "longitude": 82.9160622,
+    "place_id": "ChIJ8d4HDwDTkTkRZLSPmZ8FTcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8d4HDwDTkTkRZLSPmZ8FTcQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:59:35"
+  },
+  {
+    "business_name": "Renuka Bhavan",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "222181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JXVR+6P8, Bishun Pur Lebrua, Uttar Pradesh 222149",
+    "area": "222181",
+    "latitude": 25.6430337,
+    "longitude": 82.991824,
+    "place_id": "ChIJ82_r0_rTkTkRBJvDhxEw4uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82_r0_rTkTkRBJvDhxEw4uw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:59:37"
+  }
+]

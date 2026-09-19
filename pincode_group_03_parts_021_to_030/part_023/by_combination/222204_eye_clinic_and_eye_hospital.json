@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aala Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "222204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wazidpur Tiraha, Jaunpur, NH-231, Badshahpur Jaunpur Road, Mahatma Gandhi Marg, Machhali Shahar, Machhali Shahar, Uttar Pradesh 222202",
+    "area": "222204",
+    "latitude": 25.6606013,
+    "longitude": 82.18798579999999,
+    "place_id": "ChIJm3Gh_sOnmjkRSWeEiOe2oLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3Gh_sOnmjkRSWeEiOe2oLQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:06:12"
+  },
+  {
+    "business_name": "PRIYANKA EYE CARE",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "222204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Suriyawan, Uttar Pradesh 221404",
+    "area": "222204",
+    "latitude": 25.4588882,
+    "longitude": 82.4143477,
+    "place_id": "ChIJUwi2Z4LjjzkRlIbOf83wWfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwi2Z4LjjzkRlIbOf83wWfg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:06:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PG Events Studio",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Entertainment agency, Event planner, Wedding planner",
+    "pincode": "223105",
+    "phone_number": "+91 95191 35666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 154,
+    "address": "3rd Floor, B, Barhar Kothi, Nandi Chauraha, 27/70, Durgakund Rd, above Woodland/PUMA Showroom, Gurudham, Durgakund, Jawahar Nagar Colony, Chauraha, Varanasi, Uttar Pradesh 221005",
+    "area": "Gurudham, Durgakund, Jawahar Nagar Colony, Chauraha",
+    "latitude": 25.2922099,
+    "longitude": 82.99971579999999,
+    "place_id": "ChIJG2mA1-EtjjkR26OF_5S91lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2mA1-EtjjkR26OF_5S91lU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:31"
+  },
+  {
+    "business_name": "Sharda Global Events Pvt. Ltd",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Marketing consultant",
+    "pincode": "223105",
+    "phone_number": "N/A",
+    "website": "https://sharda-dual-events.emergent.host/",
+    "rating": 4.9,
+    "reviews_count": 115,
+    "address": "Second floor Flat no. 4, Excel tower, PWD Office Rd, Varuna Bridge, Nadesar, Varanasi cantonment, Varanasi, Uttar Pradesh 221002",
+    "area": "Varuna Bridge, Nadesar, Varanasi cantonment",
+    "latitude": 25.338541,
+    "longitude": 82.9837457,
+    "place_id": "ChIJ542lNH4xjjkRuVArjFJ3bnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ542lNH4xjjkRuVArjFJ3bnI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:31"
+  }
+]

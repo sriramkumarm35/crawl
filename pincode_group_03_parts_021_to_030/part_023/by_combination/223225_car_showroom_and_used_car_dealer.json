@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Sai Automobiles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto repair shop, Car dealer, Car security system installer, Chauffeur service, Auto parts store",
+    "pincode": "223225",
+    "phone_number": "+91 83188 37482",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Kotwa, Azamgarh, Uttar Pradesh 276207",
+    "area": "Kotwa",
+    "latitude": 26.021680999999997,
+    "longitude": 83.1370584,
+    "place_id": "ChIJF0CXIGG7kTkR4ePhP7eGpZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0CXIGG7kTkR4ePhP7eGpZ8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:30:09"
+  },
+  {
+    "business_name": "A.K.ENTERPRISES",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer",
+    "pincode": "223225",
+    "phone_number": "+91 94501 99704",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "25WX+QJX, Shammopur, Jamin Sidhari, Uttar Pradesh 276001",
+    "area": "Shammopur",
+    "latitude": 26.047002,
+    "longitude": 83.1990817,
+    "place_id": "ChIJe_KxziW9kTkRNX1y8feSZnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_KxziW9kTkRNX1y8feSZnc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:30:12"
+  }
+]

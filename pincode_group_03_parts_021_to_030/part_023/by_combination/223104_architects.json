@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Architect office",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "223104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Office-Shop no.6 Anupam Market Badlapur lucknow, rode, Jaunpur, Badlapur, Uttar Pradesh 222125",
+    "area": "223104",
+    "latitude": 25.894096599999997,
+    "longitude": 82.4506742,
+    "place_id": "ChIJeaNKy_ltkDkRKYZFHPTYCHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaNKy_ltkDkRKYZFHPTYCHo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:22"
+  },
+  {
+    "business_name": "Dream House Disigner",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architectural designer",
+    "pincode": "223104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalinzaramode, rode 50, miter than, Muradpur, Badlapur, Uttar Pradesh 222125",
+    "area": "miter than",
+    "latitude": 25.866284999999998,
+    "longitude": 82.4842749,
+    "place_id": "ChIJ02b1_SVrkDkRrtUVueV1fDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02b1_SVrkDkRrtUVueV1fDY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Master Care Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "223104",
+    "phone_number": "+91 90263 13238",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3VGG+6X, Phoolpur, Uttar Pradesh 276304",
+    "area": "223104",
+    "latitude": 26.0755625,
+    "longitude": 82.8774375,
+    "place_id": "ChIJ3YrwxvNSkDkRscvA2EpML6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YrwxvNSkDkRscvA2EpML6o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:18:56"
+  },
+  {
+    "business_name": "Krishna Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Store",
+    "pincode": "223104",
+    "phone_number": "+91 98388 38319",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shabana Azmi Rd, Phoolpur, Jauma, Uttar Pradesh 276304",
+    "area": "223104",
+    "latitude": 26.0830448,
+    "longitude": 82.870012,
+    "place_id": "ChIJL9Mihg1TkDkReMSM8_rCVnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9Mihg1TkDkReMSM8_rCVnA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:18:56"
+  }
+]

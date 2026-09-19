@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Diabetologist, Gynecologist",
+    "pincode": "223225",
+    "phone_number": "+91 96706 13692",
+    "website": "https://www.facebook.com/share/16MtguqZRP/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Billariya Ki Chungi, near, Jodhi Ka Pura, Pura Jodhi, Azamgarh, Uttar Pradesh 276001",
+    "area": "Pura Jodhi",
+    "latitude": 26.0804124,
+    "longitude": 83.1864939,
+    "place_id": "ChIJAXKS4TejkTkRguWdbu1GLlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXKS4TejkTkRguWdbu1GLlI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:29:59"
+  },
+  {
+    "business_name": "Midland children and multispeciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "223225",
+    "phone_number": "+91 94547 89102",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Pandit Ramcharit Upadyaya Marg, Gandhinagar Colony, Laxirampur, Azamgarh, Uttar Pradesh 276125",
+    "area": "Gandhinagar Colony, Laxirampur",
+    "latitude": 26.090925499999997,
+    "longitude": 83.1883206,
+    "place_id": "ChIJAyHTq92jkTkRvZCK9u3e40o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyHTq92jkTkRvZCK9u3e40o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:30:00"
+  }
+]

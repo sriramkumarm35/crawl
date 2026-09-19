@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "bunty collection",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222202",
+    "phone_number": "+91 70843 36851",
+    "website": "http://www.facebook.com/buntygupta",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sahabganj, Mungra Badshahpur, Uttar Pradesh 222202",
+    "area": "Sahabganj",
+    "latitude": 25.658599799999998,
+    "longitude": 82.1908043,
+    "place_id": "ChIJxTyWUcKnmjkRn1rUZGUZxJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTyWUcKnmjkRn1rUZGUZxJ8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:03:53"
+  },
+  {
+    "business_name": "RAJESH MOBILE SHOP",
+    "search_category": "Shops",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Electronics store",
+    "pincode": "222202",
+    "phone_number": "+91 80091 20028",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Janghai Rd, Mungra Badshahpur, Uttar Pradesh 222202",
+    "area": "222202",
+    "latitude": 25.654848599999998,
+    "longitude": 82.1973624,
+    "place_id": "ChIJ0xFXX-anmjkRs-Dq8H3WWFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xFXX-anmjkRs-Dq8H3WWFY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:03:55"
+  }
+]

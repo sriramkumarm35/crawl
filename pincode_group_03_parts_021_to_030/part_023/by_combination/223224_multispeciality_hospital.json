@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "223224",
+    "phone_number": "+91 94551 12008",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "near Sanyog Petrol Pump, Narauli, Azamgarh, Uttar Pradesh 276128",
+    "area": "Narauli",
+    "latitude": 26.0474914,
+    "longitude": 83.1717831,
+    "place_id": "ChIJK_iDtTy9kTkR3MLdM4CFJqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_iDtTy9kTkR3MLdM4CFJqQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:28:09"
+  },
+  {
+    "business_name": "K.N.Lal Memorial Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "223224",
+    "phone_number": "+91 99196 84804",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Gandhinagar Colony, Laxirampur, Azamgarh, Uttar Pradesh 276125",
+    "area": "Gandhinagar Colony, Laxirampur",
+    "latitude": 26.088754899999998,
+    "longitude": 83.18790729999999,
+    "place_id": "ChIJfXXqPj-jkTkROBUI8nK6Bh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXXqPj-jkTkROBUI8nK6Bh0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:28:12"
+  }
+]

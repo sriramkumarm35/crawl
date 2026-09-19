@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop No 1",
+    "search_category": "Shops",
+    "primary_category": "Shops",
+    "all_categories": "Shops",
+    "pincode": "222301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "53, Koiripur Rd, Koiripur, Uttar Pradesh 222301",
+    "area": "222301",
+    "latitude": 26.031160099999997,
+    "longitude": 82.3432878,
+    "place_id": "ChIJb2yYT356kDkRbMZQeasqkCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2yYT356kDkRbMZQeasqkCg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:09:17"
+  },
+  {
+    "business_name": "Kesarwani Hardware Centre",
+    "search_category": "Shops",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "222301",
+    "phone_number": "+91 94150 46054",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 66,
+    "address": "449, Badhmandi, Rahul Talkies Road, Pyarepatti, Sultanpur, Uttar Pradesh 228001",
+    "area": "Pyarepatti",
+    "latitude": 26.2576687,
+    "longitude": 82.0739409,
+    "place_id": "ChIJk276NOV8mjkRUuzcaj9dxC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk276NOV8mjkRUuzcaj9dxC4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:09:18"
+  }
+]

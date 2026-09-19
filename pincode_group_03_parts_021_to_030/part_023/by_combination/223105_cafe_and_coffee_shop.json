@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FOOD SHOP",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "223105",
+    "phone_number": "+91 83550 58175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1111, DHAKWA BAZAR CHOURAHA, Pratapgarh, Jainpur, Uttar Pradesh 223105",
+    "area": "223105",
+    "latitude": 26.131925199999998,
+    "longitude": 82.5773731,
+    "place_id": "ChIJ2fTIWCRdkDkREx3j1GbzqW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fTIWCRdkDkREx3j1GbzqW4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:30"
+  },
+  {
+    "business_name": "Itf pizza point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "223105",
+    "phone_number": "+91 92087 37187",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shahganj Rd, Sarai Mohiuddenpur, Uttar Pradesh 223105",
+    "area": "223105",
+    "latitude": 26.0835588,
+    "longitude": 82.6156736,
+    "place_id": "ChIJSTxzZwBdkDkRmm5kIkj8iEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTxzZwBdkDkRmm5kIkj8iEM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:30"
+  }
+]

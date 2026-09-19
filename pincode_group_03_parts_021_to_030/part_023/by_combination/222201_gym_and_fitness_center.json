@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PV FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "222201",
+    "phone_number": "+91 99560 92565",
+    "website": "http://www.balajisports.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R55J+734, bichchhur, jaganipur, City, Uttar Pradesh 230302",
+    "area": "222201",
+    "latitude": 25.808142699999998,
+    "longitude": 82.1801953,
+    "place_id": "ChIJI67sfOahmjkRSnm2YmAbapg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI67sfOahmjkRSnm2YmAbapg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:00:56"
+  },
+  {
+    "business_name": "Yatharth Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "222201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "P49W+XGQ, Naudera, Uttar Pradesh 230306",
+    "area": "222201",
+    "latitude": 25.719963699999997,
+    "longitude": 82.1463625,
+    "place_id": "ChIJs2EqHhSnmjkR4KKdM00laeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2EqHhSnmjkR4KKdM00laeA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:00:58"
+  }
+]

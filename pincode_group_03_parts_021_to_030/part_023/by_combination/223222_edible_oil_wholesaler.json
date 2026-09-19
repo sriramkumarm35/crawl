@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "223222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 21,
+    "address": "Mahul Bazar, Mahul, Uttar Pradesh 223225",
+    "area": "223222",
+    "latitude": 26.1339522,
+    "longitude": 82.8171428,
+    "place_id": "ChIJrdXx3llRkDkR8oG-6r-ADyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdXx3llRkDkR8oG-6r-ADyI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:07"
+  },
+  {
+    "business_name": "ARAMGAN FOOD OIL",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "223222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4RM6+GG7, Mahul, Uttar Pradesh 223225",
+    "area": "223222",
+    "latitude": 26.1337913,
+    "longitude": 82.8113024,
+    "place_id": "ChIJF4D3oFpRkDkRBvvpdliIgio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4D3oFpRkDkRBvvpdliIgio",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:07"
+  }
+]

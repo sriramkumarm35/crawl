@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIVYANSHU VIKRAM SINGH",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "223102",
+    "phone_number": "+91 63881 03066",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jaunpur12, Pattinarendrapur, Uttar Pradesh 211003",
+    "area": "Jaunpur12",
+    "latitude": 26.0379993,
+    "longitude": 82.5219848,
+    "place_id": "ChIJZeMzkAtnkDkRpCdM1TLQAIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeMzkAtnkDkRpCdM1TLQAIQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:14:53"
+  },
+  {
+    "business_name": "Niyaz Jeeli Medical Agency Kairadeeh Khutahan jaunpur",
+    "search_category": "Provision Store",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "223102",
+    "phone_number": "+91 83182 89573",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "Post Office, Khutahan, Pilkichha, Uttar Pradesh 223104",
+    "area": "223102",
+    "latitude": 25.980294999999998,
+    "longitude": 82.578775,
+    "place_id": "ChIJX555cHdDkDkRAhLbv34-x8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX555cHdDkDkRAhLbv34-x8g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:14:56"
+  }
+]

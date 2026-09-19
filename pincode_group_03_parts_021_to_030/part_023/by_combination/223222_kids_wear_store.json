@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Gupta",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "223222",
+    "phone_number": "+91 73799 06881",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Azamgarh, Uttar Pradesh 223224",
+    "area": "223222",
+    "latitude": 25.9592888,
+    "longitude": 82.7830805,
+    "place_id": "ChIJ1a9ybDVPkDkR3IN1AZc2xiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1a9ybDVPkDkR3IN1AZc2xiE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:18"
+  },
+  {
+    "business_name": "DIAPER MART",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "223222",
+    "phone_number": "+91 78600 65207",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "Musafir khana, Takia, Azamgarh, Uttar Pradesh 276001",
+    "area": "Takia",
+    "latitude": 26.0712421,
+    "longitude": 83.1862005,
+    "place_id": "ChIJjeYu7WujkTkROZKxx-VG8sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeYu7WujkTkROZKxx-VG8sQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:21"
+  }
+]

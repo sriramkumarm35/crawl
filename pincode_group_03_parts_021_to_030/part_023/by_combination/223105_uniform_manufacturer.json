@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Kumar Super Foam shop",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "223105",
+    "phone_number": "+91 79739 63100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 78, Sultanpur Road, Mohideen Sarai, Shahganj, Sarai Mohiuddenpur, Uttar Pradesh 223105",
+    "area": "Mohideen Sarai, Shahganj",
+    "latitude": 26.084165,
+    "longitude": 82.6138527,
+    "place_id": "ChIJLSsEWhZdkDkRmjrCxBroSfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSsEWhZdkDkRmjrCxBroSfc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:38"
+  },
+  {
+    "business_name": "SHRI DURGA ENTERPRISES",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "223105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Main Market, AKHANDNAGAR, Bahrabhari, Uttar Pradesh 228171",
+    "area": "Main Market",
+    "latitude": 26.2031068,
+    "longitude": 82.5979596,
+    "place_id": "ChIJQYJTHItfkDkRchZAUZr7pIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYJTHItfkDkRchZAUZr7pIw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashutosh guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "222201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R92F+JJX, Barji Khurd, Uttar Pradesh 222145",
+    "area": "222201",
+    "latitude": 25.802812499999998,
+    "longitude": 82.3751446,
+    "place_id": "ChIJLbnFVJcNkDkR4mAyAEqDmBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbnFVJcNkDkR4mAyAEqDmBo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:01:26"
+  },
+  {
+    "business_name": "Jaunpur",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q7CR+9R4, Sujanganj, Tilakhara Urf Suzanganj, Uttar Pradesh 222201",
+    "area": "222201",
+    "latitude": 25.7708785,
+    "longitude": 82.29207919999999,
+    "place_id": "ChIJhyHkYAALkDkRl5d8P6NHrRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyHkYAALkDkRl5d8P6NHrRk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:01:28"
+  }
+]

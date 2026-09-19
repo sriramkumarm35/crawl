@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My business",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Engineer",
+    "all_categories": "Engineer, Service establishment",
+    "pincode": "222203",
+    "phone_number": "+91 97947 44514",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "My business, 222203, India",
+    "area": "222203",
+    "latitude": 25.5639741,
+    "longitude": 82.59137989999999,
+    "place_id": "ChIJ_5JL2SohkDkRIPLpwlyYEn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5JL2SohkDkRIPLpwlyYEn8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:05:37"
+  },
+  {
+    "business_name": "Self emplayer",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "222203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bidraban, Bidauri, Jaunpur, Uttar Pradesh 222136",
+    "area": "Bidraban",
+    "latitude": 25.606565999999997,
+    "longitude": 82.7036876,
+    "place_id": "ChIJge6tvl0lkDkRwoHgrAtneKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJge6tvl0lkDkRwoHgrAtneKM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:05:37"
+  }
+]

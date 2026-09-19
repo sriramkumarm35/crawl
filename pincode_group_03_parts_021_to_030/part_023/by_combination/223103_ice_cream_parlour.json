@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paan and cold drink centre",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "223103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3MQM+W55, Takha Mariyam West, Uttar Pradesh 223103",
+    "area": "223103",
+    "latitude": 26.089721599999997,
+    "longitude": 82.68292749999999,
+    "place_id": "ChIJASO9HgBbkDkRjI6phMal9Ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASO9HgBbkDkRjI6phMal9Ps",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:16:53"
+  },
+  {
+    "business_name": "Randeep Kumar Prajapati",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "223103",
+    "phone_number": "+91 80096 33492",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sindhai, Uttar Pradesh 223101",
+    "area": "223103",
+    "latitude": 26.0264694,
+    "longitude": 82.6820262,
+    "place_id": "ChIJ39fytD5FkDkRGpX3NKpvWT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39fytD5FkDkRGpX3NKpvWT4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:16:55"
+  }
+]

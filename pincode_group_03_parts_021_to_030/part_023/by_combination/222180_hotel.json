@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raaz Hotel & Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222180",
+    "phone_number": "+91 88878 31633",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Pargna Haveli, Dhannapur, Jaunpur, Uttar Pradesh 222001",
+    "area": "Pargna Haveli",
+    "latitude": 25.7620833,
+    "longitude": 82.7097592,
+    "place_id": "ChIJ5VC9UkM7kDkR4EP-2RszafM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VC9UkM7kDkR4EP-2RszafM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:57:29"
+  },
+  {
+    "business_name": "Hotel Purvanchal - Hotel in Jaunpur",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222180",
+    "phone_number": "+91 90765 56336",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Olandanj, road, Tilakdhari College Rd, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Husainabad",
+    "latitude": 25.7441183,
+    "longitude": 82.6849008,
+    "place_id": "ChIJh9TmCTE6kDkRcfrP5PufpzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9TmCTE6kDkRcfrP5PufpzQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:57:29"
+  }
+]

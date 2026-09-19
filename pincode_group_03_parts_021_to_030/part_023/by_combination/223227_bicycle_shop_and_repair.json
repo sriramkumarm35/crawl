@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaan Auto Parts & Service Centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Auto repair shop",
+    "pincode": "223227",
+    "phone_number": "+91 98892 48080",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Azamgarh Sarmir Rod, Uttar Pradesh 223227",
+    "area": "223227",
+    "latitude": 26.036529299999998,
+    "longitude": 83.0450398,
+    "place_id": "ChIJnRmLK_qxkTkR2lqLHn0HF4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRmLK_qxkTkR2lqLHn0HF4M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:33:55"
+  },
+  {
+    "business_name": "SHWETA CYCLE STORE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "223227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M6P6+3X5, Mirzapur, Uttar Pradesh 275204",
+    "area": "223227",
+    "latitude": 25.6851412,
+    "longitude": 83.2124723,
+    "place_id": "ChIJw6mkUerdkTkRQ-6_CVRXn2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6mkUerdkTkRQ-6_CVRXn2Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:33:56"
+  }
+]

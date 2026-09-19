@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "223227",
+    "phone_number": "+91 95694 98551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lal Chowk, Puranibasti, Mubarakpur, Uttar Pradesh 276404",
+    "area": "Lal Chowk, Puranibasti",
+    "latitude": 26.086526199999998,
+    "longitude": 83.292405,
+    "place_id": "ChIJMRqYQNCZkTkRKLwHNlEVtdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRqYQNCZkTkRKLwHNlEVtdg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:34:31"
+  },
+  {
+    "business_name": "chandra book house",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "223227",
+    "phone_number": "+91 81818 15891",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "katra kundi garh, Dal Singar, Azamgarh, Kodar Ajamatpur, Uttar Pradesh 276001",
+    "area": "Dal Singar",
+    "latitude": 26.0695542,
+    "longitude": 83.1796597,
+    "place_id": "ChIJVfzuyhOjkTkRcS0yfLQiUj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfzuyhOjkTkRcS0yfLQiUj4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:34:31"
+  }
+]

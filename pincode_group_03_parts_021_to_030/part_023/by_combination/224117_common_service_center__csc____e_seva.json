@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC e-Governance Services India Ltd",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center",
+    "pincode": "224117",
+    "phone_number": "N/A",
+    "website": "https://csc.gov.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "4th floor, 238, Okhla Phase 3 Rd, Okhla Phase III, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Okhla Phase III, Okhla Industrial Estate",
+    "latitude": 28.5507165,
+    "longitude": 77.2692355,
+    "place_id": "ChIJAQAAwOjjDDkRDdvMUC8XBqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwOjjDDkRDdvMUC8XBqc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:40:08"
+  },
+  {
+    "business_name": "E sevai maiyam",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center",
+    "pincode": "224117",
+    "phone_number": "+91 75500 09990",
+    "website": "https://www.tnesevai.tn.gov.in/",
+    "rating": 4.6,
+    "reviews_count": 175,
+    "address": "No 1 Pu Shanmugam Nagar, 1st Main Rd, Senthil Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Senthil Nagar, Kolathur",
+    "latitude": 13.1216458,
+    "longitude": 80.2054258,
+    "place_id": "ChIJr0C9OxllUjoRtnQ-Cj4svjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0C9OxllUjoRtnQ-Cj4svjI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:40:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Globus beauty parlour - Womaniya Beauty Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "222303",
+    "phone_number": "+91 88741 07190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mishra market, Purani sabji mandi, near RK enterprises, Dostpur, Uttar Pradesh 228131",
+    "area": "222303",
+    "latitude": 26.2702699,
+    "longitude": 82.47458979999999,
+    "place_id": "ChIJTVjz28SJkDkROtyKi7VcZoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVjz28SJkDkROtyKi7VcZoA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:07"
+  },
+  {
+    "business_name": "Tamanna Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "222303",
+    "phone_number": "+91 75249 96346",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "747/84, near Lambhua Road, Shahgarh, Harihar Ishapur, Uttar Pradesh 228001",
+    "area": "222303",
+    "latitude": 26.263739899999997,
+    "longitude": 82.0579171,
+    "place_id": "ChIJNTX3QRV9mjkReJZ5cvl3wZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTX3QRV9mjkReJZ5cvl3wZA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:09"
+  }
+]

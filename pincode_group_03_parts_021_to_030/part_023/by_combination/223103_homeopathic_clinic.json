@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Homeopathic pharmacy",
+    "pincode": "223103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bagbahar, pawai road, Jaldipur, Saraipul, Uttar Pradesh 276288",
+    "area": "223103",
+    "latitude": 26.130799099999997,
+    "longitude": 82.704025,
+    "place_id": "ChIJwTw3NjlbkDkR-gSauaax-Hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTw3NjlbkDkR-gSauaax-Hc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:17:05"
+  },
+  {
+    "business_name": "Manav Homoeo Research Centre",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "223103",
+    "phone_number": "+91 94154 47477",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nai abadi, khutahan road, Shahganj, Uttar Pradesh 223101",
+    "area": "223103",
+    "latitude": 26.057834399999997,
+    "longitude": 82.67556479999999,
+    "place_id": "ChIJrfTidpZbkDkR3a5jdvgasnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfTidpZbkDkR3a5jdvgasnc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:17:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GrowSmart",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "222203",
+    "phone_number": "+91 99620 78987",
+    "website": "https://www.growsmartsmb.com/",
+    "rating": 4.6,
+    "reviews_count": 37,
+    "address": "96, 4th Ave, Sarvamangala Colony, Krupa Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Sarvamangala Colony, Krupa Colony, Ashok Nagar",
+    "latitude": 13.0385542,
+    "longitude": 80.2139349,
+    "place_id": "ChIJReD5RehmUjoRAAt9_P3qkxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReD5RehmUjoRAAt9_P3qkxo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:05:38"
+  },
+  {
+    "business_name": "Samrat Laxmi Enterprises",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Laboratory equipment supplier",
+    "all_categories": "Laboratory equipment supplier",
+    "pincode": "222203",
+    "phone_number": "+91 94531 50155",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aflepur, Malhani Marg, Jaunpur, Uttar Pradesh 222004",
+    "area": "222203",
+    "latitude": 25.8707522,
+    "longitude": 82.625363,
+    "place_id": "ChIJ__3BTu9BkDkRpHO7GwRamwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__3BTu9BkDkRpHO7GwRamwo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:05:40"
+  }
+]

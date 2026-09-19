@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry buyer",
+    "pincode": "223224",
+    "phone_number": "+91 96167 44641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Nandaon bazar Asadha rode Saraimeer, Uttar Pradesh 276305",
+    "area": "223224",
+    "latitude": 25.9561299,
+    "longitude": 82.9046802,
+    "place_id": "ChIJacttWgBLkDkR7lUxZv-SipA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacttWgBLkDkR7lUxZv-SipA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:28:00"
+  },
+  {
+    "business_name": "Nonari bazar",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "223224",
+    "phone_number": "+91 96169 72036",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "XR9M+6H4, Phulpur Martinganj Road, Karuie, Uttar Pradesh 223224",
+    "area": "223224",
+    "latitude": 25.9680045,
+    "longitude": 82.8339475,
+    "place_id": "ChIJP0_0LwBNkDkRRiSPe0_nUG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0_0LwBNkDkRRiSPe0_nUG4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:28:02"
+  }
+]

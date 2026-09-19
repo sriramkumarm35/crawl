@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Life (Animal Hospital)",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "223105",
+    "phone_number": "+91 88281 74338",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 95,
+    "address": "Ghazipur Tiraha, opposite Bank of Baroda, behind Pathkind Lab, Sahadatpura, Mau, Uttar Pradesh 275101",
+    "area": "Sahadatpura",
+    "latitude": 25.9235498,
+    "longitude": 83.56616389999999,
+    "place_id": "ChIJryFRX1eLkTkRRMptcNZTXHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryFRX1eLkTkRRMptcNZTXHs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:51"
+  },
+  {
+    "business_name": "Dr. Gorhe Pet Cover Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet store",
+    "pincode": "223105",
+    "phone_number": "+91 91452 24499",
+    "website": "http://www.petcoverpune.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Near Sutar Bus Stand and Karve Statue, Kothrud Bus Stand Rd, opp. Titan watch Showroom, Kothrud, Pune, Maharashtra 411038",
+    "area": "Chaitanya Nagar, Kothrud",
+    "latitude": 18.5011697,
+    "longitude": 73.8139458,
+    "place_id": "ChIJUzUHwsC_wjsRptq_-DNTPM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzUHwsC_wjsRptq_-DNTPM4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:53"
+  }
+]

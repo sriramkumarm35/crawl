@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milk Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "222303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X8F5+QW4, Unnamed Road, Behta, Uttar Pradesh 230124",
+    "area": "222303",
+    "latitude": 25.974378899999998,
+    "longitude": 82.30984219999999,
+    "place_id": "ChIJnw0XUW5xkDkRCN5NQMs_2w8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnw0XUW5xkDkRCN5NQMs_2w8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:11:13"
+  },
+  {
+    "business_name": "Cool dairy milk ice cream",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "222303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "73F7+F6C, Vivek Nagar, Sultanpur, Uttar Pradesh 228001",
+    "area": "Vivek Nagar",
+    "latitude": 26.273693599999998,
+    "longitude": 82.0630066,
+    "place_id": "ChIJfTvkMgB9mjkR9lycCDRKUwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTvkMgB9mjkR9lycCDRKUwg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:11:13"
+  }
+]

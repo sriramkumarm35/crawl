@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Chand",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222175",
+    "phone_number": "+91 89530 05919",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna Chand Store, Jaunpur Road, Singramau, Uttar Pradesh 222175",
+    "area": "222175",
+    "latitude": 25.9458138,
+    "longitude": 82.3992181,
+    "place_id": "ChIJ457M6wpvkDkRcmdsTQeURi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ457M6wpvkDkRcmdsTQeURi0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:56:06"
+  },
+  {
+    "business_name": "KUDHUAA BAZAR GAURAMAFI",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "222175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 72,
+    "address": "Kudhuwa bajar Badlapur, Singramau, Uttar Pradesh 230121",
+    "area": "222175",
+    "latitude": 25.9529973,
+    "longitude": 82.3528077,
+    "place_id": "ChIJy3fwcplxkDkRlRvnhBG1Kk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3fwcplxkDkRlRvnhBG1Kk0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:56:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Qasim Home decoration",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "223105",
+    "phone_number": "+91 81759 85709",
+    "website": "http://qasimdecor.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Chaman Rd, Jummanpura, mod, Kopaganj, Uttar Pradesh 275305",
+    "area": "Jummanpura, mod",
+    "latitude": 26.0227395,
+    "longitude": 83.5656285,
+    "place_id": "ChIJA79ZLuSJkTkRdCjtmVhfqgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA79ZLuSJkTkRdCjtmVhfqgs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:27"
+  },
+  {
+    "business_name": "Home interior",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "223105",
+    "phone_number": "+91 99879 27634",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Terameel, Dehari, Uttar Pradesh 230135",
+    "area": "Terameel",
+    "latitude": 25.944277,
+    "longitude": 82.1478073,
+    "place_id": "ChIJ9VGKZBmdmjkRCt-8K2u6yOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VGKZBmdmjkRCt-8K2u6yOE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:27"
+  }
+]

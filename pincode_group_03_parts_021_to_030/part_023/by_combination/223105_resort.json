@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Vatika",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "223105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Taukalpur Nagra, Mudila Road, Kadipur, Surapur, Uttar Pradesh 228161",
+    "area": "Kadipur",
+    "latitude": 26.1298446,
+    "longitude": 82.4423553,
+    "place_id": "ChIJ07EgbX1jkDkR4BRJRytK7Bs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07EgbX1jkDkR4BRJRytK7Bs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:24"
+  },
+  {
+    "business_name": "The Grand Shehnai",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "223105",
+    "phone_number": "+91 97922 62083",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Belwai - Pawai Road, near Ambedkar Park, Rampur Kalan, Uttar Pradesh 276288",
+    "area": "223105",
+    "latitude": 26.1768684,
+    "longitude": 82.70787969999999,
+    "place_id": "ChIJcwb7QvFZkDkR07upcr8z3EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwb7QvFZkDkR07upcr8z3EU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:25"
+  }
+]

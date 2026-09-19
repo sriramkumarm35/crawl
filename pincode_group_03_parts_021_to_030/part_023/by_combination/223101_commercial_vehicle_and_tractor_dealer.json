@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Automobiles",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "223101",
+    "phone_number": "+91 99188 00310",
+    "website": "https://sunilgroup.org/sunil-automobiles-massey-ferguson-tractor-dealer-in-basti/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Malviya Rd, near Brahman Mahasabha, Bhatolowa, Basti, Uttar Pradesh 272001",
+    "area": "Bhatolowa",
+    "latitude": 26.7996901,
+    "longitude": 82.7390769,
+    "place_id": "ChIJw1PaNQDRkDkRadsWP1ko57k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1PaNQDRkDkRadsWP1ko57k",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:39"
+  },
+  {
+    "business_name": "TRAKSTAR",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "223101",
+    "phone_number": "+91 94151 10732",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "XX3V+9GG, Lucknow, Uttar Pradesh 226026",
+    "area": "223101",
+    "latitude": 26.9534386,
+    "longitude": 80.99381389999999,
+    "place_id": "ChIJwQUJyd1ZmTkRZRA70gLp2hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQUJyd1ZmTkRZRA70gLp2hc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:39"
+  }
+]

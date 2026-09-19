@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shifa Medical Store शिफ़ा मेडिकल स्टोर",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "223102",
+    "phone_number": "+91 76075 07175",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 87,
+    "address": "Mahul - Ambari Rd, Mahul, Uttar Pradesh 223225",
+    "area": "223102",
+    "latitude": 26.1303634,
+    "longitude": 82.8168389,
+    "place_id": "ChIJQQSkYVVRkDkRW4upia6u9Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQSkYVVRkDkRW4upia6u9Js",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:15:16"
+  },
+  {
+    "business_name": "Maa maihar health care or physiotherapy centre",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "223102",
+    "phone_number": "+91 98388 13439",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jamauli, Usrauli, Uttar Pradesh 223102",
+    "area": "223102",
+    "latitude": 26.07331,
+    "longitude": 82.4820196,
+    "place_id": "ChIJY_eJKQBnkDkREPI0HQGZVhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_eJKQBnkDkREPI0HQGZVhk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:15:19"
+  }
+]

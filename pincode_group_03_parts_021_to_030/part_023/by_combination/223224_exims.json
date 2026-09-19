@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AS",
+    "search_category": "EXIMS",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "223224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sidhari, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sidhari",
+    "latitude": 26.0466929,
+    "longitude": 83.1887746,
+    "place_id": "ChIJpeodt_W9kTkR86lI9nbj3Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeodt_W9kTkR86lI9nbj3Nw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:29:24"
+  },
+  {
+    "business_name": "Rise Inter College DihKaithauli",
+    "search_category": "EXIMS",
+    "primary_category": "Junior college",
+    "all_categories": "Junior college",
+    "pincode": "223224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kaithauli, Uttar Pradesh 223224",
+    "area": "223224",
+    "latitude": 26.017583199999997,
+    "longitude": 82.73845519999999,
+    "place_id": "ChIJgytIaYlPkDkRU3YABBd2HeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgytIaYlPkDkRU3YABBd2HeQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:29:24"
+  }
+]

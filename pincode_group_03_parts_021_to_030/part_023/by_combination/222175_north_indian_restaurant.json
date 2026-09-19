@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Sweets and Lallantop Chai",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "222175",
+    "phone_number": "+91 70525 63604",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "2969+HX, Sonpura, Uttar Pradesh 230121",
+    "area": "222175",
+    "latitude": 26.011726799999998,
+    "longitude": 82.37013999999999,
+    "place_id": "ChIJ_Wfr2zVxkDkRK8MPLakKTfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Wfr2zVxkDkRK8MPLakKTfE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:54:12"
+  },
+  {
+    "business_name": "APNA RESTAURANT & CAKE PARLOUR",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "222175",
+    "phone_number": "+91 96969 65453",
+    "website": "https://apna-resturant.web.app/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Allahabad, Road, Shahganj, Uttar Pradesh 223101",
+    "area": "222175",
+    "latitude": 26.0579997,
+    "longitude": 82.6759617,
+    "place_id": "ChIJtT3_zodbkDkR5IX7uUpY2Mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtT3_zodbkDkR5IX7uUpY2Mc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:54:13"
+  }
+]

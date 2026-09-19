@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VARAD Eventz",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency",
+    "pincode": "223101",
+    "phone_number": "+91 72758 79679",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sonia Rd, Naipokhari, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Naipokhari, Sigra",
+    "latitude": 25.3148153,
+    "longitude": 82.99433379999999,
+    "place_id": "ChIJUf6GwPctjjkRRAGZjXaTCcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUf6GwPctjjkRRAGZjXaTCcg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:14:10"
+  },
+  {
+    "business_name": "Event-Media",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Service establishment",
+    "pincode": "223101",
+    "phone_number": "+91 92015 11223",
+    "website": "https://event-media.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Event-Media, 223101, India",
+    "area": "223101",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJeeta3rBWqIMR3tiXgvRiKHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeta3rBWqIMR3tiXgvRiKHA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:14:12"
+  }
+]

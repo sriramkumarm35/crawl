@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pumping iron gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "223225",
+    "phone_number": "+91 82998 56603",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "35CJ+97R, Allama Shibli Marg, Dal Singar, Azamgarh, Uttar Pradesh 276001",
+    "area": "Dal Singar",
+    "latitude": 26.0709989,
+    "longitude": 83.1806501,
+    "place_id": "ChIJa86FX-GjkTkR5_tlz64hPWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa86FX-GjkTkR5_tlz64hPWo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:30:06"
+  },
+  {
+    "business_name": "Olympia gym & health club latghat azamgarh",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "223225",
+    "phone_number": "+91 94558 20198",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Gym, Latghat, Uttar Pradesh 276136",
+    "area": "223225",
+    "latitude": 26.2223611,
+    "longitude": 83.3859349,
+    "place_id": "ChIJ67AOwludkTkR7-rxeiIGo0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67AOwludkTkR7-rxeiIGo0A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:30:08"
+  }
+]

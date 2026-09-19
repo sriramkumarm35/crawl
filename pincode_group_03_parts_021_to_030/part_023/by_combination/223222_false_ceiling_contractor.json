@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POP contractor",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Service Apartment",
+    "all_categories": "Service Apartment",
+    "pincode": "223222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35R7+CMX Chauhan, Basti, Devkhari, Azamgarh, Uttar Pradesh 276135",
+    "area": "Basti",
+    "latitude": 26.0911156,
+    "longitude": 83.1642444,
+    "place_id": "ChIJv4LnDLOlkTkRVAxJptJkcbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4LnDLOlkTkRVAxJptJkcbY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:54"
+  },
+  {
+    "business_name": "Ceiling Solution",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company, Ceiling supplier, Metal construction company",
+    "pincode": "223222",
+    "phone_number": "N/A",
+    "website": "http://www.theceilingsolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "84 Dexter St, Medford, MA 02155, United States",
+    "area": "South Medford",
+    "latitude": 42.4002787,
+    "longitude": -71.10060419999999,
+    "place_id": "ChIJgUBsyhOL44kR3jKKb_0wqQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUBsyhOL44kR3jKKb_0wqQM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:56"
+  }
+]

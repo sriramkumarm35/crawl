@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guddu Anda Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "223225",
+    "phone_number": "+91 83819 42869",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mewada Kala, Jalalpur - Ramgarh Rd, Newadakala, Uttar Pradesh 224149",
+    "area": "223225",
+    "latitude": 26.214071,
+    "longitude": 82.8058393,
+    "place_id": "ChIJf0ssnu9XkDkRFrPJWDNgsaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0ssnu9XkDkRFrPJWDNgsaA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:29:51"
+  },
+  {
+    "business_name": "Sadbhawana Fashion Gallery",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "223225",
+    "phone_number": "+91 99718 56528",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bus Stop, Phoolpur, Uttar Pradesh 276304",
+    "area": "223225",
+    "latitude": 26.0790556,
+    "longitude": 82.876533,
+    "place_id": "ChIJkYzR8I1TkDkRi0mMSBONFao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYzR8I1TkDkRi0mMSBONFao",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:29:51"
+  }
+]

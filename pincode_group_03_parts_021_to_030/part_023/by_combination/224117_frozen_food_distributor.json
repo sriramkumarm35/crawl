@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "224117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VHR4+5QF, Mohalla Chaudhariyan, Tikaitnagar Road, near Vodafone Telecom Tower, Dariyabad, Uttar Pradesh 225404",
+    "area": "224117",
+    "latitude": 26.8904382,
+    "longitude": 81.55693509999999,
+    "place_id": "ChIJ_68NYvYqmjkRssOj1zSA83A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_68NYvYqmjkRssOj1zSA83A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:38:55"
+  },
+  {
+    "business_name": "FastnFry Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "224117",
+    "phone_number": "+91 99252 57870",
+    "website": "https://www.fastnfry.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Survey no 193/3, Plot no 1 & 2, Charakhadi main road, Jetpur National Highway 27, Gondal, Gujarat 360380",
+    "area": "224117",
+    "latitude": 21.8776421,
+    "longitude": 70.7091471,
+    "place_id": "ChIJwz89pEc9WDkRibKCRE8aS30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwz89pEc9WDkRibKCRE8aS30",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:38:58"
+  }
+]

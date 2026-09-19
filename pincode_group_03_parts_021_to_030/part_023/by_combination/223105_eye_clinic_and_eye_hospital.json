@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eye zone",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "223105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Milkipur road pawai, Government hospital ke saamne(katre me, Pawai Khas, Uttar Pradesh 276288",
+    "area": "223105",
+    "latitude": 26.176178099999998,
+    "longitude": 82.728139,
+    "place_id": "ChIJ4cxQGgFZkDkRdpj7hp2VKdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cxQGgFZkDkRdpj7hp2VKdc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:45"
+  },
+  {
+    "business_name": "ABH Eye Care Center Khetasarai",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "223105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XM8Q+FP2, Kheta Sarai, Uttar Pradesh 222139",
+    "area": "223105",
+    "latitude": 25.9661378,
+    "longitude": 82.6892605,
+    "place_id": "ChIJVe40NQBFkDkRqsQRKm8srEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVe40NQBFkDkRqsQRKm8srEE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:47"
+  }
+]

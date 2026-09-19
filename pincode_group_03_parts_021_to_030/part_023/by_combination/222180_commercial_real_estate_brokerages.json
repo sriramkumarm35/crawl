@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KDGROUP REALESTATE",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company, Property administration service, Property investment company, Real estate consultant",
+    "pincode": "222180",
+    "phone_number": "+91 93699 78583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "547/659, Jalalpur Kutti, Devpur, Para Rd, Block B, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Block B, Rajajipuram",
+    "latitude": 26.831614899999998,
+    "longitude": 80.88627559999999,
+    "place_id": "ChIJTZpNOKv_mzkR5rVCeYCiUJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZpNOKv_mzkR5rVCeYCiUJk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:57:57"
+  },
+  {
+    "business_name": "ABHIRAJ REALTY",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "222180",
+    "phone_number": "+91 77780 77781",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 155,
+    "address": "FF-2, Arunachal Rd, Subhanpura, Vadodara, Gujarat 390023",
+    "area": "Subhanpura",
+    "latitude": 22.3243913,
+    "longitude": 73.1526396,
+    "place_id": "ChIJFa1IHA7JXzkRdCfHdzfjhLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFa1IHA7JXzkRdCfHdzfjhLM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:57:57"
+  }
+]

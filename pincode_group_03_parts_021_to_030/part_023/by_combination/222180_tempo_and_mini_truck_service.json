@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna Transport Co.",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "222180",
+    "phone_number": "+91 88870 70400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rto Office Chauraha, F/1/F, Sector 5, Transport Nagar, T.P. Nagar, Prayagraj, Uttar Pradesh 211011",
+    "area": "Sector 5, Transport Nagar, T.P. Nagar",
+    "latitude": 25.452327699999998,
+    "longitude": 81.76724569999999,
+    "place_id": "ChIJyXzC0bzMmjkRdsGd2SqUszw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXzC0bzMmjkRdsGd2SqUszw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:57:01"
+  },
+  {
+    "business_name": "Shubham auto service station",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Truck repair shop",
+    "pincode": "222180",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Jaunpur - Azamgarh Rd, Jaunpur, Bithar, Uttar Pradesh 222133",
+    "area": "222180",
+    "latitude": 25.7681202,
+    "longitude": 82.7661135,
+    "place_id": "ChIJ8bZ-uzI3kDkRXlMEg0B2yp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bZ-uzI3kDkRXlMEg0B2yp4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:57:02"
+  }
+]

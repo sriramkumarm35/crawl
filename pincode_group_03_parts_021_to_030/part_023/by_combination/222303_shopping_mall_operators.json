@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umrao Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "222303",
+    "phone_number": "+91 522 400 3768",
+    "website": "https://umraomall.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Badshah Nagar, Metro Station, Near, Faizabad Rd, Nishat Ganj, Lucknow, Uttar Pradesh 226006",
+    "area": "Nishat Ganj",
+    "latitude": 26.8715498,
+    "longitude": 80.95842569999999,
+    "place_id": "ChIJj6CYcp39mzkRcXNSlBNpu6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6CYcp39mzkRcXNSlBNpu6c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:58"
+  },
+  {
+    "business_name": "Value Plus - Trusted Electronics Store - Sultanpur",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "222303",
+    "phone_number": "+91 97929 13777",
+    "website": "http://www.valueplusretail.com/",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "KHWAJA COMPLEX, Opp, Faizabad - Allahabad Rd, Punjabi Colony, Khairabad, Sultanpur, Uttar Pradesh 228001",
+    "area": "Punjabi Colony, Khairabad",
+    "latitude": 26.256705999999998,
+    "longitude": 82.0720156,
+    "place_id": "ChIJxb8xcEh9mjkRJCC0Z-FA7Sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxb8xcEh9mjkRJCC0Z-FA7Sg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:59"
+  }
+]

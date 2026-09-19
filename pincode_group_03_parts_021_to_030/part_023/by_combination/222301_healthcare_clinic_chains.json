@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr ANJALIKA REBELLO",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "222301",
+    "phone_number": "+91 79055 55617",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "opposite Pant Stadium Road, Civil Line, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.2636801,
+    "longitude": 82.07580589999999,
+    "place_id": "ChIJ4W7nf1N9mjkR83yFsDW5UQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4W7nf1N9mjkR83yFsDW5UQM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:08:05"
+  },
+  {
+    "business_name": "Vaishali Medical Store",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "61, parkinsganj, in front of Government District Hospital, Uttar Pradesh 228001",
+    "area": "Civil Line Number 2",
+    "latitude": 26.2620564,
+    "longitude": 82.0699661,
+    "place_id": "ChIJIXPHNVh9mjkRi-bcn80Tkmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXPHNVh9mjkRi-bcn80Tkmw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:08:05"
+  }
+]

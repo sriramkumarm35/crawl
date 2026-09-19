@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishno Poultry and Integration Farming",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Store",
+    "pincode": "223101",
+    "phone_number": "+91 98380 70186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Gaurav hospital State Highway 5, 페이자바드 로드, opposite Shahganj, Katar, Shahganj, Uttar Pradesh 223103",
+    "area": "223101",
+    "latitude": 26.0630858,
+    "longitude": 82.68096969999999,
+    "place_id": "ChIJ8U0VVyNbkDkRs-GSvPjw7P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8U0VVyNbkDkRs-GSvPjw7P4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:04"
+  },
+  {
+    "business_name": "Maurya poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "223101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3JM4+F3, Jahooruddinpur, Uttar Pradesh 223105",
+    "area": "223101",
+    "latitude": 26.083643,
+    "longitude": 82.60523099999999,
+    "place_id": "ChIJJ4j-aABdkDkRT8M2yvVila4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4j-aABdkDkRT8M2yvVila4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:13:04"
+  }
+]

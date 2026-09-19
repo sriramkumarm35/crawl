@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sardar cold storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "223103",
+    "phone_number": "+91 93592 48000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2248+Q7X, Ujhani, Ujhani Grameen, Uttar Pradesh 243639",
+    "area": "223103",
+    "latitude": 28.0069841,
+    "longitude": 79.0157412,
+    "place_id": "ChIJtez7p3k4dTkRavyy31nIo2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtez7p3k4dTkRavyy31nIo2I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:18:19"
+  },
+  {
+    "business_name": "Manohar Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "223103",
+    "phone_number": "+91 98972 05244",
+    "website": "http://www.manoharcoldstorage.in/",
+    "rating": 3.9,
+    "reviews_count": 270,
+    "address": "Sardhana Rd Flyover, Kankar Khera, Nangla Tashi, Meerut, Uttar Pradesh 250001",
+    "area": "Kankar Khera, Nangla Tashi",
+    "latitude": 29.034678399999997,
+    "longitude": 77.67241179999999,
+    "place_id": "ChIJoXYoTYVlDDkR-YcdL5klpHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXYoTYVlDDkR-YcdL5klpHs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:18:20"
+  }
+]

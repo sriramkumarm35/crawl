@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhar light House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "222302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "44WM+FGG, Lambhua Rd, Ramgarh, Uttar Pradesh 227304",
+    "area": "222302",
+    "latitude": 26.1465806,
+    "longitude": 82.13377109999999,
+    "place_id": "ChIJiaKldQCBmjkRzbt5gkYS5S0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaKldQCBmjkRzbt5gkYS5S0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:10:32"
+  },
+  {
+    "business_name": "VermaTent House (वर्मा टेंट हाउस) कालीगंज",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "222302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "78WF+CCW, Khajuri, Uttar Pradesh 228141",
+    "area": "222302",
+    "latitude": 26.2961185,
+    "longitude": 82.3235892,
+    "place_id": "ChIJ8U7XNACHkDkR3PynIErBNZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8U7XNACHkDkR3PynIErBNZc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:10:32"
+  }
+]

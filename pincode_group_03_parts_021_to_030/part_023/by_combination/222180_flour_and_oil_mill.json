@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti Oil and Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "222180",
+    "phone_number": "+91 63871 36336",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village and Post, Gangauli, Uttar Pradesh 224172",
+    "area": "222180",
+    "latitude": 26.6696256,
+    "longitude": 82.2375229,
+    "place_id": "ChIJe1TTauSnkDkRei_HKx8bOLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1TTauSnkDkRei_HKx8bOLQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:58:03"
+  },
+  {
+    "business_name": "Munna Atta Chakki",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222180",
+    "phone_number": "+91 99363 95611",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "JQH5+CW8, Izari, Uttar Pradesh 222136",
+    "area": "222180",
+    "latitude": 25.6285348,
+    "longitude": 82.75983029999999,
+    "place_id": "ChIJjbh2HaEvkDkR63H_pPu1eoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbh2HaEvkDkR63H_pPu1eoQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:58:03"
+  }
+]

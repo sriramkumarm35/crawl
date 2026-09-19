@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaman Aadhar Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center, Internet cafe",
+    "pincode": "223104",
+    "phone_number": "+91 83549 84515",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Cinema Rd, Nagla Khunday, Karhal, Uttar Pradesh 205264",
+    "area": "Nagla Khunday",
+    "latitude": 27.001160799999997,
+    "longitude": 78.9428807,
+    "place_id": "ChIJMRgg1e3DdTkRbr74yHcbuF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRgg1e3DdTkRbr74yHcbuF8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:48"
+  },
+  {
+    "business_name": "CSC e-Governance Services India Limited",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "City government office",
+    "all_categories": "City government office",
+    "pincode": "223104",
+    "phone_number": "+91 11 4975 4924",
+    "website": "http://digitalseva.csc.gov.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Paniara, Kushmaur, Paniara, Uttar Pradesh 275103",
+    "area": "Paniara",
+    "latitude": 25.901272799999997,
+    "longitude": 83.51978969999999,
+    "place_id": "ChIJY7aJhFWLkTkRatDTydiExIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7aJhFWLkTkRatDTydiExIU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:50"
+  }
+]

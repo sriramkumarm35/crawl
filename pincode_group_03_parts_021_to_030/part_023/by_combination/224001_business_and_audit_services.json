@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "कर सलाहकार",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "224001",
+    "phone_number": "+91 94587 58637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "5/3/34A , Kaushal Puram Colony, Ram Path Rd, Amanigunj, Ayodhya, Uttar Pradesh 224001",
+    "area": "Amanigunj",
+    "latitude": 26.7813788,
+    "longitude": 82.16619899999999,
+    "place_id": "ChIJywogecgHmjkR2fONc6y40y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywogecgHmjkR2fONc6y40y4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:36:39"
+  },
+  {
+    "business_name": "Prabhu Digital Solutions",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Software company",
+    "pincode": "224001",
+    "phone_number": "+91 99537 73769",
+    "website": "https://prabhudigitalsolutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deokali Bypass, Adarsh Puram, Faizabad, Uttar Pradesh 224001",
+    "area": "Adarsh Puram",
+    "latitude": 26.7679673,
+    "longitude": 82.17227679999999,
+    "place_id": "ChIJV8gw71AJmjkRJ3pnknOvGGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8gw71AJmjkRJ3pnknOvGGk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:36:40"
+  }
+]

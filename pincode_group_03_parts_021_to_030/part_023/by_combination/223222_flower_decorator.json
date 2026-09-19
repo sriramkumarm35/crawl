@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Pustakalay gift & sports",
+    "search_category": "Flower Decorator",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Sporting goods store, Stationery store",
+    "pincode": "223222",
+    "phone_number": "+91 98896 88059",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MDR 97E, Didarganj, Uttar Pradesh 223224",
+    "area": "223222",
+    "latitude": 25.9990514,
+    "longitude": 82.77029379999999,
+    "place_id": "ChIJ44J98QZPkDkRHMk5DnFYiyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44J98QZPkDkRHMk5DnFYiyI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:25:02"
+  },
+  {
+    "business_name": "MAHADEV FLOWER SHOP",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "223222",
+    "phone_number": "+91 88092 60160",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 146,
+    "address": "RP COMPLEX, Boring Rd, Anandpuri, Patna, Bihar 800001",
+    "area": "Anandpuri",
+    "latitude": 25.6150046,
+    "longitude": 85.1158205,
+    "place_id": "ChIJ6xezjDRZ7TkRMhV40zVRiQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xezjDRZ7TkRMhV40zVRiQY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:25:05"
+  }
+]

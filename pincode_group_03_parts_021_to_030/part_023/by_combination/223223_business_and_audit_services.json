@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Y Mack & Co.",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "223223",
+    "phone_number": "+91 95322 22848",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "H. No. 6. Ward No.4, Mohalla Badarka, near Police Chowki, Sadar, Azamgarh, Uttar Pradesh 276001",
+    "area": "Sadar",
+    "latitude": 26.071717099999997,
+    "longitude": 83.1765707,
+    "place_id": "ChIJCwegcU2jkTkRRLrOlGa4NVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwegcU2jkTkRRLrOlGa4NVs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:27:24"
+  },
+  {
+    "business_name": "Umesh Accounting Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "223223",
+    "phone_number": "+91 73885 21706",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gobind Sahab, Bhagwanpur Manjhariya, Uttar Pradesh 224139",
+    "area": "223223",
+    "latitude": 26.349299,
+    "longitude": 82.884282,
+    "place_id": "ChIJLSG2CAD9kDkRMv0uhEaQRxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSG2CAD9kDkRMv0uhEaQRxc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:27:25"
+  }
+]

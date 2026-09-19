@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Bus Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Bus company, Bus tour agency, Business networking company",
+    "pincode": "223105",
+    "phone_number": "+91 96489 05953",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Akhandnagar, Bahrabhari, Uttar Pradesh 228171",
+    "area": "Akhandnagar",
+    "latitude": 26.2093416,
+    "longitude": 82.5953644,
+    "place_id": "ChIJo71lZC5fkDkR2QMoSONaEcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo71lZC5fkDkR2QMoSONaEcI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:59"
+  },
+  {
+    "business_name": "VISHAL ONLINE CENTER",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "223105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Railway Station, Kheta Sarai, Uttar Pradesh 222139",
+    "area": "223105",
+    "latitude": 25.968469199999998,
+    "longitude": 82.6879119,
+    "place_id": "ChIJebIZZQFFkDkRjcR0v1NnNEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebIZZQFFkDkRjcR0v1NnNEE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhesh Stationery Mart",
+    "search_category": "Document Writer and Stamp Vendor",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Store",
+    "pincode": "223105",
+    "phone_number": "+91 97219 84643",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badlapur Padav Road, Gularghat, Shanti Nagar, Chauraha, Jaunpur, Uttar Pradesh 222001",
+    "area": "Gularghat, Shanti Nagar, Chauraha",
+    "latitude": 25.7475113,
+    "longitude": 82.6827192,
+    "place_id": "ChIJc82r8SI7kDkRZ2JXJPoq0F4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc82r8SI7kDkRZ2JXJPoq0F4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:42"
+  },
+  {
+    "business_name": "Abhiranjan Printing Services",
+    "search_category": "Document Writer and Stamp Vendor",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Computer store, Internet cafe, Stationery store",
+    "pincode": "223105",
+    "phone_number": "+91 72358 24086",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "book shop, Om Sai Guest House, shop no 3 from Raju magzine, BHU - Lanka Rd, Nagwa Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Nagwa Lanka",
+    "latitude": 25.2792604,
+    "longitude": 83.002928,
+    "place_id": "ChIJvSe9fe8xjjkRHGv3P_fvvSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSe9fe8xjjkRHGv3P_fvvSA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:21:42"
+  }
+]

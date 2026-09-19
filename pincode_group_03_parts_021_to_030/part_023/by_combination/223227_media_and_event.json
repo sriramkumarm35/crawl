@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhar news agency",
+    "search_category": "Media and Event",
+    "primary_category": "Newspaper distribution service",
+    "all_categories": "Newspaper distribution service",
+    "pincode": "223227",
+    "phone_number": "+91 73557 96329",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bardah - Martinganj Rd, BARDAH BAZAR, azamgarh, Bardah, Uttar Pradesh 276301",
+    "area": "BARDAH BAZAR",
+    "latitude": 25.810789999999997,
+    "longitude": 82.85353599999999,
+    "place_id": "ChIJMaiVg7Q1kDkRJO3UFVC2NV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaiVg7Q1kDkRJO3UFVC2NV4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:34:26"
+  },
+  {
+    "business_name": "Aditya Vision",
+    "search_category": "Media and Event",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "223227",
+    "phone_number": "+91 79 4921 3876",
+    "website": "https://stores.adityavision.com/electronics-shops/azamgarh/Civil-Line/aditya-vision-in-Civil-Line-azamgarh--35uBSi/home",
+    "rating": 4.6,
+    "reviews_count": 211,
+    "address": "Ward No 2314, Rama Complex, Dindayal Chauraha, nearby Indian Bank, Civil Lines, Azamgarh, Uttar Pradesh 276001",
+    "area": "Civil Lines",
+    "latitude": 26.053133199999998,
+    "longitude": 83.18059629999999,
+    "place_id": "ChIJ5xQZPxK9kTkROIC50pVKgNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xQZPxK9kTkROIC50pVKgNw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:34:26"
+  }
+]

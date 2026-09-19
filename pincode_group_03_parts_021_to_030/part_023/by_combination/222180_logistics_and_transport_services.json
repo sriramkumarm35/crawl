@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Instakart logistics (E kart)",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "222180",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "QP22+6CH, Unnamed Road, Sipah, Mtrapuri, Rizwikhan, Jaunpur, Uttar Pradesh 222001",
+    "area": "Sipah, Mtrapuri, Rizwikhan",
+    "latitude": 25.750558899999998,
+    "longitude": 82.7011081,
+    "place_id": "ChIJxf0i5O87kDkR2Nbco0mgvcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxf0i5O87kDkR2Nbco0mgvcE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:56:59"
+  },
+  {
+    "business_name": "Vishal & Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "222180",
+    "phone_number": "+91 98392 43329",
+    "website": "http://www.vishalandcompany.com/",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "Visasarpur Panchatiya Shahganj By Pass Road Near Ram Ghat, Jaunpur, Uttar Pradesh 222001",
+    "area": "Mahmoodpur, Bharehari, Chachakpur",
+    "latitude": 25.7489356,
+    "longitude": 82.69874759999999,
+    "place_id": "ChIJjdPmCTE6kDkRCI5CAuwh_GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdPmCTE6kDkRCI5CAuwh_GI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 05:57:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna general Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "223103",
+    "phone_number": "+91 78979 83884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Golhagaur, Parasin, Shahganj, Uttar Pradesh 223105",
+    "area": "Golhagaur",
+    "latitude": 26.1084124,
+    "longitude": 82.6605874,
+    "place_id": "ChIJIXkNUW5bkDkRxBjlGkGWaGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXkNUW5bkDkRxBjlGkGWaGw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:16:41"
+  },
+  {
+    "business_name": "DEVIDAYAL",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "223103",
+    "phone_number": "+91 85284 68573",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur 123, Husenabad, Uttar Pradesh 223103",
+    "area": "223103",
+    "latitude": 26.0872888,
+    "longitude": 82.631834,
+    "place_id": "ChIJndAdMSddkDkR3Im8BczaPrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndAdMSddkDkR3Im8BczaPrI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:16:41"
+  }
+]

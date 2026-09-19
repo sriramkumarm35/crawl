@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "QADRI BOOK DEPOT",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "223104",
+    "phone_number": "N/A",
+    "website": "https://qadri-book-depot.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Qadri Book Depot, Dargah Sharif, Gauspur, Khutahan, Uttar Pradesh 223104",
+    "area": "Dargah Sharif",
+    "latitude": 25.9572649,
+    "longitude": 82.5911093,
+    "place_id": "ChIJLbsFmkxDkDkRqQ_RAxQ4fDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbsFmkxDkDkRqQ_RAxQ4fDU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:44"
+  },
+  {
+    "business_name": "Office Needs",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Stationery wholesaler",
+    "pincode": "223104",
+    "phone_number": "+91 99860 14102",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 10,
+    "address": "#107, Aruna Complex, Next To ITPB Gate Number 3, Opposite Vertex Tower, Pattandur Agrahar,White Field, Bengaluru, Karnataka 560066",
+    "area": "Pattandur Agrahara, Whitefield",
+    "latitude": 12.9841886,
+    "longitude": 77.7337573,
+    "place_id": "ChIJtbBrgPARrjsR48gwFl1jAiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbBrgPARrjsR48gwFl1jAiA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:19:47"
+  }
+]

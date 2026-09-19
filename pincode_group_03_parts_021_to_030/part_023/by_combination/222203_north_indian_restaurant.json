@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pind Balluchi Express",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "222203",
+    "phone_number": "+91 81770 54802",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 30-36, Bida Mart, Rajpura Crossing, Chedibeer, Bhadohi, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.3808677,
+    "longitude": 82.5688119,
+    "place_id": "ChIJLZGG-rPfjzkRb2auhq3fHQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZGG-rPfjzkRb2auhq3fHQc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:04:04"
+  },
+  {
+    "business_name": "Chaurasiya Ji Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant, Delivery Chinese restaurant, Fast food restaurant, North Indian restaurant, Restaurant",
+    "pincode": "222203",
+    "phone_number": "+91 94158 70302",
+    "website": "http://zoma.to/r/19901569",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Lippon Chauraha, near Gyandevi School, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.3937256,
+    "longitude": 82.5687457,
+    "place_id": "ChIJX7MeYafgjzkRt2jqqgT8MKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7MeYafgjzkRt2jqqgT8MKs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:04:04"
+  }
+]

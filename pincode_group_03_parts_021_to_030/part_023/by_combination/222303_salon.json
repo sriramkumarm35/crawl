@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asha Home",
+    "search_category": "Salon",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Hairdresser",
+    "pincode": "222303",
+    "phone_number": "+91 80050 64968",
+    "website": "http://www.adarshkartvya.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rupi ka pura, Lambhua, Uttar Pradesh 222302",
+    "area": "222303",
+    "latitude": 26.121850199999997,
+    "longitude": 82.2718372,
+    "place_id": "ChIJr7jbGJx_kDkRpasVcVy0HRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7jbGJx_kDkRpasVcVy0HRI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:09"
+  },
+  {
+    "business_name": "Neetu beauty parlor",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "222303",
+    "phone_number": "+91 85747 38502",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patti - Chanda Rd, Pardaha Basdeva, Saifabad Bazaar, Uttar Pradesh 230138",
+    "area": "222303",
+    "latitude": 26.0204933,
+    "longitude": 82.2711875,
+    "place_id": "ChIJR82C7R13kDkRstUvgwx6BIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR82C7R13kDkRstUvgwx6BIM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:12:09"
+  }
+]

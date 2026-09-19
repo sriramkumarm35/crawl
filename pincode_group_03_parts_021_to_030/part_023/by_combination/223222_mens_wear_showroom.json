@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Raymond Shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Clothing store, Tuxedo shop, Youth clothing store",
+    "pincode": "223222",
+    "phone_number": "+91 80 4495 3422",
+    "website": "https://ailwal.myraymond.com/",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "No. 127, Gorakhpur Varanasi Marg, near RR Mall, Ailwal, Azamgarh, Uttar Pradesh 276001",
+    "area": "Ailwal",
+    "latitude": 26.063934099999997,
+    "longitude": 83.18313979999999,
+    "place_id": "ChIJey6p5P-9kTkR-HWZIEyYuwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey6p5P-9kTkR-HWZIEyYuwo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:17"
+  },
+  {
+    "business_name": "Fashion point",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "223222",
+    "phone_number": "+91 75718 94007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nageshwar Katra, Mahul - Ambari Rd, Mahul, Ufari, Uttar Pradesh 223222",
+    "area": "223222",
+    "latitude": 26.086586,
+    "longitude": 82.8015887,
+    "place_id": "ChIJJfjv6c1RkDkR696UKoCwjis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfjv6c1RkDkR696UKoCwjis",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:24:17"
+  }
+]

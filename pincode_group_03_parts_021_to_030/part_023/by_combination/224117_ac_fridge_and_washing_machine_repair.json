@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind Enterprises",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "224117",
+    "phone_number": "+91 81729 84752",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Highway, near by Narayan dairy, mod, Murar Pur, Ram Sanehi Ghat, Uttar Pradesh 225409",
+    "area": "mod",
+    "latitude": 26.800208599999998,
+    "longitude": 81.5481987,
+    "place_id": "ChIJvZCjXC4tmjkRTG-3D3W-QXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZCjXC4tmjkRTG-3D3W-QXs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:39:43"
+  },
+  {
+    "business_name": "SMH Service Washing Machine Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "224117",
+    "phone_number": "+91 72002 04205",
+    "website": "http://smhservice.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "door No: 6A Manimithankulam, JJP5+88H, Block No:1, Pattamadai, Tamil Nadu 627453",
+    "area": "224117",
+    "latitude": 8.6358433,
+    "longitude": 77.608324,
+    "place_id": "ChIJ-903XAwVBDsRqaTWm30U-cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-903XAwVBDsRqaTWm30U-cY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:39:45"
+  }
+]

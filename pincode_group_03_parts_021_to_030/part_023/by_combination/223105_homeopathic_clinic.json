@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "223105",
+    "phone_number": "+91 88588 97020",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5J3M+75V, Prakash Nagar,argoopur kalan ,arsia, marg, Jaunpur, Uttar Pradesh 223105",
+    "area": "223105",
+    "latitude": 26.1532451,
+    "longitude": 82.632913,
+    "place_id": "ChIJWx9rWWdfkDkRrhUP9nDXwao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWx9rWWdfkDkRrhUP9nDXwao",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:42"
+  },
+  {
+    "business_name": "Homeopath clinic Dr Amita yadav",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "223105",
+    "phone_number": "+91 73170 53080",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "6H3H+2M4, Parabasoopur, Uttar Pradesh 228171",
+    "area": "223105",
+    "latitude": 26.202512499999997,
+    "longitude": 82.5792031,
+    "place_id": "ChIJFeZHg6hfkDkR2N_GJH78u10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeZHg6hfkDkR2N_GJH78u10",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj High-tech Car Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "223225",
+    "phone_number": "+91 81152 83078",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "37JJ GWX, Chaksikathi Islampura, Adampur, Uttar Pradesh 276404",
+    "area": "223225",
+    "latitude": 26.081555599999998,
+    "longitude": 83.2823224,
+    "place_id": "ChIJEWUtncOZkTkR15LbwqIT9vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWUtncOZkTkR15LbwqIT9vk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:30:09"
+  },
+  {
+    "business_name": "New Car Wash Centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "223225",
+    "phone_number": "+91 77840 72124",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kishundaspur No2, Post Bhawarnath, Devkhari, Uttar Pradesh 276001",
+    "area": "223225",
+    "latitude": 26.0960592,
+    "longitude": 83.1639022,
+    "place_id": "ChIJp0UnlGilkTkRzRIO4T0LIP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0UnlGilkTkRzRIO4T0LIP4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:30:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushi footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "223105",
+    "phone_number": "+91 73098 28998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Men chauk Akhandnagar Shahganj rod Akhandnagar, Uttar Pradesh 228171",
+    "area": "223105",
+    "latitude": 26.205067399999997,
+    "longitude": 82.5928983,
+    "place_id": "ChIJlwFedC5fkDkROYntGiDH2zU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwFedC5fkDkROYntGiDH2zU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:37"
+  },
+  {
+    "business_name": "Fancy footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "223105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bazar chauraha, Shahganj, Arsiya, Atraura, Uttar Pradesh 223103",
+    "area": "Shahganj",
+    "latitude": 26.1427737,
+    "longitude": 82.579369,
+    "place_id": "ChIJ0YOjMgBfkDkR1EA0l30O2VM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YOjMgBfkDkR1EA0l30O2VM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:20:37"
+  }
+]

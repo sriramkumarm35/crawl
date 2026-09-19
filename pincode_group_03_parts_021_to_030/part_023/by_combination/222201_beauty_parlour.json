@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahana Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "222201",
+    "phone_number": "+91 63949 48429",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sujanganj Rd, Mustafabad, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "222201",
+    "latitude": 25.7472025,
+    "longitude": 82.33760769999999,
+    "place_id": "ChIJGRv4kfgNkDkR-XW7bqsI1hA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRv4kfgNkDkR-XW7bqsI1hA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:01:16"
+  },
+  {
+    "business_name": "Asha beauty parlour & cosmetic centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "222201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhilampur Market Belwar road jaunpur, Market, Bhilampur, Jaunpuri, Uttar Pradesh 222201",
+    "area": "Market",
+    "latitude": 25.7734593,
+    "longitude": 82.1920719,
+    "place_id": "ChIJBVgjGiihmjkRObz3d2_jr7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVgjGiihmjkRObz3d2_jr7Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:01:17"
+  }
+]
