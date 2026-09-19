@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Sanitary Store",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "247002",
+    "phone_number": "+91 98370 21631",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Delhi - Saharanpur Rd, Ahmed Bagh, Chander Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Ahmed Bagh, Chander Nagar",
+    "latitude": 29.947705,
+    "longitude": 77.54685669999999,
+    "place_id": "ChIJr4BUW7rqDjkRyd1vjudFEYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4BUW7rqDjkRyd1vjudFEYI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:29:02"
+  },
+  {
+    "business_name": "SAHARANPUR SANITARY STORE",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "247002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XHR7+75W, Madhav Nagar, Saharanpur, Dara Kottala, Uttar Pradesh 247001",
+    "area": "Madhav Nagar",
+    "latitude": 29.990986699999997,
+    "longitude": 77.56288409999999,
+    "place_id": "ChIJu8uyGQDBDjkRDtzKjzCBM0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8uyGQDBDjkRDtzKjzCBM0w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:29:02"
+  }
+]

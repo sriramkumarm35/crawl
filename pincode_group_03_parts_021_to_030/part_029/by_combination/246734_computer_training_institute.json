@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARATHI COMPUTER TRAINING CENTER",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "246734",
+    "phone_number": "+91 90582 12198",
+    "website": "http://sarathicomputer.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "ROAD, KHERKA, Naugawan Sadat, DHANAURA, Uttar Pradesh 244251",
+    "area": "KHERKA",
+    "latitude": 28.9833778,
+    "longitude": 78.3644953,
+    "place_id": "ChIJjUkZHiKhCzkRbIxZWw_GLJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUkZHiKhCzkRbIxZWw_GLJM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:06:28"
+  },
+  {
+    "business_name": "DS Smart Computer Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "246734",
+    "phone_number": "+91 94100 42646",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill & Post, Teh, Makhdumpur, Naugawan Sadat, Uttar Pradesh 244251",
+    "area": "246734",
+    "latitude": 28.9619768,
+    "longitude": 78.4311401,
+    "place_id": "ChIJQeZvbvynCzkRCo33vMMw6oU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeZvbvynCzkRCo33vMMw6oU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:06:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Pizza and coffe",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "247343",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "PC8C+4QX, Nanauta, Uttar Pradesh 247452",
+    "area": "247343",
+    "latitude": 29.7153428,
+    "longitude": 77.4218719,
+    "place_id": "ChIJYyusOvSbDjkRws4LbCz7nmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyusOvSbDjkRws4LbCz7nmg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:46:12"
+  },
+  {
+    "business_name": "Al Saqib Exports pvt ltd",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "247343",
+    "phone_number": "+91 89418 88886",
+    "website": "https://alsaqibexports.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7km milestone Alipur jijwana, Meerut, Uttar Pradesh 245206",
+    "area": "247343",
+    "latitude": 28.905133,
+    "longitude": 77.735289,
+    "place_id": "ChIJ9yKY7ChjDDkREq2z0ADfh-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yKY7ChjDDkREq2z0ADfh-E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:46:12"
+  }
+]

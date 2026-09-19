@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foody Restaurant & Chai Adda",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "246745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3J6R+93J, Kanth, Mohri Hajratpur, Uttar Pradesh 244501",
+    "area": "246745",
+    "latitude": 29.060954199999998,
+    "longitude": 78.64015309999999,
+    "place_id": "ChIJfQ9HGgCtCzkRusYRW4VWf1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQ9HGgCtCzkRusYRW4VWf1Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:35"
+  },
+  {
+    "business_name": "The Haveli Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "246745",
+    "phone_number": "+91 97591 96669",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Noorpur - Seohara Rd, near R R Public School, Kudi Bangar, Uttar Pradesh 246746",
+    "area": "246745",
+    "latitude": 29.193510099999997,
+    "longitude": 78.55253309999999,
+    "place_id": "ChIJ-RD0rruxCzkRHqt0cWOhUdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RD0rruxCzkRHqt0cWOhUdw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:38"
+  }
+]

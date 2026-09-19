@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "All Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "246726",
+    "phone_number": "+91 63969 77975",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gangu nangle wala rasta, Mubarakpur Kalan, Uttar Pradesh 246729",
+    "area": "246726",
+    "latitude": 29.2100555,
+    "longitude": 78.2518863,
+    "place_id": "ChIJ2U8OPX2VCzkR2n79xJVTBn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2U8OPX2VCzkR2n79xJVTBn4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:53:10"
+  },
+  {
+    "business_name": "DRV CROCKERIES",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "246726",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Harvansh Ganj Rd, Harvansh Ganj, Haldaur, Uttar Pradesh 246726",
+    "area": "Harvansh Ganj",
+    "latitude": 29.291632,
+    "longitude": 78.28519829999999,
+    "place_id": "ChIJG1-yEZjrCzkR6HYaYUswVNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1-yEZjrCzkR6HYaYUswVNE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:53:10"
+  }
+]

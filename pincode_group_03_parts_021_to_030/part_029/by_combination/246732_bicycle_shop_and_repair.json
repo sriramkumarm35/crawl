@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Auto",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "246732",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G676+342, Kiratpur, Uttar Pradesh 246731",
+    "area": "246732",
+    "latitude": 29.512625399999997,
+    "longitude": 78.21027289999999,
+    "place_id": "ChIJ68HCFQDnCzkRbQWHD452Jq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68HCFQDnCzkRbQWHD452Jq4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:29"
+  },
+  {
+    "business_name": "Arshad Bike Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "246732",
+    "phone_number": "+91 96756 92635",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mohalla Nall Market, Punjabi Colony, Bijnor, Amroha, Bijnor, Uttar Pradesh 246701",
+    "area": "Punjabi Colony, Bijnor",
+    "latitude": 29.3731443,
+    "longitude": 78.135183,
+    "place_id": "ChIJjUiy4vDvCzkRR2NaL9ywwhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUiy4vDvCzkRR2NaL9ywwhE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:31"
+  }
+]

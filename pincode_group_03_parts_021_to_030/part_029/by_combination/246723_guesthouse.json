@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 48552 Hotel Chandrayan",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Hotel, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "246723",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/78393/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Star Plaza Market Kotdwara, Kotwali Rd, Rampur Banwari Bila Ahatmali, Kotwali Rd, Chhapar, Najibabad, Rampur Banwari Bila Ahatmali, Uttar Pradesh 246763",
+    "area": "Chhapar",
+    "latitude": 29.6042258,
+    "longitude": 78.34388469999999,
+    "place_id": "ChIJU0ivowbfCzkR6yKnDY2djcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0ivowbfCzkR6yKnDY2djcw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:48:57"
+  },
+  {
+    "business_name": "Apna Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "246723",
+    "phone_number": "+91 97602 46253",
+    "website": "https://hotelapnaguesthouse.online/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "8G43+6WP, Dhampur, Uttar Pradesh 246761",
+    "area": "246723",
+    "latitude": 29.3055809,
+    "longitude": 78.504831,
+    "place_id": "ChIJ-9w6lpXJCzkR9eqdrFhLiCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9w6lpXJCzkR9eqdrFhLiCk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:48:58"
+  }
+]

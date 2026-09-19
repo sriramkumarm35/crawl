@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashmi electric store",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "246736",
+    "phone_number": "+91 95681 20045",
+    "website": "https://www.facebook.com/kashmielectricstore251316/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kashmi electric store, Kakrouli, Uttar Pradesh 251316",
+    "area": "246736",
+    "latitude": 29.3948294,
+    "longitude": 77.9216806,
+    "place_id": "ChIJV2ayZXUJDDkRRiiqPIopJLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2ayZXUJDDkRRiiqPIopJLM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:09:36"
+  },
+  {
+    "business_name": "Boby Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "246736",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "35GC+737, Rasoolpur Nangla, Uttar Pradesh 246736",
+    "area": "246736",
+    "latitude": 29.075652599999998,
+    "longitude": 78.1701574,
+    "place_id": "ChIJWyHwKA6bCzkRlhRWqcdtcws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyHwKA6bCzkRlhRWqcdtcws",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:09:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riya Fashion Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "246761",
+    "phone_number": "+91 75360 20062",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Moh Bandauk Chand, Uttar Pradesh 246761",
+    "area": "Punjabi Colony, Udaipur",
+    "latitude": 29.310208399999997,
+    "longitude": 78.5059146,
+    "place_id": "ChIJiZHSlMbJCzkRwD6KT6KxPgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZHSlMbJCzkRwD6KT6KxPgg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:41"
+  },
+  {
+    "business_name": "Blessing Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "246761",
+    "phone_number": "+91 78884 43799",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "143, Punjabi Colony, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Punjabi Colony, Udaipur",
+    "latitude": 29.309846,
+    "longitude": 78.5065776,
+    "place_id": "ChIJGYLsI3nJCzkRY6wdQ8I2Y8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYLsI3nJCzkRY6wdQ8I2Y8M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:44"
+  }
+]

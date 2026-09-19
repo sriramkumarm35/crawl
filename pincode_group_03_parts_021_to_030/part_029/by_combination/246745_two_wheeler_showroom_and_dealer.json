@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hero MotoCorp",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "246745",
+    "phone_number": "+91 89369 56082",
+    "website": "https://www.heromotocorp.com/en-in.html",
+    "rating": 4,
+    "reviews_count": 76,
+    "address": "Qasam Pur, Moradabad, SH-49, Dhampur Kanth Road, Moradabad, Moradabad, Uttar Pradesh 246745",
+    "area": "246745",
+    "latitude": 29.072799999999997,
+    "longitude": 78.63419999999999,
+    "place_id": "ChIJ8yoeACCtCzkREKtV0LvSi0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yoeACCtCzkREKtV0LvSi0M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:57"
+  },
+  {
+    "business_name": "SRM BAJAJ | Kanth, Moradabad",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "246745",
+    "phone_number": "N/A",
+    "website": "https://www.bajajauto.com/bikes",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "20, Fakeerganj, Kanth, Uttar Pradesh 244501",
+    "area": "Fakeerganj",
+    "latitude": 29.056051,
+    "longitude": 78.6230483,
+    "place_id": "ChIJm_hTcKetCzkRGJG8Ywb4iAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_hTcKetCzkRGJG8Ywb4iAk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:57"
+  }
+]

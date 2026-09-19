@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL TAILOR",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "246734",
+    "phone_number": "+91 97196 41280",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "bus stand, Roadways, Noorpur, Uttar Pradesh 246734",
+    "area": "246734",
+    "latitude": 29.1484933,
+    "longitude": 78.4098693,
+    "place_id": "ChIJXWxCP927CzkRc43YQpfpoB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWxCP927CzkRc43YQpfpoB4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:39"
+  },
+  {
+    "business_name": "Jk traders",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer",
+    "pincode": "246734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4CW5+JH4, Islam Nagar, Noorpur, Uttar Pradesh 246734",
+    "area": "Islam Nagar",
+    "latitude": 29.1465261,
+    "longitude": 78.4090578,
+    "place_id": "ChIJ31dEZ9K7CzkR0oak5hKCy80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31dEZ9K7CzkR0oak5hKCy80",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:41"
+  }
+]

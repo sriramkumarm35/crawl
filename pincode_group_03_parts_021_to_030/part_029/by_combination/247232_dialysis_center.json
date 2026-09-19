@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIALYSIS PROVIDER",
+    "search_category": "Dialysis Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "247232",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SBD CHOWK, Damodarpuri, Saharanpur, Uttar Pradesh 247001",
+    "area": "Damodarpuri",
+    "latitude": 29.954198899999998,
+    "longitude": 77.5568521,
+    "place_id": "ChIJv32LaVHrDjkR69EWqeSllA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv32LaVHrDjkR69EWqeSllA8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:28"
+  },
+  {
+    "business_name": "Mahendra Hospital Dialysis centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "247232",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "48X4+WH2, Sector 17, Huda, Jagadhri, Haryana 135003",
+    "area": "Sector 17, Huda",
+    "latitude": 30.1497308,
+    "longitude": 77.30634839999999,
+    "place_id": "ChIJDVOkfwD7DjkR1bCotdtUZpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVOkfwD7DjkR1bCotdtUZpQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:29"
+  }
+]

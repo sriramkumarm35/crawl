@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Titu Gym Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "247662",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "gali no.2, Maharana pratap colony, Chhutmalpur, Uttar Pradesh 247662",
+    "area": "247662",
+    "latitude": 30.033029,
+    "longitude": 77.7487919,
+    "place_id": "ChIJ3_a1VwDJDjkRmD3i6UvHRXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_a1VwDJDjkRmD3i6UvHRXk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:01:15"
+  },
+  {
+    "business_name": "Excellent Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "247662",
+    "phone_number": "+91 73514 31214",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No 12, Bhagwanpur Road, Gagalheri, Deenarpur Must., Uttar Pradesh 247669",
+    "area": "247662",
+    "latitude": 29.9729867,
+    "longitude": 77.6659104,
+    "place_id": "ChIJu-ifEzvHDjkR55ZMfaXfxtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-ifEzvHDjkR55ZMfaXfxtA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:01:17"
+  }
+]

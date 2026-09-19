@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Shyam Tour and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "246733",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Uchi Puliya, Sheela Talkies, Dhampur, Dharmpur, Uttar Pradesh 246761",
+    "area": "246733",
+    "latitude": 29.2994918,
+    "longitude": 78.5134601,
+    "place_id": "ChIJbyHf4qTJCzkRy4g2hZOF4U8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyHf4qTJCzkRy4g2hZOF4U8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:13"
+  },
+  {
+    "business_name": "Cabs2Door",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Transportation service",
+    "pincode": "246733",
+    "phone_number": "+91 99975 65999",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CCRF+JC8, Nagina, Uttar Pradesh 246762",
+    "area": "246733",
+    "latitude": 29.4415309,
+    "longitude": 78.4235758,
+    "place_id": "ChIJTQXiYY7FCzkRV-iJpZqNurg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQXiYY7FCzkRV-iJpZqNurg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:15"
+  }
+]

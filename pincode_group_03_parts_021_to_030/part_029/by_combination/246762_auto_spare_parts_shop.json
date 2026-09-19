@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "246762",
+    "phone_number": "+91 94125 67264",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "CCVC+FV5, Najibabad - Nagina Rd, Nagina, Uttar Pradesh 246762",
+    "area": "246762",
+    "latitude": 29.4436252,
+    "longitude": 78.4222216,
+    "place_id": "ChIJvbIKZOfECzkR2jUdI6OvSvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbIKZOfECzkR2jUdI6OvSvI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:44"
+  },
+  {
+    "business_name": "A.S AGENCIES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "246762",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CCWC+FVF, Nagina Kiratpur Rd, Nagina, Uttar Pradesh 246762",
+    "area": "246762",
+    "latitude": 29.4461864,
+    "longitude": 78.4221669,
+    "place_id": "ChIJ9dEKut3ECzkRyWppAmHXef0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dEKut3ECzkRyWppAmHXef0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:44"
+  }
+]

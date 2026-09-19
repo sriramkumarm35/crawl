@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hardcore GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "246733",
+    "phone_number": "+91 81261 38554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagina Dhampur Rd, Nagina, Uttar Pradesh 246762",
+    "area": "246733",
+    "latitude": 29.433634299999998,
+    "longitude": 78.4322071,
+    "place_id": "ChIJr66kDc7FCzkRcZImH6NnSIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr66kDc7FCzkRcZImH6NnSIE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:09"
+  },
+  {
+    "business_name": "Zaidi Sports",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "246733",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "89GP+W69, Nethaur Rd, Dhampur, Nethaur, Uttar Pradesh 246733",
+    "area": "246733",
+    "latitude": 29.3272975,
+    "longitude": 78.3855974,
+    "place_id": "ChIJp6CSq-LHCzkR4ZDoVyZmUYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6CSq-LHCzkR4ZDoVyZmUYM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:09"
+  }
+]

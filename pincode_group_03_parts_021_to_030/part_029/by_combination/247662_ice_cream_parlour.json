@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PITAMBARI MILK STORE",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier, Ice cream shop",
+    "pincode": "247662",
+    "phone_number": "+91 75000 70246",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near :- post office, Purvavali, Ganeshpur, Roorkee, Uttarakhand 247667",
+    "area": "Purvavali, Ganeshpur",
+    "latitude": 29.856731,
+    "longitude": 77.8776168,
+    "place_id": "ChIJg-tpx6a1DjkRGGLBczEtU48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-tpx6a1DjkRGGLBczEtU48",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:00:56"
+  },
+  {
+    "business_name": "The Belgian Waffle Co",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cafe, Cake shop, Family restaurant, Dessert restaurant",
+    "pincode": "247662",
+    "phone_number": "+91 93688 24087",
+    "website": "https://thebelgianwaffle.co/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "264, 2, Khanjarpur Rd, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8734909,
+    "longitude": 77.894095,
+    "place_id": "ChIJPUuifESzDjkRe8_wrDfUpbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUuifESzDjkRe8_wrDfUpbU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:00:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Palace",
+    "search_category": "Exhibitions",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "246723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "J59C+W3, Rafipur Majra, Uttar Pradesh 246723",
+    "area": "246723",
+    "latitude": 29.6187664,
+    "longitude": 78.1702469,
+    "place_id": "ChIJHc4-J-fjCzkR2qNf1ZrmOzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHc4-J-fjCzkR2qNf1ZrmOzM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:49:28"
+  },
+  {
+    "business_name": "Haiderpur Wetland",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Bird watching area",
+    "pincode": "246723",
+    "phone_number": "+91 63954 37851",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 208,
+    "address": "Haiderpur Protected Wetland Area, Ranjeetpur, Uttar Pradesh 251320",
+    "area": "246723",
+    "latitude": 29.375095499999997,
+    "longitude": 78.0339846,
+    "place_id": "ChIJb_tE8SPxCzkRTVmbFecDzaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_tE8SPxCzkRTVmbFecDzaQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:49:29"
+  }
+]

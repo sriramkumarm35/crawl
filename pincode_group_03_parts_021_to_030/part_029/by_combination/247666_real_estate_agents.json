@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "247666",
+    "phone_number": "+91 99972 19293",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RVQP+M57, Delhi Rd, near R.T.O Office, Mohammadpur, Mohanpura, Roorkee, Talhedi, Uttarakhand 247666",
+    "area": "Mohammadpur, Mohanpura",
+    "latitude": 29.8391724,
+    "longitude": 77.8854071,
+    "place_id": "ChIJlTbcTAazDjkRw0AexjQM00U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTbcTAazDjkRw0AexjQM00U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:35"
+  },
+  {
+    "business_name": "Saraswati Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "247666",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RVMP+9GX, Akashdeep Enclave, Roorkee, Talhedi, Uttarakhand 247666",
+    "area": "Akashdeep Enclave",
+    "latitude": 29.8334765,
+    "longitude": 77.8863695,
+    "place_id": "ChIJCW6GEQGzDjkRjI9NDLyq2dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCW6GEQGzDjkRjI9NDLyq2dA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:38"
+  }
+]

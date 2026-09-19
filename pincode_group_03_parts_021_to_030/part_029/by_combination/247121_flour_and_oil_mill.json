@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapoor Engineering Works",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "247121",
+    "phone_number": "+91 80 4547 8397",
+    "website": "http://www.kapoorengineeringworks.in/",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Mascot Building, Railway Rd, Subhash Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Subhash Nagar",
+    "latitude": 29.9633252,
+    "longitude": 77.5440175,
+    "place_id": "ChIJ6RALmoXrDjkRN9E-Q_kpXHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RALmoXrDjkRN9E-Q_kpXHE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:33:24"
+  },
+  {
+    "business_name": "Satnaam aata chakki",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "247121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2QVG+CXQ, Rd, Alawalpur, Uttarakhand 247662",
+    "area": "247121",
+    "latitude": 30.043602,
+    "longitude": 77.777406,
+    "place_id": "ChIJe8qJxJDJDjkRpWxUK4gtmMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8qJxJDJDjkRpWxUK4gtmMg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:33:24"
+  }
+]

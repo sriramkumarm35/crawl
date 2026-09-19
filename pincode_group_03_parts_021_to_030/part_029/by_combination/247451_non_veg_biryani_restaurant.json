@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIPIN KUMAR",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247451",
+    "phone_number": "+91 97580 85654",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "Main Highway, Saharanpur, Uttar Pradesh 247001",
+    "area": "247451",
+    "latitude": 29.882417099999998,
+    "longitude": 77.56099119999999,
+    "place_id": "ChIJoVHeILmVDjkR-gvQCQSr_to",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVHeILmVDjkR-gvQCQSr_to",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:48:00"
+  },
+  {
+    "business_name": "Indi Zaika",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247451",
+    "phone_number": "+91 92266 59226",
+    "website": "http://www.indizaika.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Dehradun Rd, opposite S.A.M Inter collage, near Ghanta Ghar, Ram Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Ram Nagar",
+    "latitude": 29.962742,
+    "longitude": 77.549283,
+    "place_id": "ChIJSZL0TnjrDjkRbrfniOL4-wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZL0TnjrDjkRbrfniOL4-wY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:48:02"
+  }
+]

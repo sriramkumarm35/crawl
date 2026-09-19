@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PHYSIO CARE DEVICES",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy equipment supplier",
+    "all_categories": "Physiotherapy equipment supplier",
+    "pincode": "246763",
+    "phone_number": "+91 98912 42824",
+    "website": "https://physiocaredevices.in/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Ground Floor ,36/23 Bhagya Vihar, Karala Marg, Jain Colony, Rani Khera, New Delhi, Delhi 110081",
+    "area": "Jain Colony, Rani Khera",
+    "latitude": 28.700993999999998,
+    "longitude": 77.03159819999999,
+    "place_id": "ChIJW5sPAcoHDTkRuzNlT3PYv2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5sPAcoHDTkRuzNlT3PYv2Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:23:25"
+  },
+  {
+    "business_name": "Physio Aarogyam",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist, Chiropractor, Osteopath, Physiotherapy Center",
+    "pincode": "246763",
+    "phone_number": "+91 92586 72818",
+    "website": "http://www.physioaarogyam.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill. Simbal Chaur, Main Road, nr. Bridge, Kanvnagri, Kotdwar, Durgapur, Uttarakhand 246150",
+    "area": "Kanvnagri",
+    "latitude": 29.7509618,
+    "longitude": 78.48491179999999,
+    "place_id": "ChIJT53XAACFCTkR7z8pkPNCOJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT53XAACFCTkR7z8pkPNCOJk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:23:25"
+  }
+]

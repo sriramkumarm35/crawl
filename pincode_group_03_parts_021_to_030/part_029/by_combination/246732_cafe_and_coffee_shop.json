@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Avengers cafe and restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246732",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/the_avengers__1?igsh=OTZibmozOG1keDc5",
+    "rating": 3.8,
+    "reviews_count": 33,
+    "address": "Kusum vihar, Kotwali Rd, Adarsh Nagar, Najibabad, Uttar Pradesh 246763",
+    "area": "Adarsh Nagar",
+    "latitude": 29.593562499999997,
+    "longitude": 78.3389531,
+    "place_id": "ChIJ6SJeLADfCzkRZVYfZEv9Isk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SJeLADfCzkRZVYfZEv9Isk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:01"
+  },
+  {
+    "business_name": "Street Safari Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "246732",
+    "phone_number": "+91 63968 51488",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "Kotwali Rd, near Tayal Petrol Pump, Himalayan Colony, Chhapar, Najibabad, Uttar Pradesh 246763",
+    "area": "Himalayan Colony, Chhapar",
+    "latitude": 29.594723,
+    "longitude": 78.3394422,
+    "place_id": "ChIJsT7JQZnfCzkRCqTPEe0sq7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsT7JQZnfCzkRCqTPEe0sq7s",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:01"
+  }
+]

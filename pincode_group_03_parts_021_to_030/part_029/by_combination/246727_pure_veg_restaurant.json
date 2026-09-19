@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KANHA RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "246727",
+    "phone_number": "+91 74090 17870",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "687J+XJJ, Paijaniya, Uttar Pradesh 246726",
+    "area": "246727",
+    "latitude": 29.2149565,
+    "longitude": 78.3315312,
+    "place_id": "ChIJBSMVg5O_CzkRxT67KjJOlsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSMVg5O_CzkRxT67KjJOlsw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:02"
+  },
+  {
+    "business_name": "Cambodia pure vegetarian hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "246727",
+    "phone_number": "+91 94562 96510",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "3J4F+28F, Bijnor - Moradabad Rd, Kanth, Uttar Pradesh 244501",
+    "area": "246727",
+    "latitude": 29.0550586,
+    "longitude": 78.6232945,
+    "place_id": "ChIJPQaRBu6sCzkRVFEUGcaniic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQaRBu6sCzkRVFEUGcaniic",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:03"
+  }
+]

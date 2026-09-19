@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dates",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "247129",
+    "phone_number": "+91 96726 48324",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Upwon enclave, near shri ram chowk, choila, Chandrabani, Dehradun, Ashkrodi, Uttarakhand 248001",
+    "area": "choila, Chandrabani",
+    "latitude": 30.2792678,
+    "longitude": 77.97153589999999,
+    "place_id": "ChIJkzo_IvIrCTkR48YBUHlK6B8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzo_IvIrCTkR48YBUHlK6B8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:36:30"
+  },
+  {
+    "business_name": "JSB Farms",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue, Banquet hall, Farmstay, Guest house, Lodge, Resort hotel, Villa, Wedding venue",
+    "pincode": "247129",
+    "phone_number": "+91 83687 32776",
+    "website": "https://jsbfarms.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ambhi Wala, Keshowala, East Hopetown, Uttarakhand 248007",
+    "area": "Ambhi Wala",
+    "latitude": 30.319437599999997,
+    "longitude": 77.91628089999999,
+    "place_id": "ChIJRzm_e0XVDjkRG0zWn1i759c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzm_e0XVDjkRG0zWn1i759c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:36:31"
+  }
+]

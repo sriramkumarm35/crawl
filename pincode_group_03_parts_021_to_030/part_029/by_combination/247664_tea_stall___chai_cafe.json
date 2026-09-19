@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azad Bhawan Canteen",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafeteria",
+    "all_categories": "Cafeteria, Vegetarian restaurant",
+    "pincode": "247664",
+    "phone_number": "+91 97600 88818",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 715,
+    "address": "AZAD BHAWAN, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand 247667",
+    "area": "Indian Institute of Technology Roorkee",
+    "latitude": 29.865301799999997,
+    "longitude": 77.8912254,
+    "place_id": "ChIJAzv-iHqzDjkR8_aGLUmWLWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzv-iHqzDjkR8_aGLUmWLWg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:33"
+  },
+  {
+    "business_name": "Vigyan Bhawan Canteen",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafeteria",
+    "all_categories": "Cafeteria",
+    "pincode": "247664",
+    "phone_number": "+91 97600 88818",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 312,
+    "address": "VW62+V4C, Vigyan Kunj Rd, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand 247667",
+    "area": "Indian Institute of Technology Roorkee",
+    "latitude": 29.862182599999997,
+    "longitude": 77.90026189999999,
+    "place_id": "ChIJBQbKHDCzDjkRvPEmIQafkq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQbKHDCzDjkRvPEmIQafkq8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:33"
+  }
+]

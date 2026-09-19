@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kittu Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "246761",
+    "phone_number": "+91 63519 92838",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "MAIN MARKET, Kashampur Garhi, Uttar Pradesh 246722",
+    "area": "246761",
+    "latitude": 29.388928699999997,
+    "longitude": 78.7373408,
+    "place_id": "ChIJr9WgL1k1CjkRRgERYR_Oiiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9WgL1k1CjkRRgERYR_Oiiw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:26"
+  },
+  {
+    "business_name": "Mukhiya Ji Chai Dhampur",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "246761",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nagina Chauraha, Nehtaur - Dhampur Rd, Dhampur, Uttar Pradesh 246761",
+    "area": "246761",
+    "latitude": 29.311687,
+    "longitude": 78.50645949999999,
+    "place_id": "ChIJD69b7AvJCzkRwizYrYqeI80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD69b7AvJCzkRwizYrYqeI80",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:26"
+  }
+]

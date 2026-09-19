@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "247340",
+    "phone_number": "+91 83604 38897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 2, Sector 68, Kumbra, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Sector 68, Kumbra",
+    "latitude": 30.686033799999997,
+    "longitude": 76.7238486,
+    "place_id": "ChIJwyZCL1fvDzkREILw7JJEjUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyZCL1fvDzkREILw7JJEjUE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:41:55"
+  },
+  {
+    "business_name": "Vijay caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "247340",
+    "phone_number": "+91 93553 22171",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "533, Model Colony, East Bhatia Nagar, Yamuna Nagar, Gadhauli, Haryana 135001",
+    "area": "Model Colony, East Bhatia Nagar",
+    "latitude": 30.1289913,
+    "longitude": 77.30891679999999,
+    "place_id": "ChIJJzUWIHj7DjkRsiwMIjALeDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzUWIHj7DjkRsiwMIjALeDM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:41:55"
+  }
+]

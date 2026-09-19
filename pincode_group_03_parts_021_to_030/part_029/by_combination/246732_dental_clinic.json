@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "*****",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "246732",
+    "phone_number": "+91 97618 48279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Purana Budh bazar, Haridwar Rd, Najibabad, Bhaguwala, Uttar Pradesh 246749",
+    "area": "246732",
+    "latitude": 29.702966999999997,
+    "longitude": 78.2559349,
+    "place_id": "ChIJUy1Vu89fCTkRNtFOcKMNGfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUy1Vu89fCTkRNtFOcKMNGfI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:15"
+  },
+  {
+    "business_name": "JANTA DENTAL CLINIC",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "246732",
+    "phone_number": "+91 81928 85041",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J6GM+R8F, Mandawali - Muazzampur Rd, Rajpur Nawada, Sherpur Ami, Uttar Pradesh 246732",
+    "area": "246732",
+    "latitude": 29.6270524,
+    "longitude": 78.2332821,
+    "place_id": "ChIJNRRf09vhCzkRt4BV2bCKvtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNRRf09vhCzkRt4BV2bCKvtQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:15"
+  }
+]

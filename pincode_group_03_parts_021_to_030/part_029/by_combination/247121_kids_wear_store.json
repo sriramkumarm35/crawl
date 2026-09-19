@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamil Tailor",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "247121",
+    "phone_number": "+91 81719 88112",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadoli Shop No 01, Road, Saharanpur, Sadhauli Qadeem, Uttar Pradesh 247121",
+    "area": "247121",
+    "latitude": 30.1997187,
+    "longitude": 77.5725428,
+    "place_id": "ChIJO5ZaIVTdDjkR0ijzhnaUINk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5ZaIVTdDjkR0ijzhnaUINk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:32:06"
+  },
+  {
+    "business_name": "R S Kids Zone",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "247121",
+    "phone_number": "+91 97585 81645",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Gandhi Chowk, Behat, Uttar Pradesh 247121",
+    "area": "247121",
+    "latitude": 30.173665399999997,
+    "longitude": 77.61609039999999,
+    "place_id": "ChIJqZY-AefdDjkR64l0zeQlaBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZY-AefdDjkR64l0zeQlaBM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:32:06"
+  }
+]

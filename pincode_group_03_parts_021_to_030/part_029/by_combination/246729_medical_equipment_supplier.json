@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhu Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "58QP+HW2, Khaspura, Gajipur, Uttar Pradesh 246734",
+    "area": "246729",
+    "latitude": 29.1888918,
+    "longitude": 78.33726039999999,
+    "place_id": "ChIJq6qqan6-CzkR6xIgPjSYWr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqan6-CzkR6xIgPjSYWr4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:54"
+  },
+  {
+    "business_name": "Ratangarh Bijnor",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4927+V4M, Ratangarh, Azamgarhurf Ratangarh, Uttar Pradesh 246734",
+    "area": "246729",
+    "latitude": 29.1022158,
+    "longitude": 78.3628068,
+    "place_id": "ChIJPxCFYQG9CzkRmjTiUbqW_h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxCFYQG9CzkRmjTiUbqW_h4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:56"
+  }
+]

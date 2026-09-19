@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N A Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "246731",
+    "phone_number": "+91 96271 49494",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bijnor - Najibabad Rd, Kiratpur, Uttar Pradesh 246731",
+    "area": "246731",
+    "latitude": 29.5025369,
+    "longitude": 78.2044232,
+    "place_id": "ChIJ5-drQwDlCzkRNHf8I-CX6SU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-drQwDlCzkRNHf8I-CX6SU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:00:18"
+  },
+  {
+    "business_name": "Al Arabian Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246731",
+    "phone_number": "+91 93155 28439",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Akbarabad chowk, near ghani dhaba, Nagina, Akbarabad, Uttar Pradesh 246762",
+    "area": "246731",
+    "latitude": 29.4790237,
+    "longitude": 78.34865309999999,
+    "place_id": "ChIJ72i-1BTdCzkRk5rT1eO9IUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72i-1BTdCzkRk5rT1eO9IUI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:00:18"
+  }
+]

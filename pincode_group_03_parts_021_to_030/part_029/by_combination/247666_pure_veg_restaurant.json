@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Heights Kitchen - By Ramboj",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "247666",
+    "phone_number": "+91 87558 59134",
+    "website": "https://www.zomato.com/haridwar/rambhoj-dhaba-bhel-township",
+    "rating": 3.2,
+    "reviews_count": 22,
+    "address": "4th floor, besides Om Dhaba, D-27, D Cluster, Shivalik Nagar, Haridwar, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
+    "area": "D Cluster, Shivalik Nagar",
+    "latitude": 29.934623,
+    "longitude": 78.07699269999999,
+    "place_id": "ChIJT5QPO7FJCTkRGB85i7quPqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5QPO7FJCTkRGB85i7quPqk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:08:15"
+  },
+  {
+    "business_name": "Punjabi Veg Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chicken & Mutton Shop",
+    "pincode": "247666",
+    "phone_number": "+91 93687 00028",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "opp. Bus Stand, Dharun, Roorkee, Uttarakhand 247667",
+    "area": "Dharun",
+    "latitude": 29.863927399999998,
+    "longitude": 77.88925619999999,
+    "place_id": "ChIJk66QewCzDjkRiOYUqYyJCqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk66QewCzDjkRiOYUqYyJCqM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:08:16"
+  }
+]

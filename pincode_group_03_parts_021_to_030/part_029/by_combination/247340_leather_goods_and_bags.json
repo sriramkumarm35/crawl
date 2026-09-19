@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aamir Enterprise",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Work clothes store",
+    "all_categories": "Work clothes store, Service establishment",
+    "pincode": "247340",
+    "phone_number": "+91 94116 05920",
+    "website": "https://myshopprime.com/aamirenterprises/6otpzt4",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aamir Enterprise, 247340, India",
+    "area": "247340",
+    "latitude": 29.9636334,
+    "longitude": 77.5564273,
+    "place_id": "ChIJzQe3jyXmv2ERDYS6vzrXwoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQe3jyXmv2ERDYS6vzrXwoA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:41:09"
+  },
+  {
+    "business_name": "Bag Dealers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store",
+    "pincode": "247340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Number-4, Nehru Market Rd, Charanjpur, Subhash Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Charanjpur, Subhash Nagar",
+    "latitude": 29.969178199999998,
+    "longitude": 77.54496979999999,
+    "place_id": "ChIJXx8rBo7qDjkRRkXtcXflLDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXx8rBo7qDjkRRkXtcXflLDc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:41:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto auction",
+    "pincode": "246749",
+    "phone_number": "+91 70170 42694",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Haridwar Bypass Rd, Mota Aam, Alipura, Najibabad, Uttar Pradesh 246763",
+    "area": "Mota Aam, Alipura",
+    "latitude": 29.6100878,
+    "longitude": 78.3359839,
+    "place_id": "ChIJHdf0vOHfCzkRhoGf74gIQn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdf0vOHfCzkRhoGf74gIQn4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:18:12"
+  },
+  {
+    "business_name": "Diamond workshop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246749",
+    "phone_number": "+91 84331 77456",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kotdwara Rd, Chhapar, Najibabad, Uttar Pradesh 246763",
+    "area": "Chhapar",
+    "latitude": 29.6055088,
+    "longitude": 78.3475922,
+    "place_id": "ChIJMQiWUeffCzkRjNGIxR2BSH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQiWUeffCzkRjNGIxR2BSH8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:18:12"
+  }
+]

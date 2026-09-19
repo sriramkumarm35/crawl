@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "247662",
+    "phone_number": "N/A",
+    "website": "https://kailashnursinghome.in/",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "Eidgah chouk, Sunhera Rd, Kashipuri, Roorkee, Uttarakhand 247667",
+    "area": "Kashipuri",
+    "latitude": 29.8812477,
+    "longitude": 77.8730568,
+    "place_id": "ChIJnWaqXOezDjkRmqcnSOCaeB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWaqXOezDjkRmqcnSOCaeB0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:01:10"
+  },
+  {
+    "business_name": "Apollo Pharmacy Madurai Junction",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Health and beauty shop, Herbal medicine store, Medical equipment supplier, Surgical supply store",
+    "pincode": "247662",
+    "phone_number": "+91 79 4933 1762",
+    "website": "https://www.apollopharmacy.in/?utm_source=gmb&utm_medium=organic&utm_campaign=sulekhapromanage-apollo-pharmacy",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "No. 11, 1/11, W Veli St, near Hotel Karpagam, PKS Colony, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "PKS Colony, Madurai Main",
+    "latitude": 9.9186447,
+    "longitude": 78.1117999,
+    "place_id": "ChIJJ28ZD4fFADsROiIwoELAbTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ28ZD4fFADsROiIwoELAbTc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:01:10"
+  }
+]

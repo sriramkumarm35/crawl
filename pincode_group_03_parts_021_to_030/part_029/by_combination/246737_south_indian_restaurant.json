@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice Munnar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store, Dry Fruit Store, Gift shop, Handicraft, Spices Wholesaler",
+    "pincode": "246737",
+    "phone_number": "+91 80860 67111",
+    "website": "https://spicemunnar.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Tea Company, Bison Valley, Road, Rathnagiri, Munnar, Keralam 685565",
+    "area": "246737",
+    "latitude": 9.997424599999999,
+    "longitude": 77.096891,
+    "place_id": "ChIJhdxRNmuZBzsRTdvwZX7ZnDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdxRNmuZBzsRTdvwZX7ZnDs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:10:49"
+  },
+  {
+    "business_name": "Udipi Dosa South Indian Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Vegetarian restaurant",
+    "pincode": "246737",
+    "phone_number": "+91 98970 66844",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "K-1/1149, PVS Mall, PVS Rd., New K block, I Block, Shastri Nagar Market, Shastri Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "New K block, I Block, Shastri Nagar Market, Shastri Nagar",
+    "latitude": 28.9526619,
+    "longitude": 77.7315143,
+    "place_id": "ChIJtawL16VkDDkRnD0biT52ieM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtawL16VkDDkRnD0biT52ieM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:10:50"
+  }
+]

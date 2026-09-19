@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Organic Felicity",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pick your own farm produce",
+    "all_categories": "Pick your own farm produce",
+    "pincode": "246736",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 7,
+    "address": "326F+J27, Akbarpur Garhi, Uttar Pradesh 250401",
+    "area": "246736",
+    "latitude": 29.061543,
+    "longitude": 78.0225529,
+    "place_id": "ChIJP15V-P6FCzkR1Lq4uHfN0sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP15V-P6FCzkR1Lq4uHfN0sQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:08:51"
+  },
+  {
+    "business_name": "Master Nursery",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246736",
+    "phone_number": "+91 80772 54210",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "Chandpur - Noorpur Rd, Pipalsana, Tharpur, Uttar Pradesh 246725",
+    "area": "246736",
+    "latitude": 29.1304199,
+    "longitude": 78.302393,
+    "place_id": "ChIJibuSbFS9CzkR748-9LYTlXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibuSbFS9CzkR748-9LYTlXY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:08:51"
+  }
+]

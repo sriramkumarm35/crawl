@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ice-Cream & Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "246727",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4CX5+9VW, Noorpur, Uttar Pradesh 246734",
+    "area": "246727",
+    "latitude": 29.1485134,
+    "longitude": 78.4097759,
+    "place_id": "ChIJ3-w4yfa7CzkRr-FTy-MJzYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-w4yfa7CzkRr-FTy-MJzYw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:02"
+  },
+  {
+    "business_name": "Fresh Fruit Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fruit parlor, Restaurant",
+    "pincode": "246727",
+    "phone_number": "+91 95200 85900",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "F983+MC7 SBI bank, Banat, Uttar Pradesh 247776",
+    "area": "246727",
+    "latitude": 29.4666569,
+    "longitude": 77.3535596,
+    "place_id": "ChIJK6U6kMkoDDkRaYFnQKpSNeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6U6kMkoDDkRaYFnQKpSNeU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:02"
+  }
+]

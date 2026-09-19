@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swati",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "246737",
+    "phone_number": "+91 78607 41989",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 418,
+    "address": "House No, VC-39, Vastum City, near Radiant Rose Public School, New Garaura, Amausi, Lucknow, Uttar Pradesh 226012",
+    "area": "New Garaura, Amausi",
+    "latitude": 26.765867399999998,
+    "longitude": 80.8948453,
+    "place_id": "ChIJ_dq3Iy7_mzkRGXKpBgdoAnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dq3Iy7_mzkRGXKpBgdoAnM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:11:32"
+  },
+  {
+    "business_name": "Bhargavas Unisex Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "246737",
+    "phone_number": "+91 94154 83331",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 165,
+    "address": "M-235, Parag Rd, Sector G, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector G, LDA Colony",
+    "latitude": 26.788711,
+    "longitude": 80.909082,
+    "place_id": "ChIJ44mGwwf8mzkRz46bnYiK0P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44mGwwf8mzkRz46bnYiK0P4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:11:32"
+  }
+]

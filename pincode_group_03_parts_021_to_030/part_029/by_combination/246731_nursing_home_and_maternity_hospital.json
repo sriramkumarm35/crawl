@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "246731",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.9,
+    "reviews_count": 16,
+    "address": "J83H+8G9, NH534, Shakoor Nagar, Najibabad, Kishorpur Ahatmali, Uttar Pradesh 246763",
+    "area": "Shakoor Nagar",
+    "latitude": 29.6032883,
+    "longitude": 78.3288749,
+    "place_id": "ChIJz0X_QK7fCzkRUILEiCxXFXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0X_QK7fCzkRUILEiCxXFXw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:00:30"
+  },
+  {
+    "business_name": "Chaudhary Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "246731",
+    "phone_number": "+91 87555 92066",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 12,
+    "address": "94FP+2FP, Punjabi Colony, Nai Basti, Bijnor, Uttar Pradesh 246701",
+    "area": "Punjabi Colony, Nai Basti",
+    "latitude": 29.372587099999997,
+    "longitude": 78.13618819999999,
+    "place_id": "ChIJl_hTgWruCzkRAEDCHe2Tc6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_hTgWruCzkRAEDCHe2Tc6I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:00:33"
+  }
+]

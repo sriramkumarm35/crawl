@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vytalis Media",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "247551",
+    "phone_number": "+91 90275 13702",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vytalis Media, 247551, India",
+    "area": "247551",
+    "latitude": 51.2072,
+    "longitude": -68.28025,
+    "place_id": "ChIJl_nM4sw14qcRMz7D203nKvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_nM4sw14qcRMz7D203nKvU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:54:57"
+  },
+  {
+    "business_name": "Travel Solution",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "247551",
+    "phone_number": "+91 95577 78843",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Travel Solution, 247551, India",
+    "area": "247551",
+    "latitude": 29.147777599999998,
+    "longitude": 77.4303886,
+    "place_id": "ChIJXytw_17BDjkRoknzffQgzsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXytw_17BDjkRoknzffQgzsg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:54:58"
+  }
+]

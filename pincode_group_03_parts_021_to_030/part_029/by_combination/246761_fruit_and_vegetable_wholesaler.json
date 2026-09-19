@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Vegetables Store",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "246761",
+    "phone_number": "+91 84759 98262",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 25, Main Market, Road, near Badi Mandi, near Bas Mandi Fal Chowk, Dhampur, Uttar Pradesh 246761",
+    "area": "246761",
+    "latitude": 29.304722199999997,
+    "longitude": 78.5052199,
+    "place_id": "ChIJf23U66fJCzkRXc-O5QJ9QQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf23U66fJCzkRXc-O5QJ9QQs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:20"
+  },
+  {
+    "business_name": "Badi Mandi",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Business center",
+    "all_categories": "Business center",
+    "pincode": "246761",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "8G34+J6M, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Udaipur",
+    "latitude": 29.3040877,
+    "longitude": 78.5055596,
+    "place_id": "ChIJAQAAFzvICzkRfo5LU7qdLT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAFzvICzkRfo5LU7qdLT0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:20"
+  }
+]

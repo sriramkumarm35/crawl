@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Sports",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Sports card store",
+    "pincode": "247342",
+    "phone_number": "+91 88595 87256",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saharanpur Road, Madhu Vihar, Nakur, Uttar Pradesh 247342",
+    "area": "Madhu Vihar",
+    "latitude": 29.9227422,
+    "longitude": 77.3111169,
+    "place_id": "ChIJAa37nYHzDjkRoTe4H5j_GVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAa37nYHzDjkRoTe4H5j_GVQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:44:36"
+  },
+  {
+    "business_name": "Natik Garment",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "247342",
+    "phone_number": "+91 89542 74294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tabar Road, Nakur, Uttar Pradesh 247342",
+    "area": "247342",
+    "latitude": 29.924126299999998,
+    "longitude": 77.3051021,
+    "place_id": "ChIJQ5tHO8HzDjkRzBEf5qc1cGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5tHO8HzDjkRzBEf5qc1cGw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:44:36"
+  }
+]

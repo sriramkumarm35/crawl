@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "247665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Plot-A/22 Shivpuram, Paniyala Rd, Rajendra Nagar, Roorkee, Uttarakhand 247667",
+    "area": "Rajendra Nagar",
+    "latitude": 29.8618514,
+    "longitude": 77.866737,
+    "place_id": "ChIJ6S2ZbkSzDjkR115lExLe4QA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6S2ZbkSzDjkR115lExLe4QA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:07:29"
+  },
+  {
+    "business_name": "Computer Care Centre",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "247665",
+    "phone_number": "+91 97583 08948",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "First Floor, Mohl. Bandartoll, Main bazaar, Manglaur, Nazarpura, Uttarakhand 247656",
+    "area": "247665",
+    "latitude": 29.791838499999997,
+    "longitude": 77.87563229999999,
+    "place_id": "ChIJoTNVG-SzDjkRvmyOAF1zack",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTNVG-SzDjkRvmyOAF1zack",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:07:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Google Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "246745",
+    "phone_number": "+91 99970 85098",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "3J7J+375, Prathviganj, Kanth, Pattimaura, Uttar Pradesh 244501",
+    "area": "Prathviganj",
+    "latitude": 29.062640899999998,
+    "longitude": 78.6307258,
+    "place_id": "ChIJLSxBSOasCzkR7IbzoJewC6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSxBSOasCzkR7IbzoJewC6c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:13:14"
+  },
+  {
+    "business_name": "Soni Beauty Parlour And Cosmetic Centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "246745",
+    "phone_number": "+91 82796 27779",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chamunda Road, Mukhtyarpur Nawada, Uttar Pradesh 244501",
+    "area": "246745",
+    "latitude": 29.056232299999998,
+    "longitude": 78.60746449999999,
+    "place_id": "ChIJn-TplqStCzkRL19hi7rZOr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-TplqStCzkRL19hi7rZOr0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:13:14"
+  }
+]

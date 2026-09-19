@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "247341",
+    "phone_number": "+91 96391 55291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gangoh Town Main Market Sarafa Baazar, Uttar Pradesh 247341",
+    "area": "247341",
+    "latitude": 29.778427999999998,
+    "longitude": 77.26315869999999,
+    "place_id": "ChIJ9QeZ_uCJDjkRgGzMCRfAIos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QeZ_uCJDjkRgGzMCRfAIos",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:54"
+  },
+  {
+    "business_name": "Tanishq Jewellery - Karnal - Kunjpura Road",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler, Jewelry designer, Jewelry manufacturer, Jewelry repair service",
+    "pincode": "247341",
+    "phone_number": "+91 184 404 9900",
+    "website": "https://stores.tanishq.co.in/store-locator/jewellery-stores/haryana/karnal-kunjpuraroad/TKN",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 18/369, Kunjpura Rd, nearby Canara Bank, Old Char Chaman, Dyal Singh Colony, Karnal, Haryana 132001",
+    "area": "Old Char Chaman, Dyal Singh Colony",
+    "latitude": 29.6901802,
+    "longitude": 76.992216,
+    "place_id": "ChIJnSBLeANwDjkRCS14H8LQGlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSBLeANwDjkRCS14H8LQGlA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:54"
+  }
+]

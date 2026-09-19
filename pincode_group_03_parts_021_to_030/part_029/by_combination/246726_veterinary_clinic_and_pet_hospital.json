@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dog & Cat Care Center",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet boarding service, Pet groomer, Pet store, Pet supply store",
+    "pincode": "246726",
+    "phone_number": "+91 81740 25193",
+    "website": "http://dogandcatcarecentre.com/",
+    "rating": 4.2,
+    "reviews_count": 468,
+    "address": "Ghanta Ghar, 312/002B, Near, Girdharilal Mathur Rd, Lajpat Nagar, Chowk, Lucknow, Uttar Pradesh 226003",
+    "area": "Lajpat Nagar, Chowk",
+    "latitude": 26.8727433,
+    "longitude": 80.90774259999999,
+    "place_id": "ChIJHRcTRvr9mzkRxNafUQZGRO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRcTRvr9mzkRxNafUQZGRO4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:53:45"
+  },
+  {
+    "business_name": "Angel Pet Care - Boarding Spa And Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "246726",
+    "phone_number": "+91 98424 53136",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 69,
+    "address": "West Extension, 14, Ramlinga Nagar, Woraiyur, Tiruchirappalli, Tamil Nadu 620003",
+    "area": "Ramlinga Nagar, Woraiyur",
+    "latitude": 10.8204055,
+    "longitude": 78.668568,
+    "place_id": "ChIJ_X5nJDv1qjsRZuUWC0XlpYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_X5nJDv1qjsRZuUWC0XlpYo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:53:45"
+  }
+]

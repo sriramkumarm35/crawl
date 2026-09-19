@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zam zam pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "246727",
+    "phone_number": "+91 96908 76972",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Aone medical ke paas, Moradabad road, Sant Ravidas Nagar, Noorpur, Uttar Pradesh 246734",
+    "area": "Sant Ravidas Nagar",
+    "latitude": 29.146242599999997,
+    "longitude": 78.4142111,
+    "place_id": "ChIJ8YfgHgC7CzkRu9XLm-3i9HE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YfgHgC7CzkRu9XLm-3i9HE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:00"
+  },
+  {
+    "business_name": "Aqua & Pet Zone",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "246727",
+    "phone_number": "+91 98979 13539",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatehabad Rd, near pnb bank, Noorpur, Uttar Pradesh 246734",
+    "area": "246727",
+    "latitude": 29.137265,
+    "longitude": 78.4041759,
+    "place_id": "ChIJ5ftwWA-7CzkRO-FwR1l3aQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ftwWA-7CzkRO-FwR1l3aQE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:00"
+  }
+]

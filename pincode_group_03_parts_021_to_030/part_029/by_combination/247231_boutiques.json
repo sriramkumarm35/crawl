@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreyanshi Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "247231",
+    "phone_number": "+91 87553 71701",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mohalla Sholal, Sultanpur, Chilkana Sultanpur, Uttar Pradesh 247231",
+    "area": "Mohalla Sholal",
+    "latitude": 30.0855213,
+    "longitude": 77.4742125,
+    "place_id": "ChIJuwypxovpDjkRa2tdu9eYKtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwypxovpDjkRa2tdu9eYKtw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:37:31"
+  },
+  {
+    "business_name": "Athar cloth house",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "247231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stand chilkana saharanpur road, Uttar Pradesh 247231",
+    "area": "247231",
+    "latitude": 30.0743196,
+    "longitude": 77.4705465,
+    "place_id": "ChIJsQ2vQADvDjkRxQB4oMDC8Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQ2vQADvDjkRxQB4oMDC8Rg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:37:34"
+  }
+]

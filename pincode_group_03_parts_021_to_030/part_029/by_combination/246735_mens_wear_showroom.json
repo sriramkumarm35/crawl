@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion zone (Men’s clothing)",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "246735",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivaji market, Seohara, Uttar Pradesh 246746",
+    "area": "246735",
+    "latitude": 29.2012596,
+    "longitude": 78.5944718,
+    "place_id": "ChIJW037XLGzCzkRLO3j-zOBBEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW037XLGzCzkRLO3j-zOBBEk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:07:21"
+  },
+  {
+    "business_name": "Barkat royal fashion point",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "246735",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "6H4P+QHV, Mohalla Muslim choudhariyan, Seohara, Uttar Pradesh 246746",
+    "area": "246735",
+    "latitude": 29.2069978,
+    "longitude": 78.58650999999999,
+    "place_id": "ChIJnWdoBwCzCzkRMJyNzeQ_RiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWdoBwCzCzkRMJyNzeQ_RiY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:07:21"
+  }
+]

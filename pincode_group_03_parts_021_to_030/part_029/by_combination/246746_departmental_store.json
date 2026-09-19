@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246746",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "7H7J+M75, Saddober, Saddovar Bila Ahatmali, Uttar Pradesh 246761",
+    "area": "246746",
+    "latitude": 29.2641334,
+    "longitude": 78.58073449999999,
+    "place_id": "ChIJfQqnYD-1CzkRoQ7y7_CZfoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQqnYD-1CzkRoQ7y7_CZfoM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:06"
+  },
+  {
+    "business_name": "Mohd qadir home 🏠",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "246746",
+    "phone_number": "+91 63962 49692",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Seohara, Uttar Pradesh 246746",
+    "area": "246746",
+    "latitude": 29.210034699999998,
+    "longitude": 78.592066,
+    "place_id": "ChIJhf93HwC1CzkRd2QIDAoU8hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhf93HwC1CzkRd2QIDAoU8hc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:09"
+  }
+]

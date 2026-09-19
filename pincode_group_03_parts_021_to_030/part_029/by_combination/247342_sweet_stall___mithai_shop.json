@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goel Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "247342",
+    "phone_number": "+91 80590 49000",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 177,
+    "address": "near raj pharma opp. lord shiva traders gurdwara gali, Radaur, Haryana 135133",
+    "area": "247342",
+    "latitude": 30.0266384,
+    "longitude": 77.15040239999999,
+    "place_id": "ChIJM_HGdv5YDjkRezwHvGFtBjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_HGdv5YDjkRezwHvGFtBjA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:44:29"
+  },
+  {
+    "business_name": "Rajbhog Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "247342",
+    "phone_number": "+91 82798 69513",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W892, 4F9, College Rd, Nakur, Uttar Pradesh 247342",
+    "area": "247342",
+    "latitude": 29.917769099999997,
+    "longitude": 77.3013892,
+    "place_id": "ChIJnx-rx33zDjkRdPgIAh_IZ7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnx-rx33zDjkRdPgIAh_IZ7w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:44:31"
+  }
+]

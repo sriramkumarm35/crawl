@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Line Health Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "246722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 8,
+    "address": "Afzalgarh - Jaspur Rd, Afzalgarh, Uttar Pradesh 246722",
+    "area": "246722",
+    "latitude": 29.391462399999998,
+    "longitude": 78.68121219999999,
+    "place_id": "ChIJ919_iG01CjkRj3XtZTw3Xio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ919_iG01CjkRj3XtZTw3Xio",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:38"
+  },
+  {
+    "business_name": "Apollo Dialysis Clinics",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Medical clinic",
+    "pincode": "246722",
+    "phone_number": "+91 84478 95815",
+    "website": "https://www.apollodialysis.com/",
+    "rating": 5,
+    "reviews_count": 43,
+    "address": "Khader Nawaz Khan Rd, opp. Starbucks, next to Page 3 Saloon, Thousand Lights West, Nungambakkam, Chennai, Tamil Nadu 600006",
+    "area": "Thousand Lights West, Nungambakkam",
+    "latitude": 13.0613022,
+    "longitude": 80.2511457,
+    "place_id": "ChIJYcMrz69nUjoRFP99fzxyCTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcMrz69nUjoRFP99fzxyCTE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:39"
+  }
+]

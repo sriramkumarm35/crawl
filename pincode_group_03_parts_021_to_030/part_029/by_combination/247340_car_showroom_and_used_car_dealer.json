@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travel Agents",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "247340",
+    "phone_number": "+91 96340 80822",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Gangoh, MDR-2W, Gangoh, Uttar Pradesh 247341",
+    "area": "247340",
+    "latitude": 29.7765369,
+    "longitude": 77.2688921,
+    "place_id": "ChIJ9f3brQGJDjkR2rj6ndUG6Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9f3brQGJDjkR2rj6ndUG6Jw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:41:26"
+  },
+  {
+    "business_name": "Gaurav Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "247340",
+    "phone_number": "+91 92107 11204",
+    "website": "http://www.gauravmotors.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1020 Main, Arya Samaj Rd, opposite State Bank Of India, Block 28C, Naiwala, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block 28C, Naiwala, Karol Bagh",
+    "latitude": 28.6464473,
+    "longitude": 77.1959423,
+    "place_id": "ChIJnfPtD5wCDTkRWqO_HSijNAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfPtD5wCDTkRWqO_HSijNAM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:41:27"
+  }
+]

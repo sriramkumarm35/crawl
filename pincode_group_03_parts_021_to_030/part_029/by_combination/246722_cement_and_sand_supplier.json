@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M R M Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Sand & gravel supplier",
+    "all_categories": "Sand & gravel supplier, Cement Supplier",
+    "pincode": "246722",
+    "phone_number": "+91 85340 13038",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mustafapur Tayyab Sherkot, Sherkot, Uttar Pradesh 246747",
+    "area": "246722",
+    "latitude": 29.3125552,
+    "longitude": 78.57296099999999,
+    "place_id": "ChIJ_1YxHsvLCzkRt6Q7hFET1Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1YxHsvLCzkRt6Q7hFET1Xg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:53"
+  },
+  {
+    "business_name": "Laxmi Cement Agency",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "246722",
+    "phone_number": "+91 98106 40200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Traffic Red Light, Main Hoshyarpur Road, Hoshiarpur Village, Sector 51, Noida, Uttar Pradesh 201307",
+    "area": "Hoshiarpur Village, Sector 51",
+    "latitude": 28.582397399999998,
+    "longitude": 77.3664551,
+    "place_id": "ChIJmcn5ArXlDDkRziLliYG67wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcn5ArXlDDkRziLliYG67wU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:54"
+  }
+]

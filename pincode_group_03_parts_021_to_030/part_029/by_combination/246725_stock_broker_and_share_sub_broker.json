@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samco Securities Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "246725",
+    "phone_number": "+91 91222 27777",
+    "website": "https://www.samco.in/",
+    "rating": 4.1,
+    "reviews_count": 230,
+    "address": "1104 - A, 11th Floor, Naman Midtown - A Wing Senapati Bapat Marg, Fitwala Rd, Mumbai, Maharashtra 400013",
+    "area": "Dadar West",
+    "latitude": 19.010310399999998,
+    "longitude": 72.8362894,
+    "place_id": "ChIJDRSZtunO5zsRYZJPvCyW5bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRSZtunO5zsRYZJPvCyW5bY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:52:48"
+  },
+  {
+    "business_name": "FINVASIA",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment service",
+    "pincode": "246725",
+    "phone_number": "+91 172 667 0000",
+    "website": "https://finvasia.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Finvasia Centre, D 179, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Phase 8B, Industrial Area, Sector 74",
+    "latitude": 30.7093383,
+    "longitude": 76.6855289,
+    "place_id": "ChIJF4BYsiGTDzkRHL2BmW5NADg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4BYsiGTDzkRHL2BmW5NADg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:52:49"
+  }
+]

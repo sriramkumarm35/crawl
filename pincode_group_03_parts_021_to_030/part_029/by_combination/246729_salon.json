@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waseem Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "246729",
+    "phone_number": "+91 90451 56851",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Ebrahim Pur, Chandpur - Nehtaur Rd, Masit, Uttar Pradesh 246729",
+    "area": "246729",
+    "latitude": 29.178274199999997,
+    "longitude": 78.3075807,
+    "place_id": "ChIJKVDctqi9CzkRd0vFTwpZFxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVDctqi9CzkRd0vFTwpZFxQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:59:14"
+  },
+  {
+    "business_name": "Beauty Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "56V9+QP9, Ladupura, Uttar Pradesh 246725",
+    "area": "246729",
+    "latitude": 29.194408199999998,
+    "longitude": 78.2193688,
+    "place_id": "ChIJ8cJOEgCVCzkRkLXnC8qO-78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cJOEgCVCzkRkLXnC8qO-78",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:59:16"
+  }
+]

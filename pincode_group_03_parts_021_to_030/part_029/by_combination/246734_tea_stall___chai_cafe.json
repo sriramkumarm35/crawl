@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simu chai hotel",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "246734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XFH4+M9M, Apraula Maybag, Mithanpurkala, Uttar Pradesh 244251",
+    "area": "246734",
+    "latitude": 28.9792047,
+    "longitude": 78.4559101,
+    "place_id": "ChIJZcNTFwCnCzkRDRtBcuPZosI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcNTFwCnCzkRDRtBcuPZosI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:27"
+  },
+  {
+    "business_name": "Raza Traders",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "246734",
+    "phone_number": "+91 90120 71111",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Noorpur - Dhampur Rd, Chauraha, Noorpur, Noorpur Dehat, Uttar Pradesh 246734",
+    "area": "Chauraha",
+    "latitude": 29.163498699999998,
+    "longitude": 78.4014433,
+    "place_id": "ChIJf90KItW7CzkRDE-tgPokHCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf90KItW7CzkRDE-tgPokHCk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:29"
+  }
+]

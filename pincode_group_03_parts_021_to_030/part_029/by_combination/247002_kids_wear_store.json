@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Blessed baby Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "247002",
+    "phone_number": "+91 98973 85354",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mohalla Ali Main Road, Mehandi Sarai, Saharanpur, Uttar Pradesh 247001",
+    "area": "Mehandi Sarai",
+    "latitude": 29.9770756,
+    "longitude": 77.53597529999999,
+    "place_id": "ChIJTRFok0DrDjkRoclNevULtA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRFok0DrDjkRoclNevULtA4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:28:36"
+  },
+  {
+    "business_name": "MUNJAL GARMENTS",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "247002",
+    "phone_number": "+91 87559 10463",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop no 21, A, Nehru Market Rd, near statue of lion, Charanjpur, Subhash Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Charanjpur, Subhash Nagar",
+    "latitude": 29.9675294,
+    "longitude": 77.5456691,
+    "place_id": "ChIJKUrCXhDrDjkR7XayR2StHP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUrCXhDrDjkR7XayR2StHP8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:28:38"
+  }
+]

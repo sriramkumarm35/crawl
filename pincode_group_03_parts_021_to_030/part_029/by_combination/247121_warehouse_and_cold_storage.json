@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Onoma Cold Store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "247121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A-4, Selaqui Industrial Area, Selakui, Shankerpur Hakumatpur, Uttarakhand 248011",
+    "area": "Selaqui Industrial Area",
+    "latitude": 30.364483399999997,
+    "longitude": 77.85020209999999,
+    "place_id": "ChIJm8iRseYrDzkRecy-OTdDrKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8iRseYrDzkRecy-OTdDrKw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:33:25"
+  },
+  {
+    "business_name": "Super banana store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "247121",
+    "phone_number": "+91 94666 00150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9VG5+2MF, Pharma City Rd, Selaqui Industrial Area, Selakui, Central Hope Town, Uttarakhand 248011",
+    "area": "Selaqui Industrial Area",
+    "latitude": 30.3750623,
+    "longitude": 77.85917839999999,
+    "place_id": "ChIJx9EwUwArDzkRCa5A4dseK5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9EwUwArDzkRCa5A4dseK5Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:33:25"
+  }
+]

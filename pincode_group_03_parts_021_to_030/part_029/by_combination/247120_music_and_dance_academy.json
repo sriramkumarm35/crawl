@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhwani Sangeet Mahavidyalaya",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school, Drum school, Guitar instructor, Vocal Instructor",
+    "pincode": "247120",
+    "phone_number": "+91 92123 00050",
+    "website": "https://dhwanisangeet.com/",
+    "rating": 4.9,
+    "reviews_count": 507,
+    "address": "SCO-63, 2nd Floor, More Market, SectorD, above Kotak Mahindra Bank, Sector 56, Gurugram, Haryana 122011",
+    "area": "Block B, Sector 56",
+    "latitude": 28.4281924,
+    "longitude": 77.09876369999999,
+    "place_id": "ChIJDfb4nAAiDTkRs_BbIovazrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfb4nAAiDTkRs_BbIovazrQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:31:16"
+  },
+  {
+    "business_name": "Step2Step Dance Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Aerobics Class, Fitness center, Hip Hop Dance Class",
+    "pincode": "247120",
+    "phone_number": "+91 98881 37158",
+    "website": "https://www.s2sdancestudio.com/",
+    "rating": 4.5,
+    "reviews_count": 200,
+    "address": "SCF 53 Second Floor, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 10, Sector 64",
+    "latitude": 30.686179,
+    "longitude": 76.7389386,
+    "place_id": "ChIJH2mMF6btDzkRrsyHrcvAe6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2mMF6btDzkRrsyHrcvAe6c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:31:17"
+  }
+]

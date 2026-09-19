@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shafiqe Tea House",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "246735",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 12,
+    "address": "94CP+RFF, Bulla Chowk, Bijnor, Uttar Pradesh 246701",
+    "area": "Sotiyan",
+    "latitude": 29.3720678,
+    "longitude": 78.136177,
+    "place_id": "ChIJYSHSiGruCzkRhW3fUWoP14Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSHSiGruCzkRhW3fUWoP14Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:07:13"
+  },
+  {
+    "business_name": "DESI THEKA CHAI KA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "246735",
+    "phone_number": "+91 97602 97076",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "infront of bandhan banquet hall rambihar colony seohara, Seohara, Uttar Pradesh 246746",
+    "area": "246735",
+    "latitude": 29.196157399999997,
+    "longitude": 78.5894271,
+    "place_id": "ChIJ4znWYSSzCzkRBLZ6ikUmb1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4znWYSSzCzkRBLZ6ikUmb1g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:07:15"
+  }
+]

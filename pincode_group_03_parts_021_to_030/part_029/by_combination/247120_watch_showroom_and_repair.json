@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Watch Service",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "247120",
+    "phone_number": "+91 96028 50669",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 362,
+    "address": "Shop No 19, opp. Police Control Room, Outside Surajpole, Toran Bawri, Bapu Bazar, Ganesh Ghati, Udaipur, Rajasthan 313001",
+    "area": "Outside Surajpole, Toran Bawri, Bapu Bazar, Ganesh Ghati",
+    "latitude": 24.5791795,
+    "longitude": 73.6964441,
+    "place_id": "ChIJRUOxP3nlZzkRP7ku0gQ1pdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUOxP3nlZzkRP7ku0gQ1pdk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:30:25"
+  },
+  {
+    "business_name": "Naved Watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "247120",
+    "phone_number": "+91 96270 60167",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Behat, Mirzapur Pole, Uttar Pradesh 247121",
+    "area": "247120",
+    "latitude": 30.2563994,
+    "longitude": 77.6230441,
+    "place_id": "ChIJTTaaJLbfDjkRoTEz7oPfnFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTaaJLbfDjkRoTEz7oPfnFM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:30:27"
+  }
+]

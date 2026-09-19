@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car & bike decorator",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246733",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CCRF+F85, Inampura, Nagina, Uttar Pradesh 246762",
+    "area": "246733",
+    "latitude": 29.4411493,
+    "longitude": 78.4233615,
+    "place_id": "ChIJe7UCGgDFCzkR0t_pOotObGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7UCGgDFCzkR0t_pOotObGI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:13"
+  },
+  {
+    "business_name": "Ali bike lamination nagina",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "246733",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CCQG+GXW, Nagina, Kasba Bajiaft, Uttar Pradesh 246762",
+    "area": "246733",
+    "latitude": 29.4388336,
+    "longitude": 78.4274574,
+    "place_id": "ChIJLeoIZwDFCzkRw0rPmcu9mr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeoIZwDFCzkRw0rPmcu9mr0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:15"
+  }
+]

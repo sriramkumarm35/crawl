@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "chawla paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "247451",
+    "phone_number": "+91 82738 33333",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 9, street no 2, Delhi Rd, Rohit Vihar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Rohit Vihar",
+    "latitude": 29.939096099999997,
+    "longitude": 77.5398749,
+    "place_id": "ChIJI2NZ5LXqDjkR_bCNsW53vv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2NZ5LXqDjkR_bCNsW53vv4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:48:38"
+  },
+  {
+    "business_name": "Paint",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Painting",
+    "all_categories": "Painting",
+    "pincode": "247451",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XH64+PQ7, 3/154khanalampura, Khanalampura, Saharanpur, Uttar Pradesh 247001",
+    "area": "Khanalampura",
+    "latitude": 29.961785,
+    "longitude": 77.556927,
+    "place_id": "ChIJrf7UszTrDjkRQszc3_P1L5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrf7UszTrDjkRQszc3_P1L5g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:48:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "246762",
+    "phone_number": "+91 94118 43670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road Bdallupur Abdullah, Bijnor, 246701, Uttar Pradesh 246764",
+    "area": "246762",
+    "latitude": 29.4618671,
+    "longitude": 78.3999348,
+    "place_id": "ChIJfQxs3lbFCzkRtU528LZEofg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQxs3lbFCzkRtU528LZEofg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:07"
+  },
+  {
+    "business_name": "Dharvi Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246762",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gomti Bhawan, 341, Ambedkar Nagar, Uttar Pradesh 246762",
+    "area": "Ambedkar Nagar",
+    "latitude": 29.4396724,
+    "longitude": 78.4290977,
+    "place_id": "ChIJi89gQgTFCzkRywpRnWaIVbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi89gQgTFCzkRywpRnWaIVbw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.V. Enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Drilling equipment supplier",
+    "all_categories": "Drilling equipment supplier",
+    "pincode": "247664",
+    "phone_number": "+91 97192 43102",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2, Haridwar Rd, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8728055,
+    "longitude": 77.89325649999999,
+    "place_id": "ChIJJ7av0HyzDjkR7Kyj2MlgqVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7av0HyzDjkR7Kyj2MlgqVc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:04"
+  },
+  {
+    "business_name": "Apex Electricals",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier",
+    "pincode": "247664",
+    "phone_number": "+91 70600 97667",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, Ganga Tower, Dehradun Rd, opp. B.S.M Degree College, Ganesh Pur, Roorkee, Uttarakhand 247667",
+    "area": "Ganesh Pur",
+    "latitude": 29.8633447,
+    "longitude": 77.87830439999999,
+    "place_id": "ChIJZzHod0yzDjkRD4LkVN1JR3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzHod0yzDjkRD4LkVN1JR3I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:04"
+  }
+]

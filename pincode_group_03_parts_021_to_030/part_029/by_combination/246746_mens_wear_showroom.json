@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAX COLLECTION",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "246746",
+    "phone_number": "+91 90459 95860",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Abdullah Market, Seohara, Uttar Pradesh 246746",
+    "area": "246746",
+    "latitude": 29.207627,
+    "longitude": 78.58648269999999,
+    "place_id": "ChIJjS4TcOi1CzkRbp8_rlxeIaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjS4TcOi1CzkRbp8_rlxeIaU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:21"
+  },
+  {
+    "business_name": "GALAXY FASHION POINT",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "246746",
+    "phone_number": "+91 74179 78886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Abdullah Market, Seohara, Uttar Pradesh 246746",
+    "area": "246746",
+    "latitude": 29.2074976,
+    "longitude": 78.5866139,
+    "place_id": "ChIJ_WpdhyOzCzkRff3o4Rb6LOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WpdhyOzCzkRff3o4Rb6LOQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:24"
+  }
+]

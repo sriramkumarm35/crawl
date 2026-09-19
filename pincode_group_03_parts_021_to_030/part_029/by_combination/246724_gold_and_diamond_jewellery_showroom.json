@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Diamond Merchant, Gold dealer, Jewelry designer, Jewelry manufacturer, Jewelry repair service",
+    "pincode": "246724",
+    "phone_number": "+91 98370 52427",
+    "website": "https://api.whatsapp.com/send/?phone=+919837052427&text&type=phone_number&app_absent=0",
+    "rating": 4.7,
+    "reviews_count": 53,
+    "address": "Patel Marg, Jhanda Chowk, Kotdwar, Uttarakhand 246149",
+    "area": "Jhanda Chowk",
+    "latitude": 29.745291599999998,
+    "longitude": 78.5190473,
+    "place_id": "ChIJQ4gvkYB8CTkR3yZ9K84fb0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4gvkYB8CTkR3yZ9K84fb0I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:49:56"
+  },
+  {
+    "business_name": "BHOLA JEWELLER",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "246724",
+    "phone_number": "+91 88659 19339",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhola Jewellers, Jhanda Chowk, Kotdwar, Uttarakhand 246149",
+    "area": "Jhanda Chowk",
+    "latitude": 29.745354199999998,
+    "longitude": 78.5196773,
+    "place_id": "ChIJKweMKLB9CTkRpgykXL1dAcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKweMKLB9CTkRpgykXL1dAcU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:49:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FOOTSTEPS, (Family Footwear Store)",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "247232",
+    "phone_number": "+91 70830 00056",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Railway Road, near PNB Bank, opposite Multani Fastfood, Gandhi Market, Vishwakarma Mohalla, Yamuna Nagar, Haryana 135001",
+    "area": "Gandhi Market, Vishwakarma Mohalla",
+    "latitude": 30.1259955,
+    "longitude": 77.2893466,
+    "place_id": "ChIJr-DcNZv7DjkR3LcKJaWa8_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-DcNZv7DjkR3LcKJaWa8_A",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:15"
+  },
+  {
+    "business_name": "VISHWAS TRADERS",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "247232",
+    "phone_number": "+91 98970 62792",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Masood Khan Market, 13/2759, Ansari Rd, Nakhasa Bazar, Subhash Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Nakhasa Bazar, Subhash Nagar",
+    "latitude": 29.9724196,
+    "longitude": 77.5443856,
+    "place_id": "ChIJ8Td1_N3rDjkRQi5G0kcl0xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Td1_N3rDjkRQi5G0kcl0xk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Mart",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "246762",
+    "phone_number": "+91 81713 86235",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Railway Level Crossing, NH734, Inampura, Uttar Pradesh 246762",
+    "area": "246762",
+    "latitude": 29.4464193,
+    "longitude": 78.421622,
+    "place_id": "ChIJ-9AmbbjFCzkRHVOIag84dvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9AmbbjFCzkRHVOIag84dvU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:22:50"
+  },
+  {
+    "business_name": "XMI CCTV",
+    "search_category": "Commercial Complex",
+    "primary_category": "Camera store",
+    "all_categories": "Camera store",
+    "pincode": "246762",
+    "phone_number": "+91 70782 67888",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suyash Complex, Gandhi Murti, Nagina, Chak Telawali, Uttar Pradesh 246762",
+    "area": "246762",
+    "latitude": 29.4412696,
+    "longitude": 78.4317167,
+    "place_id": "ChIJ2Q0YP2XFCzkR_CBsHtFEHNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Q0YP2XFCzkR_CBsHtFEHNI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:22:53"
+  }
+]

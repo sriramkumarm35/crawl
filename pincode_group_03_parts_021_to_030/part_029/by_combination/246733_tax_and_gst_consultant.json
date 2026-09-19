@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alam & Company",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Legal services, Tax preparation service",
+    "pincode": "246733",
+    "phone_number": "+91 85329 68786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Punjabi Colony Road, near muneem chowk, Lal Sarai, Nagina, Uttar Pradesh 246762",
+    "area": "Lal Sarai",
+    "latitude": 29.441636499999998,
+    "longitude": 78.426233,
+    "place_id": "ChIJLSE5m1rFCzkR6uMjPEw_S4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSE5m1rFCzkR6uMjPEw_S4w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:54"
+  },
+  {
+    "business_name": "TAXARA",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "246733",
+    "phone_number": "N/A",
+    "website": "https://taxaraconsulting.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Akbarabad Chowk, Near, Akbarabad Road, Nagina, Uttar Pradesh 246762",
+    "area": "246733",
+    "latitude": 29.4463007,
+    "longitude": 78.4217498,
+    "place_id": "ChIJSbkKFDfFCzkRWe5mnFkFZSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbkKFDfFCzkRWe5mnFkFZSI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:04:54"
+  }
+]

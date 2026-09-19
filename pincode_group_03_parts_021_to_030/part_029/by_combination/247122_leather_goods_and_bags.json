@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather Prime",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "247122",
+    "phone_number": "+91 94621 92612",
+    "website": "https://orrese.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "61, Kan Nagar, Sector 8, Panerion Ki Madri, Udaipur, Rajasthan 313002",
+    "area": "Sector 8, Panerion Ki Madri",
+    "latitude": 24.556096099999998,
+    "longitude": 73.7108689,
+    "place_id": "ChIJrdjcgo3vZzkR11LbhEytTm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdjcgo3vZzkR11LbhEytTm0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:33:57"
+  },
+  {
+    "business_name": "M.M Leather Shop",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "247122",
+    "phone_number": "+91 94604 02767",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9, Gangaur Ghat Marg, Jagdish Chowk, Silawatwari, Udaipur, Rajasthan 313004",
+    "area": "Jagdish Chowk, Silawatwari",
+    "latitude": 24.5802032,
+    "longitude": 73.68335669999999,
+    "place_id": "ChIJpzIs6QflZzkRAFq9mYPFldk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzIs6QflZzkRAFq9mYPFldk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:33:58"
+  }
+]

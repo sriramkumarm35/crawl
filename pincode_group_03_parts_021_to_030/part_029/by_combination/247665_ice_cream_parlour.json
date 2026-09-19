@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANSARI HOME",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "247665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RQ4H+R6R, Jabarhera, Jhabrera, Uttarakhand 247665",
+    "area": "247665",
+    "latitude": 29.8071548,
+    "longitude": 77.7780717,
+    "place_id": "ChIJgYZLDQCxDjkRXzIxcRdo0K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYZLDQCxDjkRXzIxcRdo0K0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:28"
+  },
+  {
+    "business_name": "Softy Point",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "247665",
+    "phone_number": "+91 90583 47888",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Badi Tanki, 6A, Ramnagar, Roorkee, Uttarakhand 247667",
+    "area": "Ramnagar",
+    "latitude": 29.8738437,
+    "longitude": 77.87450249999999,
+    "place_id": "ChIJPVFnAACzDjkRpQUUXggtGyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVFnAACzDjkRpQUUXggtGyQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:30"
+  }
+]

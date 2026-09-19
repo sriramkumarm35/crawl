@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "247554",
+    "phone_number": "+91 82799 92328",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, nechalgarh 12, nechalgarh, Deoband, Uttar Pradesh 247554",
+    "area": "nechalgarh",
+    "latitude": 29.6893326,
+    "longitude": 77.67553749999999,
+    "place_id": "ChIJ42LN1yqlDjkRBGqWbvTs4Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42LN1yqlDjkRBGqWbvTs4Vk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:56:46"
+  },
+  {
+    "business_name": "Kaavya traders Waste Paper Supplier",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "247554",
+    "phone_number": "+91 83760 04212",
+    "website": "https://www.kaavyatraders.shop/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Khasra no 189, Shahbuddin Pur Rd, North Rampuri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "North Rampuri",
+    "latitude": 29.4936917,
+    "longitude": 77.6924798,
+    "place_id": "ChIJN5uBvHEdDDkRMeWIDt9A1Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5uBvHEdDDkRMeWIDt9A1Sc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:56:48"
+  }
+]

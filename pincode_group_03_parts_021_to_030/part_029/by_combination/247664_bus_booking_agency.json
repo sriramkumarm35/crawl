@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devlok Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Hotel",
+    "pincode": "247664",
+    "phone_number": "+91 82187 64689",
+    "website": "http://www.devloktourandtravels.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Ramghat haridwar Makkhan chakkhan ji ki haveli, Ram Ghat, Haridwar, Uttarakhand 249401",
+    "area": "Ram Ghat",
+    "latitude": 29.952314899999998,
+    "longitude": 78.1662798,
+    "place_id": "ChIJR2UvfRBHCTkRQlvRQysWrw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2UvfRBHCTkRQlvRQysWrw0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:05:10"
+  },
+  {
+    "business_name": "Shyam Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Tour agency",
+    "pincode": "247664",
+    "phone_number": "+91 93588 89873",
+    "website": "http://www.shyamtourandtravels.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Shyam Bhawan, Railway Road, near CANARA BANK - HARIDWAR MAIN, Birla Ghat, Haridwar, Uttarakhand 249401",
+    "area": "Birla Ghat",
+    "latitude": 29.950122699999998,
+    "longitude": 78.1612011,
+    "place_id": "ChIJbx1CXgFHCTkR80-ObChgAcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbx1CXgFHCTkR80-ObChgAcY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:05:10"
+  }
+]

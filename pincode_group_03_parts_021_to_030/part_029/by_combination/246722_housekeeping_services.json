@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright housekeeping services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "246722",
+    "phone_number": "+91 97598 72843",
+    "website": "https://www.brighthousekeeping.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "L.p nagar, road jhingurpura, near Dampiar nagar, Maghora, Dampier Nagar, Mathura, Uttar Pradesh 281001",
+    "area": "Maghora, Dampier Nagar",
+    "latitude": 27.4903831,
+    "longitude": 77.68305079999999,
+    "place_id": "ChIJRdfV8DJxczkRiJFfhE6VruU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdfV8DJxczkRiJFfhE6VruU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:47:32"
+  },
+  {
+    "business_name": "A to Z Cleaning Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "246722",
+    "phone_number": "N/A",
+    "website": "https://atozcleaningsolutions.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Hanuman Complex, Indrapuram, Tajganj, Agra, Uttar Pradesh 282001",
+    "area": "Indrapuram, Tajganj",
+    "latitude": 27.1468283,
+    "longitude": 78.04160619999999,
+    "place_id": "ChIJm2xtawxxdDkRclXbPlaKzuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2xtawxxdDkRclXbPlaKzuM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:47:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sony Tea Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "247664",
+    "phone_number": "+91 96342 47709",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "01 Sony, Roorkee Byp Rd, Landhaura, Haridwar, Uttarakhand 247664",
+    "area": "247664",
+    "latitude": 29.8197202,
+    "longitude": 77.92066,
+    "place_id": "ChIJQ43lhYCzDjkR875JLKxNad8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ43lhYCzDjkR875JLKxNad8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:38"
+  },
+  {
+    "business_name": "Be Cafe Arya FS",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "247664",
+    "phone_number": "+91 78958 70511",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "near coer college, Roorkee, Sohalpur Mazara Belra M, Uttarakhand 247667",
+    "area": "247664",
+    "latitude": 29.8858005,
+    "longitude": 77.9564328,
+    "place_id": "ChIJOQ_T9-VLCTkRLGFbUtKi15g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQ_T9-VLCTkRLGFbUtKi15g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:38"
+  }
+]

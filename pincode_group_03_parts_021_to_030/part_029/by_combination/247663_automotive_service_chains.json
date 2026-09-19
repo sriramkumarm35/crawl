@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri City Automobils",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Auto Accessories Store, Two Wheeler Repair Shop",
+    "pincode": "247663",
+    "phone_number": "+91 84451 21332",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 15,
+    "address": "W4JH+47J, Alankar Palace, Jawalapur, near Shankar Ashram, Haridwar, Uttarakhand 249407",
+    "area": "Yogi Vihar Colony, Model Colony",
+    "latitude": 29.9303328,
+    "longitude": 78.12815119999999,
+    "place_id": "ChIJO1vS9DlGCTkRFDEIb8Q1KKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1vS9DlGCTkRFDEIb8Q1KKM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:03:20"
+  },
+  {
+    "business_name": "Honda Service Center- Authorised",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Honda dealer, Motorcycle parts store, Repair service",
+    "pincode": "247663",
+    "phone_number": "+91 92194 64500",
+    "website": "http://www.amrithonda.com/",
+    "rating": 4.6,
+    "reviews_count": 217,
+    "address": "Sant Bhawan, Arya Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Sharda Nagar",
+    "latitude": 29.924640999999998,
+    "longitude": 78.11876,
+    "place_id": "ChIJgTYLhSNGCTkRYVebE506OX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTYLhSNGCTkRYVebE506OX4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:03:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Motti enterprises shopping centre",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "247551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "piller no 100, Sarai kaharan, opp, GT road, near Darul Uloom Road, Saini Sarai, Deoband, Uttar Pradesh 247554",
+    "area": "Saini Sarai",
+    "latitude": 29.7018271,
+    "longitude": 77.6775519,
+    "place_id": "ChIJgY6rfL2lDjkRWKDVfhd6JUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgY6rfL2lDjkRWKDVfhd6JUs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:54:10"
+  },
+  {
+    "business_name": "Jamal Perfumers",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Perfume store",
+    "all_categories": "Perfume store",
+    "pincode": "247551",
+    "phone_number": "+91 95572 64616",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Madni road, near masjid-E-rasheed deoband, Deoband, Uttar Pradesh 247554",
+    "area": "Matkota",
+    "latitude": 29.6982915,
+    "longitude": 77.6768809,
+    "place_id": "ChIJDwAAADykDjkRWAkpESn6Sso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwAAADykDjkRWAkpESn6Sso",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:54:10"
+  }
+]

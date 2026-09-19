@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furniture Shop",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "246735",
+    "phone_number": "+91 90963 38255",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bijnor, Uttar Pradesh 246701",
+    "area": "Bijnor",
+    "latitude": 29.3773727,
+    "longitude": 78.13754689999999,
+    "place_id": "ChIJX19r7jjvCzkR56hwR22QECA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX19r7jjvCzkR56hwR22QECA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:08:11"
+  },
+  {
+    "business_name": "Vishal Tant Hause",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "246735",
+    "phone_number": "+91 70174 75252",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bakshi Wala Rd, Bijnor, Uttar Pradesh 246701",
+    "area": "246735",
+    "latitude": 29.374606399999998,
+    "longitude": 78.1530583,
+    "place_id": "ChIJKWsiW_bvCzkRS7W-jUd2IEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWsiW_bvCzkRS7W-jUd2IEQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:08:11"
+  }
+]

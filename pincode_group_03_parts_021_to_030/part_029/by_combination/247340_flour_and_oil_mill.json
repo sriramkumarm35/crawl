@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Floor Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Millwork shop",
+    "all_categories": "Millwork shop",
+    "pincode": "247340",
+    "phone_number": "+91 90129 08209",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Q7HC+P48, Gangoh, Uttar Pradesh 247341",
+    "area": "247340",
+    "latitude": 29.7792766,
+    "longitude": 77.2703159,
+    "place_id": "ChIJCc6AZiSJDjkRD5KYBxdEzA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCc6AZiSJDjkRD5KYBxdEzA0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:25"
+  },
+  {
+    "business_name": "Mohammad Ahmad Aara Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "247340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W8C5+WX7, Nakur, Uttar Pradesh 247342",
+    "area": "247340",
+    "latitude": 29.922290699999998,
+    "longitude": 77.3099096,
+    "place_id": "ChIJPZz7RjXzDjkRUZSSxK7_MGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZz7RjXzDjkRUZSSxK7_MGY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:26"
+  }
+]

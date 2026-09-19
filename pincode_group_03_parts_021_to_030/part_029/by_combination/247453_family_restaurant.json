@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RANA RESTAURANT & FAST FOOD",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247453",
+    "phone_number": "+91 99998 36193",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "near Delhi – Dehradun Expressway, Bargaon, Bud Gaon, Uttar Pradesh 247452",
+    "area": "247453",
+    "latitude": 29.7098515,
+    "longitude": 77.5177685,
+    "place_id": "ChIJFUDIaOaZDjkRPc0uhTG2nuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUDIaOaZDjkRPc0uhTG2nuU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:51:37"
+  },
+  {
+    "business_name": "AAA family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247453",
+    "phone_number": "+91 95110 73990",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "PH53+GWW, Maheshpur, Uttar Pradesh 247452",
+    "area": "247453",
+    "latitude": 29.7088683,
+    "longitude": 77.5548365,
+    "place_id": "ChIJD0VxVqmZDjkRVNhNItDvMOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0VxVqmZDjkRVNhNItDvMOI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:51:37"
+  }
+]

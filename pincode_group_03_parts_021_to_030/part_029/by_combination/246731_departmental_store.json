@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhardwaj Provisinol Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246731",
+    "phone_number": "+91 99975 78381",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhardwaj provisional store, kotdwar road, near green field school, Najibabad, Mauzampur Tulshi Bila Ahatmali, Uttar Pradesh 246763",
+    "area": "246731",
+    "latitude": 29.620602299999998,
+    "longitude": 78.3638125,
+    "place_id": "ChIJS8DscvzfCzkR9ykMyJrcQ0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8DscvzfCzkR9ykMyJrcQ0I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:00:04"
+  },
+  {
+    "business_name": "Dhiman Enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "246731",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Mohalla Ambedkar Nagar, Kiratpur, Uttar Pradesh 246731",
+    "area": "246731",
+    "latitude": 29.5010801,
+    "longitude": 78.21226829999999,
+    "place_id": "ChIJEyPW6oXmCzkREXGzJJFrOoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyPW6oXmCzkREXGzJJFrOoQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:00:05"
+  }
+]

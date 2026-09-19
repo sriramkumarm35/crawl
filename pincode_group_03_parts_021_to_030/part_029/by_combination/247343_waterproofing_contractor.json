@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Thekedar Associates",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor, Waterproofing service",
+    "pincode": "247343",
+    "phone_number": "+91 96178 63853",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Rajul Ladmark, 320A, near jabalpur hospital, Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.1625724,
+    "longitude": 79.9359664,
+    "place_id": "ChIJwbRHa6qvgTkRJdn0QdKhtw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbRHa6qvgTkRJdn0QdKhtw4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:47:00"
+  },
+  {
+    "business_name": "Sika Shop",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service",
+    "pincode": "247343",
+    "phone_number": "+91 81035 53355",
+    "website": "https://ind.sika.com/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "MG Enterprises, 259/2, Katangi Rd, Karmeta, Jabalpur, Madhya Pradesh 482002",
+    "area": "Karmeta",
+    "latitude": 23.2024209,
+    "longitude": 79.9052857,
+    "place_id": "ChIJTeUpRwCxgTkRqp_QL-LVr4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTeUpRwCxgTkRqp_QL-LVr4M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:47:01"
+  }
+]

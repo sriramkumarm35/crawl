@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Company Registration",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "246737",
+    "phone_number": "+91 98465 05914",
+    "website": "https://talkuscs.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "TalkUs building, Kalady Airport Rd, Paliakara, Angamaly, Keralam 683572",
+    "area": "Paliakara",
+    "latitude": 10.182362399999999,
+    "longitude": 76.3881576,
+    "place_id": "ChIJy3xC0_kHCDsR0yDIHwnHx9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3xC0_kHCDsR0yDIHwnHx9M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:02"
+  },
+  {
+    "business_name": "Filingbuzz Consultants Private Limited",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "246737",
+    "phone_number": "+91 99997 30333",
+    "website": "http://www.filingbuzz.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2/414, Viram Khand, Viram Khand-2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Viram Khand-2, Gomti Nagar",
+    "latitude": 26.8477507,
+    "longitude": 81.0032738,
+    "place_id": "ChIJM7bYxVfimzkRoAEZTkoMaFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7bYxVfimzkRoAEZTkoMaFM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:03"
+  }
+]

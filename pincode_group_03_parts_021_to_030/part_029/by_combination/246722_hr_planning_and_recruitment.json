@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "91HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "246722",
+    "phone_number": "+91 88061 21926",
+    "website": "https://91hr.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5th Floor, Star, Gera Imperium Patto Plaza, 523, patto, Patto Centre, Panaji, Goa 403001",
+    "area": "Patto Centre",
+    "latitude": 15.4953322,
+    "longitude": 73.8337368,
+    "place_id": "ChIJr7Ot_I-zvzsRUMf5oCkL264",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7Ot_I-zvzsRUMf5oCkL264",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:47:30"
+  },
+  {
+    "business_name": "Kriprimaa HR Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "246722",
+    "phone_number": "+91 88664 40732",
+    "website": "https://kriprimaa.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Office No 03, First Floor, Shree Hari Complex, Kodinar Bypass Rd, near Somnath Academy, Kodinar, Gujarat 362720",
+    "area": "246722",
+    "latitude": 20.8198501,
+    "longitude": 70.68329229999999,
+    "place_id": "ChIJIVVcEQDZ4jsR18t3Fc15mb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVVcEQDZ4jsR18t3Fc15mb0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:47:31"
+  }
+]

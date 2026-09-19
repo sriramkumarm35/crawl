@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern pathology Lab",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "246747",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Modern Sity, 107, near Nagar palika Mohalla, Shekhan, Sherkot, Uttar Pradesh 246747",
+    "area": "Shekhan",
+    "latitude": 29.3231422,
+    "longitude": 78.57265029999999,
+    "place_id": "ChIJ5WgbxfPLCzkRI5quPBvSUi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WgbxfPLCzkRI5quPBvSUi0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:16:18"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "246747",
+    "phone_number": "+91 90587 54239",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-udaipur-dhampur-44611/home?utm_source=GBP",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Fish Market, Bombay Complex, Main, Seohara Chungi, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Udaipur",
+    "latitude": 29.308235,
+    "longitude": 78.51206499999999,
+    "place_id": "ChIJ5THrm_nJCzkRK-1bGSvCdJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5THrm_nJCzkRK-1bGSvCdJk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:16:20"
+  }
+]

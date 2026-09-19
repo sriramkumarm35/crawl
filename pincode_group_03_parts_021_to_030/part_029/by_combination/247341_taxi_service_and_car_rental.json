@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "247341",
+    "phone_number": "+91 98130 26130",
+    "website": "https://www.facebook.com/Singhyash1025/",
+    "rating": 5,
+    "reviews_count": 57,
+    "address": "Shop No. 7, Chowk, Kunjpura Rd, near Airport, Budha Khera, Danialpur, Karnal, Haryana 132001",
+    "area": "Budha Khera",
+    "latitude": 29.7142366,
+    "longitude": 77.0250295,
+    "place_id": "ChIJzzuHqWJvDjkRiFr-LhxcXpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzuHqWJvDjkRiFr-LhxcXpc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:43:17"
+  },
+  {
+    "business_name": "Akaal Tour & Travel",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Domestic airport, International airport, Minibus taxi service, Tour operator",
+    "pincode": "247341",
+    "phone_number": "+91 94520 09909",
+    "website": "https://www.akaaltravels.co.in/",
+    "rating": 5,
+    "reviews_count": 80,
+    "address": "Budhakhera Viilage, near Mahindra Public School, HBC, Karnal, Haryana 132001",
+    "area": "HBC, Sector 8",
+    "latitude": 29.7022914,
+    "longitude": 77.0114679,
+    "place_id": "ChIJOXBOYdBlDjkRZEcpHiWKNDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXBOYdBlDjkRZEcpHiWKNDY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:43:17"
+  }
+]

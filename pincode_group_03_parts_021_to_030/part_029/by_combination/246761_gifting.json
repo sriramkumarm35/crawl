@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Kumar",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Boutique",
+    "pincode": "246761",
+    "phone_number": "+91 79064 71754",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Punjabi Colony, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Punjabi Colony, Udaipur",
+    "latitude": 29.3082069,
+    "longitude": 78.5074291,
+    "place_id": "ChIJ-Qh29NnJCzkRXbEXQ7Fd_O8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Qh29NnJCzkRXbEXQ7Fd_O8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:20:24"
+  },
+  {
+    "business_name": "Aman Gift Hub",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "246761",
+    "phone_number": "+91 75202 95166",
+    "website": "http://amaangifthub.netlify.app/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Street No. 366, Thakurdwara Road, Sharif Nagar, Uttar Pradesh 244602",
+    "area": "246761",
+    "latitude": 29.2125593,
+    "longitude": 78.77739369999999,
+    "place_id": "ChIJUZD_vR5PCjkR7YtOadFMevc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZD_vR5PCjkR7YtOadFMevc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:20:26"
+  }
+]

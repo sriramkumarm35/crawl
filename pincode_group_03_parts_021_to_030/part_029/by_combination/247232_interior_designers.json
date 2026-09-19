@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Third eye interior design",
+    "search_category": "Interior Designers",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "247232",
+    "phone_number": "+91 87080 02124",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Tejli Rd, Basant Nagar, Jagadhri, Haryana 135003",
+    "area": "Basant Nagar",
+    "latitude": 30.142632,
+    "longitude": 77.3047125,
+    "place_id": "ChIJTzxBHgD7DjkRnKmbUfVPAOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzxBHgD7DjkRnKmbUfVPAOg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:50"
+  },
+  {
+    "business_name": "Modren design & Architect",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "247232",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/zeeinteriorstudio/?hl=tr",
+    "rating": null,
+    "reviews_count": null,
+    "address": "peer 23, Ahmed Bagh, Navin Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Ahmed Bagh, Navin Nagar",
+    "latitude": 29.9474335,
+    "longitude": 77.546318,
+    "place_id": "ChIJU5lP4_PrDjkRGE9nBNJslTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5lP4_PrDjkRGE9nBNJslTw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:51"
+  }
+]

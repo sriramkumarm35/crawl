@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sateesh Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246726",
+    "phone_number": "+91 96395 66389",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Molalla Saray, Haldaur Rural, Haldaur, Uttar Pradesh 246726",
+    "area": "246726",
+    "latitude": 29.2908001,
+    "longitude": 78.28123269999999,
+    "place_id": "ChIJQbySe0DrCzkRnxVgtLCb1JQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbySe0DrCzkRnxVgtLCb1JQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:53:50"
+  },
+  {
+    "business_name": "Akanshu Bike Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246726",
+    "phone_number": "+91 74518 95101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23, Bijnor, Uttar Pradesh 246726",
+    "area": "246726",
+    "latitude": 29.329496,
+    "longitude": 78.27781449999999,
+    "place_id": "ChIJ-67L4j_rCzkRV1SGHIGYdTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-67L4j_rCzkRV1SGHIGYdTo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:53:50"
+  }
+]

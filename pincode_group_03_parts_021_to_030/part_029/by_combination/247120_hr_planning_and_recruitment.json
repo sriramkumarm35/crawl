@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "human resource",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Deli",
+    "all_categories": "Deli, Service establishment",
+    "pincode": "247120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "human resource, 247120, India",
+    "area": "247120",
+    "latitude": 28.397454999999997,
+    "longitude": 84.1301506,
+    "place_id": "ChIJIwaa3lvAUicRmc3yyo5eZN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwaa3lvAUicRmc3yyo5eZN0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:31:29"
+  },
+  {
+    "business_name": "SHAURYAPRABHATINFRATECH",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "247120",
+    "phone_number": "+91 98711 64655",
+    "website": "https://www.spit-tech.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, 6D/841 Sector-6, near Tea Time, Extention, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Extention, Gomti Nagar",
+    "latitude": 26.8240268,
+    "longitude": 81.0133673,
+    "place_id": "ChIJhy2sZe7jmzkRG0rvHbbEPQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhy2sZe7jmzkRG0rvHbbEPQw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:31:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imagination boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "247129",
+    "phone_number": "+91 97607 98434",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Delhi - Saharanpur Rd, Manoharpur, Sawalpur Nawada, Uttar Pradesh 247001",
+    "area": "247129",
+    "latitude": 29.930895999999997,
+    "longitude": 77.5237271,
+    "place_id": "ChIJ_cCOCADrDjkRaQPvyRTNPzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cCOCADrDjkRaQPvyRTNPzQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:35:46"
+  },
+  {
+    "business_name": "Gori fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "247129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalu Wala Pahadipur, Uttar Pradesh 247129",
+    "area": "247129",
+    "latitude": 30.2056816,
+    "longitude": 77.76809519999999,
+    "place_id": "ChIJ6Tx5P8jRDjkRQPZiK3qzi0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tx5P8jRDjkRQPZiK3qzi0g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:35:48"
+  }
+]

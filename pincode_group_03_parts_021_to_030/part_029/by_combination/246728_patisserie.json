@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Bread Suply",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "246728",
+    "phone_number": "+91 99276 37594",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chakkar Rd, Gyan Vihar, Rasulpur Pirthi, Bijnor, Uttar Pradesh 246701",
+    "area": "Gyan Vihar",
+    "latitude": 29.3882792,
+    "longitude": 78.1514727,
+    "place_id": "ChIJDxXu4JHvCzkRzsVJz3cig_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxXu4JHvCzkRzsVJz3cig_8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:56:45"
+  },
+  {
+    "business_name": "Wonderful Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "246728",
+    "phone_number": "+91 75999 45719",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22, Adampur Road, Road, Bijnor, Uttar Pradesh 246701",
+    "area": "Adampur",
+    "latitude": 29.3952189,
+    "longitude": 78.1508824,
+    "place_id": "ChIJhZWWW6PvCzkR2ewqLmd_lds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZWWW6PvCzkR2ewqLmd_lds",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:56:45"
+  }
+]

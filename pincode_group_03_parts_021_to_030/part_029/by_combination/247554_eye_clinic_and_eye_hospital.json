@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vardan Eye care center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "247554",
+    "phone_number": "+91 63983 43259",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saharanpur Rd, opposite Swami Kalyan Dev Government Ayurvedic College & Hospital, Rampur Tiraha, Muzaffarnagar, Rampur, Uttar Pradesh 251202",
+    "area": "Rampur Tiraha",
+    "latitude": 29.5213096,
+    "longitude": 77.7063312,
+    "place_id": "ChIJjUAqcxQdDDkRx93GwyyvfPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUAqcxQdDDkRx93GwyyvfPw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:55:30"
+  },
+  {
+    "business_name": "Vision Eye Clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "247554",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Mariyampura, Thanabhawan, Charthawal, Uttar Pradesh 251311",
+    "area": "Mariyampura",
+    "latitude": 29.5446875,
+    "longitude": 77.58693749999999,
+    "place_id": "ChIJaax1ZQAfDDkR3o2PK_MJi08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaax1ZQAfDDkR3o2PK_MJi08",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:55:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Mohd. Ali",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "246734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Noorpur - Hakumatpur Rd, Noorpur, Uttar Pradesh 246734",
+    "area": "246734",
+    "latitude": 29.153385,
+    "longitude": 78.4060764,
+    "place_id": "ChIJKYfW8pO7CzkRmq60Ytri6k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYfW8pO7CzkRmq60Ytri6k8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:45"
+  },
+  {
+    "business_name": "TARUN MEDICAL",
+    "search_category": "Doctors",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "246734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "5C23+6H6, Unnamed Road, Noorpur, Uttar Pradesh 246734",
+    "area": "246734",
+    "latitude": 29.1505412,
+    "longitude": 78.4038781,
+    "place_id": "ChIJP2eaK5m7CzkRBCJI9PLeAg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2eaK5m7CzkRBCJI9PLeAg4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:48"
+  }
+]

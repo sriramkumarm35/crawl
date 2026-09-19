@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Point - Noorpur",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246734",
+    "phone_number": "+91 94925 00077",
+    "website": "https://hungrypoint.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chandpur Road, near PNB Bank, opp. Dr HS Chauhan, Islam Nagar, Noorpur, Uttar Pradesh 246734",
+    "area": "Islam Nagar",
+    "latitude": 29.1467471,
+    "longitude": 78.4074467,
+    "place_id": "ChIJnyqRsn27CzkR7QApUrIo_rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyqRsn27CzkR7QApUrIo_rw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:25"
+  },
+  {
+    "business_name": "Kohinoor Enterprise Vadodara",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, FMCG Goods Wholesaler, Supermarket",
+    "pincode": "246734",
+    "phone_number": "+91 99248 96939",
+    "website": "https://kohinoorfrozenfoods.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhaisaheb, opposite Momin House, Badri Mohalla, Wadi, Vadodara, Gujarat 390017",
+    "area": "Badri Mohalla, Wadi",
+    "latitude": 22.2947958,
+    "longitude": 73.214559,
+    "place_id": "ChIJe1lsf6PFXzkRETexYyPudeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1lsf6PFXzkRETexYyPudeY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:25"
+  }
+]

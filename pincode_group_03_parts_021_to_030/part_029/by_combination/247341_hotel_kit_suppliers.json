@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotelmart",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Supplier",
+    "pincode": "247341",
+    "phone_number": "+91 98250 60983",
+    "website": "http://www.allhotelsupplies.com/",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "302, 3rd Floor, Shilp Arcade, Jodhpur Char Rasta, opposite Ratnamani Towers-A, Satellite, Ahmedabad, Gujarat 380015",
+    "area": "Satellite",
+    "latitude": 23.0255285,
+    "longitude": 72.5256438,
+    "place_id": "ChIJ8_qnyIqEXjkRSbRrSwWJgCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_qnyIqEXjkRSbRrSwWJgCQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:43:44"
+  },
+  {
+    "business_name": "K.T.Hotelwares - Hotelwares in Bhopal",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Department store",
+    "pincode": "247341",
+    "phone_number": "+91 93031 36003",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 148,
+    "address": "Main Rd, behind Kanhaiyalal Teckchand, nearby Water tank Bartan Market, Sant Hirdaram Nagar, Hemu Kalani, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Sant Hirdaram Nagar, Hemu Kalani, Bairagarh",
+    "latitude": 23.272031899999998,
+    "longitude": 77.337591,
+    "place_id": "ChIJ3UdBKaBnfDkRWuyOa87kago",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UdBKaBnfDkRWuyOa87kago",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:43:44"
+  }
+]

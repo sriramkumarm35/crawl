@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TUBA INTERNATIONAL",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "246732",
+    "phone_number": "+91 96433 06786",
+    "website": "http://tubainternational.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rajpur Nawada, Sherpur Ami, Uttar Pradesh 246732",
+    "area": "246732",
+    "latitude": 29.6251826,
+    "longitude": 78.2301241,
+    "place_id": "ChIJo9WQszPhCzkReTBkVIccbzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9WQszPhCzkReTBkVIccbzQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:28"
+  },
+  {
+    "business_name": "Hello Brothers Tour And Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "246732",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "WAHID NAGAR , NEAR INCOME TAX OFFICE , RAILWAY ROAD, NH 74, Shakoor Nagar, Najibabad, Uttar Pradesh 246763",
+    "area": "Wahid Nagar, Shakoor Nagar",
+    "latitude": 29.6042934,
+    "longitude": 78.3332648,
+    "place_id": "ChIJxVQZwQ7fCzkRInkErJUwqK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVQZwQ7fCzkRInkErJUwqK0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:31"
+  }
+]

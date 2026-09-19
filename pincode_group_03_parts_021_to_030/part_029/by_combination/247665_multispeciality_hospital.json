@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Megacity Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "247665",
+    "phone_number": "+91 98979 70001",
+    "website": "http://www.megacityhospital.in/",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "RQ7G+758, Jabarhera, Jhabrera, Uttarakhand 247665",
+    "area": "247665",
+    "latitude": 29.813054899999997,
+    "longitude": 77.7754672,
+    "place_id": "ChIJ9bek3cKxDjkR22VpORkvcFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bek3cKxDjkR22VpORkvcFk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:42"
+  },
+  {
+    "business_name": "Senthoor Homoeo Medicals (siddha/ayurvedic/homoeo/whole sale/retail/homoeo medical in madurai)",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy, Homeopath, Medical Center, Pharmacy, Store, Wholesaler",
+    "pincode": "247665",
+    "phone_number": "+91 90808 05007",
+    "website": "https://senthoorhomoeo24.com/",
+    "rating": 4.8,
+    "reviews_count": 27,
+    "address": "4, Muthananthasamy Madam Street, Thamukkam North Side, near कुमार मेस, Tallakulam, Tamil Nadu 625002",
+    "area": "Mellur",
+    "latitude": 9.9317973,
+    "longitude": 78.1348142,
+    "place_id": "ChIJ28DGYYrFADsRqmBsl2gyi48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28DGYYrFADsRqmBsl2gyi48",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:45"
+  }
+]

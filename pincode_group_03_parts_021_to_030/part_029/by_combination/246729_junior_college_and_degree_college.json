@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek University",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "University",
+    "all_categories": "University, Educational institution",
+    "pincode": "246729",
+    "phone_number": "+91 80571 00200",
+    "website": "http://www.vivekuniversity.ac.in/",
+    "rating": 4,
+    "reviews_count": 471,
+    "address": "Bijnor - Moradabad Rd, Post, Aagri, Firozpur Mohan, Uttar Pradesh 246701",
+    "area": "Post",
+    "latitude": 29.3460455,
+    "longitude": 78.167898,
+    "place_id": "ChIJmaRNdxTsCzkRAPexOOrCkqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaRNdxTsCzkRAPexOOrCkqM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:59:30"
+  },
+  {
+    "business_name": "Kunwar Satyavira College of Engineering and Management",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "246729",
+    "phone_number": "+91 81910 02009",
+    "website": "https://ksvira.edu.in/",
+    "rating": 3.8,
+    "reviews_count": 262,
+    "address": "Aawas Vikas, Bijnor, Uttar Pradesh 246701",
+    "area": "Aawas Vikas",
+    "latitude": 29.384347899999998,
+    "longitude": 78.1290195,
+    "place_id": "ChIJXyO_hGruCzkRlAgvLmhmzZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyO_hGruCzkRlAgvLmhmzZ4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:59:32"
+  }
+]

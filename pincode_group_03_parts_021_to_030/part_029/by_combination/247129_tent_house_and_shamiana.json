@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Public Tent House",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "247129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 6,
+    "address": "RPW2+CG4, Khera Mugul, Uttar Pradesh 247551",
+    "area": "247129",
+    "latitude": 29.8460011,
+    "longitude": 77.7013207,
+    "place_id": "ChIJ_____8y7DjkR7xFep5CMn_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____8y7DjkR7xFep5CMn_Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:36:23"
+  },
+  {
+    "business_name": "Vardan Tent House",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "247129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tajpura, Saharanpur Rd - Behat, Saharanpur, Uttar Pradesh 247120",
+    "area": "247129",
+    "latitude": 30.088649699999998,
+    "longitude": 77.6001749,
+    "place_id": "ChIJdQtf69nDDjkRECLOjlgHclY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQtf69nDDjkRECLOjlgHclY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:36:25"
+  }
+]

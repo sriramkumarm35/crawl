@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Traders",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "246736",
+    "phone_number": "+91 1342 262 474",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "94FM+CR3, Kutchery Rd, Bijnor, Uttar Pradesh 246701",
+    "area": "Bijnor",
+    "latitude": 29.373501299999997,
+    "longitude": 78.1345474,
+    "place_id": "ChIJ092MEEDuCzkRgLAnWKpLXcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ092MEEDuCzkRgLAnWKpLXcI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:10:17"
+  },
+  {
+    "business_name": "Saurabh Traders",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "246736",
+    "phone_number": "+91 96279 87459",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "QF8R+XQ8, Mahadev Puram, Bijnor, Baheri, Uttar Pradesh 243201",
+    "area": "Mahadev Puram",
+    "latitude": 28.7674052,
+    "longitude": 79.4919553,
+    "place_id": "ChIJ-7JHbCJxoDkR3nhKdCVxx1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7JHbCJxoDkR3nhKdCVxx1Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:10:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Events & Wedding Planner",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "246726",
+    "phone_number": "+91 91051 23080",
+    "website": "https://linktr.ee/mittalevents",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "H.No, 7, Mansarovar Gardens, Delhi Rd, Phase I, Industrial Area, Mohkam Pur, Meerut, Uttar Pradesh 250002",
+    "area": "Phase I, Industrial Area, Mohkam Pur",
+    "latitude": 28.9492124,
+    "longitude": 77.6752619,
+    "place_id": "ChIJe1mbDIZlDDkR1rc9JzIYivY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1mbDIZlDDkR1rc9JzIYivY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:54:17"
+  },
+  {
+    "business_name": "A.K FARM HOUSE",
+    "search_category": "Media and Event",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "246726",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "C747+H24, Baruki, Uttar Pradesh 246764",
+    "area": "246726",
+    "latitude": 29.406381699999997,
+    "longitude": 78.2625745,
+    "place_id": "ChIJFdppk6DpCzkRYeF_VXFDh8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdppk6DpCzkRYeF_VXFDh8U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:54:18"
+  }
+]

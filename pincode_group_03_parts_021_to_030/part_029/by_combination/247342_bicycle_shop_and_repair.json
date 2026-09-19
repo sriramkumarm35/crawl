@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Cylce store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "247342",
+    "phone_number": "+91 94570 49101",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Nakur, Uttar Pradesh 247342",
+    "area": "247342",
+    "latitude": 29.921460399999997,
+    "longitude": 77.3098428,
+    "place_id": "ChIJF6933jfzDjkRoiWwGpHZUlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6933jfzDjkRoiWwGpHZUlc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:45:02"
+  },
+  {
+    "business_name": "Cycle Repair Centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "247342",
+    "phone_number": "+91 80065 31906",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kumhar Hera, Uttar Pradesh 247001",
+    "area": "247342",
+    "latitude": 29.9504396,
+    "longitude": 77.4671609,
+    "place_id": "ChIJq6tUMljtDjkR2LhyejTbu_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6tUMljtDjkR2LhyejTbu_4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:45:04"
+  }
+]

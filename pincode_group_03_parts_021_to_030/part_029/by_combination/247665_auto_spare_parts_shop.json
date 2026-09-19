@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANSARI AUTO PARTS &ENGINEERING",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Small engine repair service",
+    "pincode": "247665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Iqbalpur Road Jhabrera, Jhabrera, Uttarakhand 247665",
+    "area": "247665",
+    "latitude": 29.8101855,
+    "longitude": 77.7733891,
+    "place_id": "ChIJXXvsk4-xDjkRRqv_DUd1qmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXvsk4-xDjkRRqv_DUd1qmA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:53"
+  },
+  {
+    "business_name": "PM Motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Electric motor vehicle dealer, Battery Store, Motor vehicle dealer",
+    "pincode": "247665",
+    "phone_number": "+91 80 6242 9525",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Malvichok, Near Shiv Mandir ,Ganeshpur, Railway Road, Garhwal, Roorkee, Uttarakhand 247667",
+    "area": "Gandhi Nagar",
+    "latitude": 29.859197299999998,
+    "longitude": 77.87742329999999,
+    "place_id": "ChIJhZrzGCmzDjkR0prVe_nFjkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZrzGCmzDjkR0prVe_nFjkI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehak Bus Service-Jhalu (Bijnor)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mohalla Molviyan kasba, 169, Maulviyan, Jhalu, Uttar Pradesh 246728",
+    "area": "Maulviyan",
+    "latitude": 29.335236199999997,
+    "longitude": 78.2265491,
+    "place_id": "ChIJA_Q_jDvrCzkRQTh0eE7JEM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_Q_jDvrCzkRQTh0eE7JEM4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:59:02"
+  },
+  {
+    "business_name": "Bhuri Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Roadways Bus Stand, Nagina, Uttar Pradesh 246762",
+    "area": "246729",
+    "latitude": 29.440754499999997,
+    "longitude": 78.4234412,
+    "place_id": "ChIJAxNVN6HFCzkRlIcCCG-6KG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxNVN6HFCzkRlIcCCG-6KG0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:59:02"
+  }
+]

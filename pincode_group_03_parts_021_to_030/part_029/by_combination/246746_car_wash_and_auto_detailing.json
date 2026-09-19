@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Traders",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "246746",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Priyanka Modern school, Dhampur, Alhaipur, Uttar Pradesh 246761",
+    "area": "246746",
+    "latitude": 29.2848705,
+    "longitude": 78.52281169999999,
+    "place_id": "ChIJ04CvQMO3CzkRPc0UWj0IErI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04CvQMO3CzkRPc0UWj0IErI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:39"
+  },
+  {
+    "business_name": "Feather Star Mobile Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Car detailing service, Self service car wash",
+    "pincode": "246746",
+    "phone_number": "N/A",
+    "website": "https://featherstarcarwash.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Al Falah St - Al Zahiyah - E16 02 - Abu Dhabi - United Arab Emirates",
+    "area": "Al Zahiyah - E16 02",
+    "latitude": 24.4885658,
+    "longitude": 54.381859899999995,
+    "place_id": "ChIJMZhFvu9nXj4RPQDgM_pOKto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZhFvu9nXj4RPQDgM_pOKto",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Echo the Jungle Resort & Villa",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "246747",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gurudwara Road, Village Narainwala, Dhampur District Bijnor, Uttar Pradesh Pin Code, Dhampur, Uttar Pradesh 246735",
+    "area": "246747",
+    "latitude": 29.485785699999997,
+    "longitude": 78.6612028,
+    "place_id": "ChIJO13OBsozCjkR6w5py2Ir8GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO13OBsozCjkR6w5py2Ir8GQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:16:53"
+  },
+  {
+    "business_name": "Satendra Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "246747",
+    "phone_number": "N/A",
+    "website": "http://satenderresort.com/",
+    "rating": 4.2,
+    "reviews_count": 23,
+    "address": "Surjan Nagar - Jaspur Rd, Dhulapur, Dhulapur Patti Jat, Uttar Pradesh 244602",
+    "area": "246747",
+    "latitude": 29.247985999999997,
+    "longitude": 78.7381252,
+    "place_id": "ChIJ3TkbUiRLCjkRfrf-kV7qWiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TkbUiRLCjkRfrf-kV7qWiM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:16:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishant Kumar nursing and paramedical consultant",
+    "search_category": "Educational Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "246734",
+    "phone_number": "+91 70178 33426",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Primary school, Noorpur, Uttar Pradesh 256727",
+    "area": "246734",
+    "latitude": 29.1511189,
+    "longitude": 78.41266,
+    "place_id": "ChIJBakYea67CzkRQjU0QkQ9LPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBakYea67CzkRQjU0QkQ9LPs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:06:32"
+  },
+  {
+    "business_name": "Bachelor Exam",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "246734",
+    "phone_number": "N/A",
+    "website": "https://bachelorexam.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "house no 10, village & post- azampur, Noorpur, Aazampur, Uttar Pradesh 246734",
+    "area": "246734",
+    "latitude": 29.1318901,
+    "longitude": 78.3769544,
+    "place_id": "ChIJ53_FD_u7CzkRFvVvSuWkeFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53_FD_u7CzkRFvVvSuWkeFk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:06:32"
+  }
+]

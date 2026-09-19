@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAZ SURGICAL",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Surgical Products Wholesaler, Factory equipment supplier",
+    "pincode": "246745",
+    "phone_number": "+91 94123 74196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Eidgah nai basti, Dhampur Rd, Tahseel, Kanth, Uttar Pradesh 244501",
+    "area": "Tahseel",
+    "latitude": 29.0678052,
+    "longitude": 78.6286186,
+    "place_id": "ChIJb8H7fGqtCzkRbjL_MRwSd-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8H7fGqtCzkRbjL_MRwSd-o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:52"
+  },
+  {
+    "business_name": "Brother's Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "246745",
+    "phone_number": "+91 89792 97909",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Mohalla Choudhriyan Main Market, Sahaspur, Uttar Pradesh 246745",
+    "area": "246745",
+    "latitude": 29.1212619,
+    "longitude": 78.6212834,
+    "place_id": "ChIJY8xtcp2zCzkRhvgjy9tqU-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8xtcp2zCzkRhvgjy9tqU-A",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:12:54"
+  }
+]

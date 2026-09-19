@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brothers Chai Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "247232",
+    "phone_number": "+91 83968 47877",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bus Stand, Railway Workshop Rd, opposite to Shiv Mandir, Rampura Industrial Area, Yamuna Nagar, Haryana 135001",
+    "area": "Rampura Industrial Area",
+    "latitude": 30.133563499999998,
+    "longitude": 77.2768251,
+    "place_id": "ChIJAWhSIAP5DjkR7RJkM9z6kaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWhSIAP5DjkR7RJkM9z6kaM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:03"
+  },
+  {
+    "business_name": "Chaiholic Yamunanagar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "247232",
+    "phone_number": "+91 94161 16586",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 138,
+    "address": "beside Jolly crockery, near Domino's Pizza, Sarojini Colony, Model Town, Yamuna Nagar, Haryana 135001",
+    "area": "Sarojini Colony, Model Town",
+    "latitude": 30.138025199999998,
+    "longitude": 77.2873578,
+    "place_id": "ChIJnw4BmT_7DjkR6uQsQNbMCfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnw4BmT_7DjkR6uQsQNbMCfI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:04"
+  }
+]

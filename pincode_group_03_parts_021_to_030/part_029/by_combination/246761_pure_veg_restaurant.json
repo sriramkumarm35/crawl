@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tasty Delight",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "246761",
+    "phone_number": "+91 63969 61637",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "railway station road, near arya samaj mandir, Dhampur, Uttar Pradesh 246761",
+    "area": "246761",
+    "latitude": 29.3048921,
+    "longitude": 78.5037067,
+    "place_id": "ChIJS_465FbJCzkRO6dFHPrz7QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_465FbJCzkRO6dFHPrz7QY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:27"
+  },
+  {
+    "business_name": "Food Mahal Restaurant and banquet",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246761",
+    "phone_number": "+91 74559 90385",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Dhampur to, By-Pass, Nainital, Dhampur, Uttar Pradesh 246761",
+    "area": "246761",
+    "latitude": 29.3208232,
+    "longitude": 78.50511589999999,
+    "place_id": "ChIJH6akiPXJCzkRfQSHKIG_Gck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6akiPXJCzkRfQSHKIG_Gck",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:30"
+  }
+]

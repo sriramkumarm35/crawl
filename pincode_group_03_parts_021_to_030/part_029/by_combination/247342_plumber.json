@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJAY PLUMBER",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "247342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "W894+WM7, main bazar, Nakur, Uttar Pradesh 247342",
+    "area": "247342",
+    "latitude": 29.9197994,
+    "longitude": 77.30665809999999,
+    "place_id": "ChIJ0ehv9oHzDjkRvgIhSbRkgcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ehv9oHzDjkRvgIhSbRkgcM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:45:13"
+  },
+  {
+    "business_name": "Sumit kumar",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "247342",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W9J7+R4F, Kherki, Uttar Pradesh 247342",
+    "area": "247342",
+    "latitude": 29.9320702,
+    "longitude": 77.3627987,
+    "place_id": "ChIJueonCwDzDjkRwkzbLl5GHF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueonCwDzDjkRwkzbLl5GHF0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:45:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "246723",
+    "phone_number": "+91 97583 02010",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "94PW+FC7, Station Rd, S D Puram, Bijnor, Uttar Pradesh 246701",
+    "area": "S D Puram",
+    "latitude": 29.3861702,
+    "longitude": 78.1460614,
+    "place_id": "ChIJu6f8ElDuCzkRLglivlFnDY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6f8ElDuCzkRLglivlFnDY8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:48:01"
+  },
+  {
+    "business_name": "FAMILY TOURIST DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246723",
+    "phone_number": "+91 81268 88660",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "NH 34, Bijnor Road, Sekhera, Bijnor, Uttar Pradesh 246701",
+    "area": "Sekhera",
+    "latitude": 29.3694101,
+    "longitude": 78.0475177,
+    "place_id": "ChIJsyBEzyLxCzkRCdhl7Q-QFdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyBEzyLxCzkRCdhl7Q-QFdE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:48:01"
+  }
+]

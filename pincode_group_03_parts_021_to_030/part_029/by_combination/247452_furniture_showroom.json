@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Scalping World",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "247452",
+    "phone_number": "+91 92119 24124",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sachin Furniture Shope, 4/56, Mittergarh Road, Nanauta, Uttar Pradesh 247452",
+    "area": "247452",
+    "latitude": 29.7186767,
+    "longitude": 77.4162997,
+    "place_id": "ChIJb2yj476bDjkRS7pSgaaJFow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2yj476bDjkRS7pSgaaJFow",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:50:32"
+  },
+  {
+    "business_name": "Dharki Steel Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "247452",
+    "phone_number": "+91 97197 25538",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Buddhakhera, Malhipur Road, Saharanpur, Uttar Pradesh 247451",
+    "area": "247452",
+    "latitude": 29.82614,
+    "longitude": 77.5498435,
+    "place_id": "ChIJo2jYNOGXDjkRp2Wry4wUfGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2jYNOGXDjkRp2Wry4wUfGo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:50:33"
+  }
+]

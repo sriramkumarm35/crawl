@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi Dawakhana",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "247343",
+    "phone_number": "+91 84332 60860",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rangrezan 102, Uttar Pradesh 247343",
+    "area": "247343",
+    "latitude": 29.6441131,
+    "longitude": 77.31748739999999,
+    "place_id": "ChIJ5YQk5HuFDjkR7EkyL_WjDw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YQk5HuFDjkR7EkyL_WjDw4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:47:00"
+  },
+  {
+    "business_name": "SSS Aqua Pool - Swimming Pool Construction & Equipment in Delhi",
+    "search_category": "Spa",
+    "primary_category": "Swimming pool contractor",
+    "all_categories": "Swimming pool contractor, Swimming pool supply store",
+    "pincode": "247343",
+    "phone_number": "+91 92891 61417",
+    "website": "https://sssaquapool.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st floor, D-1, Harswaroop Colony Main Rd, near fauji market, Fatehpur Beri, New Delhi, Delhi 110074",
+    "area": "Fatehpur Beri",
+    "latitude": 28.454203699999997,
+    "longitude": 77.1818052,
+    "place_id": "ChIJBZF0i58fDTkRudKzWXn3aV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZF0i58fDTkRudKzWXn3aV0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:47:02"
+  }
+]

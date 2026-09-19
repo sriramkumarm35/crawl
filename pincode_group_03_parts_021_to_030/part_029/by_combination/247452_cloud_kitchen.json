@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kitchen Gallery",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store",
+    "pincode": "247452",
+    "phone_number": "+91 88698 19946",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Major District Road, 2W, Nanauta, Uttar Pradesh 247452",
+    "area": "2W",
+    "latitude": 29.716148699999998,
+    "longitude": 77.41851369999999,
+    "place_id": "ChIJic7Ak96bDjkRw4aVcaDR1Wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJic7Ak96bDjkRw4aVcaDR1Wc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:49:52"
+  },
+  {
+    "business_name": "Veg cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Hotel",
+    "pincode": "247452",
+    "phone_number": "+91 87892 19020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Amhara, Dayalpur Daulatpur, Bihar 801103",
+    "area": "247452",
+    "latitude": 25.530180599999998,
+    "longitude": 84.8599345,
+    "place_id": "ChIJ931iVUtVjTkRnoBgncR-ELw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ931iVUtVjTkRnoBgncR-ELw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:49:52"
+  }
+]

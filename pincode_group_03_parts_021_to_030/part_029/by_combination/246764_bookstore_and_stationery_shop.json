@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidyarthi Book Depot And Printers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "246764",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bijnor - Nagina Rd, Kotawali, Uttar Pradesh 246764",
+    "area": "246764",
+    "latitude": 29.4309944,
+    "longitude": 78.3569662,
+    "place_id": "ChIJJ52zgITDCzkRaC1UdQvJG5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ52zgITDCzkRaC1UdQvJG5U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:25:54"
+  },
+  {
+    "business_name": "Ashish Book Depot, Srinagar Garhwal",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "246764",
+    "phone_number": "+91 99974 60298",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kala Rd, Srinagar, Uttarakhand 246174",
+    "area": "246764",
+    "latitude": 30.2221129,
+    "longitude": 78.78993539999999,
+    "place_id": "ChIJWyGavrilCTkRjO2nbVjgQxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyGavrilCTkRjO2nbVjgQxU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:25:55"
+  }
+]

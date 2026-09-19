@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Charekh Food & Forest Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "246763",
+    "phone_number": "+91 98100 16782",
+    "website": "http://www.charekhresort.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Charekh, road, Ramri, Charekha, Uttarakhand 246127",
+    "area": "246763",
+    "latitude": 29.828218399999997,
+    "longitude": 78.53728799999999,
+    "place_id": "ChIJucQ-roF7CTkRZOiXyHDdb_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucQ-roF7CTkRZOiXyHDdb_E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:24:00"
+  },
+  {
+    "business_name": "Ambience Garden Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "246763",
+    "phone_number": "+91 97562 34968",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "QG4G+JJ2, Kotdwar - Pauri Rd, Shivpur, Kotdwar, Uttarakhand 246149",
+    "area": "246763",
+    "latitude": 29.7565191,
+    "longitude": 78.5265141,
+    "place_id": "ChIJjb_Wq4Z7CTkRm16SQKtTWIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjb_Wq4Z7CTkRm16SQKtTWIo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:24:00"
+  }
+]

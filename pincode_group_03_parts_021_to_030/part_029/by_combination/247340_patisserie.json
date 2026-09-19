@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devendra",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "247340",
+    "phone_number": "+91 88590 75193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "189, Randeva, Uttar Pradesh 247340",
+    "area": "247340",
+    "latitude": 29.894422,
+    "longitude": 77.3354935,
+    "place_id": "ChIJOVURwwqNDjkRyAcey5sQ3so",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVURwwqNDjkRyAcey5sQ3so",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:40:56"
+  },
+  {
+    "business_name": "Shubham Confectionery Subham Goel",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "247340",
+    "phone_number": "+91 89235 71985",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shubham Confectionery, Jawahar Ganj, Gangoh, Uttar Pradesh 247341",
+    "area": "Jawahar Ganj",
+    "latitude": 29.7782092,
+    "longitude": 77.2647526,
+    "place_id": "ChIJA_jwaSKJDjkRv9mebb0S97o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_jwaSKJDjkRv9mebb0S97o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:40:57"
+  }
+]

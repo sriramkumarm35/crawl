@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "प्रमुख जी बाग",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "246736",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "35W5+24, Shekhpuri Chauhar, Uttar Pradesh 246736",
+    "area": "246736",
+    "latitude": 29.095016599999997,
+    "longitude": 78.1577937,
+    "place_id": "ChIJ_3a5hHyRCzkRocPA3vwZ1Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3a5hHyRCzkRocPA3vwZ1Ws",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:09:03"
+  },
+  {
+    "business_name": "Mahipal Fast Food",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "246736",
+    "phone_number": "+91 92585 06472",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nangla, Rasoolpur Nangla, Uttar Pradesh 246736",
+    "area": "246736",
+    "latitude": 29.074408499999997,
+    "longitude": 78.1712108,
+    "place_id": "ChIJnczppH2bCzkRNLJEYbXKcpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnczppH2bCzkRNLJEYbXKcpc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:09:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ompal Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "246729",
+    "phone_number": "+91 96391 37827",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eid Gah Road Qazi para, Ram Bagh, Bijnor, Uttar Pradesh 246701",
+    "area": "Ram Bagh",
+    "latitude": 29.3759023,
+    "longitude": 78.1235864,
+    "place_id": "ChIJnZPdN4rvCzkRLaP5_0JNgBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZPdN4rvCzkRLaP5_0JNgBw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:33"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Store",
+    "all_categories": "Store, Tea house",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "77M6+JM7, Balkishanpur, Uttar Pradesh 246726",
+    "area": "246729",
+    "latitude": 29.2840337,
+    "longitude": 78.2616613,
+    "place_id": "ChIJ48Ze78TqCzkR4fRhhB0Lp0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48Ze78TqCzkR4fRhhB0Lp0M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:33"
+  }
+]

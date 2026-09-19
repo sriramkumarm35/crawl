@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tisa Security (Branch Office)",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Security service",
+    "pincode": "247554",
+    "phone_number": "+91 94109 05535",
+    "website": "http://tisasecurity.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "North Rampuri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "North Rampuri",
+    "latitude": 29.497449399999997,
+    "longitude": 77.6976432,
+    "place_id": "ChIJqwEQbH4cDDkRAmB3ziHV2dI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwEQbH4cDDkRAmB3ziHV2dI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:56:30"
+  },
+  {
+    "business_name": "Jss Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service, Computer security service, Security system supplier",
+    "pincode": "247554",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 46, Village Khandariya, Block Purkazi, Muzaffarnagar, Uttar Pradesh 251310",
+    "area": "Block Purkazi",
+    "latitude": 29.5585325,
+    "longitude": 77.8234209,
+    "place_id": "ChIJ0yC_5t0DDDkRdxHZ814cVi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yC_5t0DDDkRdxHZ814cVi4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:56:30"
+  }
+]

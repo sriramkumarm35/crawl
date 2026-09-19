@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "246762",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "CCQH+X98, Kasba Bajiaft, Nagina, Uttar Pradesh 246762",
+    "area": "246762",
+    "latitude": 29.439900599999998,
+    "longitude": 78.42845799999999,
+    "place_id": "ChIJP_qJ7OHECzkR7HWcI_-92ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_qJ7OHECzkR7HWcI_-92ug",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:22:20"
+  },
+  {
+    "business_name": "New Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "246762",
+    "phone_number": "+91 98373 36160",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "184, 7, Abu Ln, Fountain Chowk, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "area": "Fountain Chowk, Meerut Cantt",
+    "latitude": 28.9961612,
+    "longitude": 77.702452,
+    "place_id": "ChIJB9QX1wZlDDkR1taPnBcRLTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9QX1wZlDDkR1taPnBcRLTk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:22:20"
+  }
+]

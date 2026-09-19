@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAAR Meditec",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Surgical supply store",
+    "pincode": "247343",
+    "phone_number": "+91 81248 19172",
+    "website": "http://saarmeditec.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "No.26, Naicker New St, near Sakthi Sivam Theatre, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9237097,
+    "longitude": 78.1156824,
+    "place_id": "ChIJAQAAUOzIADsRdllVHQU-NVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAUOzIADsRdllVHQU-NVA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:46:36"
+  },
+  {
+    "business_name": "Orbit Heal Care LLP",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "247343",
+    "phone_number": "+91 97509 72236",
+    "website": "http://www.pharmafabrikon.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Mummy Daddy avenue, 6/50-1&6/50-2, PKM Ave, Nagar, Karuppayurani, Madurai East Kalikappan I, Tamil Nadu 625020",
+    "area": "Nagar",
+    "latitude": 9.9291974,
+    "longitude": 78.1784945,
+    "place_id": "ChIJqdGMqzDFADsRlAU8IpyLB9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdGMqzDFADsRlAU8IpyLB9U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:46:36"
+  }
+]

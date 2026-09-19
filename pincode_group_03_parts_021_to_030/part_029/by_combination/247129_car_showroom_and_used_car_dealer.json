@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Find My Carz.Com",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car finance and loan company, Car dealer",
+    "pincode": "247129",
+    "phone_number": "+91 99973 10490",
+    "website": "https://www.findmycarz.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "2nd Floor, Saharanpur Rd, opposite Safson Honda Showroom, Subhash Nagar, Dehradun, Uttarakhand 248001",
+    "area": "Subhash Nagar",
+    "latitude": 30.094472099999997,
+    "longitude": 77.81663449999999,
+    "place_id": "ChIJHbb7h9YCuIgRZHWSpwzGb1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbb7h9YCuIgRZHWSpwzGb1U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:35:59"
+  },
+  {
+    "business_name": "Maruti Suzuki Commercial (DD Motors, Dehradun, Chandrabani Chowk)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Truck dealer",
+    "all_categories": "Truck dealer",
+    "pincode": "247129",
+    "phone_number": "+91 80 3724 0739",
+    "website": "http://www.commercialofchandrabanichowk.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Chandrabani Chowk, Subhash Nagar, Saharnpur Road, near Harley Davidson’s Showroom, Dehradun, Uttar Pradesh 247662",
+    "area": "247129",
+    "latitude": 30.100392099999997,
+    "longitude": 77.8262216,
+    "place_id": "ChIJu-X6rinPDjkR9Gz76bmSn34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-X6rinPDjkR9Gz76bmSn34",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:35:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "yugamtrips",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "246761",
+    "phone_number": "+91 94118 83922",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bans mandi, DN118, station Road, Dhampur, Uttar Pradesh 246761",
+    "area": "246761",
+    "latitude": 29.3056004,
+    "longitude": 78.50325219999999,
+    "place_id": "ChIJeZxsULDJCzkRqHiDS4oCinA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZxsULDJCzkRqHiDS4oCinA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:58"
+  },
+  {
+    "business_name": "Danish Tour and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "246761",
+    "phone_number": "+91 92194 07222",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "roadways bus stand, Dhampur, Uttar Pradesh 246761",
+    "area": "246761",
+    "latitude": 29.308399899999998,
+    "longitude": 78.5017897,
+    "place_id": "ChIJaVSLawDJCzkRHaDtil3UK_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVSLawDJCzkRHaDtil3UK_o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Oriental medicine store",
+    "all_categories": "Oriental medicine store",
+    "pincode": "247452",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village, post, Shimlana Mu, Uttar Pradesh 247453",
+    "area": "247452",
+    "latitude": 29.682568699999997,
+    "longitude": 77.56058879999999,
+    "place_id": "ChIJUakYBOiZDjkR5VZ-tzuObWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUakYBOiZDjkR5VZ-tzuObWw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:50:04"
+  },
+  {
+    "business_name": "Shubham Thakur Umarpur",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "247452",
+    "phone_number": "N/A",
+    "website": "http://www.sunpharma.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JFQ9+6WF, Umarpur, Uttar Pradesh 247772",
+    "area": "247452",
+    "latitude": 29.6435322,
+    "longitude": 77.471745,
+    "place_id": "ChIJF8MazvSfDjkRKsnPyCvlmyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8MazvSfDjkRKsnPyCvlmyM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:50:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abdur Raheem",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "247231",
+    "phone_number": "+91 85328 33014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sahranpur Road, Chilkana Sultanpur, Chilkana, Uttar Pradesh 247231",
+    "area": "247231",
+    "latitude": 30.076289,
+    "longitude": 77.4687443,
+    "place_id": "ChIJNyL0CgzvDjkRqjDEaZaZYYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyL0CgzvDjkRqjDEaZaZYYk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:38:12"
+  },
+  {
+    "business_name": "BARKAT HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "247231",
+    "phone_number": "+91 95282 87199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daraali, Saharanpur, Uttar Pradesh 247001",
+    "area": "Daraali",
+    "latitude": 29.9862228,
+    "longitude": 77.5325999,
+    "place_id": "ChIJk-IijlvqDjkRsLmdHpMnzTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-IijlvqDjkRsLmdHpMnzTQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:38:13"
+  }
+]

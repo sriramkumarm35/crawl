@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bilal sultan",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "247665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RRR8+7X3, Harjauli Jhojha, Uttarakhand 247665",
+    "area": "247665",
+    "latitude": 29.8406453,
+    "longitude": 77.81743449999999,
+    "place_id": "ChIJw3bjIgCxDjkR7M8XB04J2_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3bjIgCxDjkR7M8XB04J2_Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:28"
+  },
+  {
+    "business_name": "Banarasi Paan Cafe Roorkee",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247665",
+    "phone_number": "N/A",
+    "website": "http://banarasipaancafe.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ramnagar chowk, near SIDDHARTH HOTEL, Ganeshpur, Roorkee, Shafipur, Uttarakhand 247667",
+    "area": "Ganeshpur",
+    "latitude": 29.8734558,
+    "longitude": 77.87697179999999,
+    "place_id": "ChIJRxsyztOzDjkRbaGW4Ri-lTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxsyztOzDjkRbaGW4Ri-lTI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "247129",
+    "phone_number": "+91 97593 38339",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 91,
+    "address": "PO, Khanzadpur, Sherpur, Biharigarh, Uttar Pradesh 247662",
+    "area": "Khanzadpur",
+    "latitude": 30.0778049,
+    "longitude": 77.79358979999999,
+    "place_id": "ChIJhcmqFYHPDjkRuco11k3H7UQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcmqFYHPDjkRuco11k3H7UQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:35:33"
+  },
+  {
+    "business_name": "Priyanka Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "247129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2C86+475, Uttar Pradesh 247232",
+    "area": "247129",
+    "latitude": 30.015256899999997,
+    "longitude": 77.41072079999999,
+    "place_id": "ChIJs8Pjp3fuDjkR8SmpvIjDPvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8Pjp3fuDjkR8SmpvIjDPvE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:35:34"
+  }
+]

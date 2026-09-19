@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Bakers sherkot",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "246747",
+    "phone_number": "+91 80778 29360",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "below Ali Masjid, Main Market, Sherkot, Uttar Pradesh 246747",
+    "area": "Main Market",
+    "latitude": 29.326004599999997,
+    "longitude": 78.5722739,
+    "place_id": "ChIJuXMAUh7JCzkR8DyZ_rvBnIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXMAUh7JCzkR8DyZ_rvBnIg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:15:55"
+  },
+  {
+    "business_name": "The Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "246747",
+    "phone_number": "+91 91055 67554",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "VQ93+FV6, B-84, Deen Dayal Nagar Phase 2, Ram Ganga Vihar, Moradabad, Uttar Pradesh 244105",
+    "area": "Deen Dayal Nagar Phase 2, Ram Ganga Vihar",
+    "latitude": 28.8687901,
+    "longitude": 78.754494,
+    "place_id": "ChIJreRflk75CjkRvYH44JSmra4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreRflk75CjkRvYH44JSmra4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:15:56"
+  }
+]

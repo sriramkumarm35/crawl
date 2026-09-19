@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince pizza point",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "247341",
+    "phone_number": "+91 96391 55291",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Sarai Rd, Gangoh, Uttar Pradesh 247341",
+    "area": "247341",
+    "latitude": 29.7825234,
+    "longitude": 77.2605389,
+    "place_id": "ChIJ58XKH4qJDjkRXTN3Ljl-U9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58XKH4qJDjkRXTN3Ljl-U9I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:50"
+  },
+  {
+    "business_name": "S S Pizza Point Gangoh Saharanpur",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247341",
+    "phone_number": "+91 75001 78777",
+    "website": "https://royalsbilling.vercel.app/#/restaurant/ss-pizza-point",
+    "rating": 4.1,
+    "reviews_count": 40,
+    "address": "S S Pizza Point Near Hr Inter College Gangoh Sre, Uttar Pradesh 247341",
+    "area": "247341",
+    "latitude": 29.782344,
+    "longitude": 77.2700784,
+    "place_id": "ChIJt6BFh9aJDjkR-EJk-JlrFPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6BFh9aJDjkR-EJk-JlrFPg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karim's",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247667",
+    "phone_number": "+91 93687 23425",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 60,
+    "address": "93/2 19, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8691431,
+    "longitude": 77.8899131,
+    "place_id": "ChIJfXSaRACzDjkRuw3EWx989B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXSaRACzDjkRuw3EWx989B4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:04"
+  },
+  {
+    "business_name": "EMBER",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "247667",
+    "phone_number": "+91 99972 85503",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SDM Chowk, 40, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8614315,
+    "longitude": 77.8890365,
+    "place_id": "ChIJs9TRrM2zDjkRiG2JnSZwyeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9TRrM2zDjkRiG2JnSZwyeg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:05"
+  }
+]

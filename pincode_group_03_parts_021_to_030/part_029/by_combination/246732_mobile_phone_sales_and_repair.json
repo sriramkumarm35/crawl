@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OK Mobile Point",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "246732",
+    "phone_number": "+91 63959 34818",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ok mobile point, near lal kuwa, Sevaram, Najibabad, Uttar Pradesh 246763",
+    "area": "Sevaram",
+    "latitude": 29.6112953,
+    "longitude": 78.3427049,
+    "place_id": "ChIJU41KcGPfCzkRm4JfGtfmVjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU41KcGPfCzkRm4JfGtfmVjY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:03:03"
+  },
+  {
+    "business_name": "CELL POINT",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "246732",
+    "phone_number": "+91 92681 33756",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Baba Plaza, Nai Basti, Bijnor, Uttar Pradesh 246701",
+    "area": "Nai Basti",
+    "latitude": 29.374343999999997,
+    "longitude": 78.1352028,
+    "place_id": "ChIJmWfvBY7vCzkRgD_7sk2Ep9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWfvBY7vCzkRgD_7sk2Ep9c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:03:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ms Kirana Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246737",
+    "phone_number": "+91 98370 86489",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Lal Sarai, Nagina, Uttar Pradesh 246762",
+    "area": "Lal Sarai",
+    "latitude": 29.4444812,
+    "longitude": 78.4275566,
+    "place_id": "ChIJ6zhHrvfFCzkRDHvWeGEE31I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zhHrvfFCzkRDHvWeGEE31I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:10:37"
+  },
+  {
+    "business_name": "Barkat ali",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "246737",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Gali no 3 rahimulla colony, Kotwali - Nehtaur Rd, Takipur Bega, Uttar Pradesh 246764",
+    "area": "246737",
+    "latitude": 29.4299046,
+    "longitude": 78.3521464,
+    "place_id": "ChIJ9ZhobMbDCzkRhfcQwTBE_JY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZhobMbDCzkRhfcQwTBE_JY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:10:38"
+  }
+]

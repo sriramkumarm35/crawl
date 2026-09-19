@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Family restaurant",
+    "pincode": "246762",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Tibri, Bijnor, NH-74, Nagina Dhampur Road, Nagina, Nagina, Uttar Pradesh 246762",
+    "area": "246762",
+    "latitude": 29.3673203,
+    "longitude": 78.4660717,
+    "place_id": "ChIJoxzMLAXGCzkRpVqEV5-bNd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxzMLAXGCzkRpVqEV5-bNd8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:15"
+  },
+  {
+    "business_name": "Samrat Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246762",
+    "phone_number": "+91 92191 50112",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Station Rd, Lal Sarai, Nagina, Kasba Bajiaft, Uttar Pradesh 246762",
+    "area": "Lal Sarai",
+    "latitude": 29.438768399999997,
+    "longitude": 78.4249911,
+    "place_id": "ChIJcTZIub7FCzkRS4h-2z4AtSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTZIub7FCzkRS4h-2z4AtSo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "247120",
+    "phone_number": "+91 93591 19441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Q7M6+W3X, Gangoh, Uttar Pradesh 247341",
+    "area": "247120",
+    "latitude": 29.7848503,
+    "longitude": 77.2602223,
+    "place_id": "ChIJlzllYACJDjkR7iWsWeHWvRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzllYACJDjkR7iWsWeHWvRs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:31:17"
+  },
+  {
+    "business_name": "Hari pustak bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "247120",
+    "phone_number": "+91 94123 14209",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haqikatnagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Haqikatnagar",
+    "latitude": 29.9497029,
+    "longitude": 77.5512741,
+    "place_id": "ChIJ1bYS26TqDjkRWUpxijCNvR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bYS26TqDjkRWUpxijCNvR0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:31:19"
+  }
+]

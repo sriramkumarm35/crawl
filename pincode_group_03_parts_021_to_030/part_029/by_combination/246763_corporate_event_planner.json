@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EBK Event Management PVT LTD",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "246763",
+    "phone_number": "+91 70652 57387",
+    "website": "https://ebk-event-management-pvt.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "30A, Extension-2 Nangloi Delhi-41, near ganesh chowk, Delhi, 110041",
+    "area": "Nangloi Extension 2, Block 2C, Nangloi Extension, Nangloi",
+    "latitude": 28.6783774,
+    "longitude": 77.0606336,
+    "place_id": "ChIJR_svei8FDTkROq3jea_gBuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_svei8FDTkROq3jea_gBuU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:24:04"
+  },
+  {
+    "business_name": "Pritam sound kotdwara",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "246763",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saurya vihar, Balbhadrapur, Kotdwar, Uttarakhand 246149",
+    "area": "246763",
+    "latitude": 29.7436057,
+    "longitude": 78.4921317,
+    "place_id": "ChIJQ-DYxzt9CTkRXxN8cExcy6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-DYxzt9CTkRXxN8cExcy6s",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:24:05"
+  }
+]

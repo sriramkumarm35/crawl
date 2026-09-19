@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "246729",
+    "phone_number": "+91 78189 78122",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dabthala, Safar Shikoh Pur, Uttar Pradesh 246761",
+    "area": "246729",
+    "latitude": 29.2348276,
+    "longitude": 78.4256317,
+    "place_id": "ChIJnzBS_Su5CzkRQZiLBNccaYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzBS_Su5CzkRQZiLBNccaYU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:34"
+  },
+  {
+    "business_name": "Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "246729",
+    "phone_number": "+91 81268 67483",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Maanpur Shivpuri, Salarabad, Uttar Pradesh 246761",
+    "area": "246729",
+    "latitude": 29.205811899999997,
+    "longitude": 78.4895257,
+    "place_id": "ChIJN2zoi4G3CzkRwYzX4CB5368",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2zoi4G3CzkRwYzX4CB5368",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPOT ON 46155 Magnum",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "247666",
+    "phone_number": "+91 124 620 1616",
+    "website": "https://www.oyorooms.com/74662/",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "15, Delhi Rd, Defence Colony, Roorkee, Talhedi, Uttarakhand 247666",
+    "area": "Defence Colony",
+    "latitude": 29.836696,
+    "longitude": 77.88450999999999,
+    "place_id": "ChIJ4cFM932zDjkRN8h6tLkCoLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cFM932zDjkRN8h6tLkCoLk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:32"
+  },
+  {
+    "business_name": "Aman Drycleane",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "247666",
+    "phone_number": "+91 91052 61487",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7, Dhandera Rd, Colonels Enclave, Roorkee, Hasanpur Alipur, Uttarakhand 247666",
+    "area": "Colonels Enclave",
+    "latitude": 29.8338076,
+    "longitude": 77.888969,
+    "place_id": "ChIJW8hk3a-zDjkRg656U8swF8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8hk3a-zDjkRg656U8swF8w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:33"
+  }
+]

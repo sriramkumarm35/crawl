@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jack & Jill International School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "247666",
+    "phone_number": "+91 78190 00288",
+    "website": "https://www.jackandjillinternationalschool.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Malviya Chowk, Ganesh Pur, Roorkee, Uttarakhand 247667",
+    "area": "Ganesh Pur",
+    "latitude": 29.8622536,
+    "longitude": 77.8773533,
+    "place_id": "ChIJi9SJrbeE_KYR090S_tGWUJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9SJrbeE_KYR090S_tGWUJg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:16"
+  },
+  {
+    "business_name": "Smart Kids Play Group",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "247666",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivlok Colony, BHEL Township, Haridwar, Uttarakhand 249407",
+    "area": "Shivlok Colony, BHEL Township",
+    "latitude": 29.9385883,
+    "longitude": 78.1329253,
+    "place_id": "ChIJF1d8ab5HCTkR7u8cLR2Xk5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1d8ab5HCTkR7u8cLR2Xk5w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:18"
+  }
+]

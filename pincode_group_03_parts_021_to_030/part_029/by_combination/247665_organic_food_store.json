@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisan Beez Bhandar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market, Farm Equipment Repair Shop",
+    "pincode": "247665",
+    "phone_number": "+91 97568 01846",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Shop No 1 Akbarpur Jhojha, Roorkee, Uttarakhand 247665",
+    "area": "247665",
+    "latitude": 29.8312371,
+    "longitude": 77.815231,
+    "place_id": "ChIJRbXeVHmxDjkRbi4AL_pO2WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbXeVHmxDjkRbi4AL_pO2WQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:16"
+  },
+  {
+    "business_name": "AGW Lifecare Solutions",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "247665",
+    "phone_number": "+91 88680 41005",
+    "website": "http://agwlifecare.com/",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "House No. 15, Netrapal Colony Saraswati Kunj, New, Paniyala Rd, Subhash Nagar, Roorkee, Paneyala, Uttarakhand 247667",
+    "area": "Subhash Nagar",
+    "latitude": 29.8581607,
+    "longitude": 77.8599206,
+    "place_id": "ChIJw9MQLJOzDjkR5NolKzOSP4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9MQLJOzDjkR5NolKzOSP4k",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:17"
+  }
+]

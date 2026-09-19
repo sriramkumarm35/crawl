@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asha Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "247664",
+    "phone_number": "+91 87914 21194",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mayapur, Haridwar, Uttarakhand 249408",
+    "area": "Mayapur",
+    "latitude": 29.927163399999998,
+    "longitude": 78.1449808,
+    "place_id": "ChIJhfNEU0NGCTkRGf5LGDoPGpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfNEU0NGCTkRGf5LGDoPGpc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:44"
+  },
+  {
+    "business_name": "Sitaram Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "247664",
+    "phone_number": "+91 99970 10032",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 28,
+    "address": "Mishran Gali, Jwalapur, Uttarakhand 249407",
+    "area": "247664",
+    "latitude": 29.9239441,
+    "longitude": 78.1072348,
+    "place_id": "ChIJ_cjWnJ5ICTkRC6btoUexNCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cjWnJ5ICTkRC6btoUexNCQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:44"
+  }
+]

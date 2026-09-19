@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "247232",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-model-town-yamuna-nagar-279852/Home",
+    "rating": 3.7,
+    "reviews_count": 205,
+    "address": "Plot No 190C, 1290 & 1291, near Mukund Lad National Collage, Model Town, Yamuna Nagar, Haryana 135001",
+    "area": "Model Town",
+    "latitude": 30.1344757,
+    "longitude": 77.2868876,
+    "place_id": "ChIJmde_DKX7DjkRdteQHMZqj2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmde_DKX7DjkRdteQHMZqj2w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:02"
+  },
+  {
+    "business_name": "Bhatia's Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen Food Distributor",
+    "all_categories": "Frozen Food Distributor",
+    "pincode": "247232",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "188, Workshop Rd, Rampura Industrial Area, Yamuna Nagar, Haryana 135001",
+    "area": "Rampura Industrial Area",
+    "latitude": 30.1310783,
+    "longitude": 77.28357299999999,
+    "place_id": "ChIJq9L5KYH5DjkRgSq3MLmru7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9L5KYH5DjkRgSq3MLmru7g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:39:03"
+  }
+]

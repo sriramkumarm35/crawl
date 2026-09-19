@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gujjar Computer center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "246727",
+    "phone_number": "+91 72520 39048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4F77+CR9, Gohavar Hallu, Uttar Pradesh 246727",
+    "area": "246727",
+    "latitude": 29.1135399,
+    "longitude": 78.4646174,
+    "place_id": "ChIJWxkoUwC7CzkRJXisLVti3GY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxkoUwC7CzkRJXisLVti3GY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:56:05"
+  },
+  {
+    "business_name": "Government Polytechnic Changipur Noorpur",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Polytechnic College",
+    "all_categories": "Polytechnic College",
+    "pincode": "246727",
+    "phone_number": "N/A",
+    "website": "http://www.gpbijnor.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Changipur, Uttar Pradesh 246727",
+    "area": "246727",
+    "latitude": 29.1000022,
+    "longitude": 78.4415389,
+    "place_id": "ChIJ_2Zdh7ylCzkRDBwiPa-BcAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2Zdh7ylCzkRDBwiPa-BcAk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:56:05"
+  }
+]

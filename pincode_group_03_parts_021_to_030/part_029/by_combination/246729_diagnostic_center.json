@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhumi Health Care Centre & Medical Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6789+8WH, Sisauna, Uttar Pradesh 246729",
+    "area": "246729",
+    "latitude": 29.215804499999997,
+    "longitude": 78.26987489999999,
+    "place_id": "ChIJRa9dVwCVCzkRzdCBCVho-5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRa9dVwCVCzkRzdCBCVho-5M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:51"
+  },
+  {
+    "business_name": "DELHI MEDICAL CENTRE HOSPITAL",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "246729",
+    "phone_number": "+91 99278 26806",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "47RC+J5P, Bypass, Bijnor - Siau Rd, Chandpur, Uttar Pradesh 246725",
+    "area": "246729",
+    "latitude": 29.1415854,
+    "longitude": 78.27046709999999,
+    "place_id": "ChIJT9tS1TeWCzkRsCW986QdHSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9tS1TeWCzkRsCW986QdHSw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:53"
+  }
+]

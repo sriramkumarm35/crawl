@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azeem medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "247002",
+    "phone_number": "+91 84496 96379",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saharanpur Rd - Behat, Salampur Bhukdi, Uttar Pradesh 247001",
+    "area": "247002",
+    "latitude": 30.039187,
+    "longitude": 77.58766419999999,
+    "place_id": "ChIJz1oiYifDDjkRam7t6AeGVxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1oiYifDDjkRam7t6AeGVxw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:28:42"
+  },
+  {
+    "business_name": "davaindia GENERIC PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Health food store, Herbal medicine store, Medical supply store, Pharmaceutical company, Vitamin & supplements store",
+    "pincode": "247002",
+    "phone_number": "+91 92746 85649",
+    "website": "https://missioncompound.davaindia.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "59, Ground Flr, New No. 2B, 208 / 2/1295, Court Rd, Govind Nagar, Mission Market, Saharanpur, Uttar Pradesh 247001",
+    "area": "Govind Nagar, Mission Market",
+    "latitude": 29.9565409,
+    "longitude": 77.5468403,
+    "place_id": "ChIJl0fiHivrDjkRZfagh6itNxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0fiHivrDjkRZfagh6itNxA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:28:45"
+  }
+]

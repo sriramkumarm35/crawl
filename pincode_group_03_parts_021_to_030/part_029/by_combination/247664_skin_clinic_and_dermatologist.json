@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tyagi Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Ayurvedic clinic",
+    "pincode": "247664",
+    "phone_number": "+91 99176 08382",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "85, Railway Rd, Ganeshpur, Roorkee, Uttarakhand 247667",
+    "area": "Ganeshpur",
+    "latitude": 29.859445599999997,
+    "longitude": 77.8775465,
+    "place_id": "ChIJEeO4b5yzDjkRbI5OF7smsck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeO4b5yzDjkRbI5OF7smsck",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:55"
+  },
+  {
+    "business_name": "Kankhal Medicare Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist, Medical Center",
+    "pincode": "247664",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mission Rd, Near Police Station, Gulab Bagh, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Gulab Bagh, Kankhal",
+    "latitude": 29.927816999999997,
+    "longitude": 78.14400049999999,
+    "place_id": "ChIJH6n9Oa9HCTkRJusjy8t0b8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6n9Oa9HCTkRJusjy8t0b8w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:04:55"
+  }
+]

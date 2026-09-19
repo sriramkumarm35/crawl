@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cybercafe",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "246732",
+    "phone_number": "+91 70178 27650",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "94Q6+G5G, Main Road, Bijnor, Islampur Dippa, Uttar Pradesh 246701",
+    "area": "246732",
+    "latitude": 29.3888128,
+    "longitude": 78.11043839999999,
+    "place_id": "ChIJ4d9W8dXxCzkRAAAAMEc_ews",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4d9W8dXxCzkRAAAAMEc_ews",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:03:27"
+  },
+  {
+    "business_name": "Tech_guru",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Engineering consultant",
+    "all_categories": "Engineering consultant",
+    "pincode": "246732",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "94PF+8XM, Awas Vikas Rd, Aawas Vikas, Bijnor, Uttar Pradesh 246701",
+    "area": "Aawas Vikas",
+    "latitude": 29.385825999999998,
+    "longitude": 78.12493429999999,
+    "place_id": "ChIJDf8UqQnvCzkRVVA9LxQJgvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDf8UqQnvCzkRVVA9LxQJgvQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:03:27"
+  }
+]

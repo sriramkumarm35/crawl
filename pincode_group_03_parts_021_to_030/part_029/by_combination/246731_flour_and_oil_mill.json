@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goral Food Products",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "246731",
+    "phone_number": "+91 86383 57032",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A. K, DEB ROAD, Fatasil Ambari, Guwahati, Assam 781025",
+    "area": "Fatasil Ambari",
+    "latitude": 26.1629032,
+    "longitude": 91.7348741,
+    "place_id": "ChIJXfKBvB5bWjcRabRqM5B3zqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfKBvB5bWjcRabRqM5B3zqE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:01:37"
+  },
+  {
+    "business_name": "Girdhar Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "246731",
+    "phone_number": "+91 99585 23108",
+    "website": "http://www.girdharflourmills.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 1, F, DDA MARKET, Block F, Vikaspuri, New Delhi, Delhi, 110018",
+    "area": "Block F, Vikaspuri",
+    "latitude": 28.6403881,
+    "longitude": 77.07084429999999,
+    "place_id": "ChIJITqIfU8FDTkR7Uh6Ta7Hz8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITqIfU8FDTkR7Uh6Ta7Hz8Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:01:37"
+  }
+]

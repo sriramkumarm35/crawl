@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOLDEN CSC CENTER",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "247664",
+    "phone_number": "+91 84457 74538",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No 1 Landhoura, near Bada Madrsha, Roorkee, Uttarakhand 247664",
+    "area": "247664",
+    "latitude": 29.8025865,
+    "longitude": 77.9300856,
+    "place_id": "ChIJTaWfN3RNCTkRGhYZ_jBwTL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaWfN3RNCTkRGhYZ_jBwTL4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:05:44"
+  },
+  {
+    "business_name": "Noutiyal Studio & Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Photo shop",
+    "all_categories": "Photo shop, Photography service",
+    "pincode": "247664",
+    "phone_number": "+91 84750 01281",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "near maharana pratap inter college, Dhandera, Roorkee, Uttarakhand 247666",
+    "area": "Dhandera",
+    "latitude": 29.8402717,
+    "longitude": 77.8993016,
+    "place_id": "ChIJoQypKBqzDjkRykzH9XFGGN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQypKBqzDjkRykzH9XFGGN4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:05:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Grain Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "247232",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1341,
+    "address": "573Q+5R6, Gobind Pura, Yamuna Nagar, Jagadhri, Haryana 135003",
+    "area": "Gobind Pura",
+    "latitude": 30.152911,
+    "longitude": 77.289501,
+    "place_id": "ChIJL5XRINn7DjkRipNbIefLA1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5XRINn7DjkRipNbIefLA1Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:40:46"
+  },
+  {
+    "business_name": "Shyama Trading Company",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "247232",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "79,Old Sabzi Mandi, Opposite New Market, Yamuna Nagar, Haryana 135001",
+    "area": "Hari Parsad Colony, Vishwakarma Mohalla",
+    "latitude": 30.120041999999998,
+    "longitude": 77.290741,
+    "place_id": "ChIJO7VNNSH6DjkRumkNGqDKPUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7VNNSH6DjkRumkNGqDKPUs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:40:49"
+  }
+]

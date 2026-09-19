@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC COMMON SERVICE CENTRE",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Common Service Center (CSC) / E-Seva",
+    "all_categories": "Common Service Center (CSC) / E-Seva",
+    "pincode": "247129",
+    "phone_number": "+91 96665 16416",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Gaddiannaram Colony, Sahithi Nagar, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "New Gaddiannaram Colony, Sahithi Nagar, Dilsukhnagar",
+    "latitude": 17.3622156,
+    "longitude": 78.52218359999999,
+    "place_id": "ChIJIdE8dPWYyzsRwCYmdQwD-SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdE8dPWYyzsRwCYmdQwD-SY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:36:40"
+  },
+  {
+    "business_name": "CSC e-Governance Services India Limited",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "247129",
+    "phone_number": "N/A",
+    "website": "http://csc.gov.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "67m, Sahastradhara Rd, near Touch Wood School, Aman Vihar, Dehradun, Uttarakhand 248013",
+    "area": "Aman Vihar",
+    "latitude": 30.3520917,
+    "longitude": 78.0802696,
+    "place_id": "ChIJnyYuXwDXCDkRtHFXFrIBNkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyYuXwDXCDkRtHFXFrIBNkE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:36:41"
+  }
+]

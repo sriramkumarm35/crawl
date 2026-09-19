@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons & Toys Gallery",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Balloon store, Party planner, Party store, Toy store",
+    "pincode": "247666",
+    "phone_number": "+91 98126 29647",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New housing board, 1148 sector-13-14 link Road, Colony, opp. Kbir, Karnal, Haryana 132001",
+    "area": "Sector 13",
+    "latitude": 29.682818599999997,
+    "longitude": 76.99543229999999,
+    "place_id": "ChIJyeYYPfVxDjkRTlmK2YTmH_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeYYPfVxDjkRTlmK2YTmH_8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:09"
+  },
+  {
+    "business_name": "Sethi Traders",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "247666",
+    "phone_number": "+91 97110 20532",
+    "website": "https://www.instagram.com/sethi.traders07?igsh=OWo3dHZkbXh5eXVs",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Pratap Market, 2799/16, Qutab Rd, near ICICI Bank Ltd, Teliwara, Sadar Bazar, New Delhi, Delhi, 110006",
+    "area": "Teliwara, Sadar Bazar",
+    "latitude": 28.6592527,
+    "longitude": 77.2157919,
+    "place_id": "ChIJ4T_HAcv9DDkR8-lFpZwYg64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4T_HAcv9DDkR8-lFpZwYg64",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:09"
+  }
+]

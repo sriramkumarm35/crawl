@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "247666",
+    "phone_number": "+91 70378 45364",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhandhera, Road, Mohanpura, Roorkee, Uttarakhand 247666",
+    "area": "Laxmi Nagar, New Mohan Pura, Mohanpura",
+    "latitude": 29.843697499999998,
+    "longitude": 77.8869161,
+    "place_id": "ChIJBUqbSGOzDjkRpJldD8LLM8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUqbSGOzDjkRpJldD8LLM8c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:01"
+  },
+  {
+    "business_name": "Aura unisex salon roorkee",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "247666",
+    "phone_number": "+91 82720 12350",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "16, NIH Rd, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.869742799999997,
+    "longitude": 77.89215949999999,
+    "place_id": "ChIJed2h2pyzDjkRx-5uMHphNZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJed2h2pyzDjkRx-5uMHphNZc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:09:04"
+  }
+]

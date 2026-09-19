@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajju Store",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "588C+V5, Nasirpur Shekh, Uttar Pradesh 246729",
+    "area": "246729",
+    "latitude": 29.1672066,
+    "longitude": 78.3203982,
+    "place_id": "ChIJ3WqOzs-9CzkRB8dlVrxZ2e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3WqOzs-9CzkRB8dlVrxZ2e8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:35"
+  },
+  {
+    "business_name": "Shivam kumar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "246729",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "59HC+H26, Sujatpur Tikar, Uttar Pradesh 246734",
+    "area": "246729",
+    "latitude": 29.1789177,
+    "longitude": 78.3700011,
+    "place_id": "ChIJM7J-bgC9CzkRAPVGHYNgyC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7J-bgC9CzkRAPVGHYNgyC0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:58:35"
+  }
+]

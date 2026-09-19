@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "King Steel Fabrication",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "246727",
+    "phone_number": "+91 84458 19244",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Bus Stand, Bijnor, Amroha Rd, Bijnor, Uttar Pradesh 244231",
+    "area": "246727",
+    "latitude": 28.9552798,
+    "longitude": 78.2634616,
+    "place_id": "ChIJe8lQVOKfCzkRcwUOBehCuak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8lQVOKfCzkRcwUOBehCuak",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:56:20"
+  },
+  {
+    "business_name": "saini Welding work shop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works, Steelwork design service",
+    "pincode": "246727",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bishnoi Sarai, Nagina, Uttar Pradesh 246762",
+    "area": "Bishnoi Sarai",
+    "latitude": 29.4374312,
+    "longitude": 78.43925899999999,
+    "place_id": "ChIJhVFo1fTFCzkRao5qz43s1n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVFo1fTFCzkRao5qz43s1n4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:56:23"
+  }
+]

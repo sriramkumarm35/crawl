@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Surgical Emporium",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "246737",
+    "phone_number": "+91 85878 87099",
+    "website": "http://www.surgicalequipments.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B-4/237 B/4, Pocket 4, Sector 7, Rohini, Delhi, 110085",
+    "area": "Pocket 4, Sector 7, Rohini",
+    "latitude": 28.7046505,
+    "longitude": 77.1210701,
+    "place_id": "ChIJPZVl6uEDDTkRMam4-L5MFIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZVl6uEDDTkRMam4-L5MFIA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:11:09"
+  },
+  {
+    "business_name": "SV Surgical & Medicine Center",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "246737",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GF-02, Kuti Chauraha, Tyagi Complex, PVS Rd., Sector 6, Shastri Nagar, Meerut, Uttar Pradesh 250004",
+    "area": "Sector 6, Shastri Nagar",
+    "latitude": 28.9553564,
+    "longitude": 77.75317559999999,
+    "place_id": "ChIJQYceJVF7DDkRkPUBNqymHag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYceJVF7DDkRkPUBNqymHag",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:11:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vineet electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "246737",
+    "phone_number": "+91 80 4876 4086",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "38FW+6RR, Pheona, Uttar Pradesh 246734",
+    "area": "246737",
+    "latitude": 29.0731152,
+    "longitude": 78.3470249,
+    "place_id": "ChIJf3Sdr_KjCzkRiHFHE-bk02Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3Sdr_KjCzkRiHFHE-bk02Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:11:21"
+  },
+  {
+    "business_name": "Dresti Lights",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical equipment supplier, Electrical supply store, Electrical products wholesaler, Landscape lighting designer, Light bulb supplier, Lighting products wholesaler, Wire and cable supplier",
+    "pincode": "246737",
+    "phone_number": "+91 81358 46467",
+    "website": "https://drestilights.in/",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "1st, Bhagwati Commercial, GS Rd, opp. Pragoti Manor, Christian Basti, Guwahati, Assam 781005",
+    "area": "Christian Basti",
+    "latitude": 26.1549765,
+    "longitude": 91.7798672,
+    "place_id": "ChIJu7xZYoBZWjcR1reifbj1hnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7xZYoBZWjcR1reifbj1hnY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:11:23"
+  }
+]

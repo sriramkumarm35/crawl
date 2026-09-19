@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rastogi Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246746",
+    "phone_number": "+91 90274 32316",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Seohara, Uttar Pradesh 246746",
+    "area": "246746",
+    "latitude": 29.207695599999997,
+    "longitude": 78.5878791,
+    "place_id": "ChIJwemFM721CzkRf6nR6mquNSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwemFM721CzkRf6nR6mquNSI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:12"
+  },
+  {
+    "business_name": "Zaidi Confectionery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "246746",
+    "phone_number": "+91 99975 80660",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Unnamed Road, Seohara, Uttar Pradesh 246746",
+    "area": "246746",
+    "latitude": 29.2100166,
+    "longitude": 78.58917199999999,
+    "place_id": "ChIJJzU3KR-1CzkRcWHk2_uwiQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzU3KR-1CzkRcWHk2_uwiQk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:14:14"
+  }
+]

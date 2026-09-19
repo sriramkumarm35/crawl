@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246734",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "4CW7+8VV, Sant Ravidas Nagar, Noorpur, Uttar Pradesh 246734",
+    "area": "Sant Ravidas Nagar",
+    "latitude": 29.145853499999998,
+    "longitude": 78.4146793,
+    "place_id": "ChIJqb35XT27CzkRid4YffNCGB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqb35XT27CzkRid4YffNCGB8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:28"
+  },
+  {
+    "business_name": "Sugandh Sweets Restaurant",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246734",
+    "phone_number": "+91 83447 07253",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "Meel Naugawa, Road, Katai, Chandpur, Uttar Pradesh 244251",
+    "area": "246734",
+    "latitude": 28.9471769,
+    "longitude": 78.4367729,
+    "place_id": "ChIJQXb0oCanCzkR2lhKFuhhDYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXb0oCanCzkR2lhKFuhhDYk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:05:28"
+  }
+]

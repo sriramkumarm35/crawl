@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Minibus taxi service",
+    "pincode": "246762",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "104, sibu nagar, Ashiyana apartment, Mohabewala Industrial Area, Kotdwar, Uttarakhand 246149",
+    "area": "Mohabewala Industrial Area",
+    "latitude": 29.752421299999998,
+    "longitude": 78.5269038,
+    "place_id": "ChIJOTybPpd7CTkRcaD_peFPWbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTybPpd7CTkRcaD_peFPWbw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:48"
+  },
+  {
+    "business_name": "Comfort Travels & Rental Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "246762",
+    "phone_number": "+91 89586 34866",
+    "website": "https://www.comforttravelstaxi.com/",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "5, near capital Paradise Apartment, THDC Colony, Dehrakhas, Brahmanwala, Dehradun, Uttarakhand 248001",
+    "area": "THDC Colony, Dehrakhas, Brahmanwala",
+    "latitude": 30.2993144,
+    "longitude": 78.02541,
+    "place_id": "ChIJ4cu5O74pCTkRRSaPPJzRljA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cu5O74pCTkRRSaPPJzRljA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:48"
+  }
+]

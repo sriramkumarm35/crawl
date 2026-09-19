@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jiya Egg Store",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Egg supplier",
+    "all_categories": "Egg supplier",
+    "pincode": "247663",
+    "phone_number": "+91 97190 88877",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "W4C5+74M, Jwalapur Main Rd, Sanjay Colony, Jwalapur, Uttarakhand 249407",
+    "area": "Sanjay Colony",
+    "latitude": 29.920703099999997,
+    "longitude": 78.1078074,
+    "place_id": "ChIJc4SyB59ICTkRe3gXyzkRaLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4SyB59ICTkRe3gXyzkRaLU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:02:35"
+  },
+  {
+    "business_name": "KaKa Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "247663",
+    "phone_number": "+91 70175 66730",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaka Chicken Center, Laksar Rd, Shanthipuram, Dhandera, Roorkee, Uttarakhand 247666",
+    "area": "Shanthipuram, Dhandera",
+    "latitude": 29.8416087,
+    "longitude": 77.8990826,
+    "place_id": "ChIJ_VPbFZGzDjkREzOpbPSucwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VPbFZGzDjkREzOpbPSucwo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:02:36"
+  }
+]

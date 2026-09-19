@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arnold Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "247665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "RQ6C+856, Bhagtowali, Jabarhera, Uttarakhand 247665",
+    "area": "Bhagtowali",
+    "latitude": 29.810787899999998,
+    "longitude": 77.7703755,
+    "place_id": "ChIJ0QaiKGmxDjkR7ZEYBY5YfoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QaiKGmxDjkR7ZEYBY5YfoI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:50"
+  },
+  {
+    "business_name": "Gravity Fitness Zone",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "247665",
+    "phone_number": "+91 97609 16862",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "463/1, Railway Station Rd, Bhagirath Kunj, Roorkee, Uttarakhand 247667",
+    "area": "Bhagirath Kunj",
+    "latitude": 29.855675899999998,
+    "longitude": 77.8781959,
+    "place_id": "ChIJvwPA6Z6zDjkRUU5ynq6J9S8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwPA6Z6zDjkRUU5ynq6J9S8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:53"
+  }
+]

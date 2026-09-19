@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farman khan tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "247341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "PC88+HXM, Nanauta, Uttar Pradesh 247452",
+    "area": "247341",
+    "latitude": 29.716461499999998,
+    "longitude": 77.4174853,
+    "place_id": "ChIJw1LqVMCbDjkRQt0dc83jVPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1LqVMCbDjkRQt0dc83jVPU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:44"
+  },
+  {
+    "business_name": "Shri Shyam Food Canteen",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "247341",
+    "phone_number": "+91 70274 64715",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "45, Bidoli Road, Gangoh, Uttar Pradesh 247341",
+    "area": "247341",
+    "latitude": 29.779981399999997,
+    "longitude": 77.26289849999999,
+    "place_id": "ChIJAdALk4WJDjkRpfuFTN4OZlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdALk4WJDjkRpfuFTN4OZlk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:42:47"
+  }
+]

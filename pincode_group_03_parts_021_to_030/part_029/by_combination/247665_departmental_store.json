@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hafiz Akeel Grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "247665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VRC5+VH8, Khatakheri, Amarpur Qazi, Uttarakhand 247668",
+    "area": "247665",
+    "latitude": 29.872162399999997,
+    "longitude": 77.80893929999999,
+    "place_id": "ChIJye5peQC3DjkRX18a99H3SfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJye5peQC3DjkRX18a99H3SfA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:15"
+  },
+  {
+    "business_name": "Halima Provision Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "247665",
+    "phone_number": "+91 99278 30197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balelpur Majra Harjauli J, Haridwar, Uttarakhand 247668",
+    "area": "247665",
+    "latitude": 29.8414814,
+    "longitude": 77.83330529999999,
+    "place_id": "ChIJK-wx0GOxDjkRweH_lhArZWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-wx0GOxDjkRweH_lhArZWo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:06:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Kumar",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "246749",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M869+8G3, Prempur, Uttar Pradesh 246749",
+    "area": "246749",
+    "latitude": 29.660762199999997,
+    "longitude": 78.3187871,
+    "place_id": "ChIJv2I2m9RhCTkRrLHT2v40OHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2I2m9RhCTkRrLHT2v40OHw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:18:17"
+  },
+  {
+    "business_name": "AmitKumar",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "246749",
+    "phone_number": "+91 97588 49093",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhapar, Najibabad, Uttar Pradesh 246763",
+    "area": "Chhapar",
+    "latitude": 29.594059299999998,
+    "longitude": 78.34433969999999,
+    "place_id": "ChIJt5Cx2TrfCzkRDhsE43aOEV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5Cx2TrfCzkRDhsE43aOEV4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:18:17"
+  }
+]

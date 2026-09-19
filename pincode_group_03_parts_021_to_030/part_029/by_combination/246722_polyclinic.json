@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala Ji Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "246722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhatpura, Uttar Pradesh 246722",
+    "area": "246722",
+    "latitude": 29.346392599999998,
+    "longitude": 78.6980027,
+    "place_id": "ChIJtfKDnlU1CjkRdyytf29il9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfKDnlU1CjkRdyytf29il9c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:37"
+  },
+  {
+    "business_name": "Nath Medical Store",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "246722",
+    "phone_number": "+91 94125 28125",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "near state bank of india, Mandi Mool Ganj, Nagina, Uttar Pradesh 246762",
+    "area": "Mandi Mool Ganj",
+    "latitude": 29.442178499999997,
+    "longitude": 78.4307458,
+    "place_id": "ChIJ____0h_FCzkR6jP07ODGICo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____0h_FCzkR6jP07ODGICo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:39"
+  }
+]

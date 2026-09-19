@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh & Clean",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry",
+    "all_categories": "Laundry",
+    "pincode": "246726",
+    "phone_number": "N/A",
+    "website": "https://freshnclean.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MIG-1, Ashiyana Colony I, Ashiyana Colony, Mora Mustahkam, Harthala, Moradabad, Uttar Pradesh 244105",
+    "area": "Ashiyana Colony I, Ashiyana Colony, Mora Mustahkam, Harthala",
+    "latitude": 28.879419199999997,
+    "longitude": 78.745549,
+    "place_id": "ChIJB6oSnqr_CjkRDrN36JTDhZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6oSnqr_CjkRDrN36JTDhZ4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:54:36"
+  },
+  {
+    "business_name": "Nimbus Harbor Facilities Management Pvt Ltd.",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "246726",
+    "phone_number": "+91 124 496 9500",
+    "website": "http://www.nimbusharbor.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "H-305, Sushant Shopping Arcade, Sushant Lok Phase I, Gurugram, Haryana 122009",
+    "area": "Sushant Lok Phase I, Sector 43",
+    "latitude": 28.461053099999997,
+    "longitude": 77.0791411,
+    "place_id": "ChIJV1VVVdwYDTkRRZVhprEkyzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VVVdwYDTkRRZVhprEkyzM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:54:36"
+  }
+]

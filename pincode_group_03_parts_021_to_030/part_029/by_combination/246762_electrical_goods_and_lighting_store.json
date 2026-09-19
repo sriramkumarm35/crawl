@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malhotra Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Store",
+    "all_categories": "Store, Electronics store, Electronics wholesaler",
+    "pincode": "246762",
+    "phone_number": "+91 94126 08265",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mandi Mool Ganj, Nagina, Chak Telawali, Uttar Pradesh 246762",
+    "area": "Mandi Mool Ganj",
+    "latitude": 29.4417647,
+    "longitude": 78.43009769999999,
+    "place_id": "ChIJO7ycLB7FCzkRm3ih14PdLqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7ycLB7FCzkRm3ih14PdLqI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:51"
+  },
+  {
+    "business_name": "Taj Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "246762",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Chak Telawali, Nagina, Uttar Pradesh 246762",
+    "area": "246762",
+    "latitude": 29.4406133,
+    "longitude": 78.4290893,
+    "place_id": "ChIJ_VjC3OHECzkRhC5pBCSf7e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VjC3OHECzkRhC5pBCSf7e8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:21:51"
+  }
+]

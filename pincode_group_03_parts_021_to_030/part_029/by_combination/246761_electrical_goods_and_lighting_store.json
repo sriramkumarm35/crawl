@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "246761",
+    "phone_number": "+91 93193 95064",
+    "website": "https://gupta-electronics.grexa.site/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "khari kuan, Dhampur, Uttar Pradesh 246761",
+    "area": "khari kuan",
+    "latitude": 29.3083684,
+    "longitude": 78.5099745,
+    "place_id": "ChIJuSGEcjzJCzkRh-QwqzWlzrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSGEcjzJCzkRh-QwqzWlzrI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:20:02"
+  },
+  {
+    "business_name": "Vipul Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "246761",
+    "phone_number": "+91 78958 82382",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nagina Chauraha, Dhampur, Uttar Pradesh 246761",
+    "area": "246761",
+    "latitude": 29.310975199999998,
+    "longitude": 78.50660049999999,
+    "place_id": "ChIJqa-yqznICzkRCv0JXMaNKhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqa-yqznICzkRCv0JXMaNKhw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:20:02"
+  }
+]

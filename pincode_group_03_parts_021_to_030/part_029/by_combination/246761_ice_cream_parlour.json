@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOHD SHAKIR",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "246761",
+    "phone_number": "+91 86302 61185",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "195, khatiyaan, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "khatiyaan, Udaipur",
+    "latitude": 29.304552899999997,
+    "longitude": 78.50880029999999,
+    "place_id": "ChIJPcyP-v_JCzkRRgMBIQ2JxfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcyP-v_JCzkRRgMBIQ2JxfU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:31"
+  },
+  {
+    "business_name": "Rk.comfectionery crazy'ice cream parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "246761",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Mahal saray, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Udaipur",
+    "latitude": 29.3097483,
+    "longitude": 78.5109279,
+    "place_id": "ChIJQ_3cqQ_JCzkR56gRZqLxujk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_3cqQ_JCzkR56gRZqLxujk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:32"
+  }
+]

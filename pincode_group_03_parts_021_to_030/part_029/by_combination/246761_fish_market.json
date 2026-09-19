@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shadab Fruits Store",
+    "search_category": "Fish Market",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246761",
+    "phone_number": "+91 78954 75761",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fish Market, near Arif Doctors Barkat Collection, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Udaipur",
+    "latitude": 29.3045014,
+    "longitude": 78.5106157,
+    "place_id": "ChIJ4fUf6w7JCzkRFbVOdu3yFF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fUf6w7JCzkRFbVOdu3yFF0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:22"
+  },
+  {
+    "business_name": "Huzaifa Farooqui's Home",
+    "search_category": "Fish Market",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "246761",
+    "phone_number": "+91 94579 18378",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fish Market, Moh - Kaharan, Dhampur, Uttar Pradesh 246761",
+    "area": "Udaipur",
+    "latitude": 29.3049333,
+    "longitude": 78.5106809,
+    "place_id": "ChIJvccILT3JCzkRv7iWW5tPPzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvccILT3JCzkRv7iWW5tPPzM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:19:22"
+  }
+]

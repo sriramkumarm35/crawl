@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Construction & Suppliers",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "246747",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "moh, Tarai, Sherkot, Uttar Pradesh 246747",
+    "area": "Tarai",
+    "latitude": 29.3247264,
+    "longitude": 78.570133,
+    "place_id": "ChIJi_bBQIbLCzkRoae4v90jOzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_bBQIbLCzkRoae4v90jOzA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:16:37"
+  },
+  {
+    "business_name": "Vivek tiles and sanatry",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "246747",
+    "phone_number": "+91 80772 67243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Near, RSM College Rd, Suhagpur, Dhampur, Uttar Pradesh 246761",
+    "area": "246747",
+    "latitude": 29.3131608,
+    "longitude": 78.5284068,
+    "place_id": "ChIJEwOoNF_JCzkREgZge1V8qzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwOoNF_JCzkREgZge1V8qzE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:16:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "RVMM+89X, Delhi Rd, near Shakumbri Automobiles, Mohammed Pur, Roorkee, Talhedi, Uttarakhand 247666",
+    "area": "Mohammed Pur",
+    "latitude": 29.833361,
+    "longitude": 77.883498,
+    "place_id": "ChIJ17BjQ2uzDjkRNvT3lrXQp1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17BjQ2uzDjkRNvT3lrXQp1E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:34"
+  },
+  {
+    "business_name": "Kashvi car bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 10, Delhi Rd, near Hotel Aryan, Laxmi Nagar, New Mohan Pura, Mohanpura, Roorkee, Uttarakhand 247666",
+    "area": "Laxmi Nagar, New Mohan Pura, Mohanpura",
+    "latitude": 29.8448995,
+    "longitude": 77.8864543,
+    "place_id": "ChIJoxBSEXSzDjkRgBw3a0EkoPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxBSEXSzDjkRgBw3a0EkoPs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Julfkar Auto Spair Parts",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246732",
+    "phone_number": "+91 99177 26467",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Abdul Khairpur, Mandawar, Bijnor, SH-93, Bijnor Hardwar Highway, Bijnor, Bijnor, Uttar Pradesh 246721",
+    "area": "246732",
+    "latitude": 29.4897,
+    "longitude": 78.1334,
+    "place_id": "ChIJHxxZ1N_kCzkR4bLxYmtavFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxxZ1N_kCzkR4bLxYmtavFE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:25"
+  },
+  {
+    "business_name": "Indian motor garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246732",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "94JQ+PQQ, Bijnor, Uttar Pradesh 246701",
+    "area": "Bijnor",
+    "latitude": 29.381840099999998,
+    "longitude": 78.13948479999999,
+    "place_id": "ChIJQQ2NVoDvCzkRKVvey0tcaBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQ2NVoDvCzkRKVvey0tcaBU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:02:25"
+  }
+]

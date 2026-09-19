@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvodaya Design Studio",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Interior designer, Real estate appraiser, Structural engineer",
+    "pincode": "247120",
+    "phone_number": "+91 94122 82828",
+    "website": "http://www.sarvodaya.org.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Second Floor, Narayan Towers, opp. Narainpuri Mandir Lane, Gill Colony, Saharanpur, Uttar Pradesh 247001",
+    "area": "Gill Colony",
+    "latitude": 29.955393899999997,
+    "longitude": 77.5484286,
+    "place_id": "ChIJ_a5fUq3rDjkR64mYgiXjxX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_a5fUq3rDjkR64mYgiXjxX8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:30:53"
+  },
+  {
+    "business_name": "3DDesignM",
+    "search_category": "Architects",
+    "primary_category": "Civil engineer",
+    "all_categories": "Civil engineer",
+    "pincode": "247120",
+    "phone_number": "+91 90455 64509",
+    "website": "http://www.3ddesignm.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Goal Kothi, Chilkana Rd, Krishna Nagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Krishna Nagar",
+    "latitude": 29.9839462,
+    "longitude": 77.5416264,
+    "place_id": "ChIJbR1T3mDqDjkR51r_5PYenVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbR1T3mDqDjkR51r_5PYenVo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 07:30:53"
+  }
+]

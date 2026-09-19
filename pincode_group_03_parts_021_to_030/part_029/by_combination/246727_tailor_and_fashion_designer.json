@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adnan Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "246727",
+    "phone_number": "+91 63956 35875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bijnor, Kiratpur, Uttar Pradesh 246731",
+    "area": "246727",
+    "latitude": 29.5066986,
+    "longitude": 78.2046172,
+    "place_id": "ChIJu4raJzbnCzkR0qjyECsoQZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4raJzbnCzkR0qjyECsoQZU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:13"
+  },
+  {
+    "business_name": "Shan Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "246727",
+    "phone_number": "+91 90589 67827",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Hari hard Mandir, Bijnor, Uttar Pradesh 246701",
+    "area": "Bijnor",
+    "latitude": 29.365354999999997,
+    "longitude": 78.137208,
+    "place_id": "ChIJIfBqQQzvCzkRBI8x-SuG0AU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfBqQQzvCzkRBI8x-SuG0AU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:55:13"
+  }
+]
