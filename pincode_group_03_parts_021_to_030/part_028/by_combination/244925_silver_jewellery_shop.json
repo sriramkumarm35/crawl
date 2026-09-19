@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Mahadev Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "244925",
+    "phone_number": "+91 90580 00030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arya Samaj Road, Tanda, Uttar Pradesh 244925",
+    "area": "244925",
+    "latitude": 28.973096599999998,
+    "longitude": 78.9403825,
+    "place_id": "ChIJleF39LdfCjkRGwqL3Epf5lA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleF39LdfCjkRGwqL3Epf5lA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:38:28"
+  },
+  {
+    "business_name": "Sai Nath Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "244925",
+    "phone_number": "+91 99717 52707",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Ars complex, Rampur Jagir Rd, Rampur, Block D, Beta I, Greater Noida, Uttar Pradesh 201308",
+    "area": "Rampur, Block D, Beta I",
+    "latitude": 28.4841868,
+    "longitude": 77.5075305,
+    "place_id": "ChIJnzJr-KjrDDkRPLvPh4CqVs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzJr-KjrDDkRPLvPh4CqVs0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:38:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR. CABIE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "244923",
+    "phone_number": "+91 91191 16955",
+    "website": "http://www.mrcabie.com/",
+    "rating": 4.6,
+    "reviews_count": 178,
+    "address": "omaxe Mr. Cabie Office, Aries Tower, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.9786111,
+    "longitude": 79.39991599999999,
+    "place_id": "ChIJeTrt75CBoDkRjv7UPl9JNSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTrt75CBoDkRjv7UPl9JNSk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:22"
+  },
+  {
+    "business_name": "Ali texi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "244923",
+    "phone_number": "+91 99972 42697",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ward number 6, Bhoot bangla, Rudrapur, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.972538699999998,
+    "longitude": 79.4016935,
+    "place_id": "ChIJoRLvSfB_oDkRrYw9U5JwEnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRLvSfB_oDkRrYw9U5JwEnw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:24"
+  }
+]

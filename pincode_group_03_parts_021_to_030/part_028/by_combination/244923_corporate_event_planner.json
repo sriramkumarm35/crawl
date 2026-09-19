@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vibe connect",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "244923",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "53/2 54/2, Adarsh Colony, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Adarsh Colony",
+    "latitude": 28.9776031,
+    "longitude": 79.3924918,
+    "place_id": "ChIJXQ56Sqx_oDkRblunjC8pdMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ56Sqx_oDkRblunjC8pdMI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:50"
+  },
+  {
+    "business_name": "Joy Kabir Decorators",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "244923",
+    "phone_number": "+91 98374 50909",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Shop No. 2, Shiv Mandir Road, Rampura, Rudrapur, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.9655505,
+    "longitude": 79.3985478,
+    "place_id": "ChIJqTGqFfJ_oDkRrj3XZt5igCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTGqFfJ_oDkRrj3XZt5igCU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:51"
+  }
+]

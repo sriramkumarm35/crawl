@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heera Art Gallery",
+    "search_category": "Tradeshows",
+    "primary_category": "Art studio",
+    "all_categories": "Art studio",
+    "pincode": "246001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5Q2F+C39, Pauri Rd, Pauri, Uttarakhand 246001",
+    "area": "246001",
+    "latitude": 30.1510437,
+    "longitude": 78.7727445,
+    "place_id": "ChIJl5QHniulCTkR2QZeGRK9dnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5QHniulCTkR2QZeGRK9dnA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 10:00:59"
+  },
+  {
+    "business_name": "Digital Carve and Handicrafts",
+    "search_category": "Tradeshows",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store, Corporate office, Handicraft",
+    "pincode": "246001",
+    "phone_number": "+91 93689 05956",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Unnamed Road, Vikas Nagar, Kotdwar, Uttarakhand 246149",
+    "area": "Vikas Nagar",
+    "latitude": 29.748757599999998,
+    "longitude": 78.5254164,
+    "place_id": "ChIJJxsDOX98CTkROuiHuVnb3n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxsDOX98CTkROuiHuVnb3n4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 10:01:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DESI HAVELI",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "244924",
+    "phone_number": "+91 98372 20084",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Nainital Rd, Khukreta, Uttarakhand 262401",
+    "area": "244924",
+    "latitude": 29.2162822,
+    "longitude": 79.2242381,
+    "place_id": "ChIJG8IdqsNxCjkRHT123RQMec0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8IdqsNxCjkRHT123RQMec0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:39"
+  },
+  {
+    "business_name": "Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "244924",
+    "phone_number": "+91 99270 96300",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "27FF+94J, Richchha, Uttarakhand 263152",
+    "area": "244924",
+    "latitude": 29.0234591,
+    "longitude": 79.2727761,
+    "place_id": "ChIJ12BWtsh9CjkR-DUSOrW_S9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12BWtsh9CjkR-DUSOrW_S9w",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:39"
+  }
+]

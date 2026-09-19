@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rukmani",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store, Grocery store, Market",
+    "pincode": "245304",
+    "phone_number": "+91 83680 23328",
+    "website": "http://tattoostudio.com/",
+    "rating": 4.1,
+    "reviews_count": 534,
+    "address": "Shop, Street Number 1, Begambad, Modinagar, Uttar Pradesh 201204",
+    "area": "Begambad",
+    "latitude": 28.8346412,
+    "longitude": 77.56705509999999,
+    "place_id": "ChIJW-kjJa6KDDkR-sjqwTQxFPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-kjJa6KDDkR-sjqwTQxFPY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:59:25"
+  },
+  {
+    "business_name": "Vishal Mega Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket",
+    "pincode": "245304",
+    "phone_number": "+91 72178 88279",
+    "website": "https://stores.vishalmegamart.com/shopping-mart-govindpuram-ghaziabad-30219/home?utm_source=GMB",
+    "rating": 3.8,
+    "reviews_count": 2503,
+    "address": "22, Main Shatabdipuram Rd, Shatabdi Puram, Block I, Block E, Govindpuram, Ghaziabad, Uttar Pradesh 201013",
+    "area": "Shatabdi Puram, Block I, Block E, Govindpuram",
+    "latitude": 28.6923106,
+    "longitude": 77.4920757,
+    "place_id": "ChIJIwAJdjXyDDkRKvcYhjxZyIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwAJdjXyDDkRKvcYhjxZyIY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:59:25"
+  }
+]

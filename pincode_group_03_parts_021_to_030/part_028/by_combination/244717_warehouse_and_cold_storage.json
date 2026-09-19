@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "244717",
+    "phone_number": "+91 84018 63878",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Akhol, Malgadh, Gujarat 385535",
+    "area": "244717",
+    "latitude": 24.2729705,
+    "longitude": 72.148697,
+    "place_id": "ChIJZ3elSMm8XDkReHkK4hdQ0Bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3elSMm8XDkReHkK4hdQ0Bk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:27:39"
+  },
+  {
+    "business_name": "Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "244717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 24,
+    "address": "448, Pilokhari Rd, Shyam Nagar, Pillokhari Rd, Shyam Nagar, Tarapuri, Meerut, Uttar Pradesh 250002",
+    "area": "Shyam Nagar, Tarapuri",
+    "latitude": 28.9660002,
+    "longitude": 77.7065133,
+    "place_id": "ChIJZTPqv4xkDDkR6oIcgkguS24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTPqv4xkDDkR6oIcgkguS24",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:27:40"
+  }
+]

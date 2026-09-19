@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DLF Emporio",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "245304",
+    "phone_number": "+91 11 4611 6666",
+    "website": "http://www.dlfemporio.com/",
+    "rating": 4.6,
+    "reviews_count": 11250,
+    "address": "4, Nelson Mandela Marg, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Vasant Kunj II, Vasant Kunj",
+    "latitude": 28.543454999999998,
+    "longitude": 77.15669489999999,
+    "place_id": "ChIJjR9T1c4dDTkRGh59T1EER_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjR9T1c4dDTkRGh59T1EER_Q",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:59:25"
+  },
+  {
+    "business_name": "Vasant Square Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "245304",
+    "phone_number": "+91 11 4600 0739",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 21854,
+    "address": "Vasant Kunj Rd, Pocket 5, Sector B, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Pocket 5, Sector B, Vasant Kunj",
+    "latitude": 28.524943,
+    "longitude": 77.15647229999999,
+    "place_id": "ChIJqesAmngeDTkRDXUPoBf-BUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqesAmngeDTkRDXUPoBf-BUo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:59:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MADINA MUSLIM HOTEL",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "244928",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nainital road, Khunta Khera, Uttar Pradesh 244921",
+    "area": "244928",
+    "latitude": 28.8647352,
+    "longitude": 79.1970176,
+    "place_id": "ChIJw-k1QSyPCjkRKRBn8iRVAv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-k1QSyPCjkRKRBn8iRVAv8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:44:17"
+  },
+  {
+    "business_name": "Shama Faiz Mobile Showroom",
+    "search_category": "Resort",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "244928",
+    "phone_number": "+91 97585 19222",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Kemri Rd, Kemri, Uttar Pradesh 244928",
+    "area": "244928",
+    "latitude": 28.802320199999997,
+    "longitude": 79.2045528,
+    "place_id": "ChIJt6F-bFSFCjkRIypsp4l5RN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6F-bFSFCjkRIypsp4l5RN4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:44:18"
+  }
+]

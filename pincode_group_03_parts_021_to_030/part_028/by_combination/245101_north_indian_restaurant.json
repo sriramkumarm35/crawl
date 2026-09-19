@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Junkyard Restro N Games",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "245101",
+    "phone_number": "+91 76684 72075",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "Junkyard RestroNGames, nh-24, service road, near Umesh marble, Duhri, Pilkhuwa, Uttar Pradesh 245304",
+    "area": "Duhri",
+    "latitude": 28.7139454,
+    "longitude": 77.6808665,
+    "place_id": "ChIJByTwa16PDDkRqVBDI6UW12k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByTwa16PDDkRqVBDI6UW12k",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:45:07"
+  },
+  {
+    "business_name": "Food king",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "245101",
+    "phone_number": "+91 87918 55110",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 73,
+    "address": "Sarvodya Nagar, Pilkhuwa, Uttar Pradesh 245304",
+    "area": "Sarvodya Nagar",
+    "latitude": 28.707525099999998,
+    "longitude": 77.6537349,
+    "place_id": "ChIJC_-CmB6NDDkRGkvyg_XpfMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_-CmB6NDDkRGkvyg_XpfMk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:45:07"
+  }
+]

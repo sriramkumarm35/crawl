@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trip Your Dreams",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "245206",
+    "phone_number": "+91 85860 10039",
+    "website": "https://trip-your-dreams.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Trip Your Dreams, 245206, India",
+    "area": "245206",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJKeQOrwtlDDkRy7zOJEvRcoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeQOrwtlDDkRy7zOJEvRcoY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:51:28"
+  },
+  {
+    "business_name": "Sp events planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "245206",
+    "phone_number": "+91 87558 51133",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "184, near Jain Krina Store, Ritani Village, Rithani, Meerut, Uttar Pradesh 250103",
+    "area": "Ritani Village, Rithani",
+    "latitude": 28.934226799999998,
+    "longitude": 77.6672241,
+    "place_id": "ChIJ-1OcAABjDDkRPTWFxLZbYbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1OcAABjDDkRPTWFxLZbYbY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:51:29"
+  }
+]

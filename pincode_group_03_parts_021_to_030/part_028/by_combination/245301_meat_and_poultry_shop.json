@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Flocks India",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Pig farm",
+    "all_categories": "Pig farm, Agricultural service, Poultry farm",
+    "pincode": "245301",
+    "phone_number": "+91 99717 12622",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 37,
+    "address": "ramgarh, Megapolis, Uttar Pradesh 203207",
+    "area": "ramgarh, Megapolis",
+    "latitude": 28.499018399999997,
+    "longitude": 77.57768209999999,
+    "place_id": "ChIJIZOdievlDDkRuOsbMt_5BRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZOdievlDDkRuOsbMt_5BRM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:46"
+  },
+  {
+    "business_name": "Pakiza Mutton And Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "245301",
+    "phone_number": "+91 84478 21878",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "JCCQ+R8P, Vill, Shahberi, Greater Noida, Ghaziabad, Uttar Pradesh 201318",
+    "area": "Vill, Shahberi",
+    "latitude": 28.6220951,
+    "longitude": 77.4383132,
+    "place_id": "ChIJvUVoZDjuDDkRDKfWJ-ZqWok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUVoZDjuDDkRDKfWJ-ZqWok",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:46"
+  }
+]

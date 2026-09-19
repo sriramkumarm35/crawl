@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.K. Traders (Rice Store)",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer",
+    "pincode": "244712",
+    "phone_number": "+91 84396 73656",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main market, Sabzi Mandi Rd, Jaspur, Uttarakhand 244712",
+    "area": "244712",
+    "latitude": 29.277946999999998,
+    "longitude": 78.8274356,
+    "place_id": "ChIJ2-ayDURJCjkR_-FVwy3e6wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-ayDURJCjkR_-FVwy3e6wE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:20:48"
+  },
+  {
+    "business_name": "Wholesale Agency in Uttarakhand",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "244712",
+    "phone_number": "+91 74098 54455",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "WXC9+2P2, National Highway 125, Khatima, Uttarakhand 262308",
+    "area": "244712",
+    "latitude": 28.9200113,
+    "longitude": 79.9692518,
+    "place_id": "ChIJH7cuDxxRoDkRJRdRTBoAdGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7cuDxxRoDkRJRdRTBoAdGA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:20:50"
+  }
+]

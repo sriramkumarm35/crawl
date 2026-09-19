@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murfins Patisserie",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "244901",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/murfins_patisserie?igsh=MTgxcnB0ejNldjk3Mg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jail Rd, Kuncha Lala Miyan, Rampur, Uttar Pradesh 244901",
+    "area": "Kuncha Lala Miyan",
+    "latitude": 28.817928199999997,
+    "longitude": 79.0268083,
+    "place_id": "ChIJawGmQwCNCjkRryXIBid_cwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawGmQwCNCjkRryXIBid_cwI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:29:43"
+  },
+  {
+    "business_name": "Lovely Sweets&Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "244901",
+    "phone_number": "+91 90455 64600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lovely Bakers, Bareilly Gate, Bhura Khan Colony, Rampur, Uttar Pradesh 244901",
+    "area": "Bhura Khan Colony",
+    "latitude": 28.7938653,
+    "longitude": 79.02989869999999,
+    "place_id": "ChIJKVJj7ZGNCjkRjJTVfUDR8-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVJj7ZGNCjkRjJTVfUDR8-w",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:29:43"
+  }
+]

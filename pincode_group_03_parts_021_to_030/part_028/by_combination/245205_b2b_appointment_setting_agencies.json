@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Minutes Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Service establishment, Video production service",
+    "pincode": "245205",
+    "phone_number": "N/A",
+    "website": "http://www.minutes.agency/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Minutes Agency, 245205, India",
+    "area": "245205",
+    "latitude": 53.5064506,
+    "longitude": -2.3200198,
+    "place_id": "ChIJOfk6OKtdvAQRQcYMHn1Kkho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfk6OKtdvAQRQcYMHn1Kkho",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:50:12"
+  },
+  {
+    "business_name": "LEADZO TECHNOLOGIES PRIVATE LIMITED",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "245205",
+    "phone_number": "N/A",
+    "website": "https://leadzo.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, plot no 113, Outer Ring Rd, HBR Layout 5th Block, 3rd Phase, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085",
+    "area": "HBR Layout 5th Block, 3rd Phase, Banashankari 3rd Stage, Banashankari",
+    "latitude": 12.9254847,
+    "longitude": 77.5500107,
+    "place_id": "ChIJv5rxsV0_rjsRMex-Gqx--MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5rxsV0_rjsRMex-Gqx--MI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:50:14"
+  }
+]

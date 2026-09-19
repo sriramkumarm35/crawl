@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "244925",
+    "phone_number": "+91 90843 84444",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Ganda Chock, Mohalla Manharan, Tanda, Rampur, Uttar Pradesh 244925",
+    "area": "Mohalla Manharan",
+    "latitude": 28.9792675,
+    "longitude": 78.9420827,
+    "place_id": "ChIJI0SCcWNfCjkRQ4QvtWT3I6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0SCcWNfCjkRQ4QvtWT3I6Y",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:39:05"
+  },
+  {
+    "business_name": "Morpho Hair Style Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "244925",
+    "phone_number": "+91 73515 73404",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "opp. Man Tiraha, Mohalla Dayanpura, Tanda, Rampur, Uttar Pradesh 244925",
+    "area": "Mohalla Dayanpura",
+    "latitude": 28.9754413,
+    "longitude": 78.9392543,
+    "place_id": "ChIJW4XoSaRfCjkR9Nlh8BacL1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4XoSaRfCjkR9Nlh8BacL1M",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:39:05"
+  }
+]

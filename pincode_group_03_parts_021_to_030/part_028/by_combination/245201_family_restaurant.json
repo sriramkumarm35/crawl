@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R sweets",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "245201",
+    "phone_number": "+91 70170 25944",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "PR9W+C9R, Chakrasenpur Babugarh, Uttar Pradesh 245201",
+    "area": "245201",
+    "latitude": 28.7186196,
+    "longitude": 77.8458847,
+    "place_id": "ChIJWX024OaDDDkRqSYyqRgTlis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWX024OaDDDkRqSYyqRgTlis",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:46:57"
+  },
+  {
+    "business_name": "Raju Family Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "245201",
+    "phone_number": "+91 70781 93733",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 63,
+    "address": "VJC3+54J, Ghaziabad, Uttar Pradesh 201201",
+    "area": "245201",
+    "latitude": 28.8704534,
+    "longitude": 77.6027642,
+    "place_id": "ChIJQYOEiMhhDDkRA-3Vv5PLFJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYOEiMhhDDkRA-3Vv5PLFJI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:47:00"
+  }
+]

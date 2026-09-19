@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riddhi Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "245207",
+    "phone_number": "+91 95558 99925",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.10, Sai Complex, near by Sai Mandir, Shahberi, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Shahberi",
+    "latitude": 28.622754699999998,
+    "longitude": 77.43704629999999,
+    "place_id": "ChIJFZXhVC_vDDkRKA2D3XdTCGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZXhVC_vDDkRKA2D3XdTCGE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:52:29"
+  },
+  {
+    "business_name": "PP Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "245207",
+    "phone_number": "+91 99997 74200",
+    "website": "http://ppjeweller.com/",
+    "rating": 3.6,
+    "reviews_count": 93,
+    "address": "G10, Krishna Apra Shopping Plaza, G9, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.636051,
+    "longitude": 77.3690556,
+    "place_id": "ChIJ9Wl53xTlDDkRJu50EvY-R-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Wl53xTlDDkRJu50EvY-R-w",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:52:31"
+  }
+]

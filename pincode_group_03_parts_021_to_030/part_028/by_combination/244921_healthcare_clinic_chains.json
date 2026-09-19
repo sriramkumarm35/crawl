@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sewa X Ray Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244921",
+    "phone_number": "+91 97195 49311",
+    "website": "http://sewalabs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V7P8+H3X, Ram Nagaria, Uttar Pradesh 244921",
+    "area": "244921",
+    "latitude": 28.886477799999998,
+    "longitude": 79.2652365,
+    "place_id": "ChIJB5zkVCKECjkRxQCrjEl_aU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5zkVCKECjkRxQCrjEl_aU0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:31:50"
+  },
+  {
+    "business_name": "Delhi Health Care Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244921",
+    "phone_number": "+91 99995 60980",
+    "website": "https://health.delhi.gov.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tehsil, Aglaga Rasoolpur Road , Ward No.21, Suar, Uttar Pradesh 244924",
+    "area": "244921",
+    "latitude": 29.026061199999997,
+    "longitude": 79.0590655,
+    "place_id": "ChIJqT0wvdBhCjkRHGec7hzCvhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqT0wvdBhCjkRHGec7hzCvhg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:31:53"
+  }
+]

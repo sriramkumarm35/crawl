@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KENT Education Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Education center, Law College",
+    "pincode": "245208",
+    "phone_number": "+91 99113 03070",
+    "website": "https://www.kentedu.in/",
+    "rating": 5,
+    "reviews_count": 52,
+    "address": "73 -A, Nasirpur, Nehru Nagar III, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Nasirpur, Nehru Nagar III, Nehru Nagar",
+    "latitude": 28.6584547,
+    "longitude": 77.4484712,
+    "place_id": "ChIJwy8myBTnDDkRAKwqGy9GzFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwy8myBTnDDkRAKwqGy9GzFc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:11"
+  },
+  {
+    "business_name": "Bright Path Educational Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "245208",
+    "phone_number": "+91 84688 89700",
+    "website": "https://www.brightpath.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Office no 955, 9th Floor, Astralis Tower Supernova,Sector 94,Noida,Uttar Pradesh 201301, Noida, Uttar Pradesh 201313",
+    "area": "Sector 94",
+    "latitude": 28.5511071,
+    "longitude": 77.32462579999999,
+    "place_id": "ChIJkSqkg6TlDDkRBd_p504ZG2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSqkg6TlDDkRBd_p504ZG2g",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:12"
+  }
+]

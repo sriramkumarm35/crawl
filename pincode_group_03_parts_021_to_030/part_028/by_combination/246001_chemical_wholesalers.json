@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalayan Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "246001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badrinath Marg, Srikot, Srinagar, Uttarakhand 246174",
+    "area": "Srikot",
+    "latitude": 30.2249822,
+    "longitude": 78.81906169999999,
+    "place_id": "ChIJcT_8rt2lCTkRp6fZ5WO35nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcT_8rt2lCTkRp6fZ5WO35nM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 10:00:54"
+  },
+  {
+    "business_name": "EVER - TASTE MASALA",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store, Home goods store, Spices Wholesaler",
+    "pincode": "246001",
+    "phone_number": "N/A",
+    "website": "https://www.ever-taste.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no. 3949, ROAD, Devprayag, Khandyusain, Ujiyari, Uttarakhand 246001",
+    "area": "Devprayag",
+    "latitude": 30.1561374,
+    "longitude": 78.7350307,
+    "place_id": "ChIJI7yavkMJCTkR9cmki3q_dhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7yavkMJCTkR9cmki3q_dhM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 10:00:56"
+  }
+]

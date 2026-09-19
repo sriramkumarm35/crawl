@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE JUICE BAR",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Cafe",
+    "pincode": "244715",
+    "phone_number": "+91 72077 71162",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "THE JUICE BAR, Suchitra, Green Park, Quthbullapur, Hyderabad, Telangana 500067",
+    "area": "Suchitra, Green Park, Quthbullapur",
+    "latitude": 17.500947399999998,
+    "longitude": 78.4732306,
+    "place_id": "ChIJI4nuHZeRyzsRdPhvvt_kxB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4nuHZeRyzsRdPhvvt_kxB0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:22:51"
+  },
+  {
+    "business_name": "Diamond juice and chat",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "244715",
+    "phone_number": "+91 99896 34884",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nawal Enclave, opp. glendale academy, P&T Colony, Hyder Shah Kote, Sun City, Hyderabad, Bandlaguda Jagir, Telangana 500086",
+    "area": "P&T Colony, Hyder Shah Kote, Sun City",
+    "latitude": 17.360485399999998,
+    "longitude": 78.3990926,
+    "place_id": "ChIJBV-9eQCXyzsRil9-YTFr64E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBV-9eQCXyzsRil9-YTFr64E",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:22:51"
+  }
+]

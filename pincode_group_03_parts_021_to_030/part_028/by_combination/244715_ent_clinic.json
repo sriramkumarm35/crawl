@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ujjwal Barai Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "244715",
+    "phone_number": "+91 84456 78454",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramnagar, Road, Tanda, Uttarakhand 244715",
+    "area": "244715",
+    "latitude": 29.359602499999998,
+    "longitude": 79.0897602,
+    "place_id": "ChIJ61RkcNAVCjkRVnIwB_VkShk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61RkcNAVCjkRVnIwB_VkShk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:23:10"
+  },
+  {
+    "business_name": "KUSHWAHA ENT CARE AND DIAGNOSTIC CENTRE",
+    "search_category": "ENT Clinic",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist",
+    "pincode": "244715",
+    "phone_number": "+91 94129 87356",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 188,
+    "address": "Ganesh Vihar, Chhoti, Heera Nagar, Mukhani, Haldwani, Uttarakhand 263139",
+    "area": "Ganesh Vihar, Chhoti, Heera Nagar",
+    "latitude": 29.2165839,
+    "longitude": 79.51670759999999,
+    "place_id": "ChIJZybWSeCaoDkRp8xUk-_jszk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZybWSeCaoDkRp8xUk-_jszk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:23:12"
+  }
+]

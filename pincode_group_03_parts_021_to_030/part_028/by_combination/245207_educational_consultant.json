@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "educaller",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Consultant",
+    "pincode": "245207",
+    "phone_number": "+91 98212 33255",
+    "website": "https://educaller.com/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "3rd Floor, Mahalaxmi Metro Tower, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 4, Vaishali",
+    "latitude": 28.64864,
+    "longitude": 77.341842,
+    "place_id": "ChIJ6zdkSwD7DDkR2xi7DsHvlDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zdkSwD7DDkR2xi7DsHvlDU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:53:24"
+  },
+  {
+    "business_name": "Admission Guidance India",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Medical school, Technical school",
+    "pincode": "245207",
+    "phone_number": "+91 92895 80585",
+    "website": "https://admissionguidanceindia.com/",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "World Trade Tower, 1711, Sector 16, Noida, Uttar Pradesh 201301",
+    "area": "Central Auto Market, Block B, Sector 16",
+    "latitude": 28.5768354,
+    "longitude": 77.3169707,
+    "place_id": "ChIJey4fw07kDDkRT9vIiJrQLZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey4fw07kDDkRT9vIiJrQLZs",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:53:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshita Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "244922",
+    "phone_number": "+91 76182 11693",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "002, Shahbad Road, Hardaspur, Aonla, Uttar Pradesh 243303",
+    "area": "244922",
+    "latitude": 28.395061499999997,
+    "longitude": 79.0876502,
+    "place_id": "ChIJ6dFOD3i3CjkRRtTtchtepp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dFOD3i3CjkRRtTtchtepp4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:33:32"
+  },
+  {
+    "business_name": "Bharat Poly Clinic and Nursing Home",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244922",
+    "phone_number": "+91 63956 14855",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "opposite HDFC Bank, near Shahabad Gate Road, Mohsin -E- Azam Colony, Civil Lines, Rampur, Uttar Pradesh 244926",
+    "area": "Mohsin -E- Azam Colony, Civil Lines",
+    "latitude": 28.792444099999997,
+    "longitude": 79.0221187,
+    "place_id": "ChIJR_ai-FKNCjkRuADyJ8Vxetk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_ai-FKNCjkRuADyJ8Vxetk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:33:33"
+  }
+]

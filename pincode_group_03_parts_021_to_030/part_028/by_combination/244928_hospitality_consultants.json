@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diva Hospitality Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "244928",
+    "phone_number": "+91 73517 11123",
+    "website": "https://www.divaconsultancy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Diva Tower, Rampur Rd, opposite S.K.M School, Haldwani, Uttarakhand 263139",
+    "area": "Dahariya",
+    "latitude": 29.2010665,
+    "longitude": 79.5126018,
+    "place_id": "ChIJa5mT4FWboDkRfFoCJVgOvqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5mT4FWboDkRfFoCJVgOvqQ",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:44:21"
+  },
+  {
+    "business_name": "Martlet Hospitality Institute (M-IHM)",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hotel Management Institute",
+    "all_categories": "Hotel Management Institute, Aviation training institute",
+    "pincode": "244928",
+    "phone_number": "+91 92197 00080",
+    "website": "https://www.martlethospitality.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "95, Old, Avas Vikas Rd, Civil Lines, Rampur, Uttar Pradesh 244901",
+    "area": "Civil Lines",
+    "latitude": 28.7866978,
+    "longitude": 79.01944449999999,
+    "place_id": "ChIJEyqArPaTCjkR1Nc80M58SRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyqArPaTCjkR1Nc80M58SRI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:44:21"
+  }
+]

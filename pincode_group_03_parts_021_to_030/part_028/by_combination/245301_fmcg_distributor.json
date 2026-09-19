@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K s",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Service establishment",
+    "pincode": "245301",
+    "phone_number": "+91 95605 55952",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 64,
+    "address": "K s, 245301, India",
+    "area": "245301",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJScAoEvPhDDkRNXibhn7Lsc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScAoEvPhDDkRNXibhn7Lsc8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:49"
+  },
+  {
+    "business_name": "Gaurang Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "245301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Mandi, 1330-B, Railway Rd, behind Ganj, Arya Nagar, Pilkhuwa, Uttar Pradesh 245304",
+    "area": "Arya Nagar",
+    "latitude": 28.7129281,
+    "longitude": 77.660173,
+    "place_id": "ChIJFQM4eVaPDDkRVCdDvsShrZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQM4eVaPDDkRVCdDvsShrZc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:49"
+  }
+]

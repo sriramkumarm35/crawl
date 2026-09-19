@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Inn",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "244927",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "R396+JWV, Rampur-Bilaspur Rd, near Rampur Rampur, Bagi, Uttar Pradesh 244901",
+    "area": "244927",
+    "latitude": 28.8191123,
+    "longitude": 79.0622946,
+    "place_id": "ChIJ12R3RwCNCjkRfH9VopoeLC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12R3RwCNCjkRfH9VopoeLC8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:41:47"
+  },
+  {
+    "business_name": "Highway Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "244927",
+    "phone_number": "+91 78896 61459",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "UT SH 41, Rampur, Puranpur, Uttarakhand 263139",
+    "area": "244927",
+    "latitude": 29.2588878,
+    "longitude": 79.3537065,
+    "place_id": "ChIJ9daEvRR3CjkRdAgrO3kVGQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9daEvRR3CjkRdAgrO3kVGQc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:41:49"
+  }
+]

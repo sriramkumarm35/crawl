@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The HR Department Ltd",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "245208",
+    "phone_number": "N/A",
+    "website": "https://www.hrdepartment.co.nz/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The HR Department Ltd, 245208, India",
+    "area": "245208",
+    "latitude": -40.9248354,
+    "longitude": 175.00390869999998,
+    "place_id": "ChIJs3Znm4uZFmAR5LIaijKf2cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3Znm4uZFmAR5LIaijKf2cI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:22"
+  },
+  {
+    "business_name": "HST Staffing Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, BPO Placement Agency, Career guidance service, Consultant, Employment center, Human resource consulting, Recruiter, Student career counseling office",
+    "pincode": "245208",
+    "phone_number": "+91 98114 28813",
+    "website": "http://hststaffingsolutions.com/",
+    "rating": 4.9,
+    "reviews_count": 701,
+    "address": "1751/52, Jahangirpuri Rd, Block B, Jahangirpuri, Delhi, 110033",
+    "area": "Block B, Jahangirpuri",
+    "latitude": 28.729190499999998,
+    "longitude": 77.1670529,
+    "place_id": "ChIJiR4kP5QBDTkR0psYY3Td_qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiR4kP5QBDTkR0psYY3Td_qg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:23"
+  }
+]

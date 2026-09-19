@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IFB Point - Rampur",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Air conditioning store, Washer & dryer store",
+    "pincode": "244926",
+    "phone_number": "+91 98978 88877",
+    "website": "https://www.ifbappliances.com/",
+    "rating": 3.9,
+    "reviews_count": 70,
+    "address": "Q2JC+H72, Konnect Enterprises, National Highway, NH 24, Adarsh Colony, Civil Lines, Rampur, Uttar Pradesh 244926",
+    "area": "Adarsh Colony, Civil Lines",
+    "latitude": 28.781309999999998,
+    "longitude": 79.020619,
+    "place_id": "ChIJyew_wqqSCjkRgvgTyjBsdl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyew_wqqSCjkRgvgTyjBsdl8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:41:14"
+  },
+  {
+    "business_name": "Nagda HouseKeeping Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "244926",
+    "phone_number": "+91 98291 78421",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nagda HouseKeeping Service, 17.A, Vidhya Nagar, Sector 4, Sector 14, Hiran Magri, Udaipur, Rajasthan 313001",
+    "area": "Vidhya Nagar, Sector 4, Sector 14, Hiran Magri",
+    "latitude": 24.5465941,
+    "longitude": 73.6984464,
+    "place_id": "ChIJfyOWV6DvZzkRKYfYLEZKciY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyOWV6DvZzkRKYfYLEZKciY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:41:15"
+  }
+]

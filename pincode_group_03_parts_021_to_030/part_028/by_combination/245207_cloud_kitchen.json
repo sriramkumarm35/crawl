@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAYA CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "245207",
+    "phone_number": "+91 93548 57450",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nyay Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Nyay Khand 2, Indirapuram",
+    "latitude": 28.6390559,
+    "longitude": 77.3598305,
+    "place_id": "ChIJ5aVKPFH7DDkRp_Ie3f7SiII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5aVKPFH7DDkRp_Ie3f7SiII",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:52:21"
+  },
+  {
+    "business_name": "CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "245207",
+    "phone_number": "+91 84470 75208",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chotpur Colony, Chhijarsi, Sector 63A, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Chotpur Colony, Chhijarsi, Sector 63A, Sector 63",
+    "latitude": 28.6249936,
+    "longitude": 77.402271,
+    "place_id": "ChIJtTya3jnvDDkRasEwO1S-1qE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTya3jnvDDkRasEwO1S-1qE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:52:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arun",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "244922",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HXGR+9M7, Shahabad, Uttar Pradesh 244922",
+    "area": "244922",
+    "latitude": 28.5759212,
+    "longitude": 78.9916728,
+    "place_id": "ChIJ_aNAIADBCjkRvAMJ7sG5Vz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aNAIADBCjkRvAMJ7sG5Vz0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:34:25"
+  },
+  {
+    "business_name": "Goods hardware alf",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Retail space rental agency",
+    "all_categories": "Retail space rental agency",
+    "pincode": "244922",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "nikat shiv mandir, Ganj Bypass Rd, Alfganj, Shahabad, Uttar Pradesh 244411",
+    "area": "244922",
+    "latitude": 28.613619099999998,
+    "longitude": 78.9295032,
+    "place_id": "ChIJ44T3GPXrCjkRNGvSNlhstic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44T3GPXrCjkRNGvSNlhstic",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:34:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Surgical Industries",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Exporter, Furniture Manufacturer, Manufacturer, Surgical Products Wholesaler",
+    "pincode": "245208",
+    "phone_number": "+91 11 4305 3103",
+    "website": "https://www.unisurg.com/",
+    "rating": 4.4,
+    "reviews_count": 87,
+    "address": "445, F.I.E, 445, Patparganj Industrial Area, Patparganj, Delhi, 110092",
+    "area": "Patparganj Industrial Area, Patparganj",
+    "latitude": 28.638687899999997,
+    "longitude": 77.3060289,
+    "place_id": "ChIJRwAAQDb7DDkRvtgFk-INL40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwAAQDb7DDkRvtgFk-INL40",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:29"
+  },
+  {
+    "business_name": "United Surgical Diagnostic",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Pharmaceutical Products Wholesaler",
+    "pincode": "245208",
+    "phone_number": "+91 120 273 0758",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop-87, Nayi Basti, Ghanta Ghar, Sahibabad, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Sahibabad Industrial Area Site 4, Sahibabad",
+    "latitude": 28.660817899999998,
+    "longitude": 77.3411332,
+    "place_id": "ChIJW1AwTpPxDDkROqk_aWaSgc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1AwTpPxDDkROqk_aWaSgc4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Garden",
+    "search_category": "Exhibitions",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "244717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 4,
+    "address": "7QP9+RH2, Nadehi, Uttarakhand 244717",
+    "area": "244717",
+    "latitude": 29.2870103,
+    "longitude": 78.76889179999999,
+    "place_id": "ChIJn8M8Cv9JCjkRMZwHu3rdpf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8M8Cv9JCjkRMZwHu3rdpf8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:27:41"
+  },
+  {
+    "business_name": "मेला",
+    "search_category": "Exhibitions",
+    "primary_category": "Fairground",
+    "all_categories": "Fairground",
+    "pincode": "244717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7QCC+75H, Harkishanpur, Uttar Pradesh 244602",
+    "area": "244717",
+    "latitude": 29.270696299999997,
+    "longitude": 78.77049339999999,
+    "place_id": "ChIJR2CQQgBJCjkRnXJepp2kqyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2CQQgBJCjkRnXJepp2kqyQ",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:27:41"
+  }
+]

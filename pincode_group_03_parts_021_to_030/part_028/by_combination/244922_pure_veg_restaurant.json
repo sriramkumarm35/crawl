@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Up 22 cafe & Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "244922",
+    "phone_number": "+91 96905 95488",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 23,
+    "address": "Khood, Rampur, Singan Khera, Uttar Pradesh 244927",
+    "area": "Khood",
+    "latitude": 28.8882564,
+    "longitude": 79.05069189999999,
+    "place_id": "ChIJWVUaTgCLCjkRhhvQ6c6WIos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVUaTgCLCjkRhhvQ6c6WIos",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:33:13"
+  },
+  {
+    "business_name": "Adda cafe and Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "244922",
+    "phone_number": "+91 79067 82127",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "Aonla - Shahabad Rd, opposite state bank of india, Sirauli, Shahpurmustkil, Uttar Pradesh 243303",
+    "area": "244922",
+    "latitude": 28.4893814,
+    "longitude": 79.0866927,
+    "place_id": "ChIJi7eLfTu3CjkRxjUwXN26X0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7eLfTu3CjkRxjUwXN26X0M",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:33:14"
+  }
+]

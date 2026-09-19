@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Khwaja hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "244924",
+    "phone_number": "+91 99178 15515",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Suar, Uttar Pradesh 244924",
+    "area": "244924",
+    "latitude": 29.021446299999997,
+    "longitude": 79.0591517,
+    "place_id": "ChIJPRZzW7ZhCjkR7UplmV9eaeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRZzW7ZhCjkR7UplmV9eaeA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:58"
+  },
+  {
+    "business_name": "ENT and Allergy Centre,Dr Neeti Kakkar",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "244924",
+    "phone_number": "+91 94184 97700",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 98,
+    "address": "Shardia Complex, near Shiv Nagar, Shiv Nagar, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "area": "Shiv Nagar, Kasumpti",
+    "latitude": 31.076800799999997,
+    "longitude": 77.1822086,
+    "place_id": "ChIJDcv0Cwd_BTkRkBx0NSvFi5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcv0Cwd_BTkRkBx0NSvFi5c",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:58"
+  }
+]

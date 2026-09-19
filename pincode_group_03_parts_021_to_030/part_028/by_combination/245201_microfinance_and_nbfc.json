@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Easy Home Finance",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "245201",
+    "phone_number": "+91 1800 22 3279",
+    "website": "https://www.easyhomefinance.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Office No. B-8, Front side of Third floor, RDC, Block 1, P & T Colony, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Block 1, P & T Colony, Raj Nagar",
+    "latitude": 28.6748527,
+    "longitude": 77.44241079999999,
+    "place_id": "ChIJ-0UotaPxDDkRqsexkT84Rpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0UotaPxDDkRqsexkT84Rpk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:48:05"
+  },
+  {
+    "business_name": "Shri Financial Service",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "245201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "SATYAM COMPLEX, 150, Grand Trunk Rd, Daulatpura, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Kotgaon, Kotgaon Village, Daulatpura",
+    "latitude": 28.6504071,
+    "longitude": 77.4408236,
+    "place_id": "ChIJYfm5jYPxDDkR_-YPKRq7wG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfm5jYPxDDkR_-YPKRq7wG4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:48:07"
+  }
+]

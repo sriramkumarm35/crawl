@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Global Security Service",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "244923",
+    "phone_number": "+91 99971 71111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sidcul road, Transit Camp Rd, near football ground, Rudrapur, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.9873822,
+    "longitude": 79.41625189999999,
+    "place_id": "ChIJBUgyBgB_oDkRIGqepFsZs6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUgyBgB_oDkRIGqepFsZs6k",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:07"
+  },
+  {
+    "business_name": "KING GUARD FORCE SECURITY",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Security service",
+    "pincode": "244923",
+    "phone_number": "+91 92501 81182",
+    "website": "https://kingguardforcesecurity.in/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "1,Building No 562, 5, Omaxe City Rd, Himalayan City, Fase 2, Bijnor, Lucknow, Uttar Pradesh 226002",
+    "area": "Himalayan City, Fase 2",
+    "latitude": 26.757165,
+    "longitude": 80.91558599999999,
+    "place_id": "ChIJNYQff5v_mzkRURNKUga8Hpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYQff5v_mzkRURNKUga8Hpc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:09"
+  }
+]

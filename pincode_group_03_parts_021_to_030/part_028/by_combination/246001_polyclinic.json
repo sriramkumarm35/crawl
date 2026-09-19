@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ECHS POLYCLINIC POURI",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "246001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5Q2F+H67, Dhandri Bichli, Pauri, Uttarakhand 246001",
+    "area": "246001",
+    "latitude": 30.1514246,
+    "longitude": 78.7730425,
+    "place_id": "ChIJnWNIKwClCTkRAIK7XihQvvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWNIKwClCTkRAIK7XihQvvU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:59:54"
+  },
+  {
+    "business_name": "CHC",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "246001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QVCF+V85, Rikhnikhal, Uttarakhand 246179",
+    "area": "246001",
+    "latitude": 29.7721263,
+    "longitude": 78.87334969999999,
+    "place_id": "ChIJ7f4bPseJCTkRYS7QEgxBCPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f4bPseJCTkRYS7QEgxBCPo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:59:56"
+  }
+]

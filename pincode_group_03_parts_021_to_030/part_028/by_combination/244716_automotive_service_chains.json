@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blessed mechanic",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "244716",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rampur Rd, Haldwani, Dewalchaur Bandobasti, Uttarakhand 263139",
+    "area": "244716",
+    "latitude": 29.1863571,
+    "longitude": 79.501701,
+    "place_id": "ChIJ-XuMuhCFoDkRG3hb0RpQG5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XuMuhCFoDkRG3hb0RpQG5g",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:25:07"
+  },
+  {
+    "business_name": "Maruti Suzuki Authorised Service/ Nexa Authorised Service (Anjini service centre)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "244716",
+    "phone_number": "+91 86506 00081",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kaladhungi Rd, Lohariyasal Malla, Unchapul, Haldwani, Uttarakhand 263139",
+    "area": "Lohariyasal Malla, Unchapul",
+    "latitude": 29.228096999999998,
+    "longitude": 79.4931895,
+    "place_id": "ChIJ-W8YyAyboDkRqasKap0mnG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-W8YyAyboDkRqasKap0mnG8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:25:07"
+  }
+]

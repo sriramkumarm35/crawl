@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Anandam & Restaurant Bazpur",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "244924",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "By, Ram Raj Road, near Royal Garden, Keshowala, Uttarakhand 262401",
+    "area": "244924",
+    "latitude": 29.1797486,
+    "longitude": 79.1363288,
+    "place_id": "ChIJuQa66ppvCjkRbXJLXo9lFwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQa66ppvCjkRbXJLXo9lFwg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:37:31"
+  },
+  {
+    "business_name": "Welcome Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "244924",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23X8+83P, Zamin Ganj, Uttar Pradesh 244924",
+    "area": "244924",
+    "latitude": 29.048328599999998,
+    "longitude": 79.0652142,
+    "place_id": "ChIJhbFISgBhCjkRSb4U6WNM-Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbFISgBhCjkRSb4U6WNM-Kg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:37:33"
+  }
+]

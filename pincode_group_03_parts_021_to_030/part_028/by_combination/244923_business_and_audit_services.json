@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GMPS & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "244923",
+    "phone_number": "+91 81262 03171",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO. A-1/3, GANPATI COMPLEX, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.9755047,
+    "longitude": 79.3828175,
+    "place_id": "ChIJ1WZhQK5_oDkRQ_BqiwfTMH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WZhQK5_oDkRQ_BqiwfTMH8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:09"
+  },
+  {
+    "business_name": "T & S Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "244923",
+    "phone_number": "+91 84495 58497",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "behind Hotel wood inn, Awas Vikas, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Awas Vikas",
+    "latitude": 28.987085699999998,
+    "longitude": 79.4020592,
+    "place_id": "ChIJa3VSGlh_oDkR7wbAwu2IwSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3VSGlh_oDkR7wbAwu2IwSc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:10"
+  }
+]

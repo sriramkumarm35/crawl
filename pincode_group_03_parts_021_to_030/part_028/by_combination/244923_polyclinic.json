@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ECHS Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244923",
+    "phone_number": "N/A",
+    "website": "http://echs.gov.in/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "XCV3+P58, Jagatpura, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.9942849,
+    "longitude": 79.4029407,
+    "place_id": "ChIJ8cEaJ95_oDkRQ0QGoc-snp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cEaJ95_oDkRQ0QGoc-snp4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:11"
+  },
+  {
+    "business_name": "UK Poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "244923",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XCP7+Q5F, Tranjeet Camp Rd, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.986929,
+    "longitude": 79.4129415,
+    "place_id": "ChIJj6TB33B_oDkRW_jADiRlJ2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6TB33B_oDkRW_jADiRlJ2M",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:11"
+  }
+]

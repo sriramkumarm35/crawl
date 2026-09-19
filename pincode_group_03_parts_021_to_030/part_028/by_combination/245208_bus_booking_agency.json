@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Mobility Bus Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "245208",
+    "phone_number": "+91 92209 02747",
+    "website": "https://www.bharatmobilitybusservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, K-7 | R2, Park, Leisure Valley Rd, opp. KINGDOM OF DREAMS, Sector 29, Gurugram, Haryana 122001",
+    "area": "Sector 29",
+    "latitude": 28.468653699999997,
+    "longitude": 77.0673755,
+    "place_id": "ChIJUb258GaiKmYRdhusGovdftM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUb258GaiKmYRdhusGovdftM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:38"
+  },
+  {
+    "business_name": "M.S.Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "245208",
+    "phone_number": "+91 96500 72772",
+    "website": "http://mstravelsindia.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "9, Old Delhi Gurgaon Rd, Sector 21, Gurugram, Haryana 122016",
+    "area": "Sector 21",
+    "latitude": 28.5144894,
+    "longitude": 77.0766292,
+    "place_id": "ChIJgU8THWEZDTkRwudJiGMJqFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgU8THWEZDTkRwudJiGMJqFE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:38"
+  }
+]

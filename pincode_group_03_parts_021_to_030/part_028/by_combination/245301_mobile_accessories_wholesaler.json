@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UnityMobile Wholesale Mart",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Cell phone accessory store",
+    "pincode": "245301",
+    "phone_number": "+91 76699 26688",
+    "website": "https://unitymobile.in/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "B 227, G/F, Chandar Vihar, Block B, Palam Extension, Sector 7 Dwarka, Palam, Delhi, 110077",
+    "area": "Chandar Vihar, Block B, Palam Extension, Sector 7 Dwarka, Palam",
+    "latitude": 28.586432199999997,
+    "longitude": 77.0709384,
+    "place_id": "ChIJD-kEGKEbDTkRgydGLsqv-pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-kEGKEbDTkRgydGLsqv-pg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:57:02"
+  },
+  {
+    "business_name": "Ghaziabad Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "245301",
+    "phone_number": "+91 87008 37586",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "Main, Gaushala Rd, near Dhara Singh School, Gaupuri, Madhopura, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Gaupuri, Madhopura",
+    "latitude": 28.657123,
+    "longitude": 77.41933,
+    "place_id": "ChIJOVPuzTPwDDkRyzHr7iOOMjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVPuzTPwDDkRyzHr7iOOMjc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:57:03"
+  }
+]

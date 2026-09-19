@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grand Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "244713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "6X78+2M5, Kundeshwari, Kashipur, Uttarakhand 244713",
+    "area": "Kundeshwari",
+    "latitude": 29.2125006,
+    "longitude": 78.96672579999999,
+    "place_id": "ChIJ6cHO9bZDCjkRn_jKLDN-odc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cHO9bZDCjkRn_jKLDN-odc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:22:39"
+  },
+  {
+    "business_name": "Triveni Traders",
+    "search_category": "Commercial Complex",
+    "primary_category": "Solar energy equipment supplier",
+    "all_categories": "Solar energy equipment supplier",
+    "pincode": "244713",
+    "phone_number": "+91 78180 04884",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "near Bada Gurudwara, Pakkakot, Kashipur, Uttarakhand 244713",
+    "area": "Pakkakot",
+    "latitude": 29.2198449,
+    "longitude": 78.9528277,
+    "place_id": "ChIJKaW7UFlDCjkRbJkXTCArpxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKaW7UFlDCjkRbJkXTCArpxU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:22:39"
+  }
+]

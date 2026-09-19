@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milak",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "244926",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q2QH+G8Q, Milak galla mandi, BDS Nagar, Rampur, Uttar Pradesh 244926",
+    "area": "BDS Nagar",
+    "latitude": 28.7888286,
+    "longitude": 79.0283657,
+    "place_id": "ChIJaxQ_OgCNCjkRlvjsrRUh6SA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxQ_OgCNCjkRlvjsrRUh6SA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:41:25"
+  },
+  {
+    "business_name": "Dj Sourabh",
+    "search_category": "Exhibitions",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "244926",
+    "phone_number": "+91 84451 02939",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Ramnath colony, near Radha picture Hall, Jwala Nagar, Rampur, Uttar Pradesh 244926",
+    "area": "Jwala Nagar",
+    "latitude": 28.779551299999998,
+    "longitude": 79.0285233,
+    "place_id": "ChIJ9Q2vqiiTCjkRHX-m68tFCik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Q2vqiiTCjkRHX-m68tFCik",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:41:25"
+  }
+]

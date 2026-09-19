@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nexa Service (Motorcraft Sales )",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "245304",
+    "phone_number": "+91 85279 32222",
+    "website": "https://www.motorcraft.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khasra No. 198, Hapur Rd, near Ghanshyam Farm House, Block C, Mishal Garhi, Govindpuram, Indergarhi, Ghaziabad, Uttar Pradesh 201013",
+    "area": "Block C, Mishal Garhi, Govindpuram",
+    "latitude": 28.6817583,
+    "longitude": 77.4997583,
+    "place_id": "ChIJ3agB42LzDDkR_3PeXBNnbXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3agB42LzDDkR_3PeXBNnbXs",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:58:14"
+  },
+  {
+    "business_name": "Car mechanic (Sandeep)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Car wash",
+    "pincode": "245304",
+    "phone_number": "+91 85058 89844",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Swarn jyanti puram, C-360, Ashram Rd, near Kanika medical store, Block C, Swaran Jayanti Puram, Govindpuram, Ghaziabad, Uttar Pradesh 201013",
+    "area": "Block C, Swaran Jayanti Puram, Govindpuram",
+    "latitude": 28.6966473,
+    "longitude": 77.4838801,
+    "place_id": "ChIJ1-Jw_jPzDDkRIKGgDVgNax4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-Jw_jPzDDkRIKGgDVgNax4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:58:15"
+  }
+]

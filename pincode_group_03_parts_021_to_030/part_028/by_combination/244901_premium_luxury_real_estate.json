@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Collar Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency",
+    "pincode": "244901",
+    "phone_number": "+91 88102 86629",
+    "website": "https://www.whitecollarrealty.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "6th floor, TOWER-A, M3M Urbana Business Park, Sector 67, Gurugram, Haryana 122101",
+    "area": "Ramgarh, Sector 67",
+    "latitude": 28.390107399999998,
+    "longitude": 77.06514829999999,
+    "place_id": "ChIJZ4Yi-sc9DTkRv77tpT1gK6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4Yi-sc9DTkRv77tpT1gK6M",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:31:01"
+  },
+  {
+    "business_name": "LUXURIOUS REALTY PVT LTD",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "244901",
+    "phone_number": "+91 81785 50878",
+    "website": "https://luxuriousrealty.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10th Floor, ITHUM TOWER, 1020, Tower B, Sector 62, Noida, Uttar Pradesh 201309",
+    "area": "Block A, Industrial Area, Sector 62",
+    "latitude": 28.627273499999998,
+    "longitude": 77.37250329999999,
+    "place_id": "ChIJEey2oDnlDDkR641kHye07dU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEey2oDnlDDkR641kHye07dU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:31:02"
+  }
+]

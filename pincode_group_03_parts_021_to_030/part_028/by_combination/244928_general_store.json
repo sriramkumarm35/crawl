@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mustafa General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "244928",
+    "phone_number": "+91 76688 49630",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gaudi Chauraha Road, Ghosiya Masjid Road, Rampur, Uttar Pradesh 244928",
+    "area": "244928",
+    "latitude": 28.8070766,
+    "longitude": 79.203237,
+    "place_id": "ChIJdWXskmOFCjkR0-Wym7WoLVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWXskmOFCjkR0-Wym7WoLVA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:43:21"
+  },
+  {
+    "business_name": "PRMOD cosmetic store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "244928",
+    "phone_number": "+91 76688 52128",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road Khanpr, near Bye Shiv Madira, Ras Dandia, Rampur, Uttar Pradesh 244921",
+    "area": "244928",
+    "latitude": 28.7629925,
+    "longitude": 79.1994661,
+    "place_id": "ChIJZcsiNDaRCjkRtQgwAb6KivU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcsiNDaRCjkRtQgwAb6KivU",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:43:23"
+  }
+]

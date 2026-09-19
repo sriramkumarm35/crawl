@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Trading Company",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "244925",
+    "phone_number": "+91 99173 77816",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Naveen Mandi, Tanda, Badli, Uttar Pradesh 244925",
+    "area": "244925",
+    "latitude": 28.9752047,
+    "longitude": 78.9429801,
+    "place_id": "ChIJ4WWElVVfCjkRnx8RdSSw3uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WWElVVfCjkRnx8RdSSw3uo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:39:49"
+  },
+  {
+    "business_name": "Amaan Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "244925",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "23G5+C9C, Suar, Uttar Pradesh 244924",
+    "area": "244925",
+    "latitude": 29.026071899999998,
+    "longitude": 79.058388,
+    "place_id": "ChIJ60kDf2RhCjkRT8FULjD7nMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60kDf2RhCjkRT8FULjD7nMc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:39:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karim Chicken Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "244926",
+    "phone_number": "+91 97605 74467",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Q2MC+73P, Shaukat Ali Rd, Adarsh Colony, Civil Lines, Rampur, Uttar Pradesh 244926",
+    "area": "Adarsh Colony, Civil Lines",
+    "latitude": 28.7832065,
+    "longitude": 79.0201896,
+    "place_id": "ChIJLXKIWFWNCjkRMU5stny8tZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXKIWFWNCjkRMU5stny8tZ8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:40:04"
+  },
+  {
+    "business_name": "Chai Sutta Bar_Rampur",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Tea house",
+    "pincode": "244926",
+    "phone_number": "+91 93104 10199",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chai Sutta Bar_Rampur, Shahabad Gate Rd, Mohsin -E- Azam Colony, Rampur, Uttar Pradesh 244901",
+    "area": "Mohsin -E- Azam Colony",
+    "latitude": 28.796908499999997,
+    "longitude": 79.0199985,
+    "place_id": "ChIJWyA0SBaNCjkR0J-9ONhdQ38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyA0SBaNCjkR0J-9ONhdQ38",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:40:04"
+  }
+]

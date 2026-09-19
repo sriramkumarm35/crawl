@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "F1 Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "245301",
+    "phone_number": "+91 84488 50930",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 470,
+    "address": "237 Second Floor Orbit Plaza, Crossings Republik, Ghaziabad, Uttar Pradesh 201016",
+    "area": "Crossings Republik",
+    "latitude": 28.6311306,
+    "longitude": 77.43531089999999,
+    "place_id": "ChIJfUtlL_vvDDkRqWN74-IKjEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUtlL_vvDDkRqWN74-IKjEg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:56:18"
+  },
+  {
+    "business_name": "Fitness Hub",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "245301",
+    "phone_number": "+91 98181 83008",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sector-7/62, near Main Market, Chiranjiv Vihar, Shastri Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "Chiranjiv Vihar, Shastri Nagar",
+    "latitude": 28.6726073,
+    "longitude": 77.4742395,
+    "place_id": "ChIJNRHuvCHyDDkRd_dt3HgHzjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNRHuvCHyDDkRd_dt3HgHzjA",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:56:20"
+  }
+]

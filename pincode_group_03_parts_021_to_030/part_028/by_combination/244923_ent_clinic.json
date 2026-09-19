@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NARANG'S CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "244923",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagat Singh Chowk, Rudrapur, Uttarakhand 263153",
+    "area": "244923",
+    "latitude": 28.976201699999997,
+    "longitude": 79.3949597,
+    "place_id": "ChIJ1fF1AFV_oDkRBrWX2WB9vG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fF1AFV_oDkRBrWX2WB9vG0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:12"
+  },
+  {
+    "business_name": "SURYANSH CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "244923",
+    "phone_number": "+91 99973 03747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MANIHAR KHEDA, Road, KURMANCHALDEEP COLONY, Kiratpur, Rudrapur, Uttarakhand 263153",
+    "area": "KURMANCHALDEEP COLONY",
+    "latitude": 28.999041899999998,
+    "longitude": 79.3735512,
+    "place_id": "ChIJP3kz8mCBCjkR-DvYAvsY-cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3kz8mCBCjkR-DvYAvsY-cg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:35:12"
+  }
+]

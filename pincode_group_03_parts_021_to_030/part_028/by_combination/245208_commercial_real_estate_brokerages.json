@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Property",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "245208",
+    "phone_number": "+91 95404 99597",
+    "website": "http://www.unitedproperty.in/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "FCPC+7RQ Shiv Nadar School, Sector 168, Noida, Uttar Pradesh 201304",
+    "area": "Sector 168",
+    "latitude": 28.485733399999997,
+    "longitude": 77.422054,
+    "place_id": "ChIJmYg3ArLpDDkRJhFKBVut6YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYg3ArLpDDkRJhFKBVut6YM",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:24"
+  },
+  {
+    "business_name": "Ian Teo | The Investor Realtor",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Service establishment",
+    "pincode": "245208",
+    "phone_number": "N/A",
+    "website": "https://info.theianteo.com/free-masterclass1",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Ian Teo | The Investor Realtor, 245208, India",
+    "area": "245208",
+    "latitude": 1.3139999999999998,
+    "longitude": 103.84425,
+    "place_id": "ChIJbb9us399_WoRG-Yr3AtDgzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbb9us399_WoRG-Yr3AtDgzE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:24"
+  }
+]

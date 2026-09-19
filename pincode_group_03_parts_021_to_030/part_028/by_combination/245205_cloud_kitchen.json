@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tripathi's Vegetarian Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "245205",
+    "phone_number": "N/A",
+    "website": "https://zomato.onelink.me/xqzv/ncem1g13",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Flat no 201, 1st floor, Royce, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Royce, Vaishali",
+    "latitude": 28.642934099999998,
+    "longitude": 77.3401896,
+    "place_id": "ChIJbXmDsKb7DDkRHkZVapZmApY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXmDsKb7DDkRHkZVapZmApY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:48:44"
+  },
+  {
+    "business_name": "Family Kitchen Collection",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store",
+    "pincode": "245205",
+    "phone_number": "+91 99109 05622",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 19,
+    "address": "Shipra Shopping Center, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.637736999999998,
+    "longitude": 77.36963899999999,
+    "place_id": "ChIJweYP1VLlDDkRjYbixWk3hy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweYP1VLlDDkRjYbixWk3hy8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:48:45"
+  }
+]

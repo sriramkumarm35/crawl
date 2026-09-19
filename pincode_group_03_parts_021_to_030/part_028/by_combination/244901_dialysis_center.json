@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "7Med Rampur- Rama Singhal Maternity Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "244901",
+    "phone_number": "N/A",
+    "website": "https://www.7medindia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rama Singhal Maternity Hospital, Shaukat Ali Rd, Civil Lines, Rampur, Uttar Pradesh 244901",
+    "area": "Civil Lines",
+    "latitude": 28.786109099999997,
+    "longitude": 79.0205568,
+    "place_id": "ChIJp43lOrCNCjkRERB0y-I4ig8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp43lOrCNCjkRERB0y-I4ig8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:30:05"
+  },
+  {
+    "business_name": "Sahara Hospital Janunagar",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "R53H+H7R, Janu Nagar, Kemri, Uttar Pradesh 244928",
+    "area": "244901",
+    "latitude": 28.802761999999998,
+    "longitude": 79.17729969999999,
+    "place_id": "ChIJO3l6aWKPCjkR3HPtuYSH9-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3l6aWKPCjkR3HPtuYSH9-Q",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:30:08"
+  }
+]

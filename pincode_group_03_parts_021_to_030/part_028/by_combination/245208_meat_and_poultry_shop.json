@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashyap poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Battery Store, Chicken shop, Poultry farm, Seafood market, Seafood wholesaler",
+    "pincode": "245208",
+    "phone_number": "+91 98187 52203",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no 1, Basai Village, chowk, Gurugram, Haryana 122006",
+    "area": "Basai Enclave, Basai Village, chowk",
+    "latitude": 28.4556036,
+    "longitude": 76.9869296,
+    "place_id": "ChIJ6wQ-4XcXDTkRMuQSJzzEDu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wQ-4XcXDTkRMuQSJzzEDu4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:01"
+  },
+  {
+    "business_name": "khan chicken centar",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "245208",
+    "phone_number": "+91 96505 53128",
+    "website": "https://khan-chicken-centar.grexa.site/",
+    "rating": 3.9,
+    "reviews_count": 225,
+    "address": "shop No 1 samrat sagar chowk, Sector-11, Vijay Nagar, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Sector-11, Vijay Nagar",
+    "latitude": 28.651431199999998,
+    "longitude": 77.41984,
+    "place_id": "ChIJM5JZyi3wDDkRheTNOjY8L7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5JZyi3wDDkRheTNOjY8L7M",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:01"
+  }
+]

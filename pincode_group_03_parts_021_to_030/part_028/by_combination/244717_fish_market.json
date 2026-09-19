@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish FM",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Chicken & Mutton Shop, Chicken shop, Delivery service, Fish processing, Grocery delivery service, Meat products store",
+    "pincode": "244717",
+    "phone_number": "+91 99952 21106",
+    "website": "http://www.fishfm.in/",
+    "rating": 4.5,
+    "reviews_count": 79,
+    "address": "kodapalli paramba, cwrdm, Haritha Nagar Rd, Nethaji, Kottooli, Kozhikode, Keralam 673016",
+    "area": "Nethaji, Kottooli",
+    "latitude": 11.2738646,
+    "longitude": 75.802641,
+    "place_id": "ChIJay2l9TRfpjsR0C-3BBjsnQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJay2l9TRfpjsR0C-3BBjsnQw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:26:14"
+  },
+  {
+    "business_name": "Ukkadam Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Market",
+    "pincode": "244717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 4818,
+    "address": "Perur Bypass Rd, Ukkadam, Coimbatore, Tamil Nadu 641023",
+    "area": "Ukkadam",
+    "latitude": 10.986833899999999,
+    "longitude": 76.96577649999999,
+    "place_id": "ChIJuaXh5HRZqDsR2HcAtwQDVes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaXh5HRZqDsR2HcAtwQDVes",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:26:14"
+  }
+]

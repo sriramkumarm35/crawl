@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Potli",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Breakfast restaurant, Dhaba, Restaurant, Tea house",
+    "pincode": "244921",
+    "phone_number": "+91 99270 25940",
+    "website": "http://www.punjabipotli.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "87, National Highway, Mundia Near Mankara, Uttar Pradesh 244921",
+    "area": "244921",
+    "latitude": 28.8638245,
+    "longitude": 79.19274829999999,
+    "place_id": "ChIJZ-w3qmePCjkRPNbc-ly8IYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-w3qmePCjkRPNbc-ly8IYc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:31:27"
+  },
+  {
+    "business_name": "Nahid family dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "244921",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R4VV+CJ9, Bilaspur Rd, Matkhera, Bhot, Uttar Pradesh 244921",
+    "area": "244921",
+    "latitude": 28.8435392,
+    "longitude": 79.14412209999999,
+    "place_id": "ChIJ-f05DgCJCjkRzH8cHxDFvAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-f05DgCJCjkRzH8cHxDFvAE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:31:29"
+  }
+]

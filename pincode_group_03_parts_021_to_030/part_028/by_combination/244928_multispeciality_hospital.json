@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ak Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244928",
+    "phone_number": "+91 94119 52222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ak Hospital, Kemri, Uttar Pradesh 244928",
+    "area": "244928",
+    "latitude": 28.8065154,
+    "longitude": 79.2066105,
+    "place_id": "ChIJBQQeilGFCjkRFltxzGfnXVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQQeilGFCjkRFltxzGfnXVo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:43:41"
+  },
+  {
+    "business_name": "AK Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "244928",
+    "phone_number": "+91 99171 49435",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "R643+J4P, Milak road, Kemri, Rampur, Uttar Pradesh 244928",
+    "area": "244928",
+    "latitude": 28.7986422,
+    "longitude": 79.2042615,
+    "place_id": "ChIJvUsCRpeFCjkRot58diKn57M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUsCRpeFCjkRot58diKn57M",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:43:41"
+  }
+]

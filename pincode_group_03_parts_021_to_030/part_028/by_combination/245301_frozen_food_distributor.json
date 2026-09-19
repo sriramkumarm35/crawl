@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alshah Enterprises Upsidc",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Outlet store",
+    "all_categories": "Outlet store",
+    "pincode": "245301",
+    "phone_number": "+91 98911 22900",
+    "website": "http://www.alshahenterprises.co.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "F150, Phase 1 UPSIDC, Amapur Lodha, Uttar Pradesh 201015",
+    "area": "Phase 1 UPSIDC",
+    "latitude": 28.654166399999998,
+    "longitude": 77.5695016,
+    "place_id": "ChIJm4Seo6mSDDkRJxeCl3KmkXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4Seo6mSDDkRJxeCl3KmkXY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:49"
+  },
+  {
+    "business_name": "Krishna trading company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, General store",
+    "pincode": "245301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "256, Grand Trunk Rd, Purani Munsafi, Ghantaghar, Naya Ganj, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Purani Munsafi, Ghantaghar, Naya Ganj",
+    "latitude": 28.6613264,
+    "longitude": 77.4262001,
+    "place_id": "ChIJ-89nEsvxDDkRMKD0AvM6hd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-89nEsvxDDkRMKD0AvM6hd8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saadiram Farm House",
+    "search_category": "Hostels",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay, Hotel",
+    "pincode": "245208",
+    "phone_number": "+91 97196 18101",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 490,
+    "address": "Bugrasi Siyana Rd, Siyana, Uttar Pradesh 203412",
+    "area": "245208",
+    "latitude": 28.6268767,
+    "longitude": 78.0710769,
+    "place_id": "ChIJH9aZkXdlCzkRNmg0ma4Nme4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9aZkXdlCzkRNmg0ma4Nme4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:02"
+  },
+  {
+    "business_name": "Dabas Boyz Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center",
+    "pincode": "245208",
+    "phone_number": "+91 98731 19670",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "Mohan Nagar, Ghaziabad, Uttar Pradesh 201007",
+    "area": "Mohan Nagar",
+    "latitude": 28.676187499999997,
+    "longitude": 77.4004375,
+    "place_id": "ChIJfRQw5w3xDDkRd3D-1X9-K3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRQw5w3xDDkRd3D-1X9-K3A",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:03"
+  }
+]

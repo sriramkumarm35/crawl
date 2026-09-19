@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurveda Pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "245301",
+    "phone_number": "N/A",
+    "website": "https://sarvjvarhar.org/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gandhi vidya mandir, Sardarshahr, Rajasthan 331403",
+    "area": "245301",
+    "latitude": 28.432551999999998,
+    "longitude": 74.49364229999999,
+    "place_id": "ChIJPay2sdb3FDkRtRyPSC6XOEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPay2sdb3FDkRtRyPSC6XOEw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:56:09"
+  },
+  {
+    "business_name": "GS Ayurveda Medical College & Hospital",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, College",
+    "pincode": "245301",
+    "phone_number": "+91 70555 14543",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 138,
+    "address": "Pipla Bandpur, Uttar Pradesh 245304",
+    "area": "245301",
+    "latitude": 28.718127499999998,
+    "longitude": 77.6819416,
+    "place_id": "ChIJN3lrrCCPDDkRGoA43dus9O4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3lrrCCPDDkRGoA43dus9O4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:56:11"
+  }
+]

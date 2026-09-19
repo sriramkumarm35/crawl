@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RKJR RETAIL",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Convenience store, Ice cream shop",
+    "pincode": "244924",
+    "phone_number": "+91 78329 94010",
+    "website": "https://www.rkjr.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bank Main Bazaar, behind Old PNB, Rajpur, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "Rajpur",
+    "latitude": 31.4479033,
+    "longitude": 77.62904189999999,
+    "place_id": "ChIJEzC3mBLBBTkR8fquVqhf484",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzC3mBLBBTkR8fquVqhf484",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:32"
+  },
+  {
+    "business_name": "Ram Kishan Jiva Ram",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Dairy Products Supplier, Food products supplier, Nutritionist, Wholesaler",
+    "pincode": "244924",
+    "phone_number": "+91 94180 89004",
+    "website": "https://www.rkjrrampur.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ground Floor, Ram Kishan Jiva Ram, NH5, Chuhabag Distt:, Rampur Bushahr, Himachal Pradesh 172001",
+    "area": "244924",
+    "latitude": 31.4545693,
+    "longitude": 77.65494679999999,
+    "place_id": "ChIJecljnxLBBTkR8c_hXoeRoaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecljnxLBBTkR8c_hXoeRoaI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:36:32"
+  }
+]

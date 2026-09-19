@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "244926",
+    "phone_number": "+91 94108 71464",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "Q2JC+3XJ, Adarsh Colony, Civil Lines, Rampur, Uttar Pradesh 244926",
+    "area": "Adarsh Colony, Civil Lines",
+    "latitude": 28.7802209,
+    "longitude": 79.02238129999999,
+    "place_id": "ChIJVVVVlVWNCjkRYr5uP8kgV7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlVWNCjkRYr5uP8kgV7c",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:40:09"
+  },
+  {
+    "business_name": "Tajdar Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "244926",
+    "phone_number": "+91 93597 48450",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shahabad Gate Rd, near East West School, Mohsin -E- Azam Colony, Bhura Khan Colony, Rampur, Uttar Pradesh 244901",
+    "area": "Mohsin -E- Azam Colony, Bhura Khan Colony",
+    "latitude": 28.797877999999997,
+    "longitude": 79.025275,
+    "place_id": "ChIJ0T_AfU6NCjkRYhs7XOu2kd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0T_AfU6NCjkRYhs7XOu2kd0",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:40:10"
+  }
+]

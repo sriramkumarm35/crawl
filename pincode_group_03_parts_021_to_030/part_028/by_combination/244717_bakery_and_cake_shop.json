@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukteshwar Bakery & Cafe",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cafe",
+    "pincode": "244717",
+    "phone_number": "+91 90680 06133",
+    "website": "http://www.mukteshwarbakery.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Petrol Pump, Mallital Bazar, Bhimtal, Uttarakhand 263136",
+    "area": "Mallital Bazar",
+    "latitude": 29.355117699999997,
+    "longitude": 79.55414309999999,
+    "place_id": "ChIJgW-VHmSZoDkROruxHKcwhCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW-VHmSZoDkROruxHKcwhCY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:26:15"
+  },
+  {
+    "business_name": "Roop Sagar Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Cupcake shop, Sweets and dessert buffet, Dessert shop, Pastry shop, Wedding bakery, Wholesale bakery, Wholesaler",
+    "pincode": "244717",
+    "phone_number": "+91 98970 21510",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 974,
+    "address": "Bhagat Singh Chowk, Main, Market, near Bala Ji Mandir, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Udaipur",
+    "latitude": 29.306617,
+    "longitude": 78.50826699999999,
+    "place_id": "ChIJtVRMaTrICzkRZzwIsuZj3_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVRMaTrICzkRZzwIsuZj3_8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:26:17"
+  }
+]

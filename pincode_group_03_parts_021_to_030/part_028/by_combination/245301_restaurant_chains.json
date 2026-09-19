@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pindi - Restaurant & Banquet",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant, Chinese restaurant, Fine dining restaurant, North Indian restaurant, Restaurant",
+    "pincode": "245301",
+    "phone_number": "+91 120 456 6697",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Hint House, A 18, RDC, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Block 1, P & T Colony, Raj Nagar",
+    "latitude": 28.6743773,
+    "longitude": 77.43966309999999,
+    "place_id": "ChIJV8OvxrvxDDkRaiygoTxPy0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8OvxrvxDDkRaiygoTxPy0A",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:58"
+  },
+  {
+    "business_name": "A One Restaurant tronica",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "245301",
+    "phone_number": "+91 96433 76200",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 116,
+    "address": "Unnamed Road, Behind Care Group, Trans Delhi Signature City, Ghaziabad, Uttar Pradesh 201103",
+    "area": "Trans Delhi Signature City",
+    "latitude": 28.778757499999998,
+    "longitude": 77.2649125,
+    "place_id": "ChIJl1VoHKX_DDkRmXc3QGpvUCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1VoHKX_DDkRmXc3QGpvUCo",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:56:00"
+  }
+]

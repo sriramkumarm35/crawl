@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finplan Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "245208",
+    "phone_number": "+91 97738 85428",
+    "website": "https://finplanassociates.fundexpert.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Finplan Associates, 245208, India",
+    "area": "245208",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJC1NUZm77DDkR9jvZEhErBD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1NUZm77DDkR9jvZEhErBD4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:23"
+  },
+  {
+    "business_name": "Tax & Finance",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Service establishment, Financial consultant",
+    "pincode": "245208",
+    "phone_number": "+91 97116 25016",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 52,
+    "address": "Tax & Finance, 245208, India",
+    "area": "245208",
+    "latitude": 23.8103159,
+    "longitude": 84.3596969,
+    "place_id": "ChIJ2RaXPUMBo6sRT_faahYR0H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RaXPUMBo6sRT_faahYR0H8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.I Trading Company",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "244925",
+    "phone_number": "+91 89798 71642",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 2 And 3, Nainital Rd, Rampur, Tanda, Uttar Pradesh 244925",
+    "area": "244925",
+    "latitude": 28.976803699999998,
+    "longitude": 78.9470321,
+    "place_id": "ChIJpXMbgU5fCjkRYEyAthey1bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXMbgU5fCjkRYEyAthey1bE",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:38:13"
+  },
+  {
+    "business_name": "Fruit and Vegetable Company",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "244925",
+    "phone_number": "+91 98372 22382",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naveen mandi, Dungarpur, Uttar Pradesh 244901",
+    "area": "244925",
+    "latitude": 28.8336163,
+    "longitude": 79.03907989999999,
+    "place_id": "ChIJLZOMV6GNCjkRkkL09Y1KxU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZOMV6GNCjkRkkL09Y1KxU4",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:38:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naagar Printing Press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer",
+    "pincode": "244713",
+    "phone_number": "+91 99175 38933",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chandra Chicken, Wali Gali, Bazpur, Uttarakhand 262401",
+    "area": "244713",
+    "latitude": 29.158101199999997,
+    "longitude": 79.1510763,
+    "place_id": "ChIJr05FH4FlCjkR6KwKVDa3PJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr05FH4FlCjkR6KwKVDa3PJg",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:22:07"
+  },
+  {
+    "business_name": "Singh taxi",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer",
+    "pincode": "244713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramnagar Rd, kashipur, Kashipur, Uttarakhand 244713",
+    "area": "kashipur",
+    "latitude": 29.2119695,
+    "longitude": 78.9632807,
+    "place_id": "ChIJxagbK79DCjkRXjPOUmiN26A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxagbK79DCjkRXjPOUmiN26A",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:22:10"
+  }
+]

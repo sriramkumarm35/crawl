@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meena Bazaar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "245208",
+    "phone_number": "+91 120 415 2001",
+    "website": "http://meenabazaar.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "UGF-7, Gulmohar Rd, Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.6342611,
+    "longitude": 77.36958779999999,
+    "place_id": "ChIJ3_QCrVPlDDkR9b5qdWhx3zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_QCrVPlDDkR9b5qdWhx3zc",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:12"
+  },
+  {
+    "business_name": "Meraki Ethnic Wear",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "245208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No. UG-14, Orbit plaza, Crossings Republik, Ghaziabad, Uttar Pradesh 201016",
+    "area": "Crossings Republik",
+    "latitude": 28.6314846,
+    "longitude": 77.43503849999999,
+    "place_id": "ChIJXZtqLsnvDDkRmxoiqo39HxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZtqLsnvDDkRmxoiqo39HxI",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:54:12"
+  }
+]

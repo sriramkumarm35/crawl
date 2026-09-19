@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TechInvadors",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "245208",
+    "phone_number": "N/A",
+    "website": "http://techinvadors.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "TechInvadors, 245208, India",
+    "area": "245208",
+    "latitude": 14.157641199999999,
+    "longitude": -106.69185949999999,
+    "place_id": "ChIJq6qu5UIiyUwRknLfyE1ej2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qu5UIiyUwRknLfyE1ej2o",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:39"
+  },
+  {
+    "business_name": "Call Center Dashboards",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "245208",
+    "phone_number": "N/A",
+    "website": "https://www.callcenterdashboards.com/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Call Center Dashboards, 245208, India",
+    "area": "245208",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJQ7WMALmapgARZVLRuPakFTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7WMALmapgARZVLRuPakFTQ",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:55:40"
+  }
+]

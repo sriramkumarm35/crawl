@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Singh Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "244716",
+    "phone_number": "+91 98372 53958",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Drona Sagar Road Gandhi Aashram Market, Kashipur, Uttarakhand 244713",
+    "area": "Arya Nagar",
+    "latitude": 29.208816,
+    "longitude": 78.9642284,
+    "place_id": "ChIJZcs4lbtDCjkREKlFBAp1wOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcs4lbtDCjkREKlFBAp1wOw",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:24:58"
+  },
+  {
+    "business_name": "Car Care Center",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "244716",
+    "phone_number": "+91 97562 04288",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Cantt Rd, Jakhni, Pithoragarh, Uttarakhand 262501",
+    "area": "Jakhni",
+    "latitude": 29.5828553,
+    "longitude": 80.21935169999999,
+    "place_id": "ChIJTbylMr0loTkRFkIH0fQHDko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbylMr0loTkRFkIH0fQHDko",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:25:01"
+  }
+]

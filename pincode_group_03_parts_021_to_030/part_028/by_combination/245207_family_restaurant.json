@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Bhoj Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "245207",
+    "phone_number": "+91 99909 02303",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C-45, opposite BRIGHTLAND SCHOOL, Karpooripuram, Block C, Mishal Garhi, Govindpuram, Ghaziabad, Uttar Pradesh 201013",
+    "area": "Karpooripuram, Block C, Mishal Garhi, Govindpuram",
+    "latitude": 28.6823268,
+    "longitude": 77.4924186,
+    "place_id": "ChIJ1QVJbTjyDDkRJOWvbK5xDN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QVJbTjyDDkRJOWvbK5xDN8",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:52:24"
+  },
+  {
+    "business_name": "Sanwariya family food corner",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "245207",
+    "phone_number": "+91 93893 63673",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Hapur road, near govt society, B.B. Nagar, Uttar Pradesh 203402",
+    "area": "245207",
+    "latitude": 28.647049199999998,
+    "longitude": 77.9547219,
+    "place_id": "ChIJLw97UJhjCzkRrc0tl-8KZyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLw97UJhjCzkRrc0tl-8KZyY",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:52:25"
+  }
+]

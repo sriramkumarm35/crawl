@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Warsi The Designer Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "244901",
+    "phone_number": "+91 90843 99586",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q2H8+8WV, CRPF Rd, Jwala Nagar, Rampur, Uttar Pradesh 244901",
+    "area": "Jwala Nagar",
+    "latitude": 28.7783727,
+    "longitude": 79.0172887,
+    "place_id": "ChIJlQ9aklTtCjkRnLy3xgGqy0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQ9aklTtCjkRnLy3xgGqy0k",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:30:00"
+  },
+  {
+    "business_name": "sparrow boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store, Designer Clothing Store, Trailer repair shop",
+    "pincode": "244901",
+    "phone_number": "+91 90273 78331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tat shah miya, Mohalla ghair salawat tat shah miya babu bhai ki dukan, Danka sha miya, Bareilly Gate Rd, Rampur, Uttar Pradesh 244901",
+    "area": "Mohsin -E- Azam Colony, Civil Lines",
+    "latitude": 28.7983804,
+    "longitude": 79.0225926,
+    "place_id": "ChIJCyESkLyNCjkRnIixulO1eWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyESkLyNCjkRnIixulO1eWk",
+    "part_id": "part_028",
+    "crawled_at": "2026-09-19 09:30:01"
+  }
+]
