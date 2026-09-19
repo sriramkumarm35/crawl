@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAVVISH BOUTIQUE",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Designer Clothing Store",
+    "pincode": "226027",
+    "phone_number": "+91 70006 48256",
+    "website": "https://www.lavvish.in/",
+    "rating": 4.9,
+    "reviews_count": 124,
+    "address": "Industry House, LG-9, Ratnamani Complex, Road, opposite Tinkus, New Palasia, Indore, Madhya Pradesh 452001",
+    "area": "New Palasia",
+    "latitude": 22.727461899999998,
+    "longitude": 75.8841671,
+    "place_id": "ChIJB0RhGtP9YjkRo2WAPZMg5UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0RhGtP9YjkRo2WAPZMg5UM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:08"
+  },
+  {
+    "business_name": "SHREE - She is Special",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Dress store, Fabric wholesaler, Plus Size Clothing Store",
+    "pincode": "226027",
+    "phone_number": "+91 522 431 7362",
+    "website": "http://byshree.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sahu Building, Mahatma Gandhi Marg, Narpatkhera, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Narpatkhera, Hazratganj",
+    "latitude": 26.8469959,
+    "longitude": 80.9455258,
+    "place_id": "ChIJjRiRoQDrDzkRcBSicq9Giuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRiRoQDrDzkRcBSicq9Giuo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:10"
+  }
+]

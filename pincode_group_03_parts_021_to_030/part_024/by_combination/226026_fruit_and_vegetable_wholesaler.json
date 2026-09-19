@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrish Fresh Vegetable shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store, Produce market",
+    "pincode": "226026",
+    "phone_number": "+91 63920 56595",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Sector 3, Jankipuram Extension, Lucknow, Uttar Pradesh 226031",
+    "area": "Sector 3, Jankipuram Extension",
+    "latitude": 26.935316,
+    "longitude": 80.942317,
+    "place_id": "ChIJdTIGXydXmTkRA8htXjlR0yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTIGXydXmTkRA8htXjlR0yo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:50"
+  },
+  {
+    "business_name": "Herbeasy Agritech Private limited",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "226026",
+    "phone_number": "+91 70548 21333",
+    "website": "https://www.herbeasy.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kursi Rd, Lucknow, Paikaramau, Uttar Pradesh 226026",
+    "area": "226026",
+    "latitude": 26.9667645,
+    "longitude": 81.0022687,
+    "place_id": "ChIJo4PCYQBZmTkRZZAQc1_fXI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4PCYQBZmTkRZZAQc1_fXI8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:53"
+  }
+]

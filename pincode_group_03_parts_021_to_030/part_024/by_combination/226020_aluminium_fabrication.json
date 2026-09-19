@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Enterprises",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Door supplier",
+    "all_categories": "Door supplier, Aluminum window, Metal fabricator",
+    "pincode": "226020",
+    "phone_number": "+91 94150 88707",
+    "website": "http://jaiswalenterpriseslucknow.in/",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "Kursi Rd, Tehri Puliya, Sector 14, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Tehri Puliya, Sector 14, Vikas Nagar",
+    "latitude": 26.906713,
+    "longitude": 80.956232,
+    "place_id": "ChIJIcF6h8dXmTkRp_JIPlCzwyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcF6h8dXmTkRp_JIPlCzwyo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:16:02"
+  },
+  {
+    "business_name": "Awasthi Shutter and automation",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Automation company",
+    "all_categories": "Automation company, Fabric product manufacturer, Home automation company, Metal fabricator, Repair service, Steel fabricator",
+    "pincode": "226020",
+    "phone_number": "+91 94543 49454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 73,
+    "address": "Plot no 90 &93, Gazipur Balram Rd, fajullaganj, Madiyanva, Lucknow, Uttar Pradesh 226020",
+    "area": "fajullaganj, Madiyanva",
+    "latitude": 26.9078217,
+    "longitude": 80.90586119999999,
+    "place_id": "ChIJm7qEIHNXmTkR3Zic8fXXWNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7qEIHNXmTkR3Zic8fXXWNE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:16:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mustard Clothing",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "226030",
+    "phone_number": "+91 522 281 1012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 56,
+    "address": "1st Floor, Plot No. T-5 & T-4A, IBB-2, Lulu Mall, Shaheed Path, Sultanpur Rd, Sector B Ansal API, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.784886699999998,
+    "longitude": 80.9915336,
+    "place_id": "ChIJdy67tfXlmzkREFF7RNXnq68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdy67tfXlmzkREFF7RNXnq68",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:33:32"
+  },
+  {
+    "business_name": "Linen Club, Lulu Mall, Lucknow",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "226030",
+    "phone_number": "N/A",
+    "website": "http://www.linenclub.com/",
+    "rating": 4.8,
+    "reviews_count": 159,
+    "address": "1st Floor, Lulu Mall, Amar Shaheed Path, Golf City, Sector B Ansal API, Lucknow, Hariharpur, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.785102799999997,
+    "longitude": 80.99243469999999,
+    "place_id": "ChIJd46nkx_lmzkRFp-XtAQi5es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd46nkx_lmzkRFp-XtAQi5es",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:33:32"
+  }
+]

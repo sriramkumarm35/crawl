@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikram pet's",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "226024",
+    "phone_number": "+91 98071 84859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Sector-A, Sector L, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector-A, Sector L, Aliganj",
+    "latitude": 26.8983705,
+    "longitude": 80.94910689999999,
+    "place_id": "ChIJHYD6VCtXmTkRj4vysz7yk3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYD6VCtXmTkRj4vysz7yk3c",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:22:08"
+  },
+  {
+    "business_name": "Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "226024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "6/652, Dandiya Bazar, Sector 6, Vikas Nagar, Lucknow, Uttar Pradesh 226021",
+    "area": "Dandiya Bazar, Sector 6, Vikas Nagar",
+    "latitude": 26.887099199999998,
+    "longitude": 80.9538275,
+    "place_id": "ChIJO8ZV3wRXmTkRVHMB7wdop3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8ZV3wRXmTkRVHMB7wdop3o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:22:08"
+  }
+]

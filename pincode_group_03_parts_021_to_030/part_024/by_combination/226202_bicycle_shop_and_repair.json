@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "226202",
+    "phone_number": "+91 96645 97720",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Shop 4, Gupta cycle mart, Radhakrishna flat, Road, Near Umiya Nagar, Kasturba Nagar, New Sama, Vadodara, Gujarat 390024",
+    "area": "Near Umiya Nagar, Kasturba Nagar, New Sama",
+    "latitude": 22.346765599999998,
+    "longitude": 73.1938771,
+    "place_id": "ChIJc0C2-NfOXzkR6LrkpOJoPI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0C2-NfOXzkR6LrkpOJoPI8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:55"
+  },
+  {
+    "business_name": "Kingworld Cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rack, Bicycle rental service, Bicycle repair shop, Bicycle wholesaler, Used bicycle shop",
+    "pincode": "226202",
+    "phone_number": "+91 76008 70076",
+    "website": "http://thekingworld.com/",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "address": "2 , 3, Stone The Business Hub Dada Bhagvan Temple, A-1, Nansad Rd, opp. Green Avenue Resort, Kamrej, Surat, Gujarat 394180",
+    "area": "226202",
+    "latitude": 21.262125599999997,
+    "longitude": 72.98255139999999,
+    "place_id": "ChIJmUAO44FF4DsRjMDQ9deVEUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUAO44FF4DsRjMDQ9deVEUM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:56"
+  }
+]

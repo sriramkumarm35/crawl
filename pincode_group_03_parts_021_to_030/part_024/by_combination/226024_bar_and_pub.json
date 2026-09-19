@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Rich Table",
+    "search_category": "Bar and Pub",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "226024",
+    "phone_number": "+91 91251 28131",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Basement, Chanrapath Rd, Sector H, Sector-A, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector H, Sector-A, Aliganj",
+    "latitude": 26.8939591,
+    "longitude": 80.94361669999999,
+    "place_id": "ChIJH4QTq71XmTkRtMv8da6T1tI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4QTq71XmTkRtMv8da6T1tI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:22:18"
+  },
+  {
+    "business_name": "D’Horizon Restro & Lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store, Catering food and drink supplier, Make-up artist, Tent House Supplier, Wedding photographer, Wedding planner",
+    "pincode": "226024",
+    "phone_number": "+91 79916 33300",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Aroma Lab, 2nd Floor, B-59, Sector H, Near Puraniya Chauraha, Adjacent Fragrantor’s, Beli Garad Chauraha Main Rd, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector-A, Sector K, Aliganj",
+    "latitude": 26.8957554,
+    "longitude": 80.942285,
+    "place_id": "ChIJ-5zjc2dXmTkRI6rC1xV5n2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5zjc2dXmTkRI6rC1xV5n2Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:22:19"
+  }
+]

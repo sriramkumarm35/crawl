@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajpai Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "226025",
+    "phone_number": "+91 95067 99191",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Ln Number 9, Senani Vihar, Sainik Nagar, Telibagh, Lucknow, Uttar Pradesh 226002",
+    "area": "Senani Vihar, Sainik Nagar, Telibagh",
+    "latitude": 26.777904499999998,
+    "longitude": 80.9389219,
+    "place_id": "ChIJv-kwWEj7mzkRWa1tiKpACLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-kwWEj7mzkRWa1tiKpACLw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:23:57"
+  },
+  {
+    "business_name": "Nandi store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "226025",
+    "phone_number": "+91 90269 72805",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "7/15, Rajni Khand, Telibagh, Lucknow, Uttar Pradesh 226002",
+    "area": "Rajni Khand, Telibagh",
+    "latitude": 26.774178199999998,
+    "longitude": 80.93920729999999,
+    "place_id": "ChIJS3vc7Kf7mzkR-e2aoZ07FQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3vc7Kf7mzkR-e2aoZ07FQk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:23:57"
+  }
+]

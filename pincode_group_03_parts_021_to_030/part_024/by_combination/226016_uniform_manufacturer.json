@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Uniform (School Uniform Store)",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Bag shop, Clothing store, School center, School supply store",
+    "pincode": "226016",
+    "phone_number": "+91 76199 91755",
+    "website": "https://kiran-uniform.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no s 17, Neelgiri Complex, Ayodhya Road, Kailash Kunj, Block A, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Kailash Kunj, Block A, Indira Nagar",
+    "latitude": 26.8723989,
+    "longitude": 80.97683359999999,
+    "place_id": "ChIJebjzuBn9mzkRbtVq0142_YI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebjzuBn9mzkRbtVq0142_YI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:15"
+  },
+  {
+    "business_name": "Sumatra Industries pvt Ltd",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "226016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-2171/8, C Block, Hal, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "C Block, Hal, Indira Nagar",
+    "latitude": 26.8807734,
+    "longitude": 80.9899952,
+    "place_id": "ChIJF0EqcgDjmzkRLFViLd2ZeZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0EqcgDjmzkRLFViLd2ZeZM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:15"
+  }
+]

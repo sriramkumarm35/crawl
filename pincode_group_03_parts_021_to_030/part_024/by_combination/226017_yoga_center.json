@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The 360 fitness",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "226017",
+    "phone_number": "+91 94522 91362",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "356 235, Alamnagar Mohan Rd, near DHANIA MEHRIPUL, Habibpur, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Habibpur, Rajajipuram",
+    "latitude": 26.849802,
+    "longitude": 80.87442899999999,
+    "place_id": "ChIJJa9rMgD_mzkRnU_Mt12P9fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJa9rMgD_mzkRnU_Mt12P9fw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:09:26"
+  },
+  {
+    "business_name": "One stop academy & fitness",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "226017",
+    "phone_number": "+91 92369 58881",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sheela Garden, 356/KC426 A, Alamnagar, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Alamnagar, Rajajipuram",
+    "latitude": 26.8520261,
+    "longitude": 80.8605128,
+    "place_id": "ChIJOYQprMr_mzkRo6x1YOdRJNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYQprMr_mzkRo6x1YOdRJNc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:09:28"
+  }
+]

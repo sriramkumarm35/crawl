@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Enquiry with Krishna",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "226104",
+    "phone_number": "+91 94993 82908",
+    "website": "https://enquirywithkrishna.co.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bargadiya Chauraha Mall Lucknow, Uttar Pradesh 226104",
+    "area": "226104",
+    "latitude": 27.087501,
+    "longitude": 80.7448416,
+    "place_id": "ChIJR5Ftw0-znjkRP47NOM_-yZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5Ftw0-znjkRP47NOM_-yZ4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:43:49"
+  },
+  {
+    "business_name": "Nitin Eshop",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "226104",
+    "phone_number": "+91 93365 68464",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kala, 01 Kashmandi, Lucknow, Uttar Pradesh 226102",
+    "area": "226104",
+    "latitude": 26.9336825,
+    "longitude": 80.77457729999999,
+    "place_id": "ChIJTXYpcSmrnjkRHejrPlLhlug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXYpcSmrnjkRHejrPlLhlug",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:43:51"
+  }
+]

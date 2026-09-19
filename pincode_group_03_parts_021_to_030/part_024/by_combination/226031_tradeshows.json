@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goldewyne Events & Photography",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Photography service",
+    "pincode": "226031",
+    "phone_number": "+91 78972 55557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "383/1, Saraswatipuram, Jankipuram, Jankipuram Extension, Lucknow, Uttar Pradesh 226031",
+    "area": "Saraswatipuram, Jankipuram, Jankipuram Extension",
+    "latitude": 26.9350226,
+    "longitude": 80.950502,
+    "place_id": "ChIJzTTHvKZXmTkRxdgP4TAyFOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTTHvKZXmTkRxdgP4TAyFOA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:36:54"
+  },
+  {
+    "business_name": "Rohit Kashyap",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "226031",
+    "phone_number": "+91 93055 24606",
+    "website": "https://www.indianbagpackers.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "655A/3/120, Kursi Rd, Alkapuri, Adil Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Alkapuri, Adil Nagar",
+    "latitude": 26.9123107,
+    "longitude": 80.9632151,
+    "place_id": "ChIJBVaxBehXmTkR3bjjyE9fqZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVaxBehXmTkR3bjjyE9fqZI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:36:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premier Process",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "226027",
+    "phone_number": "+91 98390 29178",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7, C/6, Havelock Rd Colony, near Yojna Bhawan, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.8388529,
+    "longitude": 80.94282,
+    "place_id": "ChIJK1tyowj9mzkR9jtliyVIov4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1tyowj9mzkR9jtliyVIov4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:01"
+  },
+  {
+    "business_name": "Gupta offset Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "226027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mishra Market, Meja Rd, Uruwa Bazar, Lalbagh, Lucknow, Uttar Pradesh 226001",
+    "area": "Uruwa Bazar, Lalbagh",
+    "latitude": 26.8467088,
+    "longitude": 80.9461592,
+    "place_id": "ChIJMedSQDL9mzkRSg2gngLVDxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMedSQDL9mzkRSg2gngLVDxI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:01"
+  }
+]

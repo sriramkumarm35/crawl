@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "El Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "226301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "NH 30, Mohanlalganj, Bindaua, Lucknow, Uttar Pradesh 226301",
+    "area": "Mohanlalganj",
+    "latitude": 26.6341541,
+    "longitude": 80.9988264,
+    "place_id": "ChIJq1_JedvvmzkRzXigu9m779U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1_JedvvmzkRzXigu9m779U",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:03"
+  },
+  {
+    "business_name": "Gupshup cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "226301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 22,
+    "address": "Maurawan Road, opposite Krishna Nursing And Paramedical College, Mohanlalganj, Sisandi, Uttaar Gaon, Uttar Pradesh 226301",
+    "area": "Mohanlalganj",
+    "latitude": 26.6413788,
+    "longitude": 80.9403062,
+    "place_id": "ChIJA09yUgDxmzkR5mjXBIILeuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA09yUgDxmzkR5mjXBIILeuE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:05"
+  }
+]

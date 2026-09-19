@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor Ravi Kacker ENT",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "226016",
+    "phone_number": "+91 99565 52222",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 49,
+    "address": "1, Narayan Nagar, Faizabad Rd, near Rabindra Palli Colony, Lucknow, Uttar Pradesh 226016",
+    "area": "Rabindra Palli Colony",
+    "latitude": 26.8671248,
+    "longitude": 80.9816894,
+    "place_id": "ChIJEy48e079mzkR8L3lvAY9J0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy48e079mzkR8L3lvAY9J0U",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:26"
+  },
+  {
+    "business_name": "Dr. Devesh Srivastava ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Surgeon",
+    "all_categories": "Surgeon",
+    "pincode": "226016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "B-35, Bhoothnath Market, Sector 5, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Bhoothnath Market, Sector 5, Indira Nagar",
+    "latitude": 26.8730238,
+    "longitude": 80.9817099,
+    "place_id": "ChIJQ_Jv_k39mzkRBVVJSNh1C48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_Jv_k39mzkRBVVJSNh1C48",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:28"
+  }
+]

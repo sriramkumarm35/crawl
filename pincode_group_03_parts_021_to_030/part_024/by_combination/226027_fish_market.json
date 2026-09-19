@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market- Canning",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Fish store, Supermarket",
+    "pincode": "226027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 154,
+    "address": "8M7C+V7W, Canning, West Bengal 743329",
+    "area": "226027",
+    "latitude": 22.314747999999998,
+    "longitude": 88.67070939999999,
+    "place_id": "ChIJHfIBF50ZAjoROhzXYJIKnM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfIBF50ZAjoROhzXYJIKnM8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:27:50"
+  },
+  {
+    "business_name": "Fish Mandi",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "226027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WX2W+26W, Chandan Rd, Chandanapur, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Chandanapur, Indira Nagar",
+    "latitude": 26.900047899999997,
+    "longitude": 80.9957328,
+    "place_id": "ChIJAd4gYABZmTkRHdOf5dUnR9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAd4gYABZmTkRHdOf5dUnR9s",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:27:50"
+  }
+]

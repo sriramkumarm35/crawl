@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avi Catering services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "226022",
+    "phone_number": "+91 63942 45015",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 43,
+    "address": "Mathura vihar munshipulia, Shagun vatika building, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Vinayak Puram, Indira Nagar, Vikas Nagar",
+    "latitude": 26.9015263,
+    "longitude": 80.96063699999999,
+    "place_id": "ChIJU8S-BgBZmTkR8QPTB8l8DtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8S-BgBZmTkR8QPTB8l8DtM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:19:23"
+  },
+  {
+    "business_name": "Hindustan Catering Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer and Event Planner",
+    "all_categories": "Caterer and Event Planner",
+    "pincode": "226022",
+    "phone_number": "+91 93352 04816",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nazirabad Rd, Old Nazirabad, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Old Nazirabad, Khayali Ganj, Aminabad",
+    "latitude": 26.850316799999998,
+    "longitude": 80.9278546,
+    "place_id": "ChIJjcumt7v9mzkRjIlkoZHouWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcumt7v9mzkRjIlkoZHouWg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:19:24"
+  }
+]

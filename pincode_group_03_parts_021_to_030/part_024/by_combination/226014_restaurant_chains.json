@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burger King",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "226014",
+    "phone_number": "+91 86570 98576",
+    "website": "https://stores.burgerking.in/burger-king-fast-food-restaurant-sgpci-lucknow-516875/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "UG & 1st Flr, Sai Tej Cplx, No 01, PN 16, Raibareli Rd, near Nagar Nigam Food Safety, SGPGI, Vrindavan Colony, Lucknow, Uttar Pradesh 226029",
+    "area": "SGPGI, Vrindavan Colony",
+    "latitude": 26.7501474,
+    "longitude": 80.95054019999999,
+    "place_id": "ChIJB_R54Zz7mzkRj2bkncMpDSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_R54Zz7mzkRj2bkncMpDSk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:24"
+  },
+  {
+    "business_name": "Royal Cafe Lucknow",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe",
+    "pincode": "226014",
+    "phone_number": "+91 93693 51912",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "1/50, Patrakarpuram Crossing Rd, Viram Khand, Viram Khand 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Viram Khand 1, Gomti Nagar",
+    "latitude": 26.8513834,
+    "longitude": 80.9997392,
+    "place_id": "ChIJIdR0MOTimzkRheY3XRJdbuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdR0MOTimzkRheY3XRJdbuM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal Timber Stores",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "226027",
+    "phone_number": "+91 86011 88777",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Rajendra 303, Aishbagh Rd, Moti Nagar, Rajendra Nagar, Lucknow, Uttar Pradesh 226004",
+    "area": "Moti Nagar, Rajendra Nagar",
+    "latitude": 26.8410703,
+    "longitude": 80.9143422,
+    "place_id": "ChIJi2gFuc79mzkRCNpR4XvmypQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2gFuc79mzkRCNpR4XvmypQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:31"
+  },
+  {
+    "business_name": "LE Timbers",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "226027",
+    "phone_number": "+91 85439 57654",
+    "website": "https://le-timbers.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khasra, Street No. 6, Ahmamau, Uttar Pradesh 226030",
+    "area": "Bagiamau",
+    "latitude": 26.801542299999998,
+    "longitude": 81.0043915,
+    "place_id": "ChIJbyZ9yInjmzkRCKo4zBgThEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyZ9yInjmzkRCKo4zBgThEA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:32"
+  }
+]

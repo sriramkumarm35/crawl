@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.S. Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "226031",
+    "phone_number": "+91 99999 38499",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "Main Rd, near INDUS VALLEY PUBLIC SCHOOL, Rajat Vihar, Sector 53, Noida, Uttar Pradesh 201020",
+    "area": "Rajat Vihar, Sector 53",
+    "latitude": 28.6222608,
+    "longitude": 77.354878,
+    "place_id": "ChIJCf_afTjlDDkRAzb5wwFZryI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCf_afTjlDDkRAzb5wwFZryI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:58"
+  },
+  {
+    "business_name": "Mishra Automobiles And Spare Parts",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "226031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW6W+C27, Engineering College Rd, near Engineering College Crossing, Sector B, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector B, Jankipuram",
+    "latitude": 26.9110299,
+    "longitude": 80.94506129999999,
+    "place_id": "ChIJXxi5hbRXmTkRHYTpUSOJ0QI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxi5hbRXmTkRHYTpUSOJ0QI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:58"
+  }
+]

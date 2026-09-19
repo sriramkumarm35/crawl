@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "226201",
+    "phone_number": "+91 73930 68136",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "raha tha road, Chhata Meel, Jankipuram Extension, Lucknow, Uttar Pradesh 226201",
+    "area": "Chhata Meel, Jankipuram Extension",
+    "latitude": 26.9550299,
+    "longitude": 80.9311527,
+    "place_id": "ChIJU0s9QpZXmTkR1kTlIF2jUq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0s9QpZXmTkR1kTlIF2jUq0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:45:13"
+  },
+  {
+    "business_name": "LivInfra IIM Road",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "226201",
+    "phone_number": "N/A",
+    "website": "https://livinfra.co/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "IIM Tiraha IIM Road, ServiceLane, Lucknow, Uttar Pradesh 226013",
+    "area": "Madiyanva",
+    "latitude": 26.9314815,
+    "longitude": 80.9089134,
+    "place_id": "ChIJ1TfOPQJXmTkRzU43TDyCJ-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TfOPQJXmTkRzU43TDyCJ-M",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:45:13"
+  }
+]

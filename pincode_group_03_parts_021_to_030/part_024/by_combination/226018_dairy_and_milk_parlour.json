@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "226018",
+    "phone_number": "+91 99598 30633",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 9, Kesar Bagh, Maulviganj, Wazirganj, Lucknow, Uttar Pradesh 226018",
+    "area": "Kesar Bagh, Maulviganj, Wazirganj",
+    "latitude": 26.8513944,
+    "longitude": 80.925748,
+    "place_id": "ChIJt0XzWrn9mzkRAAAA0MNh5Qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0XzWrn9mzkRAAAA0MNh5Qo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:46"
+  },
+  {
+    "business_name": "Parag Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "226018",
+    "phone_number": "+91 77050 08551",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near D G P Office,Prani Uddyan, Maulviganj, Hazratganj, Lucknow, Uttar Pradesh 226018",
+    "area": "Maulviganj, Hazratganj",
+    "latitude": 26.8491938,
+    "longitude": 80.92354499999999,
+    "place_id": "ChIJo6qqqrn9mzkRYgySAplo7aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6qqqrn9mzkRYgySAplo7aY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:46"
+  }
+]

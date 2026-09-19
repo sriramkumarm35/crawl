@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Bird Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "226024",
+    "phone_number": "+91 97412 78012",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Sector 5, Sector-5, Sahu Chakki, Aliganj, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector B, Jankipuram",
+    "latitude": 26.9094919,
+    "longitude": 80.9449206,
+    "place_id": "ChIJjWkC5bRXmTkRXpwu8ukb2D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWkC5bRXmTkRXpwu8ukb2D0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:23:23"
+  },
+  {
+    "business_name": "Urban Business Point",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "226024",
+    "phone_number": "+91 70811 22889",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "212, Shekhupura, Vikas Nagar, Lucknow, Uttar Pradesh 226021",
+    "area": "Shekhupura, Vikas Nagar",
+    "latitude": 26.8910177,
+    "longitude": 80.95677169999999,
+    "place_id": "ChIJ--Nxqg1XmTkRGrWxLZIJ5K4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--Nxqg1XmTkRGrWxLZIJ5K4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:23:25"
+  }
+]

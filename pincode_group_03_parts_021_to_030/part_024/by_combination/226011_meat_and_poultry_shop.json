@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faisal Meet Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "226011",
+    "phone_number": "+91 87872 59761",
+    "website": "http://faisalmeatandchickenshop.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "126, 126, Raj Vihar Marg, Kanchana Vihari Marg, Basera Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226022",
+    "area": "Basera Vihar Colony, Raj Vihar, Jankipuram",
+    "latitude": 26.9085532,
+    "longitude": 80.9758915,
+    "place_id": "ChIJFRV0iJRXmTkRMiHDEJbQDUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRV0iJRXmTkRMiHDEJbQDUE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:57:28"
+  },
+  {
+    "business_name": "Sana Poultry& Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Food court",
+    "pincode": "226011",
+    "phone_number": "+91 94153 44571",
+    "website": "https://www.sanapoultrymeatshop.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "127, Hewett Rd, South Malak, Sabzi Mandi, Prayagraj, Uttar Pradesh 211003",
+    "area": "South Malak, Sabzi Mandi",
+    "latitude": 25.439880199999998,
+    "longitude": 81.8438774,
+    "place_id": "ChIJyxE9t1PLmjkR5KtGC-5KvAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxE9t1PLmjkR5KtGC-5KvAs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:57:30"
+  }
+]

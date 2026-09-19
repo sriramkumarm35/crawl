@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raamay Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "226031",
+    "phone_number": "+91 73792 14384",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Raamay Jewellers, 60 Feet Rd, near Atal Chauraha, Jankipuram Vistar, Lucknow, Uttar Pradesh 226031",
+    "area": "Jankipuram Vistar",
+    "latitude": 26.932828599999997,
+    "longitude": 80.9462028,
+    "place_id": "ChIJaxMCIQ9XmTkRUyIVADYorl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxMCIQ9XmTkRUyIVADYorl0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:29"
+  },
+  {
+    "business_name": "om kashi prasad & sons jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "226031",
+    "phone_number": "+91 80908 88880",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "C 270, Sector 8, Jankipuram Vistar, Lucknow, Uttar Pradesh 226031",
+    "area": "Sector 8, Jankipuram Vistar",
+    "latitude": 26.9368862,
+    "longitude": 80.9381159,
+    "place_id": "ChIJPxuwQktXmTkRS8pS3l4F36I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxuwQktXmTkRS8pS3l4F36I",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:32"
+  }
+]

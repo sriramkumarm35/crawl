@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aroma Beauty Care Unisex Salon & Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Massage therapist",
+    "pincode": "226302",
+    "phone_number": "+91 63906 25635",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 129,
+    "address": "2, First Floor, Waris Plaza, opp. Raj Hotal, near Husainganj Chauraha, Nazarbagh, Ghasyari Mandi, Aminabad, Lucknow, Uttar Pradesh 226001",
+    "area": "Nazarbagh, Ghasyari Mandi, Aminabad",
+    "latitude": 26.840125099999998,
+    "longitude": 80.93591049999999,
+    "place_id": "ChIJh5DIU7L9mzkRlbgbmgfdNyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5DIU7L9mzkRlbgbmgfdNyI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:52:42"
+  },
+  {
+    "business_name": "Royal Mens Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "226302",
+    "phone_number": "+91 93364 74008",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "28, Raibareli Rd, Lucknow, Uttar Pradesh 226302",
+    "area": "226302",
+    "latitude": 26.5638038,
+    "longitude": 81.03925869999999,
+    "place_id": "ChIJ15T1AETtmzkR1ZIQAxb-p0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15T1AETtmzkR1ZIQAxb-p0s",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:52:43"
+  }
+]

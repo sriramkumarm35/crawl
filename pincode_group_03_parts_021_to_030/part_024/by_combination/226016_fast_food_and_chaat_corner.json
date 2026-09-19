@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat King India Gomti Nagar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "226016",
+    "phone_number": "+91 93695 55633",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1/120, Viram Khand, Viram Khand 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Viram Khand 1, Gomti Nagar",
+    "latitude": 26.909446499999998,
+    "longitude": 80.95742349999999,
+    "place_id": "ChIJtdJzLADjmzkRTuc-x15ec_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdJzLADjmzkRTuc-x15ec_Y",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:05"
+  },
+  {
+    "business_name": "Rajesh Chaat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "226016",
+    "phone_number": "+91 99198 91999",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Rajesh Chaat House, Kursi Rd, Bajrang Vihar Colony, Kalyanpur (West), Lucknow, Uttar Pradesh 226026",
+    "area": "Bajrang Vihar Colony, Kalyanpur (West)",
+    "latitude": 26.9237798,
+    "longitude": 80.9688839,
+    "place_id": "ChIJk2NanaFXmTkRULKq-naGVlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2NanaFXmTkRULKq-naGVlA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rominus Pizza and Burger",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Family restaurant, Fast food restaurant, North Indian restaurant, Pizza takeaway, Restaurant",
+    "pincode": "226029",
+    "phone_number": "+91 78915 15252",
+    "website": "https://rominus.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UGF, SCO-03, Kahlon Emporium-II, Sector-12, Vrindavan Colony, Baraulikhalilabad, Uttar Pradesh 226029",
+    "area": "Sector-12, Vrindavan Colony",
+    "latitude": 26.762150799999997,
+    "longitude": 80.9661185,
+    "place_id": "ChIJ2xBairr7mzkRr3eg-4VjAT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xBairr7mzkRr3eg-4VjAT8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:42"
+  },
+  {
+    "business_name": "Krish Choco Krafts",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chocolate shop",
+    "all_categories": "Chocolate shop",
+    "pincode": "226029",
+    "phone_number": "+91 522 653 8771",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "291, Rajendra Nagar, opp. Sohan Lal Girls Inter College, Lucknow, Uttar Pradesh 226004",
+    "area": "Rajendra Nagar",
+    "latitude": 26.841244,
+    "longitude": 80.9167341,
+    "place_id": "ChIJTcdM-Mb9mzkR8jZxN8gyafU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcdM-Mb9mzkR8jZxN8gyafU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:44"
+  }
+]

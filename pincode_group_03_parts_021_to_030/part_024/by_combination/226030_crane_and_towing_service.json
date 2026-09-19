@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shai car towing service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "226030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q2X5+8VX, Autolavaado IN, Sultanpur Rd, Ahmamau, Lucknow, Uttar Pradesh 226030",
+    "area": "Bagiamau",
+    "latitude": 26.7983558,
+    "longitude": 81.00971899999999,
+    "place_id": "ChIJwQqopWDjmzkRw4H0kQwzJww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQqopWDjmzkRw4H0kQwzJww",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:34:02"
+  },
+  {
+    "business_name": "Sonkar Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "226030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q2W6+RH3, Sultanpur Rd, Khurdai Bazar, Lucknow, Ahmamau, Uttar Pradesh 226030",
+    "area": "Khurdai Bazar",
+    "latitude": 26.797002199999998,
+    "longitude": 81.0114074,
+    "place_id": "ChIJF6r6-mDjmzkR5legfLSP-vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6r6-mDjmzkR5legfLSP-vs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:34:04"
+  }
+]

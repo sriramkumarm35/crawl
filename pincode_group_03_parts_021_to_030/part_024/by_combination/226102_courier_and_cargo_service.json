@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhivery Pvt Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Logistics service",
+    "pincode": "226102",
+    "phone_number": "N/A",
+    "website": "http://www.delhivery.com/",
+    "rating": 1.7,
+    "reviews_count": null,
+    "address": "Mall Road, Malihabad, Amanigunj, Uttar Pradesh 226102",
+    "area": "226102",
+    "latitude": 26.9386895,
+    "longitude": 80.7140111,
+    "place_id": "ChIJGdd8pMypnjkRH5_hUjdG1iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdd8pMypnjkRH5_hUjdG1iU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:40:25"
+  },
+  {
+    "business_name": "Shree Maruti Courier Service - Allu Nagar Diguria",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "226102",
+    "phone_number": "+91 70540 01111",
+    "website": "https://nearme.shreemaruti.com/locator/lucknow/Allu-Nagar-Diguria/shree-maruti-courier-service-in-Allu-Nagar-Diguria-lucknow--7N1Kq9/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 35A, Khwaza Muinuddin Chisti, nearby Bhasha Vishvidyalaya, Allu Nagar Diguria, Lucknow, Uttar Pradesh 226020",
+    "area": "Prabandh Nagar, Mubarakpur",
+    "latitude": 26.9272122,
+    "longitude": 80.8969687,
+    "place_id": "ChIJ1y1_5IJVmTkR8rXK-yw6OLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1y1_5IJVmTkR8rXK-yw6OLI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:40:25"
+  }
+]

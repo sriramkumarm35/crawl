@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Engineering works",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "226016",
+    "phone_number": "+91 94555 50726",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "562A/35, Sector 3, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 3, Vikas Nagar",
+    "latitude": 26.899042899999998,
+    "longitude": 80.96043089999999,
+    "place_id": "ChIJc94DaABXmTkRspC0Zh7J5NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc94DaABXmTkRspC0Zh7J5NQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:08:35"
+  },
+  {
+    "business_name": "Jayesh Electric Motor Rewinding Workshop",
+    "search_category": "Motor Rewinding and Pump Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "226016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "Garra, Madhya Pradesh 481001",
+    "area": "226016",
+    "latitude": 21.8094975,
+    "longitude": 80.1499149,
+    "place_id": "ChIJ71-49ARZKjoRRRlvLs7T6W4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71-49ARZKjoRRRlvLs7T6W4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:08:35"
+  }
+]

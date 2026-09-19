@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simla Foot Fashion",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "226018",
+    "phone_number": "+91 94531 91786",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Road, Near Chauraha, Nazirabad, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Nazirabad, Khayali Ganj, Aminabad",
+    "latitude": 26.849090099999998,
+    "longitude": 80.92985879999999,
+    "place_id": "ChIJkSIJ37r9mzkRfRQodsBJh-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSIJ37r9mzkRfRQodsBJh-0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:11:06"
+  },
+  {
+    "business_name": "Sahu Shoe Co.",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "226018",
+    "phone_number": "+91 94157 56959",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "VW37+8PG, Nehru Cross, Nadan Mahal Rd, Kundari Rakabganj, Lucknow, Uttar Pradesh 226004",
+    "area": "Ahiyaganj Market, Kundari Rakabganj",
+    "latitude": 26.8533142,
+    "longitude": 80.91431349999999,
+    "place_id": "ChIJ5bedw8P9mzkRoU191Yqta5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bedw8P9mzkRoU191Yqta5w",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:11:08"
+  }
+]

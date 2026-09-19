@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitya smart store",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "226011",
+    "phone_number": "+91 94501 41406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kundan Nagar, Devpur, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "kundan Nagar, Devpur, Rajajipuram",
+    "latitude": 26.8249687,
+    "longitude": 80.87452309999999,
+    "place_id": "ChIJa-FYSgD_mzkRJ5beVclWXP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-FYSgD_mzkRJ5beVclWXP4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:58:37"
+  },
+  {
+    "business_name": "Imagination Gift Hub",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "226011",
+    "phone_number": "+91 81888 89858",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Talkatora Road, Alambagh Choraha, Lucknow, Uttar Pradesh 226011",
+    "area": "Chandroday Nagar, Vikram Nagar, Rajajipuram",
+    "latitude": 26.819340699999998,
+    "longitude": 80.88169529999999,
+    "place_id": "ChIJB4GdO7j9mzkR_gjF_3cU6LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4GdO7j9mzkR_gjF_3cU6LM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:58:39"
+  }
+]

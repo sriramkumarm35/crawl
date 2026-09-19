@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Piyush Balloon and flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "226302",
+    "phone_number": "+91 96954 20841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Patel Nagar bisunpur, Bachhrawan, Uttar Pradesh 229301",
+    "area": "226302",
+    "latitude": 26.471033,
+    "longitude": 81.112712,
+    "place_id": "ChIJB8GVsY2VmzkRlcMNJMZOKkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8GVsY2VmzkRlcMNJMZOKkg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:52:47"
+  },
+  {
+    "business_name": "Sugam flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "226302",
+    "phone_number": "+91 96163 49890",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sugam flower decoration, Bachhrawan, Uttar Pradesh 229301",
+    "area": "226302",
+    "latitude": 26.468083099999998,
+    "longitude": 81.1177656,
+    "place_id": "ChIJPXkgPACVmzkRiom6rTXQ2So",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXkgPACVmzkRiom6rTXQ2So",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:52:47"
+  }
+]

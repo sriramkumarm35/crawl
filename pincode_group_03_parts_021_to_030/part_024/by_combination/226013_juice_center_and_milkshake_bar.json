@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice and Shake Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "226013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "J24P+H4C, Azad Hind Fauj Marg, Kakrola, Chandra Park, Dwarka, Delhi, 110078",
+    "area": "Kakrola, Chandra Park, Dwarka",
+    "latitude": 28.606434099999998,
+    "longitude": 77.0352657,
+    "place_id": "ChIJjW7aMDUFDTkR7yQyvVlMf6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjW7aMDUFDTkR7yQyvVlMf6E",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:01:23"
+  },
+  {
+    "business_name": "New delhi juice & shake 3rd",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "226013",
+    "phone_number": "+91 89489 45841",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 27,
+    "address": "17A, Lake Place Rd, Lake Market, Kalighat, Kolkata, West Bengal 700029",
+    "area": "Lake Market, Kalighat",
+    "latitude": 22.515798399999998,
+    "longitude": 88.3506137,
+    "place_id": "ChIJQWCJO_xxAjoR8kGVIBqBuo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWCJO_xxAjoR8kGVIBqBuo4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:01:25"
+  }
+]

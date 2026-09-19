@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "226303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "sulabh Awas, Yojna Sec 1, A- 14/33, Sector 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 1, Gomti Nagar",
+    "latitude": 26.8388778,
+    "longitude": 81.0013527,
+    "place_id": "ChIJb6w1HSXjmzkRHXre2YeYzGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6w1HSXjmzkRHXre2YeYzGI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:53:43"
+  },
+  {
+    "business_name": "Poorvanchal dhaba",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Chinese restaurant, Pizza takeaway, South Indian restaurant",
+    "pincode": "226303",
+    "phone_number": "+91 88787 89789",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Sultanpur Rd, near excella tower, Bakkas, Uttar Pradesh 226001",
+    "area": "226303",
+    "latitude": 26.779784199999998,
+    "longitude": 81.0572717,
+    "place_id": "ChIJQVOzRhW1mzkR6ljFJHXJEq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVOzRhW1mzkR6ljFJHXJEq4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:53:46"
+  }
+]

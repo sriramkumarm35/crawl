@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejas fast food and restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "226104",
+    "phone_number": "+91 80094 13919",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Tejas fast food and restaurant, in front of GCRG college, Bakshi Ka Talab, Lucknow, Parvatpur, Uttar Pradesh 226201",
+    "area": "Bakshi Ka Talab",
+    "latitude": 26.999043999999998,
+    "longitude": 80.8830031,
+    "place_id": "ChIJq7W6d5NXmTkRzDBYO9b-2C4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7W6d5NXmTkRzDBYO9b-2C4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:42:47"
+  },
+  {
+    "business_name": "Mamma's Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "226104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Shop no. 1, Mamma's Kitchen Mall, Bharawan road, opp. Dr. HDS School, Malihabad, Mall, Ram Nagar, Uttar Pradesh 226104",
+    "area": "Malihabad",
+    "latitude": 27.0267013,
+    "longitude": 80.7400625,
+    "place_id": "ChIJoaWeYcutnjkRTw5YlzOHBhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaWeYcutnjkRTw5YlzOHBhs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:42:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biba",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "226022",
+    "phone_number": "+91 522 431 5919",
+    "website": "https://www.biba.in/",
+    "rating": 4.2,
+    "reviews_count": 27,
+    "address": "2, 3, Lohiya Nagar Rd, Sector 2, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 2, Vikas Nagar",
+    "latitude": 26.896574299999997,
+    "longitude": 80.9591961,
+    "place_id": "ChIJNTwzlYZXmTkRMJm8rT9OO6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTwzlYZXmTkRMJm8rT9OO6s",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:18:32"
+  },
+  {
+    "business_name": "S. K. FANCY DRESS HOUSE & STATIONARY",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "226022",
+    "phone_number": "+91 80814 40960",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5/429, near Prime Dental Care, Sector 5, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 5, Vikas Nagar",
+    "latitude": 26.8959594,
+    "longitude": 80.96405419999999,
+    "place_id": "ChIJFXeJKc3jmzkRgSTolUiIHl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXeJKc3jmzkRgSTolUiIHl8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:18:33"
+  }
+]

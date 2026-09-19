@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian electric",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "226016",
+    "phone_number": "+91 83181 40083",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "WX79+GX5 Shalini complex gole chauraha, Kanchana Bihari Marg, Unity City Colony, ∙ Choose area, Places, Kalyanpur (West), Lucknow, Uttar Pradesh 226022",
+    "area": "Unity City Colony, ∙ Choose area, Places, Kalyanpur (West)",
+    "latitude": 26.9139238,
+    "longitude": 80.9701348,
+    "place_id": "ChIJ0_ozFtxXmTkRwaHaCDf5TMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_ozFtxXmTkRwaHaCDf5TMM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:41"
+  },
+  {
+    "business_name": "Sheel Enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electronics wholesaler",
+    "pincode": "226016",
+    "phone_number": "+91 94522 68440",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B 1617, near Sai Mandir, B Block, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "B Block, Indira Nagar",
+    "latitude": 26.879127999999998,
+    "longitude": 80.9831536,
+    "place_id": "ChIJHfqJEqvimzkRyw-0461Vfgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfqJEqvimzkRyw-0461Vfgo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:07:43"
+  }
+]

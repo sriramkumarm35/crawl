@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Mobile Shoppe",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electrical appliance wholesaler, Electrical products wholesaler, Electronics wholesaler",
+    "pincode": "226018",
+    "phone_number": "+91 90443 92123",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Ganga Prasad Rd, near Aryavart bank, Pandey Ganj, Dugawan, Kundari Rakabganj, Lucknow, Uttar Pradesh 226018",
+    "area": "Pandey Ganj, Dugawan, Kundari Rakabganj",
+    "latitude": 26.850937499999997,
+    "longitude": 80.9185897,
+    "place_id": "ChIJo6qqqrn9mzkR3P96nV3Ic64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6qqqrn9mzkR3P96nV3Ic64",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:12:08"
+  },
+  {
+    "business_name": "Hello business",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "226018",
+    "phone_number": "+91 90440 11742",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "168, 63, Old Nazirabad Rd, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Khayali Ganj, Aminabad",
+    "latitude": 26.851420599999997,
+    "longitude": 80.9287988,
+    "place_id": "ChIJiU87nLv9mzkRkBH2du_Uesg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiU87nLv9mzkRkBH2du_Uesg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:12:08"
+  }
+]

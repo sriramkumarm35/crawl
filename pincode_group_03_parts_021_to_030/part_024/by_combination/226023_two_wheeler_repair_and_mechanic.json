@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN Auto Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "226023",
+    "phone_number": "+91 93077 11501",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kanpur Road, Lal Hospital to Permila Bhawan Rd, Sector D, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector D, LDA Colony",
+    "latitude": 26.7890618,
+    "longitude": 80.8972649,
+    "place_id": "ChIJlaxO9ar-mzkRhwXJqNEBmpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaxO9ar-mzkRhwXJqNEBmpU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:20:45"
+  },
+  {
+    "business_name": "Sai Genuine Parts",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "226023",
+    "phone_number": "+91 90261 63764",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No.17B,Purani Chungi, Lucknow, Uttar Pradesh 226012",
+    "area": "Hind Nagar, Sector C1, LDA Colony",
+    "latitude": 26.788090099999998,
+    "longitude": 80.88850839999999,
+    "place_id": "ChIJucJ0b63-mzkRYtTTI03oN9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucJ0b63-mzkRYtTTI03oN9M",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:20:45"
+  }
+]

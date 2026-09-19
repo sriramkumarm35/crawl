@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "226028",
+    "phone_number": "+91 88745 82472",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop Number 15, Faizabad Rd, near India Oil, Matiyari, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Matiyari, Chinhat",
+    "latitude": 26.8810216,
+    "longitude": 81.039735,
+    "place_id": "ChIJQRp-DAHjmzkR-Q4Kp6SKQEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRp-DAHjmzkR-Q4Kp6SKQEw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:30:16"
+  },
+  {
+    "business_name": "Kamlodaya Crane",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "226028",
+    "phone_number": "+91 83181 64479",
+    "website": "https://sites.google.com/view/kkamlodaya-crane",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Jagpal Khera Rd, Bharavara, Gomti Nagar, Lucknow, Uttar Pradesh 226028",
+    "area": "Bharavara, Gomti Nagar",
+    "latitude": 26.845186599999998,
+    "longitude": 81.0424464,
+    "place_id": "ChIJ27AwZwDjmzkRduZk6azgjKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27AwZwDjmzkRduZk6azgjKs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:30:17"
+  }
+]

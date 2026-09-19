@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aradhya tour and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "226104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mall, Lucknow, Uttar Pradesh 226104",
+    "area": "226104",
+    "latitude": 27.0222904,
+    "longitude": 80.7366965,
+    "place_id": "ChIJm3RxZNKtnjkRbzEhofu6HPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3RxZNKtnjkRbzEhofu6HPw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:43:16"
+  },
+  {
+    "business_name": "Universal Transport Company",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "226104",
+    "phone_number": "+91 94503 58282",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "8, Balmiki Marg, Kaiserbagh Officer's Colony, Lalbagh, Lucknow, Uttar Pradesh 226001",
+    "area": "Kaiserbagh Officer's Colony, Lalbagh",
+    "latitude": 26.848093,
+    "longitude": 80.93538749999999,
+    "place_id": "ChIJq6qq6qj9mzkRBkOIGGGgYVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6qj9mzkRBkOIGGGgYVw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:43:18"
+  }
+]

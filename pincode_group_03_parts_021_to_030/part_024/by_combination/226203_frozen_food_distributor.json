@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOMs Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "226203",
+    "phone_number": "+91 70036 49746",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "15/21 A, Mirpara Rd, near Mirpara Shakti Sangha Club, Bhatta Nagar, Liluah, Howrah, West Bengal 711203",
+    "area": "Bhatta Nagar, Liluah",
+    "latitude": 22.6209022,
+    "longitude": 88.3258161,
+    "place_id": "ChIJ1QIVRCGd-DkRku-3ibl6SXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QIVRCGd-DkRku-3ibl6SXk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:08"
+  },
+  {
+    "business_name": "Samoli Distributors Pvt Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "226203",
+    "phone_number": "+91 90999 10615",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 22,
+    "address": "Avishkar Complex, SB -51 & 59, D Tower, Old Padra Rd, Vadodara, Gujarat 390007",
+    "area": "Vidyutnagar Colony, IOC Nagar, Akota",
+    "latitude": 22.2981293,
+    "longitude": 73.16589139999999,
+    "place_id": "ChIJW5uRJqXIXzkRwxsrkv5IomA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5uRJqXIXzkRwxsrkv5IomA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:09"
+  }
+]

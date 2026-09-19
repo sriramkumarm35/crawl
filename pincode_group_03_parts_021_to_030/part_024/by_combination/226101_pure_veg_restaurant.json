@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Ji Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Restaurant",
+    "pincode": "226101",
+    "phone_number": "+91 95199 76412",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "RRMF+95F, Mohan Rd, Sarosa Bharosa, Narona, Uttar Pradesh 226101",
+    "area": "226101",
+    "latitude": 26.8334473,
+    "longitude": 80.8229204,
+    "place_id": "ChIJQ4Hem5z_mzkRKZTc9OzvgYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4Hem5z_mzkRKZTc9OzvgYY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:12"
+  },
+  {
+    "business_name": "Ramsharanam Rural Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Buffet restaurant",
+    "all_categories": "Buffet restaurant",
+    "pincode": "226101",
+    "phone_number": "+91 82998 47039",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Service Lane, Agra - Lucknow Expy, near Revari Toll Plaza, Indrawara, Adampur, Gahalwara, Uttar Pradesh 226101",
+    "area": "Indrawara",
+    "latitude": 26.842105699999998,
+    "longitude": 80.7219664,
+    "place_id": "ChIJQUsKLh4BnDkRaywsVxLaHPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUsKLh4BnDkRaywsVxLaHPw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:15"
+  }
+]

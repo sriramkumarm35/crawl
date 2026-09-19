@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa kamakhya Departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, General store",
+    "pincode": "226011",
+    "phone_number": "+91 60058 32276",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "545 Ka/N.K. 243, opposite S.B.N. inter college, Narpat Khera, Para, Lucknow, Uttar Pradesh 226011",
+    "area": "Narpat Khera, Para",
+    "latitude": 26.821335299999998,
+    "longitude": 80.86849889999999,
+    "place_id": "ChIJL398b9r_mzkRr_usKjykOXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL398b9r_mzkRr_usKjykOXw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:57:25"
+  },
+  {
+    "business_name": "Mukesh Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "226011",
+    "phone_number": "+91 72190 93592",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "545/KA/NP118, 545, KA/NP118, New Para Colony, Devpur, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "New Para Colony, Devpur, Rajajipuram",
+    "latitude": 26.8307212,
+    "longitude": 80.8732558,
+    "place_id": "ChIJIbYAt6z_mzkRSalAOjVSvek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbYAt6z_mzkRSalAOjVSvek",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:57:25"
+  }
+]

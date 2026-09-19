@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hi-tech",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "226302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "H4R6+WQ5, Nahar Marg, Salempur Achaka, Samesee, Uttar Pradesh 226303",
+    "area": "226302",
+    "latitude": 26.5922631,
+    "longitude": 81.11197609999999,
+    "place_id": "ChIJ94DSaT7rmzkRmqsQGf40uao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94DSaT7rmzkRmqsQGf40uao",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:45"
+  },
+  {
+    "business_name": "Anand Super Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store, General store, Indian grocery store",
+    "pincode": "226302",
+    "phone_number": "+91 91962 53150",
+    "website": "https://www.instagram.com/reel/DaAbSxMCee1/?igsi=MWh6MzFzeGYxYWpobQ==",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H246+8J5 अशोक कुमार सब्जी विक्रेता, nearby Address:, Nahar khera, Raghunath Khera, Uttar Pradesh 226302",
+    "area": "Nahar khera",
+    "latitude": 26.5554851,
+    "longitude": 81.0114615,
+    "place_id": "ChIJ998FR6btmzkRxasP1O5yTQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ998FR6btmzkRxasP1O5yTQ4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:45"
+  }
+]

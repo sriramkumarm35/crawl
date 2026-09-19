@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guddu Electronics",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "226203",
+    "phone_number": "+91 94521 82875",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 10,
+    "address": "Near OBC Bank Itaunja, Lucknow, Uttar Pradesh 226203",
+    "area": "226203",
+    "latitude": 27.082245,
+    "longitude": 80.894549,
+    "place_id": "ChIJDWsQwONNmTkRLPpWR34svEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWsQwONNmTkRLPpWR34svEM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:22"
+  },
+  {
+    "business_name": "SHARMA MOBILE SHOP",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "226203",
+    "phone_number": "+91 83183 62266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FI Plaza, Kapoorthla, Sector A, Lucknow, Uttar Pradesh 226024",
+    "area": "Kapoorthla, Sector A",
+    "latitude": 26.8796134,
+    "longitude": 80.94585649999999,
+    "place_id": "ChIJIbpS5rn9mzkRfMIy4dYYUpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbpS5rn9mzkRfMIy4dYYUpY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:24"
+  }
+]

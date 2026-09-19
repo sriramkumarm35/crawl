@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALBORZ MULTICUISINE RESTAURANT - ARABIC & KASHMIRI",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Middle Eastern restaurant",
+    "all_categories": "Middle Eastern restaurant, Afghan restaurant, Arab restaurant, Awadhi Restaurant, Kashmiri restaurant, Mughlai restaurant, Pakistani restaurant, Turkish restaurant",
+    "pincode": "226020",
+    "phone_number": "+91 93354 02399",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "35-A,chandralok, Kapoorthala Road, above Bata showroom, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Aliganj",
+    "latitude": 26.8853138,
+    "longitude": 80.94288139999999,
+    "place_id": "ChIJcSPEZQ1XmTkRLhTkNAOXjUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSPEZQ1XmTkRLhTkNAOXjUk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:14:34"
+  },
+  {
+    "business_name": "Rajdhani Veg Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "226020",
+    "phone_number": "+91 99351 82000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ED-608, Sector Q, Sector-A, Sector K, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector Q, Sector-A, Sector K, Aliganj",
+    "latitude": 26.8982843,
+    "longitude": 80.94416919999999,
+    "place_id": "ChIJgz1fVzZXmTkRhag6-gCWk_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgz1fVzZXmTkRhag6-gCWk_o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:14:34"
+  }
+]

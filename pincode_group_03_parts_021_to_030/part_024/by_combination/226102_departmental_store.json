@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Banke Bihari RCM Wonder World Quick",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "226102",
+    "phone_number": "+91 98386 80772",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amrapali Yojna, H-3/270, Sitapur Bypass Dubagga, near power House, Lucknow, Uttar Pradesh 226102",
+    "area": "226102",
+    "latitude": 26.891502799999998,
+    "longitude": 80.86572369999999,
+    "place_id": "ChIJdRCdaIlVmTkR46Jv8oIQYKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRCdaIlVmTkR46Jv8oIQYKQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:38:57"
+  },
+  {
+    "business_name": "Gyan Supermarket",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "226102",
+    "phone_number": "+91 75181 70905",
+    "website": "https://gyansupermarket.com/",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "market, Raitha Rd, BKT, Sairpur, Lucknow, Uttar Pradesh 226201",
+    "area": "BKT",
+    "latitude": 26.9726981,
+    "longitude": 80.880375,
+    "place_id": "ChIJreLXUW9TmTkRfGf3_jy4VZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreLXUW9TmTkRfGf3_jy4VZQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:38:57"
+  }
+]

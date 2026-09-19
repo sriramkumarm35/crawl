@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC- COMMON SERVICE CENTER",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "226013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DSE-159/160, Lucknow, Misripur, Uttar Pradesh 226026",
+    "area": "226013",
+    "latitude": 26.948530899999998,
+    "longitude": 80.9705292,
+    "place_id": "ChIJn1CxLMZXmTkRt4Ok6T-x0nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1CxLMZXmTkRt4Ok6T-x0nI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:02:41"
+  },
+  {
+    "business_name": "Sageer Communication (CSC) Jan Sewa Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Consultant, E-commerce service",
+    "pincode": "226013",
+    "phone_number": "+91 79856 78731",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Shop No.1 Behind Babu Tea Canteen Durgadevi Road, Near Indian Gas Godam, Mohni Purwa, Husainabad, Lucknow, Uttar Pradesh 226003",
+    "area": "Murg Khana, Husainabad",
+    "latitude": 26.880941399999998,
+    "longitude": 80.9042625,
+    "place_id": "ChIJDZV1HQJWmTkRAOcacX8r7Kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZV1HQJWmTkRAOcacX8r7Kk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:02:41"
+  }
+]

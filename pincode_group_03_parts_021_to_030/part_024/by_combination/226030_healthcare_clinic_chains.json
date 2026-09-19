@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Public medical center",
+    "all_categories": "Public medical center",
+    "pincode": "226030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VV5V+C84, Chhote Sahab Alam Rd, Katra Bizanbeg, Nurbari, Lucknow, Uttar Pradesh 226003",
+    "area": "Katra Bizanbeg, Nurbari",
+    "latitude": 26.8585155,
+    "longitude": 80.8933284,
+    "place_id": "ChIJAVwYfAv-mzkRtzfSs0rOfQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVwYfAv-mzkRtzfSs0rOfQc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:33:55"
+  },
+  {
+    "business_name": "Health Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "226030",
+    "phone_number": "+91 94151 42380",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VWWG+47H, Bandha Rd, Adarsh Puram, Fazullaganj, Lucknow, Uttar Pradesh 226020",
+    "area": "Adarsh Puram, Fazullaganj",
+    "latitude": 26.8953211,
+    "longitude": 80.9257499,
+    "place_id": "ChIJ13kqmzxWmTkRHwG-DEaKFXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13kqmzxWmTkRHwG-DEaKFXY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:33:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Car washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "226301",
+    "phone_number": "+91 79850 72930",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Balaji Car wash, Mohanlalganj, Gaura, Uttar Pradesh 226301",
+    "area": "Mohanlalganj",
+    "latitude": 26.6585079,
+    "longitude": 80.9903428,
+    "place_id": "ChIJgw5gOjjxmzkRbaKtc7liCyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgw5gOjjxmzkRbaKtc7liCyA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:27"
+  },
+  {
+    "business_name": "Royale wheels and carwash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Wheel alignment service",
+    "pincode": "226301",
+    "phone_number": "+91 80900 87758",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pintal park city, Lucknow, Chak Kajehra, Uttar Pradesh 226002",
+    "area": "226301",
+    "latitude": 26.7862054,
+    "longitude": 81.02997959999999,
+    "place_id": "ChIJQVql79jjmzkR92s01KesZZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVql79jjmzkR92s01KesZZI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:27"
+  }
+]

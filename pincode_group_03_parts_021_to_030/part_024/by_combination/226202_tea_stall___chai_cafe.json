@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bun Makkhan Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Cafe",
+    "pincode": "226202",
+    "phone_number": "+91 89577 44345",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Chandrika Dvi, Mandir Rd, Uttar Pradesh 226202",
+    "area": "226202",
+    "latitude": 27.0131703,
+    "longitude": 80.85703339999999,
+    "place_id": "ChIJD04O9AxTmTkRPvpRQaRDuUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD04O9AxTmTkRPvpRQaRDuUA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:22"
+  },
+  {
+    "business_name": "Bun Maska Chai (B.M.C)",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "226202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2V74+7RH, Chandrika Devi Rd, Hardhaurpur, Uttar Pradesh 226202",
+    "area": "226202",
+    "latitude": 27.013199099999998,
+    "longitude": 80.85712099999999,
+    "place_id": "ChIJU_AWFD5TmTkRmgODsuvGivU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_AWFD5TmTkRmgODsuvGivU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:24"
+  }
+]

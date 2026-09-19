@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cycle Puncture Repairing Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "226101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62/15, Jhopat Patati, Vasant Kunj, Lucknow, Uttar Pradesh 226003",
+    "area": "Jhopat Patati, Vasant Kunj",
+    "latitude": 26.876690099999998,
+    "longitude": 80.8557007,
+    "place_id": "ChIJLVgaEQD_mzkRR70nOhiESwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVgaEQD_mzkRR70nOhiESwE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:45"
+  },
+  {
+    "business_name": "Hindustan Bike Reparing Center",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "226101",
+    "phone_number": "+91 97947 26828",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, Dubgga Machali Mandi, Barawan Kalan, Uttar Pradesh 226003",
+    "area": "226101",
+    "latitude": 26.889560499999998,
+    "longitude": 80.8529757,
+    "place_id": "ChIJ4zDPqJJVmTkRFT-G01aYY0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zDPqJJVmTkRFT-G01aYY0Y",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:45"
+  }
+]

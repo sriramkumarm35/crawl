@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gallery Espace",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "226027",
+    "phone_number": "+91 11 2692 2947",
+    "website": "http://www.galleryespace.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Trimurti Building, 16, Sujan Mohinder Rd, near Surya Hotel, Block A, New Friends Colony, New Delhi, Delhi 110025",
+    "area": "Block A, New Friends Colony",
+    "latitude": 28.5621759,
+    "longitude": 77.268734,
+    "place_id": "ChIJYxLPP5rjDDkRShnF5-ZNETQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxLPP5rjDDkRShnF5-ZNETQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:21"
+  },
+  {
+    "business_name": "DAG",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery, Art center, Art museum, Artist",
+    "pincode": "226027",
+    "phone_number": "+91 11 6926 5000",
+    "website": "https://dagworld.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "22A, Janpath Rd, Windsor Place, New Delhi, Delhi 110001",
+    "area": "Windsor Place",
+    "latitude": 28.618115099999997,
+    "longitude": 77.21913669999999,
+    "place_id": "ChIJBf3Q2WnjDDkRxJg8w5JMHx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBf3Q2WnjDDkRxJg8w5JMHx4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:21"
+  }
+]

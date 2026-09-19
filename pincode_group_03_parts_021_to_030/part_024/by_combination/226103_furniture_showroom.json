@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "226103",
+    "phone_number": "+91 90445 74326",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near kashiram colony, opposite Sandila, Sandila, Uttar Pradesh 241204",
+    "area": "226103",
+    "latitude": 27.0783576,
+    "longitude": 80.5234503,
+    "place_id": "ChIJW0Piyge9njkRh7ETh1OnWvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0Piyge9njkRh7ETh1OnWvc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:41:42"
+  },
+  {
+    "business_name": "Meena Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Interior designer",
+    "pincode": "226103",
+    "phone_number": "+91 99354 96039",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tampostand Tampostand Mohan Road, Malihabad, Uttar Pradesh 226102",
+    "area": "226103",
+    "latitude": 26.9193797,
+    "longitude": 80.7143768,
+    "place_id": "ChIJsz_5TAGpnjkRPbpmuK0n5r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsz_5TAGpnjkRPbpmuK0n5r8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:41:42"
+  }
+]

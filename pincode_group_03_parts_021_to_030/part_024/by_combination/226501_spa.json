@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ora Thai Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Health spa, Thai massage therapist, Wellness center",
+    "pincode": "226501",
+    "phone_number": "+91 88533 03201",
+    "website": "https://orathaispa.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M I Rustle court, MI, 6/799, behind Mi, Sector 6, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 6, Gomti Nagar",
+    "latitude": 26.8241703,
+    "longitude": 81.0142426,
+    "place_id": "ChIJ31vgQUzjmzkRjea0sHwpR8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31vgQUzjmzkRjea0sHwpR8U",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:58:11"
+  },
+  {
+    "business_name": "Blue Beauty Spa & Salon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "226501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kh 277/1, chinhat, Lolai, Lucknow, Uttar Pradesh 226010",
+    "area": "chinhat",
+    "latitude": 26.8521698,
+    "longitude": 81.06166619999999,
+    "place_id": "ChIJO8xejmPjmzkRyo7qLHxsiOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8xejmPjmzkRyo7qLHxsiOA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:58:11"
+  }
+]

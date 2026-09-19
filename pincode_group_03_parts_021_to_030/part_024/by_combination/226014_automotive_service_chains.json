@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "myTVS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "226014",
+    "phone_number": "+91 91517 31114",
+    "website": "https://mytvs.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V S Automobiles, Four Wheeler Services KHASRA NO 798 EKTA NAGAR COLONY NEAR PGI KALLI PASCHIM, Lucknow, Uttar Pradesh 226301",
+    "area": "Rashmi Khand, Ekta Nagar",
+    "latitude": 26.7364794,
+    "longitude": 80.9485851,
+    "place_id": "ChIJz0BOz937mzkRaJZ-GPDmcls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0BOz937mzkRaJZ-GPDmcls",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:54"
+  },
+  {
+    "business_name": "Beekay Distributors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "226014",
+    "phone_number": "+91 522 605 3099",
+    "website": "http://beekaygroup.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RW26+45H, VIP Rd, Virat Nagar, Kasimpur Patri, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Virat Nagar, Kasimpur Patri, Alambagh",
+    "latitude": 26.8003061,
+    "longitude": 80.91046899999999,
+    "place_id": "ChIJA20EbRD8mzkRGBQ2tNMIiDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA20EbRD8mzkRGBQ2tNMIiDk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:55"
+  }
+]

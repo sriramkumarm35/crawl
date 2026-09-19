@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangam Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Breakfast restaurant, Chinese restaurant, Vegetarian restaurant",
+    "pincode": "226013",
+    "phone_number": "+91 75100 08595",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "5/357, Sitapur Rd, Sector 5, Jankipuram Vistar, Lucknow, Uttar Pradesh 226031",
+    "area": "Sector 5, Jankipuram Vistar",
+    "latitude": 26.9365363,
+    "longitude": 80.94538039999999,
+    "place_id": "ChIJQy3LRwJXmTkR9kVcT7wZzoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy3LRwJXmTkR9kVcT7wZzoQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:01:29"
+  },
+  {
+    "business_name": "Chaman Mishtan Bhandar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Asian restaurant, Breakfast restaurant, South Asian restaurant",
+    "pincode": "226013",
+    "phone_number": "+91 81819 06233",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "3, Adarsh Puram, Sitapur Road, Adarsh Puram, Triveni Nagar, Near Galla Mandi, Triveni Nagar, Lucknow, Uttar Pradesh 226020",
+    "area": "Shivpuram, Triveni Nagar",
+    "latitude": 26.889899399999997,
+    "longitude": 80.9274327,
+    "place_id": "ChIJ5eQBeyhWmTkRCJmJ2ynlAkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5eQBeyhWmTkRCJmJ2ynlAkU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:01:30"
+  }
+]

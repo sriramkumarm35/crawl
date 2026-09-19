@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plan B Cafe and Lounge",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "226018",
+    "phone_number": "+91 90050 96007",
+    "website": "https://kempinskihotellucknow.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plan B, 32A, Station Rd, Charbagh, Husainganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Charbagh, Husainganj",
+    "latitude": 26.835518,
+    "longitude": 80.933154,
+    "place_id": "ChIJp6H_D6H9mzkRs6F3fwCXIi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6H_D6H9mzkRs6F3fwCXIi0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:56"
+  },
+  {
+    "business_name": "TAMILNADU DOSA POINT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "226018",
+    "phone_number": "+91 98846 46885",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "G-22,GAPAL JI BAZAR, Ganne Wali Gali, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Kamla Market, Swadeshi Market, Aminabad",
+    "latitude": 26.8456759,
+    "longitude": 80.9262025,
+    "place_id": "ChIJy7oxghf9mzkRJWGvPeDy7DA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7oxghf9mzkRJWGvPeDy7DA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:59"
+  }
+]

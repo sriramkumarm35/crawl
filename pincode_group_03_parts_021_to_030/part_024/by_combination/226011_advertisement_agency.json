@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bluwin Infotech",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency",
+    "pincode": "226011",
+    "phone_number": "+91 97177 87588",
+    "website": "https://www.bluwininfotech.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "548 V/422, Hardoi Ring Road, Chandroday Nagar, Vikram Nagar, Rajajipuram, Lucknow, Uttar Pradesh 226011",
+    "area": "Chandroday Nagar, Vikram Nagar, Rajajipuram",
+    "latitude": 26.81862,
+    "longitude": 80.880909,
+    "place_id": "ChIJx6Tm0OngZQgRVW0ixsBtglQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6Tm0OngZQgRVW0ixsBtglQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:59:12"
+  },
+  {
+    "business_name": "Digirizers",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Internet marketing service, Graphic designer, Marketing agency, Website designer",
+    "pincode": "226011",
+    "phone_number": "+91 73099 91474",
+    "website": "https://digirizers.framer.ai/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "548, c241, Chandroday Nagar, Devpur, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Chandroday Nagar, Devpur, Rajajipuram",
+    "latitude": 26.8253937,
+    "longitude": 80.8806654,
+    "place_id": "ChIJE3N_EK7_mzkRBKBb9KWUaOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3N_EK7_mzkRBKBb9KWUaOo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:59:12"
+  }
+]

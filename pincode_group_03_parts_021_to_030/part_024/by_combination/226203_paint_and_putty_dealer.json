@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Paint Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "226203",
+    "phone_number": "+91 83180 80939",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Sitapur Rd, Itaunja, Uttar Pradesh 226203",
+    "area": "226203",
+    "latitude": 27.0819287,
+    "longitude": 80.89495149999999,
+    "place_id": "ChIJQ0mAy-NNmTkRsCzpaK1fjPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0mAy-NNmTkRsCzpaK1fjPs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:46"
+  },
+  {
+    "business_name": "Asia Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "226203",
+    "phone_number": "+91 81271 14012",
+    "website": "https://www.asianpaints.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Opp.Kaiserbagh Sabzi Mandi, Lucknow, Uttar Pradesh 226001",
+    "area": "Ghasyari Mandi, Aminabad",
+    "latitude": 26.8488458,
+    "longitude": 80.93109969999999,
+    "place_id": "ChIJt0Zcxbr9mzkRGb_N539eIAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0Zcxbr9mzkRGb_N539eIAM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:48"
+  }
+]

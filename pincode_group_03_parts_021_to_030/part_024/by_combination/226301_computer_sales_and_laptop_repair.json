@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishi computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "226301",
+    "phone_number": "+91 80090 87022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Rishi computer, near ragistrar office, Bijnor, Uttar Pradesh 226002",
+    "area": "226301",
+    "latitude": 26.7324891,
+    "longitude": 80.9017854,
+    "place_id": "ChIJLc2Xa9z7mzkR8vSn5iNtGt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLc2Xa9z7mzkR8vSn5iNtGt4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:14"
+  },
+  {
+    "business_name": "Digital World",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store",
+    "pincode": "226301",
+    "phone_number": "+91 70078 23383",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "Bijnour, CRPF Road, near Union Bank, Bijnor, Lucknow, Uttar Pradesh 226002",
+    "area": "226301",
+    "latitude": 26.7346127,
+    "longitude": 80.9023601,
+    "place_id": "ChIJEXEsPVdXmTkRaejkI2-OoLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXEsPVdXmTkRaejkI2-OoLs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POISON",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "226026",
+    "phone_number": "+91 93350 06819",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "WXVR+5X, Barkhurdarpur, Uttar Pradesh 226026",
+    "area": "226026",
+    "latitude": 26.9427669,
+    "longitude": 80.9931572,
+    "place_id": "ChIJlUIWfABZmTkRRwXPesJhI_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUIWfABZmTkRRwXPesJhI_U",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:03"
+  },
+  {
+    "business_name": "The Gabbar House",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar",
+    "pincode": "226026",
+    "phone_number": "+91 70718 15319",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 38,
+    "address": "XX5X+92X, Lucknow, Uttar Pradesh 226026",
+    "area": "226026",
+    "latitude": 26.958478699999997,
+    "longitude": 80.9975987,
+    "place_id": "ChIJiSKN0OdZmTkRE6_sOeh3OJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSKN0OdZmTkRE6_sOeh3OJo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:07"
+  }
+]

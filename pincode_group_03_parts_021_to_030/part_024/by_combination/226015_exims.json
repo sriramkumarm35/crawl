@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Globenz EXIM Pvt Ltd",
+    "search_category": "EXIMS",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "226015",
+    "phone_number": "N/A",
+    "website": "http://www.globenzexim.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21/432, Indira Nagar Rd, Sector 25, Sector 21, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 25, Sector 21, Indira Nagar",
+    "latitude": 26.8879162,
+    "longitude": 80.98137229999999,
+    "place_id": "ChIJXeMFWgBXmTkR3-sCuIa2uME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeMFWgBXmTkR3-sCuIa2uME",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:06:41"
+  },
+  {
+    "business_name": "Axsem Softwares Private Limited",
+    "search_category": "EXIMS",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "226015",
+    "phone_number": "+91 78602 91285",
+    "website": "https://axsemsoftwares.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "D-1312, Old Picnic Spot Rd, Ishwar Puri, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Ishwar Puri, Indira Nagar",
+    "latitude": 26.8809327,
+    "longitude": 80.9979634,
+    "place_id": "ChIJx6oMpXGkgQER8hMydxwDp1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6oMpXGkgQER8hMydxwDp1U",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:06:42"
+  }
+]

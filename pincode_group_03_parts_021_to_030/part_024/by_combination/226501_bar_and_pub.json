@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Connexions Bar - Crowne Plaza Lucknow",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "226501",
+    "phone_number": "+91 92363 59464",
+    "website": "https://www.ihg.com/crowneplaza/hotels/us/en/lucknow/lkols/hoteldetail/dining",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Lobby, Crowne Plaza, Lucknow - Varanasi Rd, by IHG, Lucknow, Marhar Mau Khurd, Uttar Pradesh 226002",
+    "area": "by IHG",
+    "latitude": 26.7864804,
+    "longitude": 81.03380349999999,
+    "place_id": "ChIJ7e-Z9Y3lmzkRtqs4OVerT5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7e-Z9Y3lmzkRtqs4OVerT5g",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:57:26"
+  },
+  {
+    "business_name": "Titly Bar and Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "226501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "V22F+RRR Titly Bar And Restaurant, behind Novotel Hotel, Viraj Khand-4, Viraj Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viraj Khand-4, Viraj Khand, Gomti Nagar",
+    "latitude": 26.852119599999998,
+    "longitude": 81.0245307,
+    "place_id": "ChIJS46h-LfjmzkRWzMVxY8eP2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS46h-LfjmzkRWzMVxY8eP2o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:57:27"
+  }
+]

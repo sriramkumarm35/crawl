@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Natraj computers Para",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "226023",
+    "phone_number": "+91 99845 76565",
+    "website": "https://www.natrajcomputers.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Sadrauna road, Para Rd, near awas vikas colony, Munnu Khera, Lucknow, Uttar Pradesh 226011",
+    "area": "226023",
+    "latitude": 26.822250099999998,
+    "longitude": 80.8565562,
+    "place_id": "ChIJv9xppOf_mzkRHzOgRl2SvAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9xppOf_mzkRHzOgRl2SvAQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:29"
+  },
+  {
+    "business_name": "SKP Infotech Solution",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "226023",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/skpinfotechsolution/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "555Ga, A 326, Subhash Nagar, Jafar Khera, Krishna Nagar, Alambagh, Lucknow, Uttar Pradesh 226023",
+    "area": "Subhash Nagar, Jafar Khera, Krishna Nagar, Alambagh",
+    "latitude": 26.802247299999998,
+    "longitude": 80.890687,
+    "place_id": "ChIJ2RqQbJr_mzkRwIQQXFctjFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RqQbJr_mzkRwIQQXFctjFA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:32"
+  }
+]

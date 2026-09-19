@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "226031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Abhishek Puram 60 Fita, 60Fita Road, Jankipuram, Lucknow, Uttar Pradesh 226031",
+    "area": "Janki Vihar Colony, Jankipuram",
+    "latitude": 26.9263081,
+    "longitude": 80.94319229999999,
+    "place_id": "ChIJZXQNQ-hXmTkRzo889BNAjQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXQNQ-hXmTkRzo889BNAjQk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:36"
+  },
+  {
+    "business_name": "Genric aadhaar",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "226031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no 102, 60 Feet Rd, near Bharat petrol pump, Sultanpur Village, Jankipuram Vistar, Lucknow, Uttar Pradesh 226031",
+    "area": "Sultanpur Village, Jankipuram Vistar",
+    "latitude": 26.925406,
+    "longitude": 80.9424798,
+    "place_id": "ChIJd7_pxhVXmTkRqsO5nMjMHzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7_pxhVXmTkRqsO5nMjMHzU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:39"
+  }
+]

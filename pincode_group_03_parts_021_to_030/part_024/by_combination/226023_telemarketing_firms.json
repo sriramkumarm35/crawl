@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neev India",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency, BPO Placement Agency, Environmental Protection Organization, Internet marketing service",
+    "pincode": "226023",
+    "phone_number": "+91 77558 77627",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Technical High School, Plot no 177, opp Thana, Vijay Nagar Colony, Krishna Nagar, Alambagh, Lucknow, Uttar Pradesh 226023",
+    "area": "Vijay Nagar Colony, Krishna Nagar, Alambagh",
+    "latitude": 26.7939975,
+    "longitude": 80.8842742,
+    "place_id": "ChIJ-2XzArH-mzkRRUR7qyJFBxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2XzArH-mzkRRUR7qyJFBxs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:57"
+  },
+  {
+    "business_name": "Techdock Labs",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Business development service, Graphic designer, Software company, Software Training Institute, Website designer",
+    "pincode": "226023",
+    "phone_number": "+91 79053 39856",
+    "website": "http://techdocklabs.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2174/13/1, Sindhu Nagar, Ashutosh Nagar, Krishna Nagar, Alambagh, Lucknow, Uttar Pradesh 226023",
+    "area": "Sindhu Nagar, Ashutosh Nagar, Krishna Nagar, Alambagh",
+    "latitude": 26.799115,
+    "longitude": 80.88556319999999,
+    "place_id": "ChIJG6-AZKTjmzkROxFaUSptHLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6-AZKTjmzkROxFaUSptHLk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:57"
+  }
+]

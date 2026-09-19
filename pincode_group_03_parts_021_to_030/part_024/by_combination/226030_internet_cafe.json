@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramayan Computer Institute",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "226030",
+    "phone_number": "+91 63862 68289",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nand Tower, Lucknow - Sultanpur Rd, Arjunganj, Lucknow, Uttar Pradesh 226002",
+    "area": "Arjunganj",
+    "latitude": 26.8075442,
+    "longitude": 80.99028249999999,
+    "place_id": "ChIJsTgwuBHjmzkRBVl2JAWpiYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTgwuBHjmzkRBVl2JAWpiYs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:34:40"
+  },
+  {
+    "business_name": "Tiwari Computer Centre",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "226030",
+    "phone_number": "+91 80048 32602",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "Shop No. 1, Matrachaya Complex, Near Prtrol Pump Ahamamau, Sultanpur Rd, Lucknow, Uttar Pradesh 226002",
+    "area": "Bagiamau",
+    "latitude": 26.7990045,
+    "longitude": 81.0089406,
+    "place_id": "ChIJV4PD-l3jmzkRSoE_1xb8UJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4PD-l3jmzkRSoE_1xb8UJA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:34:42"
+  }
+]

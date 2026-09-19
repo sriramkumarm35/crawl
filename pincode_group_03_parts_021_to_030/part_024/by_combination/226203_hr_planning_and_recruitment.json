@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hr Consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "General contractor",
+    "all_categories": "General contractor, Service establishment",
+    "pincode": "226203",
+    "phone_number": "N/A",
+    "website": "https://hr-consultancy-3.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hr Consultancy, 226203, India",
+    "area": "226203",
+    "latitude": 29.800214999999998,
+    "longitude": 79.417673,
+    "place_id": "ChIJizcRZEj9mzkRiqtKtA9dnps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizcRZEj9mzkRiqtKtA9dnps",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:28"
+  },
+  {
+    "business_name": "Prominent Consultant",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Business management consultant, Employment agency, Employment center, Legal services, Payroll Service Provider, Unemployment office",
+    "pincode": "226203",
+    "phone_number": "+91 99793 66347",
+    "website": "http://www.prominentconsultant.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SF-205, Bluechip Complex, near Vadodara Stock Exchange, Near Kala Ghoda, Sarod, Sayajiganj, Vadodara, Gujarat 390007",
+    "area": "Near Kala Ghoda, Sarod, Sayajiganj",
+    "latitude": 22.3079122,
+    "longitude": 73.1862183,
+    "place_id": "ChIJO3S79FLPXzkRZDdBxx_Upr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3S79FLPXzkRZDdBxx_Upr8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:28"
+  }
+]

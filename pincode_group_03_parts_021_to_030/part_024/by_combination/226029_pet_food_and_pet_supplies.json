@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Breeder’s Pet Shop and pet clinic",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet groomer, Pet store",
+    "pincode": "226029",
+    "phone_number": "+91 63906 04681",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "G-6 Skyline Plaza 3, Sector B Ansal API, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.790888799999998,
+    "longitude": 80.9982903,
+    "place_id": "ChIJ11a_0vPlmzkRc5x_yMQdBEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11a_0vPlmzkRc5x_yMQdBEw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:34"
+  },
+  {
+    "business_name": "LUCI'S PET Grooming Salon",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "226029",
+    "phone_number": "+91 94151 83560",
+    "website": "http://lucispetgroomingsalon.digitalintouch.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No-27 first floor, Golf City, Sector B Ansal API, Lucknow, Muzaffar Nagar Ghusval, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.781933,
+    "longitude": 80.9902,
+    "place_id": "ChIJaXnJzqHlmzkROjbUuNDgbtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXnJzqHlmzkROjbUuNDgbtU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:34"
+  }
+]

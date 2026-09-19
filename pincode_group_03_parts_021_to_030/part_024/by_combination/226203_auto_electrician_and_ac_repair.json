@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajdhani Auto Sales 🛺",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "226203",
+    "phone_number": "+91 93052 01613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jangpur Tiraha, Amaniganj, Dakhingaon, Uttar Pradesh 226203",
+    "area": "226203",
+    "latitude": 27.150181999999997,
+    "longitude": 80.9167604,
+    "place_id": "ChIJ7WTDxrpPmTkRtt5l3mTbIkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WTDxrpPmTkRtt5l3mTbIkw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:41"
+  },
+  {
+    "business_name": "Balaji Automotives",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "226203",
+    "phone_number": "+91 90445 90856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Indaura bagh mod Sitapur, Raid, Bakshi Ka Talab, Lucknow, Uttar Pradesh 226201",
+    "area": "Bakshi Ka Talab",
+    "latitude": 27.001825,
+    "longitude": 80.9174833,
+    "place_id": "ChIJDcyQNj9RmTkRxIARK3WScA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcyQNj9RmTkRxIARK3WScA4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:41"
+  }
+]

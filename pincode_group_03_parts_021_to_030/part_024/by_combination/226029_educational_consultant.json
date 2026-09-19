@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aspire Education Solution",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "226029",
+    "phone_number": "+91 85429 50556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "2nd Floor, 203 A, Felix Sq Rd, Golf City, Muzaffar Nagar Ghusval, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City",
+    "latitude": 26.7817078,
+    "longitude": 80.9897312,
+    "place_id": "ChIJtRHecm_lmzkRfTtLBc1vnYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRHecm_lmzkRfTtLBc1vnYM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:32:44"
+  },
+  {
+    "business_name": "Technological Education Society",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "226029",
+    "phone_number": "+91 90449 32444",
+    "website": "http://www.tes.ac.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13th Floor, Skyline Plaza-1, near Lulu Mall, Golf City, Sector B Ansal API, Lucknow, Muzaffar Nagar Ghusval, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.7833568,
+    "longitude": 80.99170029999999,
+    "place_id": "ChIJjd2gFaHkmzkRmgJfTLrjxW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjd2gFaHkmzkRmgJfTLrjxW4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:32:46"
+  }
+]

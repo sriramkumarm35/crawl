@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GLF Supplies",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "226018",
+    "phone_number": "+91 88743 88744",
+    "website": "https://glfsupplies.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No.2, Dilkusha Plaza, 47/8, Flat No.1, 2nd Floor, V.S.Marg, near Metro Gate, Husainganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Ghasyari Mandi, Husainganj",
+    "latitude": 26.8398208,
+    "longitude": 80.9350331,
+    "place_id": "ChIJJ06DFlX9mzkRgN1mkCo6gpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ06DFlX9mzkRgN1mkCo6gpU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:12:23"
+  },
+  {
+    "business_name": "Science Tech (India)",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Laboratory equipment supplier",
+    "all_categories": "Laboratory equipment supplier",
+    "pincode": "226018",
+    "phone_number": "+91 98391 97900",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "278/39/2, Below Aishbagh Flyover, Aishbagh, Lucknow, Uttar Pradesh 226004",
+    "area": "Moti Jheel Colony, Aishbagh",
+    "latitude": 26.8427291,
+    "longitude": 80.9109319,
+    "place_id": "ChIJy8Fj1dz9mzkRGK9bU39fJ_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8Fj1dz9mzkRGK9bU39fJ_8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:12:24"
+  }
+]

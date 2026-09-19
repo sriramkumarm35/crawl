@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Wheels",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "226013",
+    "phone_number": "+91 89206 04620",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Bithauli iim road, Sitapur Rd, Lucknow, Uttar Pradesh 226013",
+    "area": "Diguria, Aziz Nagar",
+    "latitude": 26.930784799999998,
+    "longitude": 80.9325307,
+    "place_id": "ChIJ1wk2T31XmTkRS5-EQ8Pq1is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wk2T31XmTkRS5-EQ8Pq1is",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:01:23"
+  },
+  {
+    "business_name": "SWEET KISSI",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "226013",
+    "phone_number": "+91 78977 77662",
+    "website": "http://sweetkissi.com/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Preeti Nagar, Lucknow, Uttar Pradesh 226021",
+    "area": "Preeti Nagar",
+    "latitude": 26.907740699999998,
+    "longitude": 80.9249178,
+    "place_id": "ChIJtWHQW25XmTkRBd1QVU6HkAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWHQW25XmTkRBd1QVU6HkAw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:01:24"
+  }
+]

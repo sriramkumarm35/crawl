@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "King balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "226023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "555ch272 Gokul aata chakki, Ram Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Ram Nagar, Alambagh",
+    "latitude": 26.8102119,
+    "longitude": 80.896602,
+    "place_id": "ChIJC-LQtib_mzkR1YyXEPt-LBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-LQtib_mzkR1YyXEPt-LBE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:12"
+  },
+  {
+    "business_name": "Arora Decorations",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist",
+    "pincode": "226023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Krishna Nagar Colony, Krishna Nagar, Alambagh, Lucknow, Uttar Pradesh 226012",
+    "area": "Krishna Nagar Colony, Krishna Nagar, Alambagh",
+    "latitude": 26.7962959,
+    "longitude": 80.88814599999999,
+    "place_id": "ChIJvV6pMf3_mzkRlqpn5y9Hgfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvV6pMf3_mzkRlqpn5y9Hgfg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:13"
+  }
+]

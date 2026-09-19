@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawar guest house ( Dr Vivek singh)",
+    "search_category": "Guesthouse",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "226203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "5W8G+9X2, Sidhauli, Parewajal, Uttar Pradesh 261303",
+    "area": "226203",
+    "latitude": 27.165893099999998,
+    "longitude": 80.92739209999999,
+    "place_id": "ChIJ819QVQBJmTkRWQ2wZsfVwtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ819QVQBJmTkRWQ2wZsfVwtk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:10"
+  },
+  {
+    "business_name": "OYO Banshidhar Guesthouse",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "226203",
+    "phone_number": "+91 124 620 1619",
+    "website": "https://www.oyorooms.com/204431/",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Sitapur Road, Itaunja, near Bharat Petrol Pump, Lucknow, Uttar Pradesh 226203",
+    "area": "226203",
+    "latitude": 27.061723999999998,
+    "longitude": 80.89744999999999,
+    "place_id": "ChIJY9n2535TmTkRHJO1ZXs2xk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9n2535TmTkRHJO1ZXs2xk4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:10"
+  }
+]

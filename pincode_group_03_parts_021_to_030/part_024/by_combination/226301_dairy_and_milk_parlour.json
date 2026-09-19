@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parag Milk parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "226301",
+    "phone_number": "+91 77050 08551",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Infront of --Bus Station, Mohanlalganj, Mau, Uttar Pradesh 226301",
+    "area": "226301",
+    "latitude": 26.6781212,
+    "longitude": 80.98326929999999,
+    "place_id": "ChIJaQAA5B7wmzkRnfe1o5zGVpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQAA5B7wmzkRnfe1o5zGVpQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:51"
+  },
+  {
+    "business_name": "Saloon",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "226301",
+    "phone_number": "+91 96960 88127",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Asti, Mahurakala, Uttar Pradesh 226501",
+    "area": "226301",
+    "latitude": 26.720380499999997,
+    "longitude": 81.1228826,
+    "place_id": "ChIJhZeYqnznmzkRSyEIOZiQb9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZeYqnznmzkRSyEIOZiQb9g",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:54"
+  }
+]

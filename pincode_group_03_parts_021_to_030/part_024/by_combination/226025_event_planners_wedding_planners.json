@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radiant Aroma",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "226025",
+    "phone_number": "+91 92148 17851",
+    "website": "https://radiantaroma.digitalintouch.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, S City Rd, near State Bank of India branch, South City, Lucknow, Uttar Pradesh 226002",
+    "area": "South City",
+    "latitude": 26.7714148,
+    "longitude": 80.9429068,
+    "place_id": "ChIJ-xpxx637mzkR_4Np-qwDIVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xpxx637mzkR_4Np-qwDIVI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:00"
+  },
+  {
+    "business_name": "Pratap decor and wedding planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "226025",
+    "phone_number": "+91 96210 07975",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5/298, Rajni Khand, Sharda Nagar, Lucknow, Uttar Pradesh 226002",
+    "area": "Rajni Khand, Sharda Nagar",
+    "latitude": 26.774713499999997,
+    "longitude": 80.9361163,
+    "place_id": "ChIJdyk5I-77mzkRPxD1a9Z_CCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyk5I-77mzkRPxD1a9Z_CCA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:00"
+  }
+]

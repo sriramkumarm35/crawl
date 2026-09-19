@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thanda Bites",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "226028",
+    "phone_number": "+91 63938 69901",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mandir, Sharda Timber, Kashalpuri, near Sankat Mochan Road, Khargapur, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Khargapur, Gomti Nagar",
+    "latitude": 26.843089499999998,
+    "longitude": 81.0255528,
+    "place_id": "ChIJ_4OaAInjmzkRf7oIeAUG-dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4OaAInjmzkRf7oIeAUG-dA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:36"
+  },
+  {
+    "business_name": "Shops",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "226028",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "44, Faizabad Rd, Matiyari, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Matiyari, Chinhat",
+    "latitude": 26.880448299999998,
+    "longitude": 81.03876269999999,
+    "place_id": "ChIJo_n4YQDjmzkRTy7k34yLuMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_n4YQDjmzkRTy7k34yLuMs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:38"
+  }
+]

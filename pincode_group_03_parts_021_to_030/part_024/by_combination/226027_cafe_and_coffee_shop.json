@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exer Club",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "226027",
+    "phone_number": "+91 95199 90060",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 846,
+    "address": "Exer Club 1, Lal Bahadur Shastri Marg, behind Governor's House, adjacent to Let's Bake Stories, Block A, Raj Bhavan Colony, The Mall Avenue, Lucknow, Uttar Pradesh 226027",
+    "area": "Block A, Raj Bhavan Colony, The Mall Avenue",
+    "latitude": 26.8387523,
+    "longitude": 80.9450501,
+    "place_id": "ChIJjyIaWAD9mzkRkdnmMzbJCGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyIaWAD9mzkRkdnmMzbJCGQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:27:59"
+  },
+  {
+    "business_name": "The Emperor view cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "226027",
+    "phone_number": "+91 81880 11788",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 255,
+    "address": "94, Mahatma Gandhi Marg, opp. governer house, Raj Bhavan Colony, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Raj Bhavan Colony, Hazratganj",
+    "latitude": 26.8433799,
+    "longitude": 80.9471121,
+    "place_id": "ChIJ3W3q0Tn9mzkR-gTv9XLO854",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3W3q0Tn9mzkR-gTv9XLO854",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:27:59"
+  }
+]

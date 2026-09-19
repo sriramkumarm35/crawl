@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HealthyFeast tiffin service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Meal delivery, Tiffin center",
+    "pincode": "227405",
+    "phone_number": "+91 72087 26943",
+    "website": "https://healthyfeast.in/",
+    "rating": 4.6,
+    "reviews_count": 44,
+    "address": "Shop No.1 ,Satya Nagar, Jagannath Mandir Road, Kurla, Saki Naka, Mumbai, Maharashtra 400072",
+    "area": "Safed Pul, Saki Naka",
+    "latitude": 19.099581,
+    "longitude": 72.8866712,
+    "place_id": "ChIJG3mOcorJ5zsRZS3_OD47lWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3mOcorJ5zsRZS3_OD47lWQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 08:01:03"
+  },
+  {
+    "business_name": "Daman's Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "227405",
+    "phone_number": "+91 70213 52466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Sion - Trombay Rd, nr. Priyadarshini Building, Amrit Nagar, Rahul Nagar, Chunabhatti, Chembur, Mumbai, Maharashtra 400022",
+    "area": "Amrit Nagar, Rahul Nagar, Chunabhatti, Chembur",
+    "latitude": 19.0522586,
+    "longitude": 72.8810045,
+    "place_id": "ChIJ9UWxt-LJ5zsRqbUMm1HT6x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UWxt-LJ5zsRqbUMm1HT6x8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 08:01:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TDS Solution",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "226020",
+    "phone_number": "+91 80901 77188",
+    "website": "http://www.tdssolution.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "UGF 30, Mangalam plaza, near Engineering College Chauraha, Sector B, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector B, Jankipuram",
+    "latitude": 26.911287299999998,
+    "longitude": 80.9449265,
+    "place_id": "ChIJ80rVFMZXmTkRKS8IjT0WPJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80rVFMZXmTkRKS8IjT0WPJM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:15:51"
+  },
+  {
+    "business_name": "GST Suvidha Center",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Accounting firm, Bookkeeping service, Business center, Income tax help association, Insurance agency, Print shop",
+    "pincode": "226020",
+    "phone_number": "+91 63888 34088",
+    "website": "https://www.effizentseele.com/gst-suvidha-center.aspx",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Basement, Prabha Complex, Kursi Rd, Tedhi Pulia, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Tedhi Pulia, Jankipuram",
+    "latitude": 26.9081744,
+    "longitude": 80.9561069,
+    "place_id": "ChIJbaWJTuxXmTkRdCm50Qhk17g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaWJTuxXmTkRdCm50Qhk17g",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:15:51"
+  }
+]

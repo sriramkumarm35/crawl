@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khata Billing",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business development service",
+    "pincode": "226009",
+    "phone_number": "+91 99296 90296",
+    "website": "https://khatabilling.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Amazing Star Mahavir Circle, 309, Savlia Cir, Sanman Society, Mansarovar Society, Varachha, Surat, Gujarat 395011",
+    "area": "Sanman Society, Mansarovar Society, Varachha",
+    "latitude": 21.2125767,
+    "longitude": 72.88951519999999,
+    "place_id": "ChIJTXoOdThgDEIRLa3jF_YPoJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXoOdThgDEIRLa3jF_YPoJY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:55:02"
+  },
+  {
+    "business_name": "NEXTIN TECH SOLUTIONS",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "226009",
+    "phone_number": "+91 70545 60360",
+    "website": "https://nextintechsolutions.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NEXTIN TECH SOLUTIONS, 226009, India",
+    "area": "226009",
+    "latitude": 26.848692,
+    "longitude": 80.9425127,
+    "place_id": "ChIJm_nd1ucFTKsRqOsPR8mrYsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_nd1ucFTKsRqOsPR8mrYsg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:55:02"
+  }
+]

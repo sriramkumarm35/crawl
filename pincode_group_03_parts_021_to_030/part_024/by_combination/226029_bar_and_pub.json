@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat hukka bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "226029",
+    "phone_number": "+91 87539 17549",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Medanta road, Roberts Lines, Hariharpur, Lucknow, Uttar Pradesh 226002",
+    "area": "Roberts Lines",
+    "latitude": 26.7846945,
+    "longitude": 80.98306769999999,
+    "place_id": "ChIJ1aBoCDX7mzkRIOjzUO9sYnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aBoCDX7mzkRIOjzUO9sYnc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:42"
+  },
+  {
+    "business_name": "Dona Paula",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant, Cafe, Club, Swim club, Swimming pool",
+    "pincode": "226029",
+    "phone_number": "+91 74084 04863",
+    "website": "https://vintclub.in/",
+    "rating": 4.5,
+    "reviews_count": 82,
+    "address": "Near-Lullu Mall, Amar Shaheed Path, Golf City, Ansal, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Ansal",
+    "latitude": 26.7927777,
+    "longitude": 80.9986521,
+    "place_id": "ChIJEUrTd3bjmzkRDSHYNMAXYf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUrTd3bjmzkRDSHYNMAXYf4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:42"
+  }
+]

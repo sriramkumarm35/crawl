@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Heading",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Software company",
+    "pincode": "226303",
+    "phone_number": "N/A",
+    "website": "https://theheading.agency/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kiara Residency, B3 1504, Golf City, Sector B Ansal API, Lucknow, Muzaffar Nagar Ghusval, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.7837075,
+    "longitude": 80.99539519999999,
+    "place_id": "ChIJtwuhxRblmzkRl2JROsWGEyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwuhxRblmzkRl2JROsWGEyA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:55:15"
+  },
+  {
+    "business_name": "Sevron Multiventure Services Private Limited",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "226303",
+    "phone_number": "+91 93548 35438",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sevron Multiventure Services Private Limited, 226303, India",
+    "area": "226303",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ3R7tW1znmzkRpyklQhOm0z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3R7tW1znmzkRpyklQhOm0z4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:55:17"
+  }
+]

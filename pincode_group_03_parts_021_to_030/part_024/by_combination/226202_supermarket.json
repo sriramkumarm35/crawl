@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mega mart",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "226202",
+    "phone_number": "N/A",
+    "website": "https://triymbikam-mega-mart.myshopify.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "before GCRG institute, Chandrika Devi Rd, near yaaro di haveli, Lucknow, Parvatpur, Uttar Pradesh 226202",
+    "area": "226202",
+    "latitude": 26.9969346,
+    "longitude": 80.887636,
+    "place_id": "ChIJJ3_E7mRTmTkRKX6aLzfuOzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3_E7mRTmTkRKX6aLzfuOzE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:15"
+  },
+  {
+    "business_name": "Wega Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "226202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XVWP+VW5, Chandrika Devi Rd, Parvatpur, Uttar Pradesh 226202",
+    "area": "226202",
+    "latitude": 26.9971326,
+    "longitude": 80.8873627,
+    "place_id": "ChIJh3J6ysJTmTkRbGNsRLB0Rzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3J6ysJTmTkRbGNsRLB0Rzo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:15"
+  }
+]

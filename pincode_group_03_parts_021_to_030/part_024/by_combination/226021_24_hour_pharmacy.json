@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CareSmart Healthcare solutions a unit of Kritarth Hitarth Sewa Samiti",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical diagnostic imaging center, Nursing agency",
+    "pincode": "226021",
+    "phone_number": "+91 70609 77139",
+    "website": "https://chscmo.com/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Basera tower, 647A/1A/1, Sector H, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector H, Jankipuram",
+    "latitude": 26.9192695,
+    "longitude": 80.95803,
+    "place_id": "ChIJB-uA-O9XmTkRAsnUj9uXuCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-uA-O9XmTkRAsnUj9uXuCI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:16:48"
+  },
+  {
+    "business_name": "Om Bhawan Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "226021",
+    "phone_number": "+91 90442 77291",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "652 B/37 Pratap Nagar, Tedhi Pulia Ring Rd, Tedhi Pulia, Lucknow, Uttar Pradesh 226022",
+    "area": "Tedhi Pulia, Sector 14, Vikas Nagar",
+    "latitude": 26.906035499999998,
+    "longitude": 80.958399,
+    "place_id": "ChIJ_52wSGtXmTkRavcDeVENKxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_52wSGtXmTkRavcDeVENKxo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:16:49"
+  }
+]

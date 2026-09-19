@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RTH STAR BUS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "226301",
+    "phone_number": "+91 94156 68374",
+    "website": "http://www.rthstarbus.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RTH STAR BUS, 226301, India",
+    "area": "226301",
+    "latitude": 26.778069799999997,
+    "longitude": 80.8935406,
+    "place_id": "ChIJVYeSVjD9GKQRpUM0u2AMMvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYeSVjD9GKQRpUM0u2AMMvE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:35"
+  },
+  {
+    "business_name": "Holiday Maker Online",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "226301",
+    "phone_number": "+91 73035 42004",
+    "website": "https://holidaymakeronline.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GAURA, COLONY, Mohanlalganj, Uttar Pradesh 226301",
+    "area": "226301",
+    "latitude": 26.658172399999998,
+    "longitude": 80.99218119999999,
+    "place_id": "ChIJu_exWfnvmzkRc_U0EmKaaFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_exWfnvmzkRc_U0EmKaaFg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:35"
+  }
+]

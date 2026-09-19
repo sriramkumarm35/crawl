@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medcure Shopee",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "226025",
+    "phone_number": "+91 96164 66386",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Medcure Shopee, 592 KHA/ 11, Raibareli Rd, Defence Colony, Telibagh, Lucknow, Uttar Pradesh 226002",
+    "area": "Defence Colony, Telibagh",
+    "latitude": 26.786791299999997,
+    "longitude": 80.94094369999999,
+    "place_id": "ChIJxWFuya_7mzkRdJvf6N42HXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWFuya_7mzkRdJvf6N42HXY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:24:30"
+  },
+  {
+    "business_name": "Kriva Services",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "226025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G 187, South City, Lucknow, Uttar Pradesh 226025",
+    "area": "South City",
+    "latitude": 26.7674825,
+    "longitude": 80.93324679999999,
+    "place_id": "ChIJNV9vKCD7mzkRX5gmeaHyYt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNV9vKCD7mzkRX5gmeaHyYt8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:24:33"
+  }
+]

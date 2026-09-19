@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digimax Services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "226101",
+    "phone_number": "+91 96763 23101",
+    "website": "https://digimaxservices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rrmc, Baragaon, Narona, Lucknow, Uttar Pradesh 226101",
+    "area": "Baragaon",
+    "latitude": 26.8423788,
+    "longitude": 80.818401,
+    "place_id": "ChIJf2HJiET_mzkR9ZJeecE1sSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2HJiET_mzkR9ZJeecE1sSE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:38:51"
+  },
+  {
+    "business_name": "DigitaltoGlobal",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "226101",
+    "phone_number": "N/A",
+    "website": "https://digitaltoglobal.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "DigitaltoGlobal, 226101, India",
+    "area": "226101",
+    "latitude": 23.634356,
+    "longitude": 76.9150327,
+    "place_id": "ChIJncRBKFky44cR_m9sUcFboYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncRBKFky44cR_m9sUcFboYA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:38:51"
+  }
+]

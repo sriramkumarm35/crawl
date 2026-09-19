@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insha Auto Sales And Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "226102",
+    "phone_number": "+91 70072 86518",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "00, Malihabad, Uttar Pradesh 226102",
+    "area": "226102",
+    "latitude": 26.9270271,
+    "longitude": 80.7098133,
+    "place_id": "ChIJ8WP58m-pnjkRAAAAsAD7q1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WP58m-pnjkRAAAAsAD7q1o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:39:33"
+  },
+  {
+    "business_name": "VehicleCare - Classic Car Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Car wash, Mechanic, Oil change service, Garage, Towing service, Wheel alignment service",
+    "pincode": "226102",
+    "phone_number": "+91 80109 00700",
+    "website": "https://vehiclecare.in/landing?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "IIM Road, Area, Allu Nagar Diguria, Lucknow, Uttar Pradesh 226013",
+    "area": "Area",
+    "latitude": 26.914665,
+    "longitude": 80.897273,
+    "place_id": "ChIJld_yEfdVmTkRTseG9bUTTVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJld_yEfdVmTkRTseG9bUTTVk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:39:33"
+  }
+]

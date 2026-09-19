@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Globe chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "226015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5/900, Sector 8, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 8, Vikas Nagar",
+    "latitude": 26.890846,
+    "longitude": 80.9658049,
+    "place_id": "ChIJZT_H_qlXmTkRVEX5rpwD4H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT_H_qlXmTkRVEX5rpwD4H0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:06:36"
+  },
+  {
+    "business_name": "MEGREZ PHARMACEUTICALS & CHEMICALS PRIVATE LIMITED",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Pharmaceuticals Exporter, Pharmaceutical Products Wholesaler, Pharmacy",
+    "pincode": "226015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C14B 20A, Shivaji Puram, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Shivaji Puram, Indira Nagar",
+    "latitude": 26.8973272,
+    "longitude": 81.00210799999999,
+    "place_id": "ChIJAYw0Iw5YmTkR3bnuyVYVI7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYw0Iw5YmTkR3bnuyVYVI7Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:06:36"
+  }
+]

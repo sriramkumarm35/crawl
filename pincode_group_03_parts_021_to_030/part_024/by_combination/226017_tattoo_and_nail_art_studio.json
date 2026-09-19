@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul The Nail Bar & Makeup Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon, Make-up artist",
+    "pincode": "226017",
+    "phone_number": "+91 80095 93312",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop no.-2, FI Plaza, near Reliance Trends, Kapoorthla, Chandralok Colony, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Kapoorthla, Chandralok Colony, Aliganj",
+    "latitude": 26.879772499999998,
+    "longitude": 80.9459749,
+    "place_id": "ChIJKTqU83v9mzkRofmNACgTroQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTqU83v9mzkRofmNACgTroQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:09:51"
+  },
+  {
+    "business_name": "Glam Studios",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "226017",
+    "phone_number": "+91 89571 15443",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 452,
+    "address": "4/1077, Sector 4, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 4, Vikas Nagar",
+    "latitude": 26.891392,
+    "longitude": 80.960011,
+    "place_id": "ChIJWezke-9XmTkRcFF4LXg6wVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWezke-9XmTkRcFF4LXg6wVI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:09:53"
+  }
+]

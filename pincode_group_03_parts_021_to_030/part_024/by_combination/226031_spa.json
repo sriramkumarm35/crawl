@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blond spa",
+    "search_category": "Spa",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "226031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "CMM Tower, Sector G Jankipuram, Sector G, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector G, Jankipuram",
+    "latitude": 26.9113133,
+    "longitude": 80.95722769999999,
+    "place_id": "ChIJG5n7GgBXmTkRV4rz0fTTGD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5n7GgBXmTkRV4rz0fTTGD8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:36:09"
+  },
+  {
+    "business_name": "Tribal",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "226031",
+    "phone_number": "+91 79853 87778",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Customer ki location per, Sector 3, Jankipuram Vistar, Lucknow, Uttar Pradesh 226031",
+    "area": "Sector 3, Jankipuram Vistar",
+    "latitude": 26.936272799999998,
+    "longitude": 80.93874459999999,
+    "place_id": "ChIJ2c-AMa1XmTkRkPqdbzMYBfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2c-AMa1XmTkRkPqdbzMYBfo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:36:09"
+  }
+]

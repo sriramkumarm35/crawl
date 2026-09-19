@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABHIMANYU TRADERS",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "226025",
+    "phone_number": "+91 87074 13606",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. 6, Dharamraj Yadav Complex, South City, pipruli, Lucknow, Uttar Pradesh 226025",
+    "area": "South City",
+    "latitude": 26.7704991,
+    "longitude": 80.9380888,
+    "place_id": "ChIJgfJ6RS77mzkRCuGyZnKrpIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfJ6RS77mzkRCuGyZnKrpIs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:24:46"
+  },
+  {
+    "business_name": "SINDH TRADERS",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "226025",
+    "phone_number": "+91 95598 10475",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Eldeco udyan ll, Shaheed path, Near Express plaza, Eldeco Udyan Ii, Lucknow, Uttar Pradesh 226025",
+    "area": "Eldeco Udyan Ii",
+    "latitude": 26.765762,
+    "longitude": 80.9371042,
+    "place_id": "ChIJGZ70q5j7mzkRrRAuWXOOwEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZ70q5j7mzkRrRAuWXOOwEI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:24:46"
+  }
+]

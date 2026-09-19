@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LOYAL TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "226027",
+    "phone_number": "+91 99322 02982",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "number 10, Tu to Shahi Masjid, Vidhan Sabha Marg, Narpatkhera, Lalbagh, Lucknow, Uttar Pradesh 226001",
+    "area": "Narpatkhera, Lalbagh",
+    "latitude": 26.8458185,
+    "longitude": 80.9451852,
+    "place_id": "ChIJH3SG1a39mzkRvZ_xLbYKxYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3SG1a39mzkRvZ_xLbYKxYU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:24"
+  },
+  {
+    "business_name": "Cab-Axi :Travel Mantra India's Division",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "226027",
+    "phone_number": "+91 75250 70707",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "Tej Kumar Plaza, G-36, Sushanpura, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Sushanpura, Hazratganj",
+    "latitude": 26.8468599,
+    "longitude": 80.9443758,
+    "place_id": "ChIJf9NDNcb9mzkRAJrO_OmPAkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9NDNcb9mzkRAJrO_OmPAkA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:27"
+  }
+]

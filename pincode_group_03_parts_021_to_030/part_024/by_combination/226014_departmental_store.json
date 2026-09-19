@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Drishti World Grocery",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "226014",
+    "phone_number": "+91 82080 99443",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "590 H/KN 1080, Yamuna Puram Caloney, Haibat Mau Mawaiya, Lucknow, Uttar Pradesh 226014",
+    "area": "Haibat Mau Mawaiya",
+    "latitude": 26.7531118,
+    "longitude": 80.9389199,
+    "place_id": "ChIJjTEtBbH7mzkRDBPr5fSgKzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTEtBbH7mzkRDBPr5fSgKzQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:10"
+  },
+  {
+    "business_name": "FMCG STATION",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, General store, FMCG Goods Wholesaler, Supermarket",
+    "pincode": "226014",
+    "phone_number": "+91 95547 88479",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Ishwari kheda, Vrindavan Rd, near Kalindi Park, Sector 16, Vrindavan Colony, Lucknow, Uttar Pradesh 226029",
+    "area": "Sector 16, Vrindavan Colony",
+    "latitude": 26.758783299999997,
+    "longitude": 80.9551027,
+    "place_id": "ChIJiWv-qqv7mzkRTHJBN2_x4HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWv-qqv7mzkRTHJBN2_x4HA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:10"
+  }
+]

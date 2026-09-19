@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gifora",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "226023",
+    "phone_number": "N/A",
+    "website": "https://giftivo.myshopify.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no.2, Amausi Station Rd, Lucknow, Uttar Pradesh 226008",
+    "area": "226023",
+    "latitude": 26.7769525,
+    "longitude": 80.844403,
+    "place_id": "ChIJc40nE6T5mzkRYXyliQ7ptXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc40nE6T5mzkRYXyliQ7ptXA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:21"
+  },
+  {
+    "business_name": "Scented Candles Lucknow | Gifting Candles | Fragrance Candles - Candleskart",
+    "search_category": "Gifting",
+    "primary_category": "Candle store",
+    "all_categories": "Candle store",
+    "pincode": "226023",
+    "phone_number": "+91 80905 88387",
+    "website": "https://www.candleskart.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "550, Hind Nagar Rd, Hind Nagar, Sector C1, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Hind Nagar, Sector C1, LDA Colony",
+    "latitude": 26.7883125,
+    "longitude": 80.8907602,
+    "place_id": "ChIJpd6vqEv_mzkRa0s4hJmxXd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpd6vqEv_mzkRa0s4hJmxXd4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:21:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alam Muradabadi Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant",
+    "pincode": "226029",
+    "phone_number": "+91 88591 10701",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Awadh Shilp Gram G20chauraha, Lucknow, Ghuswal Kalan, Uttar Pradesh 226002",
+    "area": "226029",
+    "latitude": 26.7746611,
+    "longitude": 80.97908609999999,
+    "place_id": "ChIJ-VwSxbb7mzkRof1oQzMJUh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VwSxbb7mzkRof1oQzMJUh0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:37"
+  },
+  {
+    "business_name": "Lazeez Chicken Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "226029",
+    "phone_number": "+91 90050 51308",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "Narpatganj Chauraha L.N. Marg, Lucknow, Uttar Pradesh 226301",
+    "area": "226029",
+    "latitude": 26.7522669,
+    "longitude": 80.9972942,
+    "place_id": "ChIJBT-Wyq3lmzkRt_8KEpmUqhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBT-Wyq3lmzkRt_8KEpmUqhM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:38"
+  }
+]

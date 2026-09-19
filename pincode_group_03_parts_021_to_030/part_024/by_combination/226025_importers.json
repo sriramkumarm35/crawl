@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalyani Enterprises",
+    "search_category": "Importers",
+    "primary_category": "Stationery wholesaler",
+    "all_categories": "Stationery wholesaler",
+    "pincode": "226025",
+    "phone_number": "+91 96965 09654",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "C 47, Raebareli - Lucknow Rd, South City, Lucknow, Uttar Pradesh 226002",
+    "area": "South City",
+    "latitude": 26.770755599999998,
+    "longitude": 80.9371647,
+    "place_id": "ChIJr4kF21OXmzkRU-8E-TTiUlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4kF21OXmzkRU-8E-TTiUlY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:37"
+  },
+  {
+    "business_name": "Skyline Internationals",
+    "search_category": "Importers",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "226025",
+    "phone_number": "N/A",
+    "website": "https://www.skylineinternationals.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vridavana Yojana, Babasaheb Bhim Rao Ambedkar University, Lucknow, Uttar Pradesh 226025",
+    "area": "Babasaheb Bhim Rao Ambedkar University",
+    "latitude": 26.767431499999997,
+    "longitude": 80.9234381,
+    "place_id": "ChIJIbHiaN37mzkRzK7n9q4hysc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbHiaN37mzkRzK7n9q4hysc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Papa Ice Cream Factory",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer, Frozen dessert supplier",
+    "pincode": "226031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4/249, Tedhi Pulia, Sector H, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Tedhi Pulia, Sector H, Jankipuram",
+    "latitude": 26.917356899999998,
+    "longitude": 80.954028,
+    "place_id": "ChIJe4d2p7pXmTkR-8bYub4gVPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4d2p7pXmTkR-8bYub4gVPc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:16"
+  },
+  {
+    "business_name": "NOMA TIMA (global dessert bar & bistro) home bakery",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Bakery and Cake Shop, Bistro, Frozen dessert supplier, Indian takeaway, Pizza takeaway, Wholesale bakery",
+    "pincode": "226031",
+    "phone_number": "+91 98117 92837",
+    "website": "http://nomatima.com/",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Beacon St, 647/P_23A, Nahar Rd, behind scholar valley school, Jankipuram Garden, Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Jankipuram Garden, Janki Vihar Colony, Jankipuram",
+    "latitude": 26.931042599999998,
+    "longitude": 80.962043,
+    "place_id": "ChIJ3-8vpRlXmTkRyzy7cnhvbqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-8vpRlXmTkRyzy7cnhvbqs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:35:17"
+  }
+]

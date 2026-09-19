@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind Hire",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "226014",
+    "phone_number": "+91 99114 10147",
+    "website": "https://www.hindhire.com/",
+    "rating": 5,
+    "reviews_count": 70,
+    "address": "Hind Hire, 226014, India",
+    "area": "226014",
+    "latitude": 24.0588239,
+    "longitude": 76.406086,
+    "place_id": "ChIJFQ-fRARz4gURNaf_hrN1oQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQ-fRARz4gURNaf_hrN1oQc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:04:36"
+  },
+  {
+    "business_name": "WINGS HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment, Talent agency",
+    "pincode": "226014",
+    "phone_number": "N/A",
+    "website": "https://wingshr.in/",
+    "rating": 4.1,
+    "reviews_count": 40,
+    "address": "WINGS HR, 226014, India",
+    "area": "226014",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJZ3mcfwjBwjsR-qnXypVaQkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3mcfwjBwjsR-qnXypVaQkQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:04:36"
+  }
+]

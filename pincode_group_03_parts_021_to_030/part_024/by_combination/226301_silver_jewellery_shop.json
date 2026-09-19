@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanishka jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "226301",
+    "phone_number": "+91 80097 40395",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "New Bijnor, Bijnor, Uttar Pradesh 226002",
+    "area": "New Bijnor",
+    "latitude": 26.7387855,
+    "longitude": 80.9028672,
+    "place_id": "ChIJYWgANiv6mzkR_W-WfpzLeZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWgANiv6mzkR_W-WfpzLeZ8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:11"
+  },
+  {
+    "business_name": "Amba jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "226301",
+    "phone_number": "+91 98399 47841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khujauli, Uttar Pradesh 226301",
+    "area": "226301",
+    "latitude": 26.7113257,
+    "longitude": 81.0345147,
+    "place_id": "ChIJyzF5nDXlmzkRVBjqcQALe_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzF5nDXlmzkRVBjqcQALe_I",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:50:11"
+  }
+]

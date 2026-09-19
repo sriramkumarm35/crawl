@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "226029",
+    "phone_number": "+91 94501 19292",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Nilamtha, Taxi Stand, Nilmatha Cantt, Nilmatha, Lucknow, Uttar Pradesh 226002",
+    "area": "Nilmatha Cantt, Nilmatha",
+    "latitude": 26.792993799999998,
+    "longitude": 80.9668445,
+    "place_id": "ChIJBVajRKD8mzkRhrJnoCYpvdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVajRKD8mzkRhrJnoCYpvdc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:32:46"
+  },
+  {
+    "business_name": "Purvanchal Photo Copy And Stationery Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "226029",
+    "phone_number": "+91 83181 09621",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Awadh Vihar Yojna, Lucknow, Ghuswal Kalan, Uttar Pradesh 226002",
+    "area": "226029",
+    "latitude": 26.775015399999997,
+    "longitude": 80.9794805,
+    "place_id": "ChIJ5ZkpP3j7mzkRzAZCZM84Kgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZkpP3j7mzkRzAZCZM84Kgg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:32:47"
+  }
+]

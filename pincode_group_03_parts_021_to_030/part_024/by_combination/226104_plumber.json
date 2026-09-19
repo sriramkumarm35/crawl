@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "226104",
+    "phone_number": "+91 91517 06191",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bakshi ka talab, Kathwara, Uttar Pradesh 226202",
+    "area": "Bakshi ka talab",
+    "latitude": 27.017696599999997,
+    "longitude": 80.8478475,
+    "place_id": "ChIJjX8DUgBTmTkRMgtUoAPA6sU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjX8DUgBTmTkRMgtUoAPA6sU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:43:24"
+  },
+  {
+    "business_name": "Jay Maa Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "226104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Nagar, Uttar Pradesh 226104",
+    "area": "226104",
+    "latitude": 27.024728999999997,
+    "longitude": 80.74117369999999,
+    "place_id": "ChIJv1tyozStnjkR1scZqTf7sbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1tyozStnjkR1scZqTf7sbk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:43:26"
+  }
+]

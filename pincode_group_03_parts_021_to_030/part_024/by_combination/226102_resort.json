@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Vidyapeetham Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "226102",
+    "phone_number": "+91 94511 71115",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2V3G+M4P, Chandrika devi mandir road, At kisaan path, Bakshi Ka Talab, Uttar Pradesh 226202",
+    "area": "Bakshi Ka Talab",
+    "latitude": 27.0042059,
+    "longitude": 80.87531589999999,
+    "place_id": "ChIJmX586iNTmTkRgVyqcJQmOTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmX586iNTmTkRgVyqcJQmOTs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:40:04"
+  },
+  {
+    "business_name": "The Glory Riverside Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Hotel, Wedding venue",
+    "pincode": "226102",
+    "phone_number": "+91 99191 09099",
+    "website": "https://thegloryresort.com/",
+    "rating": 4.4,
+    "reviews_count": 72,
+    "address": "Chandrika Devi Rd, Kathwara, Uttar Pradesh 226202",
+    "area": "226102",
+    "latitude": 27.0225764,
+    "longitude": 80.8423408,
+    "place_id": "ChIJcdeRbW9TmTkRObbIi21DVDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdeRbW9TmTkRObbIi21DVDc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:40:07"
+  }
+]

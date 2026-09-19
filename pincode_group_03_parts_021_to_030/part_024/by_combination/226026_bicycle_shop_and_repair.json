@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avadh Cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Sporting goods store",
+    "pincode": "226026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No- 24, Pahadpur Chauraha, Kursi Rd, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Vikas Nagar",
+    "latitude": 26.916703299999998,
+    "longitude": 80.9630207,
+    "place_id": "ChIJgT05Bb1XmTkR2REvcspLJGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgT05Bb1XmTkR2REvcspLJGc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:31"
+  },
+  {
+    "business_name": "Bala Ji Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Bicycle Shop",
+    "pincode": "226026",
+    "phone_number": "+91 89532 00511",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Indrapuri Kaloni, INDRAPURI KOLONI, Sitapur Rd, Diguria, Aziz Nagar, Lucknow, Uttar Pradesh 226021",
+    "area": "Diguria, Aziz Nagar",
+    "latitude": 26.925622299999997,
+    "longitude": 80.9360603,
+    "place_id": "ChIJwU7ru29XmTkRrucWrXFousM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwU7ru29XmTkRrucWrXFousM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:31"
+  }
+]

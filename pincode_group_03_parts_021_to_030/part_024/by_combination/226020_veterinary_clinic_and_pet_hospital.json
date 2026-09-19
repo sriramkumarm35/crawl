@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DOG AND PET CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "226020",
+    "phone_number": "+91 94501 04833",
+    "website": "https://dogpetclinic.web.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhavna Complex, Tedhi Pulia Ring Rd, near pnb bank, near medox hospital, Sector F, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector F, Jankipuram",
+    "latitude": 26.9109019,
+    "longitude": 80.9498832,
+    "place_id": "ChIJ5X8l3TBXmTkRGBLxAhfpK-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5X8l3TBXmTkRGBLxAhfpK-0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:14:58"
+  },
+  {
+    "business_name": "Dinesh Medical Hall",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical equipment supplier, Medical supply store",
+    "pincode": "226020",
+    "phone_number": "+91 70075 58773",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kursi Rd, Sector 1, Vikas Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 1, Vikas Nagar",
+    "latitude": 26.902144099999997,
+    "longitude": 80.9554493,
+    "place_id": "ChIJFxSgasZXmTkRZIcg_YMasTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxSgasZXmTkRZIcg_YMasTU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:15:01"
+  }
+]

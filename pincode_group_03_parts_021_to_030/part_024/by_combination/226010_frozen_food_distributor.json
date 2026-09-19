@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grocery House",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "226010",
+    "phone_number": "+91 73554 31705",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 215,
+    "address": "C-2024, Aravali Marg, Block C, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Block C, Indira Nagar",
+    "latitude": 26.880803,
+    "longitude": 80.991342,
+    "place_id": "ChIJf6MD-RDjmzkR8Qq8gH7Eq98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6MD-RDjmzkR8Qq8gH7Eq98",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:55:36"
+  },
+  {
+    "business_name": "New House hold grocery point",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "226010",
+    "phone_number": "+91 81155 60688",
+    "website": "https://www.newhouseholdgrocerypoint.org/",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "C-2/18, road, near altitude fitness gym, Malhour, Vikalp Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226028",
+    "area": "Malhour, Vikalp Khand, Gomti Nagar",
+    "latitude": 26.860420899999998,
+    "longitude": 81.0382364,
+    "place_id": "ChIJqZpYUwPjmzkRIePQK_Nbw5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZpYUwPjmzkRIePQK_Nbw5Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:55:36"
+  }
+]

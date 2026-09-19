@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Desi Murga Farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Meat products store, Chicken shop, Meat wholesaler, Poultry farm, Poultry store",
+    "pincode": "226015",
+    "phone_number": "+91 73938 48997",
+    "website": "https://www.facebook.com/Lucknow-Desi-Murga-101728528643677",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "D529/P-11, Vijay Kunj Colony, Kalyanpur, Lucknow, Uttar Pradesh 226022",
+    "area": "Vijay Kunj Colony, Kalyanpur",
+    "latitude": 26.903221,
+    "longitude": 80.9683191,
+    "place_id": "ChIJ6c-gxKJXmTkRyLQWfl9dDVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6c-gxKJXmTkRyLQWfl9dDVg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:05:02"
+  },
+  {
+    "business_name": "Anmol Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "226015",
+    "phone_number": "+91 92367 11921",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "28, Kanchana Bihari Marg, Near Jagrani Hospital, Kalyanpur, Lucknow, Uttar Pradesh 226022",
+    "area": "Near Jagrani Hospital, Kalyanpur",
+    "latitude": 26.901259999999997,
+    "longitude": 80.97182,
+    "place_id": "ChIJQZTAou5XmTkRbAcGJG_BU4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZTAou5XmTkRbAcGJG_BU4c",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:05:05"
+  }
+]

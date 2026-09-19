@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanojiya General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "226102",
+    "phone_number": "+91 80901 05595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "0, Road, Hatauli, Lucknow, Uttar Pradesh 226102",
+    "area": "226102",
+    "latitude": 26.954136799999997,
+    "longitude": 80.733913,
+    "place_id": "ChIJmxcIDQCrnjkRh6sY-vrXNJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxcIDQCrnjkRh6sY-vrXNJg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:38:57"
+  },
+  {
+    "business_name": "Saud General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "226102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "WP86+4GR, Malihabad, Uttar Pradesh 226102",
+    "area": "226102",
+    "latitude": 26.9153316,
+    "longitude": 80.7112793,
+    "place_id": "ChIJM3NHXACpnjkRZnHf2edzI1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3NHXACpnjkRZnHf2edzI1M",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:38:57"
+  }
+]

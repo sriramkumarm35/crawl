@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Flagship Hotel The Priydarshni Resort Restaurent",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "226302",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/216041/",
+    "rating": 3.9,
+    "reviews_count": 67,
+    "address": "Downside the over bridge, Plot no. F4J2 JP3, Near railway crossing, Lucknow road, Raibareli Rd, Bachhrawan, Uttar Pradesh 229301",
+    "area": "226302",
+    "latitude": 26.4813987,
+    "longitude": 81.1018364,
+    "place_id": "ChIJJ-b5lB-VmzkRcuFFazmIZXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-b5lB-VmzkRcuFFazmIZXA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:52:50"
+  },
+  {
+    "business_name": "Shri Ram Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Fast food restaurant",
+    "pincode": "226302",
+    "phone_number": "+91 89600 00970",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "22, Raibareli Rd, Lucknow, Uttar Pradesh 226302",
+    "area": "226302",
+    "latitude": 26.5551322,
+    "longitude": 81.0440461,
+    "place_id": "ChIJzZxD5vDsmzkRIccBUl_wkx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZxD5vDsmzkRIccBUl_wkx8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:52:53"
+  }
+]

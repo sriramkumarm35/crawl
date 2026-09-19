@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "226302",
+    "phone_number": "+91 85630 25563",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "H27Q+5XQ, Uttar Pradesh 226302",
+    "area": "226302",
+    "latitude": 26.562967999999998,
+    "longitude": 81.03997439999999,
+    "place_id": "ChIJDZPcyVfsmzkR7nIL-fJ660g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZPcyVfsmzkR7nIL-fJ660g",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:59"
+  },
+  {
+    "business_name": "Shagun Saree",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "226302",
+    "phone_number": "+91 94501 10030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "MXJJ+3WX, Rae Bareily Road, Mohanlalganj, Uttar Pradesh 226301",
+    "area": "226302",
+    "latitude": 26.680247599999998,
+    "longitude": 80.9823614,
+    "place_id": "ChIJ8x1-ph7wmzkR7nwLImDSIQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8x1-ph7wmzkR7nwLImDSIQc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:52:00"
+  }
+]

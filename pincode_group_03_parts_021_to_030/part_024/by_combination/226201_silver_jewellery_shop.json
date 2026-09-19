@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "226201",
+    "phone_number": "+91 98893 00303",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sitapur Rd, Bargadi, Bakshi Ka Talab, Bargadi Magath, Uttar Pradesh 226201",
+    "area": "Bargadi, Bakshi Ka Talab",
+    "latitude": 26.9874421,
+    "longitude": 80.9207634,
+    "place_id": "ChIJ_eq6CjhRmTkRdpnBY6dQ7NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_eq6CjhRmTkRdpnBY6dQ7NU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:44:39"
+  },
+  {
+    "business_name": "MAA JAGDAMBA JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Gold dealer, Jewelry designer",
+    "pincode": "226201",
+    "phone_number": "+91 70715 46296",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Asti Rd, near petrol pump, Bargadi, Bakshi Ka Talab, Lucknow, Bargadi Magath, Uttar Pradesh 226201",
+    "area": "Bargadi, Bakshi Ka Talab",
+    "latitude": 26.9836869,
+    "longitude": 80.9264022,
+    "place_id": "ChIJZ2-4yXJRmTkRISC2Ql8aTKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2-4yXJRmTkRISC2Ql8aTKo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:44:40"
+  }
+]

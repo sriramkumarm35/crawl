@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Tamil Nadu Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "226012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "food court, Amar Shaheed Path, Omaxe City, Lucknow, Uttar Pradesh 226025",
+    "area": "Omaxe City",
+    "latitude": 26.7619583,
+    "longitude": 80.9261514,
+    "place_id": "ChIJM8LDRQD7mzkRf6-rIXfmAvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8LDRQD7mzkRf6-rIXfmAvg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:59:31"
+  },
+  {
+    "business_name": "Billu Hotel South indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "226012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "Launga Khera Kharika, Telibagh, Lucknow, Uttar Pradesh 226002",
+    "area": "Launga Khera Kharika, Telibagh",
+    "latitude": 26.786441099999998,
+    "longitude": 80.955497,
+    "place_id": "ChIJMZd-ZF77mzkRQYwQ59zzYe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZd-ZF77mzkRQYwQ59zzYe4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:59:32"
+  }
+]

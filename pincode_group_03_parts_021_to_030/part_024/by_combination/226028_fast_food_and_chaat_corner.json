@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "226028",
+    "phone_number": "+91 96969 66564",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "56/67, Satrikh Rd, Chinhat Bazar, Ganga Vihar, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Chinhat Bazar, Ganga Vihar, Chinhat",
+    "latitude": 26.8745783,
+    "longitude": 81.03209989999999,
+    "place_id": "ChIJEyS86SrjmzkRVYuMgIY-Svk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyS86SrjmzkRVYuMgIY-Svk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:45"
+  },
+  {
+    "business_name": "BALA JI CHAAT CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "226028",
+    "phone_number": "+91 70073 19219",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Service Rd, Anand Lok Colony, Chinhat, Lucknow, Semra, Uttar Pradesh 226028",
+    "area": "Anand Lok Colony, Chinhat",
+    "latitude": 26.8838327,
+    "longitude": 81.04621209999999,
+    "place_id": "ChIJJS8oAlVfmTkRQEYFj6TWQxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJS8oAlVfmTkRQEYFj6TWQxg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:29:45"
+  }
+]

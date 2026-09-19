@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RS Logistic",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "226023",
+    "phone_number": "N/A",
+    "website": "http://www.rslogistic.in/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "PVQ9+R3Q, Sarsawa sarojninagar lucknow Bhanmau gosaiganj, narepar, Salempur,gangaganj, Lucknow, Uttar Pradesh 226008",
+    "area": "Sarojini Nagar",
+    "latitude": 26.739577999999998,
+    "longitude": 80.86772959999999,
+    "place_id": "ChIJI8LvFGb5mzkRZKEsRZ4gvZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8LvFGb5mzkRZKEsRZ4gvZs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:20:53"
+  },
+  {
+    "business_name": "Gola Lucknow Goods Carrier",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "226023",
+    "phone_number": "+91 93352 42833",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "F-41, Maurang Mandi, Transport Nagar, Kanpur Road, T.P. Nagar, Hindnagar Colony, Transport Nagar, Lucknow, Uttar Pradesh 226012",
+    "area": "Hindnagar Colony, Transport Nagar",
+    "latitude": 26.777089,
+    "longitude": 80.889909,
+    "place_id": "ChIJ9VfyrFH5mzkRYeXF4cjdSxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VfyrFH5mzkRYeXF4cjdSxk",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:20:53"
+  }
+]

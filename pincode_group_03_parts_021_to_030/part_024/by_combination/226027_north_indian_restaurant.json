@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarush Restaurant And Banquet",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Family restaurant",
+    "pincode": "226027",
+    "phone_number": "+91 98380 39132",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "20, Rana Pratap Marg, Picup Colony, Butler Colony, Lucknow, Uttar Pradesh 226001",
+    "area": "Picup Colony, Butler Colony",
+    "latitude": 26.851483899999998,
+    "longitude": 80.9549857,
+    "place_id": "ChIJOaH4_Rz9mzkRiOwM66NfY28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaH4_Rz9mzkRiOwM66NfY28",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:27:55"
+  },
+  {
+    "business_name": "Wok-In",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "226027",
+    "phone_number": "+91 80049 23021",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "RWVW+HRM, Raj Bhavan Colony, The Mall Avenue, Lucknow, Uttar Pradesh 226001",
+    "area": "Raj Bhavan Colony, The Mall Avenue",
+    "latitude": 26.843954699999998,
+    "longitude": 80.94705379999999,
+    "place_id": "ChIJr-Arkwb9mzkRw-LxC6blJN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-Arkwb9mzkRw-LxC6blJN4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:27:56"
+  }
+]

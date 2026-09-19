@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "(MJ) MUNCHYY JUNCTIONS CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "226029",
+    "phone_number": "+91 92198 13943",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "OLYMPAS LAKE VIEW, Golf City, Sector B Ansal API, Lucknow, Muzaffar Nagar Ghusval, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.7813888,
+    "longitude": 80.99329639999999,
+    "place_id": "ChIJgxm2NAjlmzkRX5CsHlsrKAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxm2NAjlmzkRX5CsHlsrKAg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:40"
+  },
+  {
+    "business_name": "Fresh & Delicious Bakery &Meals Hub(Cloud kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "226029",
+    "phone_number": "+91 93365 26599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rishita Mulberry Heights, Golf City, Phase 1, Yusufnagar, Muzaffar Nagar Ghusval, Uttar Pradesh 226030",
+    "area": "Golf City, Phase 1",
+    "latitude": 26.781826799999997,
+    "longitude": 81.0078135,
+    "place_id": "ChIJH6Y6nEX7mzkRUwgovm5FpJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6Y6nEX7mzkRUwgovm5FpJ0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:42"
+  }
+]

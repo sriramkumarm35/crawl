@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhilesh Amul Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "226025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sector 6, Telibagh, Lucknow, Uttar Pradesh 226002",
+    "area": "Sector 6, Telibagh",
+    "latitude": 26.7732593,
+    "longitude": 80.9489376,
+    "place_id": "ChIJ7dDKZjT7mzkRthqP0KHN65Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dDKZjT7mzkRthqP0KHN65Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:24:10"
+  },
+  {
+    "business_name": "Vadilal Ice Parlar",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Bakery and Cake Shop",
+    "pincode": "226025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11 Dental, Eldeco Udyan Ii, Lucknow, Uttar Pradesh 226025",
+    "area": "Eldeco Udyan Ii",
+    "latitude": 26.7662433,
+    "longitude": 80.9396129,
+    "place_id": "ChIJRRrtRQD7mzkRSqVuGcmVwBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRrtRQD7mzkRSqVuGcmVwBY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:24:10"
+  }
+]

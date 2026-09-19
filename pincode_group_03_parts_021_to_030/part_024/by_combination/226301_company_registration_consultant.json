@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE ADVISOR",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Tax attorney",
+    "all_categories": "Tax attorney, Accounting firm, Business attorney, Intellectual property registry, Legal services, Registration office, Tax consultant, Tax preparation service",
+    "pincode": "226301",
+    "phone_number": "+91 63673 26885",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "100, Vishveshvaraiya Nagar, near Triveni, chouraha, Jaipur, Rajasthan 302018",
+    "area": "Vishveshvariya Nagar, chouraha",
+    "latitude": 26.867471799999997,
+    "longitude": 75.783352,
+    "place_id": "ChIJw3_DCRy1bTkRc3LzwpzeJ7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3_DCRy1bTkRc3LzwpzeJ7Q",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:23"
+  },
+  {
+    "business_name": "BIG1 Consultancy Services (BIG1CS)",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "226301",
+    "phone_number": "N/A",
+    "website": "https://www.big1cs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, J2/30, Amar Shaheed Path, Golf City, Sector - J, Sector B Ansal API, Lucknow, Hasanpur Khevali, Uttar Pradesh 226030",
+    "area": "Golf City, Sector - J, Sector B Ansal API",
+    "latitude": 26.778469599999998,
+    "longitude": 81.0253233,
+    "place_id": "ChIJRSm22Jf_k20RdMhyDfDM7PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSm22Jf_k20RdMhyDfDM7PQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:24"
+  }
+]

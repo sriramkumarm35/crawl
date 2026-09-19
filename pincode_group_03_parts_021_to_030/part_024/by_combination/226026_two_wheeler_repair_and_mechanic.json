@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Auto Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Auto parts store, Bicycle repair shop, Motorcycle parts store, Car wash",
+    "pincode": "226026",
+    "phone_number": "+91 88875 56403",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "Shukla chauraha, GS Plaza, Nahar Road, Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Janki Vihar Colony, Jankipuram",
+    "latitude": 26.941097199999998,
+    "longitude": 80.95139309999999,
+    "place_id": "ChIJK7g07spXmTkRsuxawSu0Ivc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7g07spXmTkRsuxawSu0Ivc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:29"
+  },
+  {
+    "business_name": "DHEERU BULLET SERVICE CENTER",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "226026",
+    "phone_number": "+91 99364 72332",
+    "website": "https://www.royalenfield.com/",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "WWPQ+8J7, Sector 3, Jankipuram Vistar, Lucknow, Uttar Pradesh 226031",
+    "area": "Sector 3, Jankipuram Vistar",
+    "latitude": 26.9357971,
+    "longitude": 80.9390207,
+    "place_id": "ChIJ-_bw0Q5XmTkRLprN8087sAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_bw0Q5XmTkRLprN8087sAc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:29"
+  }
+]

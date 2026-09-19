@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anas Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "226029",
+    "phone_number": "+91 73909 09052",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Road, opp. Medanta Hospital, Hariherpur, Roberts Lines, Lucknow, Uttar Pradesh 226002",
+    "area": "Hariherpur, Roberts Lines",
+    "latitude": 26.7795764,
+    "longitude": 80.9828715,
+    "place_id": "ChIJzeofdW37mzkR9WinIptIZSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeofdW37mzkR9WinIptIZSI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:31"
+  },
+  {
+    "business_name": "Kadaknath and bater Lucknow",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "226029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "438, near sahu colony , kalli paschim, Raibareli Rd, SGPGI, Lucknow, Uttar Pradesh 226301",
+    "area": "SGPGI",
+    "latitude": 26.734231599999998,
+    "longitude": 80.94532869999999,
+    "place_id": "ChIJa65OY-L7mzkRGOCEmyc_Ld4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa65OY-L7mzkRGOCEmyc_Ld4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Saurabh Sweets N Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "227405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Amethi, Uttar Pradesh 227405",
+    "area": "227405",
+    "latitude": 26.15365,
+    "longitude": 81.8136811,
+    "place_id": "ChIJa26sDRT1mjkRCrR194kd2Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa26sDRT1mjkRCrR194kd2Cc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 08:01:03"
+  },
+  {
+    "business_name": "red chilli chinese point",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "227405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Amethi - Durgapur Rd, Sarvan Pur, Amethi, Uttar Pradesh 227405",
+    "area": "227405",
+    "latitude": 26.1550287,
+    "longitude": 81.8118847,
+    "place_id": "ChIJx3sggpn1mjkRwlTk-CbypyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3sggpn1mjkRwlTk-CbypyA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 08:01:05"
+  }
+]

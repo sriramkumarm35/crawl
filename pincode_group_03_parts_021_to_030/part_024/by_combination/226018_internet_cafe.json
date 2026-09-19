@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Career Digital Point",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "226018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Vijay Nagar Naka Hindola, Charbagh, Lucknow, Uttar Pradesh 226004",
+    "area": "Vijay Nagar, Charbagh",
+    "latitude": 26.8357513,
+    "longitude": 80.92364529999999,
+    "place_id": "ChIJb-FmH8D9mzkRGAosojAbXnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-FmH8D9mzkRGAosojAbXnc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:12:07"
+  },
+  {
+    "business_name": "Vicky Internet Services",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Copy shop, Internet shop, Pen store, Photo lab, Website designer",
+    "pincode": "226018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 22,
+    "address": "288/144, near Garment dry cleaners(Laundry, near Charbagh, Arya Nagar, Charbagh, Lucknow, Uttar Pradesh 226004",
+    "area": "Arya Nagar, Charbagh",
+    "latitude": 26.835304999999998,
+    "longitude": 80.920118,
+    "place_id": "ChIJm4jO31D9mzkRLcA47wn8fWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4jO31D9mzkRLcA47wn8fWA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:12:09"
+  }
+]

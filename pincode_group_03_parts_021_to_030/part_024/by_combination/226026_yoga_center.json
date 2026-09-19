@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peace Point Yoga Center",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "226026",
+    "phone_number": "+91 97951 07122",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HD 173, Shiv Vihar Colony, Sector I, Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Shiv Vihar Colony, Sector I, Janki Vihar Colony, Jankipuram",
+    "latitude": 26.921041499999998,
+    "longitude": 80.94781069999999,
+    "place_id": "ChIJeRAvF-hXmTkRa4KkRDFDBhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRAvF-hXmTkRa4KkRDFDBhA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:23"
+  },
+  {
+    "business_name": "The Yoga Nest",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "226026",
+    "phone_number": "+91 91402 00479",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "60 Feet Rd, near Bhuiyan Devi Mandir, Vaishnavi Vihar Colony, Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh 226031",
+    "area": "Vaishnavi Vihar Colony, Janki Vihar Colony, Jankipuram",
+    "latitude": 26.939862299999998,
+    "longitude": 80.9493143,
+    "place_id": "ChIJT8wn1edXmTkRs-7uB8U72MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8wn1edXmTkRs-7uB8U72MI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:26:23"
+  }
+]

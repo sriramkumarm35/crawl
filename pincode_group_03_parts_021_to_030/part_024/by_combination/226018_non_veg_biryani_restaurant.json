@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Redan A house of Mandi",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant, Fine dining restaurant, Non Vegetarian Restaurant",
+    "pincode": "226018",
+    "phone_number": "+91 83183 05998",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Royal Shopping Centre, 28, Old Nazirabad Rd, Old Nazirabad, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Old Nazirabad, Khayali Ganj, Aminabad",
+    "latitude": 26.8490479,
+    "longitude": 80.9275571,
+    "place_id": "ChIJkfOEtbv9mzkRj3IheylRpUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfOEtbv9mzkRj3IheylRpUQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:55"
+  },
+  {
+    "business_name": "BABA BIRYANI",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Chicken & Mutton Shop, Mughlai restaurant",
+    "pincode": "226018",
+    "phone_number": "+91 79859 69978",
+    "website": "http://bababiryani.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Mohan Market, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Mohan Market, Khayali Ganj, Aminabad",
+    "latitude": 26.8480761,
+    "longitude": 80.9274102,
+    "place_id": "ChIJ68xzPrr9mzkR37n6bQ7tR1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68xzPrr9mzkR37n6bQ7tR1A",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:58"
+  }
+]

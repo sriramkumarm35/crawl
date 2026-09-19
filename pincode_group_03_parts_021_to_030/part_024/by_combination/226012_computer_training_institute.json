@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rays computer academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Computer service, Consultant, Software company, Software Training Institute",
+    "pincode": "226012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "8/99, Rajni Khand Rd, Ratan Khand, Ruchi Khand 1, Sharda Nagar, Lucknow, Uttar Pradesh 226002",
+    "area": "Ratan Khand, Ruchi Khand 1, Sharda Nagar",
+    "latitude": 26.775287,
+    "longitude": 80.9313959,
+    "place_id": "ChIJ5W08BZD7mzkRkIK6r3pyA24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5W08BZD7mzkRkIK6r3pyA24",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:00:35"
+  },
+  {
+    "business_name": "Nice Computer Education Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "226012",
+    "phone_number": "+91 93076 91658",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 6 Krishna Life Line Hospital, In Front of Ram Bharose Inter College Near Police Chauki, Telibagh, Lucknow, Uttar Pradesh 226002",
+    "area": "Nilmatha Bazar, Telibagh",
+    "latitude": 26.7819804,
+    "longitude": 80.9421371,
+    "place_id": "ChIJ8atWeYL7mzkRX-StR5ZzrCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8atWeYL7mzkRX-StR5ZzrCY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:00:39"
+  }
+]

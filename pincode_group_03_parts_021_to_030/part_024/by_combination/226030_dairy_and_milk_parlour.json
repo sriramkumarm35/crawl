@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parag Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "226030",
+    "phone_number": "+91 96953 47360",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 6,
+    "address": "Jila Karagar Booth gosaiganj, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City",
+    "latitude": 26.780963,
+    "longitude": 80.99815799999999,
+    "place_id": "ChIJMVVVVaXkmzkRQKMjSkFYAQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVVVVaXkmzkRQKMjSkFYAQs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:33:19"
+  },
+  {
+    "business_name": "Amul Banas Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "226030",
+    "phone_number": "N/A",
+    "website": "http://www.banasdairy.coop/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Golf City, Chak Kajehra, Uttar Pradesh 226002",
+    "area": "Golf City",
+    "latitude": 26.786155899999997,
+    "longitude": 81.02556899999999,
+    "place_id": "ChIJQYUMIYTkmzkRtxcbVBIO6tE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYUMIYTkmzkRtxcbVBIO6tE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:33:20"
+  }
+]

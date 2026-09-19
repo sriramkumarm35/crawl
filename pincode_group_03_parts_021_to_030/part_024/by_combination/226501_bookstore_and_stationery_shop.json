@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Scholar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Pen store",
+    "pincode": "226501",
+    "phone_number": "+91 90738 41376",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Rani Monzill Apartment, Sreenagar Main Rd, opposite Muthoot Fincorp, Srinagar, Garia, Kolkata, Rajpur Sonarpur, West Bengal 700094",
+    "area": "Srinagar, Garia",
+    "latitude": 22.4687144,
+    "longitude": 88.40419059999999,
+    "place_id": "ChIJna60KytyAjoRgjhqIezEdW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJna60KytyAjoRgjhqIezEdW0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:58:32"
+  },
+  {
+    "business_name": "M/S Sonam Photostate & Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Internet service provider",
+    "pincode": "226501",
+    "phone_number": "+91 97930 15076",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Town Area Market, Gosainganj, Uttar Pradesh 226501",
+    "area": "226501",
+    "latitude": 26.7680507,
+    "longitude": 81.1055353,
+    "place_id": "ChIJFVGz_O7mmzkR9WAQjCMbE2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVGz_O7mmzkR9WAQjCMbE2A",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:58:35"
+  }
+]

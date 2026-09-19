@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rcm PUC MADIYAON",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "226031",
+    "phone_number": "+91 94150 84873",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "537,GHA/12, Sitapur Rd, Sri Nagar Colony, Mohibullapur, Madiyanva, Lucknow, Uttar Pradesh 226021",
+    "area": "Sri Nagar Colony, Mohibullapur, Madiyanva",
+    "latitude": 26.912786399999998,
+    "longitude": 80.9372719,
+    "place_id": "ChIJja89oE5WmTkR5JaRZnFDvBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJja89oE5WmTkR5JaRZnFDvBs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:01"
+  },
+  {
+    "business_name": "छठा मील",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "226031",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 169,
+    "address": "XW3J+M9Q, Sitapur Rd, Chhata Meel, Jankipuram Extension, Lucknow, Uttar Pradesh 226201",
+    "area": "Chhata Meel, Jankipuram Extension",
+    "latitude": 26.9542128,
+    "longitude": 80.9309722,
+    "place_id": "ChIJEwRVd9ZXmTkR9l1DMZCTTIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwRVd9ZXmTkR9l1DMZCTTIs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:01"
+  }
+]

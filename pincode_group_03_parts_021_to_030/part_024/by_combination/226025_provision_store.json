@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanna Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "226025",
+    "phone_number": "+91 93360 01768",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kharika Rd, Swaroop Nagar, Telibagh, Lucknow, Uttar Pradesh 226029",
+    "area": "Swaroop Nagar, Telibagh",
+    "latitude": 26.785921899999998,
+    "longitude": 80.9498672,
+    "place_id": "ChIJA68As-n7mzkRIGo5JMwgBrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA68As-n7mzkRIGo5JMwgBrM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:23:57"
+  },
+  {
+    "business_name": "Value Plus - Trusted Electronics Store - Telibagh",
+    "search_category": "Provision Store",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Air conditioning store, Cell phone store, Computer store, Countertop store, Electronics wholesaler, Home improvement store, Kitchen supply store, Refrigerator store, Washer & dryer store",
+    "pincode": "226025",
+    "phone_number": "+91 80 4495 3325",
+    "website": "https://www.valueplusretail.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lucknow - Raibareli Rd, beside Home Decor Furnitures, Sainik Nagar, Telibagh, Lucknow, Uttar Pradesh 226002",
+    "area": "Sainik Nagar, Telibagh",
+    "latitude": 26.7746471,
+    "longitude": 80.9436845,
+    "place_id": "ChIJL-h6ZCz7mzkRe5p3GegWx_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-h6ZCz7mzkRe5p3GegWx_g",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:23:59"
+  }
+]

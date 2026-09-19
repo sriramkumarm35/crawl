@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Carnekart",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "226014",
+    "phone_number": "+91 89607 77088",
+    "website": "http://www.carnekart.com/",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "opposite Kalindi Park, Haibat Mau Mawaiya, Sector 4B, Vrindavan Colony, Lucknow, Uttar Pradesh 226029",
+    "area": "Haibat Mau Mawaiya, Sector 4B, Vrindavan Colony",
+    "latitude": 26.7590135,
+    "longitude": 80.95134929999999,
+    "place_id": "ChIJPQ2qauD7mzkRSYr21Pn_ozw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQ2qauD7mzkRSYr21Pn_ozw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:14"
+  },
+  {
+    "business_name": "Ali Abbas Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "226014",
+    "phone_number": "+91 63938 42099",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 55,
+    "address": "Lucknow, Bijnor, Uttar Pradesh 226002",
+    "area": "226014",
+    "latitude": 26.7442946,
+    "longitude": 80.905284,
+    "place_id": "ChIJeYL_g1n7mzkRygTsAcW7sTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYL_g1n7mzkRygTsAcW7sTQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:03:15"
+  }
+]

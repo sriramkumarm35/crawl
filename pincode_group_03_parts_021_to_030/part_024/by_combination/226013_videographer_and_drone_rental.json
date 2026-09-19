@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shootesy",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Service establishment, Photography service, Wedding photographer",
+    "pincode": "226013",
+    "phone_number": "+91 99676 70662",
+    "website": "https://www.shootesy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shootesy, 226013, India",
+    "area": "226013",
+    "latitude": 25.563184399999997,
+    "longitude": 77.9181682,
+    "place_id": "ChIJR4hvY29ZjUMRwxQ-JSoygIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4hvY29ZjUMRwxQ-JSoygIw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:02:24"
+  },
+  {
+    "business_name": "Ajit Films",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "226013",
+    "phone_number": "+91 98076 39370",
+    "website": "https://ajitfilm.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Block, near amit sabhasad office, Fazullaganj, Lucknow, Uttar Pradesh 226020",
+    "area": "Fazullaganj",
+    "latitude": 26.894091,
+    "longitude": 80.924521,
+    "place_id": "ChIJkWbzAff9mzkRBeP1FlOIwp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWbzAff9mzkRBeP1FlOIwp0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:02:26"
+  }
+]

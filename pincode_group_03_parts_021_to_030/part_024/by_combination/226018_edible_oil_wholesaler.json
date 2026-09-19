@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Achaari",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Service establishment",
+    "pincode": "226018",
+    "phone_number": "+91 81889 62888",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "The Achaari, 226018, India",
+    "area": "226018",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJQed-Gc_9mzkR1p-8z9YUYBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQed-Gc_9mzkR1p-8z9YUYBY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:49"
+  },
+  {
+    "business_name": "Laxmi Oil Bhandar",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer, Store",
+    "pincode": "226018",
+    "phone_number": "+91 98072 76455",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RWR9+FQX, Subhash Marg, Raniganj, Rajendra Nagar, Lucknow, Uttar Pradesh 226004",
+    "area": "Raniganj, Rajendra Nagar",
+    "latitude": 26.8412322,
+    "longitude": 80.9194856,
+    "place_id": "ChIJY5yf7Mn9mzkRdX6eFK5xNf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5yf7Mn9mzkRdX6eFK5xNf8",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:51"
+  }
+]

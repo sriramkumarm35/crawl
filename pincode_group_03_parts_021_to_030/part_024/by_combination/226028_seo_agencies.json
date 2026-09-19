@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Website A to Z Everything",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "226028",
+    "phone_number": "+91 98199 32839",
+    "website": "https://website.atozeverything.in/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "cd public school, Satrikh Rd, Nandi Vihar Colony, Ashraf Vihar Colony, Gomti Nagar, Lucknow, Uttar Pradesh 226028",
+    "area": "Nandi Vihar Colony, Ashraf Vihar Colony, Gomti Nagar",
+    "latitude": 26.8693986,
+    "longitude": 81.048688,
+    "place_id": "ChIJB1id4WLGlw0RRDSoVHyE30c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1id4WLGlw0RRDSoVHyE30c",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:18"
+  },
+  {
+    "business_name": "Saukrit",
+    "search_category": "SEO Agencies",
+    "primary_category": "Business banking service",
+    "all_categories": "Business banking service",
+    "pincode": "226028",
+    "phone_number": "+91 89606 08106",
+    "website": "https://saukrit.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Chinhat Bazar, Ganga Vihar, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Chinhat Bazar, Ganga Vihar, Chinhat",
+    "latitude": 26.8743736,
+    "longitude": 81.0320021,
+    "place_id": "ChIJryUO2YLjmzkRjiuMA4QGWOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryUO2YLjmzkRjiuMA4QGWOg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:21"
+  }
+]

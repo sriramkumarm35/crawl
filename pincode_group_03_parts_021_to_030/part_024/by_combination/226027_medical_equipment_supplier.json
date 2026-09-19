@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inspire Healthcare",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant, Medical Equipment Manufacturer, Surgical supply store",
+    "pincode": "226027",
+    "phone_number": "+91 70808 87888",
+    "website": "http://www.inspirehealthcare.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tej Kumar Plaza, L-1, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Nagar Nigam Market, Hazratganj",
+    "latitude": 26.846819999999997,
+    "longitude": 80.941951,
+    "place_id": "ChIJTVhADqj9mzkRYwUAvF5GSQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVhADqj9mzkRYwUAvF5GSQE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:17"
+  },
+  {
+    "business_name": "Care Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "226027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "60 feet road jankipuram, Uttar Pradesh 226001",
+    "area": "Azar collage, Lalbagh",
+    "latitude": 26.8466937,
+    "longitude": 80.94616599999999,
+    "place_id": "ChIJ84-DqIP9mzkRXOe7PSF7fLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84-DqIP9mzkRXOe7PSF7fLI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:28:19"
+  }
+]

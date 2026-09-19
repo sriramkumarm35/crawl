@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahi Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "226203",
+    "phone_number": "+91 90266 92006",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "E4/1195, Mansarovar Yojna LDA Colony, New Gudaura, near Amar Shaheed Path, Lucknow, Uttar Pradesh 226009",
+    "area": "Amausi",
+    "latitude": 26.769776999999998,
+    "longitude": 80.89733489999999,
+    "place_id": "ChIJJVx5v1j5mzkRGD-LtpRn0Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVx5v1j5mzkRGD-LtpRn0Kg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:08"
+  },
+  {
+    "business_name": "New Sadar Wala Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "226203",
+    "phone_number": "+91 94150 29636",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No-292,Baniya Mahal, Lucknow, Uttar Pradesh 226002",
+    "area": "Sadar Bazaar, Cantonment",
+    "latitude": 26.828142,
+    "longitude": 80.944335,
+    "place_id": "ChIJFRLE7Pj8mzkRVFvRpKHiNHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRLE7Pj8mzkRVFvRpKHiNHw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:49:08"
+  }
+]

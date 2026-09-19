@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 jewellery and cosmetics",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "226017",
+    "phone_number": "+91 91408 47882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amit Plaza, Budheshwar Chauraha, Lucknow, Uttar Pradesh 226017",
+    "area": "Budheshwar, Alamnagar, Rajajipuram",
+    "latitude": 26.840494699999997,
+    "longitude": 80.85260269999999,
+    "place_id": "ChIJQYf0sTv_mzkRt_RgKQSOsgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYf0sTv_mzkRt_RgKQSOsgw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:09:11"
+  },
+  {
+    "business_name": "Adarsh jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "226017",
+    "phone_number": "+91 89576 40402",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Begariya Rd, near sitapurbypass, Dubagga, Lucknow, Uttar Pradesh 226101",
+    "area": "Dubagga",
+    "latitude": 26.875445499999998,
+    "longitude": 80.8546484,
+    "place_id": "ChIJ62h1ZQD_mzkRDXOiZn4Mxeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62h1ZQD_mzkRDXOiZn4Mxeo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:09:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doorstepwash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "226021",
+    "phone_number": "+91 80550 08805",
+    "website": "http://www.doorstepwash.com/",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "Doorstepwash.Com C-5, Sector-D, Sitapur Road Scheme, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector H, Sector D, Jankipuram",
+    "latitude": 26.921017,
+    "longitude": 80.9535179,
+    "place_id": "ChIJG4XmoRhXmTkRRGak2nuLX80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4XmoRhXmTkRRGak2nuLX80",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:17:00"
+  },
+  {
+    "business_name": "Flash wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "226021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sector A, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector A, Jankipuram",
+    "latitude": 26.9062992,
+    "longitude": 80.94264179999999,
+    "place_id": "ChIJgYJrZCpXmTkR07tGCMR3niE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYJrZCpXmTkR07tGCMR3niE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:17:00"
+  }
+]

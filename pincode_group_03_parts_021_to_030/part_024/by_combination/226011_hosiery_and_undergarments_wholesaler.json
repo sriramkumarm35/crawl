@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bodycare",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "226011",
+    "phone_number": "+91 97181 77513",
+    "website": "https://www.bodycareapparels.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop no T- 010 second floor, near Lulu Mall, Golf City, Sector B Ansal API, Lucknow, Hariharpur, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.784235,
+    "longitude": 80.9913914,
+    "place_id": "ChIJR_KOTYTlmzkRUB8B9nsdQjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_KOTYTlmzkRUB8B9nsdQjY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:57:50"
+  },
+  {
+    "business_name": "Phoenix Store",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Lingerie store, Women's clothing store",
+    "pincode": "226011",
+    "phone_number": "+91 96160 42807",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 51,
+    "address": "12 block, 124/B/192, A Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "A Block, Govind Nagar",
+    "latitude": 26.450142399999997,
+    "longitude": 80.3032071,
+    "place_id": "ChIJKctwFpFHnDkRhrkV6aUyvAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKctwFpFHnDkRhrkV6aUyvAg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:57:50"
+  }
+]

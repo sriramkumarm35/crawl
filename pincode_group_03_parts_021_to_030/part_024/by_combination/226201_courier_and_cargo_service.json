@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "226201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 6,
+    "address": "XWMF+VC6, Sitapur Rd, Bargadi, Bakshi Ka Talab, Bargadi Magath, Uttar Pradesh 226201",
+    "area": "Bargadi, Bakshi Ka Talab",
+    "latitude": 26.9846588,
+    "longitude": 80.92350979999999,
+    "place_id": "ChIJP-t2CjdRmTkRGUc3E9afqo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-t2CjdRmTkRGUc3E9afqo0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:45:51"
+  },
+  {
+    "business_name": "International Courier and Cargo - Sagar Air Express",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Freight Forwarding Agency, Import export company, Logistics service, Shipping service, Transportation service",
+    "pincode": "226201",
+    "phone_number": "+91 99997 77651",
+    "website": "http://www.sagarairexpress.com/",
+    "rating": 4.9,
+    "reviews_count": 343,
+    "address": "Metro Pillar Number 126, 416/2, Ghitorni, New Delhi, Delhi 110030",
+    "area": "Ghitorni",
+    "latitude": 28.491574999999997,
+    "longitude": 77.1433607,
+    "place_id": "ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:45:54"
+  }
+]

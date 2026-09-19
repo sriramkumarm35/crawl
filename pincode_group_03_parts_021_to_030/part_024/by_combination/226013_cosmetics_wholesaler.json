@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow cosmetic",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "226013",
+    "phone_number": "+91 99848 79340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Manoj panday road, Vijay Khand, Ujariyaon, Vishal Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijay Khand, Ujariyaon, Vishal Khand, Gomti Nagar",
+    "latitude": 26.8568605,
+    "longitude": 80.9930856,
+    "place_id": "ChIJLQDdU8nimzkRrsmEVT96bdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQDdU8nimzkRrsmEVT96bdM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:02:17"
+  },
+  {
+    "business_name": "Sami emporium",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Perfume store",
+    "pincode": "226013",
+    "phone_number": "+91 93079 37493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Choti prakriya, near awadh school, Khadra, Lucknow, Uttar Pradesh 226020",
+    "area": "Khadra",
+    "latitude": 26.881990899999998,
+    "longitude": 80.9213588,
+    "place_id": "ChIJ_cFgItRXmTkRm-bO54FQ1ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cFgItRXmTkRm-bO54FQ1ZY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:02:17"
+  }
+]

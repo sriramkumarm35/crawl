@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra Jaiswal Beer Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "226018",
+    "phone_number": "+91 99563 74258",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Guru Govind, Rajeshwar Singh Marg, Devendpuri, Lalkuan, Lucknow, Uttar Pradesh 226018",
+    "area": "Devendpuri, Lalkuan",
+    "latitude": 26.8372451,
+    "longitude": 80.9226692,
+    "place_id": "ChIJ1zQeCbX9mzkR4-mfgBTiPLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zQeCbX9mzkR4-mfgBTiPLc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:59"
+  },
+  {
+    "business_name": "Bombay stylez",
+    "search_category": "Bar and Pub",
+    "primary_category": "Sports bar",
+    "all_categories": "Sports bar",
+    "pincode": "226018",
+    "phone_number": "+91 87378 71936",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no 50, ugf) Lucknow plaza complex, Nazirabad Rd, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Khayali Ganj, Aminabad",
+    "latitude": 26.848696699999998,
+    "longitude": 80.9288916,
+    "place_id": "ChIJA2p0go79mzkR9xqE5U8ZH9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2p0go79mzkR9xqE5U8ZH9o",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:59"
+  }
+]

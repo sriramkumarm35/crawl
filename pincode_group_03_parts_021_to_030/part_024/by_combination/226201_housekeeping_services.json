@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waasle Laundry and Dry cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "226201",
+    "phone_number": "+91 91700 54374",
+    "website": "https://waasle.in/",
+    "rating": 4.8,
+    "reviews_count": 44,
+    "address": "Basement, V Laxmi Complex, IIM Rd, near Maharishi University, opp. nainital Bank, Diguria, Madiyanva, Lucknow, Uttar Pradesh 226013",
+    "area": "Diguria, Madiyanva",
+    "latitude": 26.9303702,
+    "longitude": 80.92693609999999,
+    "place_id": "ChIJDdUZPFtXmTkR6De-Wvgsh-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdUZPFtXmTkR6De-Wvgsh-c",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:45:53"
+  },
+  {
+    "business_name": "Torque Laundries",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "226201",
+    "phone_number": "+91 97929 23535",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 60,
+    "address": "30, Balaji enclave, Muttkipur, IIM Rd, Lucknow, Uttar Pradesh 226013",
+    "area": "Madiyanva",
+    "latitude": 26.929156799999998,
+    "longitude": 80.9197421,
+    "place_id": "ChIJ7ezGfk5XmTkRZsA9VjwcGNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ezGfk5XmTkRZsA9VjwcGNo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:45:53"
+  }
+]

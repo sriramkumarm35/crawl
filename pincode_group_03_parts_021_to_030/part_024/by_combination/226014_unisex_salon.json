@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cosmic Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Health and beauty shop",
+    "pincode": "226014",
+    "phone_number": "+91 92116 36059",
+    "website": "http://cosmicunisexsalon.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Cosmic Unisex Salon, Divider rd Nangla Tashi, opp. to Sainik Vihar, gate, Meerut, Uttar Pradesh 250001",
+    "area": "gate",
+    "latitude": 29.0365078,
+    "longitude": 77.6684216,
+    "place_id": "ChIJdV67sq1vDDkRkdPzkzcpXiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdV67sq1vDDkRkdPzkzcpXiM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:04:07"
+  },
+  {
+    "business_name": "Graceful Glamour Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "226014",
+    "phone_number": "+91 73075 67686",
+    "website": "https://gracefulglamourunisexsalon.in/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "Sector 2, Vrindavan Colony, Lucknow, Uttar Pradesh 226029",
+    "area": "Sector 2, Vrindavan Colony",
+    "latitude": 26.759203199999998,
+    "longitude": 80.9513,
+    "place_id": "ChIJmwZD9Sb7mzkRkkjGr1aHo_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwZD9Sb7mzkRkkjGr1aHo_A",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:04:09"
+  }
+]

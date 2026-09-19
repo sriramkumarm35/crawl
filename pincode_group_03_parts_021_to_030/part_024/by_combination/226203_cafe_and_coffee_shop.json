@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wildbean Café | Sitapur Lucknow 1",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Coffee roastery, Coffee stand, Coffee store, Espresso bar, Pizza restaurant, Restaurant, Sandwich shop, Tea store",
+    "pincode": "226203",
+    "phone_number": "+91 96678 35016",
+    "website": "https://www.jiobp.com/products-and-services/wild-bean-cafe",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "Uet001 - M/S Raghunath Inc, Kunwarpur, Nh-24, Ataria, Banoga, Uttar Pradesh 261303",
+    "area": "226203",
+    "latitude": 27.15334,
+    "longitude": 80.86548719999999,
+    "place_id": "ChIJB8friZhNmTkRgNFT2d36iXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8friZhNmTkRgNFT2d36iXE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:14"
+  },
+  {
+    "business_name": "RAABTA Cafe and Diner",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "226203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "XWPC+X7Q, Bargadi, Bakshi Ka Talab, Bargadi Magath, Uttar Pradesh 226201",
+    "area": "Bargadi, Bakshi Ka Talab",
+    "latitude": 26.987456899999998,
+    "longitude": 80.9207299,
+    "place_id": "ChIJiwJtklNRmTkRD-r3_Oy0kQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwJtklNRmTkRD-r3_Oy0kQM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:48:16"
+  }
+]

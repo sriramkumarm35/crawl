@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "226501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arjunganj, Lucknow, Uttar Pradesh 226002",
+    "area": "Arjunganj",
+    "latitude": 26.808128699999997,
+    "longitude": 80.9910551,
+    "place_id": "ChIJTTMcgwXjmzkREcrzweC1Io4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTMcgwXjmzkREcrzweC1Io4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:57:31"
+  },
+  {
+    "business_name": "Mini Palak Jewellers मिनी पलक ज्वेलर्स",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "226501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R2MP+CCX, STP Road, Khargapur, Gomti Nagar, Thasemau, Bhaisora, Uttar Pradesh 226028",
+    "area": "Khargapur, Gomti Nagar",
+    "latitude": 26.833602,
+    "longitude": 81.0361044,
+    "place_id": "ChIJNXohXgDjmzkRCC6xsHARbLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXohXgDjmzkRCC6xsHARbLg",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:57:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Edwise International",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Coaching Center, Educational institution, Educational testing service, English language school",
+    "pincode": "226401",
+    "phone_number": "+91 11 4700 5333",
+    "website": "https://www.edwiseinternational.com/",
+    "rating": 4.8,
+    "reviews_count": 1271,
+    "address": "N-13, opp. Flyover, above Punjab National Bank, South Extension I, Block N, New Delhi, Delhi 110003",
+    "area": "South Extension I, Block N",
+    "latitude": 28.568872799999998,
+    "longitude": 77.2233444,
+    "place_id": "ChIJq6qqGoQdDTkRJMQ-qvynXME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqGoQdDTkRJMQ-qvynXME",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:56:39"
+  },
+  {
+    "business_name": "Vidyaanta Edu",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "226401",
+    "phone_number": "N/A",
+    "website": "https://www.vidyaanta.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vidyaanta Edu, 226401, India",
+    "area": "226401",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJIz28gWCa_oERIPvYOmuQjwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIz28gWCa_oERIPvYOmuQjwY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:56:41"
+  }
+]

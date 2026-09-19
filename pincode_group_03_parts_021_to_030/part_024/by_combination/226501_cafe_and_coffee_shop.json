@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe EL Retro",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "226501",
+    "phone_number": "N/A",
+    "website": "https://cafeelretro.vercel.app/",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "Shop no. M-40, 41, Kisan Bazar, opposite Cafe leaf and latté, near Dayal Gateway, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226002",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8609497,
+    "longitude": 81.0095946,
+    "place_id": "ChIJOWq_K0PjmzkRyI5DEVKo2uQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWq_K0PjmzkRyI5DEVKo2uQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:57:28"
+  },
+  {
+    "business_name": "Cafora House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "226501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 83,
+    "address": "no-1, PNO-1, opposite Amity University Road, Gomti Nagar, Nijampur Malhaur, Lucknow, Uttar Pradesh 226028",
+    "area": "Gomti Nagar",
+    "latitude": 26.852579,
+    "longitude": 81.0515618,
+    "place_id": "ChIJHbtgCYPjmzkRbHvf-tjoKOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbtgCYPjmzkRbHvf-tjoKOI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:57:29"
+  }
+]

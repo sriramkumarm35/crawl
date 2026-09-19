@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Enterprises",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Advertising agency, Design agency",
+    "pincode": "226028",
+    "phone_number": "+91 98390 77778",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Shop No 1, 6,7 Ground Floor, Kausar Complex, Matiyari, Chauraha, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Khand -2, Chauraha, Chinhat",
+    "latitude": 26.8808936,
+    "longitude": 81.0390855,
+    "place_id": "ChIJiTH2JnrimzkRAAAA0Inn0zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTH2JnrimzkRAAAA0Inn0zw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:30:54"
+  },
+  {
+    "business_name": "Gomti Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Digital printer",
+    "all_categories": "Digital printer",
+    "pincode": "226028",
+    "phone_number": "+91 91615 00500",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 59,
+    "address": "2/39, Viram Khand, Viram Khand-2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Viram Khand-2, Gomti Nagar",
+    "latitude": 26.8503634,
+    "longitude": 81.0001437,
+    "place_id": "ChIJU2aDBsXimzkRjYerV23jeCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2aDBsXimzkRjYerV23jeCo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:30:54"
+  }
+]

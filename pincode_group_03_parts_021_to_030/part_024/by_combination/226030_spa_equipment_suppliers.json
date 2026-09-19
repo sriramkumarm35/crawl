@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Morphosis Salon & Spa",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Make-up artist, Massage spa, Wellness center",
+    "pincode": "226030",
+    "phone_number": "+91 73175 80007",
+    "website": "https://morphosisspa.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "First Floor B1, DLF MyPad, Vijaipur Colony, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijaipur Colony, Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.865894599999997,
+    "longitude": 81.0064766,
+    "place_id": "ChIJ67gBNILjmzkRHtkc-GFf4kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67gBNILjmzkRHtkc-GFf4kU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:34:18"
+  },
+  {
+    "business_name": "Sutra Spa & Salon",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Beauty Parlour, Massage therapist, Spa",
+    "pincode": "226030",
+    "phone_number": "+91 90449 51226",
+    "website": "https://sutraspasalon.mvitm.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2/429 Vivek Khand Gomti Nagar, Opp. Neelkanth Sweets, above Dr A.K Chawala, Lucknow, Uttar Pradesh 226010",
+    "area": "Vivek Khand 2, Gomti Nagar",
+    "latitude": 26.8579577,
+    "longitude": 80.99850459999999,
+    "place_id": "ChIJGzawiuTjmzkRQT3rd6IP464",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzawiuTjmzkRQT3rd6IP464",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:34:19"
+  }
+]

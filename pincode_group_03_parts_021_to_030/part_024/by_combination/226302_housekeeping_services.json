@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Deep Home Cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "226302",
+    "phone_number": "+91 62907 12178",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 157,
+    "address": "Bihari Para Rd, Paschim Chowbaga, Kolkata, West Bengal 700100",
+    "area": "Paschim Chowbaga",
+    "latitude": 22.5286665,
+    "longitude": 88.40735219999999,
+    "place_id": "ChIJBY1xkbh1AjoRN0tgwuH-UAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBY1xkbh1AjoRN0tgwuH-UAs",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:53:13"
+  },
+  {
+    "business_name": "House Care Online",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Appliance repair service, Pest control service, Security system installation service",
+    "pincode": "226302",
+    "phone_number": "+91 78903 33300",
+    "website": "http://www.housecareonline.in/",
+    "rating": 4.7,
+    "reviews_count": 643,
+    "address": "1/12 A, Nehru Colony, PO, Regent Park, Kolkata, West Bengal 700040",
+    "area": "Nehru Colony, PO, Regent Park",
+    "latitude": 22.487928999999998,
+    "longitude": 88.349083,
+    "place_id": "ChIJ3XuQaelwAjoR310OeXrKGuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XuQaelwAjoR310OeXrKGuc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:53:13"
+  }
+]

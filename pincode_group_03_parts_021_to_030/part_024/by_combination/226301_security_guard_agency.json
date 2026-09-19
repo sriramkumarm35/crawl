@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CISB Services Private Limited",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "226301",
+    "phone_number": "N/A",
+    "website": "http://www.cisb.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pinewood Villa, J/2/62, Golf City, Lucknow, Hasanpur Khevali, Uttar Pradesh 226002",
+    "area": "Golf City",
+    "latitude": 26.778242499999998,
+    "longitude": 81.0250135,
+    "place_id": "ChIJqWlhbADlmzkR6PlxA4eTBx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWlhbADlmzkR6PlxA4eTBx4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:21"
+  },
+  {
+    "business_name": "N.T.S Associates Pvt. Ltd. | Security Guards | Manpower |",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "226301",
+    "phone_number": "N/A",
+    "website": "https://nts.security-lucknow.workers.dev/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2A/283, utrathiya, near Water Tank, Sector 9B, Sector 2, Vrindavan Colony, Lucknow, Uttar Pradesh 226025",
+    "area": "Sector 9B, Sector 2, Vrindavan Colony",
+    "latitude": 26.7669942,
+    "longitude": 80.9525208,
+    "place_id": "ChIJM5ryrij7mzkRSUw99U4YhSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5ryrij7mzkRSUw99U4YhSw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:51:23"
+  }
+]

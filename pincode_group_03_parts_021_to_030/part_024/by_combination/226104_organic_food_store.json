@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "हडहा",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "226104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 14,
+    "address": "Hadha, Uttar Pradesh 241202",
+    "area": "226104",
+    "latitude": 27.0874635,
+    "longitude": 80.7019456,
+    "place_id": "ChIJW5wKxa2xnjkRoPMbOBeonFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5wKxa2xnjkRoPMbOBeonFU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:42:37"
+  },
+  {
+    "business_name": "Gaubharat Organic store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "226104",
+    "phone_number": "+91 90993 26934",
+    "website": "https://gaubharat.com/",
+    "rating": 4.7,
+    "reviews_count": 86,
+    "address": "D-22, Spandan complex, Gaubharat Swadeshi haat, Arunachal Rd, opposite Subhanpura hospital, Subhanpura, Vadodara, Gujarat 390023",
+    "area": "Varjdham, Subhanpura",
+    "latitude": 22.3237381,
+    "longitude": 73.1513524,
+    "place_id": "ChIJ3Z6gsY7JXzkRGzxrbQBQyTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Z6gsY7JXzkRGzxrbQBQyTo",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:42:37"
+  }
+]

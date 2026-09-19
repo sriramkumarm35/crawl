@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adhish Aquatics",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "226018",
+    "phone_number": "+91 94510 90422",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 8,
+    "address": "96/59, near Santoshi Mata Mandir, Old Ganesh Ganj, Qurashi Nagar, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Old Ganesh Ganj, Qurashi Nagar, Aminabad",
+    "latitude": 26.8430666,
+    "longitude": 80.9248992,
+    "place_id": "ChIJ70Yb2nb9mzkRLJuBt1wtyaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70Yb2nb9mzkRLJuBt1wtyaU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:49"
+  },
+  {
+    "business_name": "Irfan Fish Corner",
+    "search_category": "Fish Market",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "226018",
+    "phone_number": "+91 88408 74830",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naaz Cinema, Old Nazirabad Rd, Old Nazirabad, Khayali Ganj, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Old Nazirabad, Khayali Ganj, Aminabad",
+    "latitude": 26.848496599999997,
+    "longitude": 80.927775,
+    "place_id": "ChIJR5qF6zL9mzkR28oG-TSb0yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5qF6zL9mzkR28oG-TSb0yc",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:10:49"
+  }
+]

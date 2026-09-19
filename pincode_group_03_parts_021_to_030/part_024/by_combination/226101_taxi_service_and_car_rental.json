@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "226101",
+    "phone_number": "+91 75259 97077",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Iim, near BABA super store, Lucknow, Shivari, Uttar Pradesh 226101",
+    "area": "226101",
+    "latitude": 26.806471799999997,
+    "longitude": 80.7602394,
+    "place_id": "ChIJP4BjD0EBnDkRiHAXeQdmppY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4BjD0EBnDkRiHAXeQdmppY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:45"
+  },
+  {
+    "business_name": "CTL TOUR AND TRAVELS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "226101",
+    "phone_number": "+91 77539 03037",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "amrapali awas, H5/109, VIKAS DUBGGA, Lucknow, Uttar Pradesh 226003",
+    "area": "226101",
+    "latitude": 26.894499399999997,
+    "longitude": 80.8646703,
+    "place_id": "ChIJ78eRj8xVmTkRVtcSKTsbdww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78eRj8xVmTkRVtcSKTsbdww",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:37:48"
+  }
+]

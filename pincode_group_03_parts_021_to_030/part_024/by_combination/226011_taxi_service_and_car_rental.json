@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "all India travel",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Minibus taxi service",
+    "all_categories": "Minibus taxi service, Bus tour agency, Car leasing service, Taxi service, Tour operator, Travel agency",
+    "pincode": "226011",
+    "phone_number": "+91 96950 49074",
+    "website": "https://allindiatravelslucknow.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Kanausi, Lucknow, Uttar Pradesh 226011",
+    "area": "Kanausi",
+    "latitude": 26.8086955,
+    "longitude": 80.8852765,
+    "place_id": "ChIJYQAmttj_mzkR2Xx3VVyC7wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQAmttj_mzkR2Xx3VVyC7wY",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:58:08"
+  },
+  {
+    "business_name": "Taxi on Travel Desk",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car rental agency, Packaging company, Transportation service",
+    "pincode": "226011",
+    "phone_number": "+91 80819 11033",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ss1041 sector H ashiyana lda conlony kanpur road, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector H, LDA Colony",
+    "latitude": 26.7929508,
+    "longitude": 80.9107782,
+    "place_id": "ChIJlwNVswj8mzkReqQxgP5FzhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwNVswj8mzkReqQxgP5FzhQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 06:58:10"
+  }
+]

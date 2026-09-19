@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tha South Indian Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "226102",
+    "phone_number": "+91 91281 64634",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Devpur, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Devpur, Rajajipuram",
+    "latitude": 26.8274628,
+    "longitude": 80.8712005,
+    "place_id": "ChIJBzN5nAn_mzkRnx7siQRwbok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzN5nAn_mzkRnx7siQRwbok",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:39:10"
+  },
+  {
+    "business_name": "Zashn E Zayaka,TIFIN SERVICES",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "226102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "F-418, MATRI LINE, Block F, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Block F, Rajajipuram",
+    "latitude": 26.845108,
+    "longitude": 80.871679,
+    "place_id": "ChIJjf__b0P-mzkRAEwNElRPzq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjf__b0P-mzkRAEwNElRPzq4",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:39:10"
+  }
+]

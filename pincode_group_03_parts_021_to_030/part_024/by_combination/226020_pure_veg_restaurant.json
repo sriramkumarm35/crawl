@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ice & Spice Restaurant Aliganj",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Buffet restaurant, Diner, Lunch restaurant, Restaurant",
+    "pincode": "226020",
+    "phone_number": "+91 95111 42779",
+    "website": "https://iceandspicerestaurants.com/",
+    "rating": 4.8,
+    "reviews_count": 1286,
+    "address": "B-19, below Pappoo Store, Sector-A, Sector K, Aliganj, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector-A, Sector K, Aliganj",
+    "latitude": 26.8967611,
+    "longitude": 80.9430184,
+    "place_id": "ChIJk5T_DIpXmTkR0z9B4APMeuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5T_DIpXmTkR0z9B4APMeuQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:14:34"
+  },
+  {
+    "business_name": "Food Hub Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "226020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "C-109, Daliganj Crossing Rd, 8 Number Chauraha, near Chaya Arcade, Nirala Nagar, Lucknow, Uttar Pradesh 226020",
+    "area": "Bans Mandi, Nirala Nagar",
+    "latitude": 26.8774181,
+    "longitude": 80.9344112,
+    "place_id": "ChIJ-TpVJVz9mzkRRqIMILF-99k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TpVJVz9mzkRRqIMILF-99k",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:14:34"
+  }
+]

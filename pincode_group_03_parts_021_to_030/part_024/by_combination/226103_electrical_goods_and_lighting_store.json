@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "the best price showroom",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler",
+    "pincode": "226103",
+    "phone_number": "+91 94548 29822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ms plaza, Tondan Marg, opposite PWD inspection house, Sandila, Uttar Pradesh 226102",
+    "area": "226103",
+    "latitude": 26.933861399999998,
+    "longitude": 80.7030055,
+    "place_id": "ChIJjXYSgFepnjkRpF9mkwFN3cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXYSgFepnjkRpF9mkwFN3cI",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:41:33"
+  },
+  {
+    "business_name": "Bharat Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electrical equipment supplier, Electrical products wholesaler",
+    "pincode": "226103",
+    "phone_number": "+91 73786 96868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 74,
+    "address": "MPR 06 Keshavpuram, Awas Vikas -1, Kalyanpur, Kanpur, Uttar Pradesh 208024",
+    "area": "Awas Vikas -1, Kalyanpur",
+    "latitude": 26.4903211,
+    "longitude": 80.2704438,
+    "place_id": "ChIJ8d5yjz03nDkRc96OdqbkAKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8d5yjz03nDkRc96OdqbkAKE",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:41:35"
+  }
+]

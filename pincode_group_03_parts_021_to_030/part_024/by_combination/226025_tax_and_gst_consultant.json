@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govindam Associates",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "226025",
+    "phone_number": "+91 70525 08192",
+    "website": "http://gassociates.co.in/",
+    "rating": 5,
+    "reviews_count": 67,
+    "address": "Near, 75-76, Raebareli Road, Eldeco Udyan Plaza, Utrathiya Chauraha Bridge, Amar Shaheed Path, Lucknow, Uttar Pradesh 226025",
+    "area": "Eldeco Udyan II, Mohanlalganj, Eldeco Udyan Ii",
+    "latitude": 26.767180399999997,
+    "longitude": 80.9439105,
+    "place_id": "ChIJ7eYhQnX7mzkRKsGjUnt0MPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7eYhQnX7mzkRKsGjUnt0MPw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:22"
+  },
+  {
+    "business_name": "MyGST Center",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Accounting firm, Certified public accountant, Tax collector's office, Tax preparation service",
+    "pincode": "226025",
+    "phone_number": "+91 99357 47470",
+    "website": "https://mygstcenter.com/",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "16 C, Siddharth Complex New Senani Vihar, RBL Road, Rajni Khand, Lucknow, Uttar Pradesh 226002",
+    "area": "Rajni Khand, Telibagh",
+    "latitude": 26.774226499999997,
+    "longitude": 80.9395028,
+    "place_id": "ChIJDYSPiof7mzkR4oZY5HYtmrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYSPiof7mzkR4oZY5HYtmrU",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:25:22"
+  }
+]

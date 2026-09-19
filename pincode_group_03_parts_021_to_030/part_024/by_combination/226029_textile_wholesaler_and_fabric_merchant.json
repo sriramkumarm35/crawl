@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fancy Cloth Store",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing store",
+    "pincode": "226029",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "New Fancy Cloth Store, Neil Lines, Topkhana Bazar Cantt, Lucknow, Uttar Pradesh 226002",
+    "area": "Neil Lines, Topkhana Bazar Cantt",
+    "latitude": 26.806428,
+    "longitude": 80.9547719,
+    "place_id": "ChIJm6DDMGH9mzkRwwBKugk6GxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6DDMGH9mzkRwwBKugk6GxA",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:46"
+  },
+  {
+    "business_name": "हर्ष कलेक्शन",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "226029",
+    "phone_number": "+91 95069 21901",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Topkhana Bazar R A Bazar, near SBI ATM, Neil Lines, Lucknow, Uttar Pradesh 226002",
+    "area": "Neil Lines, Cantonment",
+    "latitude": 26.807243,
+    "longitude": 80.954321,
+    "place_id": "ChIJUfjGB-78mzkRmsNMbCZd1OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfjGB-78mzkRmsNMbCZd1OM",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:31:46"
+  }
+]

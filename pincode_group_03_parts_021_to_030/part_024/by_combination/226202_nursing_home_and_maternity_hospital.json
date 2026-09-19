@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind Hospital & Maternity Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "226202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WWJF+6X3 Maharishi University IIM Road, Tiraha, Bhitauli, Lucknow, Uttar Pradesh 226013",
+    "area": "Bhitauli",
+    "latitude": 26.9305803,
+    "longitude": 80.9249482,
+    "place_id": "ChIJRxzUIABXmTkRbSN4GNlOaKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxzUIABXmTkRbSN4GNlOaKQ",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:40"
+  },
+  {
+    "business_name": "Kalpana Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "226202",
+    "phone_number": "+91 70443 58122",
+    "website": "https://kalpanamnhsonarpur.com/",
+    "rating": 4.5,
+    "reviews_count": 19,
+    "address": "S-4/16, A P Nagar, Kolkata, Rajpur Sonarpur, West Bengal 700150",
+    "area": "A P Nagar",
+    "latitude": 22.4392624,
+    "longitude": 88.43640599999999,
+    "place_id": "ChIJY9D9cYdzAjoR8Z2DkSrgVb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9D9cYdzAjoR8Z2DkSrgVb0",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:46:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Darsh Business Centre",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "226020",
+    "phone_number": "+91 87370 52561",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 8 , LGF, Chauraha, Kursi Rd, near Tedhi Puliya, Tedhi Pulia, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Tedhi Pulia, Jankipuram",
+    "latitude": 26.9087122,
+    "longitude": 80.95641739999999,
+    "place_id": "ChIJ42DukDNXmTkRmehRh3Ovbng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42DukDNXmTkRmehRh3Ovbng",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:15:44"
+  },
+  {
+    "business_name": "Anubhav Business Centre",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Airline ticket agency, Bus ticket agency, Internet cafe, Railway Ticket Agent",
+    "pincode": "226020",
+    "phone_number": "+91 94552 49840",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No-7, Manglam Plaza, Jankipuram, Sector B, Lucknow, Uttar Pradesh 226024",
+    "area": "Sector B, Sector-A, Sector L, Aliganj",
+    "latitude": 26.897482699999998,
+    "longitude": 80.9477185,
+    "place_id": "ChIJaSuqMsxXmTkReU9qU0niTpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSuqMsxXmTkReU9qU0niTpw",
+    "part_id": "part_024",
+    "crawled_at": "2026-09-19 07:15:46"
+  }
+]
