@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "247775",
+    "phone_number": "+91 70171 23287",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XP5X+4JJ, sector-5, jagriti vihar, Jagrati Vihar, Meerut, Uttar Pradesh 250002",
+    "area": "sector-5, jagriti vihar, Jagrati Vihar",
+    "latitude": 28.9578489,
+    "longitude": 77.749015,
+    "place_id": "ChIJdc3F5yJ7DDkR0m3iQeHyBNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdc3F5yJ7DDkR0m3iQeHyBNY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:02"
+  },
+  {
+    "business_name": "Paan Darbar पान दरबार",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "247775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Salumbar, Lakapa, Rajasthan 313027",
+    "area": "247775",
+    "latitude": 24.1446322,
+    "longitude": 74.01342989999999,
+    "place_id": "ChIJBwhov0SlZzkRyJd8aybs4pM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwhov0SlZzkRyJd8aybs4pM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:02"
+  }
+]

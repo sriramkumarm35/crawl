@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fairdeal Services",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Water purification company",
+    "all_categories": "Water purification company, Water treatment supplier",
+    "pincode": "247771",
+    "phone_number": "+91 80066 66651",
+    "website": "https://fairdeal-ro-services.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sukh Vihar, Parikrama Road, near New Horizon public school, Almaspur, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Almaspur",
+    "latitude": 29.4551932,
+    "longitude": 77.7160078,
+    "place_id": "ChIJzT4f1lsbDDkRpHHn3IvzrIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzT4f1lsbDDkRpHHn3IvzrIc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:59"
+  },
+  {
+    "business_name": "Pex Drycleaners",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "247771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "100-B, Vakil Rd, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "New Mandi",
+    "latitude": 29.4648845,
+    "longitude": 77.71077149999999,
+    "place_id": "ChIJU3NSicwbDDkRyUT49bZDLA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3NSicwbDDkRyUT49bZDLA4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:59"
+  }
+]

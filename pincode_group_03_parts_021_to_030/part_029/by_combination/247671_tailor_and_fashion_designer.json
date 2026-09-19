@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navya Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "247671",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gali no 1, near by A. G, I.C, Chandak, Chandouk, Uttar Pradesh 246121",
+    "area": "I.C",
+    "latitude": 29.5758685,
+    "longitude": 78.1512941,
+    "place_id": "ChIJoz_ob7jjCzkR4XDgHun_sek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz_ob7jjCzkR4XDgHun_sek",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:23"
+  },
+  {
+    "business_name": "Pal Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "247671",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6X86+74F police chowki, Katoratal Rd, Kashipur, Uttarakhand 244713",
+    "area": "Kashipur",
+    "latitude": 29.215688999999998,
+    "longitude": 78.9602946,
+    "place_id": "ChIJH_PH-AlDCjkRvtI8GxRnN-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_PH-AlDCjkRvtI8GxRnN-4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:26"
+  }
+]

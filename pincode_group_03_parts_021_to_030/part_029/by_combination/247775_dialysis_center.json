@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dialysis Unit - KMC Hospital Chenganoor",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "247775",
+    "phone_number": "+91 75608 49759",
+    "website": "http://www.drkmcims.com/specialities/department-of-nephrology/",
+    "rating": 4.6,
+    "reviews_count": 33,
+    "address": "8HMV+5F, Kallissery, Pandanad part, Keralam 689124",
+    "area": "247775",
+    "latitude": 9.3329869,
+    "longitude": 76.5941081,
+    "place_id": "ChIJgYVQoTcjBjsRLw6LsDBQunI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYVQoTcjBjsRLw6LsDBQunI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:27"
+  },
+  {
+    "business_name": "Tirath Ram Hospital Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "247775",
+    "phone_number": "+91 98105 55233",
+    "website": "https://godialysis.org/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "166/20, Basai Rd, Model Town, Sector 8, Gurugram, Haryana 122001",
+    "area": "Model Town, Sector 8",
+    "latitude": 28.4570692,
+    "longitude": 77.0202424,
+    "place_id": "ChIJyxkamkEZDTkRTYxKjkClH60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxkamkEZDTkRTYxKjkClH60",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:27"
+  }
+]

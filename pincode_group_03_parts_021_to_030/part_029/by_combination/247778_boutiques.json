@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxmi cloths shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "247778",
+    "phone_number": "+91 78306 49772",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J6HJ+W8G, Gaagor, Shamali Shamla, Uttar Pradesh 247778",
+    "area": "Gaagor",
+    "latitude": 29.629824,
+    "longitude": 77.2308303,
+    "place_id": "ChIJW5YqTQCBDjkR_NYdQJVJ-34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5YqTQCBDjkR_NYdQJVJ-34",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:35"
+  },
+  {
+    "business_name": "Bhambari Mombatti & PARRAFIN wax",
+    "search_category": "Boutiques",
+    "primary_category": "Candle store",
+    "all_categories": "Candle store",
+    "pincode": "247778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H6PH+45Q, Bhameri Shahpur, Uttar Pradesh 247778",
+    "area": "247778",
+    "latitude": 29.5850433,
+    "longitude": 77.227475,
+    "place_id": "ChIJD306cACBDjkRVe5nRfXvgtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD306cACBDjkRVe5nRfXvgtg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:36"
+  }
+]

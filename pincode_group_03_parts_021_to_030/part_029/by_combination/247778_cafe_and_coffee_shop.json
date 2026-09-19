@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foodies Heaven",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "247778",
+    "phone_number": "+91 90848 10501",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 243,
+    "address": "Bhopa Rd, opp. Sd medical college, Dwarika Puri, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Dwarika Puri",
+    "latitude": 29.472724999999997,
+    "longitude": 77.71775989999999,
+    "place_id": "ChIJ6czPQsYFDDkRJM7qCyhOvk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6czPQsYFDDkRJM7qCyhOvk4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:26"
+  },
+  {
+    "business_name": "Parvej Sweet Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "247778",
+    "phone_number": "+91 95209 09007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2, Uttar Pradesh 247778",
+    "area": "247778",
+    "latitude": 29.654185,
+    "longitude": 77.17745339999999,
+    "place_id": "ChIJkbBqIhl9DjkRWl5l_qlKdPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbBqIhl9DjkRWl5l_qlKdPE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:27"
+  }
+]

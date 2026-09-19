@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YUSUF NAZIM",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "247668",
+    "phone_number": "+91 75339 90955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "147, Dehradun Rd, near English Wine Shop, Rampur, Roorkee, Uttarakhand 247667",
+    "area": "Rampur",
+    "latitude": 29.884227,
+    "longitude": 77.8768782,
+    "place_id": "ChIJnct9oiq1DjkRty3IdjrcB0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnct9oiq1DjkRty3IdjrcB0U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:12:02"
+  },
+  {
+    "business_name": "Hungry Birds",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Party planner, Cafe",
+    "pincode": "247668",
+    "phone_number": "+91 82182 38498",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 282,
+    "address": "Shree Ram Plaza, Prem Nagar, Ramnagar, Roorkee, Sunhaira, Uttarakhand 247667",
+    "area": "Prem Nagar, Ramnagar",
+    "latitude": 29.8742873,
+    "longitude": 77.871747,
+    "place_id": "ChIJib3vtOK1DjkRh6_gYihphhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJib3vtOK1DjkRh6_gYihphhI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:12:03"
+  }
+]

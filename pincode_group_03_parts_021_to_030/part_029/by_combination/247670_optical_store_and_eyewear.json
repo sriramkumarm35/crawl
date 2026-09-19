@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "247670",
+    "phone_number": "+91 94568 54475",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05 Suresh Market, Gurukul Narsan, Uttarakhand 247670",
+    "area": "247670",
+    "latitude": 29.700370799999998,
+    "longitude": 77.8493581,
+    "place_id": "ChIJ8a2L1DCtDjkR7fmTFweRNhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8a2L1DCtDjkR7fmTFweRNhM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:15:44"
+  },
+  {
+    "business_name": "Gandhi Medicine Store",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "247670",
+    "phone_number": "+91 97590 07512",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 9,
+    "address": "PR2X+5X3, Delhi Road, Gurukul Narsan, Uttarakhand 247670",
+    "area": "247670",
+    "latitude": 29.7003816,
+    "longitude": 77.8499203,
+    "place_id": "ChIJdcuE3A-sDjkR3cxOUGuRSnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcuE3A-sDjkR3cxOUGuRSnk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:15:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dayal property",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "247771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "atoz, Jansath road, road, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Laxman Vihar Colony, Civil Lines South",
+    "latitude": 29.4494431,
+    "longitude": 77.7114567,
+    "place_id": "ChIJGStetNcbDDkRnrEKgCxJTaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGStetNcbDDkRnrEKgCxJTaI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:20:19"
+  },
+  {
+    "business_name": "Udaipur Property Group",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Real estate agent",
+    "pincode": "247771",
+    "phone_number": "+91 91191 19798",
+    "website": "http://www.udaipurpropertygroup.com/",
+    "rating": 4.8,
+    "reviews_count": 91,
+    "address": "228 B, SB Colony, Nela, Rajasthan 313001",
+    "area": "Hiran Magri",
+    "latitude": 24.5302899,
+    "longitude": 73.7002651,
+    "place_id": "ChIJVVVVVZXlZzkRoAF3FTE8oLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVZXlZzkRoAF3FTE8oLM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:20:22"
+  }
+]

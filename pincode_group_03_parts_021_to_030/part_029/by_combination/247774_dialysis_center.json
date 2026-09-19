@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanskriti Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Urologist, Urology clinic",
+    "pincode": "247774",
+    "phone_number": "+91 95202 60567",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Budhana road, Dayanand Nagar, Shamli, Uttar Pradesh 247776",
+    "area": "Dayanand Nagar",
+    "latitude": 29.441651699999998,
+    "longitude": 77.3097962,
+    "place_id": "ChIJc2rUxBYvDDkRJMCD4ACuhxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2rUxBYvDDkRJMCD4ACuhxo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:41"
+  },
+  {
+    "business_name": "CC Shamli Collection Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Medical diagnostic imaging center, Paternity testing service, Pathologist, STD testing service",
+    "pincode": "247774",
+    "phone_number": "+91 1800 309 7777",
+    "website": "https://ampath.com/?utm_source=GMP",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Behl Nursing Home, opp. Dr Sushila Singh, Gagan Vihar, Shamli, Uttar Pradesh 247776",
+    "area": "Gagan Vihar",
+    "latitude": 29.4467254,
+    "longitude": 77.3002724,
+    "place_id": "ChIJVT_JV6kvDDkRW5bN5ckCvHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVT_JV6kvDDkRW5bN5ckCvHQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:43"
+  }
+]

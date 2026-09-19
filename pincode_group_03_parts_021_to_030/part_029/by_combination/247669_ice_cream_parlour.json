@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil Ice Cream Cornor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "247669",
+    "phone_number": "+91 75056 46982",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Agarsain Chock Bhagwan Pur, Road, Gagalheri, Uttarakhand 247669",
+    "area": "247669",
+    "latitude": 29.9740951,
+    "longitude": 77.6612887,
+    "place_id": "ChIJczWgjKvHDjkRcBSiw9Qrhe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczWgjKvHDjkRcBSiw9Qrhe0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:13:50"
+  },
+  {
+    "business_name": "Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "247669",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near by cold Store, Haribash, gagalheri, Saharanpur, Deenarpur Must., Uttar Pradesh 247001",
+    "area": "Haribash, gagalheri",
+    "latitude": 29.975739899999997,
+    "longitude": 77.6604571,
+    "place_id": "ChIJ5W9lOEHHDjkRsm0qFu0qYno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5W9lOEHHDjkRsm0qFu0qYno",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:13:50"
+  }
+]

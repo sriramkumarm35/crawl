@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Praveen Plumber Dehradun",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "248003",
+    "phone_number": "+91 97603 22852",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mandakini Vihar, B Block, Brahma Wala, Aman Vihar, Dehradun, Uttarakhand 248001",
+    "area": "B Block, Brahma Wala, Aman Vihar",
+    "latitude": 30.3491739,
+    "longitude": 78.0749972,
+    "place_id": "ChIJB0GpG43XCDkRwXeIyu5IKoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0GpG43XCDkRwXeIyu5IKoM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:37:38"
+  },
+  {
+    "business_name": "4Brothers Technologies",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Carpenter, Fabrication Engineer, Painter",
+    "pincode": "248003",
+    "phone_number": "+91 70887 78512",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Raipur Road, near ATS Heavenly Foothills, Somnath Nagar, Danda Lakhond, Dehradun, Brahmawala, Uttarakhand 248013",
+    "area": "Somnath Nagar, Danda Lakhond",
+    "latitude": 30.347884599999997,
+    "longitude": 78.0848225,
+    "place_id": "ChIJTzsDyzQpCTkR5mM3HsEL8PE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzsDyzQpCTkR5mM3HsEL8PE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:37:40"
+  }
+]

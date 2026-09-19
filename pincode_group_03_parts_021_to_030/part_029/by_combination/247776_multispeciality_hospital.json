@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Vinayak Hospital Shamli",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "247776",
+    "phone_number": "+91 99538 58595",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Budhana road, Dayanand Nagar, Shamli, Uttar Pradesh 247776",
+    "area": "Dayanand Nagar",
+    "latitude": 29.4427515,
+    "longitude": 77.3086584,
+    "place_id": "ChIJU5jLks0vDDkRjQPWbZsDhE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5jLks0vDDkRjQPWbZsDhE0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:28:08"
+  },
+  {
+    "business_name": "Signature Group Of Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "247776",
+    "phone_number": "+91 92155 08922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jhinjhana, Shamli, Uttar Pradesh 247773",
+    "area": "247776",
+    "latitude": 29.5097769,
+    "longitude": 77.223779,
+    "place_id": "ChIJNcvzQG4rDDkRiGSmiaY7orE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcvzQG4rDDkRiGSmiaY7orE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:28:08"
+  }
+]

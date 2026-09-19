@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VS Watch Centre",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "247670",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PR2X+RRV, Gurukul Narsan, Uttarakhand 247670",
+    "area": "247670",
+    "latitude": 29.7021208,
+    "longitude": 77.8495459,
+    "place_id": "ChIJi4cLcLWtDjkRwrxxOVTCA2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4cLcLWtDjkRwrxxOVTCA2A",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:15:43"
+  },
+  {
+    "business_name": "Haafiz Watch Repairs",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "247670",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "MR4V+R2G, Unnamed Road, Purkaji, Purquazi, Uttar Pradesh 251327",
+    "area": "247670",
+    "latitude": 29.657072499999998,
+    "longitude": 77.8425872,
+    "place_id": "ChIJ855KMaqrDjkRQnik9ZSzg-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ855KMaqrDjkRQnik9ZSzg-Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:15:46"
+  }
+]

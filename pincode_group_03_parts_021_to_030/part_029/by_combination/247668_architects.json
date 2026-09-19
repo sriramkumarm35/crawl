@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arch Studio",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "247668",
+    "phone_number": "+91 94103 52036",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Vaishali Mandap, Near, opposite Chandra Shekhar School, Ramnagar, Roorkee, Uttarakhand 247667",
+    "area": "Ramnagar",
+    "latitude": 29.8769004,
+    "longitude": 77.8752391,
+    "place_id": "ChIJfV2Oqc-1DjkRheGwe8giwkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfV2Oqc-1DjkRheGwe8giwkM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:12:42"
+  },
+  {
+    "business_name": "ADC : arch design and consulting",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "247668",
+    "phone_number": "+91 99972 58787",
+    "website": "https://adcpc.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Shree Hari Apartment, Industrial Area, Salempur, Roorkee, Uttarakhand 247667",
+    "area": "Industrial Area, Salempur",
+    "latitude": 29.874083799999998,
+    "longitude": 77.85811939999999,
+    "place_id": "ChIJDwKrmLG1DjkR8WmdSaITH4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwKrmLG1DjkR8WmdSaITH4w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:12:43"
+  }
+]

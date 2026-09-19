@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishno Chhole Bhature",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "247772",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Jhansi ki Rani Chowk, Shiv Chowk, Civil Lines South, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.470744,
+    "longitude": 77.6987293,
+    "place_id": "ChIJsTfR758bDDkRb99DoLhnJnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTfR758bDDkRb99DoLhnJnI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:20:51"
+  },
+  {
+    "business_name": "The Black Pepper",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "247772",
+    "phone_number": "+91 99589 68606",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.4768288,
+    "longitude": 77.713059,
+    "place_id": "ChIJ0YSlpj4bDDkRznY4GVk3PTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YSlpj4bDDkRznY4GVk3PTw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:20:51"
+  }
+]

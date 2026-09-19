@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Kishan Singh Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 75,
+    "address": "VVGP+GXH, B.T. Ganj, Roorkee, Uttarakhand 247667",
+    "area": "B.T. Ganj",
+    "latitude": 29.876311299999998,
+    "longitude": 77.8874921,
+    "place_id": "ChIJ9cKd5oG0DjkRlV4hfzzVGrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cKd5oG0DjkRlV4hfzzVGrw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:45"
+  },
+  {
+    "business_name": "JP Properties",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "247667",
+    "phone_number": "+91 98972 42427",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shiv ganga green city, A7, Roorkee, Haridwar, Uttarakhand 247667",
+    "area": "247667",
+    "latitude": 29.8813213,
+    "longitude": 77.9277178,
+    "place_id": "ChIJj6vrlZS1DjkRrlXh9TCBbh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6vrlZS1DjkRrlXh9TCBbh0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:45"
+  }
+]

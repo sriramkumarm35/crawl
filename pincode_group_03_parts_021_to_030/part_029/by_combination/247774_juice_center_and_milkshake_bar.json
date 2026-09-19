@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaayos Cafe at Connaught Place",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Bakery and Cake Shop, Chocolate cafe, Cookie shop, Cafe, Sandwich shop, Tea house, Tea store",
+    "pincode": "247774",
+    "phone_number": "+91 1800 120 2424",
+    "website": "https://chaayos.com/",
+    "rating": 4.1,
+    "reviews_count": 563,
+    "address": "F-14/15, Inner Cir, Block F, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Block F, Connaught Place",
+    "latitude": 28.6311391,
+    "longitude": 77.2200337,
+    "place_id": "ChIJSUtjYMj9DDkRumu77NHBTLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUtjYMj9DDkRumu77NHBTLo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:20"
+  },
+  {
+    "business_name": "Shri Anant Kripa Confectionery",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247774",
+    "phone_number": "+91 70785 18284",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop no . 2&3, opposite Rahul Medicine, Shaheed Bachan Singh Marg, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.476710599999997,
+    "longitude": 77.7138342,
+    "place_id": "ChIJo0rWjm0bDDkRrwx3vYqcQS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0rWjm0bDDkRrwx3vYqcQS0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:21"
+  }
+]

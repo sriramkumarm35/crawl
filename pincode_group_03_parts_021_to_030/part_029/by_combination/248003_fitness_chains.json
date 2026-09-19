@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AXORA FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "248003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raipur Rd, Rakshapuram, Ladpur, Dehradun, Uttarakhand 248008",
+    "area": "Rakshapuram, Ladpur",
+    "latitude": 30.318733299999998,
+    "longitude": 78.0798896,
+    "place_id": "ChIJzeFKFm4pCTkRg92fDfJpV2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeFKFm4pCTkRg92fDfJpV2g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:37:22"
+  },
+  {
+    "business_name": "DSOI GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "248003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 44,
+    "address": "82WJ+F74, Vijay Path Rd, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Garhi Cantt",
+    "latitude": 30.3461486,
+    "longitude": 78.03069649999999,
+    "place_id": "ChIJT1uV0wLWCDkRfcnpblv6JKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1uV0wLWCDkRfcnpblv6JKk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:37:24"
+  }
+]

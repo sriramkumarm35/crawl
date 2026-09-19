@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GULZAR REPAIR MOTOR CYCLE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "247778",
+    "phone_number": "+91 95572 98960",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Shamli Main Road, near by BABA PEER, Chausana, Bidoli, Uttar Pradesh 247778",
+    "area": "247778",
+    "latitude": 29.6654597,
+    "longitude": 77.1754371,
+    "place_id": "ChIJk6QKamF9DjkRFI8O0ENKnjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6QKamF9DjkRFI8O0ENKnjQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:52"
+  },
+  {
+    "business_name": "Madan cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "247778",
+    "phone_number": "+91 92550 88887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Vishvakarma chowk, Ambedker Nagar, Gharaunda, Haryana 132114",
+    "area": "Ambedker Nagar",
+    "latitude": 29.5394452,
+    "longitude": 76.969623,
+    "place_id": "ChIJ3X8wAHV3DjkROI8x68Fy48Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3X8wAHV3DjkROI8x68Fy48Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:55"
+  }
+]

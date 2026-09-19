@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samadhan",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business development service, Business management consultant, Business to business service, Computer support and services, Corporate office",
+    "pincode": "247777",
+    "phone_number": "+91 62879 95736",
+    "website": "https://samadhanindia.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "903, Mahabir Tower, Jokhiram Durgadutt Compound, Main Rd, opposite GEL Church Complex, Hindpiri, Ranchi, Jharkhand 834001",
+    "area": "Hindpiri",
+    "latitude": 23.358113,
+    "longitude": 85.3242779,
+    "place_id": "ChIJg-lS16fh9DkRVGyb0_ZrunM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-lS16fh9DkRVGyb0_ZrunM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:10"
+  },
+  {
+    "business_name": "MSB IT Solutions",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "247777",
+    "phone_number": "0313 2030930",
+    "website": "https://msbitsolutions.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "House No: B, 179, Block 6 Block: 6 Gulshan-e-Iqbal, Karachi, 75300, Pakistan",
+    "area": "Block 6 Block: 6 Gulshan-e-Iqbal",
+    "latitude": 24.9231567,
+    "longitude": 67.0972603,
+    "place_id": "ChIJa5gqcRI5sz4RYzXqUwOyGos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5gqcRI5sz4RYzXqUwOyGos",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:11"
+  }
+]

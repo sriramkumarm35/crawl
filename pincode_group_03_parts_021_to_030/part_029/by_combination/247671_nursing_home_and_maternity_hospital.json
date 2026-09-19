@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BG Clinic & Maternity Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "247671",
+    "phone_number": "+91 96436 53772",
+    "website": "https://www.bgclinic.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot 4, Deenpur, Sarika Vihar, Najafgarh, New Delhi, Delhi, 110043",
+    "area": "Deenpur, Sarika Vihar, Najafgarh",
+    "latitude": 28.590163999999998,
+    "longitude": 76.992076,
+    "place_id": "ChIJ2zyy4xkQDTkRxAN4sM6s_Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zyy4xkQDTkRxAN4sM6s_Q8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:33"
+  },
+  {
+    "business_name": "chayan ray mahila hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "247671",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Upper Rd, Birla Ghat, Haridwar, Uttarakhand 249401",
+    "area": "Birla Ghat",
+    "latitude": 29.950266199999998,
+    "longitude": 78.1609852,
+    "place_id": "ChIJYyC5etdHCTkRecqkFBbJeYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyC5etdHCTkRecqkFBbJeYQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:35"
+  }
+]

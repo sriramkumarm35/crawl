@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BLU PINK",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "247771",
+    "phone_number": "+91 84391 50244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Street no 9, BHARAT GHAR, near happy confectionery, crossing, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "crossing, Gandhi Colony",
+    "latitude": 29.478669,
+    "longitude": 77.7148455,
+    "place_id": "ChIJX7Kr3UAbDDkRhVIYOgifGXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7Kr3UAbDDkRhVIYOgifGXo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:15"
+  },
+  {
+    "business_name": "Maanyashree boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "247771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "863/5, Gagan Vihar, Shamli, Uttar Pradesh 247776",
+    "area": "Gagan Vihar",
+    "latitude": 29.444858099999998,
+    "longitude": 77.29961279999999,
+    "place_id": "ChIJi-wnEgAvDDkRMWwZkOpk8Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-wnEgAvDDkRMWwZkOpk8Lk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:16"
+  }
+]

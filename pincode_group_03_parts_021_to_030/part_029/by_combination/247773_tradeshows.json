@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MSMI Expo.",
+    "search_category": "Tradeshows",
+    "primary_category": "Tradeshows",
+    "all_categories": "Tradeshows",
+    "pincode": "247773",
+    "phone_number": "+91 184 403 6770",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ADAMAS Events Pvt. Ltd. SC0-27, IInd Floor Mughal Canal Market, Haryana 132037",
+    "area": "247773",
+    "latitude": 29.638683699999998,
+    "longitude": 77.0794705,
+    "place_id": "ChIJVVVVVZV7DjkREIa5PD-3ncM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVZV7DjkREIa5PD-3ncM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:00"
+  },
+  {
+    "business_name": "India International Horti Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Agricultural production",
+    "all_categories": "Agricultural production",
+    "pincode": "247773",
+    "phone_number": "+91 74199 93002",
+    "website": "https://indiainternationalhortiexpo.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Omang Hotel, Namaste Chowk, Sector 34, Karnal, Phusgarh Part, Haryana 132001",
+    "area": "Sector 34",
+    "latitude": 29.674700899999998,
+    "longitude": 77.024473,
+    "place_id": "ChIJbyXitHl7DjkRRJoD_3K2C9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyXitHl7DjkRRJoD_3K2C9A",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doon Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "248006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8247+9J2, Shakti Enclave, Patel Nagar, Dehradun, Uttarakhand 248171",
+    "area": "Shakti Enclave, Patel Nagar",
+    "latitude": 30.305881099999997,
+    "longitude": 78.0140037,
+    "place_id": "ChIJIZGq0ygqCTkRpRNIcbq6qDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZGq0ygqCTkRpRNIcbq6qDI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:41:16"
+  },
+  {
+    "business_name": "Sm bike repairing sentar",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "248006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8248+98C, Chamanpuri, Niranjanpur, Dehradun, Uttarakhand 248001",
+    "area": "Chamanpuri, Niranjanpur",
+    "latitude": 30.305937099999998,
+    "longitude": 78.0157627,
+    "place_id": "ChIJL4ZxbwArCTkR7JfQ6e2_qoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4ZxbwArCTkR7JfQ6e2_qoI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:41:19"
+  }
+]

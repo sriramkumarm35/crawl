@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RGM PLAZA",
+    "search_category": "EXIMS",
+    "primary_category": "Computer Hardware Company",
+    "all_categories": "Computer Hardware Company",
+    "pincode": "248007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1, Chakrata Rd, Lunia Mohalla, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Lunia Mohalla, Chukkuwala",
+    "latitude": 30.3247994,
+    "longitude": 78.04002899999999,
+    "place_id": "ChIJc24cWicpCTkRAlxzVid5IDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc24cWicpCTkRAlxzVid5IDo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:44:12"
+  },
+  {
+    "business_name": "Branch Post Office, Prem Nagar",
+    "search_category": "EXIMS",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "248007",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "8XP6+986, Thakurpur Rd, Tyagi Market, Prem Nagar, Dehradun, Uttarakhand 248007",
+    "area": "Tyagi Market, Prem Nagar",
+    "latitude": 30.335917799999997,
+    "longitude": 77.9607764,
+    "place_id": "ChIJlxjOap0qCTkR2Ph5kUdhbnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxjOap0qCTkR2Ph5kUdhbnI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:44:13"
+  }
+]

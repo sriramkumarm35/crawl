@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "247775",
+    "phone_number": "+91 96909 23351",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Atharav Motors, Meerut, Shamli Highway, near Thana, opposite VN Farm House, Fugana, Shamli, Uttar Pradesh 247776",
+    "area": "247775",
+    "latitude": 29.350585499999998,
+    "longitude": 77.3860839,
+    "place_id": "ChIJOyd6cl07DDkR0IZXMMB8nLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyd6cl07DDkR0IZXMMB8nLQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:29"
+  },
+  {
+    "business_name": "Bike Laminasan",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "247775",
+    "phone_number": "+91 73009 67320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pnb Bank Wale Markit Grangeru Kandhla Shop No 07, Uttar Pradesh 247775",
+    "area": "247775",
+    "latitude": 29.309088199999998,
+    "longitude": 77.2169997,
+    "place_id": "ChIJ2UKh9ngzDDkRSUuaggd54xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UKh9ngzDDkRSUuaggd54xI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:29"
+  }
+]

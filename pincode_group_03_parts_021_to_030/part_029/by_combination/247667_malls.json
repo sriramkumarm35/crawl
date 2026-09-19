@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Tiranga Tower (OTT)",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "92, Rajputana Rd, Purani Tehsil, Roorkee, Uttarakhand 247667",
+    "area": "Purani Tehsil",
+    "latitude": 29.8764056,
+    "longitude": 77.8848893,
+    "place_id": "ChIJZz_r6Gq1DjkRkjPZdPQKTR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZz_r6Gq1DjkRkjPZdPQKTR4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:44"
+  },
+  {
+    "business_name": "RR Cinemas",
+    "search_category": "Malls",
+    "primary_category": "Drive-in movie theater",
+    "all_categories": "Drive-in movie theater",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "National Highway 58, Roorkee, Barampur, Uttarakhand 247667",
+    "area": "247667",
+    "latitude": 29.880886099999998,
+    "longitude": 77.9251701,
+    "place_id": "ChIJ441nbwuzDjkRvxjLHGrloV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ441nbwuzDjkRvxjLHGrloV0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:44"
+  }
+]

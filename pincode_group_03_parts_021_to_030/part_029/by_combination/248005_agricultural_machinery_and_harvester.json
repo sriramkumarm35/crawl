@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BeeReady Harvesters",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Honey farm",
+    "all_categories": "Honey farm, Agricultural service, Bee relocation service, Candle store, Gift shop",
+    "pincode": "248005",
+    "phone_number": "+91 88659 81077",
+    "website": "http://www.beeready.in/",
+    "rating": 4.8,
+    "reviews_count": 145,
+    "address": "Bhagwandas chowk, near post-office, Balawala, Dehradun, Uttarakhand 248019",
+    "area": "Balawala",
+    "latitude": 30.261658999999998,
+    "longitude": 78.1205008,
+    "place_id": "ChIJE54OLrUpCTkRX6W5I7JaO4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE54OLrUpCTkRX6W5I7JaO4Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:40:22"
+  },
+  {
+    "business_name": "Premier Machinery",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural Machinery and Harvester",
+    "all_categories": "Agricultural Machinery and Harvester",
+    "pincode": "248005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8, Haridwar Rd, East Rest Camp, Chander Nagar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "East Rest Camp, Chander Nagar, Race Course",
+    "latitude": 30.3148789,
+    "longitude": 78.0415435,
+    "place_id": "ChIJCc3StKYpCTkRXgHmikXxZys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCc3StKYpCTkRXgHmikXxZys",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:40:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayin Clothing",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "248002",
+    "phone_number": "+91 94129 20637",
+    "website": "http://www.mayinclothing.com/",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "8, GMS Rd, Keshav Vihar, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248171",
+    "area": "Keshav Vihar, Shakti Enclave, Kaonli",
+    "latitude": 30.3070496,
+    "longitude": 78.0122511,
+    "place_id": "ChIJncrYEBgrCTkR1-vKVBZAqLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncrYEBgrCTkR1-vKVBZAqLY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:35:19"
+  },
+  {
+    "business_name": "Wanirana Fashion Studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "248002",
+    "phone_number": "N/A",
+    "website": "https://www.wanirana.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Phase-1, Plot No.- 5, Shimla Bypass Rd, Devlok Colony, PNB Vihar, Majra, Dehradun, Shewala Kala, Uttarakhand 248171",
+    "area": "Devlok Colony, PNB Vihar, Majra",
+    "latitude": 30.2941154,
+    "longitude": 77.99608409999999,
+    "place_id": "ChIJMTBXIEkrCTkR-8YTR71FtFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTBXIEkrCTkR-8YTR71FtFY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:35:19"
+  }
+]

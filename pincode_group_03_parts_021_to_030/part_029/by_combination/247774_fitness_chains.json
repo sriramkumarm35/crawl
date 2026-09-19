@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE MUSCLE ARENA GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "247774",
+    "phone_number": "+91 86301 51223",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "near Paras Hospital, Almaspur, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Almaspur",
+    "latitude": 29.4547481,
+    "longitude": 77.7204057,
+    "place_id": "ChIJbVTRQSMbDDkRMFKjWS4hiv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVTRQSMbDDkRMFKjWS4hiv4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:44"
+  },
+  {
+    "business_name": "HK Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "247774",
+    "phone_number": "+91 98976 02893",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st floor, Shaheed Bachan Singh Marg, beside Shekhar Nursing Home, Adarsh Colony, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Adarsh Colony",
+    "latitude": 29.478031899999998,
+    "longitude": 77.7178773,
+    "place_id": "ChIJEToJW-IbDDkR8A9xldHuEY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEToJW-IbDDkR8A9xldHuEY8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:24:46"
+  }
+]

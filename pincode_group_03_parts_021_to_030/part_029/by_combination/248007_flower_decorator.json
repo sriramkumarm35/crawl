@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Dried flower shop",
+    "all_categories": "Dried flower shop",
+    "pincode": "248007",
+    "phone_number": "+91 86839 52955",
+    "website": "https://jsdl.in/RSL-SQV1749123600",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 13, opposite Hotel Viceroy Inn, Sewla Kalan, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Niranjanpur",
+    "latitude": 30.302872599999997,
+    "longitude": 78.0105475,
+    "place_id": "ChIJSRLQv9HPDjkRYr13qjUrQBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRLQv9HPDjkRYr13qjUrQBo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:43:34"
+  },
+  {
+    "business_name": "oma studio",
+    "search_category": "Flower Decorator",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft",
+    "pincode": "248007",
+    "phone_number": "+91 97596 63636",
+    "website": "https://www.omastudio.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "police chowki, 765, near indra nagar, Deepak Nagar, Indra Nagar Colony, Dehradun, Uttarakhand 248001",
+    "area": "Deepak Nagar, Indra Nagar Colony",
+    "latitude": 30.316049999999997,
+    "longitude": 78.00154599999999,
+    "place_id": "ChIJa4J_HfQrCTkRD-w9wtWuD0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4J_HfQrCTkRD-w9wtWuD0c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:43:37"
+  }
+]

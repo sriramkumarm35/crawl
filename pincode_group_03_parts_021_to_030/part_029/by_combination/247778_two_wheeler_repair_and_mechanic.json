@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honda Activa Service Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "247778",
+    "phone_number": "+91 97192 53046",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Azmat Market, Arya Samaj Rd, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.4685909,
+    "longitude": 77.6984698,
+    "place_id": "ChIJfW2nhfQbDDkRjLlmQTSujjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfW2nhfQbDDkRjLlmQTSujjg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:46"
+  },
+  {
+    "business_name": "Malik Bike Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "247778",
+    "phone_number": "+91 75058 71012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Muzzafnagar Road, Meerut, Chausana, Uttar Pradesh 247778",
+    "area": "247778",
+    "latitude": 29.6638634,
+    "longitude": 77.17993059999999,
+    "place_id": "ChIJXY9lbYh9DjkR1h7fR8uF8no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXY9lbYh9DjkR1h7fR8uF8no",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:49"
+  }
+]

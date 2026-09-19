@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surgical Hub",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "247773",
+    "phone_number": "+91 94680 00803",
+    "website": "http://www.dnssurgicalhub.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "31, Behind, Sector 6 Flyover, Gurudwara, Vikas Nagar, Karnal, Phusgarh Part, Haryana 132001",
+    "area": "Gurudwara, Vikas Nagar",
+    "latitude": 29.6760143,
+    "longitude": 77.0181125,
+    "place_id": "ChIJA6eB5Zh6DjkRxAS4kyIlMs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6eB5Zh6DjkRxAS4kyIlMs8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:22:54"
+  },
+  {
+    "business_name": "Gautam medical store",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "247773",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G6FF+542, Jhinjhana, Uttar Pradesh 247773",
+    "area": "247773",
+    "latitude": 29.5228331,
+    "longitude": 77.22272629999999,
+    "place_id": "ChIJk7vcDjkrDDkR_1lNAre7OWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7vcDjkrDDkR_1lNAre7OWY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:22:54"
+  }
+]

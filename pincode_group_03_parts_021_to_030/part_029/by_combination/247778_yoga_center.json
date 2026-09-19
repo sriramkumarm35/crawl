@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam sharma",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "247778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Village Gagoor, Un, Uttar Pradesh 247778",
+    "area": "247778",
+    "latitude": 29.612778199999997,
+    "longitude": 77.2489734,
+    "place_id": "ChIJI2CK1ZCBDjkRZLdty5jKwXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2CK1ZCBDjkRZLdty5jKwXQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:45"
+  },
+  {
+    "business_name": "Atar Gingh yoga teacher",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "247778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "J8V7+J99, Garhi Abdulla, Uttar Pradesh 247343",
+    "area": "247778",
+    "latitude": 29.644048599999998,
+    "longitude": 77.313485,
+    "place_id": "ChIJS0RadQOFDjkRjfpZ_1jwktA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0RadQOFDjkRjfpZ_1jwktA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:45"
+  }
+]

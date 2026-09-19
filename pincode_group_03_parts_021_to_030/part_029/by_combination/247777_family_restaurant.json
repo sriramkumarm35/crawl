@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish Gas Stove",
+    "search_category": "Family Restaurant",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "247777",
+    "phone_number": "+91 97607 08526",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Shop No 4, Jhansi ki rani, Jaina Market, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.470792499999998,
+    "longitude": 77.698478,
+    "place_id": "ChIJ5273p40bDDkRAr4314df0-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5273p40bDDkRAr4314df0-Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:29:43"
+  },
+  {
+    "business_name": "Indian Tadka Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "247777",
+    "phone_number": "+91 82181 28100",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 57,
+    "address": "Bharat Petroleum, Near, Delhi - Saharanpur Rd, Jalalabad, Thanabhawan, Uttar Pradesh 247772",
+    "area": "247777",
+    "latitude": 29.6044205,
+    "longitude": 77.4256812,
+    "place_id": "ChIJ2ZvaM-6dDjkRRF6ZsyfIPBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZvaM-6dDjkRRF6ZsyfIPBg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:29:43"
+  }
+]

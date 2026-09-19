@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Traders",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Industrial chemicals wholesaler",
+    "pincode": "247772",
+    "phone_number": "+91 75009 70576",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Ravidaas Mandir, Raipur, Thanabhawan, Uttar Pradesh 247777",
+    "area": "247772",
+    "latitude": 29.5349364,
+    "longitude": 77.4210251,
+    "place_id": "ChIJ9608FIwnDDkR7XM7Up_DS3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9608FIwnDDkR7XM7Up_DS3I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:22:08"
+  },
+  {
+    "business_name": "Chandra traders",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "247772",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1b, New Mandi Rd, Shamli, Uttar Pradesh 247776",
+    "area": "247772",
+    "latitude": 29.4618382,
+    "longitude": 77.31110989999999,
+    "place_id": "ChIJI-ZvfV0pDDkRY21qw9L67wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-ZvfV0pDDkRY21qw9L67wE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:22:08"
+  }
+]

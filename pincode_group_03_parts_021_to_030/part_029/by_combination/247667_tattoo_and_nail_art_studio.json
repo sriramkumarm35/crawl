@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tattooistic",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Service establishment",
+    "pincode": "247667",
+    "phone_number": "+91 82735 83898",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tattooistic, 247667, India",
+    "area": "247667",
+    "latitude": 30.3254284,
+    "longitude": 78.01713459999999,
+    "place_id": "ChIJL9Y0TtuzDjkRNvLiUC60v74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9Y0TtuzDjkRNvLiUC60v74",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:56"
+  },
+  {
+    "business_name": "Dev nail art studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "247667",
+    "phone_number": "+91 99589 91526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chowk, Paniyala Rd, Azad Nagar, Rajendra Nagar, Roorkee, Shafipur, Uttarakhand 247667",
+    "area": "Azad Nagar, Rajendra Nagar",
+    "latitude": 29.867905099999998,
+    "longitude": 77.8757729,
+    "place_id": "ChIJfSy0bACzDjkR5zTtaptZYpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSy0bACzDjkR5zTtaptZYpY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:57"
+  }
+]

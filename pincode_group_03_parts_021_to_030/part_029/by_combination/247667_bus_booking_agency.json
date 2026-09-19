@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROORKEE BUS STAND",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 7167,
+    "address": "bus stand, Busstand, Dharun, Roorkee, Uttarakhand 247667",
+    "area": "Dharun",
+    "latitude": 29.8640501,
+    "longitude": 77.8887761,
+    "place_id": "ChIJQ7rcyWGzDjkRy4PmVM_wvVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7rcyWGzDjkRy4PmVM_wvVQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:40"
+  },
+  {
+    "business_name": "Walcabs",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "247667",
+    "phone_number": "+91 97202 34777",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 4,
+    "address": "VV8P+5M9, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8654242,
+    "longitude": 77.8867461,
+    "place_id": "ChIJraqq6nmzDjkR0z4WCqmkCtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraqq6nmzDjkR0z4WCqmkCtE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:10:40"
+  }
+]

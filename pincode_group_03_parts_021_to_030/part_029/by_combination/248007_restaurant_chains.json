@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rominus Pizza And Burger",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "248007",
+    "phone_number": "+91 78915 15252",
+    "website": "https://rominus.co.in/",
+    "rating": 4.9,
+    "reviews_count": 1353,
+    "address": "Khasra No. 370, New No. 350, First & Second Floor, Simraj: T-3, Chakrata Rd, Nanda Ki Chowki, Kolhupani, Dehradun, Uttarakhand 248007",
+    "area": "Nanda Ki Chowki",
+    "latitude": 30.3432441,
+    "longitude": 77.9541843,
+    "place_id": "ChIJD8VMBNbVCDkRz8wXymwJI7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8VMBNbVCDkRz8wXymwJI7I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:42:44"
+  },
+  {
+    "business_name": "CountrySide Restaurant And HomeStay",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Home Stay",
+    "pincode": "248007",
+    "phone_number": "+91 92580 20700",
+    "website": "https://www.countrysiderestaurant.in/",
+    "rating": 4.8,
+    "reviews_count": 313,
+    "address": "CWPF+Q73, Kotra Kalyanpur, Uttarakhand 248197",
+    "area": "248007",
+    "latitude": 30.4382158,
+    "longitude": 77.9250642,
+    "place_id": "ChIJQY3RG6ItDzkRkk0HTnUPp7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQY3RG6ItDzkRkk0HTnUPp7c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:42:44"
+  }
+]

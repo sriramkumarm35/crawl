@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Gravity Star",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "247774",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C69X+3X4, Shamli road, near jaganpur stand, kandela, Uttar Pradesh 247774",
+    "area": "247774",
+    "latitude": 29.417629599999998,
+    "longitude": 77.2499428,
+    "place_id": "ChIJp8YDdgAtDDkRK3A83fI8CEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8YDdgAtDDkRK3A83fI8CEA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:25:15"
+  },
+  {
+    "business_name": "ADV SUNNY NIRWAL TEJAS COMPLEX",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Apartment complex, Country food restaurant, Hotel, Office space rental agency, Restaurant",
+    "pincode": "247774",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "OFFICE ADV SUNNY NIRWAL, Meerut - Karnal Rd, opp. HDFC BANK, Shamli, Uttar Pradesh 247776",
+    "area": "Dayanand Nagar",
+    "latitude": 29.443376299999997,
+    "longitude": 77.3078814,
+    "place_id": "ChIJIQv4pr4vDDkRe4f1ie8tbw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQv4pr4vDDkRe4f1ie8tbw0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:25:16"
+  }
+]

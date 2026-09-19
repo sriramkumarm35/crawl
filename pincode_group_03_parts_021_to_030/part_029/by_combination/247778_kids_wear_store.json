@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "247778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Uoo, Uttar Pradesh 247778",
+    "area": "247778",
+    "latitude": 29.5831242,
+    "longitude": 77.25578159999999,
+    "place_id": "ChIJozhYHbiBDjkRXGxPCDuVNhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozhYHbiBDjkRXGxPCDuVNhg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:30"
+  },
+  {
+    "business_name": "Rajesh Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "247778",
+    "phone_number": "+91 78198 64139",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Garhi Hasanpur, Dathera, Uttar Pradesh 247778",
+    "area": "247778",
+    "latitude": 29.6693136,
+    "longitude": 77.2302768,
+    "place_id": "ChIJmcRJpeSHDjkRr4OQXDaFKi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcRJpeSHDjkRr4OQXDaFKi0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra building materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Building materials supplier",
+    "pincode": "247776",
+    "phone_number": "+91 97203 47001",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "C8XF+2MW, Sada Shiv Mandir ke pass, Kudana Rd, Shamli, Uttar Pradesh 247776",
+    "area": "247776",
+    "latitude": 29.447608199999998,
+    "longitude": 77.3241907,
+    "place_id": "ChIJj5mwWNAuDDkRJ32r7bEPo0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5mwWNAuDDkRJ32r7bEPo0E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:28:29"
+  },
+  {
+    "business_name": "Dharampal and sons (paint store)",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "247776",
+    "phone_number": "+91 94560 37841",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "V.V. Inter College Rd, near Arya Puri, Mod, Shamli, Uttar Pradesh 247776",
+    "area": "Mod",
+    "latitude": 29.446555099999998,
+    "longitude": 77.30835979999999,
+    "place_id": "ChIJCT2TnLwvDDkRLH0cc3akvpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCT2TnLwvDDkRLH0cc3akvpY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:28:29"
+  }
+]

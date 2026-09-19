@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Malik's Prime Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Audiologist, Hearing aid repair service, Medical Center, Medical clinic, Hearing aid store, Speech & Hearing Specialist",
+    "pincode": "247778",
+    "phone_number": "+91 11 4656 4950",
+    "website": "http://www.primehearing.com/",
+    "rating": 4.6,
+    "reviews_count": 30,
+    "address": "C-140, Block C, Defence Colony, New Delhi, Delhi 110024",
+    "area": "Block C, Defence Colony",
+    "latitude": 28.5726081,
+    "longitude": 77.23395579999999,
+    "place_id": "ChIJVVVVFVHiDDkRSFS2T4dYyWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFVHiDDkRSFS2T4dYyWY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:44"
+  },
+  {
+    "business_name": "Dr. J.K. Gupta ENT Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "247778",
+    "phone_number": "+91 120 499 4966",
+    "website": "https://www.rihl.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "05, Ground Floor, Mahagun Mart (Near Manthan School), Sector -78, Sector 78, Noida, Uttar Pradesh 201305",
+    "area": "Sector 78",
+    "latitude": 28.5638519,
+    "longitude": 77.3876208,
+    "place_id": "ChIJ_adxblvvDDkRu5jVyij5Vhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_adxblvvDDkRu5jVyij5Vhg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:45"
+  }
+]

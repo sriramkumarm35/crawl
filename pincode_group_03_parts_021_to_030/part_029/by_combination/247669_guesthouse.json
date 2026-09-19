@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahmat House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "247669",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "KailashPur, Uttar Pradesh 247669",
+    "area": "247669",
+    "latitude": 29.9766601,
+    "longitude": 77.63781329999999,
+    "place_id": "ChIJb6o3uMTADjkRAN8SlSQkJ10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6o3uMTADjkRAN8SlSQkJ10",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:14:41"
+  },
+  {
+    "business_name": "Garg Crockery Store",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Appliance store, Kitchen supply store",
+    "pincode": "247669",
+    "phone_number": "+91 172 505 2295",
+    "website": "https://gargcrockerystore.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Plot no 333 Ind Area, Phase 2, Ram Darbar, Chandigarh, 160002",
+    "area": "Phase 2, Ram Darbar",
+    "latitude": 30.698827899999998,
+    "longitude": 76.78443,
+    "place_id": "ChIJPy1GcUPsDzkRBXiKbGVjgP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPy1GcUPsDzkRBXiKbGVjgP8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:14:44"
+  }
+]

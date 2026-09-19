@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Holiday Time",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator, Tourist information center, Travel clinic",
+    "pincode": "247670",
+    "phone_number": "+91 95684 14414",
+    "website": "http://www.apnaholidaytime.com/",
+    "rating": 4.8,
+    "reviews_count": 289,
+    "address": "near Gautam Farm, Gulab Bagh, Gyan Lok Colony, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Gulab Bagh, Gyan Lok Colony, Kankhal",
+    "latitude": 29.931565499999998,
+    "longitude": 78.1435343,
+    "place_id": "ChIJ2xMwNNBHCTkRzmeeQJBNVgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xMwNNBHCTkRzmeeQJBNVgw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:16:01"
+  },
+  {
+    "business_name": "Shiv Shakti Travels Gurukul Narsan Roorkee",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "247670",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Narsan check post, mode, Ulheda, Roorkee, Uttarakhand 247670",
+    "area": "247670",
+    "latitude": 29.6815394,
+    "longitude": 77.84959359999999,
+    "place_id": "ChIJJduHFACrDjkRT-TxMaFR3Yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJduHFACrDjkRT-TxMaFR3Yk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:16:02"
+  }
+]

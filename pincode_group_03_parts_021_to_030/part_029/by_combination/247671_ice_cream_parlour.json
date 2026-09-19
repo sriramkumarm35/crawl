@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaleem Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "247671",
+    "phone_number": "+91 70786 32801",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Laksar Rd, near Bus Stand, Haridwar, Laksar, Uttarakhand 247663",
+    "area": "247671",
+    "latitude": 29.756014399999998,
+    "longitude": 78.0314242,
+    "place_id": "ChIJFVV41NJRCTkRsL_tuk3Tq00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVV41NJRCTkRsL_tuk3Tq00",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:20"
+  },
+  {
+    "business_name": "Praveen Sweets Baseri",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar",
+    "pincode": "247671",
+    "phone_number": "+91 96376 71897",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "रुड़की रोड़, बसेड़ी खादर, लक्सर, Baseri, Uttarakhand 247663",
+    "area": "बसेड़ी खादर, लक्सर",
+    "latitude": 29.763852999999997,
+    "longitude": 78.0289784,
+    "place_id": "ChIJv39KkI9RCTkRi_pJFPKBEi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv39KkI9RCTkRi_pJFPKBEi4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:21"
+  }
+]

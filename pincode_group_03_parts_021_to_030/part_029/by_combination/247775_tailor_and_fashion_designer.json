@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harbans Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "247775",
+    "phone_number": "+91 131 243 3410",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FMCW+MCX, Bhagat Singh Rd, Sutharshahi, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Sutharshahi",
+    "latitude": 29.4717316,
+    "longitude": 77.6960951,
+    "place_id": "ChIJ_5sxz_MbDDkRzMzCPKCAOqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5sxz_MbDDkRzMzCPKCAOqI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:13"
+  },
+  {
+    "business_name": "Shine Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "247775",
+    "phone_number": "+91 90274 91996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "655G+V59, Chhaprauli, Chhaprauli Dehat, Uttar Pradesh 250617",
+    "area": "247775",
+    "latitude": 29.2096494,
+    "longitude": 77.17552859999999,
+    "place_id": "ChIJbdOdBQDLDTkRZqFVqQLza_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdOdBQDLDTkRZqFVqQLza_g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaka Da Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "247778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "247778, State Highway 82, SIET Shamli Campus Road, Jhinjhana, Uttar Pradesh 247773",
+    "area": "247778",
+    "latitude": 29.5329956,
+    "longitude": 77.1962503,
+    "place_id": "ChIJyR20HqsqDDkRVV8NJuLmVXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyR20HqsqDDkRVV8NJuLmVXA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:24"
+  },
+  {
+    "business_name": "Sarpanch Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "247778",
+    "phone_number": "+91 1398 255 449",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Jhinjhana, Shamli, SH-82, Karnal Shamli Road, Shamli, Shamli, Uttar Pradesh 247773",
+    "area": "247778",
+    "latitude": 29.5329935,
+    "longitude": 77.19629259999999,
+    "place_id": "ChIJ5_6rHqsqDDkRmWOV4lOBK5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_6rHqsqDDkRmWOV4lOBK5o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:24"
+  }
+]

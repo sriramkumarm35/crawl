@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Doon",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza delivery",
+    "all_categories": "Pizza delivery, Pizza takeaway",
+    "pincode": "248005",
+    "phone_number": "+91 91231 95783",
+    "website": "http://www.littledoon.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Windlass River Valley, 003, Alaknanda 6, Kuwan Wala, Harrawala, Dehradun, Uttarakhand 248005",
+    "area": "Sanik COlony, Kuwan Wala",
+    "latitude": 30.2516717,
+    "longitude": 78.09875219999999,
+    "place_id": "ChIJi8PT044_noYR7Jnqvd01w9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8PT044_noYR7Jnqvd01w9E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:38:58"
+  },
+  {
+    "business_name": "The Retro Rolls",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, Hamburger restaurant, Pizza restaurant",
+    "pincode": "248005",
+    "phone_number": "+91 91190 79907",
+    "website": "http://theretrorolls.com/",
+    "rating": 4.4,
+    "reviews_count": 1078,
+    "address": "Plot No 70, Chakdalanwala, Danda Dharampur, Dharampur, Dehradun, Uttarakhand 248014",
+    "area": "Chakdalanwala, Danda Dharampur, Dharampur",
+    "latitude": 30.2994913,
+    "longitude": 78.0650575,
+    "place_id": "ChIJqc-xo2spCTkRCDx1Rk_2PQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc-xo2spCTkRCDx1Rk_2PQs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:38:58"
+  }
+]

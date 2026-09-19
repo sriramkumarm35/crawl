@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamspuar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "247669",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2P9P+84, Chack Mathna, Uttar Pradesh 247662",
+    "area": "247669",
+    "latitude": 30.0183264,
+    "longitude": 77.73537429999999,
+    "place_id": "ChIJ1w8GfQDHDjkRzJEXKG6IGdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1w8GfQDHDjkRzJEXKG6IGdY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:15:03"
+  },
+  {
+    "business_name": "RealBizz Property Advisor",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "247669",
+    "phone_number": "+91 97200 83514",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dehradun Rd, near Honda Agency, Gagalheri, Saharanpur, Uttar Pradesh 247669",
+    "area": "247669",
+    "latitude": 29.9787218,
+    "longitude": 77.66695229999999,
+    "place_id": "ChIJFdlzZyvHDjkRqC7KnSk_qtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdlzZyvHDjkRqC7KnSk_qtg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:15:06"
+  }
+]

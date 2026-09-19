@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DHL Service Centre",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "https://www.dhl.com/en/express/shipping/find_dhl_locations.html",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "VVR9+HHC, Rampur, Roorkee, Uttarakhand 247667",
+    "area": "Rampur",
+    "latitude": 29.891437699999997,
+    "longitude": 77.8688883,
+    "place_id": "ChIJn4TKTLO1DjkRaiWmCpiIU70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4TKTLO1DjkRaiWmCpiIU70",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:26"
+  },
+  {
+    "business_name": "courier services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Money transfer service, Railway services",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "http://shippingkaro.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "railway station, kohli multi services, near masjid, Roorkee, Uttarakhand 247667",
+    "area": "Western Ganeshpur",
+    "latitude": 29.853981599999997,
+    "longitude": 77.8755221,
+    "place_id": "ChIJ0_tJjU6zDjkR26BdsY7A_BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_tJjU6zDjkR26BdsY7A_BU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:27"
+  }
+]

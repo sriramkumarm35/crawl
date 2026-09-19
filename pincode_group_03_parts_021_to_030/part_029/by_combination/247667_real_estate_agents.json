@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROORKEE PROPERTIES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "247667",
+    "phone_number": "+91 98975 05768",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Rampur Chungi, Dehradun Rd, Roorkee, Uttarakhand 247667",
+    "area": "Rampur",
+    "latitude": 29.883991899999998,
+    "longitude": 77.8776511,
+    "place_id": "ChIJAXGBK9W1DjkRyp9pT91SPfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXGBK9W1DjkRyp9pT91SPfc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:28"
+  },
+  {
+    "business_name": "shree shyam properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GANPATI VIHAR, Avas Vikas Colony, Ganeshpur, Roorkee, Uttarakhand 247667",
+    "area": "Avas Vikas Colony, Ganeshpur",
+    "latitude": 29.875510799999997,
+    "longitude": 77.8803164,
+    "place_id": "ChIJgXMbXkC1DjkRkqPyBlj2mLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXMbXkC1DjkRkqPyBlj2mLc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishnayan Gaushala (Gaindikhata)",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Animal shelter",
+    "all_categories": "Animal shelter, Animal protection organization, Animal rescue service",
+    "pincode": "247671",
+    "phone_number": "+91 87559 55000",
+    "website": "https://www.krishnayangauraksha.org/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Baso Chandpur, Gaindi Khata, Uttarakhand 247671",
+    "area": "247671",
+    "latitude": 29.7429605,
+    "longitude": 78.2103553,
+    "place_id": "ChIJ2VEpoEVdCTkRkKhPHO540k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VEpoEVdCTkRkKhPHO540k8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:18:31"
+  },
+  {
+    "business_name": "Big Bucket",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "247671",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main market, Railway station road, Main Bazaar, Laksar, Uttarakhand 247663",
+    "area": "Main Bazaar",
+    "latitude": 29.751308899999998,
+    "longitude": 78.0231342,
+    "place_id": "ChIJ1eoz15tRCTkRhZFARgC8UNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1eoz15tRCTkRhZFARgC8UNw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:18:31"
+  }
+]

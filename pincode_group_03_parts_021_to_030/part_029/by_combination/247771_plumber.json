@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Local plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "247771",
+    "phone_number": "N/A",
+    "website": "http://localplumber.com/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Local plumber, 247771, India",
+    "area": "247771",
+    "latitude": 27.3993263,
+    "longitude": 79.5539593,
+    "place_id": "ChIJvweBfTMlDDkRxN5FWHjRa1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvweBfTMlDDkRxN5FWHjRa1o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:40"
+  },
+  {
+    "business_name": "Haroon",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "247771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "87FC+HR5, Kandhla, Uttar Pradesh 247775",
+    "area": "247771",
+    "latitude": 29.323886199999997,
+    "longitude": 77.2721234,
+    "place_id": "ChIJ8WRFVwAzDDkRMDyEmbevyzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WRFVwAzDDkRMDyEmbevyzk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NATH CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "247778",
+    "phone_number": "+91 131 262 2237",
+    "website": "http://nathclinic.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "6 & 7, Chowdhary Charan Singh Market, Between Mahavir Chowk, and, Prakash Chowk, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Civil Lines South",
+    "latitude": 29.4687839,
+    "longitude": 77.70338629999999,
+    "place_id": "ChIJO3gkFAsbDDkRhiIGHMVZROE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3gkFAsbDDkRhiIGHMVZROE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:44"
+  },
+  {
+    "business_name": "Popli Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "247778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FPH7+F29, 26, Gandhi Marg, Gandhi Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Gandhi Colony",
+    "latitude": 29.478745699999997,
+    "longitude": 77.71256489999999,
+    "place_id": "ChIJp7w4QW4bDDkRjCSXq4cPZM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7w4QW4bDDkRjCSXq4cPZM0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:44"
+  }
+]

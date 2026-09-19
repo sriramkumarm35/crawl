@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Limra Health Care Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "247777",
+    "phone_number": "+91 89234 91500",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "House No- 1813, Chakkar Wali Sadak, near India ATM, Indira Colony, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Indira Colony",
+    "latitude": 29.4941411,
+    "longitude": 77.7030798,
+    "place_id": "ChIJC7vxMH0dDDkRDqPblaxs1Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7vxMH0dDDkRDqPblaxs1Jc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:29:57"
+  },
+  {
+    "business_name": "Raghav hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "247777",
+    "phone_number": "+91 79061 28074",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Jhinjana, road, opposite tata car showroom, near Gali Number 2, Teachers Colony, Shamli, Uttar Pradesh 247776",
+    "area": "Teachers Colony",
+    "latitude": 29.4502393,
+    "longitude": 77.300163,
+    "place_id": "ChIJORryi9ovDDkR8GBx9T0p0YQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORryi9ovDDkR8GBx9T0p0YQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:29:57"
+  }
+]

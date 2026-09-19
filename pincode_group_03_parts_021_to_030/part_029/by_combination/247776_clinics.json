@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arun's Neuro & Mind Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Medical supply store",
+    "pincode": "247776",
+    "phone_number": "+91 92675 61828",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 150,
+    "address": "Krishna Enclave Indian oil petrol pump ke samne IFCO khad godam wali gali Near Sishauli bus stand MSK Road, Delhi - Saharanpur Rd, Shamli, Uttar Pradesh 247776",
+    "area": "Ch Charan Singh Colony",
+    "latitude": 29.4537844,
+    "longitude": 77.3219163,
+    "place_id": "ChIJXbfQxMIvDDkRArdtMl7D5Ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbfQxMIvDDkRArdtMl7D5Ds",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:28:08"
+  },
+  {
+    "business_name": "Priyanshu Medical Agencies",
+    "search_category": "Clinics",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "247776",
+    "phone_number": "+91 75007 54003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Thanabhawan, Uttar Pradesh 247777",
+    "area": "247776",
+    "latitude": 29.5856592,
+    "longitude": 77.4194144,
+    "place_id": "ChIJTZQB5QudDjkRURQfC2cmM1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZQB5QudDjkRURQfC2cmM1o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:28:10"
+  }
+]

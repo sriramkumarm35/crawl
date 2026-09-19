@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Emporium",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Western apparel store",
+    "pincode": "248007",
+    "phone_number": "+91 78957 20879",
+    "website": "https://www.aroraemporium.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Wing Number 3, near MDDA Park, Tyagi Market, Prem Nagar, Dehradun, Shahpur Santore, Uttarakhand 248007",
+    "area": "Tyagi Market, Prem Nagar",
+    "latitude": 30.334992699999997,
+    "longitude": 77.96447909999999,
+    "place_id": "ChIJN7uvHJ9Xzy0RYQVJ4UvK5lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7uvHJ9Xzy0RYQVJ4UvK5lM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:42:54"
+  },
+  {
+    "business_name": "High Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing Accessories Store",
+    "pincode": "248007",
+    "phone_number": "+91 70375 62103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Nanhi Duniya School, Tyagi Market, Prem Nagar, Dehradun, Uttarakhand 248007",
+    "area": "Tyagi Market, Prem Nagar",
+    "latitude": 30.332983199999997,
+    "longitude": 77.9622103,
+    "place_id": "ChIJQ424hQIrCTkRBfap5Fu6qtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ424hQIrCTkRBfap5Fu6qtc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:42:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SJ Towers",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "247667",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 177, 16, Prem Mandir Rd, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.873129,
+    "longitude": 77.89079389999999,
+    "place_id": "ChIJlcXW3CizDjkRJcSq8spd2Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcXW3CizDjkRJcSq8spd2Mw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:45"
+  },
+  {
+    "business_name": "Aggarwal Baby Needs",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "247667",
+    "phone_number": "+91 84392 45780",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Railway Rd, near Dr veena Gupta Clinic, World Bank Colony, Roorkee, Uttarakhand 247667",
+    "area": "World Bank Colony",
+    "latitude": 29.8775487,
+    "longitude": 77.88788339999999,
+    "place_id": "ChIJQwLq7Ja1DjkR6QDRC_cNjiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwLq7Ja1DjkR6QDRC_cNjiQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:46"
+  }
+]

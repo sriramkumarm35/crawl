@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Chopra Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "247771",
+    "phone_number": "+91 98732 71203",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 117,
+    "address": "45/19, Block 45, Ashok Nagar, New Delhi, Delhi, 110018",
+    "area": "Block 45, Ashok Nagar",
+    "latitude": 28.634477399999998,
+    "longitude": 77.1007566,
+    "place_id": "ChIJuTba4aEEDTkRiQKyKPap77A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTba4aEEDTkRiQKyKPap77A",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:13"
+  },
+  {
+    "business_name": "M R hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "247771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/15, Mahmood nagar, Muzaffarnagar, Uttar Pradesh 251306",
+    "area": "Mahmood nagar",
+    "latitude": 29.4782934,
+    "longitude": 77.665066,
+    "place_id": "ChIJuU1ZnqAbDDkRBMswB1lZ1NE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuU1ZnqAbDDkRBMswB1lZ1NE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:14"
+  }
+]

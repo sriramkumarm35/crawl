@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Reach",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Graphic designer, Marketing consultant, Website designer",
+    "pincode": "248007",
+    "phone_number": "+91 74649 65777",
+    "website": "https://digitalreach.digital/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "11th Mile, Sudhowala, Dehradun, Uttarakhand 248007",
+    "area": "248007",
+    "latitude": 30.3446382,
+    "longitude": 77.9328615,
+    "place_id": "ChIJj9IX-DqrTGkRlZDREdowae4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9IX-DqrTGkRlZDREdowae4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:44:12"
+  },
+  {
+    "business_name": "Cresco Tech Solution",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "248007",
+    "phone_number": "+91 97591 91196",
+    "website": "https://crescotechsolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cresco Tech Tower, near Power House, Prem Nagar, Dehradun, Uttarakhand 248007",
+    "area": "Prem Nagar",
+    "latitude": 30.330014,
+    "longitude": 77.9617987,
+    "place_id": "ChIJ7duwy68rCTkRftvw0DVffDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7duwy68rCTkRftvw0DVffDc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:44:14"
+  }
+]

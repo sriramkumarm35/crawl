@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Product Launch",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "248003",
+    "phone_number": "N/A",
+    "website": "https://productlaunch.com.br/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Product Launch, 248003, India",
+    "area": "248003",
+    "latitude": -14.4095262,
+    "longitude": -51.3168626,
+    "place_id": "ChIJbXRgGdtPFCURdGxZFQcbxWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXRgGdtPFCURdGxZFQcbxWg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:38:38"
+  },
+  {
+    "business_name": "CORPORATE OFFICE",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "SaaS Companies Selling to SMBs",
+    "all_categories": "SaaS Companies Selling to SMBs",
+    "pincode": "248003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "58, Chakrata Rd, Clock Tower, Tagore Villa, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Clock Tower, Tagore Villa, Chukkuwala",
+    "latitude": 30.324800999999997,
+    "longitude": 78.04063889999999,
+    "place_id": "ChIJgTBRqOspCTkR7DBI1rk1tLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTBRqOspCTkR7DBI1rk1tLs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:38:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "247772",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near S.T.R.C College of Higher, Shamli, Uttar Pradesh 247776",
+    "area": "247772",
+    "latitude": 29.4630007,
+    "longitude": 77.3440304,
+    "place_id": "ChIJGT0tAdEpDDkRcZimyfYW9w4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGT0tAdEpDDkRcZimyfYW9w4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:22:05"
+  },
+  {
+    "business_name": "Salek Chand Vihar Shamli",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "247772",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "salek chand vihar, Mini bypass, Delhi - Saharanpur Rd, Shamli, Uttar Pradesh 247776",
+    "area": "247772",
+    "latitude": 29.458678799999998,
+    "longitude": 77.3110136,
+    "place_id": "ChIJk6y-TWIpDDkRtBED2EZw9nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6y-TWIpDDkRtBED2EZw9nc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:22:06"
+  }
+]

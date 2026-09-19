@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wholesaler",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Stationery wholesaler",
+    "all_categories": "Stationery wholesaler",
+    "pincode": "247772",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "148, Street Number 1, Anandpuri, North Rampuri, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Anandpuri, North Rampuri",
+    "latitude": 29.489879499999997,
+    "longitude": 77.69716869999999,
+    "place_id": "ChIJLR_mv2gbDDkR4VC6BVNiyTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLR_mv2gbDDkR4VC6BVNiyTw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:21:35"
+  },
+  {
+    "business_name": "Beauty Hub",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "247772",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "36B, 1, Bindal Bazar, New Mandi, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "New Mandi",
+    "latitude": 29.4660814,
+    "longitude": 77.7100171,
+    "place_id": "ChIJxQCIUNMbDDkRyveuTxLXh0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQCIUNMbDDkRyveuTxLXh0s",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:21:35"
+  }
+]

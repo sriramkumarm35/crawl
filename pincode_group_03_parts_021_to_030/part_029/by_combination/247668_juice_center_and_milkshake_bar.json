@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Munna Bhai Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "247668",
+    "phone_number": "+91 74658 17111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4, Sitapur, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Sitapur",
+    "latitude": 29.9154786,
+    "longitude": 78.1081782,
+    "place_id": "ChIJVZXGBT5JCTkRwZhQscEZWbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZXGBT5JCTkRwZhQscEZWbM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:56"
+  },
+  {
+    "business_name": "Baithak Juice and Shakes and Tea",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "GPS supplier",
+    "all_categories": "GPS supplier",
+    "pincode": "247668",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near, Jatwara Bridge, Sanjay Colony, Sitapur, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Sanjay Colony, Sitapur",
+    "latitude": 29.9178397,
+    "longitude": 78.10524889999999,
+    "place_id": "ChIJPXtmPQBJCTkR7Phmzyy5Mcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXtmPQBJCTkR7Phmzyy5Mcs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:56"
+  }
+]

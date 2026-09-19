@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electronic Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "247777",
+    "phone_number": "+91 96903 68786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nasirpur Rd, Subhash Nagar, Gandhi Colony, Sarwat, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Subhash Nagar, Gandhi Colony",
+    "latitude": 29.4885064,
+    "longitude": 77.7114643,
+    "place_id": "ChIJpbZQ0wEbDDkRcWuO5wHWlmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbZQ0wEbDDkRcWuO5wHWlmM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:30:10"
+  },
+  {
+    "business_name": "Avi electric store Rohana",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "247777",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HMFQ+CWP, Rohana Kalan, Uttar Pradesh 251202",
+    "area": "247777",
+    "latitude": 29.5735879,
+    "longitude": 77.689827,
+    "place_id": "ChIJ1bPoZY0dDDkR3FgvowkSNBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bPoZY0dDDkR3FgvowkSNBQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:30:12"
+  }
+]

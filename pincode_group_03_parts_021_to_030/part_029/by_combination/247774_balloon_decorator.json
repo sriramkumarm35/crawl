@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon decoration hub",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "247774",
+    "phone_number": "N/A",
+    "website": "https://balloondecorhub.wordpress.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shamli, Uttar Pradesh 247776",
+    "area": "247774",
+    "latitude": 29.448719699999998,
+    "longitude": 77.3086931,
+    "place_id": "ChIJkTNkbQAvDDkR-YaOi7nGXjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTNkbQAvDDkR-YaOi7nGXjU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:25:11"
+  },
+  {
+    "business_name": "Sharma band",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "247774",
+    "phone_number": "+91 90124 71635",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Band market, Gaushala Rd, Badial Jatan Mohala, Shamli, Uttar Pradesh 247776",
+    "area": "Badial Jatan Mohala",
+    "latitude": 29.449272399999998,
+    "longitude": 77.3128484,
+    "place_id": "ChIJvRvJZ1cvDDkRyFV9VP9oJLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRvJZ1cvDDkRyFV9VP9oJLc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:25:11"
+  }
+]

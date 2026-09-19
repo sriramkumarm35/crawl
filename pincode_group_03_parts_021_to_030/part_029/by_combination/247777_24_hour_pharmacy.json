@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medicalwala",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "247777",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H.no221 ward 1 Devidas Khatauli Muzaffarnagar, Uttar Pradesh 251201",
+    "area": "Saini Nagar",
+    "latitude": 29.2772598,
+    "longitude": 77.7338472,
+    "place_id": "ChIJS6jyyWYTDDkR55-uUsbGvRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6jyyWYTDDkR55-uUsbGvRs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:29:50"
+  },
+  {
+    "business_name": "Mr Manish Nehra",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "247777",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "GCVH+VPQ, Maisani Ismailpur, Uttar Pradesh 247777",
+    "area": "247777",
+    "latitude": 29.545193299999998,
+    "longitude": 77.42963499999999,
+    "place_id": "ChIJq3xRCwAnDDkRAVuNmpqosEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3xRCwAnDDkRAVuNmpqosEQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:29:52"
+  }
+]

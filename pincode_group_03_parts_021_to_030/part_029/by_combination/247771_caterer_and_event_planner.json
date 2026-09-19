@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L.S.S CATERERS",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "247771",
+    "phone_number": "+91 88006 64465",
+    "website": "https://lss-caterers.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D11-315, Pocket 11, Sector 7D, Rohini, Delhi, 110085",
+    "area": "Pocket 11, Sector 7D, Rohini",
+    "latitude": 28.708671199999998,
+    "longitude": 77.12074539999999,
+    "place_id": "ChIJ11W62F4BDTkRN9XvRLOHwJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11W62F4BDTkRN9XvRLOHwJc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:54"
+  },
+  {
+    "business_name": "The Royal Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "247771",
+    "phone_number": "+91 79068 33808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Naath Faram House, Gandhi Nagar, Uttar Pradesh 251001",
+    "area": "Gandhi Nagar",
+    "latitude": 29.47075,
+    "longitude": 77.72642809999999,
+    "place_id": "ChIJWXnv5LwbDDkRHNfBAD6kBLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXnv5LwbDDkRHNfBAD6kBLM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:19:56"
+  }
+]

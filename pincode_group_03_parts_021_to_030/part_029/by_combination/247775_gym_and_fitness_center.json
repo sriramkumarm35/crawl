@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanda Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "247775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tanda, Nangal, Uttar Pradesh 250617",
+    "area": "247775",
+    "latitude": 29.269051599999997,
+    "longitude": 77.14728769999999,
+    "place_id": "ChIJ34_NKQDNDTkRb-LTX2Wmh7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34_NKQDNDTkRb-LTX2Wmh7c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:28"
+  },
+  {
+    "business_name": "R.D. Health Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "247775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "District:, Bagpath, Lumb, Uttar Pradesh 250623",
+    "area": "Bagpath",
+    "latitude": 29.260476999999998,
+    "longitude": 77.2205209,
+    "place_id": "ChIJGbMtjp80DDkRx4EZXufya7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbMtjp80DDkRx4EZXufya7E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:28"
+  }
+]

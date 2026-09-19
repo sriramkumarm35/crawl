@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Chaitanya Traders",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market, Wholesale grocer",
+    "pincode": "247671",
+    "phone_number": "+91 94129 00828",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Village kudi netwala, Raisi, Uttarakhand 247671",
+    "area": "247671",
+    "latitude": 29.6987259,
+    "longitude": 78.0565625,
+    "place_id": "ChIJJwf7g3dXCTkRQq9rwGxAHts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwf7g3dXCTkRQq9rwGxAHts",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:10"
+  },
+  {
+    "business_name": "Mayur Fish Aquarium",
+    "search_category": "Fish Market",
+    "primary_category": "Aquarium",
+    "all_categories": "Aquarium, Aquarium shop",
+    "pincode": "247671",
+    "phone_number": "+91 98971 70888",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 23,
+    "address": "14 Veer Market, Haridwar Rd, near Krishna Misthan Bhandar, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.1047156,
+    "longitude": 78.2977495,
+    "place_id": "ChIJcUVG1V0XCTkRKLNaoF8pQSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUVG1V0XCTkRKLNaoF8pQSA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:17:12"
+  }
+]

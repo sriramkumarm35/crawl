@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Dal",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Department store, Dry Fruit Store",
+    "pincode": "247775",
+    "phone_number": "+91 98185 14751",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 377,
+    "address": "1j22, Aryasamaj Rd, Block J, New Industrial Twp 1, New Industrial Township, Faridabad, Haryana 121001",
+    "area": "Block J, New Industrial Township 1, New Industrial Township",
+    "latitude": 28.3867767,
+    "longitude": 77.30398389999999,
+    "place_id": "ChIJidzBQTncDDkRLiBfQGpSrxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidzBQTncDDkRLiBfQGpSrxM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:00"
+  },
+  {
+    "business_name": "Ashok Confectionery",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "247775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 11,
+    "address": "Main Market, Miranpur, Uttar Pradesh 251315",
+    "area": "247775",
+    "latitude": 29.2894112,
+    "longitude": 77.94958969999999,
+    "place_id": "ChIJr5PWpZ_1CzkRUWsUeCLX9go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5PWpZ_1CzkRUWsUeCLX9go",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:26:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Public School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "247777",
+    "phone_number": "+91 75001 10908",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Delhi - Saharanpur Rd, Devpur, Hind, Uttar Pradesh 247777",
+    "area": "Devpur",
+    "latitude": 29.529487699999997,
+    "longitude": 77.3756667,
+    "place_id": "ChIJl46uM8spDDkROd46aRb6izg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl46uM8spDDkROd46aRb6izg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:30:35"
+  },
+  {
+    "business_name": "Delhi Dhamaka Sale",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "247777",
+    "phone_number": "+91 81269 25045",
+    "website": "https://delhi-dhamaka-sale.grexa.site/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Yogenderpuri, Qidwai Naga, Muzaffarnagar, Uttar Pradesh 251002",
+    "area": "Yogenderpuri, Qidwai Naga",
+    "latitude": 29.4586443,
+    "longitude": 77.69639149999999,
+    "place_id": "ChIJv015vqcbDDkRz1W8KoJH2xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv015vqcbDDkRz1W8KoJH2xA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:30:37"
+  }
+]

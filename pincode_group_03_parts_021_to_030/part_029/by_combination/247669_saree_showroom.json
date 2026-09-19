@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muskan Boutique",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "247669",
+    "phone_number": "+91 88592 21090",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No 6, Muskan Boutique, Chowk, Bhagwanpur, Gagalheri, Uttar Pradesh 247669",
+    "area": "247669",
+    "latitude": 29.9741361,
+    "longitude": 77.66206849999999,
+    "place_id": "ChIJYaXumzvHDjkRx6__EsxMfqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaXumzvHDjkRx6__EsxMfqQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:13:53"
+  },
+  {
+    "business_name": "Anha Cloth House",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Saree Shop",
+    "pincode": "247669",
+    "phone_number": "+91 91493 54166",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gagalheri Saharanpur, 04, Kasmi Market, Gagalheri, Uttar Pradesh 247669",
+    "area": "247669",
+    "latitude": 29.9756023,
+    "longitude": 77.664188,
+    "place_id": "ChIJadgoh4XHDjkRCF5kHraDv3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadgoh4XHDjkRCF5kHraDv3E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:13:54"
+  }
+]

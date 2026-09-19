@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "247669",
+    "phone_number": "+91 80903 11816",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 98, near Jaya Madical, Nehrunagar, Tikamgarh, Lalitpur, Madhya Pradesh 284403",
+    "area": "Nehrunagar",
+    "latitude": 24.682626499999998,
+    "longitude": 78.3907996,
+    "place_id": "ChIJ8zInHAC7eTkRlE_oX7dTRXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zInHAC7eTkRlE_oX7dTRXs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:13:47"
+  },
+  {
+    "business_name": "Think Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Restaurant",
+    "pincode": "247669",
+    "phone_number": "+91 73033 33412",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 517,
+    "address": "Shreeji Heights, Shreeji Ville 2, Takandas Kataria Marg, Mainak Wadi, Joshi Vadi, Matunga West, Mumbai, Maharashtra 400016",
+    "area": "Mainak Wadi, Joshi Vadi, Matunga West",
+    "latitude": 19.0306241,
+    "longitude": 72.8453415,
+    "place_id": "ChIJmXUp4cnP5zsR6Zi0upzOtmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXUp4cnP5zsR6Zi0upzOtmM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:13:48"
+  }
+]

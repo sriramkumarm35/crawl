@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xtreme Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "248006",
+    "phone_number": "+91 96272 26884",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kali Mandir Chowk, near Mahant Indresh Hospital, Dehradun, Uttarakhand 248001",
+    "area": "Brahmanwala",
+    "latitude": 30.3029199,
+    "longitude": 78.02260129999999,
+    "place_id": "ChIJIzmqLoEpCTkRhj5_0msdgNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzmqLoEpCTkRhj5_0msdgNM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:41:11"
+  },
+  {
+    "business_name": "Ym Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "248006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "826J+VR7, Ritha Mandi Road, KTY, Lakkhi Bagh, Dehradun, Uttarakhand 248001",
+    "area": "KTY, Lakkhi Bagh",
+    "latitude": 30.3121707,
+    "longitude": 78.0320491,
+    "place_id": "ChIJIfgpN5ApCTkRh7oZj1twamo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfgpN5ApCTkRh7oZj1twamo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:41:12"
+  }
+]

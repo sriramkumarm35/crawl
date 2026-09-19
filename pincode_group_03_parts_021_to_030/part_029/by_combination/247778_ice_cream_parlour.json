@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashyap Confectionery Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "247778",
+    "phone_number": "+91 82796 45431",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "10, Ulhani, Shamli, Ulahani, Uttar Pradesh 247773",
+    "area": "247778",
+    "latitude": 29.5999196,
+    "longitude": 77.1736524,
+    "place_id": "ChIJg3XmYZt_DjkRDVODpZEoutU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3XmYZt_DjkRDVODpZEoutU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:26"
+  },
+  {
+    "business_name": "Dhani Mani confectionery and crockery",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "247778",
+    "phone_number": "+91 93680 05869",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "wali Gali, near shri Gupta telecom Kori Chaki ke Samne, Jhinjhana, Uttar Pradesh 247773",
+    "area": "247778",
+    "latitude": 29.5204296,
+    "longitude": 77.2246613,
+    "place_id": "ChIJo9YYTY0rDDkRCfenmFcbW5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9YYTY0rDDkRCfenmFcbW5M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:31:26"
+  }
+]

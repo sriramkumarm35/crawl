@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR.DIY",
+    "search_category": "Shops",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "247667",
+    "phone_number": "+91 1800 532 2829",
+    "website": "https://www.mrdiy.co.in/",
+    "rating": 3.8,
+    "reviews_count": 70,
+    "address": "MR.DIY, Ground, first and second floor 296B, 2, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8734909,
+    "longitude": 77.894095,
+    "place_id": "ChIJY0iugQmzDjkRoYr8zpZ3lpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0iugQmzDjkRoYr8zpZ3lpw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:46"
+  },
+  {
+    "business_name": "Mermaid Fashion Hub",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "247667",
+    "phone_number": "+91 74578 44202",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prem Mandir Rd, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.872394999999997,
+    "longitude": 77.8919099,
+    "place_id": "ChIJW2J573yzDjkRbuLKLG_XZyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2J573yzDjkRbuLKLG_XZyg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 08:11:47"
+  }
+]
