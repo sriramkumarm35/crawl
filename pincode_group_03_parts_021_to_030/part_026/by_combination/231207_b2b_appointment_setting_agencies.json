@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Online services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R8RG+F47, Bindul, Madhya Pradesh 486886",
+    "area": "231207",
+    "latitude": 23.841150199999998,
+    "longitude": 82.3253062,
+    "place_id": "ChIJw6ggo4WviDkR5sAgFnimCvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6ggo4WviDkR5sAgFnimCvA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:41"
+  },
+  {
+    "business_name": "Online services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R8J5+3X7, Bindul, Madhya Pradesh 486886",
+    "area": "231207",
+    "latitude": 23.830152599999998,
+    "longitude": 82.3099154,
+    "place_id": "ChIJwzaZJT2viDkRnzyoIFv7uoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzaZJT2viDkRnzyoIFv7uoo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:42"
+  }
+]

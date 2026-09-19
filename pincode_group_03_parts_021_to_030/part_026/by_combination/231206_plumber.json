@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dalbir Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "231206",
+    "phone_number": "+91 98880 56235",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Zirakpur Dhakoli Zirakpur, Panchkula, Chandigarh, Punjab 160104",
+    "area": "231206",
+    "latitude": 30.637603,
+    "longitude": 76.8459949,
+    "place_id": "ChIJCd9yyEGVDzkR1quxjTMahXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCd9yyEGVDzkR1quxjTMahXs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:09:02"
+  },
+  {
+    "business_name": "Vishal Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "231206",
+    "phone_number": "+91 89689 17029",
+    "website": "http://vishal.plumber.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1, Amrit vihar, Baltana, Sector 19, Zirakpur, Punjab 140604",
+    "area": "Baltana, Sector 19",
+    "latitude": 30.6670539,
+    "longitude": 76.82638159999999,
+    "place_id": "ChIJNxnSCueVDzkRTmTcfWybfRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxnSCueVDzkRTmTcfWybfRk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:09:02"
+  }
+]

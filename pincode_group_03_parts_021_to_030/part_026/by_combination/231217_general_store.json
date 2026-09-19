@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "231217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Araghat, Uttar Pradesh 231223",
+    "area": "231217",
+    "latitude": 23.948929699999997,
+    "longitude": 82.9527865,
+    "place_id": "ChIJtced4koriTkResphRGPUJCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtced4koriTkResphRGPUJCk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:56"
+  },
+  {
+    "business_name": "Jay Ambey General Store Renukoot",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "231217",
+    "phone_number": "+91 81154 74559",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Umasankar Fruit Shop, Gandhi Ground, Renukoot Colony, Hindalco Colony, Renukoot, Uttar Pradesh 231217",
+    "area": "Renukoot Colony, Hindalco Colony",
+    "latitude": 24.2172436,
+    "longitude": 83.0348894,
+    "place_id": "ChIJoSuoc4fbjjkRimjgzvOqvIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSuoc4fbjjkRimjgzvOqvIk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:57"
+  }
+]

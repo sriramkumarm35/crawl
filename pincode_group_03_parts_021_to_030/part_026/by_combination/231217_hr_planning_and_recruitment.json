@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hr staff",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "231217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RGXQ+8M2, Main Rd, Depalpur, Madhya Pradesh 453115",
+    "area": "231217",
+    "latitude": 22.8481506,
+    "longitude": 75.5392087,
+    "place_id": "ChIJPXFFbACvYzkRdWzVnY_qG2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXFFbACvYzkRdWzVnY_qG2I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:17"
+  },
+  {
+    "business_name": "Global Hr Advisor",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Corporate office",
+    "pincode": "231217",
+    "phone_number": "+91 93000 18333",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Russel Chowk, Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.1631777,
+    "longitude": 79.9368851,
+    "place_id": "ChIJDU7Ogg6ugTkR7incYt8lf2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDU7Ogg6ugTkR7incYt8lf2M",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:17"
+  }
+]

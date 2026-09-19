@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine homes",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Property management company, Real estate consultant, Real estate rental agency",
+    "pincode": "230405",
+    "phone_number": "+91 73411 23102",
+    "website": "http://www.finehomesindia.in/",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "OFFICE NUMBER-14 KESARI PLAZA VIP ROAD, 1 GATE, opposite Savitry Heights, Zirakpur, Punjab 140603",
+    "area": "230405",
+    "latitude": 30.638103899999997,
+    "longitude": 76.8121365,
+    "place_id": "ChIJS0UVmxrrDzkRjuy8GRBo-FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0UVmxrrDzkRjuy8GRBo-FI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:59:13"
+  },
+  {
+    "business_name": "Royals Property Consultant",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial agent, Commercial real estate agency, Property investment company, Property management company",
+    "pincode": "230405",
+    "phone_number": "+91 98787 59508",
+    "website": "https://royalspropertyconsultant.com/",
+    "rating": 5,
+    "reviews_count": 49,
+    "address": "TTT, 9th Floor, Zirakpur Rd, near Hotel Radisson, Patiala, Zirakpur, Punjab 140603",
+    "area": "230405",
+    "latitude": 30.637055,
+    "longitude": 76.8014912,
+    "place_id": "ChIJF8R_m9jrDzkRJPbhnREq0d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8R_m9jrDzkRJPbhnREq0d4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:59:14"
+  }
+]

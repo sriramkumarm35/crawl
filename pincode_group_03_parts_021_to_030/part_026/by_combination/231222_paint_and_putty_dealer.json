@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RV Trading",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "231222",
+    "phone_number": "+91 88398 52922",
+    "website": "https://rvtrading.in/",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "MAIN ROAD, DHOTI, Vindhyanagar, Madhya Pradesh 486886",
+    "area": "DHOTI",
+    "latitude": 24.0789209,
+    "longitude": 82.6546814,
+    "place_id": "ChIJ_agTfqMxjzkRzbscf1BZx3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_agTfqMxjzkRzbscf1BZx3k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:13"
+  },
+  {
+    "business_name": "KHANDELWAL PAINTS AND COATINGS",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Waterproofing service",
+    "pincode": "231222",
+    "phone_number": "+91 70047 37500",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kishoreganj chouk, Lake Rd, Ranchi, Jharkhand 834001",
+    "area": "Upper Bazar",
+    "latitude": 23.3701449,
+    "longitude": 85.313052,
+    "place_id": "ChIJBdDNn3jh9DkR53RmKrZ-TYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdDNn3jh9DkR53RmKrZ-TYw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:16"
+  }
+]

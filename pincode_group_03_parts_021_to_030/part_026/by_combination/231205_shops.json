@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SATGURU General Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "231205",
+    "phone_number": "+91 99366 31448",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Singrauli, Chopan, Madhya Pradesh 486889",
+    "area": "231205",
+    "latitude": 24.5429407,
+    "longitude": 83.0233816,
+    "place_id": "ChIJf_bTaBfljjkRtF4nlgcWlqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_bTaBfljjkRtF4nlgcWlqM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:08:12"
+  },
+  {
+    "business_name": "BEARING HOUSE",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "231205",
+    "phone_number": "+91 94152 72945",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "Preet Nagar, Chopan, Uttar Pradesh 231205",
+    "area": "Preet Nagar",
+    "latitude": 24.5011413,
+    "longitude": 83.0236577,
+    "place_id": "ChIJgfdTVkXkjjkRPlWE_B96qrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfdTVkXkjjkRPlWE_B96qrM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:08:13"
+  }
+]

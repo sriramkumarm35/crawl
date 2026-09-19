@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahyadri Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "231208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "2RH6+P48, Bijpur, Rihand Nagar, Uttar Pradesh 231223",
+    "area": "231208",
+    "latitude": 24.029314499999998,
+    "longitude": 82.8102748,
+    "place_id": "ChIJgwmhJgAtjzkR0FJy8a9ktRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwmhJgAtjzkR0FJy8a9ktRI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:12:49"
+  },
+  {
+    "business_name": "SHANTI LODGE",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "231208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 61,
+    "address": "Dudhinagar, Uttar Pradesh 231208",
+    "area": "231208",
+    "latitude": 24.2136127,
+    "longitude": 83.24071789999999,
+    "place_id": "ChIJjzeG5I3HjjkR054l_0Y54J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzeG5I3HjjkR054l_0Y54J0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:12:49"
+  }
+]

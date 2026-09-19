@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manju Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "667Q+6H8, Syed Rd, Dudhinagar, Uttar Pradesh 231208",
+    "area": "231207",
+    "latitude": 24.2116886,
+    "longitude": 83.2381934,
+    "place_id": "ChIJBey9xM3HjjkRO7xecyv08SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBey9xM3HjjkRO7xecyv08SQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:30"
+  },
+  {
+    "business_name": "Swati Polyclinic Ward No.2, Dudhinagar, Uttar Pradesh 231208",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dudhinagar, Uttar Pradesh 231208",
+    "area": "231207",
+    "latitude": 24.2151428,
+    "longitude": 83.23272329999999,
+    "place_id": "ChIJb4SHL0XHjjkRau_xZk7WT4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4SHL0XHjjkRau_xZk7WT4g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:30"
+  }
+]

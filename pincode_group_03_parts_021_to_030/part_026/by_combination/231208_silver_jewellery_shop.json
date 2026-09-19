@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Jewar India",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "231208",
+    "phone_number": "+91 99184 28423",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Anpara bazar sonari, gali, Sonar St, Anpara, Uttar Pradesh 231225",
+    "area": "231208",
+    "latitude": 24.1944743,
+    "longitude": 82.78342339999999,
+    "place_id": "ChIJIV_1H6QljzkRXMjrzQBkmV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIV_1H6QljzkRXMjrzQBkmV4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:12:02"
+  },
+  {
+    "business_name": "Vikash jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "231208",
+    "phone_number": "+91 75180 93121",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sonar mandi, tasil road, Dudhinagar, Uttar Pradesh 231208",
+    "area": "231208",
+    "latitude": 24.212873,
+    "longitude": 83.2400547,
+    "place_id": "ChIJKbqEvCbHjjkRveT28fr_pPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbqEvCbHjjkRveT28fr_pPo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:12:04"
+  }
+]

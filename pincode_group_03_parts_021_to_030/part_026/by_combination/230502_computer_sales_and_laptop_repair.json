@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "230502",
+    "phone_number": "+91 99190 48706",
+    "website": "http://balajiinfotech.org.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vikas bhavan, road, Gauriganj, Madho Pur, Uttar Pradesh 227409",
+    "area": "230502",
+    "latitude": 26.193574899999998,
+    "longitude": 81.68390219999999,
+    "place_id": "ChIJE7J9f01XmjkRPd1Ok_oBFG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7J9f01XmjkRPd1Ok_oBFG8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:02:30"
+  },
+  {
+    "business_name": "BAJRANGBALI",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "230502",
+    "phone_number": "+91 95541 31401",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Pratapgarh, Gadai Chakdeya, Uttar Pradesh 230502",
+    "area": "230502",
+    "latitude": 25.913956,
+    "longitude": 81.9527809,
+    "place_id": "ChIJmxLHyIaTmjkRLSdNqZmt7EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxLHyIaTmjkRLSdNqZmt7EY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:02:30"
+  }
+]

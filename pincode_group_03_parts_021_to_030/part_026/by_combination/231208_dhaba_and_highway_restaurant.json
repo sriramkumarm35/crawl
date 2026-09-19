@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priyanshu dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "231208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "32WV+WW6, Babhan Diha, Uttar Pradesh 231208",
+    "area": "231208",
+    "latitude": 24.0972966,
+    "longitude": 83.0447702,
+    "place_id": "ChIJQUJjDrbRjjkRRVzO9fRUDkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUJjDrbRjjkRRVzO9fRUDkE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:55"
+  },
+  {
+    "business_name": "Shiv Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dhaba",
+    "pincode": "231208",
+    "phone_number": "+91 88589 90880",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 19,
+    "address": "6Q5H+978, NH 75, Anpara, Uttar Pradesh 231225",
+    "area": "231208",
+    "latitude": 24.2084171,
+    "longitude": 82.7781941,
+    "place_id": "ChIJgXagnKoljzkR5Gz4cBixUcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXagnKoljzkR5Gz4cBixUcM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:56"
+  }
+]

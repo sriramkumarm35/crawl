@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jan Sewa Kendra( CSC CENTRE)",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "231222",
+    "phone_number": "+91 94552 02040",
+    "website": "http://sonujansewakendra.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4P4F+JPQ, Kota, Shakti Nagar, Uttar Pradesh 231222",
+    "area": "231222",
+    "latitude": 24.1065884,
+    "longitude": 82.7243471,
+    "place_id": "ChIJwzdp-tExjzkRaMK0-Zo7Qzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzdp-tExjzkRaMK0-Zo7Qzs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:36:11"
+  },
+  {
+    "business_name": "Shree Bajrang Store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "231222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "B-13, B-13, Sector-II, NTPC Colony, Kota, Uttar Pradesh 231222",
+    "area": "Sector-II, NTPC Colony",
+    "latitude": 24.1162282,
+    "longitude": 82.69070649999999,
+    "place_id": "ChIJTRwraP8wjzkR30BX490XYYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRwraP8wjzkR30BX490XYYo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:36:12"
+  }
+]

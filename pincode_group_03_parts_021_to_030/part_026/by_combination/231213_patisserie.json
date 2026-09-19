@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hirala maurya",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PCJ3+Q8M, Ramapur, Parari Jasauli, Uttar Pradesh 231213",
+    "area": "231213",
+    "latitude": 24.7318929,
+    "longitude": 83.4033178,
+    "place_id": "ChIJvQ8aQgCJjjkRumLJE25rKKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQ8aQgCJjjkRumLJE25rKKY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:45"
+  },
+  {
+    "business_name": "Jiya bakery shop Kone bus staind",
+    "search_category": "Patisserie",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "231213",
+    "phone_number": "+91 79912 73882",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near Aasusi chandan interpriz, Kone, Uttar Pradesh 231226",
+    "area": "231213",
+    "latitude": 24.4290789,
+    "longitude": 83.3444791,
+    "place_id": "ChIJb53FhGCXjjkRWig5UkKV5GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb53FhGCXjjkRWig5UkKV5GI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accounting solution",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6G2J+GXF, MP SH 9A, Burhar, Dhanpuri, Madhya Pradesh 484110",
+    "area": "231207",
+    "latitude": 23.201324399999997,
+    "longitude": 81.5324223,
+    "place_id": "ChIJSb5scrNVhjkR9oJGORyQezE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSb5scrNVhjkR9oJGORyQezE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:28"
+  },
+  {
+    "business_name": "R.S TAX CONSULT",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "231207",
+    "phone_number": "+91 95890 99153",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tapti Nagar, Adhartal, Jabalpur, Madhya Pradesh 482004",
+    "area": "Tapti Nagar, Adhartal",
+    "latitude": 23.2017193,
+    "longitude": 79.9411049,
+    "place_id": "ChIJ25GEUTWugTkRC2oAfrc-jag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25GEUTWugTkRC2oAfrc-jag",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:28"
+  }
+]

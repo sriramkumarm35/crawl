@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "231223",
+    "phone_number": "+91 97539 39998",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "NTPC Colony, Kota, Ranibari, Uttar Pradesh 231222",
+    "area": "NTPC Colony",
+    "latitude": 24.116165799999997,
+    "longitude": 82.6913586,
+    "place_id": "ChIJPa31YP8wjzkR_1asMtEE1WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPa31YP8wjzkR_1asMtEE1WE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:36:56"
+  },
+  {
+    "business_name": "Narmada Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical supply store",
+    "pincode": "231223",
+    "phone_number": "+91 98269 22725",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "11, Hitkarni Market, City Coffee House Road, Badi Omti, Jabalpur, Madhya Pradesh 482002",
+    "area": "Ganjipura",
+    "latitude": 23.1704988,
+    "longitude": 79.9370201,
+    "place_id": "ChIJSZBIxBOugTkR6JqMvW_NuAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZBIxBOugTkR6JqMvW_NuAY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:36:57"
+  }
+]

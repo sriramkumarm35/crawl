@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Make My House",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architect, Architectural designer, Building designer, Civil engineering company, Interior architect office, Interior Decorator, Architecture firm, Landscape architect",
+    "pincode": "231221",
+    "phone_number": "N/A",
+    "website": "https://www.makemyhouse.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Block - A , 301, Corporate House, RNT Marg, opposite Lemon Tree Hotel, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "South Tukoganj",
+    "latitude": 22.7172125,
+    "longitude": 75.87177729999999,
+    "place_id": "ChIJmbEamRb9YjkRB7Nr1TmFxc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbEamRb9YjkRB7Nr1TmFxc8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:33:37"
+  },
+  {
+    "business_name": "Omaha Ceiling",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Cleaning service",
+    "all_categories": "Cleaning service, Service establishment",
+    "pincode": "231221",
+    "phone_number": "N/A",
+    "website": "http://www.omahaceiling.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Omaha Ceiling, 231221, India",
+    "area": "231221",
+    "latitude": 40.3645479,
+    "longitude": -98.3303054,
+    "place_id": "ChIJR-ffmoL5k4cRr4i4_5_-xoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-ffmoL5k4cRr4i4_5_-xoA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:33:39"
+  }
+]

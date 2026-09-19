@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Renukoot Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 1725,
+    "address": "628M+JWM Bus Station, NH-75, Renukoot Colony, Hindalco Colony, Renukoot, Uttar Pradesh 231217",
+    "area": "Renukoot Colony, Hindalco Colony",
+    "latitude": 24.2165937,
+    "longitude": 83.03478129999999,
+    "place_id": "ChIJZT-4-BPbjjkR8csHW-l1CCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT-4-BPbjjkR8csHW-l1CCY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:40"
+  },
+  {
+    "business_name": "Ashok Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "231207",
+    "phone_number": "+91 93994 73094",
+    "website": "http://ashoktravels.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "M/q 787,sector-3, N C L Khadia Colony, Jayant, Madhya Pradesh 486890",
+    "area": "N C L Khadia Colony",
+    "latitude": 24.114889599999998,
+    "longitude": 82.6530843,
+    "place_id": "ChIJtV8dwJ8xjzkR2l8nRlUlLrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtV8dwJ8xjzkR2l8nRlUlLrc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:41"
+  }
+]

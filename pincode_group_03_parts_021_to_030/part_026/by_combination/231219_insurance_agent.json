@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, ATM, Financial institution, Money transfer service",
+    "pincode": "231219",
+    "phone_number": "+91 99197 12749",
+    "website": "https://www.finobank.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7 C 135, Obra Colony, Ward 18, Parshoi, Uttar Pradesh 231219",
+    "area": "Ward 18",
+    "latitude": 24.4559292,
+    "longitude": 82.9907564,
+    "place_id": "ChIJVUYsZYbhjjkRWH-rvu4vhXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUYsZYbhjjkRWH-rvu4vhXI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:38"
+  },
+  {
+    "business_name": "Angel One ( Obra , sonebhadra )",
+    "search_category": "Insurance Agent",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "231219",
+    "phone_number": "+91 97928 95878",
+    "website": "https://a.aonelink.in/ANGOne/XxhHvgb",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "INFRONT OF, Sudha alankar jewellers, H No 16/80, Gas Godam Rd, Obra, Sonbhadara, Uttar Pradesh 231219",
+    "area": "231219",
+    "latitude": 24.463561,
+    "longitude": 82.9988484,
+    "place_id": "ChIJm0GUDP3ljjkRzC64nBv-620",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0GUDP3ljjkRzC64nBv-620",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:39"
+  }
+]

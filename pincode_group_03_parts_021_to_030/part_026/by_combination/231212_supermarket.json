@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Fruit Centre",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "231212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "667V+8RJ, NH 39, Shakti Nagar, Dudhinagar, Uttar Pradesh 231208",
+    "area": "Shakti Nagar",
+    "latitude": 24.2133382,
+    "longitude": 83.2445132,
+    "place_id": "ChIJ-7E-EIzHjjkRGx5qTJu2l1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7E-EIzHjjkRGx5qTJu2l1o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:50"
+  },
+  {
+    "business_name": "Shiva Mobile Shop Main Bajar Kudari",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "231212",
+    "phone_number": "+91 84005 85378",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Dhankhor, Kudari, Uttar Pradesh 231212",
+    "area": "231212",
+    "latitude": 24.0546883,
+    "longitude": 83.1476577,
+    "place_id": "ChIJdSyLQGnMjjkRYzt_26U2GwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSyLQGnMjjkRYzt_26U2GwY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:51"
+  }
+]

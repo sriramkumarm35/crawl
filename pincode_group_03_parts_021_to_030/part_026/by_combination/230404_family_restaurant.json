@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230404",
+    "phone_number": "+91 63869 81805",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "R2C9+3P, Ramgarh, Uttar Pradesh 230304",
+    "area": "230404",
+    "latitude": 25.820166,
+    "longitude": 82.019364,
+    "place_id": "ChIJFRXOZgC9mjkRJj2NztcphTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRXOZgC9mjkRJj2NztcphTw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:56:03"
+  },
+  {
+    "business_name": "Grand_family_resturant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "230404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "mirgadwa, chauraha, Manikpur, Mirgarhwa, Uttar Pradesh 230202",
+    "area": "chauraha",
+    "latitude": 25.7741848,
+    "longitude": 81.4088299,
+    "place_id": "ChIJe8ox-kwjmzkR3Oolpc8Zh_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8ox-kwjmzkR3Oolpc8Zh_s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:56:03"
+  }
+]

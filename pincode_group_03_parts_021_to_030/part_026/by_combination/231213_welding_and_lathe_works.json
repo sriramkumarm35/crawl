@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaturvedi engineering works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Metal workshop",
+    "all_categories": "Metal workshop",
+    "pincode": "231213",
+    "phone_number": "+91 84499 57407",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ashok Nagar, Gandhi Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Ashok Nagar, Gandhi Nagar",
+    "latitude": 26.7872997,
+    "longitude": 79.0318307,
+    "place_id": "ChIJDdf1oGTgdTkRkeO0icAHVeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdf1oGTgdTkRkeO0icAHVeU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:22:05"
+  },
+  {
+    "business_name": "Baba Welding Workshop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "231213",
+    "phone_number": "+91 70009 37889",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anuppur, Madhya Pradesh 484224",
+    "area": "231213",
+    "latitude": 23.122069399999997,
+    "longitude": 81.6907394,
+    "place_id": "ChIJFaykxiOthzkRmdtD5oDEnBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaykxiOthzkRmdtD5oDEnBQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:22:08"
+  }
+]

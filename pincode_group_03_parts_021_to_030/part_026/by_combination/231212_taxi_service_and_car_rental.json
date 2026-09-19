@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Vani Tour & Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "231212",
+    "phone_number": "+91 86508 64528",
+    "website": "https://devvanitourtravel.online/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Dev Vani Tour & Travel, Haridwar Rd, near by Roadways Stand, near by Railway Station, Laljiwala Colony, Har Ki Pauri, Haridwar, Uttarakhand 249401",
+    "area": "Laljiwala Colony, Har Ki Pauri",
+    "latitude": 29.957228399999998,
+    "longitude": 78.1751012,
+    "place_id": "ChIJ_-NM3UhHCTkRsT42KQo11Fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-NM3UhHCTkRsT42KQo11Fk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:31"
+  },
+  {
+    "business_name": "Kanpur Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "231212",
+    "phone_number": "+91 78392 50191",
+    "website": "http://www.kanpurtaxiservices.in/",
+    "rating": 4.2,
+    "reviews_count": 72,
+    "address": "K-1, 210, Sector 4, Barra 2, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027",
+    "area": "Sector 4, Barra 2, Barra World Bank, Barra",
+    "latitude": 26.4329339,
+    "longitude": 80.3062899,
+    "place_id": "ChIJFd88arpHnDkRT_jDsYtpFBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFd88arpHnDkRT_jDsYtpFBs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:31"
+  }
+]

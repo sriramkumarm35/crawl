@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "230501",
+    "phone_number": "+91 94159 15054",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lucknow Bypass, Fatehpur, Uttar Pradesh 212601",
+    "area": "230501",
+    "latitude": 25.9385652,
+    "longitude": 80.8318372,
+    "place_id": "ChIJnVkjFCljmzkR-XrfgXTh15k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVkjFCljmzkR-XrfgXTh15k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:00:15"
+  },
+  {
+    "business_name": "Ayush Dubey Brick Fields",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Brick Manufacturer",
+    "all_categories": "Brick Manufacturer",
+    "pincode": "230501",
+    "phone_number": "+91 94546 00752",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Paharpur, Mishrpur, Uttar Pradesh 230136",
+    "area": "230501",
+    "latitude": 25.991559799999997,
+    "longitude": 81.7551644,
+    "place_id": "ChIJqeq8PuPvmjkRQa2xvo7pubg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeq8PuPvmjkRQa2xvo7pubg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:00:16"
+  }
+]

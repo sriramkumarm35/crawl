@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231213",
+    "phone_number": "+91 62049 42019",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Varanasi, Kharaundhi, Uttar Pradesh 822112",
+    "area": "231213",
+    "latitude": 24.430016,
+    "longitude": 83.4317382,
+    "place_id": "ChIJ_c2bpuCZjjkR3jokgb85td0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_c2bpuCZjjkR3jokgb85td0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:49"
+  },
+  {
+    "business_name": "Shivangi Pizza Centre",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 142,
+    "address": "Sector 5, VIP Road, Sector 5, Obra, Uttar Pradesh 231219",
+    "area": "Sector 5",
+    "latitude": 24.4623219,
+    "longitude": 82.99261159999999,
+    "place_id": "ChIJgTpOUP_jjjkRxoapQz0XoKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTpOUP_jjjkRxoapQz0XoKs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:50"
+  }
+]

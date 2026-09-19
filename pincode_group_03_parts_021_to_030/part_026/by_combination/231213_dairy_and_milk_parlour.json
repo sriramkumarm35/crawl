@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milk dery",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "R7V2+2P2, Unti, Uttar Pradesh 231211",
+    "area": "231213",
+    "latitude": 24.8425144,
+    "longitude": 82.25176479999999,
+    "place_id": "ChIJkcDEB--HjzkRWL79e-ffQQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcDEB--HjzkRWL79e-ffQQU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:40"
+  },
+  {
+    "business_name": "Indu Dairy Farm- Best Dairy Farm in Maharajganj",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "231213",
+    "phone_number": "+91 78604 88485",
+    "website": "https://bit.ly/4dGRujj",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chowk Rd, Sonara, Rampur Buzurg, Uttar Pradesh 273303",
+    "area": "231213",
+    "latitude": 27.1763257,
+    "longitude": 83.5600195,
+    "place_id": "ChIJydCYlpypljkRq6ycQxHqv0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydCYlpypljkRq6ycQxHqv0g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:40"
+  }
+]

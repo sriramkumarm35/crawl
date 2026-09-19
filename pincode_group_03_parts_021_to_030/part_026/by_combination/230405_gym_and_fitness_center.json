@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul fitness gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "230405",
+    "phone_number": "+91 70073 99267",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahinwan, Bharkhari, Uttar Pradesh 227304",
+    "area": "Sahinwan",
+    "latitude": 26.0782076,
+    "longitude": 82.1713348,
+    "place_id": "ChIJP7mT8DuDmjkRyvWb8Yv7Hp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7mT8DuDmjkRyvWb8Yv7Hp0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:58:16"
+  },
+  {
+    "business_name": "Championn Gym Fitness Equipments Pvt Ltd",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler, Equipment Importer, Manufacturer",
+    "pincode": "230405",
+    "phone_number": "+91 98100 75333",
+    "website": "https://www.prozvofit.com/",
+    "rating": 4.9,
+    "reviews_count": 738,
+    "address": "1680/81 HSIIDC. RAI, Sonipat, Haryana 131001",
+    "area": "Sector 38",
+    "latitude": 28.933642799999998,
+    "longitude": 77.09091409999999,
+    "place_id": "ChIJL4KDy2KuDTkRdQNm2nRVLU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4KDy2KuDTkRdQNm2nRVLU0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:58:18"
+  }
+]

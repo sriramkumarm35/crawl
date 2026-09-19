@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Stationery Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "231213",
+    "phone_number": "+91 89532 52374",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Santosh Stationery Shop, 25, Vaini, Uttar Pradesh 231213",
+    "area": "Vaini",
+    "latitude": 24.7218385,
+    "longitude": 83.3308708,
+    "place_id": "ChIJj4FErPSLjjkRffJ80lvft90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4FErPSLjjkRffJ80lvft90",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:50"
+  },
+  {
+    "business_name": "Vidiya Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "231213",
+    "phone_number": "+91 96217 07688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vaini Market, Paunikalana, Uttar Pradesh 231213",
+    "area": "Vaini Market",
+    "latitude": 24.721738499999997,
+    "longitude": 83.330863,
+    "place_id": "ChIJF8o1UO6LjjkRiCQ0TWKcLok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8o1UO6LjjkRiCQ0TWKcLok",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:50"
+  }
+]

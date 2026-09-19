@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "London PPC Agency",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment, Internet marketing service",
+    "pincode": "231217",
+    "phone_number": "N/A",
+    "website": "https://www.londonppcagency.co.uk/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "London PPC Agency, 231217, India",
+    "area": "231217",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJmcUUGaQe90URnAuptkCtkvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcUUGaQe90URnAuptkCtkvo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:30"
+  },
+  {
+    "business_name": "Hanumant Technology Pvt. Ltd.",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "231217",
+    "phone_number": "+91 94544 61808",
+    "website": "https://www.hanumanttechnology.com/",
+    "rating": 4.8,
+    "reviews_count": 402,
+    "address": "1st Floor, Sadafal Plaza, near Pakri Ka Pul, Sector I, Ashiyana, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector I, Ashiyana",
+    "latitude": 26.799529,
+    "longitude": 80.9139904,
+    "place_id": "ChIJe4xwhWH9mzkRY1CGyKuCZ2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4xwhWH9mzkRY1CGyKuCZ2E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:30"
+  }
+]

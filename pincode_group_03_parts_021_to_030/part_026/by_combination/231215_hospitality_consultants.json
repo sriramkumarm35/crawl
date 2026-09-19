@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HCS : Hospitality Consultancy Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "231215",
+    "phone_number": "N/A",
+    "website": "http://hcs.globeventures.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HCS : Hospitality Consultancy Services, 231215, India",
+    "area": "231215",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJTS1-LeRN4DsRTw7hOv4zgnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTS1-LeRN4DsRTw7hOv4zgnI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:28"
+  },
+  {
+    "business_name": "Simposium Hospitality Consulting",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "231215",
+    "phone_number": "07534 986707",
+    "website": "https://simposium.co/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Simposium Hospitality Consulting, 231215, India",
+    "area": "231215",
+    "latitude": 44.2071,
+    "longitude": 7.8258773999999995,
+    "place_id": "ChIJlVbm3VjS0kIRlj0Dbh8VYdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVbm3VjS0kIRlj0Dbh8VYdU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:28"
+  }
+]

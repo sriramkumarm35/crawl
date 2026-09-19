@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roop shringar",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "231219",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/roopshringar_beautysalon20?igsh=MWp2Ynk3cXg1MXA3Ng==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "IIIrd T 79, 9, near ramleela maidaan, Sector 9, colony, Obra, Uttar Pradesh 231219",
+    "area": "Sector 9, colony",
+    "latitude": 24.4762977,
+    "longitude": 82.99583969999999,
+    "place_id": "ChIJPQbRlMTljjkRzqll9ODJA3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQbRlMTljjkRzqll9ODJA3g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:13"
+  },
+  {
+    "business_name": "Raju Barber Shop",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "231219",
+    "phone_number": "+91 73987 35814",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "FX4R+33R, Obra, Uttar Pradesh 231219",
+    "area": "231219",
+    "latitude": 24.4552426,
+    "longitude": 82.9900948,
+    "place_id": "ChIJUWHaKwDhjjkRlpV8unCVrm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWHaKwDhjjkRlpV8unCVrm8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:15"
+  }
+]

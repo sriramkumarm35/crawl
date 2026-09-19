@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Online Business",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Study at home school",
+    "all_categories": "Study at home school, Service establishment",
+    "pincode": "231208",
+    "phone_number": "+91 90260 31780",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Online Business, 231208, India",
+    "area": "231208",
+    "latitude": 25.3207626,
+    "longitude": 82.991109,
+    "place_id": "ChIJ1xFIwscxjjkRwJ4xsxnQRDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xFIwscxjjkRwJ4xsxnQRDo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:13:28"
+  },
+  {
+    "business_name": "Outsourcing BD Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "231208",
+    "phone_number": "01748-856320",
+    "website": "https://outsourcingbdsolutions.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1800, Bangladesh",
+    "area": "231208",
+    "latitude": 23.7531347,
+    "longitude": 90.0079688,
+    "place_id": "ChIJle2fMv6LVTcRbogdJqNhIKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJle2fMv6LVTcRbogdJqNhIKM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:13:28"
+  }
+]

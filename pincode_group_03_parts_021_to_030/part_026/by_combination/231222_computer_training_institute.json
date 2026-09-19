@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taaz ITSolutions",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer security service, Computer support and services, Software Training Institute, Website designer",
+    "pincode": "231222",
+    "phone_number": "+91 93024 03089",
+    "website": "https://taazinfotech.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Navjeevan Vihar Rd, near Chulha gate, Navjeevan Vihar, Vindhyanagar, Madhya Pradesh 486886",
+    "area": "Navjeevan Vihar",
+    "latitude": 24.0840084,
+    "longitude": 82.6557138,
+    "place_id": "ChIJ6ZNOpegxjzkRgCK32ELj9mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZNOpegxjzkRgCK32ELj9mM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:38"
+  },
+  {
+    "business_name": "Pradhan Mantri Kaushal Kendra",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Electrical installation service, Furniture maker, Investment service, Life insurance agency, Education center",
+    "pincode": "231222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 30,
+    "address": "before vindhynagar chauraha & 1st Floor, Dhoti, Rd, Vindhyanagar - Waidhan Rd, Waidhan, Madhya Pradesh 486886",
+    "area": "231222",
+    "latitude": 24.077942099999998,
+    "longitude": 82.65267349999999,
+    "place_id": "ChIJWS4lp2o3jzkRCLCnHjNFdUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWS4lp2o3jzkRCLCnHjNFdUs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:40"
+  }
+]

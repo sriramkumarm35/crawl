@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jitendra medical Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "231224",
+    "phone_number": "+91 83170 31362",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Colgate, Renusagar, Anpara, Uttar Pradesh 231218",
+    "area": "Colgate",
+    "latitude": 24.1824039,
+    "longitude": 82.7795711,
+    "place_id": "ChIJBxjvzHkljzkRmyxd7Fz2AFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxjvzHkljzkRmyxd7Fz2AFM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:38:26"
+  },
+  {
+    "business_name": "Rays Diagno Interventions Pvt Ltd",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "231224",
+    "phone_number": "+91 73111 24411",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 911,
+    "address": "Nariya road, BHU - Lanka Rd, near Shubham Sadbhawna hospital and Parul Pathology, Bhogabir, Ahilyabhai Nagar, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Bhogabir, Ahilyabhai Nagar, Lanka",
+    "latitude": 25.2795556,
+    "longitude": 83.0000122,
+    "place_id": "ChIJAwAAcIsxjjkR4kEAYqq4V7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwAAcIsxjjkR4kEAYqq4V7k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:38:26"
+  }
+]

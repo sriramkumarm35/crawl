@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Birendra sailoon Shop",
+    "search_category": "Salon",
+    "primary_category": "Fencing salon",
+    "all_categories": "Fencing salon",
+    "pincode": "231217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "in front of axis Bank, shivapark, Renukoot, Murdhava, Uttar Pradesh 231217",
+    "area": "shivapark",
+    "latitude": 24.2228456,
+    "longitude": 83.0373401,
+    "place_id": "ChIJu5W6InvbjjkRoS-52qMJyVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5W6InvbjjkRoS-52qMJyVc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:26:44"
+  },
+  {
+    "business_name": "Big Boss Mens Parlar",
+    "search_category": "Salon",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "231217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "627M+XR8, Renukoot, Uttar Pradesh 231217",
+    "area": "231217",
+    "latitude": 24.2149239,
+    "longitude": 83.03457709999999,
+    "place_id": "ChIJQ3GnQVbajjkRvSgOkIt8Nyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3GnQVbajjkRvSgOkIt8Nyo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:26:45"
+  }
+]

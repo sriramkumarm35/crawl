@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Associates",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Underwear store",
+    "pincode": "231217",
+    "phone_number": "+91 70072 68982",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, near bus stand, above gautam lodge, Hindalco Colony, Renukoot, Uttar Pradesh 231217",
+    "area": "Hindalco Colony",
+    "latitude": 24.216258699999997,
+    "longitude": 83.034959,
+    "place_id": "ChIJS7IKlGTbjjkRwwEQuNrlSrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7IKlGTbjjkRwwEQuNrlSrc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:26:07"
+  },
+  {
+    "business_name": "V-Mart - Waidhan-Vidhyanagar Road",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Convenience store, Department store, Shoe store, Variety store",
+    "pincode": "231217",
+    "phone_number": "+91 88005 60956",
+    "website": "https://stores.vmartretail.com/clothing-mart-singrauli-colliery-sidhi-30940/home",
+    "rating": 4.8,
+    "reviews_count": 8411,
+    "address": "Vidhya Nagar Road, near Paramsukkh Das Filing Station, Waidhan, Madhya Pradesh 486886",
+    "area": "231217",
+    "latitude": 24.079721,
+    "longitude": 82.65713199999999,
+    "place_id": "ChIJCe9GaKkxjzkRYhGkJJKSMaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCe9GaKkxjzkRYhGkJJKSMaw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:26:09"
+  }
+]

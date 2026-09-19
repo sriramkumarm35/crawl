@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Sports",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "231219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Govind Sports, Laxmi Nivas, Chopan Road, near Kamla Petrol Pump, Billi, Obra, Vilemar Kundi, Uttar Pradesh 231219",
+    "area": "Billi",
+    "latitude": 24.464749299999998,
+    "longitude": 83.0119105,
+    "place_id": "ChIJ5_xHyjTljjkRXzqgvpya3Qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_xHyjTljjkRXzqgvpya3Qw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:29:36"
+  },
+  {
+    "business_name": "A.K.sons",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "231219",
+    "phone_number": "+91 94152 33499",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 10,
+    "address": "A.K.sons, Sector 5, Obra, Varanasi, Uttar Pradesh 231219",
+    "area": "Sector 5",
+    "latitude": 24.4587552,
+    "longitude": 82.9925318,
+    "place_id": "ChIJA-6urPjjjjkRkpbE9xFaC1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-6urPjjjjkRkpbE9xFaC1U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:29:36"
+  }
+]

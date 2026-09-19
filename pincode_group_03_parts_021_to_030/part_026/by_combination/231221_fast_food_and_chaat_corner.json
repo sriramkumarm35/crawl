@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat De Hatti Cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231221",
+    "phone_number": "+91 70561 90396",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near Vodafone Store, 8 Marla, Model Town, Sonipat, Haryana 131001",
+    "area": "8 Marla, Model Town",
+    "latitude": 28.988963799999997,
+    "longitude": 77.0236279,
+    "place_id": "ChIJk0u2EFyxDTkRaSFi-1ek970",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0u2EFyxDTkRaSFi-1ek970",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:32:57"
+  },
+  {
+    "business_name": "Panditain Ji Ki Chat lo",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231221",
+    "phone_number": "+91 94566 60606",
+    "website": "https://panditjikichaat.netlify.app/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Thornhill Rd, Colnel Ganj, George Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "Colnel Ganj, George Town",
+    "latitude": 25.4581818,
+    "longitude": 81.85501029999999,
+    "place_id": "ChIJUT5S273KmjkR95B6fV8ODy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUT5S273KmjkR95B6fV8ODy8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:32:57"
+  }
+]

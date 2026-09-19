@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair cut",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "231215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RWHM+QM6, Karman, Madainia, Uttar Pradesh 231216",
+    "area": "231215",
+    "latitude": 24.8294019,
+    "longitude": 82.9341894,
+    "place_id": "ChIJCctQewBVjjkRoCVJt8hihsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCctQewBVjjkRoCVJt8hihsg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:14"
+  },
+  {
+    "business_name": "TG SHINE STUDIO",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "231215",
+    "phone_number": "+91 78609 24493",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "No 93, Jagdishpur, Uttar Pradesh 227809",
+    "area": "231215",
+    "latitude": 26.4583211,
+    "longitude": 81.623111,
+    "place_id": "ChIJxx_jxLhJmjkRI6l-OFHZGOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxx_jxLhJmjkRI6l-OFHZGOo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gita Enterprises (Tata hyva signa cabin parts)",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "231220",
+    "phone_number": "+91 94159 23221",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gita Enterprises, near Paintco, bazaar, Khadia, Shakti Nagar, Uttar Pradesh 231222",
+    "area": "231220",
+    "latitude": 24.117582199999998,
+    "longitude": 82.7320408,
+    "place_id": "ChIJJXJjupgxjzkRyKMFbVxjWWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXJjupgxjzkRyKMFbVxjWWs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:31:37"
+  },
+  {
+    "business_name": "HARSHA AUTO MOBILE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "231220",
+    "phone_number": "+91 94153 92582",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Khadia Market, Shakti Nagar, Uttar Pradesh 231222",
+    "area": "231220",
+    "latitude": 24.117822699999998,
+    "longitude": 82.7298551,
+    "place_id": "ChIJRVzJjSswjzkR23RaLE_blIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVzJjSswjzkR23RaLE_blIY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:31:37"
+  }
+]

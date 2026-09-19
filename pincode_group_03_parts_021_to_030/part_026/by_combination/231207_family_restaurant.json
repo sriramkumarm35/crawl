@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "त्रिपाठी RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "668Q+G4C, Dev Colony, Dudhinagar, Uttar Pradesh 231208",
+    "area": "Dev Colony",
+    "latitude": 24.216312499999997,
+    "longitude": 83.2377656,
+    "place_id": "ChIJQ0luXwDHjjkRwId3RkMNNxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0luXwDHjjkRwId3RkMNNxQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:16"
+  },
+  {
+    "business_name": "New family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 46,
+    "address": "668P+426, main road, Dudhinagar, Uttar Pradesh 231208",
+    "area": "231207",
+    "latitude": 24.215279199999998,
+    "longitude": 83.2350244,
+    "place_id": "ChIJJ7V6b-fHjjkRvOjvPFxBGJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ7V6b-fHjjkRvOjvPFxBGJM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:16"
+  }
+]

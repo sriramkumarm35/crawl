@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness World Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "231212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4MFC+C8H, near SSG, Khadia Project, Shakti Nagar, Uttar Pradesh 231222",
+    "area": "Khadia Project",
+    "latitude": 24.1235707,
+    "longitude": 82.67086189999999,
+    "place_id": "ChIJW_NhkxoxjzkRDZov0wyYlY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_NhkxoxjzkRDZov0wyYlY4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:25"
+  },
+  {
+    "business_name": "Fitness world gym shaktinagar",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "231212",
+    "phone_number": "N/A",
+    "website": "http://www.fitnessworld.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "behind of anand moters, Ambedkarnagar, Shakti Nagar, Uttar Pradesh 231222",
+    "area": "Ambedkarnagar",
+    "latitude": 24.122767399999997,
+    "longitude": 82.6712728,
+    "place_id": "ChIJYdev2P0xjzkRPgnuCcLReNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdev2P0xjzkRPgnuCcLReNM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bablu singh",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "231216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M3M9+X9R, Tagore Nagar, Robertsganj, Uttar Pradesh 231216",
+    "area": "Tagore Nagar",
+    "latitude": 24.684993499999997,
+    "longitude": 83.0684029,
+    "place_id": "ChIJYVlrbAD5jjkRKlvqRTcUwAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVlrbAD5jjkRKlvqRTcUwAA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:29"
+  },
+  {
+    "business_name": "mirzapur chachikalan",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "231216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3M9+X9R, Tagore Nagar, Robertsganj, Uttar Pradesh 231216",
+    "area": "Tagore Nagar",
+    "latitude": 24.684993499999997,
+    "longitude": 83.0684029,
+    "place_id": "ChIJVegsFQD5jjkRN1A1MqVXlik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVegsFQD5jjkRN1A1MqVXlik",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:29"
+  }
+]

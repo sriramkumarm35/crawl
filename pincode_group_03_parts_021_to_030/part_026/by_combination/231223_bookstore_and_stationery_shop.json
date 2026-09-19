@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya stationary",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "231223",
+    "phone_number": "+91 81154 21505",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bijpur, Uttar Pradesh 231223",
+    "area": "231223",
+    "latitude": 24.0141878,
+    "longitude": 82.8107529,
+    "place_id": "ChIJ6-mnPQAtjzkRVor437YvlT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-mnPQAtjzkRVor437YvlT0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:37:25"
+  },
+  {
+    "business_name": "Pandey books and stationery shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "231223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2R75+V76, Bijpur Rd, Rihand Nagar, Bijpur, Uttar Pradesh 231223",
+    "area": "231223",
+    "latitude": 24.0146704,
+    "longitude": 82.80812449999999,
+    "place_id": "ChIJqS2yYwAtjzkRd_wo2JUmXdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqS2yYwAtjzkRd_wo2JUmXdk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:37:25"
+  }
+]

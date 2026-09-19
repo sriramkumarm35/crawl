@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Agricultural Seed Store",
+    "pincode": "231211",
+    "phone_number": "+91 97197 27771",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "S Civil Lines, Shiv Chowk, Road, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Shiv Chowk, Road",
+    "latitude": 29.4698699,
+    "longitude": 77.70095049999999,
+    "place_id": "ChIJJ15MTXUbDDkRoMQsohJ_g1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ15MTXUbDDkRoMQsohJ_g1M",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:38"
+  },
+  {
+    "business_name": "Swastik Pesticides Limited",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "231211",
+    "phone_number": "+91 131 260 7652",
+    "website": "http://www.swastikpesticide.com/",
+    "rating": 4.2,
+    "reviews_count": 28,
+    "address": "Bhopa Rd, Gandhi Nagar, Muzaffarnagar, Uttar Pradesh 251001",
+    "area": "Gandhi Nagar",
+    "latitude": 29.4717713,
+    "longitude": 77.73132,
+    "place_id": "ChIJ9xPyrzUbDDkRBGZeb1DskD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xPyrzUbDDkRBGZeb1DskD0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:38"
+  }
+]

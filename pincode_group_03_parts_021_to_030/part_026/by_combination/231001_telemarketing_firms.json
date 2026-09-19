@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Store",
+    "all_categories": "Store, Electronics store",
+    "pincode": "231001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr. Ambedkar Marg, Ratanganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Ratanganj",
+    "latitude": 25.140750399999998,
+    "longitude": 82.565722,
+    "place_id": "ChIJpQ3GvivAjzkRwwF00X4fC8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQ3GvivAjzkRwwF00X4fC8o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:06:23"
+  },
+  {
+    "business_name": "Vindhyawashni Enterprise Redha chungi..vindhyachal mzp",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "231001",
+    "phone_number": "+91 97949 85098",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "5G45+F56, Mirzapur-cum-Vindhyachal, Mirzapur, Uttar Pradesh 231307",
+    "area": "231001",
+    "latitude": 25.156171099999998,
+    "longitude": 82.5078999,
+    "place_id": "ChIJSXAif7DrjzkRLyGZeA5djrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXAif7DrjzkRLyGZeA5djrg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:06:24"
+  }
+]

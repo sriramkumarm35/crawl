@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhilesh Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "231217",
+    "phone_number": "+91 94159 35243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Renukoot Colony, Hindalco Colony, Varanasi, Renukoot, Uttar Pradesh 231217",
+    "area": "Renukoot Colony, Hindalco Colony",
+    "latitude": 24.2182429,
+    "longitude": 83.03460729999999,
+    "place_id": "ChIJu3b-vlXajjkRrf9VSw7C7lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3b-vlXajjkRrf9VSw7C7lg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:12"
+  },
+  {
+    "business_name": "आयुष इण्टर प्राइजेज",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "231217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "627M+QQH सब्जी मण्डी के सामने, मेन रोड, Renukoot, Uttar Pradesh 231217",
+    "area": "231217",
+    "latitude": 24.2144405,
+    "longitude": 83.0344898,
+    "place_id": "ChIJnT8vaADbjjkR93og4Gj-_3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT8vaADbjjkR93og4Gj-_3E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:12"
+  }
+]

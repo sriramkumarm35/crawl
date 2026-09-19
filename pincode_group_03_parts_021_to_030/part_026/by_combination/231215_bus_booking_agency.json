@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sitara bus service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "231215",
+    "phone_number": "+91 97529 69888",
+    "website": "http://www.sitarabusservice.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bus Stand, Mahadevdand, Bagicha, Chhattisgarh 496224",
+    "area": "231215",
+    "latitude": 22.8530584,
+    "longitude": 83.6647345,
+    "place_id": "ChIJ41R-rYAfijkRT0Wvf3_7pcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41R-rYAfijkRT0Wvf3_7pcQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:00"
+  },
+  {
+    "business_name": "Sonbhadra",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Train station",
+    "all_categories": "Train station",
+    "pincode": "231215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tagore Nagar, Robertsganj, Uttar Pradesh 231216",
+    "area": "Tagore Nagar",
+    "latitude": 24.6840095,
+    "longitude": 83.07800619999999,
+    "place_id": "ChIJGWdsaNj5jjkR-qghWOjx84w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWdsaNj5jjkR-qghWOjx84w",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:00"
+  }
+]

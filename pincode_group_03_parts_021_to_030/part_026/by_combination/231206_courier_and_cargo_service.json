@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Churk",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "231206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J3VW+W3G, Churk, Uttar Pradesh 231206",
+    "area": "231206",
+    "latitude": 24.644822299999998,
+    "longitude": 83.095218,
+    "place_id": "ChIJBw-wcADxjjkRVcuTW4_WnlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBw-wcADxjjkRVcuTW4_WnlA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:09:38"
+  },
+  {
+    "business_name": "Easyship Courier and Cargo",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "231206",
+    "phone_number": "+91 79037 29654",
+    "website": "https://www.sansadhan.com/yp/easyship-courier-and-cargo-ranchi",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Shop No 03 Ground Floor, Sahu Complex, Hazaribagh Rd, opposite Jeep Showroom, Kokar Industrial Area, Kokar, Ranchi, Jharkhand 834001",
+    "area": "Kokar Industrial Area, Kokar",
+    "latitude": 23.3764969,
+    "longitude": 85.3538301,
+    "place_id": "ChIJf2SVaCrh9DkRjwXPjSP2qJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2SVaCrh9DkRjwXPjSP2qJI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:09:39"
+  }
+]

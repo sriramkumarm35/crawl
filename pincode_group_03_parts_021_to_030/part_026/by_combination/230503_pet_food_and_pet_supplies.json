@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "230503",
+    "phone_number": "+91 788 722 0022",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 51,
+    "address": "near nagar palika, Rizwikhan, Jaunpur, Uttar Pradesh 222001",
+    "area": "Rizwikhan",
+    "latitude": 25.7526102,
+    "longitude": 82.6879976,
+    "place_id": "ChIJd3lxu_87kDkREmReaXG9NZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3lxu_87kDkREmReaXG9NZA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:05"
+  },
+  {
+    "business_name": "Pet House",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "230503",
+    "phone_number": "+91 97949 60475",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "Normal chauraha, Civil Line, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.2608459,
+    "longitude": 82.0763721,
+    "place_id": "ChIJE0YLZMh9mjkRVHDi_gQaVns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0YLZMh9mjkRVHDi_gQaVns",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:05"
+  }
+]

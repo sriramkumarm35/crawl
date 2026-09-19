@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "231208",
+    "phone_number": "+91 96285 06076",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 217,
+    "address": "Auri More, Anpara Station Rd, Auri, Uttar Pradesh 231225",
+    "area": "231208",
+    "latitude": 24.208728699999998,
+    "longitude": 82.768551,
+    "place_id": "ChIJMWBplQIljzkR2op5_KPpARU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWBplQIljzkR2op5_KPpARU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:55"
+  },
+  {
+    "business_name": "line hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231208",
+    "phone_number": "+91 94521 86107",
+    "website": "http://rr.zaykabill.com/",
+    "rating": 4.1,
+    "reviews_count": 58,
+    "address": "Ghiwahi, Kewal, Uttar Pradesh 231226",
+    "area": "231208",
+    "latitude": 24.2461324,
+    "longitude": 83.3457258,
+    "place_id": "ChIJuTmyOdC7jjkRVrd9DzpdJlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTmyOdC7jjkRVrd9DzpdJlk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:11:57"
+  }
+]

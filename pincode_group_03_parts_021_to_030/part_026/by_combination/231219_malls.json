@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Sun Shine",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "231219",
+    "phone_number": "+91 96706 70018",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "GRCV+82R, Jogaeal, Uttar Pradesh 231205",
+    "area": "231219",
+    "latitude": 24.520861399999998,
+    "longitude": 82.8425216,
+    "place_id": "ChIJVVVVVZUcjzkRIHJcxITf01k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVZUcjzkRIHJcxITf01k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:59"
+  },
+  {
+    "business_name": "Salman J.store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "231219",
+    "phone_number": "+91 96169 84127",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "FX6R+CF3, Obra, Uttar Pradesh 231219",
+    "area": "231219",
+    "latitude": 24.4610032,
+    "longitude": 82.99115669999999,
+    "place_id": "ChIJY6ceGv_jjjkRys6-Nojpghs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6ceGv_jjjkRys6-Nojpghs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:31:00"
+  }
+]

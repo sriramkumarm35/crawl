@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shivam Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231218",
+    "phone_number": "+91 88589 90880",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "6Q5G+8QP, Anpara, Uttar Pradesh 231225",
+    "area": "231218",
+    "latitude": 24.208333999999997,
+    "longitude": 82.7769608,
+    "place_id": "ChIJEbUbcAAljzkROcOBtmLFuGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbUbcAAljzkROcOBtmLFuGQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:28:36"
+  },
+  {
+    "business_name": "Gharhsari Community Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "231218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 25,
+    "address": "Dharsari, Barwani, Uttar Pradesh 231220",
+    "area": "231218",
+    "latitude": 24.1407211,
+    "longitude": 82.7752993,
+    "place_id": "ChIJT31anp8vjzkRZ0nyOQQG3OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT31anp8vjzkRZ0nyOQQG3OM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:28:36"
+  }
+]

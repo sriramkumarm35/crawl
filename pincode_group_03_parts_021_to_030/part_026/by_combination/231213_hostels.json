@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aahan boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M6FR+4X5, Kasary, Ramgarh, Uttar Pradesh 231213",
+    "area": "Kasary",
+    "latitude": 24.6727652,
+    "longitude": 83.2424892,
+    "place_id": "ChIJV8Y08Jr1jjkRyz-viLW20vM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8Y08Jr1jjkRyz-viLW20vM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:41"
+  },
+  {
+    "business_name": "Arun",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M6GH+PWX, Babhani, Uttar Pradesh 231213",
+    "area": "231213",
+    "latitude": 24.676855999999997,
+    "longitude": 83.2298555,
+    "place_id": "ChIJ8bJPTwD1jjkRH-1atOdEn4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bJPTwD1jjkRH-1atOdEn4Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:41"
+  }
+]

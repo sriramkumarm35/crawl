@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xenial Distributors",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier, Beauty Products Wholesaler, Beauty Parlour, Beauty supply store, Hairdresser",
+    "pincode": "231211",
+    "phone_number": "+91 91261 72851",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nivedita Rd, Ward 2, Pradhan Nagar, Siliguri, West Bengal 734003",
+    "area": "Ward 2, Pradhan Nagar",
+    "latitude": 26.7338594,
+    "longitude": 88.418022,
+    "place_id": "ChIJt7ttxiNB5DkRlFF73M4PmYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7ttxiNB5DkRlFF73M4PmYA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:02"
+  },
+  {
+    "business_name": "A&b Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "231211",
+    "phone_number": "+91 98556 20406",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "adjoining To Kushiram Sweets, near Sbi Bank, Khushi Ram Halwai, Chaura Bazar, Old Ludhiana, Ludhiana, Punjab 141008",
+    "area": "Khushi Ram Halwai, Chaura Bazar, Old Ludhiana",
+    "latitude": 30.9175078,
+    "longitude": 75.8559097,
+    "place_id": "ChIJib3fs3WDGjkRojk111iHDS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJib3fs3WDGjkRojk111iHDS8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anubhav Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event management company, Event planner",
+    "pincode": "231222",
+    "phone_number": "+91 70006 96675",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sr. MIG 60, near Budhwari Market, Nehru Nagar, Korba, Chhattisgarh 495677",
+    "area": "Nehru Nagar",
+    "latitude": 22.3632085,
+    "longitude": 82.71365449999999,
+    "place_id": "ChIJi_njRSeJJzoRa5ebrX-QmQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_njRSeJJzoRa5ebrX-QmQA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:34"
+  },
+  {
+    "business_name": "Dubey Caterers and Events Management",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "231222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3MP2+JH4, Navjeevan Vihar, Vindhyanagar, Madhya Pradesh 486885",
+    "area": "Navjeevan Vihar",
+    "latitude": 24.0865123,
+    "longitude": 82.6514421,
+    "place_id": "ChIJlVeLhjUxjzkRMvP4xeu8uxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVeLhjUxjzkRMvP4xeu8uxA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sparsh Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "230501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230501",
+    "latitude": 25.9210019,
+    "longitude": 81.99751979999999,
+    "place_id": "ChIJMQKmvHWRmjkRtPZe-TUkals",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQKmvHWRmjkRtPZe-TUkals",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:59:56"
+  },
+  {
+    "business_name": "Thiru Senthil Andavar Multi Specialty Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230501",
+    "phone_number": "+91 95781 46194",
+    "website": "https://www.thirusenthilaandavarhospital.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Avaniyapuram Bypass Rd, Prasanna Colony, Madurai, Tamil Nadu 625012",
+    "area": "230501",
+    "latitude": 9.8838508,
+    "longitude": 78.1190324,
+    "place_id": "ChIJ_a3HsrjFADsR3SzNBPDU91g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_a3HsrjFADsR3SzNBPDU91g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:59:57"
+  }
+]

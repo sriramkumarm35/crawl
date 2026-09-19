@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hira Lal and sons",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "231217",
+    "phone_number": "+91 96217 34090",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "628M+3Q6, Plant-2 Main Rd, Hindalco Colony, Renukoot, Uttar Pradesh 231217",
+    "area": "Hindalco Colony",
+    "latitude": 24.2151581,
+    "longitude": 83.0343846,
+    "place_id": "ChIJVWtuzjHbjjkRnrplYqhZm2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWtuzjHbjjkRnrplYqhZm2k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:52"
+  },
+  {
+    "business_name": "Archana Associates",
+    "search_category": "Supermarket",
+    "primary_category": "Industrial supermarket",
+    "all_categories": "Industrial supermarket",
+    "pincode": "231217",
+    "phone_number": "+91 90055 88469",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sarwajeet Colony main road oppt Hyundai Showroom, Murdhawa Colony Rd, Renukoot, Uttar Pradesh 231217",
+    "area": "231217",
+    "latitude": 24.2336839,
+    "longitude": 83.0519537,
+    "place_id": "ChIJJ1PgEv3bjjkR4SY0tvxJPic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1PgEv3bjjkR4SY0tvxJPic",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:52"
+  }
+]

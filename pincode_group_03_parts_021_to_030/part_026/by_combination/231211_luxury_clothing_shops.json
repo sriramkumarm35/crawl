@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mirzapur Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "231211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chaubey Tola St, Crossing, Dankinganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Crossing, Dankinganj",
+    "latitude": 25.143903599999998,
+    "longitude": 82.5690982,
+    "place_id": "ChIJfRMHME3BjzkRuntJJVqAawQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRMHME3BjzkRuntJJVqAawQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:17:25"
+  },
+  {
+    "business_name": "Neeraj corpets & company",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "231211",
+    "phone_number": "+91 85285 11950",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4F6V+CC, Duhauva, Uttar Pradesh 231307",
+    "area": "231211",
+    "latitude": 25.1162644,
+    "longitude": 82.489791,
+    "place_id": "ChIJk6EGuw3rjzkRLw1noiduEDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6EGuw3rjzkRLw1noiduEDI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:17:28"
+  }
+]

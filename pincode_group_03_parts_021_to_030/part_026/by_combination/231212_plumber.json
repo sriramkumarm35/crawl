@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeservice plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "231212",
+    "phone_number": "+91 79055 15774",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Vashthi Kund, Sai Nagar, Ayodhya, Uttar Pradesh 224123",
+    "area": "Sai Nagar",
+    "latitude": 26.790008699999998,
+    "longitude": 82.19158759999999,
+    "place_id": "ChIJ3Ryjh9sHmjkRD4VK3anufRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Ryjh9sHmjkRD4VK3anufRk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:39"
+  },
+  {
+    "business_name": "VIJAY SHARMA PLUMBER",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "231212",
+    "phone_number": "+91 88749 82654",
+    "website": "https://vijay-sharmaplumbing.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": 183,
+    "address": "Vijay Nagar Colony, Krishna Nagar, Alambagh, Lucknow, Uttar Pradesh 226008",
+    "area": "Vijay Nagar Colony, Krishna Nagar, Alambagh",
+    "latitude": 26.7959139,
+    "longitude": 80.8884789,
+    "place_id": "ChIJf_GKpR7_mzkR_j6cT_jVVX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_GKpR7_mzkR_j6cT_jVVX0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:39"
+  }
+]

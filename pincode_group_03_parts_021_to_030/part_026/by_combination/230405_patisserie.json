@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal fast food and cake shop",
+    "search_category": "Patisserie",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Vegetarian restaurant",
+    "pincode": "230405",
+    "phone_number": "+91 96969 02100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Kisunganj bazar chilbila, road Pratapgarh Kandhai, madhupur, Kanhi Madhupur, Uttar Pradesh 230403",
+    "area": "230405",
+    "latitude": 25.992518,
+    "longitude": 82.0549224,
+    "place_id": "ChIJdf3FaMGbmjkRG4owuxuBAu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdf3FaMGbmjkRG4owuxuBAu4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:57:48"
+  },
+  {
+    "business_name": "PANDEY BAKERS",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "230405",
+    "phone_number": "+91 99566 62416",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "gate no.1, Front of CHC, Kunda, Uttar Pradesh 230204",
+    "area": "230405",
+    "latitude": 25.719951,
+    "longitude": 81.51612469999999,
+    "place_id": "ChIJObRWawDfmjkRe7fXhgnK62c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObRWawDfmjkRe7fXhgnK62c",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:57:50"
+  }
+]

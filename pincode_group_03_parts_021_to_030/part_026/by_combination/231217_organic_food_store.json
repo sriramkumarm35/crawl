@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Grocery",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "231217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "627P+J7R, Renukoot, Uttar Pradesh 231217",
+    "area": "231217",
+    "latitude": 24.2141116,
+    "longitude": 83.03563249999999,
+    "place_id": "ChIJN5yKLlbajjkRRpDYFZlsOp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5yKLlbajjkRRpDYFZlsOp0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:53"
+  },
+  {
+    "business_name": "Fitveinz nutrition and supplement store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Sports nutrition store",
+    "all_categories": "Sports nutrition store",
+    "pincode": "231217",
+    "phone_number": "+91 73177 41383",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near chacha colony, opposite ESI hospital, Renukoot Colony, Renukoot, Uttar Pradesh 231217",
+    "area": "Renukoot Colony",
+    "latitude": 24.2241279,
+    "longitude": 83.038003,
+    "place_id": "ChIJVYD9gnXbjjkRj7RKMHEudvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYD9gnXbjjkRj7RKMHEudvU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:25:53"
+  }
+]

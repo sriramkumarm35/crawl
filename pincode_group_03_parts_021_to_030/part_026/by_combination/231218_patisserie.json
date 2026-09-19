@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep kumar chaurashiya",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "231218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Bazar, Main Road, Anpara, Uttar Pradesh 231225",
+    "area": "231218",
+    "latitude": 24.1944575,
+    "longitude": 82.780153,
+    "place_id": "ChIJZxZsH6cljzkR9WXQd9SMGUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxZsH6cljzkR9WXQd9SMGUA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:44"
+  },
+  {
+    "business_name": "Apna Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cafe",
+    "pincode": "231218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Renusagar Sonebhdra Colony, Garbandha, Anpara, Renusagar, Uttar Pradesh 231218",
+    "area": "Renusagar Sonebhdra Colony, Garbandha",
+    "latitude": 24.1809375,
+    "longitude": 82.78406249999999,
+    "place_id": "ChIJGaIaik4ljzkRmVcKlm667Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaIaik4ljzkRmVcKlm667Do",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:45"
+  }
+]

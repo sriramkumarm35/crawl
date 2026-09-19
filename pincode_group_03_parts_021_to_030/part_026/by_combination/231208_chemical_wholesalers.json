@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B N Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "231208",
+    "phone_number": "+91 95592 58071",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Kone - Wyndhomganj Rd, Kachnarwa, Kachanarava, Uttar Pradesh 231226",
+    "area": "231208",
+    "latitude": 24.3570811,
+    "longitude": 83.35160719999999,
+    "place_id": "ChIJp9IQXem9jjkRcD_PbVSUSdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9IQXem9jjkRcD_PbVSUSdU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:13:17"
+  },
+  {
+    "business_name": "Birla Carbon India - Carbon Black Manufacturer and Supplier",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "231208",
+    "phone_number": "N/A",
+    "website": "https://www.birlacarbon.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Hi - Tech Carbon Road, Renukoot, Uttar Pradesh 231217",
+    "area": "231208",
+    "latitude": 24.228546599999998,
+    "longitude": 83.0377951,
+    "place_id": "ChIJ61wGn5TbjjkRORTcs5pwwsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61wGn5TbjjkRORTcs5pwwsQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:13:17"
+  }
+]

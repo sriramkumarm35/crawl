@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyoti Wellness Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "231218",
+    "phone_number": "+91 82993 09569",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, near LANCO Colony, beside of Mangla Furniture, Anpara, Uttar Pradesh 231225",
+    "area": "231218",
+    "latitude": 24.2048772,
+    "longitude": 82.78324889999999,
+    "place_id": "ChIJE99Uf-AljzkRk6AQ-YCeWew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE99Uf-AljzkRk6AQ-YCeWew",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:28:34"
+  },
+  {
+    "business_name": "Asclepius Wellness Pvt Ltd",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant, Service establishment",
+    "pincode": "231218",
+    "phone_number": "+91 83548 68687",
+    "website": "https://www.asclepiuswellnespvtltd.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Asclepius Wellness Pvt Ltd, 231218, India",
+    "area": "231218",
+    "latitude": 24.1799963,
+    "longitude": 82.77286289999999,
+    "place_id": "ChIJH5q9PNa8liURsPxZgdFPNa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5q9PNa8liURsPxZgdFPNa4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:28:34"
+  }
+]

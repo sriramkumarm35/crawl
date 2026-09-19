@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rozy Enterprises",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor",
+    "pincode": "231210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ghorawal To Robertsganj Rd, near jiwan deep hospital, Kamhari, Robertsganj, Barkara, Uttar Pradesh 231216",
+    "area": "Kamhari",
+    "latitude": 24.6980872,
+    "longitude": 83.0462895,
+    "place_id": "ChIJ544RAhv5jjkRmxLw-r1QAdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ544RAhv5jjkRmxLw-r1QAdI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:16:43"
+  },
+  {
+    "business_name": "Law associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "231210",
+    "phone_number": "N/A",
+    "website": "http://www.krpsadv.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M3PC+9WF new market, Tagore Nagar, Robertsganj, Uttar Pradesh 231216",
+    "area": "Tagore Nagar",
+    "latitude": 24.685936299999998,
+    "longitude": 83.07230009999999,
+    "place_id": "ChIJ6_PNrE_5jjkR3qCDRPFOwe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_PNrE_5jjkR3qCDRPFOwe0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:16:44"
+  }
+]

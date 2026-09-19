@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj shoe collection",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "231213",
+    "phone_number": "+91 99567 07078",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Masjid road, Kasary, Ramgarh, Uttar Pradesh 231213",
+    "area": "Kasary",
+    "latitude": 24.665395399999998,
+    "longitude": 83.2448945,
+    "place_id": "ChIJJ34Ku031jjkRsvnT-GrRdHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ34Ku031jjkRsvnT-GrRdHY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:57"
+  },
+  {
+    "business_name": "Punjab FootWear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "M68V+WFX, Kasary, Ramgarh, Uttar Pradesh 231213",
+    "area": "Kasary",
+    "latitude": 24.667365099999998,
+    "longitude": 83.2437478,
+    "place_id": "ChIJ26K-Q_v1jjkRdltT2nk-BDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26K-Q_v1jjkRdltT2nk-BDw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:20:57"
+  }
+]

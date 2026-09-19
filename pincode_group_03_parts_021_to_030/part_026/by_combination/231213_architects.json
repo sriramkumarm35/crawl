@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "M79H+V7F, Ramgarh, Alahi, Uttar Pradesh 231213",
+    "area": "231213",
+    "latitude": 24.6696901,
+    "longitude": 83.27816589999999,
+    "place_id": "ChIJldZsMwCLjjkRaGL_YPzThwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldZsMwCLjjkRaGL_YPzThwY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:29"
+  },
+  {
+    "business_name": "Ashutosh Patel House",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P9H5+26V, MDR 160E, Kamhriya, Uttar Pradesh 231213",
+    "area": "231213",
+    "latitude": 24.7276244,
+    "longitude": 83.35799519999999,
+    "place_id": "ChIJDe3H7_SJjjkRtX-5yHXXNAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDe3H7_SJjjkRtX-5yHXXNAU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:29"
+  }
+]

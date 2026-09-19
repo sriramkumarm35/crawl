@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Domino's Pizza | Ajeet Nagar, Pratapgarh",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "230405",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 4.5,
+    "reviews_count": 849,
+    "address": "Ground Floor, House Nos. 247 & 248, Plot No. 220, Ayodhya - Prayagraj Rd, Ajeet Nagar, Belhaghat, Sadar, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "Ajeet Nagar, Belhaghat, Sadar",
+    "latitude": 25.9299917,
+    "longitude": 82.0044618,
+    "place_id": "ChIJtWblVACRmjkRm0eVKDLzreM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWblVACRmjkRm0eVKDLzreM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:57:56"
+  },
+  {
+    "business_name": "Rakesh fast food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "230405",
+    "phone_number": "+91 84333 71151",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Company garden gate, opposite side, Pratapgarh, Pure Ishwarnath, Uttar Pradesh 230001",
+    "area": "230405",
+    "latitude": 25.9220072,
+    "longitude": 81.984505,
+    "place_id": "ChIJ09FEFqORmjkRK0uYT7NGhTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09FEFqORmjkRK0uYT7NGhTo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:57:57"
+  }
+]

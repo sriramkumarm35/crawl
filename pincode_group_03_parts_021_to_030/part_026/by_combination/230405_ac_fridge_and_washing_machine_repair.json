@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "School of Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Microwave oven repair service, Refrigerator repair service, Television repair service, Washer & dryer repair service",
+    "pincode": "230405",
+    "phone_number": "+91 96538 58758",
+    "website": "https://www.schoolofrepair.com/",
+    "rating": 5,
+    "reviews_count": 38,
+    "address": "RR37+C7Q, Chetak Marg, Pratap Nagar, Sanganer, Sector 6, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Pratap Nagar, Sanganer, Sector 6, Pratap Nagar",
+    "latitude": 26.8036447,
+    "longitude": 75.8132096,
+    "place_id": "ChIJow8vEgDJbTkRR_shHfVNOBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow8vEgDJbTkRR_shHfVNOBc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:58:34"
+  },
+  {
+    "business_name": "Shekh waseem",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "230405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "256H+PCC, Barahupur, Uttar Pradesh 230405",
+    "area": "230405",
+    "latitude": 26.0122064,
+    "longitude": 82.1791168,
+    "place_id": "ChIJb2nmSACdmjkRbQmiwY97hk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2nmSACdmjkRbQmiwY97hk4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:58:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KUMAR'S Cakes & Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "231206",
+    "phone_number": "+91 82739 05264",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Clock Tower, Old, state bank road, Nagla Emliya, Hathras, Uttar Pradesh 204101",
+    "area": "Nagla Emliya",
+    "latitude": 27.593359999999997,
+    "longitude": 78.04826229999999,
+    "place_id": "ChIJPSS52BabdDkRO-yF0X8pUNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSS52BabdDkRO-yF0X8pUNM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:08:23"
+  },
+  {
+    "business_name": "Suraj Cake Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "231206",
+    "phone_number": "+91 84231 19227",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Hinduhari, Robertsganj, Uttar Pradesh 231216",
+    "area": "231206",
+    "latitude": 24.7406425,
+    "longitude": 83.0631868,
+    "place_id": "ChIJe0QW_SH5jjkRTy7WJLA6vqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0QW_SH5jjkRTy7WJLA6vqQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:08:24"
+  }
+]

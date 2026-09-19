@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advance Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "230503",
+    "phone_number": "+91 253 251 4044",
+    "website": "https://www.advancepesticides.com/",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "5th Floor, Viraj Vertex, off College Road, Yeolekar Mala, Nashik, Maharashtra 422005",
+    "area": "Yeolekar Mala",
+    "latitude": 20.0028242,
+    "longitude": 73.76292269999999,
+    "place_id": "ChIJdS9IlLLr3TsRAtpiwDBQThg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdS9IlLLr3TsRAtpiwDBQThg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:04:32"
+  },
+  {
+    "business_name": "Sanjay brothers (seeds pesticides wholesale)",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service, Agricultural cooperative, Agricultural Product Wholesaler, Agricultural production, Agricultural service, Agrochemicals Supplier, Chemical wholesaler, Agricultural Seed Store, Wholesaler",
+    "pincode": "230503",
+    "phone_number": "+91 97537 04444",
+    "website": "http://www.sanjaybrothers.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "97, Dhanmandi, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Dhanmandi, Laxman Pura",
+    "latitude": 23.324638699999998,
+    "longitude": 75.03646379999999,
+    "place_id": "ChIJ2UZDh23_YzkR0OSmI5nEelM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UZDh23_YzkR0OSmI5nEelM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:04:32"
+  }
+]

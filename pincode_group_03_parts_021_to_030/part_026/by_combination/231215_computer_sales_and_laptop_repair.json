@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prajapati printing press",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "231215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "CVHR+GJ9, Parshoi, Uttar Pradesh 231219",
+    "area": "231215",
+    "latitude": 24.428778299999998,
+    "longitude": 82.8915968,
+    "place_id": "ChIJe0S9VQAfjzkR2b7UnAqaALE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0S9VQAfjzkR2b7UnAqaALE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:37"
+  },
+  {
+    "business_name": "Maurya Mobile Care",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "231215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "PW92+VM3, Bhgawas, Uttar Pradesh 231215",
+    "area": "231215",
+    "latitude": 24.7196434,
+    "longitude": 82.90165689999999,
+    "place_id": "ChIJJ00X5jMBjzkRmrnSlKfwgCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ00X5jMBjzkRmrnSlKfwgCI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:23:39"
+  }
+]

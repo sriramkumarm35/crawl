@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "चुनार",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "231210",
+    "phone_number": "+91 95192 67473",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2Q4J+9C8, Purainiya, Uttar Pradesh 231304",
+    "area": "231210",
+    "latitude": 25.0068582,
+    "longitude": 82.7812993,
+    "place_id": "ChIJwRXbXQCxjzkRbYaw4Cv4sAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRXbXQCxjzkRbYaw4Cv4sAQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:15:25"
+  },
+  {
+    "business_name": "Kamani bhaiya fast food wale",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "231210",
+    "phone_number": "+91 63926 91724",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mungeri road, Maurya, Ghorawal, Rahi, Uttar Pradesh 231210",
+    "area": "Maurya",
+    "latitude": 24.7733895,
+    "longitude": 82.6915429,
+    "place_id": "ChIJ4-7dZfynjzkRvWBmFO4q1cE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-7dZfynjzkRvWBmFO4q1cE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:15:25"
+  }
+]

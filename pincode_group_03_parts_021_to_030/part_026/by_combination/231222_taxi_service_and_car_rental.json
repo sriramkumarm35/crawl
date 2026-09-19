@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TJ tours & travel",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "231222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Govind Nagar, NTPC Colony, Shakti Nagar, Kota, Uttar Pradesh 231222",
+    "area": "Govind Nagar, NTPC Colony",
+    "latitude": 24.1207356,
+    "longitude": 82.6930529,
+    "place_id": "ChIJW2umXwAxjzkRSUVCngQ0zkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2umXwAxjzkRSUVCngQ0zkY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:08"
+  },
+  {
+    "business_name": "Supriya industry",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "231222",
+    "phone_number": "N/A",
+    "website": "https://supriya-industry.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Shiv Mandir, Navjeevan Vihar, Vindhyanagar, Madhya Pradesh 486886",
+    "area": "Navjeevan Vihar",
+    "latitude": 24.0828432,
+    "longitude": 82.6566387,
+    "place_id": "ChIJo2vl73ExjzkRFkOtosoEOjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2vl73ExjzkRFkOtosoEOjc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:35:08"
+  }
+]

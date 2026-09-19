@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MARUTI SUZUKI ARENA (STAR CARS)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "231216",
+    "phone_number": "+91 72752 21338",
+    "website": "http://www.marutisuzuki.com/",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "address": "Amarati, Robertsganj, Uttar Pradesh 231216",
+    "area": "Amarati",
+    "latitude": 24.6727095,
+    "longitude": 83.0623553,
+    "place_id": "ChIJaXovcwD5jjkRtZsIgkWkfR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXovcwD5jjkRtZsIgkWkfR8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:24:42"
+  },
+  {
+    "business_name": "Mahindra Auto Centre",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto parts store",
+    "pincode": "231216",
+    "phone_number": "N/A",
+    "website": "https://auto.mahindra.com/",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "M3G7+C2F, SH 5A, Barauli, Robertsganj, Uttar Pradesh 231216",
+    "area": "Barauli",
+    "latitude": 24.676067699999997,
+    "longitude": 83.062547,
+    "place_id": "ChIJdx9DYcH5jjkRygN2CCckWOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdx9DYcH5jjkRygN2CCckWOA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:24:43"
+  }
+]

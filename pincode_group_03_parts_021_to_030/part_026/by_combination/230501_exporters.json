@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Traders",
+    "search_category": "Exporters",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "230501",
+    "phone_number": "+91 63947 40489",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chauhariganj Bajar, Pratapgarh Chauhariganj Bajar, Uttar Pradesh 230501",
+    "area": "230501",
+    "latitude": 26.0103515,
+    "longitude": 81.9254766,
+    "place_id": "ChIJF4xdYACNmjkRSHAB-zIQcu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4xdYACNmjkRSHAB-zIQcu8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:01:03"
+  },
+  {
+    "business_name": "Best.seller men's garment",
+    "search_category": "Exporters",
+    "primary_category": "Garment Exporter",
+    "all_categories": "Garment Exporter",
+    "pincode": "230501",
+    "phone_number": "+91 72249 28997",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "03, patel building, Patel market, Babuganj, Antu, Uttar Pradesh 230501",
+    "area": "Babuganj",
+    "latitude": 26.0422422,
+    "longitude": 81.8914971,
+    "place_id": "ChIJK6sxxA6NmjkRHFW7uPJKquw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6sxxA6NmjkRHFW7uPJKquw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:01:03"
+  }
+]

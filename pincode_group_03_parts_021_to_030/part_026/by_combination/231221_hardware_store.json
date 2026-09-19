@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "231221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "T.2 turra market Pipri disst sonebhadra pin code 231221, Uttar Pradesh 231221",
+    "area": "231221",
+    "latitude": 24.2012456,
+    "longitude": 83.0227103,
+    "place_id": "ChIJ27JxkOvbjjkRMTwtRGDaDms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27JxkOvbjjkRMTwtRGDaDms",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:33:27"
+  },
+  {
+    "business_name": "Pathak Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "231221",
+    "phone_number": "+91 99934 93700",
+    "website": "http://indiamart.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Matrix Samajik Seva Samiti Deosar, PHE Colony, Naudiya Abad, Singrauli, Madhya Pradesh 486881",
+    "area": "PHE Colony",
+    "latitude": 24.3204918,
+    "longitude": 82.3078876,
+    "place_id": "ChIJv6yugvtdjzkR3QTXJtniRJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6yugvtdjzkR3QTXJtniRJ0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:33:28"
+  }
+]

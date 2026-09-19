@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thikana Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230503",
+    "phone_number": "+91 96956 78472",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Front Of Diwani Road, Pratapgarh - Raebareli Rd, Pratapgarh, Uttar Pradesh 230132",
+    "area": "230503",
+    "latitude": 25.9307059,
+    "longitude": 81.7149936,
+    "place_id": "ChIJ9e0FLYXvmjkRwOu_QpnGp_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9e0FLYXvmjkRwOu_QpnGp_A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:13"
+  },
+  {
+    "business_name": "JHALAK CAFE",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230503",
+    "phone_number": "+91 78977 03379",
+    "website": "https://qrlinkup.in/z8536u",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lalganj Ajhara, Sangipur, Uttar Pradesh 230132",
+    "area": "230503",
+    "latitude": 25.9343799,
+    "longitude": 81.7100914,
+    "place_id": "ChIJuZhI8DXvmjkRA9Hu8RJ3CK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZhI8DXvmjkRA9Hu8RJ3CK0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:15"
+  }
+]

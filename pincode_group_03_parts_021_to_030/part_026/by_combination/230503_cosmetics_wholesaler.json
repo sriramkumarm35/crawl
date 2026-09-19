@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House Of Beauty",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Cosmetics store, Gift shop, Handbags shop, Jewelry store, Lingerie wholesaler, Make-up artist, Perfume store, Underwear store",
+    "pincode": "230503",
+    "phone_number": "+91 90094 10099",
+    "website": "https://www.instagram.com/houseofbeautyindore/?hl=en",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "TULSI TOWER, Gita Bhawan Rd, near HOTEL CROWN PALACE, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "South Tukoganj",
+    "latitude": 22.7190275,
+    "longitude": 75.883775,
+    "place_id": "ChIJ9WPfjbD9YjkR3y5O2jAYHEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WPfjbD9YjkR3y5O2jAYHEI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:56"
+  },
+  {
+    "business_name": "Beauty Station",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Products Wholesaler, Outlet mall, Wholesale market",
+    "pincode": "230503",
+    "phone_number": "+91 99588 27898",
+    "website": "https://beautystation.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5826, Matke Wali Gali, Narain Market, Sadar Bazar, Delhi, 110006",
+    "area": "Narain Market, Sadar Bazar",
+    "latitude": 28.657861699999998,
+    "longitude": 77.2149718,
+    "place_id": "ChIJ-T1kEgP9DDkR0zU-EydbDk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-T1kEgP9DDkR0zU-EydbDk0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:56"
+  }
+]

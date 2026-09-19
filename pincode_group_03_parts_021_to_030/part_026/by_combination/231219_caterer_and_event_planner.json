@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B.R.C Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "231219",
+    "phone_number": "+91 90451 99050",
+    "website": "https://www.brccaterers.online/",
+    "rating": 4.8,
+    "reviews_count": 41,
+    "address": "Gautam vihar colony, behind Prakash Talkies, Nayee Nagla, Hathras, Uttar Pradesh 204101",
+    "area": "Nayee Nagla",
+    "latitude": 27.590189,
+    "longitude": 78.03638269999999,
+    "place_id": "ChIJHYDlE8u9tm8RkVkSFzF5vvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYDlE8u9tm8RkVkSFzF5vvI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:22"
+  },
+  {
+    "business_name": "Bhagat Ji Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Food manufacturer, Food producer, Food products supplier, Restaurant supply store, Wedding planner, Wedding service",
+    "pincode": "231219",
+    "phone_number": "+91 96397 00996",
+    "website": "https://bhagatjicaterers.com/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "37 mokshpuri rohta road Meerut Mokshpuri, Rohta Rd, Meerut, Uttar Pradesh 250002",
+    "area": "Shekhpura",
+    "latitude": 28.978297599999998,
+    "longitude": 77.6699719,
+    "place_id": "ChIJOTcv4SFlDDkRb1CsG-jV0Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTcv4SFlDDkRb1CsG-jV0Io",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:23"
+  }
+]

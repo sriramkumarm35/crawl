@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orbit Solar Solution",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "231218",
+    "phone_number": "+91 99198 04481",
+    "website": "https://orbitsolarsonbhadra.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Auri, More, Anpara, Uttar Pradesh 231225",
+    "area": "231218",
+    "latitude": 24.2068744,
+    "longitude": 82.7674607,
+    "place_id": "ChIJQ4DL4b8ljzkRZlJTc5jbB24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4DL4b8ljzkRZlJTc5jbB24",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:28:42"
+  },
+  {
+    "business_name": "Hospitality Finder",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "231218",
+    "phone_number": "+91 99813 33039",
+    "website": "https://www.hospitalityfinder.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "503, HOSPITALITY FINDER, Lakshya Regency, 15/2, Old Palasia, Indore, Madhya Pradesh 452018",
+    "area": "Old Palasia",
+    "latitude": 22.7246176,
+    "longitude": 75.89038359999999,
+    "place_id": "ChIJK17h0If9YjkRinfJ-nzXSac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK17h0If9YjkRinfJ-nzXSac",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:28:44"
+  }
+]

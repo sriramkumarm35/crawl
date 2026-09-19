@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Coffee shop",
+    "pincode": "231220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3JC7+HMQ, bilaunji basti, waidhan distt, near bsnl office, Madhya Pradesh 486886",
+    "area": "SBI Officers Colony",
+    "latitude": 24.0714534,
+    "longitude": 82.6142325,
+    "place_id": "ChIJ0TkNbIU2jzkRAvxb4x9xa5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TkNbIU2jzkRAvxb4x9xa5I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:32:16"
+  },
+  {
+    "business_name": "Satyam Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "231220",
+    "phone_number": "+91 85743 41316",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Purana Shivali Rd, Gooba Gardens, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Gooba Gardens, Kalyanpur",
+    "latitude": 26.5014063,
+    "longitude": 80.2497233,
+    "place_id": "ChIJhddEmqM3nDkRsfM6jG9QVCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhddEmqM3nDkRsfM6jG9QVCA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:32:17"
+  }
+]

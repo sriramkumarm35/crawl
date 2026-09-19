@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnav Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Convenience store",
+    "pincode": "231219",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Vaishnav Bakery, near Chaddha market, Obra, Vilemar Kundi, Uttar Pradesh 231219",
+    "area": "231219",
+    "latitude": 24.4665291,
+    "longitude": 82.9939417,
+    "place_id": "ChIJn3H6mgfkjjkRkr1c3ob6Xcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3H6mgfkjjkRkr1c3ob6Xcs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:29:26"
+  },
+  {
+    "business_name": "OVEN STORIES BY RUMI",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "231219",
+    "phone_number": "+91 88230 66172",
+    "website": "https://instagram.com/ovenstories_rumi",
+    "rating": 4.8,
+    "reviews_count": 288,
+    "address": "Shop No. 22, Gurudwara Market, Shankar Market, Jayant, Madhya Pradesh 486890",
+    "area": "Shankar Market",
+    "latitude": 24.1149006,
+    "longitude": 82.66119859999999,
+    "place_id": "ChIJcxBAL8MxjzkRpGCILxJwJUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxBAL8MxjzkRpGCILxJwJUE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:29:29"
+  }
+]

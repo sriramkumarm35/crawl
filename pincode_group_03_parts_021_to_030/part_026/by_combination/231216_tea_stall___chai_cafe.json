@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kewal Tea Centre",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "231216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 2062,
+    "address": "VIP Travel Bags, 30A, Maqbara Rd, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Hazratganj",
+    "latitude": 26.8499576,
+    "longitude": 80.9407454,
+    "place_id": "ChIJIekzqqf9mzkRqkrHfLBaw48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIekzqqf9mzkRqkrHfLBaw48",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:24:13"
+  },
+  {
+    "business_name": "Sardar Ji Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "231216",
+    "phone_number": "+91 90127 08700",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sharma Nagar, Meerut, Uttar Pradesh 250001",
+    "area": "Sharma Nagar",
+    "latitude": 28.982583199999997,
+    "longitude": 77.7239352,
+    "place_id": "ChIJ3aKrb1JlDDkRFiWpJrZwyMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aKrb1JlDDkRFiWpJrZwyMg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:24:14"
+  }
+]

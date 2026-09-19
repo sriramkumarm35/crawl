@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Boxing Coaching Center",
+    "all_categories": "Boxing Coaching Center",
+    "pincode": "231213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "M6GH+PWX, Babhani, Uttar Pradesh 231213",
+    "area": "231213",
+    "latitude": 24.676855999999997,
+    "longitude": 83.2298555,
+    "place_id": "ChIJVcNSPgD1jjkR-zZdDKX5Mcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcNSPgD1jjkR-zZdDKX5Mcc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:10"
+  },
+  {
+    "business_name": "Medical",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "231213",
+    "phone_number": "+91 93693 72683",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Medical, Nevari, Bhusaulia, Uttar Pradesh 231213",
+    "area": "231213",
+    "latitude": 24.6497685,
+    "longitude": 83.28510109999999,
+    "place_id": "ChIJcb3ODPuNjjkRrXvHaTmFLpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcb3ODPuNjjkRrXvHaTmFLpU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:21:10"
+  }
+]

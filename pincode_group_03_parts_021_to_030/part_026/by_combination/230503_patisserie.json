@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bakery Palace",
+    "search_category": "Patisserie",
+    "primary_category": "Confectionery store",
+    "all_categories": "Confectionery store",
+    "pincode": "230503",
+    "phone_number": "+91 89539 40086",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WQJ8+869, Sagrasundarpur, Uttar Pradesh 230136",
+    "area": "230503",
+    "latitude": 25.930795,
+    "longitude": 81.7655989,
+    "place_id": "ChIJxTXiBQDvmjkRhTQ1opcIUiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTXiBQDvmjkRhTQ1opcIUiQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:07"
+  },
+  {
+    "business_name": "SRISHTI MODANWAL",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "230503",
+    "phone_number": "+91 83031 49648",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pratapgarh, Deoli, Uttar Pradesh 230137",
+    "area": "230503",
+    "latitude": 25.9388196,
+    "longitude": 81.83720509999999,
+    "place_id": "ChIJMU2JCuftmjkR-H7_N0zgX2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMU2JCuftmjkR-H7_N0zgX2U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:09"
+  }
+]

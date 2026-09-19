@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Empire fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "231212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Keshari empire chandi hotel back side building etta mandi Babnauli road, pr, Robertsganj, Uttar Pradesh 231216",
+    "area": "pr, Uttar Mohal",
+    "latitude": 24.6974259,
+    "longitude": 83.0655668,
+    "place_id": "ChIJLRCFIn75jjkRQRUUSwlomec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRCFIn75jjkRQRUUSwlomec",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:23"
+  },
+  {
+    "business_name": "Robertsganj Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "231212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "M3Q9+8V3, Tagore Nagar, Robertsganj, Uttar Pradesh 231216",
+    "area": "Tagore Nagar",
+    "latitude": 24.6882517,
+    "longitude": 83.0696767,
+    "place_id": "ChIJ8USRrbL5jjkRHmRsol9Xcmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8USRrbL5jjkRHmRsol9Xcmo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:24"
+  }
+]

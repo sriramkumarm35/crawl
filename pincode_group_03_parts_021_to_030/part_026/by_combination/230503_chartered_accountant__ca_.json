@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harman & Company",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "230503",
+    "phone_number": "+91 98883 39685",
+    "website": "https://www.harmancompany.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sector 19 B, vishkarma nagar, Mandi Gobindgarh, Punjab 147301",
+    "area": "230503",
+    "latitude": 30.659011399999997,
+    "longitude": 76.2943446,
+    "place_id": "ChIJKynuX10aEDkRZJEk-O1i4pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKynuX10aEDkRZJEk-O1i4pU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:04:18"
+  },
+  {
+    "business_name": "CA NEERAJ CHAWLA AND COMPANY",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "230503",
+    "phone_number": "+91 154 248 5250",
+    "website": "http://saraltax.org/",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "55, Adarsh Nagar Rd, P Block, Sri Ganganagar, Rajasthan 335001",
+    "area": "P Block",
+    "latitude": 29.9221564,
+    "longitude": 73.8654043,
+    "place_id": "ChIJ0zvXKm21FzkRyI78S4VCF64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zvXKm21FzkRyI78S4VCF64",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:04:18"
+  }
+]

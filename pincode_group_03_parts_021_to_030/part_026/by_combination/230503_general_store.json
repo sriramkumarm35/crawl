@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Irfan Kiran Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "230503",
+    "phone_number": "+91 63945 87421",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Irfan Kiran Store, Tejgadh, Pure Acharya, Uttar Pradesh 230137",
+    "area": "230503",
+    "latitude": 25.9795742,
+    "longitude": 81.85540979999999,
+    "place_id": "ChIJl7dbY_btmjkRIBtfRazHmoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7dbY_btmjkRIBtfRazHmoI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:05"
+  },
+  {
+    "business_name": "Ajeet Kirana Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "230503",
+    "phone_number": "+91 98391 63034",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sewala Tiraha Chatarpur Sewala, Uttar Pradesh 230503",
+    "area": "230503",
+    "latitude": 26.0152225,
+    "longitude": 81.8216051,
+    "place_id": "ChIJ4eLYhGzzmjkRtzysw0xf3t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eLYhGzzmjkRtzysw0xf3t0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:05"
+  }
+]

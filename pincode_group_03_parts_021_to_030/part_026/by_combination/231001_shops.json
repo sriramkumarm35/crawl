@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Van Heusen Mirzapur",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "231001",
+    "phone_number": "+91 94541 86433",
+    "website": "https://vanheusenindia.abfrl.in/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "ward no: G, Paragana, Tappa 84, Sadar Tehsil, Van Heusen, House no -527 Ground & First Floor Mohalla, Kantit, Badli Katra, Beltar, Dankinganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Beltar, Dankinganj",
+    "latitude": 25.1438618,
+    "longitude": 82.5704379,
+    "place_id": "ChIJNQWyy_7BjzkRPwHXSq1Undw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQWyy_7BjzkRPwHXSq1Undw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:06:26"
+  },
+  {
+    "business_name": "Sunita enterprises",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "231001",
+    "phone_number": "+91 94152 43187",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 67,
+    "address": "Dankinganj, Mirzapur-cum-Vindhyachal, Mirzapur, Uttar Pradesh 231001",
+    "area": "Dankinganj",
+    "latitude": 25.145037499999997,
+    "longitude": 82.5704131,
+    "place_id": "ChIJ-ROm09LBjzkRbvivnBNBq_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ROm09LBjzkRbvivnBNBq_E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:06:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Petrol Pump",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Alternative fuel station",
+    "pincode": "231221",
+    "phone_number": "+91 98384 05464",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 130,
+    "address": "62JX+63G, NH 75, Renukoot, Murdhava, Uttar Pradesh 231217",
+    "area": "231221",
+    "latitude": 24.230556,
+    "longitude": 83.0476901,
+    "place_id": "ChIJZx9nOBvbjjkR6NHVDY3nrMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZx9nOBvbjjkR6NHVDY3nrMc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:33:20"
+  },
+  {
+    "business_name": "Car mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "231221",
+    "phone_number": "+91 76675 20089",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "near haj house, opposite burfi sweet Shop, Ashok Kunj, Kadru, Delatoli, Ranchi, Jharkhand 834002",
+    "area": "Ashok Kunj, Kadru, Delatoli",
+    "latitude": 23.3505154,
+    "longitude": 85.3126855,
+    "place_id": "ChIJ_UYq2T_h9DkRkusAxEEmRkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UYq2T_h9DkRkusAxEEmRkc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:33:20"
+  }
+]

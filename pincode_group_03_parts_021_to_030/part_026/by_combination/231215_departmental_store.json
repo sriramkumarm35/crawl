@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "231215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QWVR+PR4, Pagia, Uttar Pradesh 231216",
+    "area": "231215",
+    "latitude": 24.7942611,
+    "longitude": 82.9420892,
+    "place_id": "ChIJN6h8GwBVjjkRVrRwaWljNik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6h8GwBVjjkRVrRwaWljNik",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:22:22"
+  },
+  {
+    "business_name": "Mahendra Jaiswal grocery (wholesale & retail) store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "231215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RWJM+24M, Karma, Madainia, Uttar Pradesh 231216",
+    "area": "231215",
+    "latitude": 24.830092,
+    "longitude": 82.9327972,
+    "place_id": "ChIJI0HcNwBVjjkRTTicux0GTXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0HcNwBVjjkRTTicux0GTXU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:22:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anshu Mobile Center",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "231216",
+    "phone_number": "+91 97219 32527",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "Ghorawal To Robertsganj Rd, Kamarhi, Robertsganj, Babanauli, Uttar Pradesh 231216",
+    "area": "Kamarhi",
+    "latitude": 24.694601799999997,
+    "longitude": 83.0546233,
+    "place_id": "ChIJh45f27T5jjkRXQCdnzdoXkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh45f27T5jjkRXQCdnzdoXkM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:24:49"
+  },
+  {
+    "business_name": "Auto electric parts",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "231216",
+    "phone_number": "+91 76518 09051",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "in front of sales tax office, Pushuli, Robertsganj, Ormaura, Uttar Pradesh 231216",
+    "area": "Pushuli",
+    "latitude": 24.669354799999997,
+    "longitude": 83.06255879999999,
+    "place_id": "ChIJua8KRB75jjkR8QTF2tvgmtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJua8KRB75jjkR8QTF2tvgmtc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:24:51"
+  }
+]

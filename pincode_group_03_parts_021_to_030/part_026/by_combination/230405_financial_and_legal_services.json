@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legaltax",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business attorney, Intellectual property registry, Tax attorney",
+    "pincode": "230405",
+    "phone_number": "+91 97119 39395",
+    "website": "https://legaltax.in/",
+    "rating": 4.8,
+    "reviews_count": 459,
+    "address": "first floor, Kakrola housing complex, 292, opposite Mahila Park, Dwarka Mor, Nishat Park, New Delhi, Delhi, 110078",
+    "area": "Dwarka Mor, Nishat Park, Sector 15 Dwarka, Dwarka",
+    "latitude": 28.618344999999998,
+    "longitude": 77.0282786,
+    "place_id": "ChIJqf0ibEYFDTkR6uNDpU8pRfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqf0ibEYFDTkR6uNDpU8pRfQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:59:11"
+  },
+  {
+    "business_name": "Legal Tax & Financial Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "230405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-215, Office No. 19, Chawla Complex, Shakarpur, Delhi, 110092",
+    "area": "Veer Savarkar Block, Block A, Shakarpur",
+    "latitude": 28.6314438,
+    "longitude": 77.2797355,
+    "place_id": "ChIJrYBtkKz8DDkRRf_Io30FjFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYBtkKz8DDkRRf_Io30FjFA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 05:59:13"
+  }
+]

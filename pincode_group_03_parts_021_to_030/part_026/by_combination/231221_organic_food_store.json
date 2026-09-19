@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Go Forever",
+    "search_category": "Organic Food Store",
+    "primary_category": "Vitamin & supplements store",
+    "all_categories": "Vitamin & supplements store",
+    "pincode": "231221",
+    "phone_number": "N/A",
+    "website": "https://go-forever.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Renukoot Colony, Hindalco Colony, Renukoot, Uttar Pradesh 231217",
+    "area": "Renukoot Colony, Hindalco Colony",
+    "latitude": 24.2182429,
+    "longitude": 83.03460729999999,
+    "place_id": "ChIJ-6vkuvLbjjkRtSxBylevUE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6vkuvLbjjkRtSxBylevUE4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:32:45"
+  },
+  {
+    "business_name": "Banwasi Seva Ashram",
+    "search_category": "Organic Food Store",
+    "primary_category": "Non-governmental organization",
+    "all_categories": "Non-governmental organization, Ashram",
+    "pincode": "231221",
+    "phone_number": "N/A",
+    "website": "http://www.banwasisevaashram.in/",
+    "rating": 4.3,
+    "reviews_count": 82,
+    "address": "538Q+GH9, Govindpur, Uttar Pradesh 231221",
+    "area": "231221",
+    "latitude": 24.1662799,
+    "longitude": 83.08899509999999,
+    "place_id": "ChIJRxOfsfrPjjkR81m7OwLqWtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxOfsfrPjjkR81m7OwLqWtg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:32:46"
+  }
+]

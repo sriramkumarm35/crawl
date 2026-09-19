@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "231211",
+    "phone_number": "+91 99494 13771",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Global services, 231211, India",
+    "area": "231211",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:45"
+  },
+  {
+    "business_name": "Consultants Online",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "231211",
+    "phone_number": "N/A",
+    "website": "http://www.consultants-on-line.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Consultants Online, 231211, India",
+    "area": "231211",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJwboOIOUcbkgRnpHgwaE2_Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwboOIOUcbkgRnpHgwaE2_Xc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:18:45"
+  }
+]

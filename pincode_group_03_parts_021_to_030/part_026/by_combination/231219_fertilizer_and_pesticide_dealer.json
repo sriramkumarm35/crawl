@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopimal and Company",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier, Agricultural Product Wholesaler, Wholesaler, Manufacturer",
+    "pincode": "231219",
+    "phone_number": "+91 98370 26670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Mandi Fateh Ganj, Uttar Pradesh 203001",
+    "area": "Devipura-1",
+    "latitude": 28.4089793,
+    "longitude": 77.861019,
+    "place_id": "ChIJMxpQbY2hDDkRYMHYC_b7HNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxpQbY2hDDkRYMHYC_b7HNo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:52"
+  },
+  {
+    "business_name": "Manish Trading Company",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "231219",
+    "phone_number": "+91 98897 96220",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 39,
+    "address": "Siswa - Nichlaul Rd, Sabaya, Uttar Pradesh 273163",
+    "area": "231219",
+    "latitude": 27.190154099999997,
+    "longitude": 83.77070169999999,
+    "place_id": "ChIJc_Lco48PlDkRua1AEj2q0xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_Lco48PlDkRua1AEj2q0xk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:30:52"
+  }
+]

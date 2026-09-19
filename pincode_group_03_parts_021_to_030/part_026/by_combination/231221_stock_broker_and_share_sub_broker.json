@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pickright Technologies",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Software company",
+    "pincode": "231221",
+    "phone_number": "+91 99722 89505",
+    "website": "https://pickright.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Neil Rao Tower, Rao Tower, 118, Rd Number 3, Vijayanagar, EPIP Phase I, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Vijayanagar, EPIP Phase I, Whitefield",
+    "latitude": 12.977898999999999,
+    "longitude": 77.725106,
+    "place_id": "ChIJ3370CYATrjsRGSQCLGFcLQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3370CYATrjsRGSQCLGFcLQI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:34:08"
+  },
+  {
+    "business_name": "Future Investors",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "231221",
+    "phone_number": "+91 88719 65649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Shop Number 11, Vardhamaan Complex, near Coffee Therapy, 10 No. Stop, E-3, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "10 No. Stop, E-3, Arera Colony",
+    "latitude": 23.2132193,
+    "longitude": 77.43716599999999,
+    "place_id": "ChIJH-myjxlDfDkRfD2FEE-nIbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-myjxlDfDkRfD2FEE-nIbA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:34:10"
+  }
+]

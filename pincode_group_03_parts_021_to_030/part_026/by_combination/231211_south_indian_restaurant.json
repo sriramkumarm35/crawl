@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Charnamrit, Best Restaurant, Best Dhaba, Best Marwadi Food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "231211",
+    "phone_number": "+91 98390 40045",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Grand Trunk Rd, near Anand Hospital, Aurai, Uttar Pradesh 221301",
+    "area": "231211",
+    "latitude": 25.2654344,
+    "longitude": 82.55438459999999,
+    "place_id": "ChIJXb0ATtrpjzkRn5kJbfRV2Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXb0ATtrpjzkRn5kJbfRV2Yg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:17:13"
+  },
+  {
+    "business_name": "Sagar Satkar Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant, South Indian restaurant",
+    "pincode": "231211",
+    "phone_number": "+91 91985 05605",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Aurai, Uttar Pradesh 221301",
+    "area": "231211",
+    "latitude": 25.262620899999998,
+    "longitude": 82.56094759999999,
+    "place_id": "ChIJ9eXhVk7DjzkR1Z0iVvxwPho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eXhVk7DjzkR1Z0iVvxwPho",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:17:13"
+  }
+]

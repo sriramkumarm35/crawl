@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gauri Shukla Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230503",
+    "phone_number": "N/A",
+    "website": "https://gaurishuklahospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "VPO- Rajapur Bindhan, Dist, Uttar Pradesh 230128",
+    "area": "230503",
+    "latitude": 25.8095653,
+    "longitude": 81.6767868,
+    "place_id": "ChIJuyoJdRrnmjkRZM6lUUmsCMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyoJdRrnmjkRZM6lUUmsCMQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:26"
+  },
+  {
+    "business_name": "Saraswati Heart Care & Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Doctor, Heart hospital, Private hospital",
+    "pincode": "230503",
+    "phone_number": "+91 75187 01091",
+    "website": "http://saraswatiheartcare.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot No 2 & 3, 3, CY Chintamani Rd, Darbhanga Colony, George Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "Darbhanga Colony, George Town",
+    "latitude": 25.4533354,
+    "longitude": 81.8531497,
+    "place_id": "ChIJsTyMMrvKmjkRoyyBlyMjol0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTyMMrvKmjkRoyyBlyMjol0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:03:26"
+  }
+]

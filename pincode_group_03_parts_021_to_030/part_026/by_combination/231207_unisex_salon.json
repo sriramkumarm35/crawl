@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Hair Barber Shop",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "231207",
+    "phone_number": "+91 98899 41304",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "626P+X5G, NH 39, Renukoot, Uttar Pradesh 231217",
+    "area": "231207",
+    "latitude": 24.2124432,
+    "longitude": 83.0354562,
+    "place_id": "ChIJ5akXw1fajjkReDzWWNz7lgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5akXw1fajjkReDzWWNz7lgE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:55"
+  },
+  {
+    "business_name": "Muskanartistry",
+    "search_category": "Unisex Salon",
+    "primary_category": "Artist",
+    "all_categories": "Artist, Coaching Center, Mehndi Designer, Nail salon",
+    "pincode": "231207",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@muskanjohar-creative?si=yLAWbO9pgkXt43vc",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Murdhawa moad, near Sharma petrol pump, Renukoot, Belhatthi, Uttar Pradesh 231217",
+    "area": "231207",
+    "latitude": 24.2338935,
+    "longitude": 83.0523668,
+    "place_id": "ChIJcTH-ro3bjjkRqQSbFi1JZcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTH-ro3bjjkRqQSbFi1JZcU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:10:55"
+  }
+]

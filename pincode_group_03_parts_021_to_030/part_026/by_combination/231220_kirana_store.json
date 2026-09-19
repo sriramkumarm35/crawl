@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diya kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "231220",
+    "phone_number": "+91 89534 51553",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "bina project, m361, Bina, Barwani, Uttar Pradesh 231220",
+    "area": "231220",
+    "latitude": 24.1461979,
+    "longitude": 82.7775386,
+    "place_id": "ChIJ53RBzf4vjzkR2xZH_nkkhqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53RBzf4vjzkR2xZH_nkkhqI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:31:02"
+  },
+  {
+    "business_name": "Krishna bakery and grocery store",
+    "search_category": "Kirana Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "231220",
+    "phone_number": "+91 94549 22117",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khadia Project, Khadia Colony, Shakti Nagar, Uttar Pradesh 231222",
+    "area": "Khadia Project, Khadia Colony",
+    "latitude": 24.1213272,
+    "longitude": 82.68364969999999,
+    "place_id": "ChIJwzQpRkMxjzkRieDo-W-wkhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzQpRkMxjzkRieDo-W-wkhQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:31:04"
+  }
+]

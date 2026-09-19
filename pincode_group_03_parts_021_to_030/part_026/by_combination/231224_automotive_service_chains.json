@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SGP Agencies",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "231224",
+    "phone_number": "+91 93369 07235",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "J 12/15 H-1, Ramkatora, Piplani Katra, Jaitpura, Varanasi, Uttar Pradesh 221001",
+    "area": "Ramkatora, Piplani Katra, Jaitpura",
+    "latitude": 25.3246678,
+    "longitude": 83.0028482,
+    "place_id": "ChIJvbA9DA4ujjkR5H56P6oRGug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbA9DA4ujjkR5H56P6oRGug",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:38:40"
+  },
+  {
+    "business_name": "Jaiswal Auto Sales",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "231224",
+    "phone_number": "+91 93697 78052",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C 31/6, Englishiya Line, Station Rd, Varanasi, Uttar Pradesh 221002",
+    "area": "Kashi Vidyapith, Chetganj",
+    "latitude": 25.3238919,
+    "longitude": 82.98790029999999,
+    "place_id": "ChIJW762s6gtjjkRKAL1eihFXFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW762s6gtjjkRKAL1eihFXFA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:38:40"
+  }
+]

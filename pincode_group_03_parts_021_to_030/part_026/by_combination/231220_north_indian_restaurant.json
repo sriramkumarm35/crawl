@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darbar restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231220",
+    "phone_number": "+91 88270 54749",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 126,
+    "address": "Vindhyanagar - Waidhan Rd, dhoti, Waidhan, Madhya Pradesh 486886",
+    "area": "dhoti",
+    "latitude": 24.0746297,
+    "longitude": 82.648832,
+    "place_id": "ChIJSxQBC84xjzkRsobjepz7yBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxQBC84xjzkRsobjepz7yBE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:31:13"
+  },
+  {
+    "business_name": "S.R. Digital X-ray Center",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "231220",
+    "phone_number": "+91 98262 48340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "L.I, Singrauli district, G. Chowk, Singrauli, Madhya Pradesh 486889",
+    "area": "Singrauli district, G. Chowk",
+    "latitude": 24.1965504,
+    "longitude": 82.66659779999999,
+    "place_id": "ChIJy71S6a07jzkRG2QzjnYbfa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy71S6a07jzkRG2QzjnYbfa0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:31:13"
+  }
+]

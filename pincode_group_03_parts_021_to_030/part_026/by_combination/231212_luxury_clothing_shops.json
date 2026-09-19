@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanchan's Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Designer Clothing Store, Fashion designer, Western apparel store, Women's clothing store",
+    "pincode": "231212",
+    "phone_number": "+91 99350 78314",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7/115 b, Model Bakery Road, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Khalasi Line, Swaroop Nagar",
+    "latitude": 26.485492299999997,
+    "longitude": 80.31913349999999,
+    "place_id": "ChIJOUUIDmg4nDkRROP-YVSA0Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUUIDmg4nDkRROP-YVSA0Us",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:14"
+  },
+  {
+    "business_name": "Mr. Darzi Men's Fashion Gallery",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "231212",
+    "phone_number": "+91 88819 27777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shakira state, 84/82B, GT Road, near City Club, Anwarganj, Darshan Purwa, Kanpur, Uttar Pradesh 208003",
+    "area": "Anwarganj, Darshan Purwa",
+    "latitude": 26.4575246,
+    "longitude": 80.330379,
+    "place_id": "ChIJDewv2KZHnDkR730w04OZG7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDewv2KZHnDkR730w04OZG7Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:19:14"
+  }
+]

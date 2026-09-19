@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LeadsCampaign",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Data Entry Service Provider, Database Management Company, Corporate office",
+    "pincode": "231217",
+    "phone_number": "+91 93015 89433",
+    "website": "http://leadscampaign.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B-Wing, Shankar Shree Apartment, 201, Amravati Road, opposite Ankita Multiplex, Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "area": "Sanjay Nagar",
+    "latitude": 21.303142299999998,
+    "longitude": 76.2233342,
+    "place_id": "ChIJzU5plkGqsU4RYEMwsut5K0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU5plkGqsU4RYEMwsut5K0E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:33"
+  },
+  {
+    "business_name": "The LeadsCon Enterprises",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "231217",
+    "phone_number": "+91 75099 99626",
+    "website": "https://theleadsconenterprises.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The LeadsCon Enterprises, 231217, India",
+    "area": "231217",
+    "latitude": 22.7461552,
+    "longitude": 75.8952444,
+    "place_id": "ChIJswg5i_rNyi0RECkNy9pd5Is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswg5i_rNyi0RECkNy9pd5Is",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:27:34"
+  }
+]
