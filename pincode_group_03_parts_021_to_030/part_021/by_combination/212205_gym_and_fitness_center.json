@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health coach & Wellness coach",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "212205",
+    "phone_number": "+91 92147 76332",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ajuha, Kaosambhi, Ajhuwa, Uttar Pradesh 212217",
+    "area": "Ajuha",
+    "latitude": 25.7012927,
+    "longitude": 81.25349109999999,
+    "place_id": "ChIJL-V7rdU9mzkRZoR7Ji3az4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-V7rdU9mzkRZoR7Ji3az4c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:15:12"
+  },
+  {
+    "business_name": "Model Fitess GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "P85X+V47, Kara, Kamalpur, Uttar Pradesh 212205",
+    "area": "212205",
+    "latitude": 25.7096625,
+    "longitude": 81.34779689999999,
+    "place_id": "ChIJUQJodEMjmzkREBZAbCuZw0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQJodEMjmzkREBZAbCuZw0E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:15:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Timber Traders",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store, Exporter",
+    "pincode": "211010",
+    "phone_number": "+91 98380 95094",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Bans Mandi, Tilak Rd, Prayagraj, Uttar Pradesh 211003",
+    "area": "Mutthi Ganj",
+    "latitude": 25.4316902,
+    "longitude": 81.83850939999999,
+    "place_id": "ChIJN-00Siw1hTkRLVGO5yMKEXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-00Siw1hTkRLVGO5yMKEXg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:24"
+  },
+  {
+    "business_name": "Shanu Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "211010",
+    "phone_number": "+91 93052 68288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chak Raghunath Arail Tiraha, Mirzapur Rd, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.4020449,
+    "longitude": 81.8680217,
+    "place_id": "ChIJUSt5obNLhTkRcVH3JwcQZmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSt5obNLhTkRcVH3JwcQZmk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:26"
+  }
+]

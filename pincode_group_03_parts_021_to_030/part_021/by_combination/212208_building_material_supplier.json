@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ibrahim enterprises PVT LTD",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Paint store, Stationery store",
+    "pincode": "212208",
+    "phone_number": "+91 63928 76899",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Grand Trunk Rd, Pura Mufti, Uttar Pradesh 212208",
+    "area": "212208",
+    "latitude": 25.483233,
+    "longitude": 81.67027449999999,
+    "place_id": "ChIJL9DUcvfTmjkRP2zqm0T9yW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9DUcvfTmjkRP2zqm0T9yW8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:45"
+  },
+  {
+    "business_name": "Kesharwani Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Building materials store",
+    "pincode": "212208",
+    "phone_number": "+91 99566 40646",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Transport Nagar, Prayagraj, Uttar Pradesh 211011",
+    "area": "Transport Nagar",
+    "latitude": 25.453240899999997,
+    "longitude": 81.7653955,
+    "place_id": "ChIJTY0xD73MmjkRNY36zNQp3es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTY0xD73MmjkRNY36zNQp3es",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:46"
+  }
+]

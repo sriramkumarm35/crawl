@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "211008",
+    "phone_number": "+91 92669 40808",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 11,
+    "address": "9VMF+54W, ADA Rd, ADA Colony, Naini, Prayagraj, Cheonki, Uttar Pradesh 211010",
+    "area": "ADA Colony, Naini",
+    "latitude": 25.382981299999997,
+    "longitude": 81.87283459999999,
+    "place_id": "ChIJs7tCLgBLhTkRvaefZbRJJxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7tCLgBLhTkRvaefZbRJJxE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:05"
+  },
+  {
+    "business_name": "Tata 1mg Pharmacy & Lab Tests",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "211008",
+    "phone_number": "+91 92118 65600",
+    "website": "https://retailstore.1mg.com/tata-1mg-pharmacy-lab-tests-pharmacy-shop-naini-awas-yojana-prayagraj-479940/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "H No, Awas Yojana, MIG 2, A Block, B/6, Naini, Karchhana, Prayagraj, Uttar Pradesh 211008",
+    "area": "MIG 2, A Block, B/6, Naini",
+    "latitude": 25.3881256,
+    "longitude": 81.8768611,
+    "place_id": "ChIJDzchGIpLhTkRjHWOtQHb6P0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzchGIpLhTkRjHWOtQHb6P0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:06"
+  }
+]

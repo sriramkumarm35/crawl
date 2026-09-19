@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s PANDEY PAINT STORE",
+    "search_category": "Interior Designers",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Door supplier, Plywood supplier",
+    "pincode": "212207",
+    "phone_number": "+91 86013 77726",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 47,
+    "address": "Dhata, Uttar Pradesh 212641",
+    "area": "212207",
+    "latitude": 25.5373926,
+    "longitude": 81.2320247,
+    "place_id": "ChIJ_0nBZ942mzkR8w1z9_EJvxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0nBZ942mzkR8w1z9_EJvxc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:19:03"
+  },
+  {
+    "business_name": "NEW HR TRADERS",
+    "search_category": "Interior Designers",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "212207",
+    "phone_number": "+91 91518 38868",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Korron, Manjhy, Manjhanpur, Uttar Pradesh 212207",
+    "area": "Korron",
+    "latitude": 25.528197499999997,
+    "longitude": 81.3807795,
+    "place_id": "ChIJc2oeis0vmzkRxdPDpoePr1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2oeis0vmzkRxdPDpoePr1M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:19:03"
+  }
+]

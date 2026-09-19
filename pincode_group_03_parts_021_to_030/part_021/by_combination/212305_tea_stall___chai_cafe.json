@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Chai Paan naasta corner",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ward no 8 Bhairopur, Handia, Uttar Pradesh 221503",
+    "area": "212305",
+    "latitude": 25.3574073,
+    "longitude": 82.1914053,
+    "place_id": "ChIJG1ez2ItVhTkR6zsEm-wxpeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1ez2ItVhTkR6zsEm-wxpeE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:35"
+  },
+  {
+    "business_name": "Bhauraha Chai Pan Bhandar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "212305",
+    "phone_number": "+91 78898 01800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MAA SHARDA TEMPLE, AWARTA, CHERIYA, Saidabad, Dhokariuperhar, Uttar Pradesh 221508",
+    "area": "AWARTA, CHERIYA",
+    "latitude": 25.355791,
+    "longitude": 82.11587689999999,
+    "place_id": "ChIJ315DL-pRhTkRviV5BQMNd9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ315DL-pRhTkRviV5BQMNd9A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:39"
+  }
+]

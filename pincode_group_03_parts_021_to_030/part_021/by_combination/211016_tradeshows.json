@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pandit j",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "http://www.panditj.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "pandit j, 211016, India",
+    "area": "211016",
+    "latitude": 27.3713332,
+    "longitude": 79.7941108,
+    "place_id": "ChIJ6Qt1DhsOsUAR8WYtC9NaDEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Qt1DhsOsUAR8WYtC9NaDEs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:44"
+  },
+  {
+    "business_name": "Creative wedding planner",
+    "search_category": "Tradeshows",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Beniganj, Prayagraj, Uttar Pradesh 211016",
+    "area": "Beniganj",
+    "latitude": 25.4325193,
+    "longitude": 81.8078006,
+    "place_id": "ChIJd13We5M1hTkRFA1xWRzldhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd13We5M1hTkRFA1xWRzldhc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:44"
+  }
+]

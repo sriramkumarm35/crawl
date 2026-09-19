@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEGA OFFER MART",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop",
+    "pincode": "211017",
+    "phone_number": "+91 89073 87088",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "65/4517,Aroma Garden Srm Road, Lissie Rd, Kochi, Kerala 682018",
+    "area": "Ernakulam North, Kaloor",
+    "latitude": 9.9915398,
+    "longitude": 76.2876567,
+    "place_id": "ChIJRSwRcAANCDsRunwhT3XiQNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSwRcAANCDsRunwhT3XiQNA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:12"
+  },
+  {
+    "business_name": "Sylcon Shoes & Bags Thiruvalla",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "211017",
+    "phone_number": "+91 469 260 0345",
+    "website": "http://www.sylcon.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "TMJ Building, SH 1, Ramanchira, Thiruvalla, Keralam 689101",
+    "area": "Ramanchira",
+    "latitude": 9.3935718,
+    "longitude": 76.5715939,
+    "place_id": "ChIJtYQzqW0kBjsRWFIFu-SxEkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYQzqW0kBjsRWFIFu-SxEkY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rs&Rs Animal Healthcare Pvt. Ltd.",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Medical office",
+    "pincode": "211008",
+    "phone_number": "+91 70075 15326",
+    "website": "http://www.rsrsahcpl.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "290A/3,Ambedkar Nagar, Mirzapur Rd, Naini, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.4065822,
+    "longitude": 81.8683221,
+    "place_id": "ChIJKe9MgkNLhTkRlRP_S_KPUzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKe9MgkNLhTkRlRP_S_KPUzY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:12"
+  },
+  {
+    "business_name": "Neha Pet Clinic & Shop",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "211008",
+    "phone_number": "+91 98706 66575",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 62,
+    "address": "Shop No. 1 & 2, LD 1, near Goldey Medical store, ADA Colony, Naini, Prayagraj, Naini Taluka Naini Dadari, Uttar Pradesh 211008",
+    "area": "ADA Colony, Naini",
+    "latitude": 25.3886891,
+    "longitude": 81.87889469999999,
+    "place_id": "ChIJXRm7jF5LhTkRm-YUEXaRSAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRm7jF5LhTkRm-YUEXaRSAY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:12"
+  }
+]

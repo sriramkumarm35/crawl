@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarla Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "212402",
+    "phone_number": "+91 88749 48986",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Unnamed Road, Ismailganj, Phoolpur, Uttar Pradesh 212402",
+    "area": "Ismailganj",
+    "latitude": 25.550164799999997,
+    "longitude": 82.0932507,
+    "place_id": "ChIJcXWMnISumjkRg81zi0E_z1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXWMnISumjkRg81zi0E_z1g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:18"
+  },
+  {
+    "business_name": "Mahadev Prasad Rajesh Kumar Seth Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "212402",
+    "phone_number": "+91 78007 80065",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Grand Trunk Rd, Handia, Uttar Pradesh 221503",
+    "area": "212402",
+    "latitude": 25.362883399999998,
+    "longitude": 82.1875759,
+    "place_id": "ChIJtSOyMt9VhTkRXW25LtwoLKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSOyMt9VhTkRXW25LtwoLKw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singlas Sweets Bakery & Restaurant- Patparganj",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Bakery and Cake Shop, Sweet shop, Caterer, Chinese restaurant, Dessert shop, Fast food restaurant, Gift basket store, North Indian restaurant, Pizza restaurant, Restaurant, South Indian restaurant, Wedding bakery",
+    "pincode": "212216",
+    "phone_number": "+91 11 2223 2323",
+    "website": "https://singlasweets.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "A, 139/140, Madhu Vihar Rd, Madhu Vihar, I.P.Extension, Patparganj, Delhi, 110092",
+    "area": "Madhu Vihar, I.P.Extension, Patparganj",
+    "latitude": 28.6359367,
+    "longitude": 77.30551919999999,
+    "place_id": "ChIJ____OyobDTkR801Kk4YnOvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____OyobDTkR801Kk4YnOvE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:22"
+  },
+  {
+    "business_name": "KP's Foodie Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212216",
+    "phone_number": "+91 84118 58520",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2249/B/110, Plot no 131, vivekanand highschool road, behind shivaji park apartment, Shri Krishna Nagar, Nagpur, Maharashtra 440024",
+    "area": "Shri Krishna Nagar, Reshim Bagh",
+    "latitude": 21.133281999999998,
+    "longitude": 79.110635,
+    "place_id": "ChIJVdPt06DH1DsRRnj6cfmpbeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdPt06DH1DsRRnj6cfmpbeo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:24"
+  }
+]

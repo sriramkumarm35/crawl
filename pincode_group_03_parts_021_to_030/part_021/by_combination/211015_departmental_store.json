@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Purwar Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "211015",
+    "phone_number": "+91 96961 08111",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "Anant Nagar, Preetam Nagar, Prayagraj, Uttar Pradesh 211011",
+    "area": "Preetam Nagar, MIG Preetam Nagar Colony, Dhoomanganj",
+    "latitude": 25.4571583,
+    "longitude": 81.78428919999999,
+    "place_id": "ChIJMwYVOWDLmjkRAKww9nRb0Tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwYVOWDLmjkRAKww9nRb0Tc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:01"
+  },
+  {
+    "business_name": "Wakeel grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211015",
+    "phone_number": "+91 94506 26624",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Munna masjid road, Uttar Pradesh 211016",
+    "area": "J K Nagar, Kala Danda",
+    "latitude": 25.4289658,
+    "longitude": 81.8035724,
+    "place_id": "ChIJ7yd6vFU1hTkR3WWLcAd-D_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yd6vFU1hTkR3WWLcAd-D_I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:03"
+  }
+]

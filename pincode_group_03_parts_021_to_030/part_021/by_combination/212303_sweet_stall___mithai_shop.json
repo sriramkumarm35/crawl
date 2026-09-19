@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raksha Sweet House & Bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop, Restaurant",
+    "pincode": "212303",
+    "phone_number": "+91 70710 38392",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 6,
+    "address": "Meja Rd, Prayagraj, Soranv Pati, Uttar Pradesh 212302",
+    "area": "212303",
+    "latitude": 25.2168372,
+    "longitude": 82.0845195,
+    "place_id": "ChIJLWrK6fRbhTkRvfa5uqiifxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWrK6fRbhTkRvfa5uqiifxA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:41"
+  },
+  {
+    "business_name": "Krishna Sweets House",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "212303",
+    "phone_number": "+91 99190 90210",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 29,
+    "address": "Bampur Phatak, Uttar Pradesh 212104",
+    "area": "212303",
+    "latitude": 25.1554653,
+    "longitude": 82.2563377,
+    "place_id": "ChIJAQceHQz1jzkRuvLUicb4J1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQceHQz1jzkRuvLUicb4J1Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:41"
+  }
+]

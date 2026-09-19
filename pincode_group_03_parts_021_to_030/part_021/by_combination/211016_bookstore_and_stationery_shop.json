@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Stationary World",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "211016",
+    "phone_number": "+91 79853 65312",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "130/35, Bhawapur Rd, Kala Danda, Bhawapur Rd, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "Kareli",
+    "latitude": 25.4344771,
+    "longitude": 81.8125771,
+    "place_id": "ChIJEZaX1q7LmjkRa1NHllr5Neo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZaX1q7LmjkRa1NHllr5Neo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:17"
+  },
+  {
+    "business_name": "Raman Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "211016",
+    "phone_number": "+91 93699 58919",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 15,
+    "address": "CRQ6+XQQ, Himmatganj,Banerjee Chauraha, Prayagraj, Uttar Pradesh 211016",
+    "area": "Khuldabad, Kala Danda",
+    "latitude": 25.439972899999997,
+    "longitude": 81.8119957,
+    "place_id": "ChIJ-ymD4y3LmjkRtBD1HiJzQAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ymD4y3LmjkRtBD1HiJzQAM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:17"
+  }
+]

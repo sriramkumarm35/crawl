@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "211012",
+    "phone_number": "+91 99100 76061",
+    "website": "http://shivaydentalcare.in/",
+    "rating": 4.9,
+    "reviews_count": 40,
+    "address": "Kailashpuri, Plot No. 361, Chak Mundera, Vishnapuri Colony, Ghayasuddinpur, Prayagraj, Uttar Pradesh 211011",
+    "area": "Chak Mundera, Vishnapuri Colony, Ghayasuddinpur",
+    "latitude": 25.4508819,
+    "longitude": 81.7533533,
+    "place_id": "ChIJMQ3ZURTNmjkR0C8q2tGOSsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQ3ZURTNmjkR0C8q2tGOSsE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:55"
+  },
+  {
+    "business_name": "Sangam Dental Centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dentist",
+    "pincode": "211012",
+    "phone_number": "+91 73111 07348",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 63,
+    "address": "Plot 277A, 124, LIC Rd, Tagore Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "Tagore Town",
+    "latitude": 25.4573459,
+    "longitude": 81.8648257,
+    "place_id": "ChIJo-jXjKDKmjkRHxpukOYRbHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-jXjKDKmjkRHxpukOYRbHM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:56"
+  }
+]

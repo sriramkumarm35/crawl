@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uma Traders",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "212203",
+    "phone_number": "+91 99530 66357",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 31,
+    "address": "Jaipuria Sunrise Plaza, SC-77, Ahinsa Khand 1, Indirapuram, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Ahinsa Khand 1, Indirapuram",
+    "latitude": 28.641222799999998,
+    "longitude": 77.378383,
+    "place_id": "ChIJZawBvar6DDkR7OFYnoLCSX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZawBvar6DDkR7OFYnoLCSX8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:28"
+  },
+  {
+    "business_name": "Mouriya Clothing Company",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothes and fabric manufacturer, Clothing supplier, Clothing wholesaler, Corporate gift supplier, Custom t-shirt store, Exporter, Fabric wholesaler, T-shirt store, Wholesaler",
+    "pincode": "212203",
+    "phone_number": "+91 421 247 8901",
+    "website": "http://www.mouriyaclothing.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chendhur Apartment, Olapalayam St, 145, Mariamman Koil 1st St, Gandhinagar, Padmavathi Puram, Tiruppur, Tamil Nadu 641603",
+    "area": "Gandhinagar, Padmavathi Puram",
+    "latitude": 11.12626,
+    "longitude": 77.33022299999999,
+    "place_id": "ChIJ9xFEVvgGqTsRyPrtg-TNxJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xFEVvgGqTsRyPrtg-TNxJE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:29"
+  }
+]

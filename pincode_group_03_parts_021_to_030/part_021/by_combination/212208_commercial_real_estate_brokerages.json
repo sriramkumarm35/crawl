@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanu Reddy Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "212208",
+    "phone_number": "+91 40 2311 2055",
+    "website": "http://hanureddyrealty.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Plot no 101, Ground Floor Women's Cooperative Society, Road no 7C, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "Durga Bhavani Nagar, Women's Welfare Housing Society, Jubilee Hills",
+    "latitude": 17.429993,
+    "longitude": 78.4210114,
+    "place_id": "ChIJHzIeYiyXyzsRKmAd0G3g6WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzIeYiyXyzsRKmAd0G3g6WQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:21:29"
+  },
+  {
+    "business_name": "YesBroker",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Investment service",
+    "pincode": "212208",
+    "phone_number": "+91 79956 78910",
+    "website": "http://www.yesbroker.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th Floor, Bizness Square, beside Hitex, Jubilee Enclave, HITEC City, Kaman, Hyderabad, Telangana 500081",
+    "area": "Jubilee Enclave, HITEC City",
+    "latitude": 17.4565269,
+    "longitude": 78.3762143,
+    "place_id": "ChIJTaBhj1aTyzsRtKSsueo8hxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaBhj1aTyzsRtKSsueo8hxw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:21:29"
+  }
+]

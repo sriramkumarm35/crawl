@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.K. GARDEN & GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "Chak Jalil, Uttar Pradesh 221505",
+    "area": "212404",
+    "latitude": 25.4522042,
+    "longitude": 82.0859432,
+    "place_id": "ChIJ_VwyCtWsmjkRknNO0chGCs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VwyCtWsmjkRknNO0chGCs8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:49:00"
+  },
+  {
+    "business_name": "न्यू कान्हा गेस्ट हाउस",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "212404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "F487+7X, Jalalpur Kasba, Uttar Pradesh 221508",
+    "area": "212404",
+    "latitude": 25.4657303,
+    "longitude": 82.1149906,
+    "place_id": "ChIJgb1CFwCtmjkR7CKq95UV-_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb1CFwCtmjkR7CKq95UV-_o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:49:00"
+  }
+]

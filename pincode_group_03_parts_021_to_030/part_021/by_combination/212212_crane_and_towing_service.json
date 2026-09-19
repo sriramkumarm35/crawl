@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "212212",
+    "phone_number": "+91 88811 12782",
+    "website": "https://www.sonucraneservice.shop/",
+    "rating": 5,
+    "reviews_count": 85,
+    "address": "Shop 10, Faizabad Rd, near Yadav Dhaba, Krishna Vihar, Hasangarden Colony, Chinhat, Lucknow, Uttar Pradesh 226028",
+    "area": "Krishna Vihar, Hasangarden Colony, Chinhat",
+    "latitude": 26.876908,
+    "longitude": 81.03082839999999,
+    "place_id": "ChIJ2UwqmznjmzkRpxkDsTkcWUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UwqmznjmzkRpxkDsTkcWUA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:22:31"
+  },
+  {
+    "business_name": "Kawale Cranes and Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "212212",
+    "phone_number": "+91 96896 11111",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 110,
+    "address": "No 191, Khamla Rd, Surendra Nagar, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "area": "Surendra Nagar, Vivekanand Nagar",
+    "latitude": 21.1168326,
+    "longitude": 79.0672807,
+    "place_id": "ChIJIbeKz36_1DsRl_TalDdksyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbeKz36_1DsRl_TalDdksyk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:22:31"
+  }
+]

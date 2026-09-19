@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G S Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "n, Grand Trunk Rd, near reliance petrol pump, Sarai Inayat, Prayagraj, Andawa, Uttar Pradesh 221505",
+    "area": "Sarai Inayat",
+    "latitude": 25.4249416,
+    "longitude": 81.9624527,
+    "place_id": "ChIJSQ94pX5NhTkRzaxYHs6ZbEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQ94pX5NhTkRzaxYHs6ZbEQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:42:44"
+  },
+  {
+    "business_name": "S.B. MULTI-SPECIALITY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "CXFX+5XM, Abusa, Uttar Pradesh 221505",
+    "area": "212307",
+    "latitude": 25.4229415,
+    "longitude": 81.9999897,
+    "place_id": "ChIJPz4_MQBNhTkRUE9qAjOzMwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPz4_MQBNhTkRUE9qAjOzMwU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:42:44"
+  }
+]

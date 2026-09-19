@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Biryani Station",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Restaurant",
+    "pincode": "211008",
+    "phone_number": "+91 97946 26142",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C.O.D. Road, Near Cheonki Station, Naini, Prayagraj Infront of chiewoki station Raja chai wala Chiewoki station Chiewoki station, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini Gaon, Naini",
+    "latitude": 25.37828,
+    "longitude": 81.8666454,
+    "place_id": "ChIJd-6mkPJLhTkRw6xfTR61C3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-6mkPJLhTkRw6xfTR61C3o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:47"
+  },
+  {
+    "business_name": "Mataka Wala Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "211008",
+    "phone_number": "N/A",
+    "website": "https://matkawalabiryani.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Z, 9/8E, Sainik Path, beside Rudra Aakriti Appartment, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.4028748,
+    "longitude": 81.8679148,
+    "place_id": "ChIJuXbSYjRLhTkR42YK30tCZCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXbSYjRLhTkR42YK30tCZCQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:51"
+  }
+]

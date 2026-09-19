@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "211018",
+    "phone_number": "+91 99198 00757",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 8,
+    "address": "15-A, Maharshi Dayanand Marg, Alka Puri Colony, Prayagraj, Uttar Pradesh 211001",
+    "area": "Alka Puri Colony",
+    "latitude": 25.459829799999998,
+    "longitude": 81.833039,
+    "place_id": "ChIJRTer_OfKmjkRi68Qe1nrOhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTer_OfKmjkRi68Qe1nrOhg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:43"
+  },
+  {
+    "business_name": "General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211018",
+    "phone_number": "+91 88408 52163",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FR4M+MCJ, Agnipath Colony, Qq3n, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Qq3n, Civil Lines",
+    "latitude": 25.4567074,
+    "longitude": 81.8335269,
+    "place_id": "ChIJnysjasPKmjkRAAAAMCWVsyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnysjasPKmjkRAAAAMCWVsyU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:43"
+  }
+]

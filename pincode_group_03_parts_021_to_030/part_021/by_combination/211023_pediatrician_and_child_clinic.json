@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABC Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "211023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J3HX+XP2, Rajeev Nagar, Keshri Nagar, Patna, Bihar 800024",
+    "area": "Rajeev Nagar, Keshri Nagar",
+    "latitude": 25.6298931,
+    "longitude": 85.09926519999999,
+    "place_id": "ChIJJ-tiZABX7TkR1DiSJrpGZ9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-tiZABX7TkR1DiSJrpGZ9w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:53:16"
+  },
+  {
+    "business_name": "Dr. Ravi Ambey",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Neonatal physician, Doctor",
+    "pincode": "211023",
+    "phone_number": "+91 751 245 3519",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "JAH Campus, GR Medical College, 14 B, Kampoo Rd, near Madhav Dispensary, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "area": "J. A. Hospital Campus, Lashkar",
+    "latitude": 26.1934985,
+    "longitude": 78.1605081,
+    "place_id": "ChIJqzksnMzFdjkRRJST47XZeOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzksnMzFdjkRRJST47XZeOA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:53:18"
+  }
+]

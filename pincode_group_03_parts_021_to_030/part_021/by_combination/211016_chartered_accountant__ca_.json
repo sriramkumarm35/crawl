@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CA Neha Gupta",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "211016",
+    "phone_number": "+91 82995 15994",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "102 Gariwan Tola, Uttar Pradesh 211003",
+    "area": "Miurabad",
+    "latitude": 25.4395536,
+    "longitude": 81.82483859999999,
+    "place_id": "ChIJB77chBTLmjkRn4G_tZDHdag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB77chBTLmjkRn4G_tZDHdag",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:24"
+  },
+  {
+    "business_name": "CA Kshitiz Goel",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "102/113-A, Gariwan Tola, Miurabad, Prayagraj, Uttar Pradesh 211003",
+    "area": "Gariwan Tola, Miurabad",
+    "latitude": 25.4394726,
+    "longitude": 81.82482259999999,
+    "place_id": "ChIJrXUmLCXLmjkR_jB-cqSUj68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXUmLCXLmjkR_jB-cqSUj68",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:24"
+  }
+]

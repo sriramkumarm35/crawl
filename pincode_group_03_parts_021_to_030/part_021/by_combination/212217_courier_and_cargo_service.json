@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Courier & Parcel",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "212217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Police Station Thana, Sultanpur Ghosh, Khaga, Uttar Pradesh 212653",
+    "area": "212217",
+    "latitude": 25.8230167,
+    "longitude": 81.214051,
+    "place_id": "ChIJtUcQEI4VmzkRPqjRRN3WmPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUcQEI4VmzkRPqjRRN3WmPc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:28"
+  },
+  {
+    "business_name": "Vakrangee Kendra",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, ATM, Bank, Insurance agency",
+    "pincode": "212217",
+    "phone_number": "+91 22 6776 5178",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "At Post Nasirpur Tal Khaga Dist Fatehpur 212641, Nasirpur, Uttar Pradesh 212641",
+    "area": "Nasirpur",
+    "latitude": 25.539171999999997,
+    "longitude": 81.2296889,
+    "place_id": "ChIJU5RHf-A2mzkR1DZu2g_ZcXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5RHf-A2mzkR1DZu2g_ZcXY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:28"
+  }
+]

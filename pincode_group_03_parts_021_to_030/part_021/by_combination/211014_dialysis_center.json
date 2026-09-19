@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, Secundrabad",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "211014",
+    "phone_number": "+91 88513 41695",
+    "website": "https://dcdc.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7th floor, DCDC Dialysis Center, IP block, GANDHI MEDICAL COLLEGE GANDHI HOSPITAL, Musheerabad, Walker Town, Bhoiguda, Secunderabad, Telangana 500020",
+    "area": "Musheerabad, Walker Town, Bhoiguda",
+    "latitude": 17.422729399999998,
+    "longitude": 78.50409069999999,
+    "place_id": "ChIJn1YDDgKZyzsRcqmWx3zsIa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1YDDgKZyzsRcqmWx3zsIa8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:36:48"
+  },
+  {
+    "business_name": "7MED Rishikesh – AIIMS",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "211014",
+    "phone_number": "N/A",
+    "website": "http://www.7medindia.com/our-clinics/7med-rishikesh-aiims/",
+    "rating": 4.7,
+    "reviews_count": 43,
+    "address": "7Med Dialysis Center, AIIMS Rishikesh Virbhadra Road Shivaji Nagar, near Barrage, Sturida Colony, Rishikesh, Uttarakhand 249203",
+    "area": "Sturida Colony",
+    "latitude": 30.0809426,
+    "longitude": 78.2860654,
+    "place_id": "ChIJQR7xMCA_CTkRTfGkIuuzIbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQR7xMCA_CTkRTfGkIuuzIbc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:36:48"
+  }
+]

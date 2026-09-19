@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S. Car Washing Center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "211012",
+    "phone_number": "+91 99359 14840",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sec-C 177, Shantipuram, Near BSNL Office, Phaphamau, Allahabad, Prayagraj, Uttar Pradesh 211013",
+    "area": "Sector-C, Shantipuram",
+    "latitude": 25.528829299999998,
+    "longitude": 81.85483459999999,
+    "place_id": "ChIJAwAAQB3KmjkRZpTgPSfmy1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwAAQB3KmjkRZpTgPSfmy1w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:06"
+  },
+  {
+    "business_name": "Bansal Ford",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto Dent Removal Service Station",
+    "pincode": "211012",
+    "phone_number": "+91 91744 07702",
+    "website": "https://www.india.ford.com/locate-dealer/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "94, WN 2, Raghu Raj Ngr, Revenue Inspector Circle, NH 75, Panna Khajuraho Rd, opp. Sarthak Hospital, Amoudhakala, Pateri, Satna, Madhya Pradesh 485001",
+    "area": "Amoudhakala, Pateri",
+    "latitude": 24.5766667,
+    "longitude": 80.7977918,
+    "place_id": "ChIJcd-n32KAgzkR2w3GPHmdgK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcd-n32KAgzkR2w3GPHmdgK4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:06"
+  }
+]

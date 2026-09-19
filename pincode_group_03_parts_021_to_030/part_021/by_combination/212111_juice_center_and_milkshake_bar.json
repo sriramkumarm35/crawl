@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Juice Centre Parel",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Cafe, Fast food restaurant",
+    "pincode": "212111",
+    "phone_number": "+91 76449 17777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 3 Sonas Tower, Opp Premier Theatre, Next st Paul High School,, Dr B A Road,, Mumbai, Maharashtra 400012",
+    "area": "Dadar East",
+    "latitude": 19.006919699999997,
+    "longitude": 72.841194,
+    "place_id": "ChIJ41nfO-XO5zsRQMK9P5q_kZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41nfO-XO5zsRQMK9P5q_kZI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:05:59"
+  },
+  {
+    "business_name": "Amar Fast Food & Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Juice shop",
+    "pincode": "212111",
+    "phone_number": "+91 99673 28212",
+    "website": "https://amarrestaurant.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ishwar Bhuvan, 39/D, N.A Purandare Marg, Charni Road East, Sea Face, Chowpatty, Girgaon, Mumbai, Maharashtra 400007",
+    "area": "Charni Road East, Sea Face, Chowpatty, Girgaon",
+    "latitude": 18.954598999999998,
+    "longitude": 72.8148025,
+    "place_id": "ChIJaV83vhrO5zsRI1dKm7osmHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaV83vhrO5zsRI1dKm7osmHE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:05:59"
+  }
+]

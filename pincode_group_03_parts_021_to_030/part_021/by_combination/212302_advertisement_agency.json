@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Telicom",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "212302",
+    "phone_number": "+91 78970 22867",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Telicom, 212302, India",
+    "area": "212302",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ39YeW1FbhTkRanQPxsCX4zI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39YeW1FbhTkRanQPxsCX4zI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:25"
+  },
+  {
+    "business_name": "Kushwaha Treaders",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing consultant, Store",
+    "pincode": "212302",
+    "phone_number": "+91 99197 17061",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "32, Mandawa, Uttar Pradesh 212307",
+    "area": "212302",
+    "latitude": 25.2239336,
+    "longitude": 81.99969,
+    "place_id": "ChIJ70cbVQhFhTkRAAAAMK4N8RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70cbVQhFhTkRAAAAMK4N8RU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:25"
+  }
+]

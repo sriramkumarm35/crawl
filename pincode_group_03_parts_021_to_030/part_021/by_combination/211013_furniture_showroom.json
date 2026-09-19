@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soft furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sec-D 284, near gunda chouraha, Sector G, Shantipuram, Phaphamau, Uttar Pradesh 211013",
+    "area": "Sector G, Shantipuram",
+    "latitude": 25.528273,
+    "longitude": 81.8542207,
+    "place_id": "ChIJJQefRwLLmjkRKLb04o3wZkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQefRwLLmjkRKLb04o3wZkI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:22"
+  },
+  {
+    "business_name": "Sainik electronics and furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Electronics store, Wholesaler",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shantipuram, Phaphamau, Gohari, Uttar Pradesh 211013",
+    "area": "Shantipuram",
+    "latitude": 25.550054499999998,
+    "longitude": 81.8557696,
+    "place_id": "ChIJVYHREgDJmjkRgrcko24WD60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYHREgDJmjkRgrcko24WD60",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:22"
+  }
+]

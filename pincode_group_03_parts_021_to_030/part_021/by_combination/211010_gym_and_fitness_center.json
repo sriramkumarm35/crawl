@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Health Club Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "211010",
+    "phone_number": "+91 78603 55109",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "In basement, of Vinayak Pipe Store, Naini, Prayagraj, Uttar Pradesh 211010",
+    "area": "Naini",
+    "latitude": 25.355314999999997,
+    "longitude": 81.88669159999999,
+    "place_id": "ChIJpYGhy7FLhTkRHvo-qSASuXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYGhy7FLhTkRHvo-qSASuXM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:11"
+  },
+  {
+    "business_name": "Hostel Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "211010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 48,
+    "address": "8WR3+H6G, Vimal Sadan Boys Hostel, UPSIDC, Naini, Chak Noor, Uttar Pradesh 211010",
+    "area": "211010",
+    "latitude": 25.3414298,
+    "longitude": 81.9030628,
+    "place_id": "ChIJ4c5lwoZJhTkROq6dN3KSgwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4c5lwoZJhTkROq6dN3KSgwg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:12"
+  }
+]

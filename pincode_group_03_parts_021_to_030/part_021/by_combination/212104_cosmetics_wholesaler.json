@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Cosmetic And General Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "212104",
+    "phone_number": "+91 73182 60332",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill- Sikara Kala, Post-Dadwa Pakseda, Mirzapur, Uttar Pradesh 231303",
+    "area": "Mirzapur",
+    "latitude": 25.1721181,
+    "longitude": 82.3662535,
+    "place_id": "ChIJsw7t5TbzjzkRQ4SJcVqnxAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsw7t5TbzjzkRQ4SJcVqnxAk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:55:37"
+  },
+  {
+    "business_name": "Lippose Cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "212104",
+    "phone_number": "+91 88743 23441",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Meja Khas, Uttar Pradesh 212302",
+    "area": "212104",
+    "latitude": 25.1421566,
+    "longitude": 82.10522759999999,
+    "place_id": "ChIJJw4gaM5dhTkRMgfMh_ZinPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJw4gaM5dhTkRMgfMh_ZinPI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:55:37"
+  }
+]

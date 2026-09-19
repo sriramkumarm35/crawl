@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grameen Kulfi",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "211018",
+    "phone_number": "+91 96284 17723",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "FR5Q+FVP, Tej Bahdur Sapru Rd, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Civil Lines",
+    "latitude": 25.4587067,
+    "longitude": 81.8396972,
+    "place_id": "ChIJm0UXVgDLmjkRFLKHq2NYXsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0UXVgDLmjkRFLKHq2NYXsI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:48"
+  },
+  {
+    "business_name": "Creambell Scoopers Ice Cream Parlour Meerapur",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Restaurant",
+    "pincode": "211018",
+    "phone_number": "+91 80054 79338",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 43,
+    "address": "188A / 255 C.L Plaza Meerapur, near Khatri Phatshala Chauraha, Prayagraj, Uttar Pradesh 211003",
+    "area": "Meerapur",
+    "latitude": 25.4303807,
+    "longitude": 81.8297613,
+    "place_id": "ChIJDb3fOiw1hTkRF94p8hqt2uU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDb3fOiw1hTkRF94p8hqt2uU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:51"
+  }
+]

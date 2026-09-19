@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Grocer",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "211015",
+    "phone_number": "+91 94504 07977",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "CRQ9+VQQ, Khuldabad, Lukarganj, Prayagraj, Uttar Pradesh 211016",
+    "area": "Khuldabad, Lukarganj",
+    "latitude": 25.439703299999998,
+    "longitude": 81.8194745,
+    "place_id": "ChIJkWZNzCvLmjkRm6mORK4rnPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWZNzCvLmjkRm6mORK4rnPc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:02"
+  },
+  {
+    "business_name": "Famous Veg Biryani",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "211015",
+    "phone_number": "+91 96828 73661",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "60 Feet Rd, near singh medical store, Rajrooppur, Prayagraj, Uttar Pradesh 211011",
+    "area": "Rajrooppur",
+    "latitude": 25.4358664,
+    "longitude": 81.7891934,
+    "place_id": "ChIJkcnXWInLmjkRLegY2Qqx_ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcnXWInLmjkRLegY2Qqx_ww",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:02"
+  }
+]

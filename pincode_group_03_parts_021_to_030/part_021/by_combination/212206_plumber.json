@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak kumar",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "212206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9GG4+4GC, Ram Leela Maidan Rd, Saray Ankil, Ghosiya, Uttar Pradesh 212216",
+    "area": "212206",
+    "latitude": 25.375313499999997,
+    "longitude": 81.50627349999999,
+    "place_id": "ChIJm-ZxdADVhDkR0uJWNQxQmNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-ZxdADVhDkR0uJWNQxQmNg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:17:12"
+  },
+  {
+    "business_name": "Dilip kundan plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "212206",
+    "phone_number": "+91 83770 38034",
+    "website": "https://dilipkundanplumber.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "371, Gali No. 1, near vidhya niketan public school, Devilal Colony, Sector 9, Gurugram, Haryana 122001",
+    "area": "Devilal Colony, Sector 9",
+    "latitude": 28.461020299999998,
+    "longitude": 77.0010642,
+    "place_id": "ChIJ0UZutBYXDTkR2QX2DFnf8ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UZutBYXDTkR2QX2DFnf8ho",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:17:13"
+  }
+]

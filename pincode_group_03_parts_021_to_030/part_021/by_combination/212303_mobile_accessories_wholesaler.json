@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Bazar",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "212303",
+    "phone_number": "+91 93059 99990",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Karamat Ki Chowki, near Aslam chaiPrayagraj, Kareli, Daiwghat, Uttar Pradesh 211016",
+    "area": "Kareli",
+    "latitude": 25.424923399999997,
+    "longitude": 81.8127129,
+    "place_id": "ChIJGzOcN9A0hTkRaaoQqnyMEeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzOcN9A0hTkRaaoQqnyMEeg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:56"
+  },
+  {
+    "business_name": "S. K Brothers mobile shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "212303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "C. O. D Gate Dhanuwha, COD Rd, Chaka, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Chaka, Naini",
+    "latitude": 25.379585,
+    "longitude": 81.84574839999999,
+    "place_id": "ChIJr__k05I1hTkRXZQW0uJTam4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr__k05I1hTkRXZQW0uJTam4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:56"
+  }
+]

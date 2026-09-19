@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandey Nasta Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "212204",
+    "phone_number": "+91 72330 07020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Road, Chauraha, Daranagar, Kara, Uttar Pradesh 212204",
+    "area": "Road, Chauraha",
+    "latitude": 25.6846991,
+    "longitude": 81.3484021,
+    "place_id": "ChIJe9Ad3LwlmzkRLQSOCUCmt-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9Ad3LwlmzkRLQSOCUCmt-Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:04"
+  },
+  {
+    "business_name": "Ayush Chaat Corner And Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "212204",
+    "phone_number": "+91 80816 75004",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chauraha, Kalyanpur, Keshari, Uttar Pradesh 212217",
+    "area": "Chauraha",
+    "latitude": 25.6459478,
+    "longitude": 81.3662039,
+    "place_id": "ChIJffirbhMlmzkRbzHSIzVR2vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffirbhMlmzkRbzHSIzVR2vc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:04"
+  }
+]

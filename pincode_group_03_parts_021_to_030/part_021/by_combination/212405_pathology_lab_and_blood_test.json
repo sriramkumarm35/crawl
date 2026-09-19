@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishika Pathology",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "212405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J65V+M43, Nibhapur, Uttar Pradesh 222204",
+    "area": "212405",
+    "latitude": 25.6091275,
+    "longitude": 82.2427917,
+    "place_id": "ChIJ1x-g39MHkDkR9J6iIHiBwJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1x-g39MHkDkR9J6iIHiBwJM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:50:13"
+  },
+  {
+    "business_name": "PATHO PLUS DIAGNOSTIC LABORATORY",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "212405",
+    "phone_number": "+91 63512 56871",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "C - 136, MONARCH, TP. 10, GAURAVPATH ROAD, near Nakshatra Heights, Pal Gam, Surat, Gujarat 394510",
+    "area": "Pal Gam",
+    "latitude": 21.1984125,
+    "longitude": 72.7705493,
+    "place_id": "ChIJJToCHANN4DsRDj4YQ76kxAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJToCHANN4DsRDj4YQ76kxAI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:50:14"
+  }
+]

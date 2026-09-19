@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Tour And Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "212109",
+    "phone_number": "+91 78811 41410",
+    "website": "https://anujtourandtravels.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Mahapura, Bahariya, Sarai Aziz Urf Azizpur, Uttar Pradesh 212109",
+    "area": "Mahapura",
+    "latitude": 25.629063,
+    "longitude": 82.0205548,
+    "place_id": "ChIJswM5fNCxmjkRwgRh0ca_-bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswM5fNCxmjkRwgRh0ca_-bQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:04:41"
+  },
+  {
+    "business_name": "Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "212109",
+    "phone_number": "+91 92649 88890",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kadipur, Uttar Pradesh 221507",
+    "area": "212109",
+    "latitude": 25.5140061,
+    "longitude": 81.97529949999999,
+    "place_id": "ChIJhWJvO_CzmjkRzCEBlV48CAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWJvO_CzmjkRzCEBlV48CAE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:04:41"
+  }
+]

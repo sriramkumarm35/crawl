@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Open",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "212106",
+    "phone_number": "+91 63927 69321",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Select City, Bara Khas, Uttar Pradesh 212107",
+    "area": "212106",
+    "latitude": 25.2556196,
+    "longitude": 81.7233595,
+    "place_id": "ChIJWadEFQgxhTkR_MqL2Zn9ZlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWadEFQgxhTkR_MqL2Zn9ZlE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:59:36"
+  },
+  {
+    "business_name": "Teachlink Consultancy Service",
+    "search_category": "Educational Consultant",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "212106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Atarasuiya, Jari Bazar, Uttar Pradesh 212106",
+    "area": "Atarasuiya",
+    "latitude": 25.1854348,
+    "longitude": 81.773326,
+    "place_id": "ChIJDY1dr9o7hTkRYUs05xz_iAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDY1dr9o7hTkRYUs05xz_iAs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:59:38"
+  }
+]

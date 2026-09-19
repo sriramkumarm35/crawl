@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "212203",
+    "phone_number": "+91 94520 15657",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 29,
+    "address": "Lalganj Ajhara, Shitalmau, Uttar Pradesh 230132",
+    "area": "212203",
+    "latitude": 25.9316985,
+    "longitude": 81.702516,
+    "place_id": "ChIJM58go4_vmjkRnVDb-fLz3po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM58go4_vmjkRnVDb-fLz3po",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:38"
+  },
+  {
+    "business_name": "Dr. Abhinav Kush",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Orthopedic clinic, Orthopedic surgeon, Sports medicine clinic",
+    "pincode": "212203",
+    "phone_number": "+91 96675 52026",
+    "website": "https://drabhinavkush.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GROUND FLOOR, VVIP ASSETS, Plot-6, near VDH Store, Raj Nagar Extension, Ghaziabad, Uttar Pradesh 201003",
+    "area": "Raj Nagar Extension",
+    "latitude": 28.7015024,
+    "longitude": 77.4321409,
+    "place_id": "ChIJ7ZgljP_xDDkRd2qNe6bYGC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZgljP_xDDkRd2qNe6bYGC8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:39"
+  }
+]

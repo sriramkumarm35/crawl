@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kareems and kareems Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212205",
+    "phone_number": "+91 88585 23077",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "Rahematali ka purwa, Garhi, Manikpur, Uttar Pradesh 230202",
+    "area": "Garhi",
+    "latitude": 25.780399799999998,
+    "longitude": 81.4056811,
+    "place_id": "ChIJwTzjtQwimzkRuvEznA5ySBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTzjtQwimzkRuvEznA5ySBQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:48"
+  },
+  {
+    "business_name": "Baba Haryana Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212205",
+    "phone_number": "+91 97939 19537",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "J9W8+3M7, Keshari, Uttar Pradesh 212217",
+    "area": "212205",
+    "latitude": 25.645166999999997,
+    "longitude": 81.3666776,
+    "place_id": "ChIJof10TTolmzkRQX0xw9RNxkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJof10TTolmzkRQX0xw9RNxkc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:52"
+  }
+]

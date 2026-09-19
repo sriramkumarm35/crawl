@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vikash general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212107",
+    "phone_number": "+91 91403 31877",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "near sachin dhaba, rigva, Rigwan, Uttar Pradesh 212107",
+    "area": "rigva",
+    "latitude": 25.265751599999998,
+    "longitude": 81.7266049,
+    "place_id": "ChIJ68WfcEgxhTkRpx3HjkFZWqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68WfcEgxhTkRpx3HjkFZWqo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:11"
+  },
+  {
+    "business_name": "RAVIN PROVISION STORE",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212107",
+    "phone_number": "+91 77039 98858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 31, Anand Nagar, Prayagraj, Dhanuha, Uttar Pradesh 212111",
+    "area": "Anand Nagar",
+    "latitude": 25.368104499999998,
+    "longitude": 81.8485522,
+    "place_id": "ChIJCRAiITE1hTkR9liA5yrWATM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRAiITE1hTkR9liA5yrWATM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:13"
+  }
+]

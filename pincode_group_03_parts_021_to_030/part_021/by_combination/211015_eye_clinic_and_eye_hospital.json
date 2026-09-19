@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ainak Eye Care Solutions",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "211015",
+    "phone_number": "+91 80040 77114",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 63,
+    "address": "24, Lukarganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Lukarganj",
+    "latitude": 25.4407715,
+    "longitude": 81.8173528,
+    "place_id": "ChIJ_2mtCmLLmjkRrdiykSyXh3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2mtCmLLmjkRrdiykSyXh3U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:32"
+  },
+  {
+    "business_name": "Krishna Optical",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Pharmacy",
+    "pincode": "211015",
+    "phone_number": "+91 88967 20483",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Krishna Eye Care Optical Cantar, Devprayagam Colony, Jhalwa, Prayagraj, Dadanpur, Uttar Pradesh 211012",
+    "area": "Devprayagam Colony, Jhalwa",
+    "latitude": 25.4353001,
+    "longitude": 81.7713876,
+    "place_id": "ChIJqUjqewk3hTkRA6NszX3yUqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUjqewk3hTkRA6NszX3yUqc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:32"
+  }
+]

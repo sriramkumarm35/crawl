@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jill Andrews Gowns",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop, Clothing alteration service, Dressmaker, Jewelry store",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "https://www.jillandrewsgowns.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1750 Union Ave Ste G, Baltimore, MD 21211, United States",
+    "area": "Woodberry",
+    "latitude": 39.3334943,
+    "longitude": -76.64427599999999,
+    "place_id": "ChIJeTkERdgEyIkRjeuJx_dncFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTkERdgEyIkRjeuJx_dncFI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:10"
+  },
+  {
+    "business_name": "The Wedding Dresser",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Custom tailor, Clothing Accessories Store, Tailor, Wedding store",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "https://www.theweddingdresser.com/?utm_source=google&utm_medium=gbp&utm_campaign=google+business+profile+baltimore&utm_id=google+business+profile",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2 Village Square Ste 235, Baltimore, MD 21210, United States",
+    "area": "Cross Keys",
+    "latitude": 39.3552136,
+    "longitude": -76.6465055,
+    "place_id": "ChIJ1d2V4cYbyIkRDNElKQsF4-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1d2V4cYbyIkRDNElKQsF4-s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:10"
+  }
+]

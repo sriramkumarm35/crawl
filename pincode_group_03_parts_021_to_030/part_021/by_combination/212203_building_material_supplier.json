@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S B Traders Building Material Supplier",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Building materials supplier",
+    "pincode": "212203",
+    "phone_number": "+91 97664 91970",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Vayusena Nagar, Nagpur, Maharashtra 441501",
+    "area": "Vayusena Nagar",
+    "latitude": 21.1675622,
+    "longitude": 79.0070686,
+    "place_id": "ChIJNUkQP2Pq1DsRKs1sMKD2daI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUkQP2Pq1DsRKs1sMKD2daI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:55"
+  },
+  {
+    "business_name": "Nagar Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler",
+    "pincode": "212203",
+    "phone_number": "+91 98111 93171",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-480, Block B, Brij Vihar, doublestory, Ghaziabad, Uttar Pradesh 201011",
+    "area": "Block B, Brij Vihar, doublestory",
+    "latitude": 28.673012399999998,
+    "longitude": 77.33089989999999,
+    "place_id": "ChIJxzyRPD37DDkRqBfBtx0OZ4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzyRPD37DDkRqBfBtx0OZ4w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:56"
+  }
+]

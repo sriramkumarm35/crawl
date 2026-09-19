@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyan Dairy Factory",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier",
+    "pincode": "211012",
+    "phone_number": "+91 522 432 2223",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 330,
+    "address": "WXPH+J5G, Kursi Rd, Guramba, Uttar Pradesh 226026",
+    "area": "211012",
+    "latitude": 26.9351406,
+    "longitude": 80.9792326,
+    "place_id": "ChIJowUrwXlXmTkRlpsQFkrlj9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowUrwXlXmTkRlpsQFkrlj9s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:28"
+  },
+  {
+    "business_name": "Kareli Amul Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Ice cream shop",
+    "pincode": "211012",
+    "phone_number": "+91 72077 70877",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 180,
+    "address": "GTB Nagar, Kareli, Prayagraj, Daiwghat, Uttar Pradesh 211016",
+    "area": "GTB Nagar, Kareli",
+    "latitude": 25.4264027,
+    "longitude": 81.8156687,
+    "place_id": "ChIJTy-9ItE0hTkR-FdWyN2iODQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTy-9ItE0hTkR-FdWyN2iODQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:29"
+  }
+]

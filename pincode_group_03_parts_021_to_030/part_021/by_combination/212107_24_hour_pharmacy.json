@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prayag medical pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212107",
+    "phone_number": "+91 73485 71009",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Asrawe Kalan, Prayagraj, Uttar Pradesh 211012",
+    "area": "212107",
+    "latitude": 25.3852816,
+    "longitude": 81.7370404,
+    "place_id": "ChIJ5ff767MzhTkRt3ZfoUCPxhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ff767MzhTkRt3ZfoUCPxhE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:37"
+  },
+  {
+    "business_name": "Dwivedi Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "212107",
+    "phone_number": "+91 70712 11203",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "57/71, Mundera Chungi, Ghayasuddinpur, Prayagraj, Uttar Pradesh 211011",
+    "area": "Mundera Chungi, Ghayasuddinpur",
+    "latitude": 25.449054399999998,
+    "longitude": 81.7568445,
+    "place_id": "ChIJ8Xm84PjNmjkRPE9atqjd1gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Xm84PjNmjkRPE9atqjd1gU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:38"
+  }
+]

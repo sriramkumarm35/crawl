@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Radhe Veg.",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Family restaurant, Restaurant",
+    "pincode": "211016",
+    "phone_number": "+91 87074 04791",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "CRVG+F9H, Dr KN Katju Rd, Miurabad, Prayagraj, Uttar Pradesh 211001",
+    "area": "Miurabad",
+    "latitude": 25.443675799999998,
+    "longitude": 81.82599599999999,
+    "place_id": "ChIJk1i3_NbKmjkR_Oeybm9Bc-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1i3_NbKmjkR_Oeybm9Bc-E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:06"
+  },
+  {
+    "business_name": "Mata ki Rasoi",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "CRQC+R8G, Old GT Rd, Khuldabad, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "Khuldabad, Kareli",
+    "latitude": 25.4395721,
+    "longitude": 81.8208149,
+    "place_id": "ChIJu7vfYwDLmjkRFKiU-9so3OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7vfYwDLmjkRFKiU-9so3OY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:07"
+  }
+]

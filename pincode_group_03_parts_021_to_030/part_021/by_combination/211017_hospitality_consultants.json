@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divine Hotel Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Business management consultant",
+    "pincode": "211017",
+    "phone_number": "+91 96577 35566",
+    "website": "https://www.divinehotelconsultants.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Prabhat Rd, Apex Colony, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "area": "Apex Colony, Deccan Gymkhana",
+    "latitude": 18.511549,
+    "longitude": 73.8313901,
+    "place_id": "ChIJ8YNYFI6_wjsRt7Wj8-q3fpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YNYFI6_wjsRt7Wj8-q3fpU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:59"
+  },
+  {
+    "business_name": "HospitalityInterns.com",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "211017",
+    "phone_number": "+91 89784 69444",
+    "website": "http://www.hospitalityinterns.com/",
+    "rating": 5,
+    "reviews_count": 118,
+    "address": "2-2-1118/1, 8/m, Shivam Rd, beside IQ chess academy, beside Aira Diagonostics, Prashanti Nagar, New Nallakunta, Hyderabad, Telangana 500044",
+    "area": "Prashanti Nagar, New Nallakunta",
+    "latitude": 17.397439,
+    "longitude": 78.51185199999999,
+    "place_id": "ChIJBZ2-SwSZyzsRhmDoEJ9KDg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZ2-SwSZyzsRhmDoEJ9KDg8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:59"
+  }
+]

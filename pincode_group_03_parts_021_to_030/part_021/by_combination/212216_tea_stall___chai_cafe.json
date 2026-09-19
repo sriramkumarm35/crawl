@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crazy Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "212216",
+    "phone_number": "+91 72100 50899",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HCJ2+H8C, Sector 118, Noida, Uttar Pradesh 201301",
+    "area": "Sector 118",
+    "latitude": 28.5814679,
+    "longitude": 77.4008016,
+    "place_id": "ChIJj0NVG9rvDDkR0A_EYPHYUWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0NVG9rvDDkR0A_EYPHYUWA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:18"
+  },
+  {
+    "business_name": "Sunil Coldrink And Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "212216",
+    "phone_number": "+91 99844 49022",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9GG9+PC8, Fakirabad, Saray Ankil, Faridabad, Uttar Pradesh 212216",
+    "area": "Fakirabad",
+    "latitude": 25.3767903,
+    "longitude": 81.5185719,
+    "place_id": "ChIJCzwQY40rhTkRUmhsz3OBEmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzwQY40rhTkRUmhsz3OBEmI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:22"
+  }
+]

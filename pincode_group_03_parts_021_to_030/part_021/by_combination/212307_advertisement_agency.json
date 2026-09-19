@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIPU",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "212307",
+    "phone_number": "+91 87564 29313",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "101, BALRAMPUR BALRAMPUR, Barethi, Prayagraj, Uttar Pradesh 221505",
+    "area": "212307",
+    "latitude": 25.412253699999997,
+    "longitude": 82.0746233,
+    "place_id": "ChIJ10s_XvhThTkRorMIYscl2kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10s_XvhThTkRorMIYscl2kM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:01"
+  },
+  {
+    "business_name": "Shyam Deri",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "212307",
+    "phone_number": "+91 90829 55132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "00, Hanuman Ganj, Uttar Pradesh 221505",
+    "area": "212307",
+    "latitude": 25.416506,
+    "longitude": 82.0252991,
+    "place_id": "ChIJ0Swi9JtNhTkR-z8uIIfhmJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Swi9JtNhTkR-z8uIIfhmJw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:01"
+  }
+]

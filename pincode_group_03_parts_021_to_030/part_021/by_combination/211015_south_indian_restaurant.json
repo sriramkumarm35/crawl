@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sai Dosa Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "211015",
+    "phone_number": "+91 87078 73185",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4, Khuldabad, Kareli, Prayagraj, Uttar Pradesh 211001",
+    "area": "Khuldabad, Kareli",
+    "latitude": 25.439717599999998,
+    "longitude": 81.8209253,
+    "place_id": "ChIJ8TqIC7bLmjkR17tai-JlSZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TqIC7bLmjkR17tai-JlSZI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:12"
+  },
+  {
+    "business_name": "AINNI FOOD & MANY MORE ( Cake and Food delivery in Prayagraj )",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bakery and Cake Shop",
+    "pincode": "211015",
+    "phone_number": "+91 83031 73509",
+    "website": "https://ainnifoodandmanymore.inmyarea.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mod, SHUKLA MARKET, IIIT Rd, Devprayagam Colony, Jhalwa, Prayagraj, Dadanpur, Uttar Pradesh 211015",
+    "area": "Devprayagam Colony, Jhalwa",
+    "latitude": 25.4348922,
+    "longitude": 81.7705024,
+    "place_id": "ChIJL1mm0jzNmjkRm6ltKRAcuBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1mm0jzNmjkRm6ltKRAcuBk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:12"
+  }
+]

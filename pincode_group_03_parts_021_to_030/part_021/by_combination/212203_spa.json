@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lotus Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa",
+    "pincode": "212203",
+    "phone_number": "+91 96255 03363",
+    "website": "https://www.lotusspavaishali.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rishabh 96, Cloud9 Towers, Sector 3F, Sector-1, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Sector 3F, Sector-1, Vaishali",
+    "latitude": 28.641470899999998,
+    "longitude": 77.3347114,
+    "place_id": "ChIJbRi74kP7DDkRPxWcJpXFrIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRi74kP7DDkRPxWcJpXFrIs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:12:02"
+  },
+  {
+    "business_name": "Nirwana International Spa-Massage Spa In Vaishali | Massage Service In Vaishali | Spa In Sector 4 Vaishali",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa, Spa and health club, Thai massage therapist",
+    "pincode": "212203",
+    "phone_number": "+91 92115 82800",
+    "website": "https://nirwanainternationalspa.blogspot.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot no 17, above Raymond Showroom, near Shopprix Mall Road, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201019",
+    "area": "Sector 4, Vaishali",
+    "latitude": 28.6438654,
+    "longitude": 77.3411694,
+    "place_id": "ChIJr0TYOl37DDkReTBkC8zxr6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0TYOl37DDkReTBkC8zxr6o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:12:02"
+  }
+]

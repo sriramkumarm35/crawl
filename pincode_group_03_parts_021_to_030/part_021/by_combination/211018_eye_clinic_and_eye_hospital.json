@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Hari Netralaya",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "211018",
+    "phone_number": "+91 91406 60040",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "75, CY Chintamani Rd, Darbhanga Colony, George Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "Darbhanga Colony, George Town",
+    "latitude": 25.4547207,
+    "longitude": 81.85130939999999,
+    "place_id": "ChIJTXf-d7vKmjkRzesASFG_LHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXf-d7vKmjkRzesASFG_LHk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:44:03"
+  },
+  {
+    "business_name": "Prayag Netralaya",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "211018",
+    "phone_number": "+91 91983 68434",
+    "website": "https://www.prayagnetralaya.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "127, Tagore Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "Tagore Town",
+    "latitude": 25.4581122,
+    "longitude": 81.8647122,
+    "place_id": "ChIJ0z6ld1nLmjkR2dA2VN1LGWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0z6ld1nLmjkR2dA2VN1LGWI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:44:03"
+  }
+]

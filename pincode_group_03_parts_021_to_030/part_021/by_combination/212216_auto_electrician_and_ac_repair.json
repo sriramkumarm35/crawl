@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JS CAR REMEDY",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop, Air compressor repair service, Auto painting, Auto repair shop, Auto restoration service, Auto Accessories Store, Car repair and maintenance service, Car wash, Electrical repair shop, Small engine repair service",
+    "pincode": "212216",
+    "phone_number": "+91 92118 16868",
+    "website": "https://www.jscarremedy.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B3, Sector 7, Pocket B, Patel Nagar 2nd, Patel Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Sector 7, Pocket B, Patel Nagar 2nd, Patel Nagar",
+    "latitude": 28.6750074,
+    "longitude": 77.4180102,
+    "place_id": "ChIJpbHVc9_xDDkROruggHv5qd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbHVc9_xDDkROruggHv5qd0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:48"
+  },
+  {
+    "business_name": "AC Drives Repair Services",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "212216",
+    "phone_number": "+91 120 434 8739",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sector 4, Sector 2, Vasundhara, Ghaziabad, Peera Mahua, Uttar Pradesh 241125",
+    "area": "Sector 4, Sector 2, Vasundhara",
+    "latitude": 27.570588599999997,
+    "longitude": 80.0981869,
+    "place_id": "ChIJP_UOwpv6DDkRbft08g_wYQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_UOwpv6DDkRbft08g_wYQ8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:51"
+  }
+]

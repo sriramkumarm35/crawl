@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Team Roadside",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Car repair and maintenance service, Service establishment",
+    "pincode": "212302",
+    "phone_number": "N/A",
+    "website": "https://dreamteamroadside.com/",
+    "rating": 5,
+    "reviews_count": 155,
+    "address": "Dream Team Roadside, 212302, India",
+    "area": "212302",
+    "latitude": 33.6511645,
+    "longitude": -117.28585939999999,
+    "place_id": "ChIJc47CKDPAI2YR62Idr9ir8Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc47CKDPAI2YR62Idr9ir8Ng",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:35:23"
+  },
+  {
+    "business_name": "Towing Less",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "212302",
+    "phone_number": "N/A",
+    "website": "https://towingless.com/local-towing/il/elgin/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Towing Less, 212302, India",
+    "area": "212302",
+    "latitude": 42.0375775,
+    "longitude": -88.338985,
+    "place_id": "ChIJa_dAXJAFD4gRhCJmBQ2dKT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_dAXJAFD4gRhCJmBQ2dKT8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:35:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CATS & DOG PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "212217",
+    "phone_number": "+91 91401 30643",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "195/20, Charbatti Chauraha, Golaganj, Kaiser Bagh, Lucknow, Uttar Pradesh 226018",
+    "area": "Golaganj, Maulviganj, Kaiser Bagh",
+    "latitude": 26.8538091,
+    "longitude": 80.9253516,
+    "place_id": "ChIJRX4H_Zn9mzkRxmAZsVnsPmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRX4H_Zn9mzkRxmAZsVnsPmo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:29:07"
+  },
+  {
+    "business_name": "PRAYAG PET WORLD & PET CLINIC",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet adoption service, Pet cemetery, Pet groomer, Pet sitter, Pet store, Pet trainer",
+    "pincode": "212217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9RWX+68M, PAC Road, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.3955979,
+    "longitude": 81.8482844,
+    "place_id": "ChIJtZ3EhYk1hTkRg3dfjO4rBzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZ3EhYk1hTkRg3dfjO4rBzE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:29:09"
+  }
+]

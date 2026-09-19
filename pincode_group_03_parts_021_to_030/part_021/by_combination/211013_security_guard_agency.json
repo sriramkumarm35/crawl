@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "behind RAF Road, Camp, Shantipuram, Phaphamau, Korsand, Uttar Pradesh 211013",
+    "area": "Camp, Shantipuram",
+    "latitude": 25.5386413,
+    "longitude": 81.85665399999999,
+    "place_id": "ChIJA_7lC5DJmjkRzcXlBDEQJuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_7lC5DJmjkRzcXlBDEQJuo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:54"
+  },
+  {
+    "business_name": "Mahakaal security services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Korsand, Uttar Pradesh 211013",
+    "area": "211013",
+    "latitude": 25.5463253,
+    "longitude": 81.8536223,
+    "place_id": "ChIJkd5B7U3JmjkRlmhaLzb9Yfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkd5B7U3JmjkRlmhaLzb9Yfw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MURSHID ELECTRICAL",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211017",
+    "phone_number": "+91 93532 12933",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 66, Nyaya Marg, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Dhoomanganj",
+    "latitude": 25.4545615,
+    "longitude": 81.82020729999999,
+    "place_id": "ChIJAdZddDXLmjkREqDSzS4cs9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdZddDXLmjkREqDSzS4cs9Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:57"
+  },
+  {
+    "business_name": "General Shop",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211017",
+    "phone_number": "+91 97952 51891",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "General Shop High Court, Uttar Pradesh 211001",
+    "area": "Canton, Dhoomanganj",
+    "latitude": 25.4523849,
+    "longitude": 81.8226853,
+    "place_id": "ChIJ2eqZz7bLmjkRhS2tTRgka8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2eqZz7bLmjkRhS2tTRgka8s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:57"
+  }
+]

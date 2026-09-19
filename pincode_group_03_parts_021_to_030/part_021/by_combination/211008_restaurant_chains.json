@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Hub",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "211008",
+    "phone_number": "+91 96169 53471",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "CR4W+R59, Gangotri Nagar, Prayagraj, Madauka Kachhar, Uttar Pradesh 211008",
+    "area": "Gangotri Nagar",
+    "latitude": 25.4070309,
+    "longitude": 81.84548629999999,
+    "place_id": "ChIJH_KkX2s1hTkRMo4Qud9d4DY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_KkX2s1hTkRMo4Qud9d4DY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:54"
+  },
+  {
+    "business_name": "HOTEL ESSENCE INN AND RESTAURANT",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Sweet shop, Hotel",
+    "pincode": "211008",
+    "phone_number": "+91 73550 61425",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 600,
+    "address": "Rambagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Rambagh",
+    "latitude": 25.4393848,
+    "longitude": 81.84735529999999,
+    "place_id": "ChIJsQg9197LmjkRwDtVXHIZJT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQg9197LmjkRwDtVXHIZJT0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:56"
+  }
+]

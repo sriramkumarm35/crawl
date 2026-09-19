@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratyansh family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "212202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "karari road, Katra Mode, Uttar Pradesh 212216",
+    "area": "212202",
+    "latitude": 25.393866499999998,
+    "longitude": 81.55072969999999,
+    "place_id": "ChIJvSiFfm8rhTkRXY9P1tRxTH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSiFfm8rhTkRXY9P1tRxTH4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:37"
+  },
+  {
+    "business_name": "Pratyansh family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "212202",
+    "phone_number": "+91 76209 46425",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "karari road, Katra Mode, Uttar Pradesh 212216",
+    "area": "212202",
+    "latitude": 25.3964982,
+    "longitude": 81.5425817,
+    "place_id": "ChIJBfRXsdUrhTkRX-3afuOWD5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfRXsdUrhTkRX-3afuOWD5s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:37"
+  }
+]

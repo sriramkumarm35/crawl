@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V K Steel Fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "212401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durgaganj, Uttar Pradesh 221404",
+    "area": "212401",
+    "latitude": 25.477476199999998,
+    "longitude": 82.33705049999999,
+    "place_id": "ChIJu55UMKkDkDkRFrLWdFsGNKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu55UMKkDkDkRFrLWdFsGNKI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:45:44"
+  },
+  {
+    "business_name": "Ankush Aluminium And Glass Fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "212401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H67F+RHH, Soraon, Uttar Pradesh 212405",
+    "area": "212401",
+    "latitude": 25.5645718,
+    "longitude": 82.2239946,
+    "place_id": "ChIJw9RtHKcHkDkRVKwd1NnPotU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9RtHKcHkDkRVKwd1NnPotU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:45:45"
+  }
+]

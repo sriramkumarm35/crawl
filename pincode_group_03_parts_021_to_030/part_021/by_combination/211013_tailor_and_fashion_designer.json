@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "211013",
+    "phone_number": "+91 81156 24973",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jhunsi Rd, Sahson Bazar, Sahson, Sadmapur Gair Abad, Uttar Pradesh 221507",
+    "area": "Sahson Bazar",
+    "latitude": 25.482990299999997,
+    "longitude": 81.97680079999999,
+    "place_id": "ChIJq3Q16gyzmjkRIcDb0xw5z14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3Q16gyzmjkRIcDb0xw5z14",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:38"
+  },
+  {
+    "business_name": "Sameera ladies Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "211013",
+    "phone_number": "+91 73178 07609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "chauraha, Banaras Rd, Phaphamau, prayagraj, Uttar Pradesh 211013",
+    "area": "211013",
+    "latitude": 25.5251634,
+    "longitude": 81.8649076,
+    "place_id": "ChIJ6f6FSQfKmjkRb0yKxiG3Cag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6f6FSQfKmjkRb0yKxiG3Cag",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:42"
+  }
+]

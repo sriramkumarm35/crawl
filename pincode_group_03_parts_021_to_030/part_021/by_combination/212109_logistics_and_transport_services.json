@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Carrying Corporation",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "212109",
+    "phone_number": "+91 512 260 8917",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "154/2, Phoolpur, Allahabad, Uttar Pradesh 212402",
+    "area": "212109",
+    "latitude": 25.616108,
+    "longitude": 82.06400699999999,
+    "place_id": "ChIJxSz74JSvmjkRXAha6RlZ3O0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSz74JSvmjkRXAha6RlZ3O0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:04:43"
+  },
+  {
+    "business_name": "TCI FREIGHT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "212109",
+    "phone_number": "+91 98188 66824",
+    "website": "http://www.tcifreight.in/",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "DIST, near BUS STAND, Ismailganj, Phoolpur, Uttar Pradesh 212402",
+    "area": "Ismailganj",
+    "latitude": 25.55104,
+    "longitude": 82.088374,
+    "place_id": "ChIJNVVVlYaumjkRnn54ZO1YuTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVVVlYaumjkRnn54ZO1YuTE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:04:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Door2Door Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Carpet cleaning service",
+    "pincode": "212401",
+    "phone_number": "+91 88514 01212",
+    "website": "https://doortodoorcarwash.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ground Floor, X-14, Block A, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Block A, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.531937499999998,
+    "longitude": 77.2715942,
+    "place_id": "ChIJ0QmdmLvhDDkRdcYc_2GiHfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QmdmLvhDDkRdcYc_2GiHfY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:45"
+  },
+  {
+    "business_name": "Ola Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto painting",
+    "pincode": "212401",
+    "phone_number": "+91 88514 01212",
+    "website": "https://olacarwash.com/okhla",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, X-14, 2, Sanjay Colony II, Pocket Z, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Sanjay Colony II, Pocket Z, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5422405,
+    "longitude": 77.278042,
+    "place_id": "ChIJrRAoxfPhDDkRCqMD3eVV7kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRAoxfPhDDkRCqMD3eVV7kI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:45"
+  }
+]

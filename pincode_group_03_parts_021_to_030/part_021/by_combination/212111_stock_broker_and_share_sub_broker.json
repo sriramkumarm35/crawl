@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maxiom Wealth",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial institution, Financial planner, Investment company, Investment service",
+    "pincode": "212111",
+    "phone_number": "+91 94296 92332",
+    "website": "https://maxiomwealth.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd Floor, AWFIS, c2, Road No. 36, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "CBI Colony, Jubilee Hills",
+    "latitude": 17.433875999999998,
+    "longitude": 78.404275,
+    "place_id": "ChIJwYgwzXGTyzsR-6Gm6FNDHgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYgwzXGTyzsR-6Gm6FNDHgA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:07:17"
+  },
+  {
+    "business_name": "Nidhi Broking Services (NBS) Pvt Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "212111",
+    "phone_number": "+91 22 2530 1134",
+    "website": "https://www.nidhibroking.com/",
+    "rating": 4.9,
+    "reviews_count": 268,
+    "address": "Office 16 & 17, 2nd Floor, Shreeji Arcade, Almeida Rd, opp. Nitin Co, Thane (W, Thane, Maharashtra 400602",
+    "area": "Namdeo Vadi, Panch Pakhdi, Thane (W",
+    "latitude": 19.1989521,
+    "longitude": 72.9645252,
+    "place_id": "ChIJq6qqjiG55zsRhHqYs0qNJVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqjiG55zsRhHqYs0qNJVc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:07:18"
+  }
+]

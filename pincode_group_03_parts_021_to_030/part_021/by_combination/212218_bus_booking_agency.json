@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit sen",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "212218",
+    "phone_number": "+91 63937 67273",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "black kadirpur Newada Chail, Newada Rd, Nawada, Kadirpur Newada, Uttar Pradesh 212218",
+    "area": "212218",
+    "latitude": 25.373112,
+    "longitude": 81.60330619999999,
+    "place_id": "ChIJYfEjZEwrhTkR5TFjS5Wzwqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfEjZEwrhTkR5TFjS5Wzwqo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:30"
+  },
+  {
+    "business_name": "Anamika Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "212218",
+    "phone_number": "+91 85889 81008",
+    "website": "https://www.anamikabus.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "G.9, Palika place, 4, Panchkuian Rd, near Rama Krishna Marg Metro Station Gate, Block 42, DIZ Area, Gole Market, New Delhi, Delhi 110001",
+    "area": "Block 42, DIZ Area, Gole Market",
+    "latitude": 28.6385644,
+    "longitude": 77.2086861,
+    "place_id": "ChIJdw06yan9DDkRY-qzp7gEIKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdw06yan9DDkRY-qzp7gEIKs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:32"
+  }
+]

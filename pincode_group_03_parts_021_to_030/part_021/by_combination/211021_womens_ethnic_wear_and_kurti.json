@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juniper Fashion",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier, Clothing manufacturer, Clothing store, Clothing wholesaler",
+    "pincode": "211021",
+    "phone_number": "+91 98280 45242",
+    "website": "https://juniperfashion.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "G-93, Ricco Industrial Area, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "area": "Ricco Industrial Area, Sitapura Industrial Area, Sitapura",
+    "latitude": 26.7826141,
+    "longitude": 75.8361007,
+    "place_id": "ChIJ46cSCt-1bTkRjfSUHPoczLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46cSCt-1bTkRjfSUHPoczLo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:24"
+  },
+  {
+    "business_name": "Fashion Cottage",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Women's clothing store",
+    "pincode": "211021",
+    "phone_number": "+91 98114 59371",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C, 9/15, Bhagwan Mahavir Marg, Pocket 9, Sector 8C, Rohini, New Delhi, Delhi, 110085",
+    "area": "Pocket 9, Sector 8C, Rohini",
+    "latitude": 28.704351199999998,
+    "longitude": 77.1280925,
+    "place_id": "ChIJ8y6sqN8DDTkR_Dr63xcQRto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y6sqN8DDTkR_Dr63xcQRto",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:24"
+  }
+]

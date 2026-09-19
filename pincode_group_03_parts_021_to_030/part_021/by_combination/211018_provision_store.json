@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manjeet Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211018",
+    "phone_number": "+91 70071 88758",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8/10, Tej Bahdur Sapru Rd, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211003",
+    "area": "Agnipath Colony, Civil Lines",
+    "latitude": 25.4579249,
+    "longitude": 81.83983769999999,
+    "place_id": "ChIJRwFhxzHLmjkRkP9mEWc2Btk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwFhxzHLmjkRkP9mEWc2Btk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:36"
+  },
+  {
+    "business_name": "Charanjeet Sethi Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211018",
+    "phone_number": "+91 93351 50150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "58/A/42, Nawab Yusuf Rd, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4481483,
+    "longitude": 81.8316054,
+    "place_id": "ChIJozPJkF7LmjkRq_OWOHoCJrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozPJkF7LmjkRq_OWOHoCJrQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kukdu Ku Chicken & Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "211013",
+    "phone_number": "+91 94540 18063",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ponghatpul, Vishnapuri Colony, Ghayasuddinpur, Prayagraj, Allahabad, Uttar Pradesh 211011",
+    "area": "Vishnapuri Colony, Ghayasuddinpur",
+    "latitude": 25.4516302,
+    "longitude": 81.7517975,
+    "place_id": "ChIJfTxQh6jNmjkRvKPXwny8WfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTxQh6jNmjkRvKPXwny8WfA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:24"
+  },
+  {
+    "business_name": "Pintu Poultry Farm पिंटू मुर्गी फार्म",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Chicken shop, Egg supplier, Meat processor, Meat wholesaler, Poultry store",
+    "pincode": "211013",
+    "phone_number": "+91 96958 56580",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Bani Rd, Bani, Tendue, Uttar Pradesh 221505",
+    "area": "211013",
+    "latitude": 25.4480944,
+    "longitude": 81.99317889999999,
+    "place_id": "ChIJZRixjtWzmjkR6FNYjB1gIL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRixjtWzmjkR6FNYjB1gIL4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:24"
+  }
+]

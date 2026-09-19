@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Hospital Dr. Dhanesh Tripathi",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "GCM4+Q9C, Manjhanpur, Bharesar, Uttar Pradesh 212207",
+    "area": "212202",
+    "latitude": 25.534436499999998,
+    "longitude": 81.4058895,
+    "place_id": "ChIJl5a9KwAvmzkR0xFtv1bHhes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5a9KwAvmzkR0xFtv1bHhes",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:49"
+  },
+  {
+    "business_name": "The Purnima Hospital & Research Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Road, beside District Hospital, Osa, Manjhanpur, Uttar Pradesh 212207",
+    "area": "212202",
+    "latitude": 25.5266104,
+    "longitude": 81.3804104,
+    "place_id": "ChIJKafdZNAvmzkRPw_M0KlSwFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKafdZNAvmzkRPw_M0KlSwFA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:51"
+  }
+]

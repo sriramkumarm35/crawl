@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HARSH Veterinary clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "211019",
+    "phone_number": "+91 79856 28855",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chak, Grand Trunk Rd, Jhusi, Uttar Pradesh 211019",
+    "area": "211019",
+    "latitude": 25.426370799999997,
+    "longitude": 81.9217954,
+    "place_id": "ChIJsRyyAWxLhTkR1mFw7smWzAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRyyAWxLhTkR1mFw7smWzAc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:58"
+  },
+  {
+    "business_name": "ARYA PET CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "211019",
+    "phone_number": "+91 72349 60077",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8/232, Police Chowki Rd, Awas Vikas Colony, Yojna-3, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Awas Vikas Colony, Yojna-3",
+    "latitude": 25.4283046,
+    "longitude": 81.9133222,
+    "place_id": "ChIJK1iPGrJLhTkRqPLezIhVKRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1iPGrJLhTkRqPLezIhVKRw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:59"
+  }
+]

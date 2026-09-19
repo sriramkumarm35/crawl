@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CNC Workshop",
+    "search_category": "CNC Machining and Laser Cutting",
+    "primary_category": "Machine workshop",
+    "all_categories": "Machine workshop",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 41,
+    "address": "7X6R+588, Banaras Hindu University Campus, Varanasi, Uttar Pradesh 221005",
+    "area": "Banaras Hindu University Campus",
+    "latitude": 25.2604099,
+    "longitude": 82.9908289,
+    "place_id": "ChIJQSSs0CoyjjkRoQ1Pt2Wptls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSSs0CoyjjkRoQ1Pt2Wptls",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:21"
+  },
+  {
+    "business_name": "Prayag Machinery",
+    "search_category": "CNC Machining and Laser Cutting",
+    "primary_category": "Machine construction",
+    "all_categories": "Machine construction",
+    "pincode": "212301",
+    "phone_number": "+91 77539 81891",
+    "website": "http://www.prayagmachinery.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "रीवा, रोड, Dandi, Prayagraj, Uttar Pradesh 211008",
+    "area": "Dandi",
+    "latitude": 25.3940143,
+    "longitude": 81.8407746,
+    "place_id": "ChIJNWQCOg81hTkRCZ0nJRkSWKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWQCOg81hTkRCZ0nJRkSWKQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "212405",
+    "phone_number": "+91 90768 04877",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nibhapur, Road, Chauraha, Janghai, Phoolpur, Uttar Pradesh 222204",
+    "area": "Chauraha",
+    "latitude": 25.6078796,
+    "longitude": 82.24387279999999,
+    "place_id": "ChIJK59gEi4HkDkR7YxepzbPK2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK59gEi4HkDkR7YxepzbPK2Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:49:46"
+  },
+  {
+    "business_name": "Ravindra Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "212405",
+    "phone_number": "+91 62630 76386",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Badshahpur Road, Nibhapur, Janghai, Uttar Pradesh 222204",
+    "area": "212405",
+    "latitude": 25.6081047,
+    "longitude": 82.24367649999999,
+    "place_id": "ChIJT9M_zbQHkDkRFAEV1ThVHKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9M_zbQHkDkRFAEV1ThVHKs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:49:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Eye Care Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212205",
+    "phone_number": "+91 99187 73333",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "QC87+QRJ, bishnu nagar mundipur, Lattara, Uttar Pradesh 230202",
+    "area": "212205",
+    "latitude": 25.7669732,
+    "longitude": 81.4145252,
+    "place_id": "ChIJo3i8ABcimzkRMTQY0po78ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3i8ABcimzkRMTQY0po78ks",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:15:05"
+  },
+  {
+    "business_name": "Dr Yaseen Eye Clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "QC97+Q8M, Lattara, Uttar Pradesh 230202",
+    "area": "212205",
+    "latitude": 25.769466299999998,
+    "longitude": 81.4133058,
+    "place_id": "ChIJp_rxzhYimzkRpVak2xs2Ctg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_rxzhYimzkRpVak2xs2Ctg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:15:05"
+  }
+]

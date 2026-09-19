@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Cafe Chai Garam",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 87, Sri Krishna Nagar, Krishna Nagar, Yousufguda, Hyderabad, Telangana 500045",
+    "area": "Sri Krishna Nagar, Krishna Nagar, Yousufguda",
+    "latitude": 17.4321677,
+    "longitude": 78.4255986,
+    "place_id": "ChIJDcECJ_aRyzsRWTeU-Jx9UuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcECJ_aRyzsRWTeU-Jx9UuU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:05:58"
+  },
+  {
+    "business_name": "MBA CHAIWALA MAHEWA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "212111",
+    "phone_number": "+91 72229 05222",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "10c, Indalpur Road beside bank of baroda khan chaurah, Naini, Prayagraj, Uttar Pradesh 211007",
+    "area": "Mahewa, Naini",
+    "latitude": 25.4104726,
+    "longitude": 81.84433369999999,
+    "place_id": "ChIJF0T52VQ1hTkRyb6Mx3Q3pV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0T52VQ1hTkRyb6Mx3Q3pV8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:05:58"
+  }
+]

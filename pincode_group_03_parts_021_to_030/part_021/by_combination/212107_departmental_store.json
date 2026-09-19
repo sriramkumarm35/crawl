@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilip Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "212107",
+    "phone_number": "+91 95598 09082",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Dilip Kirana Store Dilip Kirana Store, Prayagraj, Panwari, Uttar Pradesh 212107",
+    "area": "212107",
+    "latitude": 25.2831269,
+    "longitude": 81.8086695,
+    "place_id": "ChIJQeHeovU3hTkRmKtRwpWn5bI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeHeovU3hTkRmKtRwpWn5bI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:10"
+  },
+  {
+    "business_name": "Gupta Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212107",
+    "phone_number": "+91 63929 98283",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Dhanua Rd, Dandi, Prayagraj, Dadari Ta. Naugawan, Uttar Pradesh 211008",
+    "area": "Dandi",
+    "latitude": 25.3812347,
+    "longitude": 81.8433699,
+    "place_id": "ChIJbRyaGO81hTkRAEpwfNth2bM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRyaGO81hTkRAEpwfNth2bM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:12"
+  }
+]

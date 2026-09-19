@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Repairing King",
+    "search_category": "Plumber",
+    "primary_category": "Air compressor repair service",
+    "all_categories": "Air compressor repair service",
+    "pincode": "211011",
+    "phone_number": "+91 73760 26166",
+    "website": "http://www.repairingking.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "123A/2,Harwara, Dhoomanganj, Prayagraj, U.P, 211012, Prayagraj, Uttar Pradesh 211011",
+    "area": "Harwara, Dhoomanganj",
+    "latitude": 25.4485654,
+    "longitude": 81.7751665,
+    "place_id": "ChIJOQXVPirNmjkROJuIqQrZkDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQXVPirNmjkROJuIqQrZkDE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:31:23"
+  },
+  {
+    "business_name": "VIP TRADERS",
+    "search_category": "Plumber",
+    "primary_category": "Store",
+    "all_categories": "Store, Hardware store, Plumbing supply store, Tile store",
+    "pincode": "211011",
+    "phone_number": "+91 84230 82544",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VIP TRADERS, Kushal ke Purwa, Gohari, Uttar Pradesh 211013",
+    "area": "211011",
+    "latitude": 25.565410999999997,
+    "longitude": 81.8515005,
+    "place_id": "ChIJGbwocZjJmjkRyVPxlJbHMyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbwocZjJmjkRyVPxlJbHMyc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:31:23"
+  }
+]

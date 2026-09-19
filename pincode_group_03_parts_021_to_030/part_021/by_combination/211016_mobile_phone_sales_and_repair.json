@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mobile Airport",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "211016",
+    "phone_number": "+91 83039 82758",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near UCO bank, Shantipuram, Phaphamau, Uttar Pradesh 209801",
+    "area": "Shantipuram",
+    "latitude": 25.5293182,
+    "longitude": 81.85628129999999,
+    "place_id": "ChIJw42t8BDLmjkRpbLfxQEPb9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw42t8BDLmjkRpbLfxQEPb9U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:24"
+  },
+  {
+    "business_name": "Aditya Vision",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "211016",
+    "phone_number": "+91 92644 27380",
+    "website": "https://stores.adityavision.com/electronics-shops/prayagraj/GTB-Nagar/aditya-vision-in-GTB-Nagar-prayagraj--5Aabaz/home",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bulding No CC5, Labor Chauraha, beside New Bank Of Baroda, GTB Nagar, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "GTB Nagar, Kareli",
+    "latitude": 25.4261019,
+    "longitude": 81.81670129999999,
+    "place_id": "ChIJZ_6E7Bs1hTkRwUwhicNY9DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_6E7Bs1hTkRwUwhicNY9DM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:24"
+  }
+]

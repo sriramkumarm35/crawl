@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devkali Saraswati Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hotel, Villa",
+    "pincode": "212306",
+    "phone_number": "+91 80817 75689",
+    "website": "https://www.instagram.com/devkali_sarswati_guest_house?igsh=aWw3eGlkbG9qeXNy%20%ED%A0%BC%ED%BF%98%EF%B8%8F",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Devkali nagar Mishrpur, Mishrpur, Koraon, Barvari Kalan, Uttar Pradesh 212306",
+    "area": "Mishrpur",
+    "latitude": 24.973932599999998,
+    "longitude": 82.0969448,
+    "place_id": "ChIJnYNuEgBlhTkREXIX-kEOEPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYNuEgBlhTkREXIX-kEOEPI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:41:29"
+  },
+  {
+    "business_name": "Sri Ram Pratisthanam Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Marriage celebrant",
+    "all_categories": "Marriage celebrant",
+    "pincode": "212306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Lediyari Bazar, Koraon, Leriyari, Uttar Pradesh 212110",
+    "area": "212306",
+    "latitude": 25.000385299999998,
+    "longitude": 81.92942339999999,
+    "place_id": "ChIJN2B82JlrhTkRIAxnFB1BFO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2B82JlrhTkRIAxnFB1BFO4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:41:32"
+  }
+]

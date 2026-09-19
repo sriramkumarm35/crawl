@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakoda/chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Noorullah Rd, Shashtri Nagar, Malviyanagar, Prayagraj, Uttar Pradesh 211016",
+    "area": "Shashtri Nagar, Malviyanagar",
+    "latitude": 25.4239674,
+    "longitude": 81.8213679,
+    "place_id": "ChIJs1Su7dc0hTkRr4NmUVxdzHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1Su7dc0hTkRr4NmUVxdzHU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:10"
+  },
+  {
+    "business_name": "Rajan Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B1038, B Block, Kala Danda, Prayagraj, Daiwghat, Uttar Pradesh 211016",
+    "area": "B Block, Kala Danda",
+    "latitude": 25.4262879,
+    "longitude": 81.81518899999999,
+    "place_id": "ChIJRUabNmI1hTkRcIalYo3cZRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUabNmI1hTkRcIalYo3cZRs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:10"
+  }
+]

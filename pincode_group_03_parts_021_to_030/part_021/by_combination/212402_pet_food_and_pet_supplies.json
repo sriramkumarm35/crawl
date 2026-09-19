@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE PETS CARE &CURE",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "212402",
+    "phone_number": "+91 79855 19151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Railway crosing, near sarvajanik intar collage, Mungra Badshahpur, Uttar Pradesh 222202",
+    "area": "212402",
+    "latitude": 25.6557127,
+    "longitude": 82.1875563,
+    "place_id": "ChIJt2dczU6nmjkRAF6u-sZAmOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2dczU6nmjkRAF6u-sZAmOE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:05"
+  },
+  {
+    "business_name": "Rahul Jangir Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "212402",
+    "phone_number": "+91 80585 31650",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 121, Hanumant Nagar, Firojpur Urf Shekhpur, Uttar Pradesh 212402",
+    "area": "Hanumant Nagar",
+    "latitude": 25.538536099999998,
+    "longitude": 82.0713801,
+    "place_id": "ChIJEwQxcIetmjkRDPgmelDEGg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwQxcIetmjkRDPgmelDEGg0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:07"
+  }
+]

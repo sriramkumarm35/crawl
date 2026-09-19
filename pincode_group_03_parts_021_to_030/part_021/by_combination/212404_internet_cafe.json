@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jansewa Kendra",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Store",
+    "pincode": "212404",
+    "phone_number": "+91 72360 35971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Babuganj Rd, Phoolpur, Chilaunda, Uttar Pradesh 212404",
+    "area": "212404",
+    "latitude": 25.500038699999998,
+    "longitude": 82.0427948,
+    "place_id": "ChIJf9-3QfStmjkRcEpdM1lHMco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9-3QfStmjkRcEpdM1lHMco",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:49:14"
+  },
+  {
+    "business_name": "Cyber cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "212404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "post ramgarh kothari, saray kutubuddeen urf shekhpur jogiya Phulpur Allahabad Uttar Pradesh India212402, Uttar Pradesh 212402",
+    "area": "212404",
+    "latitude": 25.473704299999998,
+    "longitude": 82.0791848,
+    "place_id": "ChIJsW5vBg6tmjkRhlo2JycC1Tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsW5vBg6tmjkRhlo2JycC1Tk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:49:14"
+  }
+]

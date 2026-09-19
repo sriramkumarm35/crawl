@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Surgical & Wholesale",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "212205",
+    "phone_number": "+91 96957 21135",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "308/19, Victoria St, Jauhari Mohalla, Chowk, Lucknow, Uttar Pradesh 226003",
+    "area": "Jauhari Mohalla, Chowk",
+    "latitude": 26.8638613,
+    "longitude": 80.9104065,
+    "place_id": "ChIJQUShMWz9mzkR8DyshHykGzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUShMWz9mzkR8DyshHykGzA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:15:11"
+  },
+  {
+    "business_name": "Joseph Surgical Pvt Ltd",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Corporate office",
+    "pincode": "212205",
+    "phone_number": "+91 99188 88775",
+    "website": "http://www.josephsurgical.com/",
+    "rating": 5,
+    "reviews_count": 69,
+    "address": "G-1/79, Sector O, Mansarovar, Transport Nagar, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector O, Mansarovar, Transport Nagar",
+    "latitude": 26.7755032,
+    "longitude": 80.9010666,
+    "place_id": "ChIJ0Sf7tzz7mzkRSt7xLG007uI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Sf7tzz7mzkRSt7xLG007uI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:15:11"
+  }
+]

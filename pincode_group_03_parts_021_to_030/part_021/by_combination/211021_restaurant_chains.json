@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "1947 Restaurant - Hennur",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Buffet restaurant, Family restaurant, Fine dining restaurant, Indian restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "211021",
+    "phone_number": "+91 70225 99229",
+    "website": "https://1947restaurants.in/",
+    "rating": 4.4,
+    "reviews_count": 1024,
+    "address": "Above RARE AND BASICS, Survey No. 48/4A, New Airport Road Kuvempu Layout, Hennur Bagalur Main Road, Hennur Main Rd, Kothanur, Bengaluru, Karnataka 560077",
+    "area": "Kothanur",
+    "latitude": 13.0695553,
+    "longitude": 77.6515028,
+    "place_id": "ChIJV__IGa0ZrjsRqFv5y2Ani9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV__IGa0ZrjsRqFv5y2Ani9Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:18"
+  },
+  {
+    "business_name": "Golden Curry",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, Non Vegetarian Restaurant, Seafood restaurant, Thai restaurant",
+    "pincode": "211021",
+    "phone_number": "+91 20 6731 2200",
+    "website": "http://www.hotelgrandemerald.net/",
+    "rating": 4.1,
+    "reviews_count": 7440,
+    "address": "Chikali Road, Shahunagar, MIDC, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+    "area": "Shahunagar, MIDC, Chinchwad",
+    "latitude": 18.657272,
+    "longitude": 73.7986643,
+    "place_id": "ChIJK6LSiSu4wjsRe_CDMHKJWsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6LSiSu4wjsRe_CDMHKJWsQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:18"
+  }
+]

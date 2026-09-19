@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vakshi Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Grocery delivery service, Indian grocery store, Organic farm, Organic shop, Organic restaurant",
+    "pincode": "211012",
+    "phone_number": "+91 97183 61061",
+    "website": "http://www.vakshi.com/",
+    "rating": 4.6,
+    "reviews_count": 247,
+    "address": "Landmark : Chaya Public School, 769, near Mahagun Mall, Block-F, Sector 3, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Block-F, Sector 3, Vaishali",
+    "latitude": 28.6429345,
+    "longitude": 77.3354944,
+    "place_id": "ChIJ-VJbfND6DDkRnCofTTl8XH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VJbfND6DDkRnCofTTl8XH0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:28"
+  },
+  {
+    "business_name": "Bismillah Dairy (Shakir) | Fresh Milk | Dairy Products",
+    "search_category": "Organic Food Store",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service, Dairy, Dairy farm, Dairy farm equipment supplier, Dairy store, General store",
+    "pincode": "211012",
+    "phone_number": "+91 87991 71819",
+    "website": "http://www.bismillahdairy.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Azad Nagar, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "Azad Nagar, Kareli",
+    "latitude": 25.4206012,
+    "longitude": 81.8145452,
+    "place_id": "ChIJicTnniM1hTkRyt8PC5s10A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicTnniM1hTkRyt8PC5s10A4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:29"
+  }
+]

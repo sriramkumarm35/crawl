@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Strength fitness club",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212106",
+    "phone_number": "N/A",
+    "website": "https://strengthfitnessclub.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "Rewa Rd, Kanti, Uttar Pradesh 212107",
+    "area": "212106",
+    "latitude": 25.2497293,
+    "longitude": 81.7912218,
+    "place_id": "ChIJG6C9EQA3hTkRmZ5zfLWWcbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6C9EQA3hTkRmZ5zfLWWcbE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:53"
+  },
+  {
+    "business_name": "Neha coaching classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "212106",
+    "phone_number": "+91 89539 66558",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "7QJH+G6R, Jasra, Uttar Pradesh 212107",
+    "area": "212106",
+    "latitude": 25.281361699999998,
+    "longitude": 81.7780023,
+    "place_id": "ChIJDyLXXfgxhTkRPiEX2cr3qb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyLXXfgxhTkRPiEX2cr3qb4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Murga Darbar",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Dairy store, Medical clinic",
+    "pincode": "211008",
+    "phone_number": "+91 99354 57856",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "9VRH+83V, ADA Rd, Opposite Shah Ji Ka Pura Idgah, ADA Colony, Naini, Prayagraj, Naini Taluka Naini Dadari, Uttar Pradesh 211008",
+    "area": "ADA Colony, Naini",
+    "latitude": 25.3908539,
+    "longitude": 81.8776819,
+    "place_id": "ChIJ7xtmqGJKhTkRMDjlJPbu5Xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xtmqGJKhTkRMDjlJPbu5Xs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:41"
+  },
+  {
+    "business_name": "Malik Hatcheries India Pvt Ltd",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "211008",
+    "phone_number": "+91 97920 28757",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Unnamed Road, Newada Samogar, Prayagraj, Uttar Pradesh 211010",
+    "area": "211008",
+    "latitude": 25.3421094,
+    "longitude": 81.9189134,
+    "place_id": "ChIJ2fj_bMNJhTkRTHco7mE9vy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fj_bMNJhTkRTHco7mE9vy4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:44"
+  }
+]

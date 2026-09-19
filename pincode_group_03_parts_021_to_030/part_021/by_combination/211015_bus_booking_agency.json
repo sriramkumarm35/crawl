@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan Travels ( Best Travels in Prayagraj )",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Bus company",
+    "pincode": "211015",
+    "phone_number": "+91 91612 45518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GTB Nagar, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "GTB Nagar, Kareli",
+    "latitude": 25.4308332,
+    "longitude": 81.8163558,
+    "place_id": "ChIJh4sdwDE1hTkR99SPfjxy-SM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4sdwDE1hTkR99SPfjxy-SM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:46"
+  },
+  {
+    "business_name": "DIGITAL WORLD Jan Suvidha Kendra Lukerganj Allahabad",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "211015",
+    "phone_number": "+91 532 261 8304",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 34,
+    "address": "Lukarganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Lukarganj",
+    "latitude": 25.4422665,
+    "longitude": 81.8106445,
+    "place_id": "ChIJrVlBGS7LmjkRMFYBtZE5UJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVlBGS7LmjkRMFYBtZE5UJ4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exim consultants",
+    "search_category": "EXIMS",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "211014",
+    "phone_number": "N/A",
+    "website": "https://www.eximconsultancy.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ansal vikas deep building, district centre, 705-707, Laxmi Nagar, Delhi, 110092",
+    "area": "Laxmi Nagar",
+    "latitude": 28.6386345,
+    "longitude": 77.2877069,
+    "place_id": "ChIJJWLkJwD7DDkRsFehXOK9s2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWLkJwD7DDkRsFehXOK9s2Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:52"
+  },
+  {
+    "business_name": "Krishnavi India",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "211014",
+    "phone_number": "N/A",
+    "website": "https://www.krishnavindia.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "metro station, C1/58B Mohan Garden Near Nawada, Uttam Nagar, New Delhi, Delhi 110059",
+    "area": "Nawada Extension, Uttam Nagar",
+    "latitude": 28.6209997,
+    "longitude": 77.0415834,
+    "place_id": "ChIJfRFHkn8FDTkRuCxd56cg6hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRFHkn8FDTkRuCxd56cg6hs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:52"
+  }
+]

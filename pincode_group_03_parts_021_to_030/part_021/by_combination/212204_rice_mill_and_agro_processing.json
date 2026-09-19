@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Maurya",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "212204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J9JM+64W, Ganpa Goriyo road, Gulamipur, Ganapa, Uttar Pradesh 212217",
+    "area": "Gulamipur",
+    "latitude": 25.630808299999998,
+    "longitude": 81.38186329999999,
+    "place_id": "ChIJO2juMQAlmzkRpLzmPqTIyhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2juMQAlmzkRpLzmPqTIyhg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:27"
+  },
+  {
+    "business_name": "Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "212204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5347+RMG, Dharawal, Bhasunder Kala, Uttar Pradesh 212302",
+    "area": "212204",
+    "latitude": 25.1570629,
+    "longitude": 82.0642076,
+    "place_id": "ChIJndrSIvtdhTkRZP9bgBVwmE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndrSIvtdhTkRZP9bgBVwmE0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:28"
+  }
+]

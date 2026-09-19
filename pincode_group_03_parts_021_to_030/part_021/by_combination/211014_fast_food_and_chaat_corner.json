@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Ice cream shop, Juice shop, Sandwich shop, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "211014",
+    "phone_number": "+91 80 2691 6505",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9228,
+    "address": "Krishna Rajendra Rd, Basavanagudi, Bengaluru, Karnataka 560004",
+    "area": "Basavanagudi",
+    "latitude": 12.9474615,
+    "longitude": 77.5739281,
+    "place_id": "ChIJf05ccZIVrjsR7Kq5DvpWH2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf05ccZIVrjsR7Kq5DvpWH2o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:36:30"
+  },
+  {
+    "business_name": "Vadapav Nation | Vasundhara , Ghaziabad",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Restaurant, Indian restaurant, Indian takeaway, Lunch restaurant, Meal delivery, Sandwich shop, Snack bar, Vegetarian restaurant",
+    "pincode": "211014",
+    "phone_number": "+91 93546 53369",
+    "website": "http://www.vadapavnation.com/",
+    "rating": 4.7,
+    "reviews_count": 379,
+    "address": "Shop No.: G-1(A), S.G. Beta Tower Sector 3, near Vishal Mega Mart, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 3, Vasundhara",
+    "latitude": 28.667224899999997,
+    "longitude": 77.3837897,
+    "place_id": "ChIJYYpsob3xDDkRbTSzuV3m0Do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYpsob3xDDkRbTSzuV3m0Do",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:36:30"
+  }
+]

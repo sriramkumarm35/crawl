@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ujjwal Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212218",
+    "phone_number": "+91 90055 87494",
+    "website": "https://ujjwal-nursing-home.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near SP Convent School, Begum Bazaar, Bamrauli, Prayagraj, Uttar Pradesh 211012",
+    "area": "Begum Bazaar, Bamrauli",
+    "latitude": 25.4490309,
+    "longitude": 81.71986749999999,
+    "place_id": "ChIJKYICe87NmjkRXU7pgqJcRzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYICe87NmjkRXU7pgqJcRzM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:16"
+  },
+  {
+    "business_name": "Bawaa Medicals",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212218",
+    "phone_number": "+91 452 252 7127",
+    "website": "https://play.google.com/store/apps/details?id=com.bawaa.bawaameds&hl=en&gl=US",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "24/25, American College Building Tamnkkam, East Coast Rd, Goripalayam, Tamil Nadu 625020",
+    "area": "Alwarpuram",
+    "latitude": 9.9299549,
+    "longitude": 78.1306797,
+    "place_id": "ChIJCwjmKpTFADsRpH54wptbE-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwjmKpTFADsRpH54wptbE-Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:19"
+  }
+]

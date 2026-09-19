@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajeev Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "212207",
+    "phone_number": "+91 788 753 6453",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "New Market, Amina, Goraju, Uttar Pradesh 212214",
+    "area": "212207",
+    "latitude": 25.3801654,
+    "longitude": 81.3303364,
+    "place_id": "ChIJO5m_4lLNhDkRkOf4IzuihsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5m_4lLNhDkRkOf4IzuihsA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:51"
+  },
+  {
+    "business_name": "Amandeep motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "212207",
+    "phone_number": "+91 90268 32350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kajipur, near saheed captain college, Kaushambi, Uttar Pradesh 212206",
+    "area": "212207",
+    "latitude": 25.5064864,
+    "longitude": 81.42789839999999,
+    "place_id": "ChIJ1YoqFnsrmzkRDl8VVsU8ju0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YoqFnsrmzkRDl8VVsU8ju0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:51"
+  }
+]

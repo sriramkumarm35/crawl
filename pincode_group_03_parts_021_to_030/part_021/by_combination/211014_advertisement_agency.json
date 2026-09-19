@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himanshu Tech",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "211014",
+    "phone_number": "+91 72755 44663",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3, Water Tank, Sadarbazar, Prayagraj, Uttar Pradesh 211001",
+    "area": "Sadarbazar",
+    "latitude": 25.467427999999998,
+    "longitude": 81.8205603,
+    "place_id": "ChIJZVfz0sDLmjkRQucwQwnzLx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVfz0sDLmjkRQucwQwnzLx0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:54"
+  },
+  {
+    "business_name": "Acme Advertising Co",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "211014",
+    "phone_number": "+91 80138 01359",
+    "website": "http://www.acmeadvertiser.com/",
+    "rating": 4.7,
+    "reviews_count": 43,
+    "address": "2nd Floor, Sector 4, A 1/ 23-24, Pocket 1, Sector 4, Rohini, Delhi, 110085",
+    "area": "Pocket 1, Sector 4, Rohini",
+    "latitude": 28.705743199999997,
+    "longitude": 77.1022283,
+    "place_id": "ChIJO_B8FKUGDTkRhg5BX57S0AE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_B8FKUGDTkRhg5BX57S0AE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:56"
+  }
+]

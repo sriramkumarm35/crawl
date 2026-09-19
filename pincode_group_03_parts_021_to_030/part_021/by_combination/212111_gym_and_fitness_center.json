@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ladies Fitness Center And Dance Studio",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "212111",
+    "phone_number": "+91 94518 95247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "2nd Floor, of Khanch Ghar, Mirzapur Rd, beside Bajaj auto service, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.393946699999997,
+    "longitude": 81.8635747,
+    "place_id": "ChIJu8GzUxA1hTkRYwfWPWwqMSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8GzUxA1hTkRYwfWPWwqMSY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:24"
+  },
+  {
+    "business_name": "Fitness First Girl Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-882, GTB Nagar, Kareli, Prayagraj, Daiwghat, Uttar Pradesh 211016",
+    "area": "GTB Nagar, Kareli",
+    "latitude": 25.4299057,
+    "longitude": 81.8169194,
+    "place_id": "ChIJVWvd9NM0hTkR7lZMtxlXbFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWvd9NM0hTkR7lZMtxlXbFg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:26"
+  }
+]

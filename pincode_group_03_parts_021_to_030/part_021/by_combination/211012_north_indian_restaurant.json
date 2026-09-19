@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khana Khazana",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "211012",
+    "phone_number": "+91 73760 48336",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "United Medicity - Multispeciality Hospital, 10 A, Rod, Rawatpur, Prayagraj, Uttar Pradesh 211012",
+    "area": "211012",
+    "latitude": 25.397043699999998,
+    "longitude": 81.7576505,
+    "place_id": "ChIJQw7QBbMzhTkR0_xyxR2naWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQw7QBbMzhTkR0_xyxR2naWg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:36"
+  },
+  {
+    "business_name": "Sharddha Restuarant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Vegetarian restaurant",
+    "pincode": "211012",
+    "phone_number": "+91 92358 82891",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "N 0, 4, IIIT Rd, Indian Institute of Information Technology, Devprayagam Colony, Jhalwa, Prayagraj, Uttar Pradesh 211015",
+    "area": "Indian Institute of Information Technology, Devprayagam Colony, Jhalwa",
+    "latitude": 25.432907699999998,
+    "longitude": 81.7694569,
+    "place_id": "ChIJ4YExNlPNmjkR7mUh23Sry1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YExNlPNmjkR7mUh23Sry1U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:38"
+  }
+]

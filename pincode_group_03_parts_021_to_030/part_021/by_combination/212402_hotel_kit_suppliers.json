@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muradabad Bartan Store",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "212402",
+    "phone_number": "+91 94152 78601",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "57, Thatheri Bazar, Miurabad, Prayagraj, Uttar Pradesh 211003",
+    "area": "Thatheri Bazar, Miurabad",
+    "latitude": 25.437653899999997,
+    "longitude": 81.8331889,
+    "place_id": "ChIJ_8DinNLKmjkRTdSrkQpM21E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8DinNLKmjkRTdSrkQpM21E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:47:13"
+  },
+  {
+    "business_name": "Farooq Bartan Wale",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Restaurant supply store",
+    "pincode": "212402",
+    "phone_number": "+91 98394 85840",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "82/75, Before Chowk Kotwali, Nakhas Kohna, Prayagraj, Uttar Pradesh 211003",
+    "area": "Nakhas Kohna, Miurabad",
+    "latitude": 25.437617,
+    "longitude": 81.832517,
+    "place_id": "ChIJF0BNkNLKmjkRSdIsV2fLnMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0BNkNLKmjkRSdIsV2fLnMA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:47:13"
+  }
+]

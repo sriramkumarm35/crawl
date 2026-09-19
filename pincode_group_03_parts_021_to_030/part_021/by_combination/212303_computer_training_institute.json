@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Astitwa computer institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "212303",
+    "phone_number": "+91 88403 82471",
+    "website": "http://sites.google.com/view/acisirsa",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amilhawa, to, Sirsa - Meja Rd, Sirsa, Uttar Pradesh 212305",
+    "area": "212303",
+    "latitude": 25.258044599999998,
+    "longitude": 82.0917624,
+    "place_id": "ChIJcdIHbWdbhTkRDMcwBdQu8PM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdIHbWdbhTkRDMcwBdQu8PM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:48"
+  },
+  {
+    "business_name": "SRCIT",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Institute of technology",
+    "all_categories": "Institute of technology",
+    "pincode": "212303",
+    "phone_number": "+91 93361 34781",
+    "website": "http://srcit.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sirsa - Meja Rd, RAM NAGAR, Sirsa, Uttar Pradesh 212305",
+    "area": "RAM NAGAR",
+    "latitude": 25.2505943,
+    "longitude": 82.09204559999999,
+    "place_id": "ChIJsY6rJXtahTkRFNK4uHnvRP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsY6rJXtahTkRFNK4uHnvRP4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:48"
+  }
+]

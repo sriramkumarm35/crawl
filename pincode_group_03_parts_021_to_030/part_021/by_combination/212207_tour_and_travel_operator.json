@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STMS Tour And Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "212207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Hanuman Mandir Rd, Rajapur, Uttar Pradesh 211002",
+    "area": "212207",
+    "latitude": 25.3922112,
+    "longitude": 81.1500733,
+    "place_id": "ChIJ93hHT7vLmjkRhpiM8tN3wvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93hHT7vLmjkRhpiM8tN3wvk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:50"
+  },
+  {
+    "business_name": "Star Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Bus tour agency, Car leasing service, Minibus taxi service, Taxi service, Travel agency",
+    "pincode": "212207",
+    "phone_number": "+91 99587 99465",
+    "website": "https://startourtravels.in/",
+    "rating": 4.8,
+    "reviews_count": 247,
+    "address": "3/1362, Sector 3, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 3, Vasundhara",
+    "latitude": 28.666871699999998,
+    "longitude": 77.3843517,
+    "place_id": "ChIJ73j8anTwDDkRGqgS8uQkPjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73j8anTwDDkRGqgS8uQkPjI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:50"
+  }
+]

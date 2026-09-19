@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "anil juice corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Produce market",
+    "pincode": "211010",
+    "phone_number": "+91 73948 22609",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "3, Bharadwaj Ashram Rd, Old Sohbatiya Bagh, New Sohabatia Bagh, Sohabatiya Bagh, Prayagraj, Uttar Pradesh 211006",
+    "area": "Old Sohbatiya Bagh, New Sohabatia Bagh, Sohabatiya Bagh",
+    "latitude": 25.4473217,
+    "longitude": 81.86416249999999,
+    "place_id": "ChIJzQ2UwVbLmjkRkrd2IBGfvq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQ2UwVbLmjkRkrd2IBGfvq8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:43"
+  },
+  {
+    "business_name": "Milkshake and Co.",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "American restaurant",
+    "all_categories": "American restaurant",
+    "pincode": "211010",
+    "phone_number": "+91 80099 92713",
+    "website": "http://www.milkshake.co/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Purshottam Das, 54C/23, Purushottam Das Tandon Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.45487,
+    "longitude": 81.8290304,
+    "place_id": "ChIJ1WFfAsfLmjkRE4f__0-1DNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WFfAsfLmjkRE4f__0-1DNM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:44"
+  }
+]

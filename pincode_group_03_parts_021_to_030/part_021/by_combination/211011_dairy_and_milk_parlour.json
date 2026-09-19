@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamdhenu Amul Parlor",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "211011",
+    "phone_number": "+91 99352 14689",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shanti Nagar, Devprayagam Colony, Jhalwa, Prayagraj, Dadanpur, Uttar Pradesh 211015",
+    "area": "Shanti Nagar, Devprayagam Colony, Jhalwa",
+    "latitude": 25.4352606,
+    "longitude": 81.7724073,
+    "place_id": "ChIJo5DwYqzMmjkRe5ws_xyGOow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5DwYqzMmjkRe5ws_xyGOow",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:28"
+  },
+  {
+    "business_name": "Piyush Milk Products",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Frozen food store",
+    "pincode": "211011",
+    "phone_number": "+91 80043 54963",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "73/108, Saket Nagar, Ghumanganj, NCR Railway Colony, Dhoomanganj, Prayagraj, Uttar Pradesh 211011",
+    "area": "Saket Nagar, Ghumanganj, NCR Railway Colony, Dhoomanganj",
+    "latitude": 25.448881,
+    "longitude": 81.779602,
+    "place_id": "ChIJ_Ue7vVjLmjkR94U9YEdlEfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Ue7vVjLmjkR94U9YEdlEfc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:30"
+  }
+]

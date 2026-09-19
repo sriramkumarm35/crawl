@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surat Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "212302",
+    "phone_number": "+91 87580 26487",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "411, nirvana shoppers, Dandi Rd, opposite D Mart, Jahangirabad, Surat, Gujarat 395005",
+    "area": "Jahangirabad, Dahin Nagar",
+    "latitude": 21.2297028,
+    "longitude": 72.7799496,
+    "place_id": "ChIJZ3OTT6FN4DsR_UR4sfLWtOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3OTT6FN4DsR_UR4sfLWtOs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:35:09"
+  },
+  {
+    "business_name": "Joint Care Physiotherapy Clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "212302",
+    "phone_number": "+91 96382 89992",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "NR. FIRE STATION, Shop no - 314 3rd Floor, Shree Pujan Plaza, opp. Limbayat, near SMC South zone office, Parvat Patiya, Surat, Gujarat 395010",
+    "area": "Kailash Nagar Society, Parvat Patiya",
+    "latitude": 21.1839454,
+    "longitude": 72.8609345,
+    "place_id": "ChIJATJwRddP4DsRm4b4k7vDOqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATJwRddP4DsRm4b4k7vDOqA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:35:13"
+  }
+]

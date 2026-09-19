@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAR WASH",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "212212",
+    "phone_number": "+91 81043 67353",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bahubali Nagar Extension, Varun Colony, Sunder Nagar, Jaipur, Rajasthan 302020",
+    "area": "Bahubali Nagar Extension, Varun Colony, Sunder Nagar",
+    "latitude": 26.8545238,
+    "longitude": 75.7596259,
+    "place_id": "ChIJ5-z_BEG1bTkRAFdVmMCn8gM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-z_BEG1bTkRAFdVmMCn8gM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:22:21"
+  },
+  {
+    "business_name": "Vehismart Clean Pvt Ltd",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "212212",
+    "phone_number": "+91 73000 07462",
+    "website": "https://www.vehiclean.in/",
+    "rating": 4.4,
+    "reviews_count": 145,
+    "address": "sagar Enclave, C-2, Vande Mataram Marg, near Bharat Mata Circle, Manyawas, Jaipur, Rajasthan 302020",
+    "area": "Manyawas",
+    "latitude": 26.8560791,
+    "longitude": 75.7366254,
+    "place_id": "ChIJs-8EJbG1bTkRzpNRulKRGNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-8EJbG1bTkRzpNRulKRGNk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:22:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUBHAM ENTERPRISES",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electronics store",
+    "pincode": "211019",
+    "phone_number": "+91 70718 94972",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9/112, near BANK OF INDIA, Awas Vikas Colony, Yojna-3, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Awas Vikas Colony, Yojna-3",
+    "latitude": 25.428281199999997,
+    "longitude": 81.91115309999999,
+    "place_id": "ChIJ04H-Zh9LhTkRDbfcp7SsrNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04H-Zh9LhTkRDbfcp7SsrNY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:46:10"
+  },
+  {
+    "business_name": "PVR Electric",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting manufacturer",
+    "all_categories": "Lighting manufacturer",
+    "pincode": "211019",
+    "phone_number": "+91 94552 94717",
+    "website": "https://pvrelectric.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Workshop Road, Tulapur, Prayagraj, Uttar Pradesh 211019",
+    "area": "211019",
+    "latitude": 25.4354254,
+    "longitude": 81.9222073,
+    "place_id": "ChIJvSHHBrZLhTkRUHeMHctpYFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSHHBrZLhTkRUHeMHctpYFA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:46:11"
+  }
+]

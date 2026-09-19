@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "St.Columbus School",
+    "search_category": "School",
+    "primary_category": "Private educational institution",
+    "all_categories": "Private educational institution",
+    "pincode": "211018",
+    "phone_number": "+91 94552 72727",
+    "website": "https://www.stcolumbusschool.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FR8R+C8R, 13, Muir Rd, Vivek Vihar Colony, Rajapur, Prayagraj, Uttar Pradesh 211002",
+    "area": "Vivek Vihar Colony, Rajapur",
+    "latitude": 25.466243,
+    "longitude": 81.8406009,
+    "place_id": "ChIJbXVsbuzKmjkRJs7ZY4V4GlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXVsbuzKmjkRJs7ZY4V4GlM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:44:45"
+  },
+  {
+    "business_name": "Strawberry Fields Kindergarten School",
+    "search_category": "School",
+    "primary_category": "Kindergarten School",
+    "all_categories": "Kindergarten School",
+    "pincode": "211018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "1, Tej Bahdur Sapru Rd, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Civil Lines",
+    "latitude": 25.457391299999998,
+    "longitude": 81.8399699,
+    "place_id": "ChIJb94nAcHKmjkR2jTts0P8A5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb94nAcHKmjkR2jTts0P8A5I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:44:46"
+  }
+]

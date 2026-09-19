@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAREKRISHNA ENTERPRISES",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212204",
+    "phone_number": "+91 77530 88880",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "89 A, North Malaka, Prayagraj, Uttar Pradesh 211001",
+    "area": "North Malaka",
+    "latitude": 25.4436112,
+    "longitude": 81.8472192,
+    "place_id": "ChIJ2dYYi7bKmjkRAAAAsB5HjS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dYYi7bKmjkRAAAAsB5HjS4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:16"
+  },
+  {
+    "business_name": "Shaurya Medical Agency And Poly Clinic",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Hospital",
+    "pincode": "212204",
+    "phone_number": "+91 82993 97585",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Korron, Daranagar, Mardanpur Barji, Uttar Pradesh 212204",
+    "area": "Korron",
+    "latitude": 25.699173,
+    "longitude": 81.3429045,
+    "place_id": "ChIJIzn8VwAjmzkRCBhifSoUPAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzn8VwAjmzkRCBhifSoUPAQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:18"
+  }
+]

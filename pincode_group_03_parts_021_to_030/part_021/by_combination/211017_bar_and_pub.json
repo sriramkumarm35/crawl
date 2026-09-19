@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MidnightMoscow",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "211017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 14,
+    "address": "FR2M+7GW, Subhash Chauraha, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4507428,
+    "longitude": 81.8338306,
+    "place_id": "ChIJZaabxnTLmjkR5nKEOZfpS-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaabxnTLmjkR5nKEOZfpS-o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:06"
+  },
+  {
+    "business_name": "Uptown Liquor Land Bar, Lounge & Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Bar & grill, Cafe, Liquor Shop, Lounge bar, Non Vegetarian Restaurant, Pub, Restaurant, Wine bar, Wine store",
+    "pincode": "211017",
+    "phone_number": "+91 87566 99905",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "19, 12/14, Mahatma Gandhi Marg, Canton, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Civil Lines",
+    "latitude": 25.4512894,
+    "longitude": 81.82273959999999,
+    "place_id": "ChIJfdzY_T_LmjkR2Bj0OAlm7PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdzY_T_LmjkR2Bj0OAlm7PU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:09"
+  }
+]

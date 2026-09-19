@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan Ayurved",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Herbal medicine store",
+    "pincode": "212402",
+    "phone_number": "N/A",
+    "website": "http://www.narayanayurved.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "near Bank of Baroda, Pratappur, Karuwa Dih, Uttar Pradesh 212402",
+    "area": "212402",
+    "latitude": 25.5221105,
+    "longitude": 82.1582628,
+    "place_id": "ChIJ00ZKE-CrmjkR1kGr0DWeJS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00ZKE-CrmjkR1kGr0DWeJS0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:47:03"
+  },
+  {
+    "business_name": "Prakash Aushadhalaya (naiganj branch)",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner, Pharmacy, Ayurvedic clinic, Diabetologist, General practitioner, Herbal medicine store, Herbalist, Sexologist",
+    "pincode": "212402",
+    "phone_number": "+91 94158 44217",
+    "website": "https://prakashaushadhalaya.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naiganj main road, Prayagraj, Uttar Pradesh 222002",
+    "area": "212402",
+    "latitude": 25.6601976,
+    "longitude": 82.2627373,
+    "place_id": "ChIJWwgN7RwJkDkRp3nU_BNlsvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwgN7RwJkDkRp3nU_BNlsvs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:47:03"
+  }
+]

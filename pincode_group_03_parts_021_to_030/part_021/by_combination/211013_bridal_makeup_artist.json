@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MakeoversBySiddhi",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Bridal shop, Nail salon",
+    "pincode": "211013",
+    "phone_number": "+91 93100 20126",
+    "website": "https://instagram.com/makeoversbysiddhi?igshid=YmMyMTA2M2Y=",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2/69, Ramanand Nagar, Punjabi Colony, Shiv Nagar, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Ramanand Nagar, Punjabi Colony, Shiv Nagar, Allahpur",
+    "latitude": 25.4540953,
+    "longitude": 81.8705396,
+    "place_id": "ChIJk4aY6GW1mjkRZlOAhWTLkKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4aY6GW1mjkRZlOAhWTLkKU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:22"
+  },
+  {
+    "business_name": "Parin's",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "211013",
+    "phone_number": "+91 63877 59906",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "163, 206, Buxi Bazar, Roshan Bagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Buxi Bazar, Roshan Bagh",
+    "latitude": 25.4379641,
+    "longitude": 81.8251411,
+    "place_id": "ChIJxZ2MHfzLmjkRicQFcm8Qe78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZ2MHfzLmjkRicQFcm8Qe78",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:24"
+  }
+]

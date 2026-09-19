@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Black buck restaurant Phulpur prayagraj",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "H34P+PMW, Phoolpur, Uttar Pradesh 212402",
+    "area": "212402",
+    "latitude": 25.5568745,
+    "longitude": 82.0867123,
+    "place_id": "ChIJM8W7aQCvmjkRqhnxYJXy18M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8W7aQCvmjkRqhnxYJXy18M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:11"
+  },
+  {
+    "business_name": "Rk Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212402",
+    "phone_number": "+91 92045 58734",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 237,
+    "address": "J48V+524, Agra Patti, Arwansimai Bahadurgarh, Uttar Pradesh 212402",
+    "area": "212402",
+    "latitude": 25.6153971,
+    "longitude": 82.142568,
+    "place_id": "ChIJHZVNK2ypmjkRrKGm7i7zn8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZVNK2ypmjkRrKGm7i7zn8U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrahari Brothers",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "212305",
+    "phone_number": "+91 93695 80334",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Katra bazar, Varanasi, Katra, Uttar Pradesh 221309",
+    "area": "212305",
+    "latitude": 25.251465,
+    "longitude": 82.22930989999999,
+    "place_id": "ChIJ60V28VP3jzkRUNaQNAV_xEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60V28VP3jzkRUNaQNAV_xEM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:45"
+  },
+  {
+    "business_name": "Kesharwani And Sons",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "212305",
+    "phone_number": "+91 97929 29882",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "60 Sirsa Bazar, Sirsa, Uttar Pradesh 212305",
+    "area": "212305",
+    "latitude": 25.2620266,
+    "longitude": 82.0909997,
+    "place_id": "ChIJa42Qn-VRhTkRaMmYQeAIDF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa42Qn-VRhTkRaMmYQeAIDF4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:45"
+  }
+]

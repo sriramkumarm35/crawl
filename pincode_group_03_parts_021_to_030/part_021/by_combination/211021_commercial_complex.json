@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kohinoor World Towers",
+    "search_category": "Commercial Complex",
+    "primary_category": "Corporate campus",
+    "all_categories": "Corporate campus, Corporate office",
+    "pincode": "211021",
+    "phone_number": "+91 1800 210 2299",
+    "website": "https://www.kohinoorpune.com/projects-detail/kohinoor-world-tower-phase-2",
+    "rating": 4.4,
+    "reviews_count": 301,
+    "address": "Opp Empire Estate, Old Mumbai - Pune Hwy, Pimpri Colony, Pune, Maharashtra 411019",
+    "area": "MIDC, Pimpri Colony",
+    "latitude": 18.635327999999998,
+    "longitude": 73.79915419999999,
+    "place_id": "ChIJ2SJomC25wjsRSh2Rv3xDsBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SJomC25wjsRSh2Rv3xDsBM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:50:53"
+  },
+  {
+    "business_name": "Harsha K3C Mall",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "211021",
+    "phone_number": "+91 90343 33958",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 368,
+    "address": "Saini Colony, Sector 12, Karnal, Haryana 132001",
+    "area": "Saini Colony, Sector 12",
+    "latitude": 29.6969705,
+    "longitude": 77.0014461,
+    "place_id": "ChIJp7GUkFZxDjkRCD_id32wOLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7GUkFZxDjkRCD_id32wOLU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:50:53"
+  }
+]

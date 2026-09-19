@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulshan Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop, Store",
+    "pincode": "212208",
+    "phone_number": "+91 98381 96966",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "190, Subzi Mandi Chowk, Miurabad, Prayagraj, Uttar Pradesh 211003",
+    "area": "Miurabad",
+    "latitude": 25.439046299999998,
+    "longitude": 81.83283689999999,
+    "place_id": "ChIJKR8Ee9LKmjkRdeuR8hQfd2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKR8Ee9LKmjkRdeuR8hQfd2E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:00"
+  },
+  {
+    "business_name": "Atala Biriyani shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "212208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "CRJG+H7G, Atala Rd, Malviyanagar, Prayagraj, Uttar Pradesh 211003",
+    "area": "Malviyanagar",
+    "latitude": 25.4314413,
+    "longitude": 81.82570989999999,
+    "place_id": "ChIJnd_LRAw1hTkRFGYSi7x8lis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnd_LRAw1hTkRFGYSi7x8lis",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:00"
+  }
+]

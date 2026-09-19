@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.D. Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "212303",
+    "phone_number": "+91 88402 56571",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mahuwari, Chak Tejau Dixit, Uttar Pradesh 211010",
+    "area": "212303",
+    "latitude": 25.350003599999997,
+    "longitude": 81.8943674,
+    "place_id": "ChIJa1QiPABLhTkRkGnaiZFties",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1QiPABLhTkRkGnaiZFties",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:18"
+  },
+  {
+    "business_name": "Royal traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store",
+    "pincode": "212303",
+    "phone_number": "+91 87074 90231",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "34 sabji mandi, ShahGanj Electronics Ln, near saudagar masjid, Prayagraj, Uttar Pradesh 211003",
+    "area": "Johnston Ganj, Miurabad",
+    "latitude": 25.4397344,
+    "longitude": 81.83349969999999,
+    "place_id": "ChIJycvbgyPLmjkRffjQ5CwKVpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycvbgyPLmjkRffjQ5CwKVpQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:18"
+  }
+]

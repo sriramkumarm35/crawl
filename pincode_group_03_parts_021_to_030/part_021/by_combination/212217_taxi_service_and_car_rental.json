@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Bala Sai Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Minibus taxi service, Taxi service",
+    "pincode": "212217",
+    "phone_number": "+91 93567 00544",
+    "website": "https://www.balasaitours.com/",
+    "rating": 5,
+    "reviews_count": 223,
+    "address": "Jawaharmal Joshi Layout, Plot No : 22, 3rd Bus Stop, Gopal Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "3rd Bus Stop, Gopal Nagar, Pratap Nagar",
+    "latitude": 21.1177928,
+    "longitude": 79.0490878,
+    "place_id": "ChIJNxAyvQu_1DsRA00dkGtuYyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxAyvQu_1DsRA00dkGtuYyA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:29:41"
+  },
+  {
+    "business_name": "Chalpe Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Motoring club",
+    "pincode": "212217",
+    "phone_number": "+91 87888 80219",
+    "website": "https://www.chalpecarrentalnagpur.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no. 231, opposite chatrapati hall, near peshwe tution classes, Ring Road, Chatrapati Nagar, Nagpur, Maharashtra 440015",
+    "area": "Ring Road, Chatrapati Nagar",
+    "latitude": 21.1111664,
+    "longitude": 79.074112,
+    "place_id": "ChIJMVoHfQq_1DsReRHbLet61To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVoHfQq_1DsReRHbLet61To",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:29:44"
+  }
+]

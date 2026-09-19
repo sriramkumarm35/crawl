@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NRJ Event Organiser",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "https://www.nrjeventorganiser.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bharat Milap Colony, K67/66 A-1, Nati Imli Rd, Ishwargangi, Jaitpura, Varanasi, Uttar Pradesh 221001",
+    "area": "Ishwargangi, Jaitpura",
+    "latitude": 25.3255506,
+    "longitude": 83.0072294,
+    "place_id": "ChIJBeNvD0FTm2gRpNj1pl9Ja1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeNvD0FTm2gRpNj1pl9Ja1E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:30"
+  },
+  {
+    "business_name": "NRJ Event Organiser - Wedding Photographers",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Caterer, Wedding photographer",
+    "pincode": "211013",
+    "phone_number": "+91 96702 72372",
+    "website": "https://www.nrjeventorganiser.in/wedding-photographer-in-greater-noida/",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "Knowledge Park II, Greater Noida, Uttar Pradesh 201310",
+    "area": "Knowledge Park II",
+    "latitude": 28.460948899999998,
+    "longitude": 77.4969953,
+    "place_id": "ChIJqxRsEJbBDDkRR6MfH1dtiXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxRsEJbBDDkRR6MfH1dtiXA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:30"
+  }
+]

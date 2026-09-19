@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Svamaan Financial Services Pvt. Ltd.",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "211022",
+    "phone_number": "+91 22 4942 9010",
+    "website": "https://www.svamaan.in/",
+    "rating": 4.4,
+    "reviews_count": 65,
+    "address": "6, 93, 9th Floor, Nariman Point, Mumbai, Maharashtra 400021",
+    "area": "Nariman Point",
+    "latitude": 18.9238656,
+    "longitude": 72.8217908,
+    "place_id": "ChIJD4hwDgbR5zsRG1liZyjzepM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4hwDgbR5zsRG1liZyjzepM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:52:19"
+  },
+  {
+    "business_name": "Shriram Finance Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Bank, Car finance and loan company, Finance broker, Insurance broker, Insurance company, Investment company, Investment service, Loan agency, Private Sector Bank",
+    "pincode": "211022",
+    "phone_number": "+91 1800 410 7711",
+    "website": "https://nearme.shriramfinance.in/haryana/gurgaon/gurgaon-branch",
+    "rating": 3,
+    "reviews_count": 6,
+    "address": "2nd Floor, Sheetla Mata Mandir Rd, Part- 6, Block - E, Sheetla Colony, Ashok Vihar Phase II, Gurugram, Haryana 122001",
+    "area": "Part- 6, Block - E, Sheetla Colony, Ashok Vihar Phase II",
+    "latitude": 28.4808244,
+    "longitude": 77.0257197,
+    "place_id": "ChIJL4MdNkkZDTkRs__P5suL8Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4MdNkkZDTkRs__P5suL8Jo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:52:20"
+  }
+]

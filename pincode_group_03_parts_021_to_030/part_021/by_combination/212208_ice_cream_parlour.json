@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam - Rajasthani Ice Cream.",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "212208",
+    "phone_number": "+91 63769 78950",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Imperial TVS, Near, Ponghat Pul, Shamim Market Colony, Prayagraj, Uttar Pradesh 211011",
+    "area": "Ponghat Pul, Shamim Market Colony, Bamrauli",
+    "latitude": 25.448687999999997,
+    "longitude": 81.75078859999999,
+    "place_id": "ChIJMQoHqgrNmjkRrWDxBxtJ1kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQoHqgrNmjkRrWDxBxtJ1kM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:09"
+  },
+  {
+    "business_name": "Ok Cafe, Pizza & Coffee",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "212208",
+    "phone_number": "+91 90262 73575",
+    "website": "https://www.instagram.com/okcafes_official/",
+    "rating": 4.7,
+    "reviews_count": 182,
+    "address": "FMP8+8WQ Pal Market, Grand Trunk Rd, Pura Mufti, Uttar Pradesh 212208",
+    "area": "212208",
+    "latitude": 25.4858244,
+    "longitude": 81.6673443,
+    "place_id": "ChIJw7nBa1XTmjkRVfC6zp2dnqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7nBa1XTmjkRVfC6zp2dnqU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dessert shop, Grocery store",
+    "pincode": "211010",
+    "phone_number": "+91 88743 37473",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Triveni Nagar, Cheonki, Prayagraj, Uttar Pradesh 211008",
+    "area": "Triveni Nagar",
+    "latitude": 25.3792379,
+    "longitude": 81.8715493,
+    "place_id": "ChIJkbkw_3lKhTkRHkw060N9Vf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbkw_3lKhTkRHkw060N9Vf0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:36"
+  },
+  {
+    "business_name": "Shiv Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "211010",
+    "phone_number": "+91 96218 22081",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1, Kutubpatti Urf Ahiyapur, Uttar Pradesh 212402",
+    "area": "211010",
+    "latitude": 25.5574785,
+    "longitude": 82.06812219999999,
+    "place_id": "ChIJydBkb-WvmjkRr-v22VmuPiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydBkb-WvmjkRr-v22VmuPiU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:38"
+  }
+]

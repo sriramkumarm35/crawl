@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "car care technologies",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "212213",
+    "phone_number": "+91 95290 90074",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 234,
+    "address": "Jaipur International Airport Terminal, 2 road, Siddharth Nagar, Govind Vihar, Chainpura, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Siddharth Nagar, Govind Vihar, Chainpura, Malviya Nagar",
+    "latitude": 26.836472,
+    "longitude": 75.80295799999999,
+    "place_id": "ChIJR6YVEb61bTkRgV6TA3uEZM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6YVEb61bTkRgV6TA3uEZM8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:24:14"
+  },
+  {
+    "business_name": "Apex fleet care",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service",
+    "pincode": "212213",
+    "phone_number": "+91 99009 47664",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 117, 26, 4th Main Rd, Ganganagar, RT Nagar, Bengaluru, Karnataka 560032",
+    "area": "Ganganagar, RT Nagar",
+    "latitude": 13.0242351,
+    "longitude": 77.5875751,
+    "place_id": "ChIJi8lfn-gXrjsRv8wExVIeBio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8lfn-gXrjsRv8wExVIeBio",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:24:16"
+  }
+]

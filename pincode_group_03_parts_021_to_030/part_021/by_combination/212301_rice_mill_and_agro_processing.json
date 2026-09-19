@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhole rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lala ka Pura, Kulmai,Baraon, Kulmai, Uttar Pradesh 212301",
+    "area": "212301",
+    "latitude": 25.2100054,
+    "longitude": 81.92650479999999,
+    "place_id": "ChIJyRUi98RHhTkRq8VfInnhSjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRUi98RHhTkRq8VfInnhSjg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:24"
+  },
+  {
+    "business_name": "Vindhyavasini Pandey Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "3WH7+6M5, Siki Khurd, Uttar Pradesh 212110",
+    "area": "212301",
+    "latitude": 25.0780244,
+    "longitude": 81.9142301,
+    "place_id": "ChIJV59dy81BhTkRITEL8j2edXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV59dy81BhTkRITEL8j2edXc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:25"
+  }
+]

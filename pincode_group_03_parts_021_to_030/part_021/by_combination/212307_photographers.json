@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Studio",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer, Hot tub repair service, Photo agency, Shopping mall",
+    "pincode": "212307",
+    "phone_number": "+91 97952 88714",
+    "website": "https://satishstudio.com/",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Dhokari jalimkapura, saidabad, Dhokari jalimkapura, Road, Dhokari, Uttar Pradesh 221508",
+    "area": "212307",
+    "latitude": 25.363729499999998,
+    "longitude": 82.0843009,
+    "place_id": "ChIJLS09v-5ThTkRjFviG0uxRxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLS09v-5ThTkRjFviG0uxRxQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:43:23"
+  },
+  {
+    "business_name": "Sk photography and digital studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "212307",
+    "phone_number": "+91 70524 33725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near, Binda Chak Mukim, Saidabad, Uttar Pradesh 221508",
+    "area": "near",
+    "latitude": 25.3794121,
+    "longitude": 82.0971261,
+    "place_id": "ChIJLw1wTLdThTkRqNmyJ6NLjFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLw1wTLdThTkRqNmyJ6NLjFw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:43:26"
+  }
+]

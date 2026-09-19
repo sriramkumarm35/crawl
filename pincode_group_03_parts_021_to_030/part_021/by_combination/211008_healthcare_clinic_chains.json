@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Prayag Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "211008",
+    "phone_number": "+91 91296 02711",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A. D. A. Colony, Naini, Prayagraj, Chak Daud Nagar, Uttar Pradesh 211105, Prayagraj, Uttar Pradesh 211008",
+    "area": "ADA Colony, Naini",
+    "latitude": 25.3922185,
+    "longitude": 81.8807798,
+    "place_id": "ChIJberVEchLhTkRkgToCxmV3T4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJberVEchLhTkRkgToCxmV3T4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:16"
+  },
+  {
+    "business_name": "Medanta Labs - Jhushi, Prayagraj",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "211008",
+    "phone_number": "+91 124 483 4542",
+    "website": "https://www.medanta.org/medanta-labs",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prabhu Datt Brahmachari Tola, 9/148, near Railway Daat pull, New Jhusi, Varanasi, Prayagraj, Uttar Pradesh 211019",
+    "area": "New Jhusi",
+    "latitude": 25.4358786,
+    "longitude": 81.9058984,
+    "place_id": "ChIJsT4vsttLhTkRDCL8m_Xu4LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsT4vsttLhTkRDCL8m_Xu4LM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:17"
+  }
+]

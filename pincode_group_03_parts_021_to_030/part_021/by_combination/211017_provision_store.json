@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokul Tea & Dry Fruits",
+    "search_category": "Provision Store",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Tea store",
+    "pincode": "211017",
+    "phone_number": "+91 91663 15001",
+    "website": "http://gokuldryfruits.com/",
+    "rating": 4.9,
+    "reviews_count": 123,
+    "address": "Nai Sarak Circle, High Court Rd, Jodhpur, Rajasthan 342001",
+    "area": "Suraj Market, Sri Ganganagar",
+    "latitude": 26.2885295,
+    "longitude": 73.02612909999999,
+    "place_id": "ChIJz66QpKyNQTkRB7-dhKwQbVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz66QpKyNQTkRB7-dhKwQbVE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:54"
+  },
+  {
+    "business_name": "Agrawal Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "211017",
+    "phone_number": "+91 98296 59331",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 20,
+    "address": "485, Bharat Ashram Marg, Katewa Nagar, Devi Nagar, Shyam Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Katewa Nagar, Devi Nagar, Shyam Nagar",
+    "latitude": 26.8870962,
+    "longitude": 75.7614534,
+    "place_id": "ChIJ18zvWl-0bTkRwGM4yfvwMEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18zvWl-0bTkRwGM4yfvwMEk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:41:55"
+  }
+]

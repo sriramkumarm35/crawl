@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAKUL PET CARE",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "212203",
+    "phone_number": "+91 85870 34769",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "shop no. 25, Supertech Rameshwar Orchid, Arcade Shopping Complex, near yashoda hospital, Kaushambi, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Kaushambi",
+    "latitude": 28.6452745,
+    "longitude": 77.3292183,
+    "place_id": "ChIJY7lSgij7DDkRMyYV4BE_Y-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7lSgij7DDkRMyYV4BE_Y-Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:14"
+  },
+  {
+    "business_name": "A2Z PETS & AQUARIUM",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium shop",
+    "pincode": "212203",
+    "phone_number": "+91 93198 66198",
+    "website": "https://www.a2zpetshop.in/home",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "khusi ram market, near Car Detailing centre, Parthala Khanjarpur, Sector 122, Noida, Uttar Pradesh 201316",
+    "area": "Parthala Khanjarpur, Sector 122",
+    "latitude": 28.5928515,
+    "longitude": 77.39752969999999,
+    "place_id": "ChIJ7XBnPGjvDDkRViN_g_MRpWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XBnPGjvDDkRViN_g_MRpWU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:14"
+  }
+]

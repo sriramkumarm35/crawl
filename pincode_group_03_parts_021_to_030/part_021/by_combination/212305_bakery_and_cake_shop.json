@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DR Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop, Cake decorating equipment shop, Cupcake shop, Wedding bakery",
+    "pincode": "212305",
+    "phone_number": "+91 87806 92425",
+    "website": "https://www.instagram.com/dr_bakery07?igsh=MWtubHRxYjQ2ZWF6ZA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Library Char Rasta, nr. Nanpura, opp. Hill's Nursery School, Kharwawad, Nanpura, Surat, Gujarat 395001",
+    "area": "Kharwawad, Nanpura",
+    "latitude": 21.189750399999998,
+    "longitude": 72.8131386,
+    "place_id": "ChIJzVcRpNxP4DsRVNpI1cZzCeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVcRpNxP4DsRVNpI1cZzCeg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:36"
+  },
+  {
+    "business_name": "Deshraj Fast Foods",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "212305",
+    "phone_number": "+91 99363 23880",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhuipara Uparhar, Uttar Pradesh 212305",
+    "area": "212305",
+    "latitude": 25.3017601,
+    "longitude": 82.1932453,
+    "place_id": "ChIJG6ouuVhXhTkRovTEU-cca2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6ouuVhXhTkRovTEU-cca2g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:38"
+  }
+]

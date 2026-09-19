@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REST ENTERPRISES/JK TYRE",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "638P+5PM, beside old power house, Panti, Meja Rd, Allahabad, Uttar Pradesh 212303",
+    "area": "212305",
+    "latitude": 25.2154575,
+    "longitude": 82.0867833,
+    "place_id": "ChIJ1bnSW6pbhTkRYZRcWuUZSeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bnSW6pbhTkRYZRcWuUZSeY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:06"
+  },
+  {
+    "business_name": "Jk Tyre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "https://www.jktyre.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "638P+6P2, Meja Rd, Panti, Uttar Pradesh 212303",
+    "area": "212305",
+    "latitude": 25.2155032,
+    "longitude": 82.0867603,
+    "place_id": "ChIJ06qOqAJbhTkRe5y7YPsV56g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06qOqAJbhTkRe5y7YPsV56g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:10"
+  }
+]

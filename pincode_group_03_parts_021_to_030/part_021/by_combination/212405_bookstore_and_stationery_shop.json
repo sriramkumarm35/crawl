@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "212405",
+    "phone_number": "+91 78381 99493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panti Maja, Meja Rd, Soranv Pati, Uttar Pradesh 212303",
+    "area": "212405",
+    "latitude": 25.2155469,
+    "longitude": 82.0841937,
+    "place_id": "ChIJnVFj23dbhTkRULaVnwWwH5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVFj23dbhTkRULaVnwWwH5A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:51:01"
+  },
+  {
+    "business_name": "Sushil Stationery Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "212405",
+    "phone_number": "+91 99362 43412",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "209/150 Chak, Uttar Pradesh 211003",
+    "area": "Mohatsim Ganj",
+    "latitude": 25.440532599999997,
+    "longitude": 81.8404341,
+    "place_id": "ChIJUasgCsvKmjkRBWYlEbZJBD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUasgCsvKmjkRBWYlEbZJBD4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:51:03"
+  }
+]

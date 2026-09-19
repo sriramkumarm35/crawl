@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DJI Service Centre",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Camera repair shop",
+    "all_categories": "Camera repair shop, Drone shop",
+    "pincode": "211014",
+    "phone_number": "+91 89044 76465",
+    "website": "http://www.djiauthourisedservices.com/",
+    "rating": 3.2,
+    "reviews_count": 496,
+    "address": "Sadar Patrappa Rd, close to BANGALORE ELECTRONICS, near TOWN HALL, 3rd Cross, Dodpete, Nagarathpete, Bengaluru, Karnataka 560002",
+    "area": "3rd Cross, Dodpete, Nagarathpete",
+    "latitude": 12.9647771,
+    "longitude": 77.5833742,
+    "place_id": "ChIJKV2mhe4VrjsRqs5sWRlxG4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV2mhe4VrjsRqs5sWRlxG4o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:20"
+  },
+  {
+    "business_name": "Om studio",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "211014",
+    "phone_number": "N/A",
+    "website": "http://www.omstudiophotography.com/",
+    "rating": 3.7,
+    "reviews_count": 95,
+    "address": "near Prithvi nath mandir, Saharanpur Chowk, Jhanda Bazar, Tilak Nagar, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Saharanpur Chowk, Jhanda Bazar, Tilak Nagar, Khurbura Mohalla",
+    "latitude": 30.3180019,
+    "longitude": 78.0294689,
+    "place_id": "ChIJ8cFK94ApCTkRiKBCgnVBZa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cFK94ApCTkRiKBCgnVBZa8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:21"
+  }
+]

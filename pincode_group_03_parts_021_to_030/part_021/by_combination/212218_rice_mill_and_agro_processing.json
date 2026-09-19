@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "आटा चक्की",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "212218",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kura, Katra, Saray Ankil, Uttar Pradesh 212216",
+    "area": "Katra",
+    "latitude": 25.3774905,
+    "longitude": 81.5088935,
+    "place_id": "ChIJoftcD5nVhDkRG1xwb8TdFh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoftcD5nVhDkRG1xwb8TdFh4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:27"
+  },
+  {
+    "business_name": "ASK Rice Mill Group",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Rice mill",
+    "pincode": "212218",
+    "phone_number": "+91 98424 32122",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "214/49b,Kalleripattu Road Velapadi, Village, Arani, Tamil Nadu 632317",
+    "area": "212218",
+    "latitude": 12.652244399999999,
+    "longitude": 79.29906009999999,
+    "place_id": "ChIJzXHsQZErrTsRgOWzVrX7rJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXHsQZErrTsRgOWzVrX7rJA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:28"
+  }
+]

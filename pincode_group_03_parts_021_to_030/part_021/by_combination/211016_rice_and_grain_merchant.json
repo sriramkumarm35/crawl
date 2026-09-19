@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 210,
+    "address": "Sy.No. 288, 2, Kodichikkanahalli Main Rd, Bommanahalli, Bengaluru, Karnataka 560068",
+    "area": "Bommanahalli",
+    "latitude": 12.9020528,
+    "longitude": 77.6238946,
+    "place_id": "ChIJs77A6-kUrjsRox0H6SnGE3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs77A6-kUrjsRox0H6SnGE3Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:02"
+  },
+  {
+    "business_name": "Grains Mart Rice Dealer Retail & Wholesale",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pila, Laguna, Philippines",
+    "area": "211016",
+    "latitude": 14.251144,
+    "longitude": 121.36339559999999,
+    "place_id": "ChIJe-POjyTilzMR55YYOhn_TvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-POjyTilzMR55YYOhn_TvE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:03"
+  }
+]

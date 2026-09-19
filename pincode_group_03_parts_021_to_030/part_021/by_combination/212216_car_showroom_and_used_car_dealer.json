@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ronak Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "212216",
+    "phone_number": "+91 97180 00013",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "KD, 84A, Ashok Vihar Phase 1 Rd, New Delhi, Delhi 110052",
+    "area": "Block KD, Wazirpur Village, Ashok Vihar",
+    "latitude": 28.6896819,
+    "longitude": 77.175433,
+    "place_id": "ChIJYYWI4RkDDTkRNSeHddXzjAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYWI4RkDDTkRNSeHddXzjAM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:48"
+  },
+  {
+    "business_name": "The Car Mall",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Used car dealer",
+    "pincode": "212216",
+    "phone_number": "+91 98112 42588",
+    "website": "http://thecarmall.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "17/10, Ground Floor, Old Rajinder Nagar, New Delhi-110008, Delhi, 110060",
+    "area": "Block 17, Rajinder Nagar",
+    "latitude": 28.639032,
+    "longitude": 77.1838446,
+    "place_id": "ChIJG3m3OaMCDTkR8GyIOAwfAHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3m3OaMCDTkR8GyIOAwfAHc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:27:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Extro Marketing Agency",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Marketing agency, Marketing consultant, Website designer",
+    "pincode": "211023",
+    "phone_number": "+91 91484 04621",
+    "website": "https://extromarketing.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd Floor Kittur Enclave Opposite BVB College, near Drnk Lab, Vidya Nagar, Hubballi, Karnataka 580031",
+    "area": "Prashant Colony, Vidya Nagar",
+    "latitude": 15.3680021,
+    "longitude": 75.12053709999999,
+    "place_id": "ChIJOb53GfTNuDsR-SAikPpikY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOb53GfTNuDsR-SAikPpikY8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:54:33"
+  },
+  {
+    "business_name": "To Grow Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "211023",
+    "phone_number": "+91 72000 70191",
+    "website": "https://www.togrowmarketing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No.6, Karumari Amman Koil Rd, Bharatidasan Nagar, Kamaraj Nagar, Avadi, Tamil Nadu 600071",
+    "area": "Bharatidasan Nagar, Kamaraj Nagar",
+    "latitude": 13.1134503,
+    "longitude": 80.0928045,
+    "place_id": "ChIJR61PkbCJUjoRnhBUNpeojzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR61PkbCJUjoRnhBUNpeojzY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:54:33"
+  }
+]

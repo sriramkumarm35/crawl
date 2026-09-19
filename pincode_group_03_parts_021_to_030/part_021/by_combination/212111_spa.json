@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dragon Thai Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Day spa, Massage therapist, Spa, Spa and health club",
+    "pincode": "212111",
+    "phone_number": "+91 81128 11871",
+    "website": "https://dragonspa.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B-16/1, Para Rd, near Phoenix United Mall, Sector B, Bargawan, Aashiyana, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector B, Bargawan, Aashiyana",
+    "latitude": 26.7981743,
+    "longitude": 80.89835599999999,
+    "place_id": "ChIJixJ69Mj_mzkR3iwSY_aFUCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixJ69Mj_mzkR3iwSY_aFUCo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:46"
+  },
+  {
+    "business_name": "Regina Pools & Spas",
+    "search_category": "Spa",
+    "primary_category": "Hot tub store",
+    "all_categories": "Hot tub store, Hot tub repair service, Pool cleaning service, Sauna store, Swimming pool supply store",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "https://reginapools.com/",
+    "rating": 4.8,
+    "reviews_count": 256,
+    "address": "2066 York Rd, Timonium, MD 21093, United States",
+    "area": "212111",
+    "latitude": 39.4390504,
+    "longitude": -76.6261581,
+    "place_id": "ChIJNfLuHREOyIkRIxvuwh6j3Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfLuHREOyIkRIxvuwh6j3Wg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:47"
+  }
+]

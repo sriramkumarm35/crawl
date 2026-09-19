@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrejal Makeup Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "212503",
+    "phone_number": "+91 88503 21584",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Holagarh Soraon Soraon, Uttar Pradesh 212503",
+    "area": "212503",
+    "latitude": 25.6379627,
+    "longitude": 81.7740934,
+    "place_id": "ChIJ_eV9eb_FmjkR3KBFaAenMjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_eV9eb_FmjkR3KBFaAenMjA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:54:29"
+  },
+  {
+    "business_name": "Sandhya Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "212503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Sundar nagar chauraha, Sundar nagar, Barai Harakh, Jurapur Biher, Uttar Pradesh 212503",
+    "area": "Sundar nagar",
+    "latitude": 25.6175064,
+    "longitude": 81.7502648,
+    "place_id": "ChIJdcmpdlzPmjkRE7ljqs4Mtq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcmpdlzPmjkRE7ljqs4Mtq0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:54:29"
+  }
+]

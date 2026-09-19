@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saumya Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Koraon Rd, Shastri Nagar Ledeyari, Vale Road, Koraon, Uttar Pradesh 212306",
+    "area": "Shastri Nagar",
+    "latitude": 24.993050999999998,
+    "longitude": 82.07249089999999,
+    "place_id": "ChIJl_kfi0RnhTkR8PNYA_eYJGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_kfi0RnhTkR8PNYA_eYJGA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:40:46"
+  },
+  {
+    "business_name": "Daily Dose pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "212306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2W2M+F6Q, Leriyari, Uttar Pradesh 212110",
+    "area": "212306",
+    "latitude": 25.0012156,
+    "longitude": 81.93310319999999,
+    "place_id": "ChIJ70qpZQBrhTkRHi7SpyAQbTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70qpZQBrhTkRHi7SpyAQbTA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:40:49"
+  }
+]

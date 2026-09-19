@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Cyber Cafe & Mobile Repairing",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "212303",
+    "phone_number": "+91 97954 76046",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "001 Chhatwa Sirsa Meja Allahabad Allahabad, Uttar Pradesh 212305",
+    "area": "212303",
+    "latitude": 25.2634677,
+    "longitude": 82.0961651,
+    "place_id": "ChIJaYONTABRhTkRE0VV2X5B2nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYONTABRhTkRE0VV2X5B2nE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:55"
+  },
+  {
+    "business_name": "SANJEEV CSC CENTER TULAPUR AUNTA",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "212303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tulapur, Auta, Uttar Pradesh 212303",
+    "area": "212303",
+    "latitude": 25.213447199999997,
+    "longitude": 82.1540081,
+    "place_id": "ChIJ13ZVqPNZhTkRbVdoMDTLm-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13ZVqPNZhTkRbVdoMDTLm-A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:55"
+  }
+]

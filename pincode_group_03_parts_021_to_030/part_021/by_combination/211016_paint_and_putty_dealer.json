@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Danish Iqbal",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "211016",
+    "phone_number": "+91 99362 78255",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Damaur, Bahariya, Ghaus Nagar, Uttar Pradesh 211016",
+    "area": "Ghaus Nagar, J K Nagar, Kareli",
+    "latitude": 25.427334899999998,
+    "longitude": 81.8104803,
+    "place_id": "ChIJ7U9VEc40hTkRAAAAMAahS1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7U9VEc40hTkRAAAAMAahS1E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:46"
+  },
+  {
+    "business_name": "Nerolac Center - Agarwal Hardware.",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "211016",
+    "phone_number": "+91 93351 58378",
+    "website": "https://www.nerolac.com/store-locator/uttar-pradesh/prayagraj/agarwal-hardware-?utm_source=google_maps&utm_medium=organic",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Crr5+95G, 224, Lukarganj, Prayagraj, Uttar Pradesh 211015",
+    "area": "Lukarganj",
+    "latitude": 25.440927,
+    "longitude": 81.8078982,
+    "place_id": "ChIJrZ13hQTLmjkRCjm3PWoi2CY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ13hQTLmjkRCjm3PWoi2CY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:46"
+  }
+]

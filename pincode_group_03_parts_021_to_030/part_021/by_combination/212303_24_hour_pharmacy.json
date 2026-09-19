@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eleven Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212303",
+    "phone_number": "+91 96955 23075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CVR7+CWC, madhwapur, Bairhana, Prayagraj, Uttar Pradesh 211006",
+    "area": "Bairhana",
+    "latitude": 25.4410572,
+    "longitude": 81.86476019999999,
+    "place_id": "ChIJ61D6Z6rKmjkREXiJk_xic6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61D6Z6rKmjkREXiJk_xic6Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:57"
+  },
+  {
+    "business_name": "Captain Pharma Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212303",
+    "phone_number": "+91 87389 03508",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chungi Chungi, Govindpur, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Chungi Chungi, Govindpur, Teliarganj",
+    "latitude": 25.4906452,
+    "longitude": 81.8716058,
+    "place_id": "ChIJtX9Y_JPNmjkRgSw-a4cuN2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtX9Y_JPNmjkRgSw-a4cuN2g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swadeshi fast food corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "212303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "FV79+36G, Chota Baghada, New Rest House Railway Colony, Prayagraj, Uttar Pradesh 211002",
+    "area": "Chota Baghada, New Rest House Railway Colony",
+    "latitude": 25.462682899999997,
+    "longitude": 81.8680837,
+    "place_id": "ChIJyY-AH821mjkRGtGZTy-AfEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyY-AH821mjkRGtGZTy-AfEU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:45"
+  },
+  {
+    "business_name": "shivlakhan chat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "57WX+9FW, Bhaurupur Ajagana, Uttar Pradesh 231313",
+    "area": "212303",
+    "latitude": 25.1959879,
+    "longitude": 82.29870199999999,
+    "place_id": "ChIJlSUYebT2jzkR2kANEUiQC80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSUYebT2jzkR2kANEUiQC80",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:47"
+  }
+]

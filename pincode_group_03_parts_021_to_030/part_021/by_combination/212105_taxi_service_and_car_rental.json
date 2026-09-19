@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varanasi Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Chauffeur service, Minibus taxi service, Travel agency",
+    "pincode": "212105",
+    "phone_number": "+91 88879 99562",
+    "website": "https://www.varanasitaxiservices.com/",
+    "rating": 4.8,
+    "reviews_count": 854,
+    "address": "SA 5/137 K-R Sanjay Nagar Colony, Ramrepur, Paharia, Varanasi, Uttar Pradesh 221007",
+    "area": "Ramrepur, Akatha, Paharia",
+    "latitude": 25.3638205,
+    "longitude": 83.00139779999999,
+    "place_id": "ChIJJVdkRZovjjkRC_7oDtf7ujQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVdkRZovjjkRC_7oDtf7ujQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:57:11"
+  },
+  {
+    "business_name": "Sri Swami Narayan Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "212105",
+    "phone_number": "+91 95652 21322",
+    "website": "https://sriswaminarayantravels.com/",
+    "rating": 4.9,
+    "reviews_count": 1383,
+    "address": "Shop No.3 & 4, First Floor, Babu Banarsi Das Market, opposite Ram Mandir, New Colony, Ayodhya, Uttar Pradesh 224123",
+    "area": "New Colony",
+    "latitude": 26.7939796,
+    "longitude": 82.2023959,
+    "place_id": "ChIJvUDb8aAHmjkRk5vg3IoarXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUDb8aAHmjkRk5vg3IoarXQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:57:11"
+  }
+]

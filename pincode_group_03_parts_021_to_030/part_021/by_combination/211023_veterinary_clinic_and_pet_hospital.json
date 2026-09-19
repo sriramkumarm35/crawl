@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASHA PET CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital, Pet groomer, Pet sitter, Pet store, Pet supply store, Veterinary pharmacy",
+    "pincode": "211023",
+    "phone_number": "+91 73381 75535",
+    "website": "http://www.ashapetclinic.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "7th Main, Malleshpalya Main Road Malleshpalya, Kaggadasapura Landmark - Beside Indian Overseas Bank (IOB, Bengaluru, Karnataka 560075",
+    "area": "Malleshpalya, Kaggadasapura",
+    "latitude": 12.973813499999999,
+    "longitude": 77.673823,
+    "place_id": "ChIJObfJE1oRrjsRnxd92W-m80s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObfJE1oRrjsRnxd92W-m80s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:53:19"
+  },
+  {
+    "business_name": "SKS veterinary hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Pet groomer, Pet store, Pet supply store, Veterinarian, Veterinary pharmacy",
+    "pincode": "211023",
+    "phone_number": "+91 74491 00023",
+    "website": "http://www.skspethospital.com/",
+    "rating": 4.2,
+    "reviews_count": 250,
+    "address": "17, Service Rd, Geethanjali Layout, HAL 3rd Stage, Indiranagar, New Thippasandra, Bengaluru, Karnataka 560075",
+    "area": "Geethanjali Layout, HAL 3rd Stage, Indiranagar, New Thippasandra",
+    "latitude": 12.975859699999999,
+    "longitude": 77.6554658,
+    "place_id": "ChIJXUHrPowRrjsRqngkSRx-rro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUHrPowRrjsRqngkSRx-rro",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:53:22"
+  }
+]

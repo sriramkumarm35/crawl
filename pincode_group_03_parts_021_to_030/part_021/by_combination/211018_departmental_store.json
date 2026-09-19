@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modicare Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Grocery store",
+    "pincode": "211018",
+    "phone_number": "N/A",
+    "website": "https://www.modicare.com/",
+    "rating": 3.8,
+    "reviews_count": 16,
+    "address": "106, 5A, Malviya Rd, Darbhanga Colony, George Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "Darbhanga Colony, George Town",
+    "latitude": 25.450365899999998,
+    "longitude": 81.860438,
+    "place_id": "ChIJK5sRn0jLmjkRwq6IuMZ7Kpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5sRn0jLmjkRwq6IuMZ7Kpo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:37"
+  },
+  {
+    "business_name": "New J. R Department",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211018",
+    "phone_number": "+91 93364 37155",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "90 -b, The Adelphi, Allen Ganj, Prayagraj, Uttar Pradesh 211002",
+    "area": "The Adelphi, Allen Ganj",
+    "latitude": 25.4634468,
+    "longitude": 81.8649338,
+    "place_id": "ChIJs4a9aK_LmjkRxRNEMlRl0ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4a9aK_LmjkRxRNEMlRl0ao",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:37"
+  }
+]

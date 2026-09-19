@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayocare Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212208",
+    "phone_number": "+91 70074 12938",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "FQ28+3H7, Dharamveer Marg, near by Police Chowki, Transport Nagar, Dhoomanganj, Prayagraj, Uttar Pradesh 211011",
+    "area": "Transport Nagar, Dhoomanganj",
+    "latitude": 25.4501687,
+    "longitude": 81.76642729999999,
+    "place_id": "ChIJgcBSmLzMmjkRmPvjfbvd8HQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcBSmLzMmjkRmPvjfbvd8HQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:30"
+  },
+  {
+    "business_name": "manav seva sansthan hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "5896/1C, Begum Bazaar, Bamrauli, Prayagraj, Uttar Pradesh 211012",
+    "area": "Begum Bazaar, Bamrauli",
+    "latitude": 25.452681199999997,
+    "longitude": 81.72056289999999,
+    "place_id": "ChIJsxcTfvDNmjkR4xipQddLF68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxcTfvDNmjkR4xipQddLF68",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arshad Arabic Fiesta",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "211016",
+    "phone_number": "+91 84170 54778",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Munna masjid road, J K Nagar, Kala Danda, Prayagraj, Daiwghat, Uttar Pradesh 211016",
+    "area": "J K Nagar, Kala Danda",
+    "latitude": 25.4287,
+    "longitude": 81.80623709999999,
+    "place_id": "ChIJZzumrGA1hTkRrb1F0Fvl1-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzumrGA1hTkRrb1F0Fvl1-Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:12"
+  },
+  {
+    "business_name": "Pizzano Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "211016",
+    "phone_number": "+91 93355 20694",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Meerapur, Prayagraj, Uttar Pradesh 211003",
+    "area": "Meerapur",
+    "latitude": 25.4298356,
+    "longitude": 81.8290237,
+    "place_id": "ChIJl8P8Bf41hTkRi90gXitxKnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8P8Bf41hTkRi90gXitxKnY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:12"
+  }
+]

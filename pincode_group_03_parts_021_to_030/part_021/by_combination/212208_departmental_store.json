@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsit kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "212208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FJMH+WMX, Charwa Rd, Saiyed Sarawan, Uttar Pradesh 212213",
+    "area": "212208",
+    "latitude": 25.4849957,
+    "longitude": 81.62927409999999,
+    "place_id": "ChIJhSaOOwDTmjkRBixWEy0wIxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSaOOwDTmjkRBixWEy0wIxs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:19:57"
+  },
+  {
+    "business_name": "VIJAY GENRAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CPP5+8RW, Unnamed Road, Abdul Wahabpur, Prayagraj, Uttar Pradesh 211012",
+    "area": "212208",
+    "latitude": 25.435865,
+    "longitude": 81.7095743,
+    "place_id": "ChIJB7oyrUzNmjkRpC3xl0rQ0E0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7oyrUzNmjkRpC3xl0rQ0E0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:19:58"
+  }
+]

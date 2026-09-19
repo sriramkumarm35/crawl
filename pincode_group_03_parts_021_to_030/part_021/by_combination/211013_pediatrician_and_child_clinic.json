@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ramesh Child Care Centre",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "211013",
+    "phone_number": "+91 78008 11389",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "B-6, near SBI, Govindpur, Prayagraj, Uttar Pradesh 211004",
+    "area": "Govindpur, Teliarganj",
+    "latitude": 25.4947946,
+    "longitude": 81.8731284,
+    "place_id": "ChIJAQAkuYW1mjkRROXub1g4D7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAkuYW1mjkRROXub1g4D7w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:51"
+  },
+  {
+    "business_name": "Dr. Amir",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Central healthcare hospital, Chandapur Rd, Prayagraj, Malak Herher Uperhar, Uttar Pradesh 211013",
+    "area": "211013",
+    "latitude": 25.5400685,
+    "longitude": 81.83326009999999,
+    "place_id": "ChIJ7fLBirnJmjkR5J8Q-FfkA4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fLBirnJmjkR5J8Q-FfkA4A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:53"
+  }
+]

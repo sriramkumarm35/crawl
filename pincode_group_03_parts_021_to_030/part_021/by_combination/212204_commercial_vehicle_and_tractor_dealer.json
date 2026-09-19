@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra Eicher Tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "212204",
+    "phone_number": "+91 99194 58522",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "near POST OFFICE, Kunda, Uttar Pradesh 230204",
+    "area": "212204",
+    "latitude": 25.7222285,
+    "longitude": 81.5109301,
+    "place_id": "ChIJdU4SdQMhmzkRBB5se7foDKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdU4SdQMhmzkRBB5se7foDKA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:28"
+  },
+  {
+    "business_name": "Prakash Automobiles Farmtrac",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "212204",
+    "phone_number": "+91 96951 89176",
+    "website": "https://www.farmtracagri.com/in/en/dealers/prakash-automobiles-handia/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "pillar no.2, Lala Bajaar, Handia, Uttar Pradesh 221503",
+    "area": "212204",
+    "latitude": 25.3644687,
+    "longitude": 82.1767644,
+    "place_id": "ChIJdZXphrZVhTkRohOhoQYyfvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZXphrZVhTkRohOhoQYyfvA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay &co.",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer",
+    "pincode": "211013",
+    "phone_number": "+91 75181 80683",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Morahun Rd, nai basti, Prayagraj, Morahun Uperhar, Uttar Pradesh 211013",
+    "area": "nai basti",
+    "latitude": 25.5298585,
+    "longitude": 81.84048109999999,
+    "place_id": "ChIJO2JDWYXLmjkR20q3lpGJUwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2JDWYXLmjkR20q3lpGJUwc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:42"
+  },
+  {
+    "business_name": "Sheetal teilors and school uniform",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "40 no, gomti, Pandila Rd, Sahjipur, Uttar Pradesh 211013",
+    "area": "211013",
+    "latitude": 25.545032199999998,
+    "longitude": 81.90494509999999,
+    "place_id": "ChIJmw7Ytoa3mjkR5ghK0RKN3NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmw7Ytoa3mjkR5ghK0RKN3NQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:45"
+  }
+]

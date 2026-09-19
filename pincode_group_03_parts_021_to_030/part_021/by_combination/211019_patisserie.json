@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Treats Hub",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "211019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Avas Vikas, Sector Number 2, Yojna, Prayagraj, Jhusi, Uttar Pradesh 211019",
+    "area": "Avas Vikas, Sector Number 2, Yojna",
+    "latitude": 25.4237608,
+    "longitude": 81.9131475,
+    "place_id": "ChIJ-0weLQ5LhTkR5vwVG8-uphE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0weLQ5LhTkR5vwVG8-uphE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:31"
+  },
+  {
+    "business_name": "kamdhenu",
+    "search_category": "Patisserie",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "211019",
+    "phone_number": "+91 85639 63448",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Near, Police Chowki Rd, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "211019",
+    "latitude": 25.428829,
+    "longitude": 81.915724,
+    "place_id": "ChIJydw-US9LhTkRLTVADDisnJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydw-US9LhTkRLTVADDisnJE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:33"
+  }
+]

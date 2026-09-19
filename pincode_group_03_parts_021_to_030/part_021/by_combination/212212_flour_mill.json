@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur Roller Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "212212",
+    "phone_number": "+91 70230 20020",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 31,
+    "address": "50-51 Mangalam Industrial City,Jaitpura, Sikar Rd, Chomu, Rajasthan 303704",
+    "area": "212212",
+    "latitude": 27.1362496,
+    "longitude": 75.7206394,
+    "place_id": "ChIJAbExoC6rbTkRusW2IUoey_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbExoC6rbTkRusW2IUoey_c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:21:50"
+  },
+  {
+    "business_name": "Rutuja Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "212212",
+    "phone_number": "+91 97635 14177",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "2, Bhoirwadi Rd, Phase 3, Rajiv Gandhi Infotech Park, Hinjawadi, Bhoirwadi, Maharashtra 411057",
+    "area": "Phase 3, Rajiv Gandhi Infotech Park",
+    "latitude": 18.5845745,
+    "longitude": 73.680156,
+    "place_id": "ChIJET3jDWe7wjsR9-FCGzYPk3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJET3jDWe7wjsR9-FCGzYPk3s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:21:50"
+  }
+]

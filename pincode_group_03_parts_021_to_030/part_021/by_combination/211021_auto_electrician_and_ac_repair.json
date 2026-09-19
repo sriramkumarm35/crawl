@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YASH CAR REPAIRING",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Auto restoration service, Car wash",
+    "pincode": "211021",
+    "phone_number": "+91 98878 09395",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 35,
+    "address": "CC-243, opp. White House, Gole Market, Jawahar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Gole Market, Jawahar Nagar",
+    "latitude": 26.8923544,
+    "longitude": 75.8401174,
+    "place_id": "ChIJv-6KUXe3bTkRTJ8MsSNZvds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-6KUXe3bTkRTJ8MsSNZvds",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:45"
+  },
+  {
+    "business_name": "Sandeep Auto Grage",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "211021",
+    "phone_number": "+91 93052 25972",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shantipuram, Phaphamau, Uttar Pradesh 211013",
+    "area": "Shantipuram",
+    "latitude": 25.5341192,
+    "longitude": 81.8537534,
+    "place_id": "ChIJP9nPAAjJmjkRwc_DlZr1Ps8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9nPAAjJmjkRwc_DlZr1Ps8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:48"
+  }
+]

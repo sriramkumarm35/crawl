@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarya Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Institute of technology",
+    "all_categories": "Institute of technology",
+    "pincode": "212301",
+    "phone_number": "+91 99182 95716",
+    "website": "http://aaryacomputers.weebly.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prayagraj, Uttar Pradesh 212301",
+    "area": "212301",
+    "latitude": 25.28257,
+    "longitude": 81.9727616,
+    "place_id": "ChIJ108rWT5PhTkRknnGHZ2wgX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ108rWT5PhTkRknnGHZ2wgX4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:00"
+  },
+  {
+    "business_name": "Shine Computer Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "http://shineacademy.co.in/%20%20Mo-9450286517",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Marrige Hall D.G.S, Sirsa - Meja Rd, Uttar Pradesh 212303",
+    "area": "212301",
+    "latitude": 25.2214673,
+    "longitude": 82.0812273,
+    "place_id": "ChIJ25EXRmVbhTkR4yC2mnrfvAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25EXRmVbhTkR4yC2mnrfvAI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:00"
+  }
+]

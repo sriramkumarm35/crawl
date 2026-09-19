@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "212402",
+    "phone_number": "+91 88876 15102",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Royal Tailor Panchayat Bhawan, Phulpur, Mailhan, Sonkhari, Uttar Pradesh 212402",
+    "area": "Phulpur",
+    "latitude": 25.6123023,
+    "longitude": 82.0930131,
+    "place_id": "ChIJhXYE05evmjkRMm7bZ38UUeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXYE05evmjkRMm7bZ38UUeE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:21"
+  },
+  {
+    "business_name": "S.R. Collection",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "212402",
+    "phone_number": "+91 81156 84111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "no.3, Fatima Market, near Iffco gate, Beerqazi, Phoolpur, Beer Kaji, Uttar Pradesh 212404",
+    "area": "Beerqazi",
+    "latitude": 25.530021299999998,
+    "longitude": 82.0626587,
+    "place_id": "ChIJW5eZb2itmjkRcyIfOyNQ4Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5eZb2itmjkRcyIfOyNQ4Qk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:21"
+  }
+]

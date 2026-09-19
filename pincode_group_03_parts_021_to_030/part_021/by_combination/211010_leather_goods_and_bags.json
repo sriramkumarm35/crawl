@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Enfield",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "211010",
+    "phone_number": "+91 82918 89493",
+    "website": "https://www.royalenfield.com/",
+    "rating": 4.2,
+    "reviews_count": 149,
+    "address": "Ambedkar Nagar, Prayagraj, Uttar Pradesh 211008",
+    "area": "Ambedkar Nagar",
+    "latitude": 25.406785499999998,
+    "longitude": 81.8675573,
+    "place_id": "ChIJG_P9Ga01hTkRilz_7bxEYHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_P9Ga01hTkRilz_7bxEYHU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:56"
+  },
+  {
+    "business_name": "Amrapali Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "211010",
+    "phone_number": "+91 88081 03535",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9VR6+QHC, Naini Station, Hanuman Nagar, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Hanuman Nagar, Naini",
+    "latitude": 25.391943899999998,
+    "longitude": 81.86138559999999,
+    "place_id": "ChIJl7kGOn81hTkRvaqcP-cX6Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl7kGOn81hTkRvaqcP-cX6Xc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:58"
+  }
+]

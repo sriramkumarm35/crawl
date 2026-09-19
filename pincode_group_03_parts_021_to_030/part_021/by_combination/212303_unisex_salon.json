@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "212303",
+    "phone_number": "+91 75183 08919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Meja Road, Allahabad, Korhniya, Uttar Pradesh 212303",
+    "area": "212303",
+    "latitude": 25.178620199999997,
+    "longitude": 82.1568561,
+    "place_id": "ChIJyfPJZItZhTkR5oYYSimtagk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfPJZItZhTkR5oYYSimtagk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:31"
+  },
+  {
+    "business_name": "BEAUTY PLAZA",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beauty product supplier, Cosmetics store",
+    "pincode": "212303",
+    "phone_number": "N/A",
+    "website": "https://www.fresha.com/book-now/makeup-by-me-gyfco505/services?lid=1307268&eid=3017374&pId=1241230",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "MIC Market, Shaukat Ali Rd, Atala, Prayagraj, Uttar Pradesh 211003",
+    "area": "Atala",
+    "latitude": 25.4306941,
+    "longitude": 81.8277011,
+    "place_id": "ChIJi8aZVBU1hTkRKYAz3lx3apw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8aZVBU1hTkRKYAz3lx3apw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:37:34"
+  }
+]

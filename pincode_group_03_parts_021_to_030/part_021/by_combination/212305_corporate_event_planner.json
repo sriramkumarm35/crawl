@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADR Event & Floor D.j",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tai Saraiya Meja Road, Uttar Pradesh 212303",
+    "area": "212305",
+    "latitude": 25.220557499999998,
+    "longitude": 82.1451036,
+    "place_id": "ChIJkwJrjshZhTkRr2FwsGwvvKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwJrjshZhTkRr2FwsGwvvKE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:43"
+  },
+  {
+    "business_name": "Maa durga event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "86R6+882, Jagua Sodha, Uttar Pradesh 221503",
+    "area": "212305",
+    "latitude": 25.340756799999998,
+    "longitude": 82.2107601,
+    "place_id": "ChIJD0MyYwBXhTkRJtD_uG7zjnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0MyYwBXhTkRJtD_uG7zjnk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:45"
+  }
+]

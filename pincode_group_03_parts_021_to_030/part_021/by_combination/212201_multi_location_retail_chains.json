@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Mo Shop",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Supermarket",
+    "pincode": "212201",
+    "phone_number": "+91 90052 91155",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Berries chauraha, Bairua, Uttar Pradesh 212203",
+    "area": "212201",
+    "latitude": 25.491197399999997,
+    "longitude": 81.51849729999999,
+    "place_id": "ChIJ-Z_Xf_PVmjkROQ7brX7dsgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Z_Xf_PVmjkROQ7brX7dsgc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:20"
+  },
+  {
+    "business_name": "Karari Chauraha",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Auto rickshaw stand",
+    "all_categories": "Auto rickshaw stand",
+    "pincode": "212201",
+    "phone_number": "+91 95557 26466",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "karari - Manjhanpur Rd, Krishna Nagar, Karari, Uttar Pradesh 212206",
+    "area": "Krishna Nagar",
+    "latitude": 25.4518545,
+    "longitude": 81.4292348,
+    "place_id": "ChIJmfY3u6crmzkRlJBzUQt7KBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfY3u6crmzkRlJBzUQt7KBk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:21"
+  }
+]

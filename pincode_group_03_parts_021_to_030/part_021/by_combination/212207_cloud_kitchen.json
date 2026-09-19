@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chatori's Cloud Kitchen & Tiffin Service",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "212207",
+    "phone_number": "+91 98115 33829",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vaibhav Khand, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Vaibhav Khand, Indirapuram",
+    "latitude": 28.636429699999997,
+    "longitude": 77.364564,
+    "place_id": "ChIJHaW7v63lDDkRZ6HvIO4R_sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaW7v63lDDkRZ6HvIO4R_sw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:24"
+  },
+  {
+    "business_name": "The Rolling Plate Cloud Kitchen Lucknow",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212207",
+    "phone_number": "+91 99114 33384",
+    "website": "https://cloudkitchen.org.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kursi Rd, Sector G, Sector L, Aliganj, Lucknow, Uttar Pradesh 226026",
+    "area": "Sector G, Sector L, Aliganj",
+    "latitude": 26.8929893,
+    "longitude": 80.9499359,
+    "place_id": "ChIJv-hDRChXmTkRYlIrVJlm60Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-hDRChXmTkRYlIrVJlm60Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:25"
+  }
+]

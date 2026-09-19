@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samar clinic and medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Child health care center, Laboratory, Medical Center",
+    "pincode": "212108",
+    "phone_number": "+91 96256 46862",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghusurum, Garhi, Majhiyari, Madhya Pradesh 486220",
+    "area": "Ghusurum",
+    "latitude": 25.0693,
+    "longitude": 81.5354953,
+    "place_id": "ChIJxyrX2p4hhTkRgA0UfK0qUqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyrX2p4hhTkRgA0UfK0qUqs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:02:33"
+  },
+  {
+    "business_name": "Suman medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212108",
+    "phone_number": "+91 91093 35083",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chaurasia market, shankarghar road, Nari Bari, Uttar Pradesh 212110",
+    "area": "212108",
+    "latitude": 25.0772345,
+    "longitude": 81.7401579,
+    "place_id": "ChIJt69mp849hTkRYADB4ire0xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt69mp849hTkRYADB4ire0xk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:02:35"
+  }
+]

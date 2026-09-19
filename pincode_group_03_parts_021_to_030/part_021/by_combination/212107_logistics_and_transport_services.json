@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhi Vinayak Logistics LTD.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "212107",
+    "phone_number": "+91 95599 79569",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C/o Kamlakant Tiwari, Newada Samogar, Raymand Tihara, Allahbad, Uttar Pradesh 212111",
+    "area": "212107",
+    "latitude": 25.348872,
+    "longitude": 81.860682,
+    "place_id": "ChIJGQAAAPw1hTkRFgAWY3HSyNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQAAAPw1hTkRFgAWY3HSyNk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:57"
+  },
+  {
+    "business_name": "TCI FREIGHT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Transportation service",
+    "pincode": "212107",
+    "phone_number": "+91 98188 66824",
+    "website": "http://www.tcifreight.in/",
+    "rating": 3.6,
+    "reviews_count": 12,
+    "address": "PLOT NO. 107 TO 109,, TRANSPORT NAGAR, MIRA PATTI MUNDERA, Prayagraj, Uttar Pradesh 212111",
+    "area": "212107",
+    "latitude": 25.3488623,
+    "longitude": 81.8607227,
+    "place_id": "ChIJGQAAAPw1hTkRNYwwZ17fN5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQAAAPw1hTkRNYwwZ17fN5M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:57"
+  }
+]

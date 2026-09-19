@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AVS Group of Technology",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "211012",
+    "phone_number": "+91 89228 20004",
+    "website": "http://www.avsitsolutions.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4513493,
+    "longitude": 81.83312959999999,
+    "place_id": "ChIJZWN2NNvKmjkRIu-OJMvXA9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWN2NNvKmjkRIu-OJMvXA9c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:52"
+  },
+  {
+    "business_name": "SK enterprises",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "211012",
+    "phone_number": "+91 74991 78337",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st floor, Ambika tower, Nawab Yusuf Rd, Sangam Vihar Colony, Civil Lines, Prayagraj, Uttar Pradesh 211016",
+    "area": "Sangam Vihar Colony, Civil Lines",
+    "latitude": 25.448262099999997,
+    "longitude": 81.83040989999999,
+    "place_id": "ChIJcS6Q1FDLmjkRseDlkr3L-2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcS6Q1FDLmjkRseDlkr3L-2M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:52"
+  }
+]

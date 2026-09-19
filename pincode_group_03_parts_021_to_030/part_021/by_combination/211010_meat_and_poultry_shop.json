@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "allahabad poultry products",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Produce wholesaler",
+    "all_categories": "Produce wholesaler",
+    "pincode": "211010",
+    "phone_number": "+91 79052 14944",
+    "website": "https://allahabadpoultrypr.wixsite.com/allahabad",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anand nagar, industrial area, Naini, Prayagraj, Uttar Pradesh 212111",
+    "area": "industrial area, Naini",
+    "latitude": 25.3693395,
+    "longitude": 81.85782019999999,
+    "place_id": "ChIJ5_XBGtU1hTkRReGmNK28z3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_XBGtU1hTkRReGmNK28z3s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:39"
+  },
+  {
+    "business_name": "SAMEER TRADERS",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "211010",
+    "phone_number": "+91 86877 77374",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Johnston Ganj, Mohatsim Ganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Johnston Ganj, Mohatsim Ganj",
+    "latitude": 25.443638099999998,
+    "longitude": 81.8370927,
+    "place_id": "ChIJY2oU7vXLmjkRKcWcfzsoSZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2oU7vXLmjkRKcWcfzsoSZo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:39"
+  }
+]

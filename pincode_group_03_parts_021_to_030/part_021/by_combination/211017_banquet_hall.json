@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO Shambhunath Hotel And Banquet",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "211017",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/40282/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "High Court, 07F/06A Hasting Road, Nyaya Marg, Near Hanuman Mandir, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Near Hanuman Mandir, Canton, Civil Lines",
+    "latitude": 25.4505941,
+    "longitude": 81.82226349999999,
+    "place_id": "ChIJO_nY_NTLmjkRXHYB0KOPa8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_nY_NTLmjkRXHYB0KOPa8s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:53"
+  },
+  {
+    "business_name": "JR PALACE",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "211017",
+    "phone_number": "+91 81818 25355",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "high court, 1, Mahatma Gandhi Marg, in front of gate no 4, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Dhoomanganj",
+    "latitude": 25.4510476,
+    "longitude": 81.8208504,
+    "place_id": "ChIJtbYRjK7LmjkRFSRZVq8JRB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbYRjK7LmjkRFSRZVq8JRB0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:53"
+  }
+]

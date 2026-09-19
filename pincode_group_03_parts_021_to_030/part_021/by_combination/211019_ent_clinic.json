@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Anup Kumar ENT",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "211019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/21, Awas Vikas Colony, YOJANA-3, Yojna-2, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Awas Vikas Colony, YOJANA-3, Yojna-2",
+    "latitude": 25.4280327,
+    "longitude": 81.9147989,
+    "place_id": "ChIJd5TaagBLhTkRE06yNg28Xow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5TaagBLhTkRE06yNg28Xow",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:56"
+  },
+  {
+    "business_name": "Lakshmi hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital",
+    "pincode": "211019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C26M+P79,Apsara Chauraha GT Road Prayagraj, Road, Hanuman Ganj, Uttar Pradesh 221505",
+    "area": "211019",
+    "latitude": 25.4118125,
+    "longitude": 82.0331875,
+    "place_id": "ChIJl_YnEABNhTkR87bZ-_31i1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_YnEABNhTkR87bZ-_31i1M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Greens Fruits and Vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "212203",
+    "phone_number": "+91 89714 51165",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "19/9, G11, Carmelarm Road, Doddakannalli, Off Sarjapura Road, Bengaluru, Carmelaram, Chikkabellandur, Bengaluru, Karnataka 560035",
+    "area": "Carmelaram, Janatha Colony, Chikkabellandur",
+    "latitude": 12.9049807,
+    "longitude": 77.704489,
+    "place_id": "ChIJMynJqOASrjsRjK1Q0tvwkgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMynJqOASrjsRjK1Q0tvwkgs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:11"
+  },
+  {
+    "business_name": "New Fruitland",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "212203",
+    "phone_number": "+91 98455 81186",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "582, 9th A Main Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038",
+    "area": "Defence Colony, Indiranagar",
+    "latitude": 12.9778573,
+    "longitude": 77.64270239999999,
+    "place_id": "ChIJmZbMcK8WrjsRpyhclI4v6TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZbMcK8WrjsRpyhclI4v6TU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:11"
+  }
+]

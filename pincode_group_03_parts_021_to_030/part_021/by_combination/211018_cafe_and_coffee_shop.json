@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rowdy Cafe Prayagraj",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "211018",
+    "phone_number": "+91 93545 32384",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Ground Floor, 22A/06A/1B, Tej Bahdur Sapru Rd, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Civil Lines",
+    "latitude": 25.4578369,
+    "longitude": 81.8390124,
+    "place_id": "ChIJ66MviuzLmjkRnZKEmSp-VrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66MviuzLmjkRnZKEmSp-VrQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:49"
+  },
+  {
+    "business_name": "Coffee Machine",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "211018",
+    "phone_number": "+91 95321 11210",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shri Ram Complex, 54, Sardar Patel Marg, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Civil Lines",
+    "latitude": 25.4571252,
+    "longitude": 81.8353149,
+    "place_id": "ChIJ7wM6gpfLmjkRfe6uEhTioUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wM6gpfLmjkRfe6uEhTioUg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:43:51"
+  }
+]

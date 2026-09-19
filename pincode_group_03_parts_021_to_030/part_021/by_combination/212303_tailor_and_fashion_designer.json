@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "212303",
+    "phone_number": "+91 99358 43053",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "84K, Rasulabad, Teliyarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Mehdauri Colony, Rasulabad, Teliarganj",
+    "latitude": 25.5003784,
+    "longitude": 81.85557399999999,
+    "place_id": "ChIJvU255nHKmjkRWZfb5vUqbLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvU255nHKmjkRWZfb5vUqbLk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:53"
+  },
+  {
+    "business_name": "Smart Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "212303",
+    "phone_number": "+91 94506 34195",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "31, Katra, Prayagraj, Uttar Pradesh 211002",
+    "area": "Katra",
+    "latitude": 25.4638696,
+    "longitude": 81.8514739,
+    "place_id": "ChIJn1Xv7ZbKmjkR6d2jJzxohu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1Xv7ZbKmjkR6d2jJzxohu4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:53"
+  }
+]

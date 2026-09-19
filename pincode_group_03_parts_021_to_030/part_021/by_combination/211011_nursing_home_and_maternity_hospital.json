@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ujjwal Hospital And Maternity Center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Maternity Centre",
+    "pincode": "211011",
+    "phone_number": "+91 94151 37884",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 30,
+    "address": "6, Sector A, Shantipuram, Phaphamau, Uttar Pradesh 211013",
+    "area": "Sector A, Shantipuram",
+    "latitude": 25.526094099999998,
+    "longitude": 81.8525125,
+    "place_id": "ChIJdw4snhzKmjkROXk4eVFmwjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdw4snhzKmjkROXk4eVFmwjI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:54"
+  },
+  {
+    "business_name": "Prabhat Nursing Home & Maternity Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "211011",
+    "phone_number": "+91 94524 71583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "181D/2C, Phaphamau, Allahabad, Prayagraj, Uttar Pradesh 211013",
+    "area": "211011",
+    "latitude": 25.522258599999997,
+    "longitude": 81.8662496,
+    "place_id": "ChIJ24bTfvi1mjkRHOsw-UL04sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24bTfvi1mjkRHOsw-UL04sg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:57"
+  }
+]

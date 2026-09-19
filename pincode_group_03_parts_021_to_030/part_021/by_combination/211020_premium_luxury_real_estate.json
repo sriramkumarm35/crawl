@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Luxury Residences",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "211020",
+    "phone_number": "+91 93542 81026",
+    "website": "https://bestluxuryresidences.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tower 2, DLF CORPORATE GREENS, Sector 74A, Gurugram, Haryana 122001",
+    "area": "Sector 74A",
+    "latitude": 28.4068825,
+    "longitude": 76.997787,
+    "place_id": "ChIJw450d4M9DTkRZasc_mLnCw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw450d4M9DTkRZasc_mLnCw4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:48:45"
+  },
+  {
+    "business_name": "A2P Realtech Private Limited",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency, Commercial real estate agency, Real Estate Builders & Construction Company, Property management company, Real estate consultant",
+    "pincode": "211020",
+    "phone_number": "+91 81305 25001",
+    "website": "https://a2prealtech.com/",
+    "rating": 5,
+    "reviews_count": 2415,
+    "address": "Level 2, Ashirwad Chowk, A2P Realtech , Malik Plaza, Plot No 5, Desh Bandhu Gupta Marg, Sector 4, Delhi, 110078",
+    "area": "Sector 4, Dwarka",
+    "latitude": 28.5973129,
+    "longitude": 77.0498533,
+    "place_id": "ChIJ5QDgfo0bDTkR-_kfA48fb1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QDgfo0bDTkR-_kfA48fb1o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:48:46"
+  }
+]

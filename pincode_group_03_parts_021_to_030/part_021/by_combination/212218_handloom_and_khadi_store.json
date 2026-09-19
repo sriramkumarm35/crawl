@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K D Handloom Stores",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212218",
+    "phone_number": "+91 87099 79364",
+    "website": "http://www.thekdhs.in/",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Henary Bazar, Motihari, Bihar 845401",
+    "area": "Henary Bazar",
+    "latitude": 26.659778499999998,
+    "longitude": 84.9182501,
+    "place_id": "ChIJM-C2-Z41kzkR18qgBYLkno8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-C2-Z41kzkR18qgBYLkno8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:10"
+  },
+  {
+    "business_name": "Gorakhpur Handloom Khadi",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Store",
+    "all_categories": "Store, Clothing",
+    "pincode": "212218",
+    "phone_number": "+91 712 659 6276",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 39, Handloom Market, Gandhi Baug, Gandhi Baug, Nagpur, Maharashtra 440002",
+    "area": "Gandhibagh",
+    "latitude": 21.152638,
+    "longitude": 79.104677,
+    "place_id": "ChIJ0bj4EcDA1DsR81G1C2zsVic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsR81G1C2zsVic",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:10"
+  }
+]

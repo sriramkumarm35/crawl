@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "hashim battery",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "211010",
+    "phone_number": "+91 70849 40256",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Atoz Battery Pura Fateh Mohammad Petrol Tanki Ke Samne, Uttar Pradesh 211008",
+    "area": "Arail",
+    "latitude": 25.4041765,
+    "longitude": 81.8731095,
+    "place_id": "ChIJK98jGppLhTkRqzhOjNXQ090",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK98jGppLhTkRqzhOjNXQ090",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:17"
+  },
+  {
+    "business_name": "Ro best sarvice",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Air conditioning repair service",
+    "pincode": "211010",
+    "phone_number": "+91 75100 00976",
+    "website": "http://gp.hyundaimotor.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Kazipur Rd, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.393031699999998,
+    "longitude": 81.86655619999999,
+    "place_id": "ChIJz82g1X81hTkRYbIKVxjFChk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz82g1X81hTkRYbIKVxjFChk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:18"
+  }
+]

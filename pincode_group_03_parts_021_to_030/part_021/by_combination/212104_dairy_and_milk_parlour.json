@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dudh dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "212104",
+    "phone_number": "+91 80812 32854",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivala, Shamim Market Colony, Bamrauli, Prayagraj, Uttar Pradesh 211011",
+    "area": "Shivala, Shamim Market Colony, Bamrauli",
+    "latitude": 25.448277599999997,
+    "longitude": 81.743748,
+    "place_id": "ChIJOzYLZIvNmjkRxeBo2KBNZbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzYLZIvNmjkRxeBo2KBNZbE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:54:40"
+  },
+  {
+    "business_name": "Ladies Beauty Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "212104",
+    "phone_number": "+91 75248 22652",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "2D/2G, Beniganj, Prayagraj, Uttar Pradesh 211016",
+    "area": "Beniganj, Kala Danda",
+    "latitude": 25.4345428,
+    "longitude": 81.8096709,
+    "place_id": "ChIJqV1TzDLLmjkR9LB1-UarAKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqV1TzDLLmjkR9LB1-UarAKg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:54:42"
+  }
+]

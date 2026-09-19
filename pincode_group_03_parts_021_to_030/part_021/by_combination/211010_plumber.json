@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumber service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "211010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 7,
+    "address": "Ghaus Nagar, J K Nagar, Kala Danda, Prayagraj, Daiwghat, Uttar Pradesh 211016",
+    "area": "Ghaus Nagar, J K Nagar, Kala Danda",
+    "latitude": 25.4254361,
+    "longitude": 81.8051467,
+    "place_id": "ChIJseERpkE1hTkRnEhCRjyQ21g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseERpkE1hTkRnEhCRjyQ21g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:26"
+  },
+  {
+    "business_name": "Bhagavati electrical",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrician",
+    "pincode": "211010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "ED 378, ADA Colony, Naini, Prayagraj, Naini Taluka Naini Dadari, Uttar Pradesh 211008",
+    "area": "ADA Colony, Naini",
+    "latitude": 25.3889791,
+    "longitude": 81.8791291,
+    "place_id": "ChIJXToh8GJKhTkRQE4ff9HKfZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXToh8GJKhTkRQE4ff9HKfZ0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:29"
+  }
+]

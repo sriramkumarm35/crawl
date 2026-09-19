@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manjit Crane Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "212208",
+    "phone_number": "+91 93004 68083",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hirapur, Near Lunkrd Petrol Pump, Tatibandh, Ring Road No. 2, Raipur, Chhattisgarh 492009",
+    "area": "Janta Colony, Station Road, Moudhapara",
+    "latitude": 21.251383999999998,
+    "longitude": 81.62964099999999,
+    "place_id": "ChIJn3Gjx5PdKDoRtciUowvM0lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3Gjx5PdKDoRtciUowvM0lw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:40"
+  },
+  {
+    "business_name": "Big Daddy Recovery Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "212208",
+    "phone_number": "+91 77363 52207",
+    "website": "https://bigdaddyrecoveryservice.in/",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Kadungalloor Road, Muppathandam, Ambalathara, Eramam, Aluva, Kerala 683110",
+    "area": "Muppathandam, Ambalathara",
+    "latitude": 10.109455299999999,
+    "longitude": 76.32182569999999,
+    "place_id": "ChIJYY_e3JgPCDsRSJglLyhwPL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYY_e3JgPCDsRSJglLyhwPL0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Kidney Care and Dialysis Association",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "212107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jamalpur Bhakanda, Uttar Pradesh 212216",
+    "area": "212107",
+    "latitude": 25.301493699999998,
+    "longitude": 81.49105449999999,
+    "place_id": "ChIJVfK40xnXhDkRG3iWB-jnqv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfK40xnXhDkRG3iWB-jnqv4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:43"
+  },
+  {
+    "business_name": "Health-Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "CQHF+67R, IIITA, Jhalwa, Prayagraj, Saha Urf Pipalgaon, Uttar Pradesh 211015",
+    "area": "IIITA, Jhalwa",
+    "latitude": 25.428115,
+    "longitude": 81.7731348,
+    "place_id": "ChIJ5SEnilMzhTkROB3pv6pj6e4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SEnilMzhTkROB3pv6pj6e4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:00:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zostel Varanasi",
+    "search_category": "Hostels",
+    "primary_category": "Youth Hostel",
+    "all_categories": "Youth Hostel",
+    "pincode": "212218",
+    "phone_number": "+91 11 4084 7300",
+    "website": "https://www.zostel.com/destination/varanasi/stay/zostel-varanasi-vrnh142",
+    "rating": 4.5,
+    "reviews_count": 1739,
+    "address": "D, 29/11, Bangali Tola Rd, Bangali Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Bangali Tola",
+    "latitude": 25.3037676,
+    "longitude": 83.0070654,
+    "place_id": "ChIJ27ugzwMujjkRtSyDTZekWBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27ugzwMujjkRtSyDTZekWBU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:59"
+  },
+  {
+    "business_name": "Mad Squad Varanasi",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel, Extended stay hotel, Tourist attraction, Youth Hostel",
+    "pincode": "212218",
+    "phone_number": "+91 88608 94485",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "D - 51/20, 20A, 21R, Surajkund, Maulvibagh, Nai Sarak, Varanasi, Uttar Pradesh 221010",
+    "area": "Maulvibagh, Nai Sarak",
+    "latitude": 25.312686499999998,
+    "longitude": 83.0032523,
+    "place_id": "ChIJKwefx_UvjjkROXqg1Vx3V8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwefx_UvjjkROXqg1Vx3V8E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:00"
+  }
+]

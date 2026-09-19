@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indrajeet Electronic",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "212306",
+    "phone_number": "+91 96954 25215",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Indrajeet Electronic, 88 Newadhiya, Koraon, Newadhhiya Bayalish, Uttar Pradesh 212306",
+    "area": "212306",
+    "latitude": 24.963433499999997,
+    "longitude": 82.160467,
+    "place_id": "ChIJKVQn4t5jhTkR9AqQEQ3dm_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVQn4t5jhTkR9AqQEQ3dm_k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:41:08"
+  },
+  {
+    "business_name": "Quantum bazar",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "212306",
+    "phone_number": "N/A",
+    "website": "https://quantumbazar.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QX77+79H, bilauhi, Shahapur, Pater, Rewa, Madhya Pradesh 486001",
+    "area": "bilauhi, Shahapur",
+    "latitude": 24.7631983,
+    "longitude": 81.9634761,
+    "place_id": "ChIJ16C_2f13hTkRknC5CH-Iyjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16C_2f13hTkRknC5CH-Iyjo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:41:11"
+  }
+]

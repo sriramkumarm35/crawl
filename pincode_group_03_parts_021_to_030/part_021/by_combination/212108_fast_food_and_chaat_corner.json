@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Azad Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "212108",
+    "phone_number": "+91 73790 36563",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "utter, Sadar Bazar Shankargarh, Ward Number 3, Chundwa, Uttar Pradesh 212108",
+    "area": "Ward Number 3",
+    "latitude": 25.1843868,
+    "longitude": 81.617137,
+    "place_id": "ChIJC0reTDIkhTkRJJdakyf1c1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0reTDIkhTkRJJdakyf1c1k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:02:19"
+  },
+  {
+    "business_name": "Kesarwani Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "212108",
+    "phone_number": "+91 91253 22018",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Shankargarh, Uttar Pradesh 212108",
+    "area": "212108",
+    "latitude": 25.179040399999998,
+    "longitude": 81.6026497,
+    "place_id": "ChIJLZo5pTEnhTkRZzB3iKrU0xU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZo5pTEnhTkRZzB3iKrU0xU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:02:19"
+  }
+]

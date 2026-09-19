@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KDM Naini Food Supplier",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "211008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Champion Gali, Kanchan Singh Market, 335/1K, Naini Bazar Rd, Naini Bazar, Dandi, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini Bazar, Dandi",
+    "latitude": 25.3947497,
+    "longitude": 81.86331059999999,
+    "place_id": "ChIJ9VNHj4I1hTkRYoRaiHTpWew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VNHj4I1hTkRYoRaiHTpWew",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:44"
+  },
+  {
+    "business_name": "Nandi Agro",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, FMCG Manufacturer, Food manufacturing supply, Food producer, Food products supplier",
+    "pincode": "211008",
+    "phone_number": "+91 77558 68486",
+    "website": "http://ecavo.in/",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "C-49, Industrial Area, Naini, Prayagraj, Rehi Taluka Purwa Khurd, Uttar Pradesh 211010",
+    "area": "Industrial Area, Naini",
+    "latitude": 25.344735999999997,
+    "longitude": 81.8997613,
+    "place_id": "ChIJLft2crY1hTkRjaYRItk7mJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLft2crY1hTkRjaYRItk7mJE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:45"
+  }
+]

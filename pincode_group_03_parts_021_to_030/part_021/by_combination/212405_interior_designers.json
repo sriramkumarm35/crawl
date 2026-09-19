@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Joshi Design",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "212405",
+    "phone_number": "+91 90222 50005",
+    "website": "https://kiranjoshidesign.com/",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "Kiran Joshi Design, 212405, India",
+    "area": "212405",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJc3SPuqXJ5zsR5gPWLT7ca9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3SPuqXJ5zsR5gPWLT7ca9M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:50:38"
+  },
+  {
+    "business_name": "Interior Design Solutions",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "212405",
+    "phone_number": "N/A",
+    "website": "https://www.id-solutions.net/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Interior Design Solutions, 212405, India",
+    "area": "212405",
+    "latitude": 41.4080029,
+    "longitude": -87.3470425,
+    "place_id": "ChIJSwuoHUnxEYgRrXrtTzkJyTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwuoHUnxEYgRrXrtTzkJyTs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:50:38"
+  }
+]

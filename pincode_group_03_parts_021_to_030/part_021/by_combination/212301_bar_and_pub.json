@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tilakhwar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Gastropub",
+    "all_categories": "Gastropub",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "8W27+M2M, Tilakhwar, Uttar Pradesh 212301",
+    "area": "212301",
+    "latitude": 25.301717399999998,
+    "longitude": 81.9125552,
+    "place_id": "ChIJn-rRp61JhTkRCd0buaNu500",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-rRp61JhTkRCd0buaNu500",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:54"
+  },
+  {
+    "business_name": "Pathan Ka pura",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5WJ3+8MH, Sodhiya, Uttar Pradesh 212301",
+    "area": "212301",
+    "latitude": 25.180861399999998,
+    "longitude": 81.9042265,
+    "place_id": "ChIJPRsjOgBHhTkR4mD6YygI2dU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRsjOgBHhTkR4mD6YygI2dU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New fashion shop",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "212204",
+    "phone_number": "+91 63929 87293",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khwaja karki mohalla, Swadkhat Urf Kara, Uttar Pradesh 212204",
+    "area": "212204",
+    "latitude": 25.6922592,
+    "longitude": 81.3660642,
+    "place_id": "ChIJ0wZHVFgjmzkRU5ZBPIUmrrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wZHVFgjmzkRU5ZBPIUmrrc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:09"
+  },
+  {
+    "business_name": "Raimens Tailoring Shop",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212204",
+    "phone_number": "+91 91314 91234",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Pili Kothi, Shop no. 20 21 martand complex, road, near GOP sweets, Rewa, Madhya Pradesh 486001",
+    "area": "Narendra Nagar, Amaiya Colony",
+    "latitude": 24.5367923,
+    "longitude": 81.295042,
+    "place_id": "ChIJ2TRcnWVbhDkRY--EVUXHbdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TRcnWVbhDkRY--EVUXHbdI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:12"
+  }
+]

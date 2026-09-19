@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Private Limited Company",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "212307",
+    "phone_number": "+91 81159 08411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vikash Kumar, Prayagraj, Ramipur, Uttar Pradesh 221508",
+    "area": "212307",
+    "latitude": 25.3296593,
+    "longitude": 82.10271159999999,
+    "place_id": "ChIJf3n4x1VRhTkRc9X_pxd1McU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3n4x1VRhTkRc9X_pxd1McU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:42:59"
+  },
+  {
+    "business_name": "AI1CS Computer Center",
+    "search_category": "Driving School",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "212307",
+    "phone_number": "+91 97950 22726",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Pahalwan market, Saidabad, Uttar Pradesh 221508",
+    "area": "212307",
+    "latitude": 25.3743281,
+    "longitude": 82.11473199999999,
+    "place_id": "ChIJTScseO5ThTkR6p6MzHD3Vak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTScseO5ThTkR6p6MzHD3Vak",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:43:00"
+  }
+]

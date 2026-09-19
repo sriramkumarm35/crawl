@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali cosmetic gernal store",
+    "search_category": "Boutiques",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "212305",
+    "phone_number": "+91 91960 45960",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dohariya, Uttar Pradesh 212305",
+    "area": "212305",
+    "latitude": 25.2629299,
+    "longitude": 82.15163679999999,
+    "place_id": "ChIJ0-W3NwBZhTkRVAJ9NLgbr_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-W3NwBZhTkRVAJ9NLgbr_I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:51"
+  },
+  {
+    "business_name": "Shivam Footwear Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "212305",
+    "phone_number": "+91 63065 35095",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 6,
+    "address": "Ram Nagar, Uttar Pradesh 212305",
+    "area": "212305",
+    "latitude": 25.2478567,
+    "longitude": 82.11594529999999,
+    "place_id": "ChIJrVa44b9bhTkRzxYpQYex07o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVa44b9bhTkRzxYpQYex07o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:53"
+  }
+]

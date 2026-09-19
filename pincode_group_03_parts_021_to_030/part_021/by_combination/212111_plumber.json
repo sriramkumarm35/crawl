@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "USMANI Plumbing & Hard Warestore",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "212111",
+    "phone_number": "+91 96364 42574",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daiwghat, Uttar Pradesh 211015",
+    "area": "212111",
+    "latitude": 25.4269137,
+    "longitude": 81.7995322,
+    "place_id": "ChIJZwwrErY0hTkRRQC2LpBJTA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwwrErY0hTkRRQC2LpBJTA8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:38"
+  },
+  {
+    "business_name": "Warrior Plumbing & Heating",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "http://www.warriorplumbing.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4123 Roland Ave, Baltimore, MD 21211, United States",
+    "area": "Roland Park",
+    "latitude": 39.3394998,
+    "longitude": -76.6333413,
+    "place_id": "ChIJm8X6RS4FyIkRCVaxe9IHZDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8X6RS4FyIkRCVaxe9IHZDY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:39"
+  }
+]

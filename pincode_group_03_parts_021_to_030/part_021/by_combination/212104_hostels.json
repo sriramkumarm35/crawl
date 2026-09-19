@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Junior hostel",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "44HF+6CC, Meja Khas, Uttar Pradesh 212302",
+    "area": "212104",
+    "latitude": 25.1281914,
+    "longitude": 82.12336839999999,
+    "place_id": "ChIJqUUkJgBdhTkR_cxPX6d3xF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUUkJgBdhTkR_cxPX6d3xF8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:55:45"
+  },
+  {
+    "business_name": "Kunal hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "212104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "37P2+CGJ, Bharatganj, Bharthipur, Uttar Pradesh 212104",
+    "area": "212104",
+    "latitude": 25.086116,
+    "longitude": 82.25127789999999,
+    "place_id": "ChIJ13GkMgD1jzkRlIsHyvYtWhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13GkMgD1jzkRlIsHyvYtWhc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:55:45"
+  }
+]

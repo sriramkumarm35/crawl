@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rao Palace Guest House",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "212107",
+    "phone_number": "+91 94542 15781",
+    "website": "https://raopalace.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Karan Choraha, Saray Ankil, Uttar Pradesh 212216",
+    "area": "212107",
+    "latitude": 25.370921499999998,
+    "longitude": 81.5028519,
+    "place_id": "ChIJTUVDJ7rVhDkRqhKv3X__-zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUVDJ7rVhDkRqhKv3X__-zs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:01:21"
+  },
+  {
+    "business_name": "Lily Blossom Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Guest house, Wedding venue, Wedding service",
+    "pincode": "212107",
+    "phone_number": "+91 99350 48613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharada, umarganj, RG no 57, Prayagraj, Uttar Pradesh 212111",
+    "area": "212107",
+    "latitude": 25.359963099999998,
+    "longitude": 81.8356884,
+    "place_id": "ChIJx3W3BwA1hTkRtEOXufYE4vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3W3BwA1hTkRtEOXufYE4vs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:01:24"
+  }
+]

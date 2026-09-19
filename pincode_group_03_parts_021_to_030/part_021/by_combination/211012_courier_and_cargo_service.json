@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Internet cafe",
+    "pincode": "211012",
+    "phone_number": "+91 77059 49655",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Sarju Complex, Dhussa Power House, Mitra Nagar, Devprayagam Colony, Jhalwa, Prayagraj, Uttar Pradesh 211015",
+    "area": "Mitra Nagar, Devprayagam Colony, Jhalwa",
+    "latitude": 25.4361785,
+    "longitude": 81.7781792,
+    "place_id": "ChIJXdxODqHNmjkR1q-GIGyacD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdxODqHNmjkR1q-GIGyacD0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:56"
+  },
+  {
+    "business_name": "Jai Bharat Road Lines-Best Transport Service/Transport Agency in Prayagraj",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company, Transportation escort service, Transportation service",
+    "pincode": "211012",
+    "phone_number": "+91 94505 83489",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Super Market Shop No.8, Grand Trunk Rd, T.P Nagar, Mundera, Prayagraj, Uttar Pradesh 211011",
+    "area": "T.P Nagar, Harwara, Mundera",
+    "latitude": 25.4492589,
+    "longitude": 81.7666359,
+    "place_id": "ChIJQTvpXrvMmjkR58EfK_BoneU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTvpXrvMmjkR58EfK_BoneU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:57"
+  }
+]

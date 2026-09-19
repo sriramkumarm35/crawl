@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reny renal hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "211008",
+    "phone_number": "+91 63924 22076",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "14/1, pac 42 vahini, near ram leela maidan, Refugee Colony, PAC Colony, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Refugee Colony, PAC Colony, Naini",
+    "latitude": 25.398101399999998,
+    "longitude": 81.8694122,
+    "place_id": "ChIJ-yzQO_1LhTkRpfo40Tntb0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yzQO_1LhTkRpfo40Tntb0g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:10"
+  },
+  {
+    "business_name": "Pradhan mantri Bharatiya Jan Aushadhi Kendra",
+    "search_category": "Dialysis Center",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Pharmacy",
+    "pincode": "211008",
+    "phone_number": "+91 63060 66568",
+    "website": "http://janaushadhi.gov.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "ADA Road, near Ram nagar chauraha, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.403481199999998,
+    "longitude": 81.8738991,
+    "place_id": "ChIJtZcMPZtKhTkRUN1mk2THks0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZcMPZtKhTkRUN1mk2THks0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:13"
+  }
+]

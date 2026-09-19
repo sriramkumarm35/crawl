@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shinex Car Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto care products store, Auto restoration service, Vehicle wrapping service",
+    "pincode": "211021",
+    "phone_number": "+91 98102 36491",
+    "website": "https://www.shinexcarspa.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "M-397, Sai Baba Mandir Rd, opposite GH 13, Guru Harkishan Nagar, Paschim Vihar, New Delhi, Delhi, 110087",
+    "area": "Guru Harkishan Nagar, Paschim Vihar",
+    "latitude": 28.6707766,
+    "longitude": 77.0816135,
+    "place_id": "ChIJDyrUCxYBDTkRSskUj5iD2ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyrUCxYBDTkRSskUj5iD2ho",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:42"
+  },
+  {
+    "business_name": "3M Car Care",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Auto body shop, Auto Dent Removal Service Station, Auto glass repair service, Auto painting, Auto restoration service, Auto upholsterer, Auto window tinting service, Car wash, Vehicle wrapping service",
+    "pincode": "211021",
+    "phone_number": "+91 94311 74007",
+    "website": "https://3mcarcare.site/",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "H-8, Harmu, Argora, Bypass Rd, opp. HPCL Petrol Pump, Harmu, Ranchi, Jharkhand 834002",
+    "area": "Harmu Housing Colony, Harmu",
+    "latitude": 23.3559327,
+    "longitude": 85.3009601,
+    "place_id": "ChIJL5vvHEnh9DkR-vonWn-hF0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5vvHEnh9DkR-vonWn-hF0I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:49:43"
+  }
+]

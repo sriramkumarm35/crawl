@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VEG & NON",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212218",
+    "phone_number": "+91 78757 74446",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Karan's shop, 62, Kamptee Rd, Pili Nadi, Nagpur, Maharashtra 440026",
+    "area": "Pili Nadi",
+    "latitude": 21.183745899999998,
+    "longitude": 79.1162255,
+    "place_id": "ChIJaT_ibM7G1DsR9IOCEIWWgX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaT_ibM7G1DsR9IOCEIWWgX8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:01"
+  },
+  {
+    "business_name": "Perambur Khan Bhai Biriyani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "212218",
+    "phone_number": "+91 63800 18115",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 473,
+    "address": "4, 9, North Ave, Muthamizh Nagar, road, Chennai, Tamil Nadu 600118",
+    "area": "Muthamizh Nagar, road",
+    "latitude": 13.135486499999999,
+    "longitude": 80.24971819999999,
+    "place_id": "ChIJa3E1PwllUjoRoGR_65gIVw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3E1PwllUjoRoGR_65gIVw8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:03"
+  }
+]

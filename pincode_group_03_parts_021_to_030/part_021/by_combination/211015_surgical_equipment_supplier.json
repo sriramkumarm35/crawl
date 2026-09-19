@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Medical & Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Pharmacy",
+    "pincode": "211015",
+    "phone_number": "+91 73883 41253",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "C-866, GTB Nagar, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "GTB Nagar, Kareli",
+    "latitude": 25.4305862,
+    "longitude": 81.8164638,
+    "place_id": "ChIJhW7vTMk0hTkRMlFCuPr6TQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhW7vTMk0hTkRMlFCuPr6TQg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:37"
+  },
+  {
+    "business_name": "Tara Pharmacy ( Medical Store )",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group, Pharmacy, Surgical supply store",
+    "pincode": "211015",
+    "phone_number": "+91 91402 88821",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Varanasi - Prayagraj Rd, Mirzamurad, Khuldabad, Kala Danda, Prayagraj, Uttar Pradesh 211001",
+    "area": "Mirzamurad, Khuldabad, Kala Danda",
+    "latitude": 25.4400127,
+    "longitude": 81.81833859999999,
+    "place_id": "ChIJQ2O8ybLLmjkRBVMwrMoSmu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2O8ybLLmjkRBVMwrMoSmu4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:39"
+  }
+]

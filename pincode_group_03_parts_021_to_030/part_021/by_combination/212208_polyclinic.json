@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ram vishal memorial Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Pal Market NH2 Pal Market, Prayagraj, Uttar Pradesh 212208",
+    "area": "212208",
+    "latitude": 25.4859045,
+    "longitude": 81.6672607,
+    "place_id": "ChIJW6na30LSmjkRMnyKCzWMH5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6na30LSmjkRMnyKCzWMH5Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:26"
+  },
+  {
+    "business_name": "Renu Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "212208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FP4C+G48, Bamrwli Rd, Prayagraj, Uttar Pradesh 211012",
+    "area": "212208",
+    "latitude": 25.456283799999998,
+    "longitude": 81.720337,
+    "place_id": "ChIJI6qg8RbNmjkR_prhFTptoaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6qg8RbNmjkR_prhFTptoaY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:26"
+  }
+]

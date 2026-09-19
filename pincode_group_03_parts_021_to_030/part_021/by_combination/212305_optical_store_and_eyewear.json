@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eyefit lenses",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Wholesaler",
+    "all_categories": "Optical Wholesaler",
+    "pincode": "212305",
+    "phone_number": "+91 86876 93831",
+    "website": "http://eyefitlenses.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "17, Bisheshwanath Rd, beside Shalimar Square, Lalbagh, Lucknow, Uttar Pradesh 226001",
+    "area": "Lalbagh",
+    "latitude": 26.8457726,
+    "longitude": 80.9384482,
+    "place_id": "ChIJ1apmyU79mzkR5Ag26LZn2fE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1apmyU79mzkR5Ag26LZn2fE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:53"
+  },
+  {
+    "business_name": "चन्द्रेश चश्माघर",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "85W3+3GQ, Judaipur-Handia Rd, Dubhaki Kala, Uttar Pradesh 221503",
+    "area": "212305",
+    "latitude": 25.3452125,
+    "longitude": 82.15386029999999,
+    "place_id": "ChIJOXwzPJdWhTkRyB77D33KP38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXwzPJdWhTkRyB77D33KP38",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:54"
+  }
+]

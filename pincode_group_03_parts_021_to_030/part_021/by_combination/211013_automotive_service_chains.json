@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pikpart Smart Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "211013",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "19/35, Mahatma Gandhi Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4496269,
+    "longitude": 81.832009,
+    "place_id": "ChIJkwIPcwDLmjkRAm4s7g7VOK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwIPcwDLmjkRAm4s7g7VOK0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:08"
+  },
+  {
+    "business_name": "Bharat Enterprises - Genuine Parts - Hero MotoCorp",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "211013",
+    "phone_number": "+91 89228 17936",
+    "website": "https://partsdistributors.heromotocorp.com/near-me/prayagraj/phoolpur/bharat-enterprises-genuine-parts-hero-motocorp-in-phoolpur-prayagraj--NigAma/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rana Villa, Phoolpur, nearby O Hotel, Babuganj, Pali, Uttar Pradesh 202404",
+    "area": "211013",
+    "latitude": 25.5206511,
+    "longitude": 82.0388901,
+    "place_id": "ChIJpzNWT_yzmjkRj155KUi9h_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzNWT_yzmjkRj155KUi9h_8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:35:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Real Green Agro",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store, Dry Fruit Store",
+    "pincode": "212301",
+    "phone_number": "+91 70078 05241",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "831E, 1A, Baghambari Rd, Gaddi, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Gaddi, Allahpur",
+    "latitude": 25.456982,
+    "longitude": 81.87481199999999,
+    "place_id": "ChIJsY3RjFy1mjkRirOMQJKsL6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsY3RjFy1mjkRirOMQJKsL6c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:44"
+  },
+  {
+    "business_name": "Rice marketing",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQ2C+RC3, near Mahindra Agency and Mahindra Workshop, Sector 5, Transport Nagar, Dhoomanganj, Prayagraj, Uttar Pradesh 211011",
+    "area": "Sector 5, Transport Nagar, Dhoomanganj",
+    "latitude": 25.4520205,
+    "longitude": 81.7710348,
+    "place_id": "ChIJG62X4C3NmjkR5BzyuzT40d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG62X4C3NmjkR5BzyuzT40d0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyDigital.io",
+    "search_category": "SEO Consultants",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "212204",
+    "phone_number": "N/A",
+    "website": "http://mydigital.io/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1111, Pachasa, Sirathu, Uttar Pradesh 212217",
+    "area": "212204",
+    "latitude": 25.656353199999998,
+    "longitude": 81.3315327,
+    "place_id": "ChIJe8M0hJ47mzkR4refhC3vqOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8M0hJ47mzkR4refhC3vqOQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:32"
+  },
+  {
+    "business_name": "Seocial Solutions",
+    "search_category": "SEO Consultants",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "212204",
+    "phone_number": "N/A",
+    "website": "https://www.seocialsolutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Seocial Solutions, 212204, India",
+    "area": "212204",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ6xsyDng_kUMRetgGOOauzY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xsyDng_kUMRetgGOOauzY8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:34"
+  }
+]

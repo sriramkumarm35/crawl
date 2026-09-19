@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iron empire fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212214",
+    "phone_number": "+91 81889 81380",
+    "website": "https://ironempiregym.lovable.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prayagraj Rd, near petrol pump, Mau, Uttar Pradesh 210209",
+    "area": "212214",
+    "latitude": 25.2618066,
+    "longitude": 81.3780141,
+    "place_id": "ChIJgegkpU_RhDkRDpnRBqARvPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgegkpU_RhDkRDpnRBqARvPg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:25:58"
+  },
+  {
+    "business_name": "SK Gym & Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "F746+5VW, Kumhiyawa, Uttar Pradesh 212207",
+    "area": "212214",
+    "latitude": 25.4554847,
+    "longitude": 81.26220359999999,
+    "place_id": "ChIJBUFBTgAzmzkRM5THVWF8Zqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUFBTgAzmzkRM5THVWF8Zqo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:26:01"
+  }
+]

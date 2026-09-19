@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriram Bus service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "212302",
+    "phone_number": "N/A",
+    "website": "https://shriram-bus-service.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bedauli, Sirsa, Meja, Uttar Pradesh 212305",
+    "area": "bedauli",
+    "latitude": 25.2422436,
+    "longitude": 82.07708509999999,
+    "place_id": "ChIJ1X_Q9TVbhTkRd4jxYxgL5NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X_Q9TVbhTkRd4jxYxgL5NM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:35:21"
+  },
+  {
+    "business_name": "R K TRAVELS SERVICE",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "212302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MAMOLI KOHDAR MEJA PRAYAGRAJ मामोली, ममोली चौराहा कोहड़ार प्रयागराज, कोहड़ार, Meja, Uttar Pradesh 212308",
+    "area": "कोहड़ार",
+    "latitude": 25.1544278,
+    "longitude": 82.0108238,
+    "place_id": "ChIJR2vincpDhTkRSIiXEmesohQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2vincpDhTkRSIiXEmesohQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:35:23"
+  }
+]

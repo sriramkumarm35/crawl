@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Disney Pet Products",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Reptile store, Wholesaler",
+    "pincode": "212218",
+    "phone_number": "+91 80885 88128",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Adinarayana Mansion, 157/162-7, near Church circle, Jolly Mohalla, Ranasinghpete, New Tharagupet, Bengaluru, Karnataka 560002",
+    "area": "Jolly Mohalla, Ranasinghpete, New Tharagupet",
+    "latitude": 12.9644544,
+    "longitude": 77.5705285,
+    "place_id": "ChIJKyWFCf0VrjsRW4X42YODln8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyWFCf0VrjsRW4X42YODln8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:57"
+  },
+  {
+    "business_name": "Pet Palace and Aquarium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "212218",
+    "phone_number": "+91 99475 05781",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HWMC+F2J, Njandoorkonam, Uliyazhathura, Keralam 695588",
+    "area": "Njandoorkonam",
+    "latitude": 8.583712199999999,
+    "longitude": 76.9200062,
+    "place_id": "ChIJE5SKYcu4BTsRUZZ9ZAhH88M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5SKYcu4BTsRUZZ9ZAhH88M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:57"
+  }
+]

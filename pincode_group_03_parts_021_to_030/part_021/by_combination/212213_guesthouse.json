@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "East Inn Hotel",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212213",
+    "phone_number": "+91 88600 64743",
+    "website": "http://www.eastinnhotel.com/",
+    "rating": 4.3,
+    "reviews_count": 191,
+    "address": "E-364, opp. Metro Piller, Block E, Nirman Vihar, Preet Vihar, Delhi, 110092",
+    "area": "Block E, Nirman Vihar, Preet Vihar",
+    "latitude": 28.636706999999998,
+    "longitude": 77.2877152,
+    "place_id": "ChIJDQCwFlb7DDkRc6G99BgmakY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQCwFlb7DDkRc6G99BgmakY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:24:42"
+  },
+  {
+    "business_name": "Woodapple Residency",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212213",
+    "phone_number": "+91 73030 41541",
+    "website": "http://www.woodappleresidency.com/",
+    "rating": 4.1,
+    "reviews_count": 1548,
+    "address": "Metro Pillar Number 114, 3, Vikas Marg, opposite Shanti Mukund Hospital, Hargobind Enclave, A G C R Enclave, Anand Vihar, New Delhi, Delhi, 110092",
+    "area": "Hargobind Enclave, A G C R Enclave, Anand Vihar",
+    "latitude": 28.6461813,
+    "longitude": 77.3009486,
+    "place_id": "ChIJISAyrkT7DDkR3eAwdq233lM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISAyrkT7DDkR3eAwdq233lM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:24:42"
+  }
+]

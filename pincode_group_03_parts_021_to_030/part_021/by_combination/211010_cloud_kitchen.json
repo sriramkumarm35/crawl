@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mom's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "211010",
+    "phone_number": "+91 89570 83528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ESI HOSPITAL, Naini, Sadwa Kalan, Prayagraj, Uttar Pradesh 211010",
+    "area": "Naini",
+    "latitude": 25.3725648,
+    "longitude": 81.8771294,
+    "place_id": "ChIJLxida5ZLhTkRUUy2eQWm6MM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxida5ZLhTkRUUy2eQWm6MM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:49"
+  },
+  {
+    "business_name": "Rasoi For Me | Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "211010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "K-2, 140, Harijan Basti, Block L 2, Harijan Colony, Sangam Vihar, New Delhi, Delhi 110080",
+    "area": "Harijan Basti, Block L 2, Harijan Colony, Sangam Vihar",
+    "latitude": 28.4924815,
+    "longitude": 77.2362465,
+    "place_id": "ChIJ4YGlBrvhDDkRXKuKxJXdutg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YGlBrvhDDkRXKuKxJXdutg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:28:49"
+  }
+]

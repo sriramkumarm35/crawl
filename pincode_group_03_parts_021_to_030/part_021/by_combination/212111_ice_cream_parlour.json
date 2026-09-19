@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baltimore in a Box Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "https://www.baltimoreinaboxicecream.com/",
+    "rating": 4.4,
+    "reviews_count": 39,
+    "address": "1004 W 36th St, Baltimore, MD 21211, United States",
+    "area": "Hampden",
+    "latitude": 39.3312178,
+    "longitude": -76.63302089999999,
+    "place_id": "ChIJzU7Z_o8FyIkRfWw8V5iwyxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU7Z_o8FyIkRfWw8V5iwyxY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:05"
+  },
+  {
+    "business_name": "Kalsh Amrit juice ice cream cafe",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "9R9Q+7X7 Mama bhanja talab, Naini, Prayagraj, Uttar Pradesh 212111",
+    "area": "Naini",
+    "latitude": 25.3681691,
+    "longitude": 81.8399261,
+    "place_id": "ChIJ_afRumo1hTkRfD2exnmpXeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_afRumo1hTkRfD2exnmpXeo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:05"
+  }
+]

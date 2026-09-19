@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "211014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8X52+JM7, Lohta Bazar, Chandapur, Varanasi, Uttar Pradesh 221106",
+    "area": "Lohta Bazar",
+    "latitude": 25.3090405,
+    "longitude": 82.9516692,
+    "place_id": "ChIJFzX6gmEtjjkR3aPKByJeS1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzX6gmEtjjkR3aPKByJeS1s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:36:29"
+  },
+  {
+    "business_name": "Tiffin service and cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "211014",
+    "phone_number": "+91 87778 90965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "181, rohit apartment, Patipukur, Kolkata, South Dumdum, West Bengal 700048",
+    "area": "Patipukur",
+    "latitude": 22.601511199999997,
+    "longitude": 88.4003915,
+    "place_id": "ChIJnTQIA3x3AjoRXuTo845YWws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTQIA3x3AjoRXuTo845YWws",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:36:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Ji Fast Food Restaurant",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "F3RH+X5F, Unnamed Road, Malethuwa, Uttar Pradesh 212402",
+    "area": "212402",
+    "latitude": 25.4924346,
+    "longitude": 82.07791619999999,
+    "place_id": "ChIJf3P2sQ2tmjkRVM1NkKndMnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3P2sQ2tmjkRVM1NkKndMnA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:12"
+  },
+  {
+    "business_name": "Patel Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Lunch restaurant",
+    "all_categories": "Lunch restaurant",
+    "pincode": "212402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "SHAHARI BOJH SIRSA CHAURAHA HANDIA, Uttar Pradesh 221503",
+    "area": "212402",
+    "latitude": 25.450723699999998,
+    "longitude": 82.2442207,
+    "place_id": "ChIJFxIbSUb_jzkRBc4Ti4iI5jQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxIbSUb_jzkRBc4Ti4iI5jQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:12"
+  }
+]

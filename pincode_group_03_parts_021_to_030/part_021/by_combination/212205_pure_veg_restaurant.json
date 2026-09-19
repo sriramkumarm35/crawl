@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grand_family_resturant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "212205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 69,
+    "address": "mirgadwa, chauraha, Manikpur, Mirgarhwa, Uttar Pradesh 230202",
+    "area": "chauraha",
+    "latitude": 25.7741848,
+    "longitude": 81.4088299,
+    "place_id": "ChIJe8ox-kwjmzkR3Oolpc8Zh_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8ox-kwjmzkR3Oolpc8Zh_s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:47"
+  },
+  {
+    "business_name": "Sanskar veg restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "212205",
+    "phone_number": "+91 73876 86820",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "C5FW+G5P, Sarai, tedka pool, Balua, Chahaniya, Uttar Pradesh 232109",
+    "area": "tedka pool",
+    "latitude": 25.4238333,
+    "longitude": 83.19544859999999,
+    "place_id": "ChIJHS7ufgAhjjkRkCpvrOspzAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHS7ufgAhjjkRkCpvrOspzAY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:14:49"
+  }
+]

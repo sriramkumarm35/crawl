@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shagun Garden Guesthouse",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dohariya, Misirpur, Uttar Pradesh 212305",
+    "area": "212305",
+    "latitude": 25.269140399999998,
+    "longitude": 82.1440767,
+    "place_id": "ChIJgzL2DwBXhTkRVPwCeYqIFfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzL2DwBXhTkRVPwCeYqIFfk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:31"
+  },
+  {
+    "business_name": "Kalyanam Banquet and Resort",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "latkahamarg, Basahi, Uttar Pradesh 212307",
+    "area": "latkahamarg",
+    "latitude": 25.3017084,
+    "longitude": 82.0475242,
+    "place_id": "ChIJZ-u3oZFRhTkRG1gA_leDDVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-u3oZFRhTkRG1gA_leDDVc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:31"
+  }
+]

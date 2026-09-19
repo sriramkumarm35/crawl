@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Fast food restaurant, Non Vegetarian Restaurant, North Indian restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "211011",
+    "phone_number": "+91 97174 46317",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "PLOT 29, 174, Swastik Kunj, Pocket 29, Sector 13, Rohini, New Delhi, Delhi, 110085",
+    "area": "Swastik Kunj, Pocket 29, Sector 13, Rohini",
+    "latitude": 28.723695,
+    "longitude": 77.12539439999999,
+    "place_id": "ChIJJ1DlCQ4BDTkRKXyfckCKN2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1DlCQ4BDTkRKXyfckCKN2I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:38"
+  },
+  {
+    "business_name": "Shree Shyam Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "211011",
+    "phone_number": "+91 80819 21992",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "vansh vatika, Near, Jayantipur, Sulem Sarai, Prayagraj, Uttar Pradesh 211011",
+    "area": "Jayantipur, Sulem Sarai, Dhoomanganj",
+    "latitude": 25.4507412,
+    "longitude": 81.78482369999999,
+    "place_id": "ChIJxeNqbqXLmjkRFHa2HlhKpo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxeNqbqXLmjkRFHa2HlhKpo4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:39"
+  }
+]

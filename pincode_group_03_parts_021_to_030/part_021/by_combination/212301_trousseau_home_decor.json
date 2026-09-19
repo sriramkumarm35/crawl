@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Home Studio",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer",
+    "pincode": "212301",
+    "phone_number": "+91 79056 43770",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "559/422, Bahadur Ganj, Malviyanagar, Prayagraj, Uttar Pradesh 211003",
+    "area": "Bahadur Ganj, Malviyanagar",
+    "latitude": 25.4350675,
+    "longitude": 81.8388051,
+    "place_id": "ChIJFxttcEc1hTkR_5hY1v3M9ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxttcEc1hTkR_5hY1v3M9ls",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:33:54"
+  },
+  {
+    "business_name": "Today Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "212301",
+    "phone_number": "+91 93351 46286",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Shop No.10, Strachey Road, opposite Hotel Milan, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4512412,
+    "longitude": 81.8327152,
+    "place_id": "ChIJzV9TEzvLmjkRsLWhbAJNqIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzV9TEzvLmjkRsLWhbAJNqIw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:33:54"
+  }
+]

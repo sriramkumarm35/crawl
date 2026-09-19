@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Mathaji Rice Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "212306",
+    "phone_number": "+91 94492 20780",
+    "website": "https://riceuncle.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "51/6, Kudlu Main Rd, Kudlu, VGP Layout, Bengaluru, Karnataka 560068",
+    "area": "Kudlu, VGP Layout",
+    "latitude": 12.8891872,
+    "longitude": 77.65055439999999,
+    "place_id": "ChIJGbha9KgUrjsRPTliUBNuUNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbha9KgUrjsRPTliUBNuUNU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:40:26"
+  },
+  {
+    "business_name": "Jaiswal khad bhandar shastri nagar koraon prayagraj",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "212306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X3WF+4PR, Shastri Nagar, Koraon, Uttar Pradesh 212306",
+    "area": "Shastri Nagar",
+    "latitude": 24.995370899999998,
+    "longitude": 82.0742578,
+    "place_id": "ChIJiWsPRtpnhTkRoC57ssc9pUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWsPRtpnhTkRoC57ssc9pUg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:40:27"
+  }
+]

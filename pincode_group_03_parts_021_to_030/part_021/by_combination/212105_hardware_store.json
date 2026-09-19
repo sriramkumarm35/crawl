@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Idreesh Key Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "212105",
+    "phone_number": "+91 98894 68275",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "6, Johnston Ganj, Mohatsim Ganj, Prayagraj, Uttar Pradesh 211003",
+    "area": "Johnston Ganj, Mohatsim Ganj",
+    "latitude": 25.439116799999997,
+    "longitude": 81.83415819999999,
+    "place_id": "ChIJBzdLJj7LmjkRD0bNbANg03s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzdLJj7LmjkRD0bNbANg03s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:57:17"
+  },
+  {
+    "business_name": "Ashok. Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "212105",
+    "phone_number": "+91 80525 85613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naini, Prayagraj, Uttar Pradesh 212105",
+    "area": "Naini",
+    "latitude": 25.383413899999997,
+    "longitude": 81.8502688,
+    "place_id": "ChIJbQLOTwM1hTkRK703LCtLawA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQLOTwM1hTkRK703LCtLawA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:57:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Protein Hub",
+    "search_category": "Organic Food Store",
+    "primary_category": "Vitamin & supplements store",
+    "all_categories": "Vitamin & supplements store",
+    "pincode": "211019",
+    "phone_number": "+91 93890 96535",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3/286 MIG, near अक्षतधाम फिजियोथैरेपीसेंटर, Avas Vikas, Sector Number 2, Yojna-3, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Avas Vikas, Sector Number 2, Yojna-3",
+    "latitude": 25.425129,
+    "longitude": 81.91574829999999,
+    "place_id": "ChIJBfyD-BBLhTkRNtCu5wpxrb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfyD-BBLhTkRNtCu5wpxrb8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:25"
+  },
+  {
+    "business_name": "Abhishek Vigetable Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "211019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Abhishek Shop, Radha Nagar Colony, buxi khurd, Daraganj, Prayagraj, Uttar Pradesh 211006",
+    "area": "Radha Nagar Colony, buxi khurd, Daraganj",
+    "latitude": 25.4507047,
+    "longitude": 81.8828352,
+    "place_id": "ChIJr2pHGhG1mjkRWOw1UAg-Bzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2pHGhG1mjkRWOw1UAg-Bzg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:26"
+  }
+]

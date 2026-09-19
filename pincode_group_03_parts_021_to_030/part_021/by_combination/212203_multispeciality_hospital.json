@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yashoda Hospital And Research Centre Limited, Kaushambi",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital, Blood donation center",
+    "pincode": "212203",
+    "phone_number": "+91 120 418 1900",
+    "website": "http://www.yashodahospital.org/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "394, Seemant Vihar Society, Anand Vihar, Kaushambi, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Seemant Vihar Society, Anand Vihar, Kaushambi",
+    "latitude": 28.6452797,
+    "longitude": 77.32793819999999,
+    "place_id": "ChIJKQzHWjD7DDkRMOQ4KODBFGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQzHWjD7DDkRMOQ4KODBFGM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:33"
+  },
+  {
+    "business_name": "Sarvodaya Hospital & Trauma Centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Private hospital",
+    "pincode": "212203",
+    "phone_number": "+91 120 412 8589",
+    "website": "http://sarvodayahospitals.in/",
+    "rating": 3.6,
+    "reviews_count": 164,
+    "address": "342, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201019",
+    "area": "Sector 4, Vaishali",
+    "latitude": 28.644821999999998,
+    "longitude": 77.339,
+    "place_id": "ChIJG4iyx9D6DDkRcIy0iflIX9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4iyx9D6DDkRcIy0iflIX9E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:11:34"
+  }
+]

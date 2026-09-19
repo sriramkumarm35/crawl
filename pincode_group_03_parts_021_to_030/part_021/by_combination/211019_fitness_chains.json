@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Batman Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "211019",
+    "phone_number": "+91 89320 38007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Laal Chowk, MIC Colony, Yojna-3, Yojna-2, Prayagraj, Uttar Pradesh 211019",
+    "area": "MIC Colony, Yojna-3, Yojna-2",
+    "latitude": 25.425505899999997,
+    "longitude": 81.9123836,
+    "place_id": "ChIJ4UzmqcxLhTkRXK8LqGzWFVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UzmqcxLhTkRXK8LqGzWFVc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:58"
+  },
+  {
+    "business_name": "Ak fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "211019",
+    "phone_number": "+91 82991 77577",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijay Nagar, Haveliya, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Vijay Nagar, Haveliya",
+    "latitude": 25.4190246,
+    "longitude": 81.9097798,
+    "place_id": "ChIJ3w11DwBLhTkR-eUzM8GMRL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3w11DwBLhTkR-eUzM8GMRL8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:46:00"
+  }
+]

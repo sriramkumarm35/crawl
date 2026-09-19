@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BOMBAY FANCY JEWELS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "212207",
+    "phone_number": "+91 92509 47403",
+    "website": "https://bombayfancyjewels.in/",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "Mejarganj churaha Chowk, Khairabad, Sultanpur, Uttar Pradesh 228001",
+    "area": "Khairabad",
+    "latitude": 26.259416599999998,
+    "longitude": 82.0683114,
+    "place_id": "ChIJySY3_VJ9mjkR9lRb6T5aUkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySY3_VJ9mjkR9lRb6T5aUkE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:29"
+  },
+  {
+    "business_name": "G.S jwellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "212207",
+    "phone_number": "+91 96211 66039",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar Rd, Mau, Uttar Pradesh 210209",
+    "area": "212207",
+    "latitude": 25.2725637,
+    "longitude": 81.37384279999999,
+    "place_id": "ChIJn3cmfVPRhDkRzpmQojsXtZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3cmfVPRhDkRzpmQojsXtZw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:31"
+  }
+]

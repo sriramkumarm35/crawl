@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANU TRACTORS",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "212106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Manu Tractors, 10, Osa Road, Goura, Manjhanpur, Uttar Pradesh 212207",
+    "area": "Goura",
+    "latitude": 25.5298165,
+    "longitude": 81.3757746,
+    "place_id": "ChIJq6qqql0umzkRBz8GG4Qcn6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqql0umzkRBz8GG4Qcn6o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:57"
+  },
+  {
+    "business_name": "Ace Tractor Agency",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "212106",
+    "phone_number": "+91 78980 11047",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "3PHQ+29X, Nariwari, Nari Bari, Uttar Pradesh 212110",
+    "area": "212106",
+    "latitude": 25.0776053,
+    "longitude": 81.7384781,
+    "place_id": "ChIJTQOJ2aE9hTkRdqPT3fYstRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQOJ2aE9hTkRdqPT3fYstRs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:57"
+  }
+]

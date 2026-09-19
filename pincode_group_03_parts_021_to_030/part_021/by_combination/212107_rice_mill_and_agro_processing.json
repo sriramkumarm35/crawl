@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siya enterprises Puffed rice factory",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "212107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VILLAGE GOISARA, POST LALAPUR BHATPURA, Prayagraj, Uttar Pradesh 212107",
+    "area": "212107",
+    "latitude": 25.3029537,
+    "longitude": 81.63674209999999,
+    "place_id": "ChIJfdXNBAYvhTkR_OwqZzjDsPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdXNBAYvhTkR_OwqZzjDsPM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:01:53"
+  },
+  {
+    "business_name": "Chitrakoot Agro Processing Unit",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "212107",
+    "phone_number": "+91 91254 76269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Jamira colony Bargarh, NH 35, Mod, Mau, Uttar Pradesh 210209",
+    "area": "Mod",
+    "latitude": 25.1835694,
+    "longitude": 81.436021,
+    "place_id": "ChIJryFVh5bZhDkRQAtLLxyVvVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryFVh5bZhDkRQAtLLxyVvVo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:01:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post office arai",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "76G8+8H6, Uttar Pradesh 212305",
+    "area": "212305",
+    "latitude": 25.2757932,
+    "longitude": 82.21637849999999,
+    "place_id": "ChIJkcsgjaT5jzkRu7ibE8KvL4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcsgjaT5jzkRu7ibE8KvL4Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:59"
+  },
+  {
+    "business_name": "Upraura Branch Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "735H+6WJ, Allahabad - Kunwar Patti, Lohari, Arazi Fatehbara, Uparaura Uparhar, Uttar Pradesh 212305",
+    "area": "Lohari",
+    "latitude": 25.2580767,
+    "longitude": 82.0797547,
+    "place_id": "ChIJW_R8HABbhTkR6USHT8olD34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_R8HABbhTkR6USHT8olD34",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:59"
+  }
+]

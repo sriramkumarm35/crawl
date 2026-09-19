@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ram Properties",
+    "search_category": "Property Developers",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mama Bhanja Talab, Shyam Lal Ka Purwa, Naini, Prayagraj, Dhanuha, Uttar Pradesh 212111",
+    "area": "Naini",
+    "latitude": 25.366750699999997,
+    "longitude": 81.84822079999999,
+    "place_id": "ChIJZQAAx5Q1hTkRyLKxI4MUjKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQAAx5Q1hTkRyLKxI4MUjKg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:07:19"
+  },
+  {
+    "business_name": "Iradatganj",
+    "search_category": "Property Developers",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "8RMG+2JQ, Jasra, Prayagraj, Uttar Pradesh 212111",
+    "area": "212111",
+    "latitude": 25.3325866,
+    "longitude": 81.826601,
+    "place_id": "ChIJ408LJ7k3hTkR3XUCUukVcaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ408LJ7k3hTkR3XUCUukVcaQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:07:19"
+  }
+]

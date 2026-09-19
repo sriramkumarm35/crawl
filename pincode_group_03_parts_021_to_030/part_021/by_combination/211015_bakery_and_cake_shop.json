@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UniQue Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "211015",
+    "phone_number": "+91 93050 13026",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Miss Pooja Sandeep Patel, Rajrooppur, Prayagraj, Uttar Pradesh 211015",
+    "area": "Rajrooppur",
+    "latitude": 25.4395484,
+    "longitude": 81.8055,
+    "place_id": "ChIJe8Dk4lzLmjkRUPZxGn93Xjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8Dk4lzLmjkRUPZxGn93Xjo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:10"
+  },
+  {
+    "business_name": "Prayagraj cake services and backerys",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "211015",
+    "phone_number": "N/A",
+    "website": "http://www.bakerycake.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "207/4/133A/ig, Beniganj, Nai Basti, Prayagraj, Uttar Pradesh 211016",
+    "area": "Beniganj, Nai Basti, Kala Danda",
+    "latitude": 25.4307201,
+    "longitude": 81.80750549999999,
+    "place_id": "ChIJNczWQ4A1hTkRK0tlalwfZwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNczWQ4A1hTkRK0tlalwfZwU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:12"
+  }
+]

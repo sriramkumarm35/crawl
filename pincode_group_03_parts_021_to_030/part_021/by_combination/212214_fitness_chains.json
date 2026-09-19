@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aesthefit Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212214",
+    "phone_number": "+91 78277 36135",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "First & Second Floor, Local Shopping Centre 1,Max Hospital Road, Sector-1, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Tirupati Complex, Sector-1, Vaishali",
+    "latitude": 28.6357799,
+    "longitude": 77.3349975,
+    "place_id": "ChIJ03H3INX6DDkRNcW7HYDkDM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03H3INX6DDkRNcW7HYDkDM8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:25:58"
+  },
+  {
+    "business_name": "Anytime Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "212214",
+    "phone_number": "+91 98704 88618",
+    "website": "https://www.anytimefitness.com/en-in/locations/delhi-delhi-in-1021",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2nd & 3rd Floor, No C/53, New Delhi, Delhi 110092",
+    "area": "C Block, Preet Vihar",
+    "latitude": 28.6390481,
+    "longitude": 77.2924716,
+    "place_id": "ChIJ4_qOL1H7DDkRVM6LSNVDI5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_qOL1H7DDkRVM6LSNVDI5A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:25:59"
+  }
+]

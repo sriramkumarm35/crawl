@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "212104",
+    "phone_number": "+91 99365 99699",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Katar Mohalla, Katara Mohalla, Bharatganj, Uttar Pradesh 212104",
+    "area": "212104",
+    "latitude": 25.1165822,
+    "longitude": 82.27297519999999,
+    "place_id": "ChIJL8AgP-70jzkRqVnHvCWjxHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8AgP-70jzkRqVnHvCWjxHU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:55:20"
+  },
+  {
+    "business_name": "Amba bus service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "212104",
+    "phone_number": "+91 87260 64950",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarroi tiwari, kalana, Saroi Tiwari, Uttar Pradesh 231303",
+    "area": "212104",
+    "latitude": 25.149964699999998,
+    "longitude": 82.3834327,
+    "place_id": "ChIJHRo49YfzjzkRSdx6W1QkivE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRo49YfzjzkRSdx6W1QkivE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:55:22"
+  }
+]

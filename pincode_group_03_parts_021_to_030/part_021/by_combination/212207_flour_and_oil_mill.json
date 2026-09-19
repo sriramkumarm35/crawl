@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj flour & oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "212207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pashchim Naka, Rajapur, Uttar Pradesh 210207",
+    "area": "212207",
+    "latitude": 25.387626599999997,
+    "longitude": 81.1465687,
+    "place_id": "ChIJCRwBKw61hDkRa3f8c99-_2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRwBKw61hDkRa3f8c99-_2E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:19:44"
+  },
+  {
+    "business_name": "Flour mill oil crushing and air filling",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "212207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HV87+CP2, Bawan, Uttar Pradesh 224229",
+    "area": "212207",
+    "latitude": 26.566015099999998,
+    "longitude": 81.8642811,
+    "place_id": "ChIJocBga3Q_mjkRYwFfpyDmfkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocBga3Q_mjkRYwFfpyDmfkA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:19:44"
+  }
+]

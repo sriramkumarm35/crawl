@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Workezy Private Limited",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Air conditioning repair service, Cleaning Services, Home help, Painter",
+    "pincode": "212301",
+    "phone_number": "+91 73888 84029",
+    "website": "http://www.workezy.co.in/",
+    "rating": 4.5,
+    "reviews_count": 387,
+    "address": "5th Floor, Suraj Deep Complex, Jopling Rd, Picup Colony, Butler Colony, Lucknow, Uttar Pradesh 226001",
+    "area": "Picup Colony, Butler Colony",
+    "latitude": 26.8525918,
+    "longitude": 80.9556262,
+    "place_id": "ChIJ3RrSuN4f8QMRwyH4iYh0LNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RrSuN4f8QMRwyH4iYh0LNQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:17"
+  },
+  {
+    "business_name": "Blue star cleaning services Lucknow",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "212301",
+    "phone_number": "+91 80045 66814",
+    "website": "https://wa.me/918004566814",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "Kapoorthla, Sector A, Chandralok, Lucknow, Uttar Pradesh 226024",
+    "area": "Kapoorthla, Sector A, Chandralok",
+    "latitude": 26.8815459,
+    "longitude": 80.9472218,
+    "place_id": "ChIJzYJTpfb9mzkRVuSsfwjQvFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYJTpfb9mzkRVuSsfwjQvFs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:17"
+  }
+]

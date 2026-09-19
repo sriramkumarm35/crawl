@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Mobile Auto Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "212106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Premium Mobile Auto Detailing, 212106, India",
+    "area": "212106",
+    "latitude": 33.8648625,
+    "longitude": -84.5942436,
+    "place_id": "ChIJHz0bgwUQnEsRm2LB-f3nE-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHz0bgwUQnEsRm2LB-f3nE-Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:56"
+  },
+  {
+    "business_name": "Unique car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "212106",
+    "phone_number": "+91 96212 52096",
+    "website": "https://youtube.com/@siranjeet?si=jdDLBhVyamj_3xtS",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chak ghat, Nari Bari, Harro, Uttar Pradesh 212106",
+    "area": "Chak ghat",
+    "latitude": 25.1130165,
+    "longitude": 81.7533321,
+    "place_id": "ChIJOS5kQmc9hTkR8TjJUtQ464w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOS5kQmc9hTkR8TjJUtQ464w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:58"
+  }
+]

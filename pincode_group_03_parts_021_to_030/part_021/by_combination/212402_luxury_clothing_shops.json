@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anushree Fashion Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212402",
+    "phone_number": "+91 89338 83266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "608A, Matiyara Rd, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Allahpur",
+    "latitude": 25.453412,
+    "longitude": 81.877515,
+    "place_id": "ChIJgYq_Or41hTkRsFlF3hu58KI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYq_Or41hTkRsFlF3hu58KI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:23"
+  },
+  {
+    "business_name": "Hemchandra Vastra Bhandar",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212402",
+    "phone_number": "+91 94508 48483",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Sahson chauraha, Jhunsi Rd, Allahabad, Uttar Pradesh 221507",
+    "area": "Sahson Bazar",
+    "latitude": 25.483022,
+    "longitude": 81.9769333,
+    "place_id": "ChIJ-a6W6wyzmjkRgXIFsGYLhzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-a6W6wyzmjkRgXIFsGYLhzM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:46:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "212202",
+    "phone_number": "+91 76070 03991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "PWQW+W4H cloud kitchen, 438, Rashmi Khand, Ekta Nagar, Lucknow, Kalli Pashchim, Uttar Pradesh 226301",
+    "area": "Rashmi Khand, Ekta Nagar",
+    "latitude": 26.7397431,
+    "longitude": 80.94554029999999,
+    "place_id": "ChIJ7YjpXQD7mzkRNieBCPvGEWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YjpXQD7mzkRNieBCPvGEWQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:36"
+  },
+  {
+    "business_name": "Kitchen Cloud",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212202",
+    "phone_number": "+91 83770 50337",
+    "website": "https://kitchencloud.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B 21, New, New Vijay Nagar Colony, Block B, Sector 9, Vijay Nagar, Ghaziabad, Uttar Pradesh 201009",
+    "area": "New Vijay Nagar Colony, Block B, Sector 9, Vijay Nagar",
+    "latitude": 28.6440266,
+    "longitude": 77.4272802,
+    "place_id": "ChIJKdCAqZzxDDkR1VrMixBwkKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdCAqZzxDDkR1VrMixBwkKo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:09:37"
+  }
+]

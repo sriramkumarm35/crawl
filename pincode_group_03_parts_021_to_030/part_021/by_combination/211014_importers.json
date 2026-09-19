@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al Noor Exports",
+    "search_category": "Importers",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "211014",
+    "phone_number": "+91 11 2654 2368",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C-4/10, IInd Floor, Safdarjung Development Area, New Delhi, Delhi 110016",
+    "area": "Safdarjung Development Area, Hauz Khas",
+    "latitude": 28.549253,
+    "longitude": 77.1995558,
+    "place_id": "ChIJq6qqmgviDDkRn1grWhwyEF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqmgviDDkRn1grWhwyEF0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:52"
+  },
+  {
+    "business_name": "Manufacturer & Exporter",
+    "search_category": "Importers",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "211014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vasant kunj Enclave, Nangal Dewat, Sector D, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Vasant kunj Enclave, Nangal Dewat, Sector D, Vasant Kunj",
+    "latitude": 28.527036199999998,
+    "longitude": 77.13593279999999,
+    "place_id": "ChIJHbYoieAdDTkR_rZuyGGFu_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbYoieAdDTkR_rZuyGGFu_0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:37:52"
+  }
+]

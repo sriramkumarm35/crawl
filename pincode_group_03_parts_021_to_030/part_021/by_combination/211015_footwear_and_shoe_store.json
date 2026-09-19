@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shagun footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "211015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CRR6+2X7, Khuldabad, Kala Danda, Prayagraj, Uttar Pradesh 211016",
+    "area": "Khuldabad, Kala Danda",
+    "latitude": 25.4400487,
+    "longitude": 81.81241519999999,
+    "place_id": "ChIJD4VOQerLmjkRIoYnicp-NdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4VOQerLmjkRIoYnicp-NdU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:22"
+  },
+  {
+    "business_name": "RADHA FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "211015",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CQQW+9P5, Rajrooppur, Prayagraj, Uttar Pradesh 211015",
+    "area": "Rajrooppur",
+    "latitude": 25.438384799999998,
+    "longitude": 81.7968705,
+    "place_id": "ChIJw5IQxEvLmjkRcua2V4pANkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5IQxEvLmjkRcua2V4pANkI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:23"
+  }
+]

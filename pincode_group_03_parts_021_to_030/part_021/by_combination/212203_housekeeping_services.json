@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S M P Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Home help service agency, House clearance service, Pool cleaning service, Security guard service, Security service, Tile cleaning service, Window cleaning service",
+    "pincode": "212203",
+    "phone_number": "+91 90350 12259",
+    "website": "https://www.smpsolutions.in/",
+    "rating": 4.6,
+    "reviews_count": 101,
+    "address": "Hosur Rd, 51, 12th A Cross Rd, Narayanamma Layout, Naryanamma layout, Naganathapura, Rayasandra, Bengaluru, Karnataka 560076",
+    "area": "Narayanamma Layout, Naryanamma layout, Naganathapura, Rayasandra",
+    "latitude": 12.908570099999999,
+    "longitude": 77.6089275,
+    "place_id": "ChIJd88sWkEVrjsRg1krVw41X9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd88sWkEVrjsRg1krVw41X9I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:12:33"
+  },
+  {
+    "business_name": "Wehelp cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Cleaning service, Sanitation service",
+    "pincode": "212203",
+    "phone_number": "+91 98471 44303",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 121,
+    "address": "Kuravankonam, Thiruvananthapuram, Keralam 695003",
+    "area": "Kuravankonam",
+    "latitude": 8.5233086,
+    "longitude": 76.95393539999999,
+    "place_id": "ChIJhUQ497W7BTsRPe1fB4imgtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUQ497W7BTsRPe1fB4imgtY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:12:33"
+  }
+]

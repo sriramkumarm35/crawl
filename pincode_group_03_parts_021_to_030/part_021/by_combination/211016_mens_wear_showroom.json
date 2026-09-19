@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salman Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "211016",
+    "phone_number": "+91 93891 46360",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "24, Noorullah Rd, Kareli, Prayagraj, Uttar Pradesh 211003",
+    "area": "Kareli",
+    "latitude": 25.4389306,
+    "longitude": 81.8231608,
+    "place_id": "ChIJVVVVZSrLmjkRmJeIH2aDs5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVZSrLmjkRmJeIH2aDs5o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:15"
+  },
+  {
+    "business_name": "Prince fashion mart",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "211016",
+    "phone_number": "+91 93351 25872",
+    "website": "https://instagram.com/prince_fashion_mart?igshid=OTk0YzhjMDVlZA==",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "CRPF+H54, Khuldabad, Kala Danda, Prayagraj, Uttar Pradesh 211003",
+    "area": "Khuldabad, Kala Danda",
+    "latitude": 25.436383,
+    "longitude": 81.82295529999999,
+    "place_id": "ChIJsytg0y3LmjkRUrdnPBr-caI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsytg0y3LmjkRUrdnPBr-caI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:15"
+  }
+]

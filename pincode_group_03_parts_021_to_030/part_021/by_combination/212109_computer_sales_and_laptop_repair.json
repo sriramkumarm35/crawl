@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iconic Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "212109",
+    "phone_number": "+91 63886 34790",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "Link Road, Salori, Shukla Market, Govindpur, kailashpuri, Prayagraj, Uttar Pradesh 211004",
+    "area": "Salori, Shukla Market, Govindpur, kailashpuri",
+    "latitude": 25.4856743,
+    "longitude": 81.87668939999999,
+    "place_id": "ChIJsT3jz661mjkR4jJmQnijYFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsT3jz661mjkR4jJmQnijYFI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:05:19"
+  },
+  {
+    "business_name": "IT COMPUTERS PHULPUR",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "212109",
+    "phone_number": "+91 81818 00056",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NAHER PE, LAND MARK, Jaunpur - Prayagraj Rd, Phoolpur, Prayagraj, Uttar Pradesh 212402",
+    "area": "212109",
+    "latitude": 25.543113599999998,
+    "longitude": 82.07870009999999,
+    "place_id": "ChIJS83gFtWtmjkRkdDwTsRB9uU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS83gFtWtmjkRkdDwTsRB9uU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:05:20"
+  }
+]

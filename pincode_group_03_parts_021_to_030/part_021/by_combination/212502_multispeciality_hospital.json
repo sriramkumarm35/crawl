@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALAM HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "212502",
+    "phone_number": "+91 99354 14603",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "North to Soraon THANA (TEHSIL, beside Deepak Garments, Soraon, Uttar Pradesh 212502",
+    "area": "212502",
+    "latitude": 25.610127,
+    "longitude": 81.85191139999999,
+    "place_id": "ChIJ2-Pyve7JmjkRBaEKECzdCbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-Pyve7JmjkRBaEKECzdCbk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:52:02"
+  },
+  {
+    "business_name": "Deep Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212502",
+    "phone_number": "+91 84006 75004",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "Ramgadh Nevada , Holagarh Soraon, Uttar Pradesh 212503",
+    "area": "212502",
+    "latitude": 25.6783228,
+    "longitude": 81.7983536,
+    "place_id": "ChIJ9av4PADHmjkRKNpR1Ix7-7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9av4PADHmjkRKNpR1Ix7-7I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:52:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswar tea shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "212204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "P66P+3QC, Uttar Pradesh 212217",
+    "area": "212204",
+    "latitude": 25.7101766,
+    "longitude": 81.2368912,
+    "place_id": "ChIJ73e5tVU_mzkRS9vs07QzDUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73e5tVU_mzkRS9vs07QzDUI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:04"
+  },
+  {
+    "business_name": "Pardhan Chai Adda",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "212204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Noor, A1 conplex, Gausiya Masjid Gali, Saryu nagar, Kunda, Uttar Pradesh 230204",
+    "area": "Saryu nagar",
+    "latitude": 25.719863399999998,
+    "longitude": 81.510943,
+    "place_id": "ChIJO_G5ewAhmzkRrpJl0wNTa18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_G5ewAhmzkRrpJl0wNTa18",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:04"
+  }
+]

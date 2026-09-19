@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "212305",
+    "phone_number": "+91 90050 00731",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "Railway phatak, Basupur, Tara Gav, Uttar Pradesh 221503",
+    "area": "Railway phatak",
+    "latitude": 25.3537029,
+    "longitude": 82.2037872,
+    "place_id": "ChIJJUBuAbVVhTkRssch9FoUu5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUBuAbVVhTkRssch9FoUu5s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:51"
+  },
+  {
+    "business_name": "Ganesh Electronec Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "212305",
+    "phone_number": "+91 788 725 0722",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "63, Arai Uparwar N. Baripur, Uttar Pradesh 221309",
+    "area": "212305",
+    "latitude": 25.2698501,
+    "longitude": 82.23600069999999,
+    "place_id": "ChIJzWvW8LPzjzkRl_S_7GJQmo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWvW8LPzjzkRl_S_7GJQmo0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:51"
+  }
+]

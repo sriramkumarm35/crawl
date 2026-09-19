@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faction factory",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212207",
+    "phone_number": "+91 90260 45657",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "SH 94, Hinouta, Uttar Pradesh 212207",
+    "area": "212207",
+    "latitude": 25.4381196,
+    "longitude": 81.2108899,
+    "place_id": "ChIJefEZoo81mzkR1mDpmDEwdJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefEZoo81mzkR1mDpmDEwdJA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:27"
+  },
+  {
+    "business_name": "Clothnix mens wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "212207",
+    "phone_number": "+91 79055 97933",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "bus stand, in front of mahila market, chauraha, Mau, Uttar Pradesh 210209",
+    "area": "chauraha",
+    "latitude": 25.2688261,
+    "longitude": 81.37111449999999,
+    "place_id": "ChIJVWanEhPRhDkRxyYrWQyCneg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWanEhPRhDkRxyYrWQyCneg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:18:28"
+  }
+]

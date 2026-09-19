@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Ramdev Patnjali (LAVKUSH PAL)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Hospital",
+    "pincode": "212305",
+    "phone_number": "+91 97956 42097",
+    "website": "https://youtube.com/channel/UCP7ltQyMfxhIcSbv1derN8A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Unnamed Road, Ramdaspur, Uttar Pradesh 221502",
+    "area": "212305",
+    "latitude": 25.328810299999997,
+    "longitude": 82.2243712,
+    "place_id": "ChIJs-Nn2qhXhTkRXMFuga2qMOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-Nn2qhXhTkRXMFuga2qMOU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:28"
+  },
+  {
+    "business_name": "Mishra Brothers",
+    "search_category": "Organic Food Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Asre ka pura, Saidabad, Handia, Uttar Pradesh 221503",
+    "area": "Asre ka pura",
+    "latitude": 25.3039979,
+    "longitude": 82.1205674,
+    "place_id": "ChIJ2b2TMgBRhTkRAfWu1APxIZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2b2TMgBRhTkRAfWu1APxIZk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:28"
+  }
+]

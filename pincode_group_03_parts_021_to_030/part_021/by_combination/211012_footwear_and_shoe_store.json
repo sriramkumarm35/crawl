@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sumit Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "211012",
+    "phone_number": "+91 79050 96885",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Mundera Rd, Mundera Bazar, Ghayasuddinpur, Prayagraj, Uttar Pradesh 211011",
+    "area": "Mundera Bazar, Ghayasuddinpur",
+    "latitude": 25.4491218,
+    "longitude": 81.7607716,
+    "place_id": "ChIJHVswNbnMmjkRegk3DEX5uy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVswNbnMmjkRegk3DEX5uy0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:49"
+  },
+  {
+    "business_name": "Neha shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "211012",
+    "phone_number": "+91 93358 20183",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Sant Kabir Marg, besides kabir mandir, opposite Chail Computer Academy, MIG Preetam Nagar Colony, Dhoomanganj, Prayagraj, Uttar Pradesh 211011",
+    "area": "Preetam Nagar, MIG Preetam Nagar Colony, Dhoomanganj",
+    "latitude": 25.4531089,
+    "longitude": 81.7817476,
+    "place_id": "ChIJVbuFNX3LmjkRF4GgFwV1Y3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbuFNX3LmjkRF4GgFwV1Y3c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:49"
+  }
+]

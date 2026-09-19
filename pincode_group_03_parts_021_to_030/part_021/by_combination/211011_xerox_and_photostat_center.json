@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meraj Distributors",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "211011",
+    "phone_number": "+91 522 410 5210",
+    "website": "http://www.merajdistributors.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Burlington Chaurha, 106/2, Cantonment Rd, behind Odean Cinema, Nazarbagh, Uttar Pradesh 226001",
+    "area": "Nazarbagh, Ghasyari Mandi, Aminabad",
+    "latitude": 26.843739199999998,
+    "longitude": 80.9350584,
+    "place_id": "ChIJBfAN_K79mzkRP3C7fZWRtsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfAN_K79mzkRP3C7fZWRtsc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:31:50"
+  },
+  {
+    "business_name": "Zap Computer Sales And Service",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer Wholesaler",
+    "all_categories": "Computer Wholesaler, Camera store, Computer service, Printer repair service",
+    "pincode": "211011",
+    "phone_number": "+91 76689 60111",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "117/ 274, L Block, P Block, Navin Nagar, Kakadeo, Kanpur, Uttar Pradesh 208025",
+    "area": "P Block, Navin Nagar, Kakadeo",
+    "latitude": 26.4735117,
+    "longitude": 80.2895796,
+    "place_id": "ChIJn3hKeA44nDkR1zA39TspnQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3hKeA44nDkR1zA39TspnQA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:31:50"
+  }
+]

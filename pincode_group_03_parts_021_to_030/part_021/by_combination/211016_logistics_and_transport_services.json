@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sai Road Lines",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "211016",
+    "phone_number": "+91 97936 22220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "16, Nawab Yusuf Rd, Canton, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Civil Lines",
+    "latitude": 25.449423,
+    "longitude": 81.818738,
+    "place_id": "ChIJZXO7WCbLmjkR5HaKvCjB6uY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXO7WCbLmjkR5HaKvCjB6uY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:43"
+  },
+  {
+    "business_name": "Blackbuck Boss",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "School bus service",
+    "all_categories": "School bus service",
+    "pincode": "211016",
+    "phone_number": "+91 80 4648 1828",
+    "website": "https://fleet.blackbuck.com/",
+    "rating": 3.1,
+    "reviews_count": 15,
+    "address": "CRV6+7X2, Lukarganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Lukarganj",
+    "latitude": 25.443134,
+    "longitude": 81.812393,
+    "place_id": "ChIJHZkZMy7LmjkRZsbX505KFyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZkZMy7LmjkRZsbX505KFyU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:43"
+  }
+]

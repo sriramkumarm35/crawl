@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "212401",
+    "phone_number": "+91 63073 24565",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wari- Durgaganj Rd, Kudhwa, Bhoja Raja, Uttar Pradesh 221404",
+    "area": "212401",
+    "latitude": 25.485971,
+    "longitude": 82.29271039999999,
+    "place_id": "ChIJJ_7NdCUBkDkRK4kBxEnI81w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_7NdCUBkDkRK4kBxEnI81w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:16"
+  },
+  {
+    "business_name": "Family Sweet House & Restaurant",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant",
+    "pincode": "212401",
+    "phone_number": "+91 73550 16941",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pragragraj Phulpur, Uttar Pradesh 212402",
+    "area": "212401",
+    "latitude": 25.5776845,
+    "longitude": 82.27108129999999,
+    "place_id": "ChIJU11GKAAHkDkRCOp6_w_4fJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU11GKAAHkDkRCOp6_w_4fJE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:19"
+  }
+]

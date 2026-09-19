@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rdk Tour and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Driver's license office",
+    "pincode": "211010",
+    "phone_number": "+91 78438 63878",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "A3/89 World Bank, ADA Colony, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "ADA Colony, Naini",
+    "latitude": 25.3903803,
+    "longitude": 81.8790368,
+    "place_id": "ChIJZ5fGjLZLhTkRX9t_U-I2hck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5fGjLZLhTkRX9t_U-I2hck",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:18"
+  },
+  {
+    "business_name": "Chiku Cab Taxi Service Varanasi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "211010",
+    "phone_number": "+91 62808 20037",
+    "website": "https://chikucab.com/cabs-services-in-varanasi.html",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "K, LANE NO 1, HOUSE NO D, 59/212, Nirala Nagar, Shivpurwa, Varanasi, Uttar Pradesh 221010",
+    "area": "Nirala Nagar, Shivpurwa",
+    "latitude": 25.308439,
+    "longitude": 82.97891,
+    "place_id": "ChIJLRGgk-ctjjkR6neHoWTKmBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRGgk-ctjjkR6neHoWTKmBU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:29:18"
+  }
+]

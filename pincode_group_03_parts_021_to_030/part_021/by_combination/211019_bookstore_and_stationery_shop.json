@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Books Of India",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "211019",
+    "phone_number": "+91 90266 14050",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "Chatt Nag Road Cahtt Nag Road, Uttar Pradesh 211019",
+    "area": "211019",
+    "latitude": 25.425993199999997,
+    "longitude": 81.92049329999999,
+    "place_id": "ChIJX6reRRFLhTkRZd8BrkSibUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6reRRFLhTkRZd8BrkSibUA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:46:41"
+  },
+  {
+    "business_name": "Amrita Stationary (AS)",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "211019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Little Angel School, Ustapur Mahmudabad, gangadeep colony, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Ustapur Mahmudabad, gangadeep colony",
+    "latitude": 25.416291299999997,
+    "longitude": 81.9120415,
+    "place_id": "ChIJ80k3YxxLhTkR5pGhFnBbrBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80k3YxxLhTkR5pGhFnBbrBo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:46:42"
+  }
+]

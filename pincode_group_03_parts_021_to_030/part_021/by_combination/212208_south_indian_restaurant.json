@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tongue Sizzler",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "212208",
+    "phone_number": "+91 74984 45693",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "42/6, near St. Vishna School, Neem Sarai, Ghayasuddinpur, Prayagraj, Uttar Pradesh 211011",
+    "area": "Neem Sarai, Ghayasuddinpur",
+    "latitude": 25.4510732,
+    "longitude": 81.7585289,
+    "place_id": "ChIJ7UgKhPHNmjkRb0JSti38nT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UgKhPHNmjkRb0JSti38nT0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:07"
+  },
+  {
+    "business_name": "Navrang",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Fast food restaurant",
+    "pincode": "212208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "454/302, Transport Nagar, Ghayasuddinpur, Prayagraj, Uttar Pradesh 211011",
+    "area": "Transport Nagar, Ghayasuddinpur",
+    "latitude": 25.453912799999998,
+    "longitude": 81.7658597,
+    "place_id": "ChIJz4rOqFPNmjkRMLKzS1edAHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4rOqFPNmjkRMLKzS1edAHk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:08"
+  }
+]

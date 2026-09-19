@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "211012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagwatpur, Uttar Pradesh 211012",
+    "area": "211012",
+    "latitude": 25.4313273,
+    "longitude": 81.7081816,
+    "place_id": "ChIJ42Njv8DNmjkRWBs9FxZqCmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42Njv8DNmjkRWBs9FxZqCmY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:27"
+  },
+  {
+    "business_name": "AMAR & SONS TRADERS (Oil & Flour Mill)",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "211012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "170m North from Thana, Fatehpur Ghat Road, Bihka, Pura Mufti, Prayagraj, Uttar Pradesh 212208",
+    "area": "Bihka",
+    "latitude": 25.4879177,
+    "longitude": 81.6706758,
+    "place_id": "ChIJv-itFQDTmjkRjIFgr9Qgb6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-itFQDTmjkRjIFgr9Qgb6E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:32:29"
+  }
+]

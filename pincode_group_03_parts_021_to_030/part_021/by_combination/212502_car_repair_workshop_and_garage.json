@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulab Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "212502",
+    "phone_number": "+91 88080 81852",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Harakhpur, Chauraha, Road, near Sbi Bank, Soraon, Uttar Pradesh 212507",
+    "area": "212502",
+    "latitude": 25.697140599999997,
+    "longitude": 81.8411584,
+    "place_id": "ChIJ1ZNWmCGVmjkRfQ_LEmQ6k4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZNWmCGVmjkRfQ_LEmQ6k4o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:52:12"
+  },
+  {
+    "business_name": "Dharmendra Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "212502",
+    "phone_number": "+91 99566 06571",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "7, Baramau, Uttar Pradesh 212502",
+    "area": "212502",
+    "latitude": 25.649419899999998,
+    "longitude": 81.81970369999999,
+    "place_id": "ChIJr2xFMejHmjkRfGISQEcquI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2xFMejHmjkRfGISQEcquI0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:52:12"
+  }
+]

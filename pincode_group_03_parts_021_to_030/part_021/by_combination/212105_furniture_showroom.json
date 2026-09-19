@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakshi Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "212105",
+    "phone_number": "+91 99568 40826",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "9RJW+QWV, Ramsagar, Chak Rana Tiwari, COD Rd, Chaka, Naini, Prayagraj, Dadari Ta. Naugawan, Uttar Pradesh 212105",
+    "area": "Chaka, Naini",
+    "latitude": 25.381983899999998,
+    "longitude": 81.8472879,
+    "place_id": "ChIJPwz8IZk1hTkROzSQn4i0k5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwz8IZk1hTkROzSQn4i0k5U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:57:25"
+  },
+  {
+    "business_name": "Ritu Furniture Mart",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Bedroom furniture store",
+    "all_categories": "Bedroom furniture store, Furniture maker, Furniture Manufacturer, Furniture store, Furniture wholesaler, Office furniture store, Safe & vault shop",
+    "pincode": "212105",
+    "phone_number": "N/A",
+    "website": "http://www.interioregg.com/",
+    "rating": 4.8,
+    "reviews_count": 224,
+    "address": "Azamgarh Rd, Pandeypur, Sikraul, Varanasi, Uttar Pradesh 221002",
+    "area": "Pandeypur, Sikraul",
+    "latitude": 25.3519887,
+    "longitude": 82.9932441,
+    "place_id": "ChIJs10NiH8ujjkR76Gb2myKxaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs10NiH8ujjkR76Gb2myKxaQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:57:25"
+  }
+]

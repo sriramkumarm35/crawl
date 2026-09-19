@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DR.GUL REHABILITATION & PHYSIOTHERAPY CLINIC",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "212203",
+    "phone_number": "+91 78350 37166",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 82,
+    "address": "shop no 02, royal arcade, Jaipuria Enclave, Kaushambi, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Jaipuria Enclave, Kaushambi",
+    "latitude": 28.643631199999998,
+    "longitude": 77.31866389999999,
+    "place_id": "ChIJnXmZQGz7DDkRXK6iZQn9KPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXmZQGz7DDkRXK6iZQn9KPU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:12:07"
+  },
+  {
+    "business_name": "RenewWell CDC (Child Development Center)",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist, Applied behavior analysis therapist, Child psychologist, Speech & Hearing Specialist",
+    "pincode": "212203",
+    "phone_number": "+91 72899 79792",
+    "website": "https://sites.google.com/view/renewwell-cdc/home",
+    "rating": 4.9,
+    "reviews_count": 72,
+    "address": "S-7/30, Jyoti Apartment, G-4, Sector 2, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Sector 2, Rajendra Nagar, Sahibabad",
+    "latitude": 28.686286799999998,
+    "longitude": 77.3582418,
+    "place_id": "ChIJVeB8koL7DDkRdYT_kDA8Ptg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeB8koL7DDkRdYT_kDA8Ptg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:12:09"
+  }
+]

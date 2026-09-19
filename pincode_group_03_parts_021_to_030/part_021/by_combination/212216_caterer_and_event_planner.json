@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homestyle Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "212216",
+    "phone_number": "+91 79826 17795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "518, Sector 5, Vaishali, Ghaziabad, Uttar Pradesh 201019",
+    "area": "Sector 5, Vaishali",
+    "latitude": 28.6457473,
+    "longitude": 77.3477398,
+    "place_id": "ChIJo91tMjn7DDkRW-S6eIN-BrU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo91tMjn7DDkRW-S6eIN-BrU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:28:13"
+  },
+  {
+    "business_name": "Uttam Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "212216",
+    "phone_number": "+91 88603 25285",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 88,
+    "address": "11, 1, Gulmohar Rd, Shipra Suncity, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Shipra Suncity, Indirapuram",
+    "latitude": 28.636131,
+    "longitude": 77.3729346,
+    "place_id": "ChIJl5FEE3rlDDkRnet5LrVhF9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5FEE3rlDDkRnet5LrVhF9g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:28:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khadi Bazar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212105",
+    "phone_number": "+91 80991 56634",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "No 5, 1-759, Bank St, Sultan Bazar, Koti, Hyderabad, Telangana 500001",
+    "area": "Sultan Bazar, Koti",
+    "latitude": 17.3849485,
+    "longitude": 78.4837431,
+    "place_id": "ChIJ7SigstOZyzsR-4-uYab46sA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SigstOZyzsR-4-uYab46sA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:56:54"
+  },
+  {
+    "business_name": "Khadi & Village Industries Commission",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "212105",
+    "phone_number": "+91 542 220 4434",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sanskrit University Rd, Andhrapull, Jagatganj, Teliyabag, Varanasi, Uttar Pradesh 221002",
+    "area": "Andhrapull, Jagatganj, Teliyabag",
+    "latitude": 25.3292353,
+    "longitude": 82.9952563,
+    "place_id": "ChIJG8533QoujjkRAvuMNy17mbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8533QoujjkRAvuMNy17mbo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:56:54"
+  }
+]

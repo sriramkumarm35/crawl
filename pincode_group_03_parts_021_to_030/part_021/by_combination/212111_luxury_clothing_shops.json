@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marcia’s Luxury",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "212111",
+    "phone_number": "N/A",
+    "website": "https://www.marciasluxury.com/",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "825 W 36th St, Baltimore, MD 21211, United States",
+    "area": "Hampden",
+    "latitude": 39.3310916,
+    "longitude": -76.6301211,
+    "place_id": "ChIJx13JHWgFyIkRDKVeYg_NcrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx13JHWgFyIkRDKVeYg_NcrA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:12"
+  },
+  {
+    "business_name": "Manyavar & Mohey",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bridal shop, Designer Clothing Store, Men's clothing store, Women's clothing store",
+    "pincode": "212111",
+    "phone_number": "+91 90766 14283",
+    "website": "https://stores.manyavar.com/ManyavarMohey/manyavar-mohey-clothing-stores-civil-lines-prayagraj-133028/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": 4824,
+    "address": "No 7/9, Sardar Patel Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4522287,
+    "longitude": 81.8350272,
+    "place_id": "ChIJJVzclsTKmjkRCDWoRK3LmPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVzclsTKmjkRCDWoRK3LmPc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:06:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indbazaar",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "212218",
+    "phone_number": "+91 1800 425 0425",
+    "website": "http://www.indbazaar.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "24, Trichy Trunk Rd, Viluppuram, Tamil Nadu 605602",
+    "area": "212218",
+    "latitude": 11.936904799999999,
+    "longitude": 79.4854266,
+    "place_id": "ChIJZ6a_zJZWUzoRNp8k2b164yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6a_zJZWUzoRNp8k2b164yE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:52"
+  },
+  {
+    "business_name": "Chandra Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "212218",
+    "phone_number": "+91 94154 41880",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P9HG+56G, Azad Nagar, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Azad Nagar",
+    "latitude": 26.7279409,
+    "longitude": 83.3755931,
+    "place_id": "ChIJBXQgF6lDkTkR0afNGargCfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXQgF6lDkTkR0afNGargCfw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:53"
+  }
+]

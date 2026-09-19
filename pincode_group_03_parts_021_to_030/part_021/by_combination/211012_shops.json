@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahmad Bag & Repairing Center",
+    "search_category": "Shops",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Repair service",
+    "pincode": "211012",
+    "phone_number": "+91 75058 15105",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "new market, Shamim Market Colony, Shivala, Prayagraj, Uttar Pradesh 211012",
+    "area": "Shamim Market Colony, Shivala",
+    "latitude": 25.4482957,
+    "longitude": 81.7439484,
+    "place_id": "ChIJo0S5Mw_NmjkRs2yC78msyt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0S5Mw_NmjkRs2yC78msyt0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:21"
+  },
+  {
+    "business_name": "Maya Enterprises",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "211012",
+    "phone_number": "+91 99390 23341",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bajaha Khel Gaon Public School Road, Prayagraj, Uttar Pradesh 211012",
+    "area": "211012",
+    "latitude": 25.3878503,
+    "longitude": 81.7636314,
+    "place_id": "ChIJKecl8wk1hTkRMMz1sdDVLhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKecl8wk1hTkRMMz1sdDVLhI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:34:21"
+  }
+]

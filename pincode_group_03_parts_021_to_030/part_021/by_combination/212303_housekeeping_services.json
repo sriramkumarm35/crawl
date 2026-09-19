@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Helpmate Home Care Services Pvt. Ltd.",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Appliance repair service, Carpenter, Electrician, Air conditioning repair service, Painting, Pest control service, Plumber, Remodeler",
+    "pincode": "212303",
+    "phone_number": "+91 77050 04040",
+    "website": "http://helpmate.net.in/",
+    "rating": 4.4,
+    "reviews_count": 135,
+    "address": "D-58/16C, Shastri Nagar, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Shastri Nagar, Sigra",
+    "latitude": 25.315035899999998,
+    "longitude": 82.98935379999999,
+    "place_id": "ChIJAbgTQBotjjkRUXomgAgY8Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbgTQBotjjkRUXomgAgY8Wg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:05"
+  },
+  {
+    "business_name": "Shree Sai manpower service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "212303",
+    "phone_number": "+91 82990 64535",
+    "website": "https://www.shreesaimanpower.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Manoj katra, kalimandir, Pandit Deen Dayal Upadhyaya Nagar, Uttar Pradesh 232101",
+    "area": "kalimandir",
+    "latitude": 25.283704399999998,
+    "longitude": 83.1155215,
+    "place_id": "ChIJcXs9kGU7jjkRtkNvs75Y7Hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXs9kGU7jjkRtkNvs75Y7Hs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:38:05"
+  }
+]

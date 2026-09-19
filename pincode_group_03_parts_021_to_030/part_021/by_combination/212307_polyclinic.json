@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212307",
+    "phone_number": "+91 94159 51828",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Grand Trunk Rd, Binda Chak Mukim, Uttar Pradesh 221508",
+    "area": "212307",
+    "latitude": 25.3758716,
+    "longitude": 82.1081023,
+    "place_id": "ChIJNTJeAP9ThTkRQFXQ_i_-8l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTJeAP9ThTkRQFXQ_i_-8l8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:42:45"
+  },
+  {
+    "business_name": "Mariyam Polyclinic Fatuhan",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "212307",
+    "phone_number": "+91 80527 53767",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "C3G3+VP4, Fatuha, Uttar Pradesh 221505",
+    "area": "212307",
+    "latitude": 25.4271316,
+    "longitude": 82.05433409999999,
+    "place_id": "ChIJ_____7xShTkRrZvVCnOsj5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____7xShTkRrZvVCnOsj5A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:42:45"
+  }
+]

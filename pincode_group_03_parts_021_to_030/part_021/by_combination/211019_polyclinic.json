@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alka ENT Polyclinic Jhunsi",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "211019",
+    "phone_number": "+91 74598 36197",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Nyay Nagar, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Nyay Nagar",
+    "latitude": 25.4262379,
+    "longitude": 81.9169771,
+    "place_id": "ChIJ4aPKZwBLhTkRFizdSEBhSiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aPKZwBLhTkRFizdSEBhSiI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:55"
+  },
+  {
+    "business_name": "Arpita Poly Clinic & Diognostic Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "211019",
+    "phone_number": "+91 94152 78699",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CWCG+PX4, Trivenipuram, Lilapur, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "211019",
+    "latitude": 25.421771,
+    "longitude": 81.92746799999999,
+    "place_id": "ChIJbYfAvz5LhTkRG0GtdPpVLKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYfAvz5LhTkRG0GtdPpVLKU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:55"
+  }
+]

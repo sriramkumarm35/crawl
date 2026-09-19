@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IWP - Indian Wedding Planners",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "211022",
+    "phone_number": "+91 94143 66666",
+    "website": "https://www.indianweddingplanners.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot no 34, C-Scheme, Sangram Colony, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "C-Scheme, Sangram Colony, Ashok Nagar",
+    "latitude": 26.911593099999997,
+    "longitude": 75.8120333,
+    "place_id": "ChIJlaU03AO0bTkRC59maR0VFfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaU03AO0bTkRC59maR0VFfw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:51:57"
+  },
+  {
+    "business_name": "Shree Siddhi Vinayak Caterers & Event Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "211022",
+    "phone_number": "+91 76909 90765",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no 63, karni palace road, Vaishali nagar, West, Panchyawala, Jaipur, Rajasthan 302034",
+    "area": "Shree Ram Nagar - A, Panchyawala",
+    "latitude": 26.9113482,
+    "longitude": 75.7201754,
+    "place_id": "ChIJ9ba2c3izbTkROg833oEdWWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ba2c3izbTkROg833oEdWWM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:51:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJAY Footwear Shop",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "212303",
+    "phone_number": "+91 78979 64742",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "bus stop, Unchdih, Meja Rd, Uttar Pradesh 212303",
+    "area": "212303",
+    "latitude": 25.1928058,
+    "longitude": 82.15635309999999,
+    "place_id": "ChIJJc4wHaxZhTkRgrXufR_N6_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJc4wHaxZhTkRgrXufR_N6_s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:53"
+  },
+  {
+    "business_name": "NEW AK FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "212303",
+    "phone_number": "+91 73554 13737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Buxi Bazar, Roshan Bagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Buxi Bazar, Roshan Bagh",
+    "latitude": 25.4367122,
+    "longitude": 81.8246504,
+    "place_id": "ChIJK4oHJwDLmjkRvZKAO8lYNus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4oHJwDLmjkRvZKAO8lYNus",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:54"
+  }
+]

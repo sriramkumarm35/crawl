@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nav Jyoti Eye Care Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "211008",
+    "phone_number": "+91 97949 97811",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "New Market, 313 A, beside NSIC, Chaka, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Chaka, Naini",
+    "latitude": 25.3840699,
+    "longitude": 81.8688739,
+    "place_id": "ChIJzZKP-Xs1hTkRAjaeDqglc0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZKP-Xs1hTkRAjaeDqglc0Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:07"
+  },
+  {
+    "business_name": "Dr. Mool Narayan Verma | Best Eye specialist",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "211008",
+    "phone_number": "+91 85271 75870",
+    "website": "https://jeevanjyotihospital.com/Default.aspx",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "162, Haima-Kutir Rd, Himmat Ganj, Kydganj, Prayagraj, Uttar Pradesh 211003",
+    "area": "Himmat Ganj, Kydganj",
+    "latitude": 25.436579899999998,
+    "longitude": 81.84663859999999,
+    "place_id": "ChIJ93b1SADLmjkRFQRRItHOqB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93b1SADLmjkRFQRRItHOqB0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:27:09"
+  }
+]

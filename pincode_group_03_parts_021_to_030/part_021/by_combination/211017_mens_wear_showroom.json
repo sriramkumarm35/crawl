@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A R Sports",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Exercise equipment store",
+    "pincode": "211017",
+    "phone_number": "+91 95067 80078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Johnson, Uttar Pradesh 211001",
+    "area": "Canton, Dhoomanganj",
+    "latitude": 25.4512181,
+    "longitude": 81.8251583,
+    "place_id": "ChIJtR0DITLLmjkRTKutOxTI9-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtR0DITLLmjkRTKutOxTI9-g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:08"
+  },
+  {
+    "business_name": "J&T couture collection & Tailors",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "211017",
+    "phone_number": "+91 80810 10999",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Purushottam Das Tandon Marg, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Dhoomanganj",
+    "latitude": 25.4521575,
+    "longitude": 81.8228017,
+    "place_id": "ChIJH5jOrtjKmjkR0u4gj3EEwDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5jOrtjKmjkR0u4gj3EEwDw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:08"
+  }
+]

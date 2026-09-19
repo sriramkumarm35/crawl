@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prayag Kullhad Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "212208",
+    "phone_number": "+91 91403 94620",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 43,
+    "address": "near sambhu nath instute, Devprayagam Colony, Jhalwa, Prayagraj, Mubarkpur Kotwa, Uttar Pradesh 211015",
+    "area": "Devprayagam Colony, Jhalwa",
+    "latitude": 25.4364384,
+    "longitude": 81.75963899999999,
+    "place_id": "ChIJpbzHDizNmjkRMWQ9SphXjjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbzHDizNmjkRMWQ9SphXjjI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:10"
+  },
+  {
+    "business_name": "TeaMax Cafe Uttar Pradesh",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "212208",
+    "phone_number": "+91 99901 55470",
+    "website": "https://www.teamaxcafe.in/",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "CQP5+H2F, Devprayagam Colony, Jhalwa, Mubarkpur, Kotwa, Uttar Pradesh 211015",
+    "area": "Devprayagam Colony, Jhalwa",
+    "latitude": 25.4364375,
+    "longitude": 81.75756249999999,
+    "place_id": "ChIJFRJXO4fNmjkRd02G8rnqUAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRJXO4fNmjkRd02G8rnqUAI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:20:11"
+  }
+]

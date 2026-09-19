@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHISHU POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "212301",
+    "phone_number": "+91 99842 21724",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaithi Chauraha, Karchana, Prayagraj, Uttar Pradesh 212301",
+    "area": "212301",
+    "latitude": 25.2566545,
+    "longitude": 81.9458095,
+    "place_id": "ChIJ0xsdTRxJhTkRJ5LgYsNlt0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xsdTRxJhTkRJ5LgYsNlt0g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:33:12"
+  },
+  {
+    "business_name": "Kesarwani Medical Store",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212301",
+    "phone_number": "+91 85770 67137",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "80/3, Chak Raghunath, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.393309,
+    "longitude": 81.8619405,
+    "place_id": "ChIJ7TW9gH01hTkRzTaaj2kDWgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TW9gH01hTkRzTaaj2kDWgU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:33:15"
+  }
+]

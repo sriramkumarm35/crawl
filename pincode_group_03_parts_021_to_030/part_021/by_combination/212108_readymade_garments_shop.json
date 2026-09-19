@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Narayan Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store",
+    "pincode": "212108",
+    "phone_number": "+91 96515 32822",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Sadar Bazar Shankargarh, Shankargarh, Chundwa, Uttar Pradesh 212108",
+    "area": "212108",
+    "latitude": 25.1861298,
+    "longitude": 81.61719699999999,
+    "place_id": "ChIJ9X3S5jIkhTkRjrkkfOUF4DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9X3S5jIkhTkRjrkkfOUF4DU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:02:22"
+  },
+  {
+    "business_name": "Neel Kamal Cloth Centre",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212108",
+    "phone_number": "+91 94523 77435",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sadar Bazar Shankargarh, opposite G D jewellers, Ward Number 3, Chundwa, Uttar Pradesh 212108",
+    "area": "Ward Number 3",
+    "latitude": 25.1829085,
+    "longitude": 81.6169517,
+    "place_id": "ChIJf4k69n4lhTkRZC4l0gQjng4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf4k69n4lhTkRZC4l0gQjng4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:02:22"
+  }
+]

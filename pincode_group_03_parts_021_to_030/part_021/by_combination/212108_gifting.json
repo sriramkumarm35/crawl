@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Pal",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "212108",
+    "phone_number": "+91 82996 70546",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sadar Bazar Shankargarh, Ward Number 3, Chundwa, Uttar Pradesh 212108",
+    "area": "Ward Number 3",
+    "latitude": 25.183496299999998,
+    "longitude": 81.6169512,
+    "place_id": "ChIJvWtCymElhTkRCctlKawul-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWtCymElhTkRCctlKawul-8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:03:17"
+  },
+  {
+    "business_name": "Paraj Gift Store",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "212108",
+    "phone_number": "+91 89498 79471",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward Number 3, Sadar Bazar, Shankargarh, Chundwa, Uttar Pradesh 212108",
+    "area": "Ward Number 3, Sadar Bazar",
+    "latitude": 25.1832979,
+    "longitude": 81.6170977,
+    "place_id": "ChIJ9eC9NqMlhTkR6q0AdSYYATI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eC9NqMlhTkR6q0AdSYYATI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:03:17"
+  }
+]

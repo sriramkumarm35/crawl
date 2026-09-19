@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golu Fruit corner",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "211008",
+    "phone_number": "+91 63936 79365",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nibi, Karma Rd, near primary school, Naini, Prayagraj, Pura Khagan, Uttar Pradesh 212111",
+    "area": "Naini",
+    "latitude": 25.335110699999998,
+    "longitude": 81.870271,
+    "place_id": "ChIJsyFnrLVLhTkRj9VJCm1QnsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyFnrLVLhTkRj9VJCm1QnsQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:40"
+  },
+  {
+    "business_name": "राम सुमेर फल वाले",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "211008",
+    "phone_number": "+91 73949 80924",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CWGF+FRR, Jhusi, Jhusi Kohna, Uttar Pradesh 211019",
+    "area": "211008",
+    "latitude": 25.426237,
+    "longitude": 81.9245188,
+    "place_id": "ChIJ9Ut-NABLhTkRCrYBe119w6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Ut-NABLhTkRCrYBe119w6Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:26:42"
+  }
+]

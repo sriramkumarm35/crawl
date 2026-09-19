@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ss computer center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "212305",
+    "phone_number": "+91 91988 74921",
+    "website": "https://sscomputercenter.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kanakpur,byur,saidabad,handia,prayagraj Dulapur,byur,saidabad,handia, Uttar Pradesh 221503",
+    "area": "212305",
+    "latitude": 25.317208899999997,
+    "longitude": 82.10590789999999,
+    "place_id": "ChIJ2bok7MtXhTkRswLeckz9sdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bok7MtXhTkRswLeckz9sdA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:44"
+  },
+  {
+    "business_name": "Mstechvision Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Training center",
+    "pincode": "212305",
+    "phone_number": "+91 94152 46978",
+    "website": "https://www.mstechvision.com/",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Beyond the BSNL Tower, Station Road, Handia, Uttar Pradesh 221503",
+    "area": "212305",
+    "latitude": 25.3599225,
+    "longitude": 82.1926452,
+    "place_id": "ChIJj5ZQMPJVhTkRQMK_zNE8vLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5ZQMPJVhTkRQMK_zNE8vLc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:39:44"
+  }
+]

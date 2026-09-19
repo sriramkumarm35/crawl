@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BK Enterprises",
+    "search_category": "Exporters",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Service establishment",
+    "pincode": "212307",
+    "phone_number": "+91 80802 57833",
+    "website": "https://b-k-enterprises.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BK Enterprises, 212307, India",
+    "area": "212307",
+    "latitude": 25.4022638,
+    "longitude": 81.80158449999999,
+    "place_id": "ChIJSTxVw-NPhTkRCCLUV85zLlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTxVw-NPhTkRCCLUV85zLlU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:43:58"
+  },
+  {
+    "business_name": "Kushwaha fabrication",
+    "search_category": "Exporters",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "212307",
+    "phone_number": "+91 84239 92696",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Dharahara, Uttar Pradesh 212307",
+    "area": "212307",
+    "latitude": 25.2550587,
+    "longitude": 81.9881279,
+    "place_id": "ChIJDTNioadFhTkRIk_MxpuAu1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTNioadFhTkRIk_MxpuAu1Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:43:58"
+  }
+]

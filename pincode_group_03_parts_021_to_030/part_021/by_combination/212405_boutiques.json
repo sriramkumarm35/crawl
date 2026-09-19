@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai maa sharda vastralay Pratappur",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212405",
+    "phone_number": "+91 98897 78556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pratappur Rd, Ugrasenpur, Uttar Pradesh 212405",
+    "area": "212405",
+    "latitude": 25.565639299999997,
+    "longitude": 82.17369269999999,
+    "place_id": "ChIJHRnhQACpmjkRo-yguqrShJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRnhQACpmjkRo-yguqrShJ0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:50:06"
+  },
+  {
+    "business_name": "Smart fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Kilt shop and hire",
+    "all_categories": "Kilt shop and hire",
+    "pincode": "212405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Babupur Belo, Barista Kala, Uttar Pradesh 212402",
+    "area": "212405",
+    "latitude": 25.5364386,
+    "longitude": 82.19991089999999,
+    "place_id": "ChIJoyegd4WrmjkRfyhI1l5vTDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyegd4WrmjkRfyhI1l5vTDY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:50:08"
+  }
+]

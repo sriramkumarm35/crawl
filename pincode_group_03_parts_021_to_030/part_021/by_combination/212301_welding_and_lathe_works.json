@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.K Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Tool & die shop",
+    "all_categories": "Tool & die shop, Metal fabricator",
+    "pincode": "212301",
+    "phone_number": "+91 93350 96988",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bai Ka Bagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Bai Ka Bagh",
+    "latitude": 25.4364077,
+    "longitude": 81.8489914,
+    "place_id": "ChIJDVtITUs1hTkRd-4pn5h09xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVtITUs1hTkRd-4pn5h09xw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:22"
+  },
+  {
+    "business_name": "Weldor CNC Machines Limited",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Machining manufacturer",
+    "all_categories": "Machining manufacturer, Industrial equipment supplier, Machine construction",
+    "pincode": "212301",
+    "phone_number": "+91 83061 84061",
+    "website": "http://weldorcncmachines.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Survey No. 240, Rajkot - Gondal, National Highway, Shapar, Gujarat 360024",
+    "area": "212301",
+    "latitude": 22.1670975,
+    "longitude": 70.7986489,
+    "place_id": "ChIJzVLNlXc1WDkRzgn3tmpiynU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVLNlXc1WDkRzgn3tmpiynU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:34:22"
+  }
+]

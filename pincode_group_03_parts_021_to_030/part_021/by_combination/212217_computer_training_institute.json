@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhidhyanam Digital",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Computer club",
+    "pincode": "212217",
+    "phone_number": "+91 89485 69727",
+    "website": "http://www.abhidhyanamdigital.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Kalnapur Rd, Dhata, Karikan, Uttar Pradesh 212641",
+    "area": "212217",
+    "latitude": 25.5384687,
+    "longitude": 81.22673859999999,
+    "place_id": "ChIJu0JdDPU3mzkRfyJ6Fz8dHiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0JdDPU3mzkRfyJ6Fz8dHiI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:15"
+  },
+  {
+    "business_name": "Mahendra",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "212217",
+    "phone_number": "N/A",
+    "website": "https://mahendra.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Udhin Khurd Kaushambi, Uttar Pradesh 212217",
+    "area": "212217",
+    "latitude": 25.576523599999998,
+    "longitude": 81.2708285,
+    "place_id": "ChIJ29fStSwxmzkRXZxFmYJkxJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29fStSwxmzkRXZxFmYJkxJU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market Laltara",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4X84+HHX, NTPC Meja Rd, Laltara, Salaiya Khurd, Uttar Pradesh 212308",
+    "area": "Laltara",
+    "latitude": 25.1165037,
+    "longitude": 81.9561842,
+    "place_id": "ChIJExNhWQBDhTkR0uDufnjXVeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExNhWQBDhTkR0uDufnjXVeg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:44"
+  },
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "212301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 135,
+    "address": "9HX9+368, Chedibeer, Bhadohi, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.3976574,
+    "longitude": 82.5680883,
+    "place_id": "ChIJ64KO5BvejzkRsZuhm1yl-Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ64KO5BvejzkRsZuhm1yl-Lc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:32:47"
+  }
+]

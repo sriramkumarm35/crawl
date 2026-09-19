@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS GLOBAL TECHNOLOGY",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "212105",
+    "phone_number": "+91 89088 91210",
+    "website": "https://ssglobaltec.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SS GLOBAL TECHNOLOGY, 212105, India",
+    "area": "212105",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJLQlhXoSEak8RT6YyHbEJQvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQlhXoSEak8RT6YyHbEJQvI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:15"
+  },
+  {
+    "business_name": "MSTR Consulting Pvt Ltd",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "212105",
+    "phone_number": "N/A",
+    "website": "http://www.mstr.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MSTR Consulting Pvt Ltd, 212105, India",
+    "area": "212105",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJxSks2zZXmTkRumPnKMU6O0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSks2zZXmTkRumPnKMU6O0A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:58:15"
+  }
+]

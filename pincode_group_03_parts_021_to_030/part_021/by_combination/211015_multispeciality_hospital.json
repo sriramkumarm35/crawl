@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Swaroop Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "211015",
+    "phone_number": "+91 96968 16375",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 31,
+    "address": "744/1470, Targhar Road, Jhalwa, Saha Urf Pipalgaon, Prayagraj, Uttar Pradesh 211015",
+    "area": "Jhalwa",
+    "latitude": 25.4243113,
+    "longitude": 81.7672747,
+    "place_id": "ChIJac3PYgMzhTkRalOSZEO6Xxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJac3PYgMzhTkRalOSZEO6Xxk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:28"
+  },
+  {
+    "business_name": "M.G.M.Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "211015",
+    "phone_number": "+91 77068 30802",
+    "website": "http://mgmhospitalalld.com/",
+    "rating": 3.2,
+    "reviews_count": 137,
+    "address": "CQP6+43G, Kabir Nagar, Devprayagam Colony, Jhalwa, Prayagraj, Mubarkpur Kotwa, Uttar Pradesh 211015",
+    "area": "Kabir Nagar, Devprayagam Colony, Jhalwa",
+    "latitude": 25.435111799999998,
+    "longitude": 81.760648,
+    "place_id": "ChIJTRQzX7TMmjkR_JvdD_BJ1KY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRQzX7TMmjkR_JvdD_BJ1KY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:38:28"
+  }
+]

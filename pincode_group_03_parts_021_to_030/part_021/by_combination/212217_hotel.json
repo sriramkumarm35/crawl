@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL RUDRAADITYA",
+    "search_category": "Hotel",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "212217",
+    "phone_number": "+91 78602 95175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manjhanpur - Sirathu Rd, behind CNG Indian Oil Pump, Manjhanpur, Uttar Pradesh 212207",
+    "area": "212217",
+    "latitude": 25.5394655,
+    "longitude": 81.3768607,
+    "place_id": "ChIJb6r8zjwvmzkRetdeNHQlcUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6r8zjwvmzkRetdeNHQlcUo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:07"
+  },
+  {
+    "business_name": "The Himalayan Hotel & Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 5,
+    "address": "M86F+25P, Sirathu - Dhata Rd, Subhash Nagar, Saini, Sirathu, Uttar Pradesh 212217",
+    "area": "Subhash Nagar",
+    "latitude": 25.6600389,
+    "longitude": 81.3228633,
+    "place_id": "ChIJywYPBQA7mzkRe6_H4YURLQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywYPBQA7mzkRe6_H4YURLQ8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:30:08"
+  }
+]

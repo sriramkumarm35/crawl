@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaze Brand Solutions",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Children's party service, Event management company, Event venue, Exhibition planner, Party planner, Wedding planner",
+    "pincode": "211018",
+    "phone_number": "+91 80090 41000",
+    "website": "https://www.instagram.com/amazebrandsolutions/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B2/931, B-2/150, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8690163,
+    "longitude": 81.0128636,
+    "place_id": "ChIJ_____-_imzkR5DFWTZtgT5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____-_imzkR5DFWTZtgT5o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:44:47"
+  },
+  {
+    "business_name": "Adarsh Event Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "211018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "45/1B, Mutthiganj Rd, Agnipath Colony, Mutthi Ganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Agnipath Colony, Mutthi Ganj",
+    "latitude": 25.457708999999998,
+    "longitude": 81.839764,
+    "place_id": "ChIJOcDBk8HKmjkRswdCEkVCk8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcDBk8HKmjkRswdCEkVCk8w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:44:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Academix",
+    "search_category": "Spoken English Institute",
+    "primary_category": "English language school",
+    "all_categories": "English language school, English language camp",
+    "pincode": "212206",
+    "phone_number": "+91 88820 59242",
+    "website": "https://eliteacademix.in/",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "G-2, Jaipuria Apartment, C-15, Goyal Market, Modipon Vihar, Sector 14, Kaushambi, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Goyal Market, Modipon Vihar, Sector 14, Kaushambi",
+    "latitude": 28.6361982,
+    "longitude": 77.3262471,
+    "place_id": "ChIJpXBEb9r7DDkRe-CRW16sCeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXBEb9r7DDkRe-CRW16sCeU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:17:33"
+  },
+  {
+    "business_name": "Arv Institute",
+    "search_category": "Spoken English Institute",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "212206",
+    "phone_number": "+91 81266 27241",
+    "website": "https://arvinstitute.in/",
+    "rating": 4.9,
+    "reviews_count": 183,
+    "address": "21- Number Tanki, RC- 12, Prem Vihar, Institutional Area, Khora Colony, Sector 62, Noida, Uttar Pradesh 201020",
+    "area": "Institutional Area, Khora Colony, Sector 62",
+    "latitude": 28.626154,
+    "longitude": 77.3537806,
+    "place_id": "ChIJ6XDL_QXlDDkRdeMFK0U9TX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XDL_QXlDDkRdeMFK0U9TX4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:17:33"
+  }
+]

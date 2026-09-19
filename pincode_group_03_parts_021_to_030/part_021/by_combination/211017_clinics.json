@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KNACKSUN",
+    "search_category": "Clinics",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic, Display home center, Health consultant, Medical clinic, Physician referral service, Skin care clinic, Urgent care center, Walk-in clinic",
+    "pincode": "211017",
+    "phone_number": "N/A",
+    "website": "http://knacksun.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VINAYAK TRIVENI TOWER, UB-04, Purushottam Das Tandon Marg, Canton, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Civil Lines",
+    "latitude": 25.4519564,
+    "longitude": 81.8216654,
+    "place_id": "ChIJywcgGGfLmjkR7_u29BMPnWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywcgGGfLmjkR7_u29BMPnWQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:20"
+  },
+  {
+    "business_name": "Government hospital",
+    "search_category": "Clinics",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "211017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "High court, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211017",
+    "area": "Canton, Dhoomanganj",
+    "latitude": 25.454105499999997,
+    "longitude": 81.82171579999999,
+    "place_id": "ChIJQwz6CQDLmjkRx45_qPZeDyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwz6CQDLmjkRx45_qPZeDyY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:42:20"
+  }
+]

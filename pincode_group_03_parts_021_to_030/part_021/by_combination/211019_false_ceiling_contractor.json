@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VK Facility Management",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "211019",
+    "phone_number": "+91 96505 34359",
+    "website": "http://vkfacility.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "near Amrapali Building, Sadarpur, Sector-45, Noida, Uttar Pradesh 201303",
+    "area": "Sadarpur, Sector-45",
+    "latitude": 28.548710699999997,
+    "longitude": 77.3460991,
+    "place_id": "ChIJQ-kckNnlDDkRVe7nWVsD4vA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-kckNnlDDkRVe7nWVsD4vA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:46:21"
+  },
+  {
+    "business_name": "Sector 124",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Bus stop",
+    "all_categories": "Bus stop",
+    "pincode": "211019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sector 125, Noida, Uttar Pradesh 201313",
+    "area": "Sector 125",
+    "latitude": 28.549311,
+    "longitude": 77.332711,
+    "place_id": "ChIJd1VzTNPlDDkRL9ueL6TsZc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1VzTNPlDDkRL9ueL6TsZc8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:46:21"
+  }
+]

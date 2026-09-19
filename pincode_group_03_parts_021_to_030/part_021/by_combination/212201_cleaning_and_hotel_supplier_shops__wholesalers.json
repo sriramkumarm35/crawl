@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MG Enterprises",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier, Chemical Manufacturer, Chemical wholesaler, Cleaning products supplier, FMCG Goods Wholesaler, Industrial chemicals wholesaler",
+    "pincode": "212201",
+    "phone_number": "+91 97163 38078",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "123,chopla mandir, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Sihani Gate, Richalpuri, Naya Ganj",
+    "latitude": 28.6651469,
+    "longitude": 77.4259111,
+    "place_id": "ChIJYW7uTdLxDDkRgIOJDhjP_a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYW7uTdLxDDkRgIOJDhjP_a8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:08:46"
+  },
+  {
+    "business_name": "TRS TOTAL CLEANING SOLUTIONS PVT LTD",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Cleaning Services, Cleaning service, Household chemicals supplier, Household goods wholesaler, Stationery store, Stationery wholesaler",
+    "pincode": "212201",
+    "phone_number": "+91 98114 18873",
+    "website": "http://trstcs.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "2, Supertech Capetown St, Supertech Capetown, Sector 117, Noida, Uttar Pradesh 201316",
+    "area": "Supertech Capetown, Sector 117",
+    "latitude": 28.5750244,
+    "longitude": 77.3935667,
+    "place_id": "ChIJH1zuEGnvDDkRIi4URZIE1F8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1zuEGnvDDkRIi4URZIE1F8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:08:48"
+  }
+]

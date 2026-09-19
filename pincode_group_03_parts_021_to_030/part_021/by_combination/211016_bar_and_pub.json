@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "करामत चौकी देशी शराब की दुकान",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CRCC+65F, Azad Nagar, Prayagraj, Uttar Pradesh 211016",
+    "area": "Azad Nagar",
+    "latitude": 25.420567,
+    "longitude": 81.8204348,
+    "place_id": "ChIJx8ObdQc1hTkR_Tt5VOnPJ2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8ObdQc1hTkR_Tt5VOnPJ2c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:16"
+  },
+  {
+    "business_name": "Lukerganj",
+    "search_category": "Bar and Pub",
+    "primary_category": "Night club",
+    "all_categories": "Night club",
+    "pincode": "211016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 11,
+    "address": "23/34C, Lukarganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Lukarganj",
+    "latitude": 25.442160599999998,
+    "longitude": 81.81221149999999,
+    "place_id": "ChIJwWEJwazLmjkRyh1dCsGHKh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWEJwazLmjkRyh1dCsGHKh8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:40:16"
+  }
+]

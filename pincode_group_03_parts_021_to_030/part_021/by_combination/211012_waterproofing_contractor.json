@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darsh traders",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor",
+    "pincode": "211012",
+    "phone_number": "+91 89319 99808",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghoghapur Balapur, Naini, Prayagraj, Ghurpur, Uttar Pradesh 212107",
+    "area": "Naini",
+    "latitude": 25.3096008,
+    "longitude": 81.81560449999999,
+    "place_id": "ChIJp_x-EVY3hTkR7ahZ2V5FWSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_x-EVY3hTkR7ahZ2V5FWSk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:22"
+  },
+  {
+    "business_name": "Dwivedi paints and sanitary",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "211012",
+    "phone_number": "+91 76519 60268",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 177,
+    "address": "NH 35, Bara Khas, Uttar Pradesh 212107",
+    "area": "211012",
+    "latitude": 25.256673499999998,
+    "longitude": 81.7190782,
+    "place_id": "ChIJ5xNCzaQxhTkR9s_XdDwm4nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xNCzaQxhTkR9s_XdDwm4nw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:33:25"
+  }
+]

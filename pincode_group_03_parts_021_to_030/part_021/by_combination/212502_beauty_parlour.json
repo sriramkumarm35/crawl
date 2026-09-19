@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vandana Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "212502",
+    "phone_number": "+91 63066 56557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13, Shekhpur Sathwa, Sewaith, Soraon, Kurgaon, Uttar Pradesh 212502",
+    "area": "Sewaith",
+    "latitude": 25.5910698,
+    "longitude": 81.8795016,
+    "place_id": "ChIJHxWu0AK3mjkRt3fJiVtwgxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxWu0AK3mjkRt3fJiVtwgxo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:52:33"
+  },
+  {
+    "business_name": "Arti beauty parlour butique & cosmetics & gifts",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "212502",
+    "phone_number": "+91 70685 48406",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25 GAHARPUR, Kiranw, Uttar Pradesh 212502",
+    "area": "212502",
+    "latitude": 25.638052599999998,
+    "longitude": 81.90573189999999,
+    "place_id": "ChIJOR-ZxQ25mjkRwjwY_7aMAWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOR-ZxQ25mjkRwjwY_7aMAWc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:52:33"
+  }
+]

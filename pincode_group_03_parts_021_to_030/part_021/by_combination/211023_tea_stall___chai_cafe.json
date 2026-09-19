@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Chai Terminal",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "211023",
+    "phone_number": "+91 74705 17475",
+    "website": "https://chai-terminal-vibes.lovable.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "The Chai Terminal, in front of Union Bank, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474002",
+    "area": "City Center, Tulsi Vihar Colony",
+    "latitude": 26.2061448,
+    "longitude": 78.1908168,
+    "place_id": "ChIJu8r_vWjFdjkR4yqJ9oUnWKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8r_vWjFdjkR4yqJ9oUnWKo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:52:53"
+  },
+  {
+    "business_name": "BABU TEA STALL",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "211023",
+    "phone_number": "+91 79761 79358",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "5RFV+RX7, Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1745292,
+    "longitude": 75.84491919999999,
+    "place_id": "ChIJN9LRvsGbbzkRMT9TeAgsKeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9LRvsGbbzkRMT9TeAgsKeY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:52:54"
+  }
+]

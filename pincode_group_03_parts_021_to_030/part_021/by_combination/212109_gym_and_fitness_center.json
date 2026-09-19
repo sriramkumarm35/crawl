@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Musculite fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212109",
+    "phone_number": "+91 84169 31861",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chauraha, lahti road, Sisae Sipah, Uttar Pradesh 212502",
+    "area": "212109",
+    "latitude": 25.6353814,
+    "longitude": 81.93711379999999,
+    "place_id": "ChIJiT0KTgq5mjkRP0lao_okIP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiT0KTgq5mjkRP0lao_okIP0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:04:34"
+  },
+  {
+    "business_name": "Prayag fitness complete unisex gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212109",
+    "phone_number": "+91 89579 17272",
+    "website": "https://youtu.be/0zsgO77ra38",
+    "rating": 4.7,
+    "reviews_count": 47,
+    "address": "Manauri Rd, near बालाजी हॉस्पिटल, Pura Mufti, Uttar Pradesh 212208",
+    "area": "212109",
+    "latitude": 25.4796338,
+    "longitude": 81.6648675,
+    "place_id": "ChIJ-_x15EnTmjkRzo1FY9pmjcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_x15EnTmjkRzo1FY9pmjcI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:04:35"
+  }
+]

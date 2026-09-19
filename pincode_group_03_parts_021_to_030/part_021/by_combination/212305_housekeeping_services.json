@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manisha enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "212305",
+    "phone_number": "+91 95598 95913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Babbu Market, Basupur, Handia, Uttar Pradesh 221503",
+    "area": "212305",
+    "latitude": 25.3600708,
+    "longitude": 82.206319,
+    "place_id": "ChIJa6kmdABXhTkRtyuk7J8NDz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6kmdABXhTkRtyuk7J8NDz0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:40:01"
+  },
+  {
+    "business_name": "ViaCleanPro Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "212305",
+    "phone_number": "N/A",
+    "website": "http://viacleanpro.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "ViaCleanPro Cleaning Services, 212305, India",
+    "area": "212305",
+    "latitude": 37.612581,
+    "longitude": -77.4682285,
+    "place_id": "ChIJ51DSNhUVsYkRlQYAsL5wMz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51DSNhUVsYkRlQYAsL5wMz4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:40:02"
+  }
+]

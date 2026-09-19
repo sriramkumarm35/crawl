@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "212401",
+    "phone_number": "+91 98860 39755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Siddharth Nagar Sadarepur, Sarai Mamarej, Chhatauna, Uttar Pradesh 212402",
+    "area": "212401",
+    "latitude": 25.511586899999998,
+    "longitude": 82.2236697,
+    "place_id": "ChIJFWm5vSNThTkRkpPucBMtrls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWm5vSNThTkRkpPucBMtrls",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:40"
+  },
+  {
+    "business_name": "KRITIK POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "212401",
+    "phone_number": "+91 84297 65494",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ka Pura, Jhari, Dharwara, Uttar Pradesh 212401",
+    "area": "Ka Pura",
+    "latitude": 25.5180981,
+    "longitude": 82.3261218,
+    "place_id": "ChIJUdIhIWMDkDkRn1bFfsMQM0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdIhIWMDkDkRn1bFfsMQM0E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:44:40"
+  }
+]

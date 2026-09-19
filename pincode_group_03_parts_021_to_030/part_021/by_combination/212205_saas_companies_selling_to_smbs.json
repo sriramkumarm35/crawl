@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sms Technologies",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Marketing consultant",
+    "pincode": "212205",
+    "phone_number": "+91 99130 05192",
+    "website": "https://smstechnologies.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C6, Shankheshwar Complex, Taj Rd, near SMC community hall, Suryapur Society, Adajan Patiya, Surat, Gujarat 395009",
+    "area": "Suryapur Society, Adajan Patiya",
+    "latitude": 21.202329199999998,
+    "longitude": 72.8042189,
+    "place_id": "ChIJpY3eWexN4DsRHCQC4HeFKww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpY3eWexN4DsRHCQC4HeFKww",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:16:18"
+  },
+  {
+    "business_name": "Smartweb Infotech",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "212205",
+    "phone_number": "+91 89803 90740",
+    "website": "https://smartwebinfotech.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Office # 4029, Silver Business Point Digital Valley, VIP Cir, Uttran, Mota Varachha, Surat, Gujarat 394105",
+    "area": "Mota Varachha",
+    "latitude": 21.2336718,
+    "longitude": 72.8636405,
+    "place_id": "ChIJL1uC7lpP4DsRmFOk_1kv6hI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1uC7lpP4DsRmFOk_1kv6hI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:16:18"
+  }
+]

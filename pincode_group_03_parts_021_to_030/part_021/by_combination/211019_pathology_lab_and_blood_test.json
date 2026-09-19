@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANVI PATHOLOGY LAB",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "211019",
+    "phone_number": "+91 94152 57525",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Jirat Matan, Uttar Pradesh 211019",
+    "area": "211019",
+    "latitude": 25.4147334,
+    "longitude": 81.9402229,
+    "place_id": "ChIJUfwIbQBLhTkRYmEYt2HcBPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfwIbQBLhTkRYmEYt2HcBPA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:55"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical Center, Medical laboratory, Pathologist, STD testing service",
+    "pincode": "211019",
+    "phone_number": "+91 91407 09809",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-ghatwa-prayagraj-44955/home?utm_source=GBP",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 135C, near BSNL Exchange Office, Karchhana, Ghatwa, Prayagraj, Uttar Pradesh 212301",
+    "area": "Karchhana",
+    "latitude": 25.2869,
+    "longitude": 81.9349,
+    "place_id": "ChIJSaj592ZJhTkRZ4LqKo_eHG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaj592ZJhTkRZ4LqKo_eHG8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:45:57"
+  }
+]

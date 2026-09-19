@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virat Food Products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "212204",
+    "phone_number": "+91 91253 85212",
+    "website": "http://viratfoodproducts.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahu Guest House, Deviganj, Power House Road, Kara, Uttar Pradesh 212204",
+    "area": "212204",
+    "latitude": 25.695806299999997,
+    "longitude": 81.3640022,
+    "place_id": "ChIJ____z2AjmzkRutSgGYSWh98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____z2AjmzkRutSgGYSWh98",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:12:58"
+  },
+  {
+    "business_name": "SHREE VAARI FROZEN FOODS",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "212204",
+    "phone_number": "+91 98841 26331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sai Bhavan, 6785, L2 Block, TNHB PHASE II, Ayappakkam, Tamil Nadu 600077",
+    "area": "L2 Block, TNHB PHASE II, Ayappakkam",
+    "latitude": 13.10008,
+    "longitude": 80.137891,
+    "place_id": "ChIJ1_reY-hjUjoRVdJjH-5e7pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_reY-hjUjoRVdJjH-5e7pQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:13:00"
+  }
+]

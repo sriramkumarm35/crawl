@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Kant Tiwari",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "212303",
+    "phone_number": "+91 70805 53373",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tiwari G Store, Unchadeeh, Prayagraj, Uchadih, Uttar Pradesh 212305",
+    "area": "212303",
+    "latitude": 25.2331362,
+    "longitude": 82.1466969,
+    "place_id": "ChIJ2xxT8UNZhTkRrSloYFQ-6yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xxT8UNZhTkRrSloYFQ-6yQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:34"
+  },
+  {
+    "business_name": "Qayaam shoping center",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "55H4+2MR, Korhniya, Uttar Pradesh 212303",
+    "area": "212303",
+    "latitude": 25.1776159,
+    "longitude": 82.1566295,
+    "place_id": "ChIJZQc3_atZhTkRfevp1TI3DLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQc3_atZhTkRfevp1TI3DLk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:35"
+  }
+]

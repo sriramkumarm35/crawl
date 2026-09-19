@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Genuine Leather - Best Leather Products",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "212303",
+    "phone_number": "+91 93109 89045",
+    "website": "https://genuinleather.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "20p/11r second floor, GTB Nagar, Azad Nagar, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "GTB Nagar, Azad Nagar, Kareli",
+    "latitude": 25.417381199999998,
+    "longitude": 81.813205,
+    "place_id": "ChIJS3-j7rs1hTkRp-EEDomyjRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3-j7rs1hTkRp-EEDomyjRk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:54"
+  },
+  {
+    "business_name": "Liberty Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Market",
+    "all_categories": "Market, Bag shop, Luggage store",
+    "pincode": "212303",
+    "phone_number": "+91 93360 01854",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "129 Municipality Market, Chowk, Prayagraj, Uttar Pradesh 211003",
+    "area": "Chowk, Mohatsim Ganj",
+    "latitude": 25.4378791,
+    "longitude": 81.8338569,
+    "place_id": "ChIJGSsde83KmjkRXuG0jTsYNYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSsde83KmjkRXuG0jTsYNYg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:36:54"
+  }
+]

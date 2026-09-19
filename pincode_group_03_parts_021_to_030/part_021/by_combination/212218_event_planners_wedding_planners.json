@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wedding Aaha",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Wedding service",
+    "pincode": "212218",
+    "phone_number": "+91 99406 62455",
+    "website": "https://www.weddingaaha.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A5, Ganesh Apartments, 52, N Mada St, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004",
+    "area": "Vinayaka Nagar Colony, Mylapore",
+    "latitude": 13.0344755,
+    "longitude": 80.2694202,
+    "place_id": "ChIJq8aTDdNnUjoRdKHX0GKZWhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8aTDdNnUjoRdKHX0GKZWhM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:52"
+  },
+  {
+    "business_name": "Marriage Colours",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "212218",
+    "phone_number": "+91 98848 80991",
+    "website": "https://www.marriagecolours.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "18/8, 29th Cross St, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+    "area": "Indira Nagar, Adyar",
+    "latitude": 12.9903944,
+    "longitude": 80.25429199999999,
+    "place_id": "ChIJBfmlyexnUjoRy6A_t_aDDHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfmlyexnUjoRy6A_t_aDDHw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:31:52"
+  }
+]

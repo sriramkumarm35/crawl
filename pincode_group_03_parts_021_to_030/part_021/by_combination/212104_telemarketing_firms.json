@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Enterprises",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency",
+    "pincode": "212104",
+    "phone_number": "+91 99361 93712",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Ward n, m 3, Govind Nagar, Koraon, Uttar Pradesh 212306",
+    "area": "Govind Nagar",
+    "latitude": 24.999212699999998,
+    "longitude": 82.0684639,
+    "place_id": "ChIJ0XmhZhxnhTkRmDLgtdtvWxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XmhZhxnhTkRmDLgtdtvWxw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:56:23"
+  },
+  {
+    "business_name": "Shilai",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "212104",
+    "phone_number": "+91 87369 90346",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Friend Telars, 23 New, Manda Khas, Uttar Pradesh 212104",
+    "area": "212104",
+    "latitude": 25.0782432,
+    "longitude": 82.25299199999999,
+    "place_id": "ChIJS8w_f9SKjzkRAAAA0OP4Bn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8w_f9SKjzkRAAAA0OP4Bn4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:56:25"
+  }
+]

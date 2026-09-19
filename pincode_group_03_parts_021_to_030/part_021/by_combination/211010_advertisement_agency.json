@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neeraj Telecom",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Electronics store, Mobile phone repair shop",
+    "pincode": "211010",
+    "phone_number": "+91 70543 65544",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rampur, Karchana, Charibana, Uttar Pradesh 212301",
+    "area": "Rampur",
+    "latitude": 25.313968199999998,
+    "longitude": 81.91729389999999,
+    "place_id": "ChIJDRSnW89JhTkRv5YlUrReRgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRSnW89JhTkRv5YlUrReRgM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:19"
+  },
+  {
+    "business_name": "Areina Arts",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Neon sign shop",
+    "all_categories": "Neon sign shop",
+    "pincode": "211010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cotton Mill, Arail, near Hayat hospital, chouraha, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "chouraha, Naini",
+    "latitude": 25.4024958,
+    "longitude": 81.8695669,
+    "place_id": "ChIJxVxPHM41hTkR_smBRY-Vp_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVxPHM41hTkR_smBRY-Vp_s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:30:20"
+  }
+]
