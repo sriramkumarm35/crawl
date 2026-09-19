@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farook Auto parts store",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "212653",
+    "phone_number": "+91 73806 62030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sing market, salon marg, Nawabganj, ansarganj, Janwamau, Uttar Pradesh 229408",
+    "area": "Nawabganj, ansarganj",
+    "latitude": 25.839129699999997,
+    "longitude": 81.3738309,
+    "place_id": "ChIJOdr-7TMZmzkRSEWU0zk5FRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdr-7TMZmzkRSEWU0zk5FRc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:45"
+  },
+  {
+    "business_name": "Anshi",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "212653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R73X+WQ9, Rasulpur Bhandra, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.8047781,
+    "longitude": 81.2994906,
+    "place_id": "ChIJfdVKSwAXmzkRLQK_4aySBi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdVKSwAXmzkRLQK_4aySBi0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:45"
+  }
+]

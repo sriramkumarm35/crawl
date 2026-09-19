@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree jagannath pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "221003",
+    "phone_number": "+91 91181 21304",
+    "website": "https://www.jagannathpharmacy.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground floor s 10, 6, Maqbool Alam Rd, Chaukaghat, Varanasi, Uttar Pradesh 221002",
+    "area": "Chaukaghat",
+    "latitude": 25.3396012,
+    "longitude": 82.9937023,
+    "place_id": "ChIJ5XxfS0gvjjkRDBGFCEcRpMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XxfS0gvjjkRDBGFCEcRpMk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:41:18"
+  },
+  {
+    "business_name": "Adesh Mediciners",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, General store, Drug store",
+    "pincode": "221003",
+    "phone_number": "+91 94154 50803",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 47,
+    "address": "D 59/213C, B-1, Nirala Nagar, Chhittupura, Shivpurwa, Varanasi, Uttar Pradesh 221010",
+    "area": "Nirala Nagar, Chhittupura, Shivpurwa",
+    "latitude": 25.3091069,
+    "longitude": 82.978324,
+    "place_id": "ChIJpyNsYPYtjjkR0QWZx0wvjFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyNsYPYtjjkR0QWZx0wvjFg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:41:19"
+  }
+]

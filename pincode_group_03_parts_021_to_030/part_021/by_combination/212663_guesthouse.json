@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indrajeetmaury Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "212663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "VMVF+HG2, Banarsi, Uttar Pradesh 212601",
+    "area": "212663",
+    "latitude": 25.8938937,
+    "longitude": 80.6737581,
+    "place_id": "ChIJ15GFB-ybnDkRjA6ATevod_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15GFB-ybnDkRjA6ATevod_4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:32:30"
+  },
+  {
+    "business_name": "Maa jagdamba guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Marriage celebrant",
+    "all_categories": "Marriage celebrant",
+    "pincode": "212663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RJRH+PXG, Bahuwa Rural, Uttar Pradesh 212663",
+    "area": "212663",
+    "latitude": 25.8418016,
+    "longitude": 80.6299489,
+    "place_id": "ChIJM-JVxiqRnDkRg8JjAoiViZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-JVxiqRnDkRg8JjAoiViZE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:32:33"
+  }
+]

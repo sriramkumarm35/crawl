@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "212657",
+    "phone_number": "+91 96701 31193",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Khadra, Devmai, Mayaram Khera, Uttar Pradesh 212665",
+    "area": "Khadra",
+    "latitude": 26.1481615,
+    "longitude": 80.52943309999999,
+    "place_id": "ChIJH9oe-t5hnDkRhixt8-pXcV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9oe-t5hnDkRhixt8-pXcV4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:50"
+  },
+  {
+    "business_name": "R S dental care center",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "212657",
+    "phone_number": "+91 98894 16528",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5H37+XH6, Aung, Uttar Pradesh 212665",
+    "area": "212657",
+    "latitude": 26.154920399999998,
+    "longitude": 80.56387869999999,
+    "place_id": "ChIJ6Sa_RBBjnDkRPV0f9pMTUkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Sa_RBBjnDkRPV0f9pMTUkc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:50"
+  }
+]

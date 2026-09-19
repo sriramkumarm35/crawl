@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madukkakuzhy Caterers & Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event management company",
+    "pincode": "212650",
+    "phone_number": "+91 94470 73138",
+    "website": "https://madukkakuzhycaterers1.odoo.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gurumanthiram Road, Kattappana, Keralam 685508",
+    "area": "212650",
+    "latitude": 9.7570231,
+    "longitude": 77.11597669999999,
+    "place_id": "ChIJUalMF6SuBzsR0RQuTL4pORU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUalMF6SuBzsR0RQuTL4pORU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:53"
+  },
+  {
+    "business_name": "Prince Catering Service and Events Kattappana",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Restaurant",
+    "pincode": "212650",
+    "phone_number": "+91 94470 72349",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Prince Catering service, Mattapally building, near new Bus stand, Kattappana, Keralam 685515",
+    "area": "212650",
+    "latitude": 9.7543164,
+    "longitude": 77.11725489999999,
+    "place_id": "ChIJy_qHIVupBzsREj4KBrMwIac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_qHIVupBzsREj4KBrMwIac",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:53"
+  }
+]

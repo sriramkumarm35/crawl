@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Relief spa and salon",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "212620",
+    "phone_number": "+91 63888 94951",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Kanpur - Allahabad Hwy, opposite PNB bank, Lucknow, Raebareli, Uttar Pradesh 212622",
+    "area": "212620",
+    "latitude": 25.8463387,
+    "longitude": 80.9943251,
+    "place_id": "ChIJ7-zF-mZpmzkRfTANuhi0VFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-zF-mZpmzkRfTANuhi0VFI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:59:59"
+  },
+  {
+    "business_name": "Sat Group Clinic",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "212620",
+    "phone_number": "+91 70814 36815",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M3W6+H83 Brajesh Kumar, Bijaipur, Vijayepur, Uttar Pradesh 212655",
+    "area": "212620",
+    "latitude": 25.6963902,
+    "longitude": 81.06080349999999,
+    "place_id": "ChIJ14Lp2VVDmzkRMALZjeSzZBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14Lp2VVDmzkRMALZjeSzZBU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:59:59"
+  }
+]

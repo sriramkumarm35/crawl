@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hot Pizza Town",
+    "search_category": "Organic Food Store",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Italian grocery store, Pizza restaurant",
+    "pincode": "212651",
+    "phone_number": "+91 91204 00504",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Beni Madhav Ganj Rd, Beni Madhav Ganj, Sagar Khera, Uttar Pradesh 229216",
+    "area": "212651",
+    "latitude": 26.082279099999997,
+    "longitude": 80.86610999999999,
+    "place_id": "ChIJ68VtGs1_mzkRumfdKTedDAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68VtGs1_mzkRumfdKTedDAk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:13:37"
+  },
+  {
+    "business_name": "The Organic World - Cunningham Road",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Grocery delivery service, Indian grocery store, Organic shop, Produce market, Supermarket",
+    "pincode": "212651",
+    "phone_number": "+91 91082 27770",
+    "website": "https://theorganicworld.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shah Sultan Complex, Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "area": "Vasanth Nagar",
+    "latitude": 12.986870999999999,
+    "longitude": 77.59478299999999,
+    "place_id": "ChIJgSm0pNgXrjsR8Ndq1HKq4ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgSm0pNgXrjsR8Ndq1HKq4ls",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:13:37"
+  }
+]

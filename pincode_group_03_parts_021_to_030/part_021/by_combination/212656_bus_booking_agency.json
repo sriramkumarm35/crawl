@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krushna Travels ( Sk Holidays )",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Airline ticket agency, Bus ticket agency, Car rental agency, Cruise agency, Helicopter tour agency, Passport Agent, Railway Ticket Agent",
+    "pincode": "212656",
+    "phone_number": "+91 89837 39000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 481,
+    "address": "Shop No 3, Dange Chowk, Kalewadi Main Rd, near spandan hospital, Onkar Colony, Yashoda Colony, Thergaon, Pimpri-Chinchwad, Maharashtra 411033",
+    "area": "Onkar Colony, Yashoda Colony, Thergaon",
+    "latitude": 18.6142601,
+    "longitude": 73.765914,
+    "place_id": "ChIJbcKOA565wjsR0fDxrtS_j5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcKOA565wjsR0fDxrtS_j5c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:15"
+  },
+  {
+    "business_name": "Shaikh Computers & Comman Service Center",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Internet cafe",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Banok of baroda, bus stop, Kishanpur Rd, Kishanpur, Uttar Pradesh 212658",
+    "area": "212656",
+    "latitude": 25.6432467,
+    "longitude": 81.02403149999999,
+    "place_id": "ChIJ_eV7WhBFmzkR1nxayXvqpkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_eV7WhBFmzkR1nxayXvqpkQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:17"
+  }
+]

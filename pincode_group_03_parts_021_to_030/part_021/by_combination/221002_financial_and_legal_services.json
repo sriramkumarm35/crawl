@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagendra Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "221002",
+    "phone_number": "+91 94159 88631",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bar Association, Chamber 3 & 4, Banaras Bar Building, Jila Parishad Marg, Kachehari Rd, near Banaras, Golghar, Varanasi, Uttar Pradesh 221002",
+    "area": "Golghar, Hamrautia",
+    "latitude": 25.3435362,
+    "longitude": 82.9805612,
+    "place_id": "ChIJmSWKvM8tjjkReT-RnI_5MBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSWKvM8tjjkReT-RnI_5MBk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:40:29"
+  },
+  {
+    "business_name": "S.prakash & associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "221002",
+    "phone_number": "+91 542 222 6970",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "D59/360-X-5A, Bajrang Nagar Colony, Madhopur, Chhittupura, Shivpurwa, Varanasi, Uttar Pradesh 221002",
+    "area": "Madhopur, Indrapuri Colony, Chhittupura, Shivpurwa",
+    "latitude": 25.3133488,
+    "longitude": 82.9830691,
+    "place_id": "ChIJZaKpEfotjjkRbVBPlm8wI-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaKpEfotjjkRbVBPlm8wI-4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:40:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daymond Fitness Senter",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "212653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Q7P9+8XV, Hathgaon Rd, Mohammadpur Gaunti, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.785859,
+    "longitude": 81.26991129999999,
+    "place_id": "ChIJR22lRbwXmzkRhgvCXQjkntE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR22lRbwXmzkRhgvCXQjkntE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:42"
+  },
+  {
+    "business_name": "Daymond",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "212653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q7P8+H46, Hathgaon Rd, Mohammadpur Gaunti, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.7864129,
+    "longitude": 81.2652596,
+    "place_id": "ChIJ9xIIjOkXmzkRuM1KyBHiH2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xIIjOkXmzkRuM1KyBHiH2M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:42"
+  }
+]

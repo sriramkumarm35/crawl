@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MALIK RESIDENCY",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "212652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unchahar, raebareli, Uttar Pradesh 229404",
+    "area": "212652",
+    "latitude": 25.9051333,
+    "longitude": 81.2930957,
+    "place_id": "ChIJt_SQZP0RmzkRAzCae6FYFMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_SQZP0RmzkRAzCae6FYFMg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:16:27"
+  },
+  {
+    "business_name": "Tiwari Residhome",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Restaurant",
+    "pincode": "212652",
+    "phone_number": "+91 81306 39676",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 223,
+    "address": "Near, NTPC Main Gate, Unchahar, Khurampur, Uttar Pradesh 229406",
+    "area": "212652",
+    "latitude": 25.9172172,
+    "longitude": 81.3200629,
+    "place_id": "ChIJZ8LuOC8RmzkRtZpk3WoOr_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8LuOC8RmzkRtZpk3WoOr_g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:16:28"
+  }
+]

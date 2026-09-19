@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Star Service Centre Ahmedabad",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service, Microwave oven repair service, Refrigerator repair service",
+    "pincode": "212652",
+    "phone_number": "+91 63678 20171",
+    "website": "https://www.newstarservicecentre.com/",
+    "rating": 4.6,
+    "reviews_count": 24,
+    "address": "G-3, Gokul Shopping Centre, Prernatirth Derasar Rd, opp. H.B. Kapadia School, near Rosewood Tower, Satellite, Jodhpur, Ahmedabad, Gujarat 380015",
+    "area": "Satellite",
+    "latitude": 23.0219016,
+    "longitude": 72.5225911,
+    "place_id": "ChIJm7f39olu3asRbvmP7KOkayo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7f39olu3asRbvmP7KOkayo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:16:12"
+  },
+  {
+    "business_name": "Delta Refrigration",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "212652",
+    "phone_number": "+91 80096 42238",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Bus Stop, Main Road, near Ganda Nala Pul, Unchahar, Uttar Pradesh 229404",
+    "area": "212652",
+    "latitude": 25.9045314,
+    "longitude": 81.2946254,
+    "place_id": "ChIJe6LQgu8RmzkRaq1s1h6lycY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6LQgu8RmzkRaq1s1h6lycY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:16:14"
+  }
+]

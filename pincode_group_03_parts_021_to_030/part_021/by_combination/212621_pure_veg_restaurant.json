@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakasho jain bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212621",
+    "phone_number": "+91 95804 65009",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "25, Railway Station Rd, Rail Bazar, Harihar Ganj, Fatehpur, Uttar Pradesh 212601",
+    "area": "Rail Bazar, Harihar Ganj",
+    "latitude": 25.916349699999998,
+    "longitude": 80.8037409,
+    "place_id": "ChIJl3o-GaqdnDkR12WLsU2_dgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3o-GaqdnDkR12WLsU2_dgQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:00"
+  },
+  {
+    "business_name": "Baba Veg Kabab Paratha ( sudh shakahari )",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "212621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "WRHC+2VX, Jwalaganj, Peeranpur, Fatehpur, Uttar Pradesh 212601",
+    "area": "Jwalaganj, Peeranpur",
+    "latitude": 25.927609,
+    "longitude": 80.8222232,
+    "place_id": "ChIJPTBxXwBjmzkRS_DgC-Gp3ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTBxXwBjmzkRS_DgC-Gp3ew",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:03"
+  }
+]

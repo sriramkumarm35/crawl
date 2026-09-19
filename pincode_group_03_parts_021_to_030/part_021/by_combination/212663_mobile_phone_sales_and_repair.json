@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "212663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Nauwa Bagh, Chakhedi, Chaknadi, Fatehpur, Uttar Pradesh 212601",
+    "area": "Nauwa Bagh, Chakhedi",
+    "latitude": 25.953447099999998,
+    "longitude": 80.79902179999999,
+    "place_id": "ChIJc4WZMVGdnDkRhg0eZQF4rco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4WZMVGdnDkRhg0eZQF4rco",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:32:44"
+  },
+  {
+    "business_name": "Sadaf Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Electronics store",
+    "pincode": "212663",
+    "phone_number": "+91 99504 68551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sikariya Chourasta, Fatehpur, Rajasthan 332301",
+    "area": "212663",
+    "latitude": 27.9948962,
+    "longitude": 74.9560376,
+    "place_id": "ChIJK8gkwFGpFDkR8wsw-XH1dvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8gkwFGpFDkR8wsw-XH1dvU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:32:46"
+  }
+]

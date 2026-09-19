@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAMRAT RESORT",
+    "search_category": "Resort",
+    "primary_category": "Garden",
+    "all_categories": "Garden",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "G3QC+G4C, Gajipur Rd, Gazipur, Uttar Pradesh 212656",
+    "area": "212656",
+    "latitude": 25.5388168,
+    "longitude": 81.0702518,
+    "place_id": "ChIJn8aobwBPmzkR6ug3jUVxK3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8aobwBPmzkR6ug3jUVxK3U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:38"
+  },
+  {
+    "business_name": "RAJPUT BHAWAN",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J2MV+FP, Ekdala, Uttar Pradesh 212658",
+    "area": "212656",
+    "latitude": 25.633678999999997,
+    "longitude": 81.0443411,
+    "place_id": "ChIJ1e3NTABFmzkRTUcIQmqyzpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1e3NTABFmzkRTUcIQmqyzpQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:39"
+  }
+]

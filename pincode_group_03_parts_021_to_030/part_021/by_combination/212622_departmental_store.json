@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TASLEEM PROVISION STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "212622",
+    "phone_number": "+91 63881 12422",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ward no. 7, nagar panchayat, sagar RO, Hathgaon, Uttar Pradesh 212652",
+    "area": "212622",
+    "latitude": 25.8662818,
+    "longitude": 81.11863919999999,
+    "place_id": "ChIJ8ZEynLFtmzkRM37A_1uwgNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZEynLFtmzkRM37A_1uwgNg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:45"
+  },
+  {
+    "business_name": "Pandey kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "212622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pramery School, Maswani, Fatehpur, Uttar Pradesh 212601",
+    "area": "Maswani",
+    "latitude": 25.9297063,
+    "longitude": 80.8266051,
+    "place_id": "ChIJRwrgaQBjmzkRDHMXRC5wRaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwrgaQBjmzkRDHMXRC5wRaE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:46"
+  }
+]

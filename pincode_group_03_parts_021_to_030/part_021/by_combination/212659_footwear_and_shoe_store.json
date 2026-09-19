@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Footwear Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "212659",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "48XJ+VFP, Haskar, Uttar Pradesh 209209",
+    "area": "212659",
+    "latitude": 26.149720199999997,
+    "longitude": 80.3312098,
+    "place_id": "ChIJc_SzUQBZnDkR_JK3HJ16jsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_SzUQBZnDkR_JK3HJ16jsU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:15"
+  },
+  {
+    "business_name": "Golden Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "212659",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jahanabad, Kora Jahanabad, Uttar Pradesh 212659",
+    "area": "212659",
+    "latitude": 26.1047868,
+    "longitude": 80.3575012,
+    "place_id": "ChIJy2O0qq9YnDkR3P3pmpm0i70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2O0qq9YnDkR3P3pmpm0i70",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:15"
+  }
+]

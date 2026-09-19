@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "212645",
+    "phone_number": "+91 70076 27763",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lucknow road, Nai Basti, Vaqeer Ganj, Fatehpur, Uttar Pradesh 212601",
+    "area": "Nai Basti, Vaqeer Ganj",
+    "latitude": 25.935950199999997,
+    "longitude": 80.8223125,
+    "place_id": "ChIJOdCumN9jmzkR9qm8CGYpCzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdCumN9jmzkR9qm8CGYpCzY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:10:16"
+  },
+  {
+    "business_name": "Mohan Kumar And Sons",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Clothing store",
+    "pincode": "212645",
+    "phone_number": "+91 93079 08014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Chak Barari, Bilanda, Fatehpur, Uttar Pradesh 212645",
+    "area": "212645",
+    "latitude": 25.900448299999997,
+    "longitude": 80.891359,
+    "place_id": "ChIJqazkpDZjmzkR-1FFIWd2JBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqazkpDZjmzkR-1FFIWd2JBQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:10:18"
+  }
+]

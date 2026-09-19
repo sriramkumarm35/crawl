@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delicious Dhaba Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212507",
+    "phone_number": "+91 78975 15005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Thana Padav, Allahabad - Faizabad Rd, near by Life Care Hospital, Mau Aima, Prayagraj, Uttar Pradesh 212507",
+    "area": "Banka Jalalpur",
+    "latitude": 25.7038703,
+    "longitude": 81.91117469999999,
+    "place_id": "ChIJCwcDIdG5mjkRaT6-ORQ5JK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwcDIdG5mjkRaT6-ORQ5JK0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:38"
+  },
+  {
+    "business_name": "Shree yadav family dhaba and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212507",
+    "phone_number": "+91 88082 10136",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ganshiyari toll plaza, Ram Nagar, Mau Aima, Uttar Pradesh 212507",
+    "area": "212507",
+    "latitude": 25.7254266,
+    "longitude": 81.92564689999999,
+    "place_id": "ChIJ02FIzHq_mjkRlH1SX1m6ntg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02FIzHq_mjkRlH1SX1m6ntg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:41"
+  }
+]

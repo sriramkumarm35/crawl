@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PROMASTER REALTORS",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Industrial real estate agency, Real estate agent, Real estate consultant",
+    "pincode": "212653",
+    "phone_number": "+91 69136 48277",
+    "website": "http://www.promasterrealtors.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3rd floor, Block B, Tribeni Commercial Complex, Bhangagarh, Guwahati, Assam 781007",
+    "area": "Bhangagarh",
+    "latitude": 26.168094099999998,
+    "longitude": 91.737759,
+    "place_id": "ChIJaf6bphFZWjcRKineT929By8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaf6bphFZWjcRKineT929By8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:39"
+  },
+  {
+    "business_name": "R.K. Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "212653",
+    "phone_number": "+91 99501 03026",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abhishek Nagar, Pal Gaon, Jodhpur, Ghinana Ki Dhani, Rajasthan 342014",
+    "area": "Abhishek Nagar, Pal Gaon",
+    "latitude": 26.2118257,
+    "longitude": 72.9748694,
+    "place_id": "ChIJp2RzGmqJQTkRqqp62XE1N1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2RzGmqJQTkRqqp62XE1N1k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:39"
+  }
+]

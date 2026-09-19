@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Corbett D Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "212641",
+    "phone_number": "+91 63966 47252",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Pattapani,Bazpur Road,Bailparao, Ramnagar, Uttarakhand 262401",
+    "area": "212641",
+    "latitude": 29.3000634,
+    "longitude": 79.1832469,
+    "place_id": "ChIJp7v4ztttCjkR3LMpIsvERVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7v4ztttCjkR3LMpIsvERVQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:09:16"
+  },
+  {
+    "business_name": "Sunday Alaya Resort Corbett",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Massage spa, Nature preserve, Restaurant, Wedding venue, Wildlife and safari park, Wildlife park",
+    "pincode": "212641",
+    "phone_number": "+91 90152 14880",
+    "website": "https://www.checkin.life/244078/",
+    "rating": 4.3,
+    "reviews_count": 1801,
+    "address": "Jim Corbett National Park, Kyari Rd, Kham, Ramnagar, Fatehpur Range, Uttarakhand 244715",
+    "area": "Kham",
+    "latitude": 29.3598404,
+    "longitude": 79.1903572,
+    "place_id": "ChIJb73m8q8SCjkR2rNPKUWkOc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb73m8q8SCjkR2rNPKUWkOc8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:09:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sujeet plumber",
+    "search_category": "Plumber",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "212622",
+    "phone_number": "N/A",
+    "website": "https://www.youtube.com/@sujeetplumber1",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bandupur kyokhari, 🇮🇳, Khaga, Uttar Pradesh 212658",
+    "area": "🇮🇳",
+    "latitude": 25.852845499999997,
+    "longitude": 81.1099536,
+    "place_id": "ChIJy4qBf75rmzkRPSf9MiEf0tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4qBf75rmzkRPSf9MiEf0tw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:34"
+  },
+  {
+    "business_name": "Sujeet Kumar plumber 1",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store, Service establishment",
+    "pincode": "212622",
+    "phone_number": "N/A",
+    "website": "https://www.youtube.com/@sujeetkumarplumber",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sujeet Kumar plumber 1, 212622, India",
+    "area": "212622",
+    "latitude": 25.7716238,
+    "longitude": 81.1109614,
+    "place_id": "ChIJH8K5HpOklKURVee-aMYY31c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8K5HpOklKURVee-aMYY31c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:34"
+  }
+]

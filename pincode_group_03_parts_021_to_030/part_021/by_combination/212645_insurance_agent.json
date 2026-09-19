@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Insurance Brokers Private Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "212645",
+    "phone_number": "+91 99993 66494",
+    "website": "http://bimaplanner.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "9th Floor, Krishna Apra Business Square, 904-905, Netaji Subhash Place, Pitampura, New Delhi, Delhi, 110034",
+    "area": "Netaji Subhash Place, Pitampura",
+    "latitude": 28.691307199999997,
+    "longitude": 77.1493028,
+    "place_id": "ChIJRYaqzeIDDTkRS9KjCI5a4co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYaqzeIDDTkRS9KjCI5a4co",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:11:22"
+  },
+  {
+    "business_name": "SRA Insurance Hub",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "212645",
+    "phone_number": "+91 98999 92880",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G4/38, Pocket 4, Sector 16G, Rohini, Delhi, 110089",
+    "area": "Pocket 4, Sector 16G, Rohini",
+    "latitude": 28.7383368,
+    "longitude": 77.1213071,
+    "place_id": "ChIJG6DDkjwBDTkRsL_jVcqmI5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6DDkjwBDTkRsL_jVcqmI5Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:11:22"
+  }
+]

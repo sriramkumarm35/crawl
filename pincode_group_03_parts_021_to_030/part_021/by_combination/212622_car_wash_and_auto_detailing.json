@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City car washing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "212622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Sultan nagar, nation highway, Fatehpur, Uttar Pradesh 212601",
+    "area": "212622",
+    "latitude": 25.919663399999997,
+    "longitude": 80.8448133,
+    "place_id": "ChIJd0c9569jmzkRZ3EaENZlzoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0c9569jmzkRZ3EaENZlzoQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:21"
+  },
+  {
+    "business_name": "आओ चाय पिया जाय",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "212622",
+    "phone_number": "+91 95980 07237",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Khaga, Uttar Pradesh 212655",
+    "area": "212622",
+    "latitude": 25.7687289,
+    "longitude": 81.11534189999999,
+    "place_id": "ChIJ3ft36CFBmzkRHorbQRPtPcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ft36CFBmzkRHorbQRPtPcM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:23"
+  }
+]

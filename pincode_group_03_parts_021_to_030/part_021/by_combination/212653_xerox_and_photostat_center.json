@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acadmify",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "212653",
+    "phone_number": "+91 94600 46565",
+    "website": "https://www.acadmify.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "19, Sector Circle, Sector 19, Chopasni Housing Board, Jodhpur, Rajasthan 342008",
+    "area": "Sector 19, Chopasni Housing Board",
+    "latitude": 26.2594097,
+    "longitude": 72.9740779,
+    "place_id": "ChIJoeWegZ2NQTkRcw8Y0IwGZZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeWegZ2NQTkRcw8Y0IwGZZc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:24"
+  },
+  {
+    "business_name": "Shiv Photo Copiers",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "212653",
+    "phone_number": "+91 94132 56439",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Behind Filter House, Paharganj 2nd, Jodhpur, Rajasthan 342026",
+    "area": "Mandore",
+    "latitude": 26.329266399999998,
+    "longitude": 73.0477054,
+    "place_id": "ChIJkwuC63uNQTkRTV9xN8kVpAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwuC63uNQTkRTV9xN8kVpAo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:24"
+  }
+]

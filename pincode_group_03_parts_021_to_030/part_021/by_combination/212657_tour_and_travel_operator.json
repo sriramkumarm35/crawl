@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghav cab point jahanabad branch",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service",
+    "pincode": "212657",
+    "phone_number": "+91 78979 19133",
+    "website": "https://raghav-cab-point.grexa.site/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shakoorabad, Jahanabad, Bahadurpur Kotara, Uttar Pradesh 212659",
+    "area": "Shakoorabad",
+    "latitude": 26.1061747,
+    "longitude": 80.394435,
+    "place_id": "ChIJ8VpGwRBfnDkRtoqut3qKXKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VpGwRBfnDkRtoqut3qKXKE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:25:01"
+  },
+  {
+    "business_name": "Ankesh Car Rental",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "212657",
+    "phone_number": "+91 94556 67059",
+    "website": "https://sites.google.com/view/callon-9455667059/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4F86+M3C, Meghanpur, Bakewar, Duvepur, Uttar Pradesh 212657",
+    "area": "212657",
+    "latitude": 26.1167488,
+    "longitude": 80.4600088,
+    "place_id": "ChIJe_Xfy7BhnDkR_JSUuvaOOII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_Xfy7BhnDkR_JSUuvaOOII",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:25:03"
+  }
+]

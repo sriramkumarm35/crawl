@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Store",
+    "pincode": "212654",
+    "phone_number": "+91 94146 76193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near dayal general store shekhawati, Fatehpur, Rajasthan 332301",
+    "area": "212654",
+    "latitude": 27.995786199999998,
+    "longitude": 74.95644899999999,
+    "place_id": "ChIJdzloSSOoFDkR_91fQ5sYqYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzloSSOoFDkR_91fQ5sYqYg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:18"
+  },
+  {
+    "business_name": "Sonu footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "212654",
+    "phone_number": "+91 81075 84820",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main market, near SBBJ bank, near Sikariya chouraha, Fatehpur, Rajasthan 332301",
+    "area": "212654",
+    "latitude": 27.996009599999997,
+    "longitude": 74.95640569999999,
+    "place_id": "ChIJFXjsgdmpFDkR7UWrVKh40Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXjsgdmpFDkR7UWrVKh40Eg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:18"
+  }
+]

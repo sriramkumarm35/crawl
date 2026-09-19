@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Agro Sale",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier, Agricultural Product Wholesaler",
+    "pincode": "221003",
+    "phone_number": "+91 96210 39293",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Varanasi Road Belaisa, near Sanjay Petrol Pump, Azamgarh, Uttar Pradesh 276128",
+    "area": "221003",
+    "latitude": 26.0344195,
+    "longitude": 83.15167559999999,
+    "place_id": "ChIJaf7Htvu7kTkRFWEMrCuHEfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaf7Htvu7kTkRFWEMrCuHEfM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:42:36"
+  },
+  {
+    "business_name": "MAA TARA AGRO INDUSTRIES",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "221003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24, Bari bazar, Varanasi, Pahari, Uttar Pradesh 221108",
+    "area": "Bari bazar",
+    "latitude": 25.269045199999997,
+    "longitude": 82.9394002,
+    "place_id": "ChIJGaHQRJszjjkRHn2KEkNdRAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaHQRJszjjkRHn2KEkNdRAU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:42:39"
+  }
+]

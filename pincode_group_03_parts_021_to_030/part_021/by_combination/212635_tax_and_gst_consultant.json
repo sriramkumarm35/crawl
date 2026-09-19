@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Startup Central",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Accounting firm, Business administration service, Business development service, Business management consultant, Chartered accountant",
+    "pincode": "212635",
+    "phone_number": "+91 90333 77645",
+    "website": "https://thestartupcentral.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "S 49 Krushnam Skywalk, near Radhe Arcade, Radhanpur Road, Mehsana, Gujarat 384002",
+    "area": "Radhanpur Road",
+    "latitude": 23.611901,
+    "longitude": 72.36001089999999,
+    "place_id": "ChIJ74mHezRDXDkR_ArrC653mVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74mHezRDXDkR_ArrC653mVU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:07:43"
+  },
+  {
+    "business_name": "Adhimukti Associates, Paradeep",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "212635",
+    "phone_number": "+91 97784 63047",
+    "website": "https://adhimukti.co.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Plot No-475, near Machha Market, Bijaychandrapur, Tarinigada, Paradeep, Odisha 754120",
+    "area": "Bijaychandrapur, Tarinigada",
+    "latitude": 20.295776,
+    "longitude": 86.6423947,
+    "place_id": "ChIJmwIxyAJOtkkR9OAWrW6qE3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwIxyAJOtkkR9OAWrW6qE3o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:07:46"
+  }
+]

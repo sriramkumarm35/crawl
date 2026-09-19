@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Pal",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "212622",
+    "phone_number": "+91 95600 21490",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Basti ka Purwa Syadi, Chheolaha, Fatehpur, Uttar Pradesh 212650",
+    "area": "212622",
+    "latitude": 25.921711199999997,
+    "longitude": 81.0366951,
+    "place_id": "ChIJ3Qt9_hBvmzkRW_HASrmCyI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Qt9_hBvmzkRW_HASrmCyI8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:40"
+  },
+  {
+    "business_name": "Tanya's Touch Makeup studio",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "212622",
+    "phone_number": "+91 80814 76423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jawalaganj GT Road, in front of Thakur Yuvraj Singh University, Shanti Nagar, Peeranpur, Fatehpur, Uttar Pradesh 212601",
+    "area": "Shanti Nagar, Peeranpur",
+    "latitude": 25.9262066,
+    "longitude": 80.8260286,
+    "place_id": "ChIJ_bcjCQBjmzkR6peq1fMIC3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bcjCQBjmzkR6peq1fMIC3Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:43"
+  }
+]

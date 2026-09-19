@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayank Tent House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "212655",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J4XC+VWQ, Gursandi, Uttar Pradesh 212656",
+    "area": "212655",
+    "latitude": 25.6497204,
+    "longitude": 81.1223656,
+    "place_id": "ChIJr60NQwBHmzkRrJnUg46Dc6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr60NQwBHmzkRrJnUg46Dc6Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:52"
+  },
+  {
+    "business_name": "Vishal event wedding planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "212655",
+    "phone_number": "+91 88404 86225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 140,
+    "address": "NH-128, Gabhariya, Mahuariya, Sultanpur, Uttar Pradesh 228001",
+    "area": "Gabhariya, Mahuariya",
+    "latitude": 26.2547319,
+    "longitude": 82.0585128,
+    "place_id": "ChIJq14EO259mjkRD_vKHksQ6RQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq14EO259mjkRD_vKHksQ6RQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:52"
+  }
+]

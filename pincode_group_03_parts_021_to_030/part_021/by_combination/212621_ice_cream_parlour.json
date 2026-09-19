@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharaja Lassi",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Dairy store, Juice shop",
+    "pincode": "212621",
+    "phone_number": "+91 97947 87293",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "SH 13, Jwalaganj, Peeranpur, Fatehpur, Uttar Pradesh 212601",
+    "area": "Jwalaganj, Peeranpur",
+    "latitude": 25.9278779,
+    "longitude": 80.821863,
+    "place_id": "ChIJ5VEHELBimzkRfLqXzadjhYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VEHELBimzkRfLqXzadjhYo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:07"
+  },
+  {
+    "business_name": "ZA Cafe",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "212621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "Basement Of Dulhan Marriage Hall, Mahajari, Fatehpur, Uttar Pradesh 212601",
+    "area": "Mahajari, Lala Bazaar",
+    "latitude": 25.9283576,
+    "longitude": 80.8143687,
+    "place_id": "ChIJH1aGDN5jmzkR_JP1Lf-fqSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1aGDN5jmzkR_JP1Lf-fqSQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:08"
+  }
+]

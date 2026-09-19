@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kesharwani Vastralaya",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212641",
+    "phone_number": "+91 80521 55259",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "behind SBI, Dhata, Uttar Pradesh 212641",
+    "area": "212641",
+    "latitude": 25.5374767,
+    "longitude": 81.2316247,
+    "place_id": "ChIJMxp7anQ3mzkRNY1X5l5gdkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxp7anQ3mzkRNY1X5l5gdkw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:25"
+  },
+  {
+    "business_name": "Ansh garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "212641",
+    "phone_number": "+91 73900 60482",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhata, Uttar Pradesh 212641",
+    "area": "212641",
+    "latitude": 25.538676799999998,
+    "longitude": 81.2347499,
+    "place_id": "ChIJQbMTHwA3mzkRWGS_Grgzu8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbMTHwA3mzkRWGS_Grgzu8I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:25"
+  }
+]

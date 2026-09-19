@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Army fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "212657",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VHR6+PHV, Jafarganj, Gagauli, Uttar Pradesh 212657",
+    "area": "212657",
+    "latitude": 25.8918529,
+    "longitude": 80.5613755,
+    "place_id": "ChIJL_vPGACRnDkRCaMJb4Es3Z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_vPGACRnDkRCaMJb4Es3Z4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:54"
+  },
+  {
+    "business_name": "Body Power Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "212657",
+    "phone_number": "+91 91665 85059",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 63,
+    "address": "Fatehpur Rd, behind PassPort Seva Kendra, Anand Nagar, Sikar, Rajasthan 332001",
+    "area": "Anand Nagar",
+    "latitude": 27.623890099999997,
+    "longitude": 75.14792249999999,
+    "place_id": "ChIJ3Zm9cNGkbDkRUHktNoTj9Hs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Zm9cNGkbDkRUHktNoTj9Hs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:55"
+  }
+]

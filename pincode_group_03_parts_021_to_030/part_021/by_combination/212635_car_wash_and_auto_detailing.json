@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubhi washing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "212635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lalauli road mainy kuwan ke pass, Bindki, Uttar Pradesh 212635",
+    "area": "212635",
+    "latitude": 26.0268581,
+    "longitude": 80.5813247,
+    "place_id": "ChIJB4cGlneJnDkR6bNkNCmqC3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4cGlneJnDkR6bNkNCmqC3A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:06:57"
+  },
+  {
+    "business_name": "Pitstop Auto Detailing Studio",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "212635",
+    "phone_number": "+91 95067 31955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3/11, Mini Stadium Rd, Vikrant Khand 3, Vikrant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vikrant Khand 3, Vikrant Khand, Gomti Nagar",
+    "latitude": 26.870683999999997,
+    "longitude": 81.019533,
+    "place_id": "ChIJlcACEbzjmzkRH9FDnQkECdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcACEbzjmzkRH9FDnQkECdU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:06:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Group",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Bathroom supply store, Door supplier, Electrical supply store, Marble supplier, Tile store",
+    "pincode": "221003",
+    "phone_number": "+91 94153 36509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chhota Lalpur, Azamgarh Rd, Pandeypur, Varanasi, Uttar Pradesh 221002",
+    "area": "Pandeypur, Majhbhitiyan",
+    "latitude": 25.3614146,
+    "longitude": 82.99294479999999,
+    "place_id": "ChIJuzCrCoIujjkRobb2iEAXzVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzCrCoIujjkRobb2iEAXzVE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:42:34"
+  },
+  {
+    "business_name": "Shiv Enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Building materials store, Door supplier, Paint store",
+    "pincode": "221003",
+    "phone_number": "+91 87569 49438",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "7244+45W, Sant Ravidas Mandir Road, Sirgobardhanpur, BHU, Varanasi, Uttar Pradesh 221011",
+    "area": "Kashipuram Colony",
+    "latitude": 25.255367999999997,
+    "longitude": 83.0054401,
+    "place_id": "ChIJk4Cj4HkxjjkRRCLq_IYBKVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4Cj4HkxjjkRRCLq_IYBKVE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:42:35"
+  }
+]

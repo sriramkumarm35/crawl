@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "United Exim Pvt. Ltd.",
+    "search_category": "EXIMS",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "212601",
+    "phone_number": "+91 98992 15000",
+    "website": "https://unitedexim.com/",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "116, Sector 63 Rd, A Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "A Block, Sector 63",
+    "latitude": 28.630952399999998,
+    "longitude": 77.3821328,
+    "place_id": "ChIJr7-tD_nvDDkR_Hsl9qmhyQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7-tD_nvDDkR_Hsl9qmhyQc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:58:55"
+  },
+  {
+    "business_name": "Dhanraj Traders",
+    "search_category": "EXIMS",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Battery Store, Mechanic",
+    "pincode": "212601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kotwali Road, Chowk, Fatehpur, Uttar Pradesh 212601",
+    "area": "Chowk",
+    "latitude": 25.928167499999997,
+    "longitude": 80.8187176,
+    "place_id": "ChIJbRte0JJjmzkRV_066cotn0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRte0JJjmzkRV_066cotn0Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:58:56"
+  }
+]

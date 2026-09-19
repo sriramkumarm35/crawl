@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anshu",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "212620",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQ22+C67, Ghazipur, Uttar Pradesh 212621",
+    "area": "212620",
+    "latitude": 25.801029699999997,
+    "longitude": 80.7505417,
+    "place_id": "ChIJ-dOGNQCfnDkRhZhYYIHJBO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dOGNQCfnDkRhZhYYIHJBO4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:00:10"
+  },
+  {
+    "business_name": "Bunk Hostel Delhi",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "212620",
+    "phone_number": "+91 95823 90572",
+    "website": "http://www.bunkhostel.in/",
+    "rating": 4.2,
+    "reviews_count": 1378,
+    "address": "Krishna Market, 22/1, Main Bazar Rd, Bharat Nagar, Paharganj, New Delhi, Delhi 110055",
+    "area": "Bharat Nagar, Paharganj",
+    "latitude": 28.6404212,
+    "longitude": 77.2103104,
+    "place_id": "ChIJQXmypwv9DDkRm7VIgktFZcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXmypwv9DDkRm7VIgktFZcE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:00:12"
+  }
+]

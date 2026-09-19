@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisan Machinery Mart",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop, Auto machine shop",
+    "pincode": "221002",
+    "phone_number": "+91 70800 08964",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "19, Kail Garh Market, Jagatganj, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Kail Garh Market, Jagatganj, Chetganj",
+    "latitude": 25.3273419,
+    "longitude": 82.996312,
+    "place_id": "ChIJp7rargsujjkRXAFhb7HQHRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7rargsujjkRXAFhb7HQHRs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:40:39"
+  },
+  {
+    "business_name": "Amit Machinery Stores",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier, Construction equipment supplier",
+    "pincode": "221002",
+    "phone_number": "+91 94528 79410",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C.K 62/46, Shree Janki Commercial Complex, Maidagin, Kashipura, Bulanala, Varanasi, Uttar Pradesh 221001",
+    "area": "Maidagin, Kashipura, Bulanala",
+    "latitude": 25.316519099999997,
+    "longitude": 83.0099104,
+    "place_id": "ChIJP4I8eBkujjkRFhmaH0zM5SU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4I8eBkujjkRFhmaH0zM5SU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:40:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StocKart",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "212655",
+    "phone_number": "+91 84000 02944",
+    "website": "http://www.stockart.co.in/",
+    "rating": 4.7,
+    "reviews_count": 147,
+    "address": "Park Rd, Raj Bhavan Colony, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Raj Bhavan Colony, Hazratganj",
+    "latitude": 26.8431778,
+    "longitude": 80.9496504,
+    "place_id": "ChIJHxlg7RX9mzkRrOwcB_fb54A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxlg7RX9mzkRrOwcB_fb54A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:22:11"
+  },
+  {
+    "business_name": "Mirae Asset Sharekhan - Authorised Partner",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Finance broker, Financial consultant, Financial institution, Financial planner, Investment service, Online Share Trading Center",
+    "pincode": "212655",
+    "phone_number": "+91 80 6264 6207",
+    "website": "https://stockbroker-branch.sharekhan.com/mirae-asset-sharekhan-authorised-partner-aquatoris-shares-pvt-ltd-stock-broker-darya-ganj-new-delhi-5814/Home",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "No 94, Ground Floor, Daryaganj, New Delhi, Delhi 110002",
+    "area": "Old Delhi, Daryaganj",
+    "latitude": 28.6430327,
+    "longitude": 77.242447,
+    "place_id": "ChIJvYGSzNj8DDkR3UpGN37IzVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYGSzNj8DDkR3UpGN37IzVs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:22:11"
+  }
+]

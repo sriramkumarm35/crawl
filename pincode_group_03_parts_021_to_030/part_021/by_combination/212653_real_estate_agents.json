@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gulab Traders",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "212653",
+    "phone_number": "+91 97949 72745",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "V55V+FM8, Allipurbahera, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.8586663,
+    "longitude": 81.19418809999999,
+    "place_id": "ChIJq6qqqpEUmzkRFlqo2PwCvJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqpEUmzkRFlqo2PwCvJM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:39"
+  },
+  {
+    "business_name": "SURYA & GROUPS",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "212653",
+    "phone_number": "+91 82997 01962",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R94J+C44, Alapur, Pariyawan, Uttar Pradesh 229408",
+    "area": "212653",
+    "latitude": 25.806020699999998,
+    "longitude": 81.38034429999999,
+    "place_id": "ChIJ9RcsESwZmzkRpeKuq4Hwgxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RcsESwZmzkRpeKuq4Hwgxw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:40"
+  }
+]

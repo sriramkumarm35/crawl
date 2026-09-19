@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jio-bp",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump, Diesel fuel supplier, Electric vehicle charging station, Fuel supplier, Gas Agency",
+    "pincode": "212655",
+    "phone_number": "+91 98682 52153",
+    "website": "https://mobilitystation.jiobp.com/jio-bp-urja-enterprises-petrol-pump-khaga-fatehpur-523905",
+    "rating": 4.1,
+    "reviews_count": 79,
+    "address": "Khasra No 1364, 1365 1366, Gt Road, Katoghan, Uttar Pradesh 212655",
+    "area": "212655",
+    "latitude": 25.755543,
+    "longitude": 81.16202899999999,
+    "place_id": "ChIJC4BxGABBmzkR9Jzy84_yNUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4BxGABBmzkR9Jzy84_yNUU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:20:58"
+  },
+  {
+    "business_name": "Divine Beverages",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Coffee vending machine",
+    "pincode": "212655",
+    "phone_number": "+91 99353 11112",
+    "website": "http://www.divinebeverages.in/",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "811, Hariharpur Deputy Ganj Nilmatha, near Amar Shaheed Path, Gomti Nagar, Lucknow, Uttar Pradesh 226002",
+    "area": "Gomti Nagar",
+    "latitude": 26.7823568,
+    "longitude": 80.9775373,
+    "place_id": "ChIJA-YGufD7mzkRTWAwB7lD70Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-YGufD7mzkRTWAwB7lD70Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:20:58"
+  }
+]

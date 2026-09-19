@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satwik Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "221003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taktakpur, Ekta Nagar Colony, Varanasi, Uttar Pradesh 221002",
+    "area": "Taktakpur, Ekta Nagar Colony",
+    "latitude": 25.360926199999998,
+    "longitude": 82.9810684,
+    "place_id": "ChIJy0C_B8QtjjkRFpF8q3S1XPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0C_B8QtjjkRFpF8q3S1XPY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:41:07"
+  },
+  {
+    "business_name": "Green on Cloud",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Tiffin Service Provider, Caterer, Chinese takeaway, Food producer, Indian takeaway, Takeout restaurant, North Indian restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "221003",
+    "phone_number": "+91 73090 63909",
+    "website": "https://greenoncloud.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C33/294-12, Ambalika Puri Colony, chanduwa, Chittupur, Varanasi, Uttar Pradesh 221002",
+    "area": "Ambalika Puri Colony, chanduwa, Chittupur",
+    "latitude": 25.3174158,
+    "longitude": 82.9872567,
+    "place_id": "ChIJX3TTKKwtjjkROdBnt_CoHa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3TTKKwtjjkROdBnt_CoHa8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:41:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj hotal and family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212655",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "के पहले, Sujrahi, akodhiya bridge k pahle power house k samne सुजरही पावर हाउस के सामने, अकोढ़िया ब्रिज, Khaga, Uttar Pradesh 212655",
+    "area": "212655",
+    "latitude": 25.769645099999998,
+    "longitude": 81.14029049999999,
+    "place_id": "ChIJy9srxMlBmzkRG4qMpaAIgiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9srxMlBmzkRG4qMpaAIgiM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:20:57"
+  },
+  {
+    "business_name": "Oya restaurant khaga",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212655",
+    "phone_number": "+91 82856 57251",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Lambardar market ke samne, Khaga, Hardoan, Uttar Pradesh 212655",
+    "area": "212655",
+    "latitude": 25.7609417,
+    "longitude": 81.0971637,
+    "place_id": "ChIJLZ13PIRBmzkR8PZeWiPeMjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZ13PIRBmzkR8PZeWiPeMjg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:20:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "All Event Finder",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "212507",
+    "phone_number": "N/A",
+    "website": "https://www.alleventfinder.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "All Event Finder, 212507, India",
+    "area": "212507",
+    "latitude": 21.386507299999998,
+    "longitude": 76.1429065,
+    "place_id": "ChIJ5U1NvvL2R2wR-4MmXfXcoX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5U1NvvL2R2wR-4MmXfXcoX0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:56:34"
+  },
+  {
+    "business_name": "Akash decoration crew",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "212507",
+    "phone_number": "+91 86049 50252",
+    "website": "https://www.instagram.com/invites/contact/?igsh=8lihhgpnqune&utm_content=qh7dxpz",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "Crpf campus, Sewaith, Phaphamau, Uttar Pradesh 211013",
+    "area": "Sewaith",
+    "latitude": 25.5324964,
+    "longitude": 81.8775433,
+    "place_id": "ChIJj2Zl2KPLmjkRl5vmfqx0S84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2Zl2KPLmjkRl5vmfqx0S84",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:56:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden traders",
+    "search_category": "Guesthouse",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "212661",
+    "phone_number": "+91 94151 75160",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, near ved guest house, Lalauli, Bindki, Uttar Pradesh 212661",
+    "area": "212661",
+    "latitude": 25.8124134,
+    "longitude": 80.541067,
+    "place_id": "ChIJ3UdzbSWVnDkRtwzX_KTRTA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UdzbSWVnDkRtwzX_KTRTA8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:30:47"
+  },
+  {
+    "business_name": "Kanhaiya Narang Metal Store",
+    "search_category": "Guesthouse",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "212661",
+    "phone_number": "+91 94154 36453",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rsmagirja Market, 16,68/21, Canal Rd, Lokman Mohal, Bhusa Toli, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Lokman Mohal, Bhusa Toli, General Ganj",
+    "latitude": 26.4580625,
+    "longitude": 80.3538243,
+    "place_id": "ChIJY-GeTUVHnDkRLr37pvHXW8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-GeTUVHnDkRLr37pvHXW8k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:30:47"
+  }
+]

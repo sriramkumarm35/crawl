@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ATAL EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212652",
+    "phone_number": "+91 97928 66646",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W79V+FC6 Kabir chauraha, near Bank Of Baroda, Unchahar, Uttar Pradesh 229404",
+    "area": "212652",
+    "latitude": 25.9185826,
+    "longitude": 81.29342369999999,
+    "place_id": "ChIJcSnZcQARmzkRCGAt6Tdp-wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSnZcQARmzkRCGAt6Tdp-wU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:15:51"
+  },
+  {
+    "business_name": "ASG Eye Hospital - Udaipur",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "212652",
+    "phone_number": "+91 80 4041 9785",
+    "website": "https://clinic.asgeyehospital.com/locator/udaipur/Madhuban/asg-eye-hospital-in-Madhuban-udaipur--4nzeeb/home",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "7C, 2, Meera Marg, near Mira Girls College, Madhuban, Udaipur, Rajasthan 313001",
+    "area": "Madhuban",
+    "latitude": 24.5954817,
+    "longitude": 73.693219,
+    "place_id": "ChIJoawlxgzlZzkR9-cDoIIRRZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoawlxgzlZzkR9-cDoIIRRZ0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:15:53"
+  }
+]

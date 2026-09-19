@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mithas Hotel & Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212631",
+    "phone_number": "+91 73183 17305",
+    "website": "http://wwwmithashotel.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Maudev, Uttar Pradesh 212657",
+    "area": "212631",
+    "latitude": 25.953130899999998,
+    "longitude": 80.4195067,
+    "place_id": "ChIJQ2-y0KTznDkRxt-7KI2tjns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2-y0KTznDkRxt-7KI2tjns",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:04:44"
+  },
+  {
+    "business_name": "Inaya Mughlai",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "212631",
+    "phone_number": "+91 60029 48075",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1071,
+    "address": "Kamrupia Namghar, Mahabhairab, Tezpur, Assam 784001",
+    "area": "Mahabhairab",
+    "latitude": 26.6241676,
+    "longitude": 92.7990578,
+    "place_id": "ChIJY76aDzLpRDcRJ9l_YKlUkNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY76aDzLpRDcRJ9l_YKlUkNQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:04:45"
+  }
+]

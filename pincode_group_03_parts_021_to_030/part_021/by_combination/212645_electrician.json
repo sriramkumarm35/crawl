@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reyansh Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Electronics store",
+    "pincode": "212645",
+    "phone_number": "+91 96707 73694",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "behind Kalikan Mandir, Maswani, Fatehpur, Uttar Pradesh 212601",
+    "area": "Maswani",
+    "latitude": 25.929960899999998,
+    "longitude": 80.8263903,
+    "place_id": "ChIJV_wY0BRjmzkRAzM6u5gvMVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_wY0BRjmzkRAzM6u5gvMVA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:10:47"
+  },
+  {
+    "business_name": "Rama Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electronics store",
+    "pincode": "212645",
+    "phone_number": "+91 90262 00287",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 18,
+    "address": "WRC6+34J, Barji, Mardanpur, Uttar Pradesh 212601",
+    "area": "Collector Ganj, Harihar Ganj",
+    "latitude": 25.920209699999997,
+    "longitude": 80.81025199999999,
+    "place_id": "ChIJpfJIqqBimzkRwYAuTN_sUQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfJIqqBimzkRwYAuTN_sUQw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:10:49"
+  }
+]

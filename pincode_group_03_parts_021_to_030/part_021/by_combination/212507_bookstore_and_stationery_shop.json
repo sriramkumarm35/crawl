@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushboo book agency",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "212507",
+    "phone_number": "+91 91255 65526",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 18,
+    "address": "Block Bazaar, Pratapgarh - Prayagraj Rd, Mau Aima, Uttar Pradesh 212507",
+    "area": "212507",
+    "latitude": 25.6927295,
+    "longitude": 81.9041542,
+    "place_id": "ChIJez5XOAC5mjkRwTv2aJZ-_P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJez5XOAC5mjkRwTv2aJZ-_P4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:56:41"
+  },
+  {
+    "business_name": "Kanpur Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "212507",
+    "phone_number": "+91 532 240 0165",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 53,
+    "address": "47, 39, Leader Rd, Miurabad, Prayagraj, Uttar Pradesh 211001",
+    "area": "Miurabad",
+    "latitude": 25.443096699999998,
+    "longitude": 81.8331125,
+    "place_id": "ChIJHy4qKdHKmjkRPRwV6Y9w-Ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHy4qKdHKmjkRPRwV6Y9w-Ew",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:56:44"
+  }
+]

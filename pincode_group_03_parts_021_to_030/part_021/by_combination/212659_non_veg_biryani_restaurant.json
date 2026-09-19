@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hunk dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "212659",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4C3J+M7Q, Alampur, Bhelgaon, Uttar Pradesh 212659",
+    "area": "212659",
+    "latitude": 26.1042031,
+    "longitude": 80.4307236,
+    "place_id": "ChIJtVxUEABfnDkRvDma97JygKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtVxUEABfnDkRvDma97JygKs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:05"
+  },
+  {
+    "business_name": "Shiv hotel and restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212659",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 49,
+    "address": "SH 46, Bhelgaon, Sarai Langer, Uttar Pradesh 212659",
+    "area": "212659",
+    "latitude": 26.106066199999997,
+    "longitude": 80.42326729999999,
+    "place_id": "ChIJzQ9cCw5fnDkRfBp7PdyojPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQ9cCw5fnDkRfBp7PdyojPY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:05"
+  }
+]

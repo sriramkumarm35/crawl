@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City dog hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212645",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "Honda agency Global Hospital, pull ke pass, near nekpur, Nekpur Kalan, Farrukhabad, Uttar Pradesh 209601",
+    "area": "Nekpur Kalan",
+    "latitude": 27.376307299999997,
+    "longitude": 79.606675,
+    "place_id": "ChIJbc_1VXExnjkRJPHM7P0Ljn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbc_1VXExnjkRJPHM7P0Ljn4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:10:29"
+  },
+  {
+    "business_name": "Caesar pet hospitals",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Dog day care center, Dog trainer, Emergency veterinarian service, Pet groomer, Pet store, Veterinarian, Veterinary pharmacy",
+    "pincode": "212645",
+    "phone_number": "+91 80749 24228",
+    "website": "http://www.caesarpethospital.in/",
+    "rating": 4.4,
+    "reviews_count": 470,
+    "address": "Gopanpally road, Tellapur, Nallagandla, Telangana 500046",
+    "area": "Tellapur",
+    "latitude": 17.4534614,
+    "longitude": 78.30571259999999,
+    "place_id": "ChIJ-VOkOz-TyzsRCqpAXuwvICM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VOkOz-TyzsRCqpAXuwvICM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:10:30"
+  }
+]

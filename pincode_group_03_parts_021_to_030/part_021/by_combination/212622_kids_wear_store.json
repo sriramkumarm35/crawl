@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zohan kids wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "212622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "babu market, Hathgaon, Uttar Pradesh 212652",
+    "area": "212622",
+    "latitude": 25.866328799999998,
+    "longitude": 81.1244363,
+    "place_id": "ChIJ686qPgBtmzkRsKEXs5fBWEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ686qPgBtmzkRsKEXs5fBWEU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:02"
+  },
+  {
+    "business_name": "Bala Ji Cloth House",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "212622",
+    "phone_number": "+91 81156 73257",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khaga, Pratapgarh, Uttar Pradesh 212655",
+    "area": "212622",
+    "latitude": 25.7718709,
+    "longitude": 81.1014773,
+    "place_id": "ChIJKUkQEEVrmzkRxi-z9ggllc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUkQEEVrmzkRxi-z9ggllc0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:05"
+  }
+]

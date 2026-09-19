@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peter England",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212655",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Grand Trunk Rd, near police station, Khaga, Uttar Pradesh 212655",
+    "area": "212655",
+    "latitude": 25.7719557,
+    "longitude": 81.1037884,
+    "place_id": "ChIJD-_wkJlrmzkR7BfDSvOWK5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-_wkJlrmzkR7BfDSvOWK5E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:00"
+  },
+  {
+    "business_name": "लम्बरदार मार्केट",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212655",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 28,
+    "address": "Q36W+2RP, Kishanpur Rd, Khaga, Hardoan, Uttar Pradesh 212655",
+    "area": "212655",
+    "latitude": 25.7600876,
+    "longitude": 81.0970818,
+    "place_id": "ChIJ95Ivh2dBmzkRVWLXgFceRVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95Ivh2dBmzkRVWLXgFceRVU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:01"
+  }
+]

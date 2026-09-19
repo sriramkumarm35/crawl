@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furniture Shop",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "212657",
+    "phone_number": "+91 70435 03436",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rumesh Kumar, 10, Jafarganj, Uttar Pradesh 212657",
+    "area": "212657",
+    "latitude": 25.914042499999997,
+    "longitude": 80.50258269999999,
+    "place_id": "ChIJl-fVSYyTnDkRl2hcpAyLpzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-fVSYyTnDkRl2hcpAyLpzM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:25:17"
+  },
+  {
+    "business_name": "Razak Dukan",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "212657",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5F4V+4H2, sakura Road, Tikara, Uttar Pradesh 212657",
+    "area": "212657",
+    "latitude": 26.1551874,
+    "longitude": 80.4938966,
+    "place_id": "ChIJl0UlbQBhnDkRhtAKC956zPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0UlbQBhnDkRhtAKC956zPA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:25:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "माहिरा रेडीमेड एण्ड फुटवियर",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "212621",
+    "phone_number": "+91 73908 01669",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "QMFP+9MP, अशोक इण्टर कालेज के पास, फतेहपुर, साँखा, Sakha, Uttar Pradesh 212621",
+    "area": "फतेहपुर",
+    "latitude": 25.773473199999998,
+    "longitude": 80.6867104,
+    "place_id": "ChIJJ0tflfGYnDkR2YVnJLQrYV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0tflfGYnDkR2YVnJLQrYV4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:00:59"
+  },
+  {
+    "business_name": "Jaggi's Pet World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "212621",
+    "phone_number": "+91 81268 90890",
+    "website": "https://www.facebook.com/profile.php?id=100063710515945&mibextid=ZbWKwL",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "161, Arya Nagar Chowk, Arya Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.9239294,
+    "longitude": 78.1175969,
+    "place_id": "ChIJl-ijoyRGCTkRFISnhNDD65Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-ijoyRGCTkRFISnhNDD65Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:00"
+  }
+]

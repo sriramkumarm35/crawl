@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.K.Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212641",
+    "phone_number": "+91 97848 45333",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "19, Rajasthan 332301",
+    "area": "Biraniya, Pulia",
+    "latitude": 27.995591299999997,
+    "longitude": 74.96282149999999,
+    "place_id": "ChIJx09m0mmpFDkR4jZD_Mk5B_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx09m0mmpFDkR4jZD_Mk5B_M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:37"
+  },
+  {
+    "business_name": "SANJEEVANI MEDICAL POINT",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212641",
+    "phone_number": "+91 78916 58484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "pooja market, bus stand, near sardarpura, Fatehpur, Rajasthan 332301",
+    "area": "212641",
+    "latitude": 27.9972317,
+    "longitude": 74.9443364,
+    "place_id": "ChIJpeCm_jqpFDkRlG_LIeMcuWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeCm_jqpFDkRlG_LIeMcuWk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:37"
+  }
+]

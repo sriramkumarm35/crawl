@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Antares Chem Private Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Chemical Manufacturer, Chemical Exporter",
+    "pincode": "212620",
+    "phone_number": "+91 80 4895 7399",
+    "website": "http://www.antareschem.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Top Floor, Satyam Shopping Centre, A-27, Mahatma Gandhi Rd, Neelkhanth Valley, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "area": "Neelkhanth Valley, Ghatkopar East",
+    "latitude": 19.074944,
+    "longitude": 72.9029614,
+    "place_id": "ChIJxaOSJCbG5zsRU04up9hNQQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaOSJCbG5zsRU04up9hNQQ4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:00:37"
+  },
+  {
+    "business_name": "Shiv",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "212620",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQ22+C67, Ghazipur, Uttar Pradesh 212621",
+    "area": "212620",
+    "latitude": 25.801029699999997,
+    "longitude": 80.7505417,
+    "place_id": "ChIJkeqkLwCfnDkRS-toFrHACDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkeqkLwCfnDkRS-toFrHACDU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:00:37"
+  }
+]

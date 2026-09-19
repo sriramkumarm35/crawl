@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashu Sweet House",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Restaurant",
+    "pincode": "212665",
+    "phone_number": "+91 87072 50321",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Chauraha, Aung, Uttar Pradesh 212665",
+    "area": "Chauraha",
+    "latitude": 26.1549233,
+    "longitude": 80.5648827,
+    "place_id": "ChIJ926UaTVinDkRjpH12vP94gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ926UaTVinDkRjpH12vP94gk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:35:08"
+  },
+  {
+    "business_name": "Radhey bekary menu fuchuring",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "212665",
+    "phone_number": "+91 99983 88218",
+    "website": "https://www.instagram.com/mr.shivam2081?igsh=MXV3dmswZDZxbGlsNQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bara thana, Sagwar, Birpur Dithwa, Uttar Pradesh 209863",
+    "area": "212665",
+    "latitude": 26.2544333,
+    "longitude": 80.672608,
+    "place_id": "ChIJ_zjLbgB7nDkRvSQ6dRtBBKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zjLbgB7nDkRvSQ6dRtBBKQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:35:10"
+  }
+]

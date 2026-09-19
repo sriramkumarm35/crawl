@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "212656",
+    "phone_number": "+91 87652 96510",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "254 Thana Khakhreru, Shivpuri Post Gharwasipur, Shivpuri, Hardoan, Uttar Pradesh 212656",
+    "area": "Shivpuri",
+    "latitude": 25.751502,
+    "longitude": 81.09915,
+    "place_id": "ChIJz-zBoSlBmzkRf_MAgrsC7VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-zBoSlBmzkRf_MAgrsC7VQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:55"
+  },
+  {
+    "business_name": "Sanjay Computers Khaga",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "212656",
+    "phone_number": "+91 92364 86639",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Q482+M8J, Kishanpur Rd, Khaga, Uttar Pradesh 212655",
+    "area": "212656",
+    "latitude": 25.766717999999997,
+    "longitude": 81.100766,
+    "place_id": "ChIJX2vlDt9BmzkRCSxJtqp_sUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2vlDt9BmzkRCSxJtqp_sUY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:55"
+  }
+]

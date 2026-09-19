@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitesh Kumar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212653",
+    "phone_number": "+91 91162 19712",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nitesh Kumar, Naubasta Rd, Allipurbahera, Fatehpur, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.8576537,
+    "longitude": 81.1933865,
+    "place_id": "ChIJf1MgPl0VmzkRY5cdNuHMulY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1MgPl0VmzkRY5cdNuHMulY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:09"
+  },
+  {
+    "business_name": "Sri Balaji Tala house & General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q6WW+W7C, Premnagar, Dewara, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.7973426,
+    "longitude": 81.2453999,
+    "place_id": "ChIJTchgEAAVmzkR5hMQBKGQ8NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTchgEAAVmzkR5hMQBKGQ8NQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:09"
+  }
+]

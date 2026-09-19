@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajchemio",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "212655",
+    "phone_number": "+91 94501 41853",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Rajchemio, 212655, India",
+    "area": "212655",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJVThGVl-dnDkRtdLmREIeVrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVThGVl-dnDkRtdLmREIeVrc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:58"
+  },
+  {
+    "business_name": "Career Plus",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "212655",
+    "phone_number": "+91 94479 16404",
+    "website": "https://www.careerplusedu.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Career Plus, Second Floor ,Shakkena Complex, Thodupuzha, Keralam 685584",
+    "area": "212655",
+    "latitude": 9.8974541,
+    "longitude": 76.7154449,
+    "place_id": "ChIJ73UtEAzEBzsRCp2LSjrGLYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73UtEAzEBzsRCp2LSjrGLYs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:59"
+  }
+]

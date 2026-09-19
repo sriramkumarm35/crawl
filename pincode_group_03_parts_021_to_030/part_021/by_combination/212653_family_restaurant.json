@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Gayatri Dhaba and Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 12,
+    "address": "Grand Trunk Rd, near tol tax, Khaga, Katoghan, Uttar Pradesh 212655",
+    "area": "212653",
+    "latitude": 25.7516973,
+    "longitude": 81.1676387,
+    "place_id": "ChIJ4V19qXc_mzkR-3CyN_JBO3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4V19qXc_mzkR-3CyN_JBO3U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:22"
+  },
+  {
+    "business_name": "Four Season Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212653",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Q537+Q9R, Katoghan, Uttar Pradesh 212655",
+    "area": "212653",
+    "latitude": 25.7543576,
+    "longitude": 81.1633824,
+    "place_id": "ChIJQb69TwBBmzkRphI4rymXsM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQb69TwBBmzkRphI4rymXsM8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:25"
+  }
+]

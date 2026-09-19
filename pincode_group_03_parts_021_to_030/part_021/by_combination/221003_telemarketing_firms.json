@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tushar",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Service establishment, Internet marketing service",
+    "pincode": "221003",
+    "phone_number": "+91 95546 47851",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tushar, 221003, India",
+    "area": "221003",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_____8MtjjkRKLD6Rk1ZauE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____8MtjjkRKLD6Rk1ZauE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:42:44"
+  },
+  {
+    "business_name": "Zest Information Media & Technology (OPC) Private Limited",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business management consultant, E-commerce service, Internet marketing service, Software Training Institute, Unemployment office, Video editing service, Video production service, Web hosting company, Website designer",
+    "pincode": "221003",
+    "phone_number": "+91 94542 33270",
+    "website": "https://www.zestinfotech.in/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "B 65, 3rd Floor, Patrakarpuram Colony Gate no A1, Opposite - Sadar Tahsheel, Bhojuveer, Varanasi, Uttar Pradesh 221002",
+    "area": "Bhojuveer",
+    "latitude": 25.350816,
+    "longitude": 82.9721229,
+    "place_id": "ChIJW1VVVcEtjjkRWes0elVG20E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1VVVcEtjjkRWes0elVG20E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:42:44"
+  }
+]

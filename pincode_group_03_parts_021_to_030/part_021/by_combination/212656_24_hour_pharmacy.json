@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medi fast pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "212656",
+    "phone_number": "+91 85860 85856",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H62X+263, Karikan, Uttar Pradesh 212217",
+    "area": "212656",
+    "latitude": 25.550040199999998,
+    "longitude": 81.2480949,
+    "place_id": "ChIJgWVSAig3mzkRE7mRa5VZGZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWVSAig3mzkRE7mRa5VZGZQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:00"
+  },
+  {
+    "business_name": "s.p. memorial hospital dhata fatehpur",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lihai, road, Dhata, Uttar Pradesh 212641",
+    "area": "212656",
+    "latitude": 25.5406381,
+    "longitude": 81.22734559999999,
+    "place_id": "ChIJX2r9LeA2mzkR4pUUB1S5eZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2r9LeA2mzkR4pUUB1S5eZU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:00"
+  }
+]

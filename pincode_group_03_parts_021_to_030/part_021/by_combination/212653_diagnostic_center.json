@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yes Pathology Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "212653",
+    "phone_number": "+91 81279 55830",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Permnagar, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.796944099999997,
+    "longitude": 81.24815819999999,
+    "place_id": "ChIJNalWIwsVmzkRkLxqtMGxgUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNalWIwsVmzkRkLxqtMGxgUs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:38"
+  },
+  {
+    "business_name": "Dileep Paithalogy",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "212653",
+    "phone_number": "+91 99190 68213",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Premnagar, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.790299299999997,
+    "longitude": 81.2534804,
+    "place_id": "ChIJpbl-6xgXmzkR3OPgmgdNw0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbl-6xgXmzkR3OPgmgdNw0g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:38"
+  }
+]

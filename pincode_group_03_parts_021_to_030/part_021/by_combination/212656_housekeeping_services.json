@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aiman enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "212656",
+    "phone_number": "+91 96964 52844",
+    "website": "https://youtube.com/@zaidsiddiqui7354?si=J8UBhdw_uzMjnPbY",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kot Rd, Khakhreru, Uttar Pradesh 212656",
+    "area": "212656",
+    "latitude": 25.612906499999998,
+    "longitude": 81.1340254,
+    "place_id": "ChIJZ0J1XwBHmzkRhNJxJ_9r2iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0J1XwBHmzkRhNJxJ_9r2iE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:01"
+  },
+  {
+    "business_name": "Shri Kesari",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Employment center, Cleaning Services, Human resource consulting, Pest control service, Recruiter, Security service, Temp agency, Upholstery cleaning service, Window cleaning service",
+    "pincode": "212656",
+    "phone_number": "+91 99287 79539",
+    "website": "https://shrikesari.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Mewar Industrial Area, RIICO Housing Colony, A-198, Udai Vihar, Madri, Transport Nagar, Udaipur, Rajasthan 313001",
+    "area": "Udai Vihar, Madri, Transport Nagar",
+    "latitude": 24.572815199999997,
+    "longitude": 73.7434483,
+    "place_id": "ChIJLcS9oxTvZzkRzLSXJ-bOk8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcS9oxTvZzkRzLSXJ-bOk8w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:02"
+  }
+]

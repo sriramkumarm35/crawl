@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Takya chand shah, Chowk Station Rd, Amarjai, Peeranpur, Fatehpur, Uttar Pradesh 212601",
+    "area": "Amarjai, Peeranpur",
+    "latitude": 25.9270209,
+    "longitude": 80.81691359999999,
+    "place_id": "ChIJsSxkSwBjmzkRkM1UYOtXNCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSxkSwBjmzkRkM1UYOtXNCc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:01"
+  },
+  {
+    "business_name": "SURAAJ PALACE GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "212621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "BYPASS TIRAHA (EAST SIDE), LODHI GANJ, Uttar Pradesh 212601",
+    "area": "Peeranpur",
+    "latitude": 25.921509999999998,
+    "longitude": 80.8379958,
+    "place_id": "ChIJdxCb8hFjmzkRb5mEYHpdm48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxCb8hFjmzkRb5mEYHpdm48",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:01"
+  }
+]

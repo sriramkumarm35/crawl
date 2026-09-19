@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sports Aura",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "212659",
+    "phone_number": "N/A",
+    "website": "https://sportsaura.in/",
+    "rating": 4.8,
+    "reviews_count": 49,
+    "address": "Hanumagiri hills road, AGS layout, Srinivas nagar, Hosakerehalli, Bengaluru, Karnataka 560061",
+    "area": "AGS layout, Srinivas nagar, Hosakerehalli",
+    "latitude": 12.9164415,
+    "longitude": 77.53497229999999,
+    "place_id": "ChIJbWtSmO8_rjsR6-YLNjWwqr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWtSmO8_rjsR6-YLNjWwqr0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:29:08"
+  },
+  {
+    "business_name": "Hotfut, Gachibowli",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Soccer field",
+    "all_categories": "Soccer field, Cricket ground, Event venue, Futsal court, Handball court, Playground, Volleyball court",
+    "pincode": "212659",
+    "phone_number": "+91 91000 96655",
+    "website": "http://fb.com/HotfutGachibowli",
+    "rating": 4.1,
+    "reviews_count": 914,
+    "address": "Sy. No. 91, SVK (Sundarayya Vignana Kendram), Greenland's Colony, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "Madhava Reddy Colony, Gachibowli",
+    "latitude": 17.435613999999998,
+    "longitude": 78.36117229999999,
+    "place_id": "ChIJzzpNVpOTyzsRNfFqgQlOpFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzpNVpOTyzsRNfFqgQlOpFo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:29:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem nager",
+    "search_category": "Spa",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212655",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "R63Q+H6F, Hathgaon Kara Rd, Mohammadpur Gaunti, Dewara, Uttar Pradesh 212653",
+    "area": "212655",
+    "latitude": 25.8039381,
+    "longitude": 81.2380587,
+    "place_id": "ChIJs-ECfV4VmzkRDhQUwt9KlqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-ECfV4VmzkRDhQUwt9KlqI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:39"
+  },
+  {
+    "business_name": "Sewa pharmacy ( medical store)",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "212655",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vijayipur kishanpur road khaga, Vijayepur, Uttar Pradesh 212655",
+    "area": "212655",
+    "latitude": 25.6895813,
+    "longitude": 81.0589061,
+    "place_id": "ChIJo61jYQBDmzkRzmdBnqd4lo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo61jYQBDmzkRzmdBnqd4lo0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:39"
+  }
+]

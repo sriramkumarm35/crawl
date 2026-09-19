@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejasvi Battery House",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Cattery",
+    "pincode": "212635",
+    "phone_number": "+91 92357 37884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kanchan Gupta, Bindki, Uttar Pradesh 212635",
+    "area": "212635",
+    "latitude": 26.0350295,
+    "longitude": 80.5779232,
+    "place_id": "ChIJE_h-dOuJnDkRIpldnWXZTwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_h-dOuJnDkRIpldnWXZTwE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:06:59"
+  },
+  {
+    "business_name": "Kanpur Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "212635",
+    "phone_number": "+91 94523 17193",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 9,
+    "address": "128/109, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "Kidwai Nagar",
+    "latitude": 26.443568,
+    "longitude": 80.3443908,
+    "place_id": "ChIJ940D2wdHnDkRNB8s-Zba4jM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ940D2wdHnDkRNB8s-Zba4jM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:06:59"
+  }
+]

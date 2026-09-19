@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karigiri Fashions",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212657",
+    "phone_number": "+91 63061 89005",
+    "website": "https://www.thekarigiri.com/",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "1320 W-2, Vasant Vihar, Naubasta, Kanpur, Uttar Pradesh 208021",
+    "area": "Vasant Vihar, Naubasta",
+    "latitude": 26.4207482,
+    "longitude": 80.31547979999999,
+    "place_id": "ChIJd8aPQWdHnDkRsRRPWfYZw-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8aPQWdHnDkRsRRPWfYZw-M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:38"
+  },
+  {
+    "business_name": "Nakh Clothing",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "212657",
+    "phone_number": "+91 76075 00700",
+    "website": "https://www.nakhclothing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gate no.3, N-30, opposite Divniti Homes, Mukherjee Vihar, INDRA NAGAR, Kalyanpur, Kanpur, Uttar Pradesh 208026",
+    "area": "Mukherjee Vihar, INDRA NAGAR, Kalyanpur",
+    "latitude": 26.511270999999997,
+    "longitude": 80.2648705,
+    "place_id": "ChIJcSn_of9HnDkRD0SD0rF2kPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSn_of9HnDkRD0SD0rF2kPw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:38"
+  }
+]

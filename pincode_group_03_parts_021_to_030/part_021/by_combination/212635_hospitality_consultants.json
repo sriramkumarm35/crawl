@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotelier's International",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "212635",
+    "phone_number": "+91 97021 46740",
+    "website": "http://hoteliersinternational.in/",
+    "rating": 4.5,
+    "reviews_count": 255,
+    "address": "Office no. 1B 94 First floor, Phoenix Paragon Plaza, Lal Bahadur Shastri Marg, Kamani, Kurla, Mumbai, Maharashtra 400070",
+    "area": "Kamani, Ashok Nagar, Kurla",
+    "latitude": 19.0853653,
+    "longitude": 72.8887084,
+    "place_id": "ChIJN4hsWWLH5zsRG0zhUjPtxcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4hsWWLH5zsRG0zhUjPtxcE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:07:30"
+  },
+  {
+    "business_name": "Shree Shiv Shakti Janseva Kendra",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Computer consultant, Computer service, Copy shop, Digital printing service, Internet service provider, Mapping service, Passport photo processor, Photography service, Print shop",
+    "pincode": "212635",
+    "phone_number": "N/A",
+    "website": "https://shreeshivshaktijansevakendra.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Umarkola khurmanagar, near by HEERA PANNA TRAVELS, Himmat Pur, Uttar Pradesh 212661",
+    "area": "212635",
+    "latitude": 25.8805329,
+    "longitude": 80.5934047,
+    "place_id": "ChIJkbjbbtCRnDkRfGpQedls6I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbjbbtCRnDkRfGpQedls6I4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:07:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Service (My Car)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto electrical service, Brake shop, Car wash, Oil change service, Transmission shop, Wheel alignment service",
+    "pincode": "212620",
+    "phone_number": "+91 8071 645 034",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-kanpur",
+    "rating": 4.3,
+    "reviews_count": 1407,
+    "address": "123/486, Govind Nagar Rd, Shakti Market, Fazalganj Industrial Estate, Fazalganj, Shastri Nagar, Kanpur, Uttar Pradesh 208012",
+    "area": "Shakti Market, Fazalganj Industrial Estate, Fazalganj, Shastri Nagar",
+    "latitude": 26.4606514,
+    "longitude": 80.30676989999999,
+    "place_id": "ChIJg71izY5HnDkREibcdOHue4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg71izY5HnDkREibcdOHue4I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:59:49"
+  },
+  {
+    "business_name": "Mahi Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Machine workshop",
+    "pincode": "212620",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Nh2 by pass Nh-2 by pass, Uttar Pradesh 212601",
+    "area": "212620",
+    "latitude": 25.9458669,
+    "longitude": 80.82827549999999,
+    "place_id": "ChIJg3Ldbkl9mzkRJmxOv4iRVNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3Ldbkl9mzkRJmxOv4iRVNY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:59:50"
+  }
+]

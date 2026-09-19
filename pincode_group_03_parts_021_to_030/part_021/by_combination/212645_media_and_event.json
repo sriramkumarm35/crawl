@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Social media",
+    "search_category": "Media and Event",
+    "primary_category": "Soccer field",
+    "all_categories": "Soccer field",
+    "pincode": "212645",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hasanpur, Uttar Pradesh 212645",
+    "area": "212645",
+    "latitude": 25.9291281,
+    "longitude": 80.9221562,
+    "place_id": "ChIJyyXYppxlmzkRhjXo0I8yCIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyyXYppxlmzkRhjXo0I8yCIg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:11:06"
+  },
+  {
+    "business_name": "Spectrum Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "212645",
+    "phone_number": "+91 11 4500 6347",
+    "website": "https://spectrumevents.in/",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "Second Floor, FIEE Complex, A56, Block A, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Block A, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5336005,
+    "longitude": 77.27013629999999,
+    "place_id": "ChIJG5AQNpnhDDkRI8aY9p_PlH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5AQNpnhDDkRI8aY9p_PlH8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:11:07"
+  }
+]

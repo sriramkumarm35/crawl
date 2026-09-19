@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAY ENTERPRISES",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "212651",
+    "phone_number": "+91 95554 87075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bhitoura Rd, Fatehpur, Uttar Pradesh 212601",
+    "area": "212651",
+    "latitude": 25.9431191,
+    "longitude": 80.8250236,
+    "place_id": "ChIJJzOrDox9mzkRHu32i_A9EXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzOrDox9mzkRHu32i_A9EXY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:15:17"
+  },
+  {
+    "business_name": "RD ENTERPRISES",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "212651",
+    "phone_number": "+91 94543 02108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Husainganj Chauraha, hussainganj, Peeranpur, Fatehpur, Uttar Pradesh 212601",
+    "area": "hussainganj, Peeranpur",
+    "latitude": 25.923878499999997,
+    "longitude": 80.83228249999999,
+    "place_id": "ChIJe6VBYsdimzkRaBPIK6_WCUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6VBYsdimzkRaBPIK6_WCUE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:15:20"
+  }
+]

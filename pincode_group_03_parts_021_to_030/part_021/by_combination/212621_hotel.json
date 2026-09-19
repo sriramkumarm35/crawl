@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Lodge",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "212621",
+    "phone_number": "+91 70078 29915",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 108,
+    "address": "Plot No.348, Kheldar, National Highway ,North khaildar, Grand Trunk Road, Fatehpur, Uttar Pradesh 212601",
+    "area": "Vaqeer Ganj",
+    "latitude": 25.934059299999998,
+    "longitude": 80.815827,
+    "place_id": "ChIJpZDeCqximzkRoszxG1tKCGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZDeCqximzkRoszxG1tKCGA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:00"
+  },
+  {
+    "business_name": "Hotel Kaushilya",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212621",
+    "phone_number": "+91 92360 52765",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Bus Stand, Jwalaganj, GT Road, Jwalaganj, Chowk, Fatehpur, Uttar Pradesh 212601",
+    "area": "Jwalaganj, Chowk",
+    "latitude": 25.928356899999997,
+    "longitude": 80.8215453,
+    "place_id": "ChIJg3Ab59hjmzkRf2AB9Di_E7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3Ab59hjmzkRf2AB9Di_E7I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:03"
+  }
+]

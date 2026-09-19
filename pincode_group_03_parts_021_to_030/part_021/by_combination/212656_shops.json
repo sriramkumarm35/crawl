@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop",
+    "search_category": "Shops",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J46J+7R5, Khakhreru, Uttar Pradesh 212656",
+    "area": "212656",
+    "latitude": 25.6106357,
+    "longitude": 81.1321028,
+    "place_id": "ChIJldqhNgBHmzkR2HekrUSQjow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldqhNgBHmzkR2HekrUSQjow",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:19"
+  },
+  {
+    "business_name": "electronic shop [best electronic shop]",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Bichhiyava Mode, Rakshpalpur, Uttar Pradesh 212656",
+    "area": "Bichhiyava Mode",
+    "latitude": 25.6255977,
+    "longitude": 81.13340819999999,
+    "place_id": "ChIJ83LAcCNHmzkRUd-ZAjUqTiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83LAcCNHmzkRUd-ZAjUqTiY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:21"
+  }
+]

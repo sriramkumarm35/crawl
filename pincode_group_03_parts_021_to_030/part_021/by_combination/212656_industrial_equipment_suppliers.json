@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Machinery Store",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machinery parts manufacturer",
+    "all_categories": "Machinery parts manufacturer",
+    "pincode": "212656",
+    "phone_number": "+91 99195 50895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J46M+JRQ, Unnamed Road,, Khakhreru, Uttar Pradesh 212656",
+    "area": "212656",
+    "latitude": 25.611583099999997,
+    "longitude": 81.134624,
+    "place_id": "ChIJTWEqZrlHmzkR9Qb6Wd6CZB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWEqZrlHmzkR9Qb6Wd6CZB0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:09"
+  },
+  {
+    "business_name": "गर्ग टूबवेल",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Water works equipment supplier",
+    "all_categories": "Water works equipment supplier",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H4R6+V4V, Sudanpur, Uttar Pradesh 212656",
+    "area": "212656",
+    "latitude": 25.592225499999998,
+    "longitude": 81.11030439999999,
+    "place_id": "ChIJdYEaRwBHmzkR72e_DJHEsLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYEaRwBHmzkR72e_DJHEsLI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:24:11"
+  }
+]

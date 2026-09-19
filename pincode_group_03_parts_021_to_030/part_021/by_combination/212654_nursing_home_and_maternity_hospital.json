@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roop Tara Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212654",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "F872+GQ6, Fatehganj Pashchimi, Uttar Pradesh 243501",
+    "area": "212654",
+    "latitude": 28.463778599999998,
+    "longitude": 79.3018893,
+    "place_id": "ChIJaZpHj22mCjkRRn7fHDl6gc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZpHj22mCjkRRn7fHDl6gc8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:25"
+  },
+  {
+    "business_name": "Savitri Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Hospital",
+    "pincode": "212654",
+    "phone_number": "+91 1571 231 371",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "sikariya, Main market road, chaurasta road, Fatehpur, Rajasthan 332301",
+    "area": "212654",
+    "latitude": 27.9939601,
+    "longitude": 74.9594051,
+    "place_id": "ChIJZxG4fCSoFDkRVdTW7QMGHow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxG4fCSoFDkRVdTW7QMGHow",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:26"
+  }
+]

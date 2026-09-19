@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saraswati Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "212635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2HPC+GR6, Fatak Bazar - Bus Station Rd, Gandhi Chauraha, Bindki, Uttar Pradesh 212635",
+    "area": "Gandhi Chauraha",
+    "latitude": 26.036284,
+    "longitude": 80.5720046,
+    "place_id": "ChIJ_0vCMFeJnDkR4cquoKEhzmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0vCMFeJnDkR4cquoKEhzmA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:07:36"
+  },
+  {
+    "business_name": "Thakur Ji Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "212635",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2, Bewar Rd, near Govt.Polytechnic Gate, Bholepr, Farrukhabad, Fatehgarh, Uttar Pradesh 209601",
+    "area": "Bholepr",
+    "latitude": 27.366757399999997,
+    "longitude": 79.61133819999999,
+    "place_id": "ChIJ02oVufIxnjkR6iIhNocFcss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02oVufIxnjkR6iIhNocFcss",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:07:38"
+  }
+]

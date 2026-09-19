@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Laxmi Hotel & restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Katoghan, Uttar Pradesh 212655",
+    "area": "212656",
+    "latitude": 25.7611486,
+    "longitude": 81.1460881,
+    "place_id": "ChIJOfDh9_VBmzkRrT-WGUNxKVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfDh9_VBmzkRrT-WGUNxKVY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:22:43"
+  },
+  {
+    "business_name": "New meeting cafe and restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "212656",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q552+VPX, NH 19, Katoghan, Uttar Pradesh 212655",
+    "area": "212656",
+    "latitude": 25.757877,
+    "longitude": 81.1557681,
+    "place_id": "ChIJjbirTgBBmzkRYrCabWcKlJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbirTgBBmzkRYrCabWcKlJ4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:22:43"
+  }
+]

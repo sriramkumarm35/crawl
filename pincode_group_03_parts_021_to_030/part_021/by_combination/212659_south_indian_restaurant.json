@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Dasaprakash/ Udupi Brindavan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, South Indian restaurant",
+    "pincode": "212659",
+    "phone_number": "+91 90689 99818",
+    "website": "http://www.dasaprakashrudrakshagra.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "18/163A/ 6, Shamshabad Road, near Amit Jaggi Hospital, Vibhav Nagar, Tajganj, Agra, Uttar Pradesh 282001",
+    "area": "Vibhav Nagar, Tajganj",
+    "latitude": 27.1584561,
+    "longitude": 78.0343394,
+    "place_id": "ChIJDVpe0JZxdDkR9TMVDikdGEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVpe0JZxdDkR9TMVDikdGEE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:06"
+  },
+  {
+    "business_name": "Lakshmi Vilas",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "212659",
+    "phone_number": "+91 81717 22844",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "50/A, Taj Rd, beside Nand Talkies, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001",
+    "area": "Sadar Bazar, Agra Cantt, Idgah Colony",
+    "latitude": 27.158701399999998,
+    "longitude": 78.01296789999999,
+    "place_id": "ChIJq6qqq892dDkR5vGv2O45ffc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqq892dDkR5vGv2O45ffc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:06"
+  }
+]

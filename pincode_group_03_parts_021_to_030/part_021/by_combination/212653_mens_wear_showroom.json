@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Enterprises",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "212653",
+    "phone_number": "+91 95190 22907",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Kada Road, Premnagar, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.7979982,
+    "longitude": 81.24687209999999,
+    "place_id": "ChIJgVDvOyAVmzkRn8DfAvJlAec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVDvOyAVmzkRn8DfAvJlAec",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:25"
+  },
+  {
+    "business_name": "Gujarat Radimade Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "212653",
+    "phone_number": "+91 96701 11300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gujarat Radimade Garmens, Kharoli Road, Unchahar, Uttar Pradesh 229404",
+    "area": "212653",
+    "latitude": 25.9064598,
+    "longitude": 81.2929005,
+    "place_id": "ChIJt-07YrARmzkR4CL8_WrRUMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-07YrARmzkR4CL8_WrRUMg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:17:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Fitness Club Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212663",
+    "phone_number": "+91 98968 78787",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "MDR113, Fatehpur, Haryana 136042",
+    "area": "212663",
+    "latitude": 29.7799993,
+    "longitude": 76.5621093,
+    "place_id": "ChIJDQRyt_YZDjkRJ2ch2siAwLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQRyt_YZDjkRJ2ch2siAwLE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:31:59"
+  },
+  {
+    "business_name": "ROYAL FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "212663",
+    "phone_number": "+91 95462 05049",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "JEEVAN DHARA MARKET, CHOWK, Balia, Bihar 844127",
+    "area": "212663",
+    "latitude": 25.9863935,
+    "longitude": 85.31471379999999,
+    "place_id": "ChIJZ9diQJoV7TkR2zEsmbvJt9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9diQJoV7TkR2zEsmbvJt9c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:32:00"
+  }
+]

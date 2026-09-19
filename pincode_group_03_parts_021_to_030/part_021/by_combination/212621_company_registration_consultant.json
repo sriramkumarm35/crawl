@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LegalFidelity",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "212621",
+    "phone_number": "+91 83683 53855",
+    "website": "https://www.legalfidelity.com/",
+    "rating": 4.7,
+    "reviews_count": 107,
+    "address": "A-48, First Floor, Main Market, Clock Tower, Hari Nagar, New Delhi, Delhi 110064",
+    "area": "Nanak Pura, Hari Nagar",
+    "latitude": 28.624474199999998,
+    "longitude": 77.11501559999999,
+    "place_id": "ChIJEbAmnDUDDTkRnDoSWeNwzpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbAmnDUDDTkRnDoSWeNwzpc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:23"
+  },
+  {
+    "business_name": "Baxi Corporate",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Corporate office",
+    "pincode": "212621",
+    "phone_number": "+91 98285 34248",
+    "website": "https://baxicorporate.com/",
+    "rating": 4.7,
+    "reviews_count": 98,
+    "address": "BH. Bank of Maharashtra, Chopasni Housing Board, Jodhpur, Rajasthan 342008",
+    "area": "Chopasni Housing Board",
+    "latitude": 26.271912699999998,
+    "longitude": 72.9783394,
+    "place_id": "ChIJJzcNS46OQTkR0c1CzBSDMvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzcNS46OQTkR0c1CzBSDMvQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ma'am Shab",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "212641",
+    "phone_number": "+91 63886 90512",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J45P+G3H, Kot Rd, Khakhreru, Uttar Pradesh 212656",
+    "area": "212641",
+    "latitude": 25.6088199,
+    "longitude": 81.1352311,
+    "place_id": "ChIJwf4Vl51HmzkRbGWO5dC7vxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwf4Vl51HmzkRbGWO5dC7vxc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:35"
+  },
+  {
+    "business_name": "ROHIT JEWELLERS / R S TRADERS",
+    "search_category": "Boutiques",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "212641",
+    "phone_number": "+91 99195 75338",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Minor Canal Sonari Rd, Uttar Pradesh 212641",
+    "area": "212641",
+    "latitude": 25.4988584,
+    "longitude": 81.2407526,
+    "place_id": "ChIJlYQfXPw3mzkRWAOZIU7QZeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYQfXPw3mzkRWAOZIU7QZeA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:36"
+  }
+]

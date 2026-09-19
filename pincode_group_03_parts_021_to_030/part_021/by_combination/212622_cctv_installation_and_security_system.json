@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raunak Sales Corporation",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Security system installation service",
+    "all_categories": "Security system installation service, Computer security service, Security system supplier",
+    "pincode": "212622",
+    "phone_number": "+91 89468 72111",
+    "website": "http://raunaksalescorporation.business.site/",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "shop no 1, plot no 291, street no 14, Pal Link Rd, Milkman Colony, Jodhpur, Rajasthan 342001",
+    "area": "Milkman Colony",
+    "latitude": 26.2572027,
+    "longitude": 72.9884652,
+    "place_id": "ChIJP960kbSNQTkRt65Xw1OdquA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP960kbSNQTkRt65Xw1OdquA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:04:04"
+  },
+  {
+    "business_name": "CCTV CAMERA DEALER",
+    "search_category": "CCTV Installation and Security System",
+    "primary_category": "Security system supplier",
+    "all_categories": "Security system supplier, Car security system installer, Computer security service, Computer service, Computer store, Security system installation service, Wire and cable supplier",
+    "pincode": "212622",
+    "phone_number": "+91 72299 22100",
+    "website": "http://www.7229922100.in/",
+    "rating": 4.4,
+    "reviews_count": 32,
+    "address": "S No-1, P-291, Street Number 14, Pal Rd, behind Neo kids hospital, Milkman Colony, Jodhpur, Rajasthan 342003",
+    "area": "Shanker Nager, Milkman Colony",
+    "latitude": 26.2575224,
+    "longitude": 72.9881331,
+    "place_id": "ChIJzxm0daGOQTkReVtPDO6K7gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxm0daGOQTkReVtPDO6K7gU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:04:04"
+  }
+]

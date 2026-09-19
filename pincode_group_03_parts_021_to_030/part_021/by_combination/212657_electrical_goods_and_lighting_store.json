@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "212657",
+    "phone_number": "+91 74283 42753",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5/280, Nitganja South, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Nitganja South, Manhari",
+    "latitude": 27.3885634,
+    "longitude": 79.5850711,
+    "place_id": "ChIJPz2m41ExnjkRo2P3e4XibVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPz2m41ExnjkRo2P3e4XibVY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:25:06"
+  },
+  {
+    "business_name": "Havells Utsav Store - Bhondal Bartan Wale",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "212657",
+    "phone_number": "+91 63073 81428",
+    "website": "https://havells.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bakewar Bujurg, Uttar Pradesh 212657",
+    "area": "212657",
+    "latitude": 26.0998844,
+    "longitude": 80.4644714,
+    "place_id": "ChIJg__BljaLnDkRfRGWrVgtvy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg__BljaLnDkRfRGWrVgtvy0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:25:09"
+  }
+]

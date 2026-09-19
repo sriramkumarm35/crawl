@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Munna Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "212622",
+    "phone_number": "+91 79058 69098",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Nauwa Bagh, Fatehpur, Bakandha, Uttar Pradesh 212601",
+    "area": "Nauwa Bagh",
+    "latitude": 25.9601179,
+    "longitude": 80.7929484,
+    "place_id": "ChIJ4XLrQ1eDnDkRsE3hxnJZ-dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XLrQ1eDnDkRsE3hxnJZ-dk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:04:03"
+  },
+  {
+    "business_name": "GTS Mobile Repair",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "212622",
+    "phone_number": "+91 83024 50055",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 416,
+    "address": "GTS Mobile Repair, Jagatguru Shri Guru Nanak Dev Ji Marg, near Delhi Chatka, Jaljog Circle, Sindhi Colony, Sector-E, Shastri Nagar, Jodhpur, Rajasthan 342003",
+    "area": "Jaljog Circle, Sindhi Colony, Sector-E, Shastri Nagar",
+    "latitude": 26.2719253,
+    "longitude": 73.0062538,
+    "place_id": "ChIJVRKavDGNQTkRIMDTws6t0Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRKavDGNQTkRIMDTws6t0Yg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:04:05"
+  }
+]

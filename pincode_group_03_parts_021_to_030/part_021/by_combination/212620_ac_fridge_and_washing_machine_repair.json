@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Engineers",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Appliance repair service",
+    "pincode": "212620",
+    "phone_number": "+91 98291 54710",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "J533+Q4Q, Basant Vihar, near Vinayak hospital, Sikar, Rajasthan 332001",
+    "area": "Vasant Vihar",
+    "latitude": 27.6044678,
+    "longitude": 75.1528495,
+    "place_id": "ChIJ5WOlmbSkbDkRAl2K5UTStlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WOlmbSkbDkRAl2K5UTStlc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:59:55"
+  },
+  {
+    "business_name": "Bharat Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Service establishment",
+    "pincode": "212620",
+    "phone_number": "+91 94043 70127",
+    "website": "https://servebharat.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharat Services, 212620, India",
+    "area": "212620",
+    "latitude": 22.457814199999998,
+    "longitude": 80.6183267,
+    "place_id": "ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:59:56"
+  }
+]

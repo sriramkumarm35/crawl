@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Anuj Gupta Reg. ( Pharmacist)",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "212507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "RW6R+3CJ, Saherua, Uttar Pradesh 230404",
+    "area": "212507",
+    "latitude": 25.810209999999998,
+    "longitude": 81.941006,
+    "place_id": "ChIJN0FSrTK_mjkRJtEN2jEj_04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0FSrTK_mjkRJtEN2jEj_04",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:52"
+  },
+  {
+    "business_name": "Green plus pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "212507",
+    "phone_number": "+91 73481 41215",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raniganj, Husenpur, Mirjapur, Uttar Pradesh 230304",
+    "area": "Raniganj",
+    "latitude": 25.7895742,
+    "longitude": 82.0091267,
+    "place_id": "ChIJhce2-yS9mjkRIue4zasN0YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhce2-yS9mjkRIue4zasN0YU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:52"
+  }
+]

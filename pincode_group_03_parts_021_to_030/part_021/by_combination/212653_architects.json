@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Rohan Interiors",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Interior designer, Construction Material Wholesaler, Consultant",
+    "pincode": "212653",
+    "phone_number": "+91 82096 48144",
+    "website": "http://www.therohaninteriors.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Office No. 4 , First Floor, opposite Arora Motor Service Center, near Bombay Motors Circle, Pratap Nagar, Jodhpur, Rajasthan 342001",
+    "area": "Pratap Nagar",
+    "latitude": 26.2796657,
+    "longitude": 73.00066369999999,
+    "place_id": "ChIJZdTTVSmMQTkRxmGtfScfMbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdTTVSmMQTkRxmGtfScfMbo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:01"
+  },
+  {
+    "business_name": "EarthFloats Constructions",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "212653",
+    "phone_number": "+91 82993 53031",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hathgaon Kara Rd, near Gaur Traders & Paint House, Premnagar, Sultanpur Ghosh, Uttar Pradesh 212653",
+    "area": "212653",
+    "latitude": 25.8225823,
+    "longitude": 81.2145527,
+    "place_id": "ChIJwwnUSlMUmzkRSqn7C4N4aLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwnUSlMUmzkRSqn7C4N4aLA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:03"
+  }
+]

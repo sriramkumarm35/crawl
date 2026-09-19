@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Sweet House",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Modern Indian restaurant",
+    "all_categories": "Modern Indian restaurant",
+    "pincode": "212661",
+    "phone_number": "+91 79056 89813",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Ghazipur Rd, Chouraha, Baranpur, Fatehpur, Uttar Pradesh 212601",
+    "area": "Chouraha",
+    "latitude": 25.8793567,
+    "longitude": 80.78847499999999,
+    "place_id": "ChIJDVqo2tSdnDkRbF50OWESAyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVqo2tSdnDkRbF50OWESAyQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:29:47"
+  },
+  {
+    "business_name": "Avi restaurant बहुआ",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "212661",
+    "phone_number": "+91 73950 28166",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 17,
+    "address": "गाजीपुर रोड बहुआ, चौराहा, फतेहपुर, Uttar Pradesh 212663",
+    "area": "चौराहा",
+    "latitude": 25.841655499999998,
+    "longitude": 80.63284639999999,
+    "place_id": "ChIJX2jVba6bnDkR8hNY-liOkRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2jVba6bnDkR8hNY-liOkRI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:29:50"
+  }
+]

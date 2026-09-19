@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Digital Agencies",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "212503",
+    "phone_number": "+91 87070 02011",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Dewapur, Atrampur, Nawabganj, Kasturipur, Prayagraj, Uttar Pradesh 212503",
+    "area": "Nawabganj",
+    "latitude": 25.612992,
+    "longitude": 81.7383858,
+    "place_id": "ChIJDdKpdlDFmjkR2HZLxLBW9e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdKpdlDFmjkR2HZLxLBW9e8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:15"
+  },
+  {
+    "business_name": "Pixlavo",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "212503",
+    "phone_number": "N/A",
+    "website": "https://www.pixlavo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pixlavo, 212503, India",
+    "area": "212503",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_3bVjrDyugAREDX369q0CmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3bVjrDyugAREDX369q0CmM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JCR Cab & Car Rental Unit Jodhpur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Minibus taxi service, Sightseeing Tour Operator, Tour agency, Tour operator",
+    "pincode": "212650",
+    "phone_number": "+91 94141 37405",
+    "website": "http://www.jcrcab.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sweet, 9,Gopal Pyau Trust, Amarta Devi Circle, Pali Rd, near Jodhana, Jodhpur, Rajasthan 342011",
+    "area": "M.I.A. 1st Phase, Basni, Basni",
+    "latitude": 26.235965,
+    "longitude": 73.01530319999999,
+    "place_id": "ChIJMQH24KiLQTkRlolcNXzN8BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQH24KiLQTkRlolcNXzN8BM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:27"
+  },
+  {
+    "business_name": "Divyani Taxi Service in Nagpur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Minibus taxi service",
+    "pincode": "212650",
+    "phone_number": "+91 78228 21282",
+    "website": "https://divyanitaxiservice.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 362, Main Rd, Pardhi Wada, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Pardhi Wada, Sitabuldi",
+    "latitude": 21.144986799999998,
+    "longitude": 79.08567579999999,
+    "place_id": "ChIJj8bvwze_1DsRRc2d2ERixHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8bvwze_1DsRRc2d2ERixHU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:28"
+  }
+]

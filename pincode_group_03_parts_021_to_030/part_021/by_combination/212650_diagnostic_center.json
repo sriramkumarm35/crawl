@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JASWANT SINGH",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Medical office",
+    "pincode": "212650",
+    "phone_number": "+91 94520 12868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adarsh Nagar, Chheolaha, Razipur Chhulaha, Uttar Pradesh 212650",
+    "area": "Adarsh Nagar",
+    "latitude": 25.9316855,
+    "longitude": 81.0661975,
+    "place_id": "ChIJ5QHyLA1umzkRJ8Qs-iWrvng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QHyLA1umzkRJ8Qs-iWrvng",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:19"
+  },
+  {
+    "business_name": "Jai maa Durge medical centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "212650",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W322+H7C, Karmoan, Uttar Pradesh 212650",
+    "area": "212650",
+    "latitude": 25.901329999999998,
+    "longitude": 81.05041,
+    "place_id": "ChIJ0VPHBQBvmzkRr4i2E6LHkbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VPHBQBvmzkRr4i2E6LHkbc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:19"
+  }
+]

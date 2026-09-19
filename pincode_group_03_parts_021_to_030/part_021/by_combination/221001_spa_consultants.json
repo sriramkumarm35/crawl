@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "221001",
+    "phone_number": "+91 92503 65314",
+    "website": "https://dream-spa-best.localo.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sigra Chauraha Rd, near Landmark Zudio Mall, Sigra, Varanasi, Uttar Pradesh 221010",
+    "area": "Sigra",
+    "latitude": 25.3109491,
+    "longitude": 82.9894936,
+    "place_id": "ChIJJbpZvOQtjjkRHry00eUIndU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbpZvOQtjjkRHry00eUIndU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:37:56"
+  },
+  {
+    "business_name": "Soul Glamorous Studio & spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "221001",
+    "phone_number": "+91 73554 77508",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 8,
+    "address": "2nd floor, R.S Complex, Bajarang Nagar Colony, Sundarpur, Newada, Varanasi, Uttar Pradesh 221005",
+    "area": "Bajarang Nagar Colony, Sundarpur, Newada",
+    "latitude": 25.281308799999998,
+    "longitude": 82.9702523,
+    "place_id": "ChIJgfyKrNkzjjkRzFwF9iw8CEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfyKrNkzjjkRzFwF9iw8CEA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:37:57"
+  }
+]

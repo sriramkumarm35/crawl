@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Hotel Bus Stop",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "212659",
+    "phone_number": "+91 73791 84480",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 90,
+    "address": "SH 46, 402, SH 46, Sani Gadwa, Jahanabad, Kora Jahanabad, Uttar Pradesh 212659",
+    "area": "Sani Gadwa",
+    "latitude": 26.100682,
+    "longitude": 80.3515235,
+    "place_id": "ChIJecV1haZYnDkRbbIPbPDWKJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecV1haZYnDkRbbIPbPDWKJY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:04"
+  },
+  {
+    "business_name": "Annapurna's",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant, Takeout restaurant",
+    "pincode": "212659",
+    "phone_number": "+91 80099 90818",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "VWM7+W5M, near Arya Mahila Degree College, Sadar Bazar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Sadar Bazar",
+    "latitude": 27.884847299999997,
+    "longitude": 79.91292899999999,
+    "place_id": "ChIJEzTunCm9nzkRYbhut36OXMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzTunCm9nzkRYbhut36OXMs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:28:05"
+  }
+]

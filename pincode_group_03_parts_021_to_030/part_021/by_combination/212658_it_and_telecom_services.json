@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "212658",
+    "phone_number": "+91 87652 64868",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivpuri, Uttar Pradesh 212656",
+    "area": "212658",
+    "latitude": 25.5783435,
+    "longitude": 81.1192973,
+    "place_id": "ChIJwaiC3NlJmzkRNhsX8Uc4XDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaiC3NlJmzkRNhsX8Uc4XDU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:27:29"
+  },
+  {
+    "business_name": "Guddu bhai Singh",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "212658",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P459+4V, Qasba Sohan, Uttar Pradesh 212655",
+    "area": "212658",
+    "latitude": 25.7078508,
+    "longitude": 81.1196458,
+    "place_id": "ChIJFzwGRQBBmzkREBUsbwuxzsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzwGRQBBmzkREBUsbwuxzsM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:27:32"
+  }
+]

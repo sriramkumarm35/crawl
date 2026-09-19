@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem Guest House",
+    "search_category": "PG",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "212655",
+    "phone_number": "+91 94517 68003",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 122,
+    "address": "Q497+HPG Gupta Polyclinic, G T Road, Manu Ka Purwa, Near to, Khaga, Uttar Pradesh 212655",
+    "area": "Near to",
+    "latitude": 25.7689448,
+    "longitude": 81.1143428,
+    "place_id": "ChIJxxDz_NVBmzkRs_8NWbiVNSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxDz_NVBmzkRs_8NWbiVNSM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:49"
+  },
+  {
+    "business_name": "Amar Shaheed Pg College",
+    "search_category": "PG",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "212655",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "P3VP+72G, Kishanpur Rd, Hardoan, Uttar Pradesh 212655",
+    "area": "212655",
+    "latitude": 25.7431798,
+    "longitude": 81.0850883,
+    "place_id": "ChIJk7bhPFhBmzkR-6m-WxW9ZkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7bhPFhBmzkR-6m-WxW9ZkU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:21:49"
+  }
+]

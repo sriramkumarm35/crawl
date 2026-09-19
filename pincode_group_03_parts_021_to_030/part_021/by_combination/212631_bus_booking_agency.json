@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travanka Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "212631",
+    "phone_number": "+91 78170 61064",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 1 GROUND FLOOR, RAMTALI MOD, Kora Jahanabad, Jahanabad, Uttar Pradesh 212659",
+    "area": "RAMTALI MOD",
+    "latitude": 26.1046427,
+    "longitude": 80.3574414,
+    "place_id": "ChIJq6qqqq9YnDkRSgx1aZ7OQjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqq9YnDkRSgx1aZ7OQjE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:05:16"
+  },
+  {
+    "business_name": "Bus stand Surauli Bujurg",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "212631",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "V8J3+JHX, Surauli Buzurg Danda, Uttar Pradesh 210502",
+    "area": "212631",
+    "latitude": 25.882089,
+    "longitude": 80.3033236,
+    "place_id": "ChIJKajL6NrvnDkRaMQ6yOscsE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKajL6NrvnDkRaMQ6yOscsE4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:05:18"
+  }
+]

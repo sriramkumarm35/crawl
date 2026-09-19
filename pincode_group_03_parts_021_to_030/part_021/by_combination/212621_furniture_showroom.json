@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "212621",
+    "phone_number": "+91 81141 45890",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Andauli Road, Nahar Road, Brajlal Nagar, Ramwa Panthuwa, Fatehpur, Uttar Pradesh 212601",
+    "area": "Radha Nagar, Brajlal Nagar, Harihar Ganj",
+    "latitude": 25.8985757,
+    "longitude": 80.79545949999999,
+    "place_id": "ChIJixEQ_wGdnDkRtdefW_a6aoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixEQ_wGdnDkRtdefW_a6aoM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:49"
+  },
+  {
+    "business_name": "Aarvi furnitures & electronics shop",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Furniture maker",
+    "pincode": "212621",
+    "phone_number": "+91 90442 71301",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "pratap nagar, Bahua, Bahuwa Rural, Uttar Pradesh 212663",
+    "area": "pratap nagar",
+    "latitude": 25.8475398,
+    "longitude": 80.6346142,
+    "place_id": "ChIJba4z6lORnDkRIe9KNuCSAWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJba4z6lORnDkRIe9KNuCSAWo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "212651",
+    "phone_number": "+91 83037 76258",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Dalmau Rd, Dalmau, Uttar Pradesh 229203",
+    "area": "212651",
+    "latitude": 26.0717352,
+    "longitude": 81.0407278,
+    "place_id": "ChIJryQRR6h3mzkRoXUj0V7Kzw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryQRR6h3mzkRoXUj0V7Kzw8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:13:52"
+  },
+  {
+    "business_name": "Anuj Kumar SO Murlidhar",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "212651",
+    "phone_number": "+91 91700 35016",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 7,
+    "address": "Saidapur, Musapur, Uttar Pradesh 229216",
+    "area": "212651",
+    "latitude": 26.0893643,
+    "longitude": 80.89256879999999,
+    "place_id": "ChIJ_52FOTF_mzkRuTemo7OtQ4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_52FOTF_mzkRuTemo7OtQ4o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:13:52"
+  }
+]

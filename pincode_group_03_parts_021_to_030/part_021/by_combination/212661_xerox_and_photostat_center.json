@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam Computers And Photocopy Center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Internet cafe",
+    "pincode": "212661",
+    "phone_number": "+91 81152 44713",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vill Sidhaon Post Sidhaon Dist, Fatehpur Banda Sagar Road, Sidhaon, Uttar Pradesh 212663",
+    "area": "Sidhaon",
+    "latitude": 25.811566199999998,
+    "longitude": 80.6243573,
+    "place_id": "ChIJVQ8cE0KXnDkRqpJp8GbrSAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQ8cE0KXnDkRqpJp8GbrSAI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:30:53"
+  },
+  {
+    "business_name": "Sanjay Photocopy",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop, Payphone",
+    "pincode": "212661",
+    "phone_number": "+91 99931 34849",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 7,
+    "address": "6JR9+V2V, Near Vivekanda Ashram, Great Eastern Rd, Raipur, Chhattisgarh 492001",
+    "area": "212661",
+    "latitude": 21.242242899999997,
+    "longitude": 81.617554,
+    "place_id": "ChIJyfd_e8LdKDoR-PLvvUsCgB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfd_e8LdKDoR-PLvvUsCgB0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:30:55"
+  }
+]

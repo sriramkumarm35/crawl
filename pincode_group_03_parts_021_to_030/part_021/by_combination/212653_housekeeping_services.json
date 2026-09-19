@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "C3TS HOUSEKEEPING",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "212653",
+    "phone_number": "+91 75984 68484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9th street, Thanthai Periyar Nagar, Karaikudi, Kalanivasal, Tamil Nadu 630002",
+    "area": "Thanthai Periyar Nagar",
+    "latitude": 10.0946643,
+    "longitude": 78.7775403,
+    "place_id": "ChIJZwDnQ_BnADsRtw7tHUlU11k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwDnQ_BnADsRtw7tHUlU11k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:35"
+  },
+  {
+    "business_name": "Umesh Chandra Bartan Bhandar",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler",
+    "pincode": "212653",
+    "phone_number": "+91 91183 42732",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hathgaon Rd, near kapoor hotel, Shahpur, Uttar Pradesh 212652",
+    "area": "212653",
+    "latitude": 25.8513377,
+    "longitude": 81.1479828,
+    "place_id": "ChIJR429qaxrmzkREzHC-DWqTq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR429qaxrmzkREzHC-DWqTq8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:18:35"
+  }
+]

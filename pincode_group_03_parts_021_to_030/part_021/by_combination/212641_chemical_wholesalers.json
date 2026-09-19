@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shantanu Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Convenience store, Supplier, Store, Manufacturer",
+    "pincode": "212641",
+    "phone_number": "+91 70306 78780",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 87,
+    "address": "Patel complex, near Bohra masjid, Resham Oli, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Resham Oli, Itwari",
+    "latitude": 21.155666399999998,
+    "longitude": 79.10812659999999,
+    "place_id": "ChIJDZRqGc3A1DsRZ19nOFyC9Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZRqGc3A1DsRZ19nOFyC9Js",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:09:42"
+  },
+  {
+    "business_name": "K U S B Loharpur Fatehpur Uttar pardesh",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "212641",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H4RM+4WC, Loharpur, Uttar Pradesh 212656",
+    "area": "212641",
+    "latitude": 25.5903077,
+    "longitude": 81.1347756,
+    "place_id": "ChIJt58hGQBHmzkRWeCj0nWAQ3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt58hGQBHmzkRWeCj0nWAQ3w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:09:42"
+  }
+]

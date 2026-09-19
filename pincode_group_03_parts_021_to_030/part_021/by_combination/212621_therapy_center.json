@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bai therapy kendra",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212621",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VQ9W+WFX, Baranpur, Uttar Pradesh 212601",
+    "area": "212621",
+    "latitude": 25.869854699999998,
+    "longitude": 80.7962288,
+    "place_id": "ChIJa8qHjUednDkRPDI64CSt_P8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8qHjUednDkRPDI64CSt_P8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:56"
+  },
+  {
+    "business_name": "Parwarish Health Care and Therapy centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "212621",
+    "phone_number": "+91 91150 30171",
+    "website": "http://www.parwarishaapki.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Girant, Ramapur, bhiti, Uttar Pradesh 224231",
+    "area": "212621",
+    "latitude": 26.4152933,
+    "longitude": 82.28834169999999,
+    "place_id": "ChIJbRDrfN-dkDkR9Zkdhlvogqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRDrfN-dkDkR9Zkdhlvogqk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:01:58"
+  }
+]

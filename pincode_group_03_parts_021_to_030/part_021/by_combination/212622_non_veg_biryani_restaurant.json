@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tulshi 24hours restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Fast food restaurant",
+    "pincode": "212622",
+    "phone_number": "+91 91409 33723",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nh2, Khaga, Sangrampur Sani, Uttar Pradesh 212655",
+    "area": "212622",
+    "latitude": 25.7837073,
+    "longitude": 81.09528689999999,
+    "place_id": "ChIJL3TXcQBrmzkRzVIMyDrIxGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3TXcQBrmzkRzVIMyDrIxGw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:55"
+  },
+  {
+    "business_name": "A-1 China Town",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "212622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 137,
+    "address": "WRM9+PPF, Lucknow Road, Bakargunj, in front of Bardahi Bazar, Fatehpur, Uttar Pradesh 212601",
+    "area": "Baqar Ganj, Maswani",
+    "latitude": 25.934302499999998,
+    "longitude": 80.8193048,
+    "place_id": "ChIJC9RtxKB9mzkR08Iqg45HqyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9RtxKB9mzkR08Iqg45HqyM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:55"
+  }
+]

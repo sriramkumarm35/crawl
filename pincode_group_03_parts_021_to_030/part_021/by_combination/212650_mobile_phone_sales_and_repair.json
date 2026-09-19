@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heaven Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "212650",
+    "phone_number": "+91 88932 07331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pravachambalam - Ooruttambalam Rd, Naruvamoodu, Pallichal, Keralam 695528",
+    "area": "212650",
+    "latitude": 8.4503668,
+    "longitude": 77.0326509,
+    "place_id": "ChIJTacAsF9TBDsR9FosogCoW2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTacAsF9TBDsR9FosogCoW2E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:13:06"
+  },
+  {
+    "business_name": "Andropple",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Phone repair service, Repair service",
+    "pincode": "212650",
+    "phone_number": "+91 90746 90966",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "vetturoad, Kazhakkoottam, Kaniyapuram, Keralam 695582",
+    "area": "vetturoad",
+    "latitude": 8.580867,
+    "longitude": 76.8639025,
+    "place_id": "ChIJl8Z1oHu_BTsRlDIsfLwiS_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8Z1oHu_BTsRlDIsfLwiS_s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:13:06"
+  }
+]

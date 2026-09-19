@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai resorts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212622",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q4G5+C5R, Gopalpur, Uttar Pradesh 212655",
+    "area": "212622",
+    "latitude": 25.776103799999998,
+    "longitude": 81.1078776,
+    "place_id": "ChIJESbpWwBrmzkRhq5BLZC1yxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESbpWwBrmzkRhq5BLZC1yxk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:50"
+  },
+  {
+    "business_name": "White House Hotel And Family Dhaba,Sujrahi khaga Fatehpur",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "212622",
+    "phone_number": "+91 73100 60122",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sujrahi, NH2, Khaga, Uttar Pradesh 212655",
+    "area": "212622",
+    "latitude": 25.7664887,
+    "longitude": 81.1219048,
+    "place_id": "ChIJjcnr9AlBmzkR5ti2V8EFwTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcnr9AlBmzkR5ti2V8EFwTI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:03:50"
+  }
+]

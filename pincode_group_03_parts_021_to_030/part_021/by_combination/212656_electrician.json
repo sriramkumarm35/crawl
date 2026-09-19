@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Electronic",
+    "search_category": "Electrician",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Service establishment",
+    "pincode": "212656",
+    "phone_number": "+91 63940 25170",
+    "website": "https://tajelectricalsolutions.online/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Taj Electronic, 212656, India",
+    "area": "212656",
+    "latitude": 25.8415018,
+    "longitude": 81.07275,
+    "place_id": "ChIJBWnvEUFHmzkRqTRvmWH5LUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWnvEUFHmzkRqTRvmWH5LUw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:23"
+  },
+  {
+    "business_name": "Vishwakarma Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electric motor store",
+    "all_categories": "Electric motor store",
+    "pincode": "212656",
+    "phone_number": "+91 96218 88326",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Keshawraipur Kewatmai, Khaga, Kabra, Uttar Pradesh 212656",
+    "area": "212656",
+    "latitude": 25.559903199999997,
+    "longitude": 81.1416691,
+    "place_id": "ChIJ92aZDQ9JmzkR6Zl6i5VXiu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92aZDQ9JmzkR6Zl6i5VXiu4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:23:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirag Apparels",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing manufacturer, Tailor",
+    "pincode": "212641",
+    "phone_number": "+91 75586 67235",
+    "website": "http://www.chiragapparels.in/",
+    "rating": 4,
+    "reviews_count": 27,
+    "address": "K K Service Apartment, Teka Naka Kamptee Rd, opposite Nari metro station, Bank Colony, Nagpur, Maharashtra 440026",
+    "area": "Bank Colony",
+    "latitude": 21.179477,
+    "longitude": 79.1092948,
+    "place_id": "ChIJd4K3NNbH1DsR5vMmoEe0tII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4K3NNbH1DsR5vMmoEe0tII",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:33"
+  },
+  {
+    "business_name": "Ambika Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "212641",
+    "phone_number": "+91 93723 11299",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 114,
+    "address": "Plot no, 20, W High Ct Rd, Surendra Nagar, Laxminagar, Nagpur, Maharashtra 440015",
+    "area": "Surendra Nagar, Laxminagar",
+    "latitude": 21.1179711,
+    "longitude": 79.0645124,
+    "place_id": "ChIJ4bUEKIC_1DsRR5jbZ5HtRyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bUEKIC_1DsRR5jbZ5HtRyw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:08:33"
+  }
+]

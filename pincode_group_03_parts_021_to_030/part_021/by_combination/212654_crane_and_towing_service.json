@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Towing bros",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "212654",
+    "phone_number": "N/A",
+    "website": "http://www.towingbros.co.za/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Towing bros, 212654, India",
+    "area": "212654",
+    "latitude": -26.2226899,
+    "longitude": 27.646970099999997,
+    "place_id": "ChIJBa21TSmCvoQR8XKYp6ulL4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBa21TSmCvoQR8XKYp6ulL4I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:40"
+  },
+  {
+    "business_name": "Mahadev Crain Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "212654",
+    "phone_number": "+91 91665 61111",
+    "website": "https://mhahadevcraneservices.in/",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "Krishna Nagar, Jodhpur, Rajasthan 342001",
+    "area": "Krishna Nagar",
+    "latitude": 26.227698399999998,
+    "longitude": 73.0256031,
+    "place_id": "ChIJfyChDJWLQTkRxJOBNnS6fNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyChDJWLQTkRxJOBNnS6fNI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavya physiotherapy center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "212651",
+    "phone_number": "+91 97927 96724",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dalmau Rd, near Punjab National bank, Murai Bagh, Dalmau, Uttar Pradesh 229207",
+    "area": "Murai Bagh",
+    "latitude": 26.0709724,
+    "longitude": 81.0391878,
+    "place_id": "ChIJh8eCajh3mzkR6oQs_wwMjl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8eCajh3mzkR6oQs_wwMjl8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:14:33"
+  },
+  {
+    "business_name": "Viraj Physiotherapy & rehabilitation center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "212651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "WRH2+R99, kachehri road, VIDYARTHI CHAURAHA, North Civil Line, Civil Lines, Fatehpur, Uttar Pradesh 212601",
+    "area": "VIDYARTHI CHAURAHA, North Civil Line, Civil Lines",
+    "latitude": 25.9295272,
+    "longitude": 80.80097479999999,
+    "place_id": "ChIJl2MNnNadnDkRVLqW-1p_ml4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2MNnNadnDkRVLqW-1p_ml4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:14:34"
+  }
+]

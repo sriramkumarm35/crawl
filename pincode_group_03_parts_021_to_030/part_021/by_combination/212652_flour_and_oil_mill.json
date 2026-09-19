@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "212652",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH-38, bhaguatipur, Kajiyana, Uttar Pradesh 229204",
+    "area": "bhaguatipur",
+    "latitude": 25.9791527,
+    "longitude": 81.2132827,
+    "place_id": "ChIJX7A2gSANmzkRwsol2oB04Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7A2gSANmzkRwsol2oB04Po",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:16:56"
+  },
+  {
+    "business_name": "Seksaria Sugar Factory Ltd, Biswan UP",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Sugar factory",
+    "all_categories": "Sugar factory, Mill",
+    "pincode": "212652",
+    "phone_number": "+91 5863 233 166",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sidhauli Rd, Biswan, Uttar Pradesh 261201",
+    "area": "212652",
+    "latitude": 27.486035899999997,
+    "longitude": 80.9929614,
+    "place_id": "ChIJJ-C_UHolmTkR4oa5fETRgHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-C_UHolmTkR4oa5fETRgHA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:16:57"
+  }
+]

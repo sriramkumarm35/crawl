@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvan Kumar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212622",
+    "phone_number": "+91 95554 82180",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sato Sultanpur, Naraini Rd, Sato Joga, Uttar Pradesh 212622",
+    "area": "212622",
+    "latitude": 25.7673889,
+    "longitude": 80.9848538,
+    "place_id": "ChIJ1_nQD51nmzkRsTc4opRxbx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_nQD51nmzkRsTc4opRxbx8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:46"
+  },
+  {
+    "business_name": "Shiva Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "212622",
+    "phone_number": "+91 70803 04300",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shiva Sahay Ashothar, Road, Bindki, Uttar Pradesh 212622",
+    "area": "212622",
+    "latitude": 25.8239548,
+    "longitude": 80.9776098,
+    "place_id": "ChIJZwf28atnmzkRP4GtOpZHyB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwf28atnmzkRP4GtOpZHyB8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:02:46"
+  }
+]

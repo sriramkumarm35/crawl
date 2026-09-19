@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Cool Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "212654",
+    "phone_number": "+91 91666 99958",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Front of anselam school, Ricco Colony, Abu Road, Rajasthan 307026",
+    "area": "Ricco Colony",
+    "latitude": 24.461657499999998,
+    "longitude": 72.7703147,
+    "place_id": "ChIJL6VIfRQnXTkRpnlWI4iMxlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6VIfRQnXTkRpnlWI4iMxlk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:48"
+  },
+  {
+    "business_name": "VINAYAK REFRIGERATION",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "212654",
+    "phone_number": "+91 94130 73045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "First Floor, New Market, Biraniya, Fatehpur, Rajasthan 332301",
+    "area": "Biraniya",
+    "latitude": 27.994910299999997,
+    "longitude": 74.96163709999999,
+    "place_id": "ChIJDdjmmLmpFDkRj5AyjsDszkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdjmmLmpFDkRj5AyjsDszkQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:49"
+  }
+]

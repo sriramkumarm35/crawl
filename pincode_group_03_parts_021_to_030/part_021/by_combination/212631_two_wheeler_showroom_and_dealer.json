@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachan Motors",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "212631",
+    "phone_number": "+91 96513 57585",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "4922+688 Main Chauraha, Jahanabad - Sathigawan Rd, Jahanabad, Uttar Pradesh 212659",
+    "area": "212631",
+    "latitude": 26.1005249,
+    "longitude": 80.3508401,
+    "place_id": "ChIJA70BQ6dZnDkR83DmkmKV75s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA70BQ6dZnDkR83DmkmKV75s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:05:13"
+  },
+  {
+    "business_name": "Dayal Moters",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "212631",
+    "phone_number": "+91 99358 17034",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Chauraha,NearLaxmi Electronics Hall Kanpur, Damodar Nagar, Kanpur, Uttar Pradesh 208027",
+    "area": "Damodar Nagar",
+    "latitude": 26.421584,
+    "longitude": 80.30708899999999,
+    "place_id": "ChIJaXUnH7NHnDkR6SRE9NElLYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXUnH7NHnDkR6SRE9NElLYs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:05:14"
+  }
+]

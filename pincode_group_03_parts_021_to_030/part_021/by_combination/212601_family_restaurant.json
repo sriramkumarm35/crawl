@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahendra Continental Hotel Banquet Hall & Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Family restaurant",
+    "pincode": "212601",
+    "phone_number": "+91 99845 75050",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "WRC7+VM7, Krishna Bihari Nagar, Fatehpur, Uttar Pradesh 212601",
+    "area": "Krishna Bihari Nagar",
+    "latitude": 25.9219062,
+    "longitude": 80.81235629999999,
+    "place_id": "ChIJowufI6dimzkRdfsyXX7vYZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowufI6dimzkRdfsyXX7vYZI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:57:29"
+  },
+  {
+    "business_name": "Butterfly Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "212601",
+    "phone_number": "+91 90050 09457",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "83 g, near Awas Vikas, Pattharkata Chauraha, petroleum, Civil Lines, Fatehpur, Uttar Pradesh 212601",
+    "area": "Pattharkata Chauraha, petroleum, Civil Lines",
+    "latitude": 25.9328607,
+    "longitude": 80.8031666,
+    "place_id": "ChIJoSH2OdqdnDkRMo4sZ2GKi1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSH2OdqdnDkRMo4sZ2GKi1A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:57:30"
+  }
+]

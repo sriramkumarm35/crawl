@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shiv Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "212620",
+    "phone_number": "+91 93077 77908",
+    "website": "http://hotelshivpalace.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "GT Rd, near laxmi takies, Chowk, Fatehpur, Uttar Pradesh 212601",
+    "area": "Chowk",
+    "latitude": 25.9302533,
+    "longitude": 80.8202577,
+    "place_id": "ChIJY_D7Mq5imzkRqf7rZLW4i_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_D7Mq5imzkRqf7rZLW4i_0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:00:09"
+  },
+  {
+    "business_name": "SPOT ON 49043 Hotel Silver Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "212620",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/79056",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "75, Mughal Rd, Bindki, Uttar Pradesh 212635",
+    "area": "212620",
+    "latitude": 26.035162,
+    "longitude": 80.5776874,
+    "place_id": "ChIJFzB3niSJnDkRwzOILWj5mqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzB3niSJnDkRwzOILWj5mqs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:00:12"
+  }
+]

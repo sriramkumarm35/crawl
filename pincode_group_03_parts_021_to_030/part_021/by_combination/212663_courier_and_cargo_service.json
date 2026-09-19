@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leopards Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "212663",
+    "phone_number": "0300 8765522",
+    "website": "https://couriers.net.pk/leopard-tracking/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Mianwali Road, Fatehpur, Pakistan",
+    "area": "212663",
+    "latitude": 31.182136999999997,
+    "longitude": 71.2096143,
+    "place_id": "ChIJPS0eTmJNJDkRCOtfafEP7uU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPS0eTmJNJDkRCOtfafEP7uU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:32:52"
+  },
+  {
+    "business_name": "Super Courier & Cargo Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "212663",
+    "phone_number": "+91 82099 55696",
+    "website": "https://owncouriers.blogspot.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indra colony, behind govt. hospital, Dholpur, Rajasthan 328001",
+    "area": "Madina Colony",
+    "latitude": 26.6902184,
+    "longitude": 77.900682,
+    "place_id": "ChIJaa99GXz_czkRCuuUfS75HEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaa99GXz_czkRCuuUfS75HEI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:32:52"
+  }
+]

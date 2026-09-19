@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Goldsmith",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Service establishment",
+    "pincode": "212654",
+    "phone_number": "+91 80525 80758",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Aman Goldsmith, 212654, India",
+    "area": "212654",
+    "latitude": 27.3812152,
+    "longitude": 79.592117,
+    "place_id": "ChIJ19k1zr8xnjkRp4huf_yZq0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19k1zr8xnjkRp4huf_yZq0g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:18"
+  },
+  {
+    "business_name": "R.K. Laser Soldering Jewellery Repair Centre",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "212654",
+    "phone_number": "+91 95555 59509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rikabganj, Faizabad, Uttar Pradesh 224001",
+    "area": "Rikabganj",
+    "latitude": 26.7818696,
+    "longitude": 82.1504516,
+    "place_id": "ChIJlaPXX8YHmjkRwKUtgs2xs-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlaPXX8YHmjkRwKUtgs2xs-Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:19:19"
+  }
+]

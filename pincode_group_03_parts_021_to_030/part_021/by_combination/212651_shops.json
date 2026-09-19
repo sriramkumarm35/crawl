@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VINAY MOBILE SHOP",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "212651",
+    "phone_number": "+91 96213 02223",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Road, Saatmeel Tiraha, Lucknow, Pahli Chhichhu, Uttar Pradesh 212651",
+    "area": "Saatmeel Tiraha",
+    "latitude": 25.987069599999998,
+    "longitude": 80.910556,
+    "place_id": "ChIJ3YYeXXd7mzkRhM8kQ8c_Rdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YYeXXd7mzkRhM8kQ8c_Rdw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:15:21"
+  },
+  {
+    "business_name": "Pal medical store",
+    "search_category": "Shops",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "212651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2W2P+62Q, Husainganj, Uttar Pradesh 212651",
+    "area": "212651",
+    "latitude": 26.000649,
+    "longitude": 80.9351501,
+    "place_id": "ChIJg6Xcfnp7mzkRB4By-jBfWO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6Xcfnp7mzkRB4By-jBfWO4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:15:21"
+  }
+]

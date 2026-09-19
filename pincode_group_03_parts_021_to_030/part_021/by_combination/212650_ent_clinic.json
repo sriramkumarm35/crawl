@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/S Apollo ENT Hospital (Jodhpur)",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Surgical oncologist",
+    "pincode": "212650",
+    "phone_number": "+91 74259 55641",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tiwari Tower, near Passport Office, above ICICI Bank, Jodhpur, Rajasthan 342001",
+    "area": "Milkman Colony",
+    "latitude": 26.2618075,
+    "longitude": 72.9894681,
+    "place_id": "ChIJj7EXMkWPQTkRP8sF2emjXU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7EXMkWPQTkRP8sF2emjXU0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:19"
+  },
+  {
+    "business_name": "NIRAMAYA ENT",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "212650",
+    "phone_number": "+91 98071 51884",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NIRAMAYA ENT, Kanpur Rd, beside Canara bank, Rana Nagar, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "Rana Nagar, PNT Colony",
+    "latitude": 26.2235797,
+    "longitude": 81.22732839999999,
+    "place_id": "ChIJDRAyqXChmzkR3BH0gRSSsdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRAyqXChmzkR3BH0gRSSsdM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 11:12:19"
+  }
+]

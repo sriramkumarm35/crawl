@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K-Sign Concepts",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certification agency",
+    "all_categories": "Certification agency, Business to business service, Software company",
+    "pincode": "212503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 35,
+    "address": "M54, Pooth Kalan, Rohini, Delhi, 110086",
+    "area": "Pooth Kalan, Rohini",
+    "latitude": 28.708302,
+    "longitude": 77.0787647,
+    "place_id": "ChIJAQAAwKEGDTkR71P75AH5fko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwKEGDTkR71P75AH5fko",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:05"
+  },
+  {
+    "business_name": "Audit officer R.K.Yadav",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "212503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QP2X+FC9, Singarpur, kunda, Chakwar, Uttar Pradesh 230402",
+    "area": "kunda",
+    "latitude": 25.7511647,
+    "longitude": 81.7486198,
+    "place_id": "ChIJ6VACJADDmjkRQRSECt_mTC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VACJADDmjkRQRSECt_mTC4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 10:55:06"
+  }
+]
