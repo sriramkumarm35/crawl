@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "224152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "CG8H+QPC, SH 9A, Ahalada, Akbarpur, Fatehpur Pakari, Uttar Pradesh 224122",
+    "area": "Ahalada",
+    "latitude": 26.4169366,
+    "longitude": 82.5292509,
+    "place_id": "ChIJm5bfaaKTkDkRitTV39Qn7bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5bfaaKTkDkRitTV39Qn7bk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:21:30"
+  },
+  {
+    "business_name": "Star Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "224152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 27,
+    "address": "8P6Q+FFW, Jalalpur, Uttar Pradesh 224149",
+    "area": "224152",
+    "latitude": 26.3112425,
+    "longitude": 82.7387014,
+    "place_id": "ChIJgZ1xauH5kDkROuTyVdKjLgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ1xauH5kDkROuTyVdKjLgw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:21:30"
+  }
+]

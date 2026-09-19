@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Future Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "224121",
+    "phone_number": "+91 95828 10841",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Amarganj, Milkipur, Manoodih, Uttar Pradesh 224164",
+    "area": "Amarganj",
+    "latitude": 26.6210347,
+    "longitude": 81.8428832,
+    "place_id": "ChIJRwyQXrY_mjkRBmIDWtva3mY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwyQXrY_mjkRBmIDWtva3mY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:47:26"
+  },
+  {
+    "business_name": "Ravi Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer training school",
+    "pincode": "224121",
+    "phone_number": "+91 88961 61132",
+    "website": "http://www.mdeg.org/",
+    "rating": 4.9,
+    "reviews_count": 162,
+    "address": "Milkipur, Ajrauli, Uttar Pradesh 224164",
+    "area": "224121",
+    "latitude": 26.5941963,
+    "longitude": 81.9045376,
+    "place_id": "ChIJVVVVlR8VmjkRxKuBi0xPUZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlR8VmjkRxKuBi0xPUZA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:47:26"
+  }
+]

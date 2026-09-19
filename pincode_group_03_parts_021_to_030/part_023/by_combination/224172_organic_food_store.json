@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Terra EarthFood Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Bakery and Cake Shop, Gourmet grocery store, Health food store, Produce market",
+    "pincode": "224172",
+    "phone_number": "+91 91763 91723",
+    "website": "https://www.terraearthfood.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "59/20, Thirumalai Pillai Rd, opp. Vidhyodhaya School, Darmapuram, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Darmapuram, T. Nagar",
+    "latitude": 13.0509366,
+    "longitude": 80.2403094,
+    "place_id": "ChIJCU3gQIpnUjoRakzFCEEHRdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCU3gQIpnUjoRakzFCEEHRdk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:39:12"
+  },
+  {
+    "business_name": "ARYAVARTA ORGANICS PRIVATE LIMITED (Induz Organic)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Food manufacturer, Organic farm",
+    "pincode": "224172",
+    "phone_number": "+91 87692 78980",
+    "website": "https://induzorganic.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "OLD MILL, OPP. JAGATPURA RAILWAY STATION, MAIN MARKET, JAGATPURA JAIPUR 302017 Contact No. +918769278980, Rajasthan 302017",
+    "area": "Mayapuri, Jagatpura",
+    "latitude": 26.835450899999998,
+    "longitude": 75.8318879,
+    "place_id": "ChIJpWQbLtu3bTkRzglQIqahfkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpWQbLtu3bTkRzglQIqahfkA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:39:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Terra Investment",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "224137",
+    "phone_number": "+91 77788 80428",
+    "website": "https://terrainvestment.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kohinoor Square, 1002, N C. Kelkar Marg, Dadar West, Shivaji Park, Mumbai, Maharashtra 400028",
+    "area": "Dadar West, Shivaji Park",
+    "latitude": 19.0249584,
+    "longitude": 72.8409452,
+    "place_id": "ChIJl2vPbuAG0m4RUhCuiBZzlVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2vPbuAG0m4RUhCuiBZzlVI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:06:19"
+  },
+  {
+    "business_name": "BlueChip Brokerage Pvt. Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "224137",
+    "phone_number": "N/A",
+    "website": "http://www.bluechip88.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BlueChip Brokerage Pvt. Ltd., 224137, India",
+    "area": "224137",
+    "latitude": 28.397454999999997,
+    "longitude": 84.1301506,
+    "place_id": "ChIJA5h9aYZ7m6sRzs3r-RILBSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5h9aYZ7m6sRzs3r-RILBSA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:06:20"
+  }
+]

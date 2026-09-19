@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayodhya Trip Planners",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Aircraft Rental Agency, Auto auction, Auto upholsterer, Boat tour agency, Group home, Hindu temple, Tour operator, Travel agency, Van rental agency",
+    "pincode": "224127",
+    "phone_number": "+91 78004 39898",
+    "website": "https://www.ayodhyatripplanners.com/",
+    "rating": 5,
+    "reviews_count": 160,
+    "address": "Gate No. 1, Transport Nagar, Near, Ayodhya - Lucknow Rd, near RTO Office, Naka, Transport Nagar, Muzzafra, Faizabad, Uttar Pradesh 224001",
+    "area": "Naka, Transport Nagar",
+    "latitude": 26.7580659,
+    "longitude": 82.124631,
+    "place_id": "ChIJ_4F6fkD5mzkRBmXvjmBD7PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4F6fkD5mzkRBmXvjmBD7PA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:56:12"
+  },
+  {
+    "business_name": "Saurabh Taxi Lucknow",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Travel agency",
+    "pincode": "224127",
+    "phone_number": "+91 91401 71021",
+    "website": "https://saurabhcab.indibyte.com/",
+    "rating": 5,
+    "reviews_count": 319,
+    "address": "sulabh Awas, C11/12, Sector 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 1, Gomti Nagar",
+    "latitude": 26.837620299999998,
+    "longitude": 80.9994068,
+    "place_id": "ChIJJ8sVxaDjmzkRnxZixA-mpqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8sVxaDjmzkRnxZixA-mpqg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:56:13"
+  }
+]

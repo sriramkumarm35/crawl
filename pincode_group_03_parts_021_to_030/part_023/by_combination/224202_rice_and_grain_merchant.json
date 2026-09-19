@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaval hi chaval",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Gourmet grocery store, Rice wholesaler",
+    "pincode": "224202",
+    "phone_number": "+91 98961 16065",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near fountain chowk, East Bhatia Nagar, Yamuna Nagar, Haryana 135001",
+    "area": "East Bhatia Nagar",
+    "latitude": 30.129222199999997,
+    "longitude": 77.29165379999999,
+    "place_id": "ChIJ77RDHwD7DjkRHU98uE5gFD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77RDHwD7DjkRHU98uE5gFD8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:15"
+  },
+  {
+    "business_name": "JAY KARAN & SONS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "224202",
+    "phone_number": "+91 522 235 5591",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "93A, GURU KRIPA TOWER, Faizabad Rd, Laxmanpuri Gate, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Laxmanpuri Gate, Indira Nagar",
+    "latitude": 26.868330699999998,
+    "longitude": 80.9817293,
+    "place_id": "ChIJdYa1-fokmjkRZewYvN50o0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYa1-fokmjkRZewYvN50o0U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:17"
+  }
+]

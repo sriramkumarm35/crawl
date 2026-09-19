@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Buds Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "224201",
+    "phone_number": "+91 93197 04348",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop, Shop No. 5, Meedo Arcade, 28, Near Ganpati Sweet, Rajpur Rd, Dehradun, Uttarakhand 248001",
+    "area": "Bhel Chowk, Karanpur",
+    "latitude": 30.334966899999998,
+    "longitude": 78.0537646,
+    "place_id": "ChIJlYhVB9ApCTkRE5js6d9u1dY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYhVB9ApCTkRE5js6d9u1dY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:58:25"
+  },
+  {
+    "business_name": "My Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Dried flower shop, Gift shop",
+    "pincode": "224201",
+    "phone_number": "+91 99350 35696",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 18,
+    "address": "118 614, near Sanatan Dharam Mandir Building, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Kaushalpuri, Darshan Purwa",
+    "latitude": 26.4701693,
+    "longitude": 80.31199819999999,
+    "place_id": "ChIJ571kmoJHnDkRNFbDXgZCy34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ571kmoJHnDkRNFbDXgZCy34",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:58:26"
+  }
+]

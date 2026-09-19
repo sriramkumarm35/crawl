@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krish's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Cafeteria",
+    "pincode": "224195",
+    "phone_number": "+91 97483 66678",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Rakhaldas Market, Shyampur, Narikelabar, West Bengal 711314",
+    "area": "224195",
+    "latitude": 22.2962016,
+    "longitude": 88.02975789999999,
+    "place_id": "ChIJX_Yp5faNAjoRUgbBtbVJzhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_Yp5faNAjoRUgbBtbVJzhg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:55:49"
+  },
+  {
+    "business_name": "HAV Stories Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant",
+    "pincode": "224195",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "near madhur green villa, MDA Colony, parampara 1, Ram Ganga Vihar Phase 2, Moradabad, Uttar Pradesh 244105",
+    "area": "MDA Colony, parampara 1, Ram Ganga Vihar Phase 2",
+    "latitude": 28.8714254,
+    "longitude": 78.754763,
+    "place_id": "ChIJGSQbbxH7CjkRlHSn_CJBQ3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSQbbxH7CjkRlHSn_CJBQ3w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:55:50"
+  }
+]

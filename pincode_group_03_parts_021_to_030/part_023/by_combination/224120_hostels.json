@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "224120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Canal Road, Juggaur, Uttar Pradesh 226028",
+    "area": "224120",
+    "latitude": 26.8749206,
+    "longitude": 81.093172,
+    "place_id": "ChIJKQ97oyXhmzkRsqCvyRglEaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQ97oyXhmzkRsqCvyRglEaU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:30"
+  },
+  {
+    "business_name": "om sai ram boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "224120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ganeshpur Rahmanpur, Uttar Pradesh 226028",
+    "area": "224120",
+    "latitude": 26.8915625,
+    "longitude": 81.0560625,
+    "place_id": "ChIJT8VCXfpZmTkRrBbk5S_v6K4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT8VCXfpZmTkRrBbk5S_v6K4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:30"
+  }
+]

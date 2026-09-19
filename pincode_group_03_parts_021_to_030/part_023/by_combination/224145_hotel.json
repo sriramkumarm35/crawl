@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO Pushpanjali",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "224145",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/223900/",
+    "rating": 3.6,
+    "reviews_count": 114,
+    "address": "Gate No. 2, in front of NTPC colony, Vidyut Nagar, Tanda, Meeranpur Sadar Ali, Uttar Pradesh 224145",
+    "area": "Vidyut Nagar",
+    "latitude": 26.594337499999998,
+    "longitude": 82.58212,
+    "place_id": "ChIJHbJ1xQXrkDkRJZcVd-1c-iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbJ1xQXrkDkRJZcVd-1c-iU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:13:07"
+  },
+  {
+    "business_name": "HOTEL PUSHPANJALI",
+    "search_category": "Hotel",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "224145",
+    "phone_number": "+91 87650 13723",
+    "website": "https://www.nisthagroupofhotelsandresort.in/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Gate No.2, Tanda - Maya Rd, in front of NTPc Colony, Ambedkarnagar, Tanda, Meeranpur Sadar Ali, Uttar Pradesh 224238",
+    "area": "Ambedkarnagar",
+    "latitude": 26.595516399999998,
+    "longitude": 82.5805226,
+    "place_id": "ChIJlauJ3RfrkDkRvLEy3-ntQyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlauJ3RfrkDkRvLEy3-ntQyM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:13:07"
+  }
+]

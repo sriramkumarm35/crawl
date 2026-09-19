@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Public Medical Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "224195",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H66G+V7X, Netwari, Uttar Pradesh 224203",
+    "area": "224195",
+    "latitude": 26.5622357,
+    "longitude": 82.2257467,
+    "place_id": "ChIJ76vZ4eefkDkR2D7GCGgpqnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76vZ4eefkDkR2D7GCGgpqnk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:56:07"
+  },
+  {
+    "business_name": "Kartik Medical Store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "224195",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J75V+HWM, Bhoya, Uttar Pradesh 224161",
+    "area": "224195",
+    "latitude": 26.6089743,
+    "longitude": 82.2948251,
+    "place_id": "ChIJLXjaWwChkDkRZwhofHU6Cog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXjaWwChkDkRZwhofHU6Cog",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:56:07"
+  }
+]

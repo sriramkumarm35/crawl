@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAGARIKA",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "224152",
+    "phone_number": "+91 62972 40377",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sivlipur sivlipur, Ranepur Grint, Uttar Pradesh 224157",
+    "area": "224152",
+    "latitude": 26.546245499999998,
+    "longitude": 82.38992689999999,
+    "place_id": "ChIJeRjvyHyXkDkRzKuxl3rEAEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRjvyHyXkDkRzKuxl3rEAEc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:21:51"
+  },
+  {
+    "business_name": "Oranz Body Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa, Spa and health club",
+    "pincode": "224152",
+    "phone_number": "+91 88900 08376",
+    "website": "http://oranzbodyspa.com/",
+    "rating": 4.9,
+    "reviews_count": 205,
+    "address": "scheme no.16, Royal reduman, First floor, Plot no.193, Gandhi Path Rd, Girnar Colony, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Girnar Colony, Girnar Colony South, Vaishali Nagar",
+    "latitude": 26.9055434,
+    "longitude": 75.741884,
+    "place_id": "ChIJC1fuSQC1bTkRPXRNgSgzeuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1fuSQC1bTkRPXRNgSgzeuU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:21:52"
+  }
+]

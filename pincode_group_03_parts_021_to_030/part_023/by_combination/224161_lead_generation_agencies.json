@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B2B Leads",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "224161",
+    "phone_number": "+91 86028 26575",
+    "website": "https://b2bleadgeneration.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B2B Leads, 224161, India",
+    "area": "224161",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJTUiG29BFfDkRqEA-Q0uYjjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUiG29BFfDkRqEA-Q0uYjjk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:33:36"
+  },
+  {
+    "business_name": "Alpha Media",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Website designer",
+    "pincode": "224161",
+    "phone_number": "+91 99719 68447",
+    "website": "https://www.alphamedia.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "814, Rishi Nagar, Rani Bagh, Delhi, 110034",
+    "area": "Rani Bagh, Pitampura",
+    "latitude": 28.6849134,
+    "longitude": 77.12795,
+    "place_id": "ChIJfYrrz8EDDTkRgJ1jomN_yc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYrrz8EDDTkRgJ1jomN_yc4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:33:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvind General Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "224133",
+    "phone_number": "+91 70075 55809",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dwarika Puram, Janaura Rd, Faizabad, Uttar Pradesh 224133",
+    "area": "I.E.T. Campus",
+    "latitude": 26.759815099999997,
+    "longitude": 82.16004319999999,
+    "place_id": "ChIJZSuhXrEJmjkRT0V1U4h5Moc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSuhXrEJmjkRT0V1U4h5Moc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:00:56"
+  },
+  {
+    "business_name": "satyam genral store",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "224133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "candpur harvansh, Dabha Semar, Faizabad, Uttar Pradesh 224133",
+    "area": "224133",
+    "latitude": 26.733995699999998,
+    "longitude": 82.164934,
+    "place_id": "ChIJA9q_YM4JmjkRfVPAGhVVl1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9q_YM4JmjkRfVPAGhVVl1g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:00:56"
+  }
+]

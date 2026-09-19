@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.A.N Pal",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "224204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "malviya book depot, Vinayak Nagar, Shivnagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Shivnagar",
+    "latitude": 26.7587381,
+    "longitude": 82.1398687,
+    "place_id": "ChIJb45Ff-gJmjkRPA1-Zh7i6DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb45Ff-gJmjkRPA1-Zh7i6DM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:07"
+  },
+  {
+    "business_name": "Classical Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "224204",
+    "phone_number": "+91 95545 38054",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "market, Ballipur, Uttar Pradesh 224207",
+    "area": "224204",
+    "latitude": 26.550916899999997,
+    "longitude": 82.05416509999999,
+    "place_id": "ChIJee3c0BRzmjkRjxX2sW2CHiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee3c0BRzmjkRjxX2sW2CHiM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:07"
+  }
+]

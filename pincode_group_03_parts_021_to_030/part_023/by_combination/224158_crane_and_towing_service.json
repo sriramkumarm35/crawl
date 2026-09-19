@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RSA Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service, Towing equipment provider",
+    "pincode": "224158",
+    "phone_number": "+91 89297 92399",
+    "website": "https://rsacraneservice.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UGF-7, Paraswnath Baibhav Plaza, Alpha-I Commercial Belt, Block E, Alpha I, Greater Noida, Uttar Pradesh 201310",
+    "area": "Alpha-I Commercial Belt, Block E, Alpha I",
+    "latitude": 28.4723714,
+    "longitude": 77.5140181,
+    "place_id": "ChIJj3gsfyHrDDkRUGExyjfzk-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3gsfyHrDDkRUGExyjfzk-Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:29:01"
+  },
+  {
+    "business_name": "Service On Way",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto body shop, Auto bodywork mechanic, Auto painting, Car repair and maintenance service",
+    "pincode": "224158",
+    "phone_number": "+91 96750 50450",
+    "website": "https://subscription.serviceonway.com/service-plan.php",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3rd floor, SSR tower, Garhwali Colony, Kidduwala, Dehradun, Uttarakhand 248001",
+    "area": "Garhwali Colony, Kidduwala",
+    "latitude": 30.3051863,
+    "longitude": 78.07579,
+    "place_id": "ChIJ097QZUgpCTkRUU5mdKveWts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ097QZUgpCTkRUU5mdKveWts",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:29:01"
+  }
+]

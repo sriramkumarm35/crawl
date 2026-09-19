@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pinch of Spice",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "224202",
+    "phone_number": "+91 84008 02086",
+    "website": "https://meharwing.com/",
+    "rating": 4.6,
+    "reviews_count": 943,
+    "address": "276/3, Vishnupuri, Purana Kanpur, Kanpur, Uttar Pradesh 208002",
+    "area": "Vishnupuri, Purana Kanpur",
+    "latitude": 26.4911452,
+    "longitude": 80.3164134,
+    "place_id": "ChIJzxtLaJM5nDkR0L74-SlA30I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxtLaJM5nDkR0L74-SlA30I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:22"
+  },
+  {
+    "business_name": "The Thali Garden Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Indian takeaway",
+    "pincode": "224202",
+    "phone_number": "+91 92527 74775",
+    "website": "https://www.elephantpushkar.com/thali-garden-restaurant",
+    "rating": 4.5,
+    "reviews_count": 132,
+    "address": "Holi Ka Chowk, opp. Nagar Palika, Pushkar, Rajasthan 305022",
+    "area": "Badi Basti",
+    "latitude": 26.4895638,
+    "longitude": 74.5544038,
+    "place_id": "ChIJZxJHHofdazkRnBuH72bC3xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxJHHofdazkRnBuH72bC3xY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:22"
+  }
+]

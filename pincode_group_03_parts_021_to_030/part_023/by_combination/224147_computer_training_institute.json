@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sib Tech public service",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Design institute, Software Training Institute, Training center, Video production service, Video store",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "https://sibguru.blogspot.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Madarmau Rd, road, Jahangir Ganj, Bhagapur, Uttar Pradesh 224147",
+    "area": "road",
+    "latitude": 26.456595099999998,
+    "longitude": 82.9691507,
+    "place_id": "ChIJk9kFFgQdkTkROiAtPIxc6N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9kFFgQdkTkROiAtPIxc6N0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:45"
+  },
+  {
+    "business_name": "Microking Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagapur, Uttar Pradesh 224147",
+    "area": "224147",
+    "latitude": 26.458265299999997,
+    "longitude": 82.9684135,
+    "place_id": "ChIJ5Qg70MEckTkRGl_dMdHvNC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Qg70MEckTkRGl_dMdHvNC4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:46"
+  }
+]

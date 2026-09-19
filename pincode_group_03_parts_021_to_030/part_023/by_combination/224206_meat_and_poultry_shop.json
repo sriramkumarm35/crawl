@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Bones",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Egg supplier, Frozen food store, Kebab shop, Soft drinks shop",
+    "pincode": "224206",
+    "phone_number": "+91 120 456 6761",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. R-2, Sector 34, Noida, Uttar Pradesh 201307",
+    "area": "Pocket C, Sector 34",
+    "latitude": 28.5832142,
+    "longitude": 77.36369479999999,
+    "place_id": "ChIJR_s0B9jvDDkReF8ccQYMvnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_s0B9jvDDkReF8ccQYMvnE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:21"
+  },
+  {
+    "business_name": "Sholay Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Meat wholesaler",
+    "pincode": "224206",
+    "phone_number": "+91 93913 35590",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No: 3-9, 42/4, Sharada Nagar Main Road, Sharada Nagar, Ramanthapur, Hyderabad, Telangana 500013",
+    "area": "Sharada Nagar, Ramanthapur",
+    "latitude": 17.3954269,
+    "longitude": 78.5365522,
+    "place_id": "ChIJS9ewDRqZyzsRsmKuwuHUI-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9ewDRqZyzsRsmKuwuHUI-M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "224208",
+    "phone_number": "+91 80912 79663",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Pantehar Post Office, Verma Dhaba ward number 9 Tharu, Paprola, Himachal Pradesh 176115",
+    "area": "224208",
+    "latitude": 32.060063,
+    "longitude": 76.6281049,
+    "place_id": "ChIJPe9qn-W3BDkRO0cX01D6F7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPe9qn-W3BDkRO0cX01D6F7o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:10:01"
+  },
+  {
+    "business_name": "Yadav Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "224208",
+    "phone_number": "+91 95804 92912",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "V2GJ+QFJ, Chinhat Petrol Pump, Krishna Vihar, Hasangarden Colony, Lucknow, Uttar Pradesh 226028",
+    "area": "Krishna Vihar, Hasangarden Colony, Kamta",
+    "latitude": 26.8769632,
+    "longitude": 81.03114479999999,
+    "place_id": "ChIJa8PbutzjmzkRidN0MT6XnO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8PbutzjmzkRidN0MT6XnO0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:10:03"
+  }
+]

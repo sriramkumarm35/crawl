@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Astha Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Facial spa",
+    "pincode": "224204",
+    "phone_number": "+91 96210 77035",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Allahabad - Faizabad Rd, Khajurahat, Faizabad, Uttar Pradesh 224204",
+    "area": "224204",
+    "latitude": 26.549430299999997,
+    "longitude": 82.1338695,
+    "place_id": "ChIJFxbi05V1mjkR0Wcedfa9L7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxbi05V1mjkR0Wcedfa9L7A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:37"
+  },
+  {
+    "business_name": "RAHUL TRADERS GWALIOR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty product supplier, Beauty Products Wholesaler, Cosmetics wholesaler, Disposable Items shop, Hair extensions supplier, Shopping mall",
+    "pincode": "224204",
+    "phone_number": "+91 96695 67008",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "darji oli, Near shri ram palace, Bada Rd, Lala Ka Bazaar, Gwalior, Madhya Pradesh 474001",
+    "area": "Lala Ka Bazaar",
+    "latitude": 26.1975065,
+    "longitude": 78.1457561,
+    "place_id": "ChIJAwDQys_FdjkRTl6P9ukrn7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwDQys_FdjkRTl6P9ukrn7g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:38"
+  }
+]

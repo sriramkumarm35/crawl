@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "224209",
+    "phone_number": "+91 73556 30130",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Vill- Madhaupur, post, Parwar, Sultanpur, Uttar Pradesh 228151",
+    "area": "224209",
+    "latitude": 26.3924959,
+    "longitude": 82.11120609999999,
+    "place_id": "ChIJ2wgWkJ1xmjkRzlqUZrmCK_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wgWkJ1xmjkRzlqUZrmCK_w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:09"
+  },
+  {
+    "business_name": "SIS Meditech & Surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "224209",
+    "phone_number": "+91 91259 47968",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "F4HH+P3F, Gorabarik, near Care Hospital, Amhat, sultanpur, Uttar Pradesh 224209",
+    "area": "Amhat",
+    "latitude": 26.4793055,
+    "longitude": 82.1276738,
+    "place_id": "ChIJ84go1QxxmjkRxK-lXBKaY38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84go1QxxmjkRxK-lXBKaY38",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MSP services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "224176",
+    "phone_number": "+91 87650 95364",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "MSP services, 224176, India",
+    "area": "224176",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJFW4quHTjmzkRmMenazYbSPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFW4quHTjmzkRmMenazYbSPU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:42:45"
+  },
+  {
+    "business_name": "Bada Business IBC - Anup Gupta",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "224176",
+    "phone_number": "+91 82990 76148",
+    "website": "https://www.badabusiness.com/dd/BIAG014624/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bada Business IBC - Anup Gupta, 224176, India",
+    "area": "224176",
+    "latitude": 26.480473,
+    "longitude": 82.035358,
+    "place_id": "ChIJVfg6QacoxKwRq3TPV1IOVXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfg6QacoxKwRq3TPV1IOVXg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:42:45"
+  }
+]

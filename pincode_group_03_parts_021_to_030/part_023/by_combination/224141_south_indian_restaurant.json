@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indiana Veg Restaurant and Cake Boutique",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bakery and Cake Shop, Breakfast restaurant, Cake shop, Chinese restaurant, Fast food restaurant, Vegetarian restaurant, Punjabi restaurant, South Indian restaurant",
+    "pincode": "224141",
+    "phone_number": "+91 83902 25915",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7557,
+    "address": "Plot No, 2, Jalna Rd, next to New HighCourt, N 3, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "N 3, Cidco",
+    "latitude": 19.8743834,
+    "longitude": 75.3602768,
+    "place_id": "ChIJT6rYbJKi2zsROOv8a6HhVw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6rYbJKi2zsROOv8a6HhVw0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:38"
+  },
+  {
+    "business_name": "Uttam The Taste Of South",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food court",
+    "all_categories": "Food court, South Indian restaurant",
+    "pincode": "224141",
+    "phone_number": "+91 99044 13307",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "nr. Railway Station, Raykanagar, Barelimill, Himatnagar, Gujarat 383001",
+    "area": "Raykanagar, Barelimill",
+    "latitude": 23.5903162,
+    "longitude": 72.9603234,
+    "place_id": "ChIJETCopPG5XTkRlm5wxJYnkbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETCopPG5XTkRlm5wxJYnkbQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:40"
+  }
+]

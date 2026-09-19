@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guga Aviation",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "224141",
+    "phone_number": "+91 98888 80277",
+    "website": "https://www.gugaaviation.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SCO-215,Top Floor, above More Store, near Kumar Rasoi, 37D, Sector 37, Chandigarh, 160036",
+    "area": "37D, Sector 37",
+    "latitude": 30.7379663,
+    "longitude": 76.7485832,
+    "place_id": "ChIJ0VvNd5DtDzkR7FHM6ti-owg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VvNd5DtDzkR7FHM6ti-owg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:09:54"
+  },
+  {
+    "business_name": "Shreeji Housekeeping Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency",
+    "pincode": "224141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Haven Heights, Sadguru Landmark, near South International School, Road, Naroda, Ahmedabad, Enasan, Gujarat 382330",
+    "area": "Road, Naroda",
+    "latitude": 23.096517499999997,
+    "longitude": 72.6948448,
+    "place_id": "ChIJLag4VbyAXjkRQzKaNN6iQgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLag4VbyAXjkRQzKaNN6iQgg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:09:54"
+  }
+]

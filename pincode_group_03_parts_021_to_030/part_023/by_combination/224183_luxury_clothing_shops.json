@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subhash And Company.",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing wholesaler, Wholesaler, Women's clothing store",
+    "pincode": "224183",
+    "phone_number": "+91 98975 91774",
+    "website": "https://geteasily.in/shops/subash-and-company",
+    "rating": 4.7,
+    "reviews_count": 111,
+    "address": "Shop No.16, Kamal Market, Dhamawala Mohalla, Paltan Bazaar, Dehradun, Uttarakhand 248001",
+    "area": "Dhamawala Mohalla, Paltan Bazaar",
+    "latitude": 30.318866699999997,
+    "longitude": 78.0352597,
+    "place_id": "ChIJhfFCTO0pCTkRMP3sUTpjdjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfFCTO0pCTkRMP3sUTpjdjE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:54"
+  },
+  {
+    "business_name": "Fashion Unlocked!",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "224183",
+    "phone_number": "+91 70192 73955",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sidedahalli, Siddeshwar Layout, Soundarya Layout, Bengaluru, Karnataka 560073",
+    "area": "Sidedahalli, Siddeshwar Layout, Soundarya Layout",
+    "latitude": 13.0669103,
+    "longitude": 77.5026306,
+    "place_id": "ChIJ-e4UsnAjrjsRBmVV9I9qVX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-e4UsnAjrjsRBmVV9I9qVX4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:55"
+  }
+]

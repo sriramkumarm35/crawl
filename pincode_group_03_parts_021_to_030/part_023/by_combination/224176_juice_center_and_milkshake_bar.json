@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Sai Juice Point",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224176",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 40,
+    "address": "2H5C+CVW sri sai juice point, gudibandal, Hanamkonda, Telangana 506011",
+    "area": "gudibandal",
+    "latitude": 18.0086126,
+    "longitude": 79.5722116,
+    "place_id": "ChIJwQ1eqJxFMzoRKn7hQfCfEgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQ1eqJxFMzoRKn7hQfCfEgE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:08"
+  },
+  {
+    "business_name": "Shake World",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224176",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite POST OFFICE, Kilimanoor, Pazhayakunnummel, Keralam 695601",
+    "area": "224176",
+    "latitude": 8.766478099999999,
+    "longitude": 76.875666,
+    "place_id": "ChIJtRqfFo_DBTsRxPweCvNV29A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRqfFo_DBTsRxPweCvNV29A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:10"
+  }
+]

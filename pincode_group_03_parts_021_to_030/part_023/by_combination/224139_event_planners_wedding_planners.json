@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "King event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "224139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQ2J+X63, Baskhari, Alipur, Uttar Pradesh 224129",
+    "area": "224139",
+    "latitude": 26.4523849,
+    "longitude": 82.7805534,
+    "place_id": "ChIJ6R0se0jlkDkRtgdvDelKdz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6R0se0jlkDkRtgdvDelKdz0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:07:42"
+  },
+  {
+    "business_name": "Lucknow Wedding & Events Planner Pvt. Ltd.",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Event venue, Make-up artist, Resort hotel, Wedding service, Wedding venue",
+    "pincode": "224139",
+    "phone_number": "+91 95111 65886",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B2- 408 DLF MY PAD, Front Of Hyatt Regency, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijaipur Colony, Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.865763899999997,
+    "longitude": 81.0063457,
+    "place_id": "ChIJJ_QkU_dXmTkR5QGetsuaOP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_QkU_dXmTkR5QGetsuaOP4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:07:43"
+  }
+]

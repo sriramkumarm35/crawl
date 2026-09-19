@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Bike Repairing Center",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224204",
+    "phone_number": "+91 63063 18805",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "0, Darshan Nagar - Bharat Kund Marg, near Nahar, Bharatkund Road, Faizabad, Malik Pur, Uttar Pradesh 224133",
+    "area": "Bharatkund Road",
+    "latitude": 26.7258003,
+    "longitude": 82.18897059999999,
+    "place_id": "ChIJG4iBlxYJmjkRoZLyLKh0bzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4iBlxYJmjkRoZLyLKh0bzY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:24"
+  },
+  {
+    "business_name": "Rohit Auto Repairing Center",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224204",
+    "phone_number": "+91 97944 67709",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gaura Ghat, Vikas Nagar, Gyaspur, Uttar Pradesh 224204",
+    "area": "Vikas Nagar",
+    "latitude": 26.636761399999997,
+    "longitude": 82.1943041,
+    "place_id": "ChIJab2zUwYLmjkR_S58ykeYoRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJab2zUwYLmjkR_S58ykeYoRY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:24"
+  }
+]

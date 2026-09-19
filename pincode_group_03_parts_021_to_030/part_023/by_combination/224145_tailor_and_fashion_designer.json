@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK fashion designer",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "224145",
+    "phone_number": "+91 76077 09454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GHCG+67P, Salauddin Pur, Uttar Pradesh 224230",
+    "area": "224145",
+    "latitude": 26.520617599999998,
+    "longitude": 82.5757125,
+    "place_id": "ChIJ9WSQNwDrkDkRh9K6FCdb0sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WSQNwDrkDkRh9K6FCdb0sI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:19"
+  },
+  {
+    "business_name": "Omkar Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "224145",
+    "phone_number": "+91 99451 27543",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "111, Saraswathi Nagar Main Rd, Huchappa Layout, Govindaraja Nagar Ward, Saraswathi Nagar, Vijayanagar, Bengaluru, Karnataka 560040",
+    "area": "Huchappa Layout, Govindaraja Nagar Ward, Saraswathi Nagar, Vijayanagar",
+    "latitude": 12.9716183,
+    "longitude": 77.5292175,
+    "place_id": "ChIJC3uZQ9o9rjsRhvSLAFPqt7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3uZQ9o9rjsRhvSLAFPqt7M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:22"
+  }
+]

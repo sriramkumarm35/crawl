@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aapurti Rojana Mega Mart",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "224186",
+    "phone_number": "+91 98292 19875",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bajaj Rd, Near Tvs Showroom Siyarams Showroom Mohini Besides, Rajasthan 332001",
+    "area": "Subhash Chowk",
+    "latitude": 27.6144577,
+    "longitude": 75.1432828,
+    "place_id": "ChIJDQf-9FalbDkRqrbz2H69glc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQf-9FalbDkRqrbz2H69glc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:24"
+  },
+  {
+    "business_name": "Semri road (deehgodam)",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "224186",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "9J8V+V2Q, Akbarpur Rd, Deehgodam, Hajpura, Uttar Pradesh 224186",
+    "area": "224186",
+    "latitude": 26.3672014,
+    "longitude": 82.64260949999999,
+    "place_id": "ChIJjY-WVmvzkDkRRi9xGeG61HE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjY-WVmvzkDkRRi9xGeG61HE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:25"
+  }
+]

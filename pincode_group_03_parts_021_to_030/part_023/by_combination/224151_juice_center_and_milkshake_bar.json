@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakes Junction",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Juice shop",
+    "pincode": "224151",
+    "phone_number": "+91 96548 52901",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Pillar Number 678 Bal Udhyan Road, near Mtro, Uttam Nagar, New Delhi, Delhi 110059",
+    "area": "Prem Nagar, Block E, Block C, Uttam Nagar",
+    "latitude": 28.620428099999998,
+    "longitude": 77.0579039,
+    "place_id": "ChIJT5KBPdgEDTkR_OFjTThWVlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5KBPdgEDTkR_OFjTThWVlY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:19:18"
+  },
+  {
+    "business_name": "Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224151",
+    "phone_number": "+91 80175 70867",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 48,
+    "address": "H982+92H, Esplanade, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700069",
+    "area": "Esplanade, Chowringhee North, Bow Barracks",
+    "latitude": 22.5659457,
+    "longitude": 88.3501072,
+    "place_id": "ChIJUzgyDqd3AjoR3vX6JDJit7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzgyDqd3AjoR3vX6JDJit7Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:19:19"
+  }
+]

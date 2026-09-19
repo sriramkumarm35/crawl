@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamta darling",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "224164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GVR8+6G, Isauli Bhari, Uttar Pradesh 224229",
+    "area": "224164",
+    "latitude": 26.5405721,
+    "longitude": 81.8662724,
+    "place_id": "ChIJWzZ-CABrmjkRul_Zi4eMrXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzZ-CABrmjkRul_Zi4eMrXI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:37"
+  },
+  {
+    "business_name": "Blue haven spa and salon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "224164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q44M+2M5, near Narayan Hospital, Manas Nagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Manas Nagar",
+    "latitude": 26.7550822,
+    "longitude": 82.13429909999999,
+    "place_id": "ChIJObQ4OckJmjkRQMrTf8TxZXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObQ4OckJmjkRQMrTf8TxZXI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:39"
+  }
+]

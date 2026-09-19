@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kundan motor",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224149",
+    "phone_number": "+91 96484 74045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near, Jalalpur - Ramgarh Rd, Gaura Kamal, Uttar Pradesh 224149",
+    "area": "224149",
+    "latitude": 26.286578199999997,
+    "longitude": 82.7541545,
+    "place_id": "ChIJ6TxpQhX5kDkRHYxmFUUw3Cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TxpQhX5kDkRHYxmFUUw3Cg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:18:01"
+  },
+  {
+    "business_name": "Diamond agency",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224149",
+    "phone_number": "+91 99563 01619",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 81,
+    "address": "8P5P+PWX, Baskhari, Jamalpur, Jalalpur, Uttar Pradesh 224149",
+    "area": "Baskhari",
+    "latitude": 26.3138655,
+    "longitude": 82.7344257,
+    "place_id": "ChIJO3lpPmHhkDkR4w7ADymIlWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3lpPmHhkDkR4w7ADymIlWc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:18:02"
+  }
+]

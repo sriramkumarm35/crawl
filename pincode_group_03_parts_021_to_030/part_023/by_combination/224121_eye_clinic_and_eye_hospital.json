@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghuvansham Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "224121",
+    "phone_number": "+91 79038 35801",
+    "website": "http://www.raghuvanshamhospital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raghuvansham Eye Hospital,Vishnupuram, Parikrama Marg, near Mouni Baba, Ayodhya, Uttar Pradesh 224123",
+    "area": "Halkara Ka Purwa",
+    "latitude": 26.7865543,
+    "longitude": 82.2154668,
+    "place_id": "ChIJbS9eEgCpkDkR13tsxKRYLP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbS9eEgCpkDkR13tsxKRYLP8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:42"
+  },
+  {
+    "business_name": "Vasan Eye Care Hospital - Simmakkal, Madurai",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "224121",
+    "phone_number": "+91 1800 571 2222",
+    "website": "https://vasaneye.com/eye-hospital/madurai-simmakkal/",
+    "rating": 5,
+    "reviews_count": 468,
+    "address": "Shop No 185, 186, N Veli St, opposite Sethupathi Higher Secondary School, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Simmakkal, Madurai Main",
+    "latitude": 9.9237431,
+    "longitude": 78.11358,
+    "place_id": "ChIJu8t8GgDFADsRk_CPvI1i_30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8t8GgDFADsRk_CPvI1i_30",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:43"
+  }
+]

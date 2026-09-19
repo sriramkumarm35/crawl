@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Danish Men's Parlor",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GXJX+86C, Deeppur, Uttar Pradesh 272162",
+    "area": "224147",
+    "latitude": 26.530526,
+    "longitude": 82.9984139,
+    "place_id": "ChIJc4oOAgAbkTkRe8rYkLXjEK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4oOAgAbkTkRe8rYkLXjEK0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:31"
+  },
+  {
+    "business_name": "Noman Men's Parlor",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Marketing consultant",
+    "pincode": "224147",
+    "phone_number": "+91 76077 95713",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Umariya Bazar, Umaria, Uttar Pradesh 272162",
+    "area": "224147",
+    "latitude": 26.518251499999998,
+    "longitude": 82.9946719,
+    "place_id": "ChIJd7C2Q4gbkTkRnRtm15fOD04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7C2Q4gbkTkRnRtm15fOD04",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:31"
+  }
+]

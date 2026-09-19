@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamrejpur",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "224190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GJF8+F77, Mamrejpur, Uttar Pradesh 224190",
+    "area": "224190",
+    "latitude": 26.523674399999997,
+    "longitude": 82.6156579,
+    "place_id": "ChIJgTKdRwDrkDkRJpvbzA2avMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTKdRwDrkDkRJpvbzA2avMI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:55:11"
+  },
+  {
+    "business_name": "Ayushman Bharat (Golden Card) Office",
+    "search_category": "Insurance Agent",
+    "primary_category": "Health insurance agency",
+    "all_categories": "Health insurance agency",
+    "pincode": "224190",
+    "phone_number": "+91 95650 08600",
+    "website": "https://www.google.com/search?rlz=1C1RXQR_enIN1028IN1028&sxsrf=ALiCzsaRsckNsUWovxH2CzLf04T20OCriA:1672557756168&q=Ayushman%20Bharat%20(Golden%20Card)%20Office&stick=H4sIAAAAAAAAAONgU1I1qDC2tDRItTQwNjZMNTVKTjO3MqgwtUxJSTFPMUoxMTBITDUzXMSq4lhZWpyRm5in4JSRWJRYoqDhnp-Tkpqn4JxYlKKp4J-WlpmcCgDg3m4bUAAAAA&mat=Cex6QeXKy5WB&ved=2ahUKEwjKtbCX66X8AhX3cWwGHStIBPUQrMcEegQICBAC",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Paschim Naya Ramlila Maidan, Niswa School Ke Peeche Qasba Paschim, Ke Pass, Qasba, Tanda, Uttar Pradesh 224190",
+    "area": "Qasba",
+    "latitude": 26.5506665,
+    "longitude": 82.6588089,
+    "place_id": "ChIJ9yzlMQPpkDkRYa4A1NLX3Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yzlMQPpkDkRYa4A1NLX3Vk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:55:13"
+  }
+]

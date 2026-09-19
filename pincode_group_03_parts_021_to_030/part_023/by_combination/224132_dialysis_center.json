@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nephroplus Dialysis Clinic in Prayagraj",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "224132",
+    "phone_number": "+91 63879 71943",
+    "website": "https://www.nephroplus.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Saket Hospital, 1203, BHS, Kidwai Nagar, Allahpur, Prayagraj, Uttar Pradesh 211002",
+    "area": "Kidwai Nagar, Shiv Nagar, Allahpur",
+    "latitude": 25.4578715,
+    "longitude": 81.8711465,
+    "place_id": "ChIJRVmlswi1mjkRjU4MAF-EnGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVmlswi1mjkRjU4MAF-EnGI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:59:40"
+  },
+  {
+    "business_name": "Eskag Sanjeevani Dialysis Center Ambikapur",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "224132",
+    "phone_number": "+91 1800 102 2294",
+    "website": "https://www.eskagsanjeevanidialysis.com/",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "Dialysis unit Ambikapur, Ambikapur District Hospital, near Bilahpur Chowk, Ambikapur, Chhattisgarh 497001",
+    "area": "224132",
+    "latitude": 23.1294374,
+    "longitude": 83.1861138,
+    "place_id": "ChIJ5QN9wZ-jiTkRYip7ATCARyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QN9wZ-jiTkRYip7ATCARyk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:59:41"
+  }
+]

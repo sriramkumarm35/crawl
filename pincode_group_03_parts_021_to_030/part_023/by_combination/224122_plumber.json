@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meermalookpur",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "224122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGGM+Q6X, meermalookpur, Akbarpur, Uttar Pradesh 224122",
+    "area": "meermalookpur",
+    "latitude": 26.4269869,
+    "longitude": 82.5331119,
+    "place_id": "ChIJ-Z7FEwCTkDkR44Aruw1WGeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Z7FEwCTkDkR44Aruw1WGeg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:48:55"
+  },
+  {
+    "business_name": "Raghuvanshi Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Building materials supplier, Event planner, Hardware store, Paint store",
+    "pincode": "224122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pratappur, Dostpur, Badhauli, Uttar Pradesh 228131",
+    "area": "Pratappur",
+    "latitude": 26.2671963,
+    "longitude": 82.49062479999999,
+    "place_id": "ChIJ007u4cSLkDkRPD30881lAMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ007u4cSLkDkRPD30881lAMg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:48:55"
+  }
+]

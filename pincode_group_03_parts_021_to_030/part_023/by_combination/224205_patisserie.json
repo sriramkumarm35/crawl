@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chef Bakers - Seegehalli, Krishnarajapura",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Chocolate cafe, Chocolate shop, Confectionery store, Cupcake shop, Donut shop, Pastry shop, Wedding bakery",
+    "pincode": "224205",
+    "phone_number": "+91 74060 66604",
+    "website": "https://chefbakers.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Freshworld Supermarket, 120/4 RCC Building, First Floor, SH 35, behind A1, Seegehalli, Krishnarajapuram, Bengaluru, Karnataka 560115",
+    "area": "Seegehalli, Krishnarajapuram",
+    "latitude": 13.015695899999999,
+    "longitude": 77.7622596,
+    "place_id": "ChIJ8duE9zMOrjsRfLBy2UP2Oe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8duE9zMOrjsRfLBy2UP2Oe4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:38"
+  },
+  {
+    "business_name": "Prem Sweets Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "224205",
+    "phone_number": "+91 73989 82012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Seodiya, Sihoriya, Bainti Kala, Uttar Pradesh 224209",
+    "area": "Seodiya",
+    "latitude": 26.4774958,
+    "longitude": 82.1762378,
+    "place_id": "ChIJx62Vsb13mjkRVJZmFobFOC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx62Vsb13mjkRVJZmFobFOC8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:38"
+  }
+]

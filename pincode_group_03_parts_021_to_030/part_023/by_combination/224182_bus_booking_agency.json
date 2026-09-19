@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saryu Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "224182",
+    "phone_number": "+91 96962 42558",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "395, Haripur Jalalabad, Uttar Pradesh 224001",
+    "area": "224182",
+    "latitude": 26.742809599999998,
+    "longitude": 82.07067529999999,
+    "place_id": "ChIJeUWawWMPmjkRwH2GXXiMNio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUWawWMPmjkRwH2GXXiMNio",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:45:19"
+  },
+  {
+    "business_name": "Meratravelsathi",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "224182",
+    "phone_number": "+91 79880 99509",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hadarganj, Salarpur, Hunsepur, Uttar Pradesh 224001",
+    "area": "224182",
+    "latitude": 26.7394252,
+    "longitude": 82.06250519999999,
+    "place_id": "ChIJVVVVVZUPmjkR_8OTtWWTNdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVZUPmjkR_8OTtWWTNdY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:45:19"
+  }
+]

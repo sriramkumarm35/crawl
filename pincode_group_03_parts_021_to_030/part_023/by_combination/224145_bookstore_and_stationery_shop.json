@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Book Company (Rajarampuri)",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Art center, Art gallery, Office supply store, Office supply wholesaler, Pen store, Shoe store, Book store, Stationery wholesaler, Uniform store",
+    "pincode": "224145",
+    "phone_number": "+91 72498 66108",
+    "website": "http://www.jaibook.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dayana App, 8th Ln, near bus route, Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur, Maharashtra 416008",
+    "area": "Poorvarang, Mahalaxminagar, Rajarampuri",
+    "latitude": 16.6940559,
+    "longitude": 74.2439658,
+    "place_id": "ChIJ-bjYjsMBwTsRq-kxvpnmOOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bjYjsMBwTsRq-kxvpnmOOs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:13:18"
+  },
+  {
+    "business_name": "Maurya book depot and stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "224145",
+    "phone_number": "+91 63860 50184",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Tanda ayodhya road NTPC township, chauraha, Khairpur, Tanda, Uttar Pradesh 224232",
+    "area": "chauraha",
+    "latitude": 26.5919857,
+    "longitude": 82.58705119999999,
+    "place_id": "ChIJpTFr6DbrkDkR2-NpKiOhRp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTFr6DbrkDkR2-NpKiOhRp4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:13:19"
+  }
+]

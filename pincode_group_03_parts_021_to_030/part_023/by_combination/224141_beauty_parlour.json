@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaya beauty parlor & makeup studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "224141",
+    "phone_number": "+91 63945 64295",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Goshainganj, Uttar Pradesh 224141",
+    "area": "224141",
+    "latitude": 26.5683278,
+    "longitude": 82.3815906,
+    "place_id": "ChIJ7w3EUoGZkDkRp0aQct0gqwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7w3EUoGZkDkRp0aQct0gqwA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:09:21"
+  },
+  {
+    "business_name": "Royal Beauty Centre",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Cosmetics store",
+    "pincode": "224141",
+    "phone_number": "+91 94539 85367",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q6W3+MPM, Near, Hanuman Garhi Rd, Shringar Haat, New Colony, Ayodhya, Uttar Pradesh 224123",
+    "area": "Shringar Haat, New Colony",
+    "latitude": 26.797124099999998,
+    "longitude": 82.2035587,
+    "place_id": "ChIJY6ajfZIHmjkRUA5auX-_Ido",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6ajfZIHmjkRUA5auX-_Ido",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:09:24"
+  }
+]

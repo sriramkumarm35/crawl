@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Coffee House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Coffee shop",
+    "pincode": "224145",
+    "phone_number": "N/A",
+    "website": "https://www.indiancoffeehouse.com/",
+    "rating": 4.1,
+    "reviews_count": 106,
+    "address": "HHWP+7FG, Meeranpur Sadar Ali, Uttar Pradesh 224238",
+    "area": "224145",
+    "latitude": 26.5956905,
+    "longitude": 82.5862073,
+    "place_id": "ChIJezitPnHrkDkR9jmYEOTXcm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezitPnHrkDkR9jmYEOTXcm4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:13"
+  },
+  {
+    "business_name": "Sarawati bhawan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "224145",
+    "phone_number": "+91 87959 35495",
+    "website": "https://www.google.com/search?q=Saraswati+BHAWAN&stick=H4sIAAAAAAAA_-NgU1I1qDC2tDRITbS0TDaxSDM2MTG2MqhIMzQ0MzC3NE42NDczSE21WMQqEJxYlFhcnliSqeDk4Rju6AcAZawcLjwAAAA&hl=en&mat=CYE4-jSYPIQGElMBmzl_pUWOfHvYWxI86yYRgZzGteluE6HHgMJYhHK5_2Zc4rDNvH3_j45hQ5Vuno-ZxuR514vZKkcohQXC9Lu_WARSfxzlYWmF_EwJS_40wLZ7kQ&authuser=0#mpd=~469566885574883457/editprofile/info",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Saraswati bhawan, Ntpc, Katariya, Uttar Pradesh 224238",
+    "area": "Ntpc",
+    "latitude": 26.599465199999997,
+    "longitude": 82.5871743,
+    "place_id": "ChIJQzSPxJnqkDkR6A52wZMHFvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzSPxJnqkDkR6A52wZMHFvE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:14"
+  }
+]

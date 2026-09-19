@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdamba Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "224172",
+    "phone_number": "+91 97826 76365",
+    "website": "https://jagdamba-cycle-store.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rathore Nagar ,Hoshiyar, Queens Rd, near Jharkhand Mahadev Temple, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.910640899999997,
+    "longitude": 75.7528473,
+    "place_id": "ChIJn67cmYW0bTkRbD1LSWflNb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn67cmYW0bTkRbD1LSWflNb4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:39:51"
+  },
+  {
+    "business_name": "Shree Ram Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Electric bicycle store",
+    "pincode": "224172",
+    "phone_number": "+91 73782 58501",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "261/836, Sector No 26, Pratap Nagar, Sanganer, Jaipur, Rajasthan 302033",
+    "area": "Pratap Nagar, Sanganer, Pratap Nagar",
+    "latitude": 26.805745599999998,
+    "longitude": 75.8406327,
+    "place_id": "ChIJqXxc8SHJbTkRm1Y19wvisb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXxc8SHJbTkRm1Y19wvisb4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:39:51"
+  }
+]

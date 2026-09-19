@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik Tent House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "224159",
+    "phone_number": "+91 88877 30643",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahmood Nagar Bajar, Road, Nagari, Uttar Pradesh 228171",
+    "area": "224159",
+    "latitude": 26.236757899999997,
+    "longitude": 82.6018201,
+    "place_id": "ChIJBeWSS7f1kDkRzfQWR7fa1T0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeWSS7f1kDkRzfQWR7fa1T0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:13"
+  },
+  {
+    "business_name": "Rhythm Indie",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "224159",
+    "phone_number": "+91 98219 22440",
+    "website": "https://www.rhythmindie.com/",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "Lower Ground Floor, ALGF-144, Gaur World Smart Street, Sector 16B Rd, Greater Noida, Uttar Pradesh 201301",
+    "area": "224159",
+    "latitude": 28.607754099999998,
+    "longitude": 77.4423046,
+    "place_id": "ChIJAaoq5afvDDkRBysXj7E1xho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaoq5afvDDkRBysXj7E1xho",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:15"
+  }
+]

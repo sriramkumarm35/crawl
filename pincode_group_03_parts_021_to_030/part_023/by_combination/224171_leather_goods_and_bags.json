@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather Shop",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "224171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jagai Purwa, Lal Bangla, J K Puri, Kanpur, Uttar Pradesh 208007",
+    "area": "Jagai Purwa, Lal Bangla, J K Puri",
+    "latitude": 26.4275335,
+    "longitude": 80.3844021,
+    "place_id": "ChIJoZlJGt9AnDkR5IcrMqnoJDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZlJGt9AnDkR5IcrMqnoJDA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:42"
+  },
+  {
+    "business_name": "Raju Footwear, Shoes & Bag Repair",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop",
+    "pincode": "224171",
+    "phone_number": "+91 88868 45354",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 76,
+    "address": "Block I, Sree Prabhupada Twp, Gachibowli, Hyderabad, Telangana 500084",
+    "area": "Block I, Sree Prabhupada Township, Gachibowli",
+    "latitude": 17.4659688,
+    "longitude": 78.34159679999999,
+    "place_id": "ChIJNxCGKquTyzsRj23FWs9F1pE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxCGKquTyzsRj23FWs9F1pE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:45"
+  }
+]

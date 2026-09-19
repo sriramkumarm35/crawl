@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bariyawan bajar",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "224210",
+    "phone_number": "+91 95192 00166",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "CMWG+7M4, Bariyavan, Uttar Pradesh 224210",
+    "area": "224210",
+    "latitude": 26.445634899999998,
+    "longitude": 82.6766973,
+    "place_id": "ChIJYeU6AZPvkDkRAPijRAlCmE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeU6AZPvkDkRAPijRAlCmE8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:13:30"
+  },
+  {
+    "business_name": "Chicken Biryani Family Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224210",
+    "phone_number": "+91 78799 77792",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Qazi Mohalla, Seoni, Madhya Pradesh 480661",
+    "area": "Qazi Mohalla",
+    "latitude": 22.0856536,
+    "longitude": 79.54691679999999,
+    "place_id": "ChIJlbG3chuwKjoRS9frh9X8UQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbG3chuwKjoRS9frh9X8UQ0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:13:33"
+  }
+]

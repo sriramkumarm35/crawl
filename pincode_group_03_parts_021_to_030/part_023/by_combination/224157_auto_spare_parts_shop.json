@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prajapati",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "224157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFV6+8CC, Fatahpur Balabag, Uttar Pradesh 224157",
+    "area": "224157",
+    "latitude": 26.5439106,
+    "longitude": 82.46172589999999,
+    "place_id": "ChIJ6QBNbBSXkDkR311TU8_qsnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QBNbBSXkDkR311TU8_qsnE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:27:05"
+  },
+  {
+    "business_name": "Shree Hero",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "224157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Goshainganj, Uttar Pradesh 224141",
+    "area": "224157",
+    "latitude": 26.5768734,
+    "longitude": 82.38236479999999,
+    "place_id": "ChIJP5fFkhuYkDkRZADJuzB3oj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5fFkhuYkDkRZADJuzB3oj4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:27:06"
+  }
+]

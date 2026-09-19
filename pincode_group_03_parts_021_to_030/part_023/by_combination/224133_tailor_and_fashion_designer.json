@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "224133",
+    "phone_number": "+91 99368 61100",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naka - Maqbara Rd, Murawantola, Ram Nagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Murawantola, Ram Nagar",
+    "latitude": 26.765777999999997,
+    "longitude": 82.1424827,
+    "place_id": "ChIJ9YWmFKcImjkRny7znp2yW8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YWmFKcImjkRny7znp2yW8k",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:16"
+  },
+  {
+    "business_name": "Garima Textiles & Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Boutique, Clothing store",
+    "pincode": "224133",
+    "phone_number": "+91 93342 02054",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 28,
+    "address": "Bailey Rd, Jagdeo Path, More, Patna, Bihar 800014",
+    "area": "Jagdeo Path, More",
+    "latitude": 25.6056788,
+    "longitude": 85.0743408,
+    "place_id": "ChIJNxSIvbdX7TkR172xizRpRVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxSIvbdX7TkR172xizRpRVs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:18"
+  }
+]

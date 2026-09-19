@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Footwear wholesaler",
+    "all_categories": "Footwear wholesaler",
+    "pincode": "224143",
+    "phone_number": "+91 80903 13335",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Lohamandi, Shahzad Pur, Akbarpur, Uttar Pradesh 224122",
+    "area": "Lohamandi, Shahzad Pur",
+    "latitude": 26.4243888,
+    "longitude": 82.5366931,
+    "place_id": "ChIJmRI7uaSTkDkR4z8B032ew_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRI7uaSTkDkR4z8B032ew_w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:34"
+  },
+  {
+    "business_name": "Krishna Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "224143",
+    "phone_number": "+91 96286 86886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "171, Hanuman Chauk, Loukiha, Kohlwa, Uttar Pradesh 272162",
+    "area": "224143",
+    "latitude": 26.605069,
+    "longitude": 82.88520989999999,
+    "place_id": "ChIJxydwpnHhkDkRg7I6Mh5jnC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxydwpnHhkDkRg7I6Mh5jnC0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electricals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Giraiya bazaar, Uttar Pradesh 224147",
+    "area": "224147",
+    "latitude": 26.408901099999998,
+    "longitude": 83.01984809999999,
+    "place_id": "ChIJ-fAs_OsEkTkRL6UGQtkbpo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fAs_OsEkTkRL6UGQtkbpo8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:59"
+  },
+  {
+    "business_name": "HealthFit Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HealthFit Pharmacy, Akbarpur - Baskhari Rd, Patel Nagar, Akbarpur, Uttar Pradesh 224122",
+    "area": "Patel Nagar",
+    "latitude": 26.4404094,
+    "longitude": 82.5530667,
+    "place_id": "ChIJ8eFroTmTkDkRbQm4DEXiDWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8eFroTmTkDkRbQm4DEXiDWk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:02"
+  }
+]

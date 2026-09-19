@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JP Diposal Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "224168",
+    "phone_number": "+91 95551 32747",
+    "website": "https://g.co/kgs/HcC7Z63",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JP Disposal Stores, Pahitipur Square, below Indian Bank, Shahzad Pur, Akbarpur, Uttar Pradesh 224122",
+    "area": "Shahzad Pur",
+    "latitude": 26.4190152,
+    "longitude": 82.53557599999999,
+    "place_id": "ChIJ-fSoSEyTkDkRSslUYQqr834",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fSoSEyTkDkRSslUYQqr834",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:35:31"
+  },
+  {
+    "business_name": "Vishal Grocery Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "224168",
+    "phone_number": "+91 63945 60104",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "30, Pahitipur road, Mirjapur, Akbarpur, Uttar Pradesh 224122",
+    "area": "224168",
+    "latitude": 26.416859,
+    "longitude": 82.51934729999999,
+    "place_id": "ChIJ-Q2LDQCTkDkR1ywYD6CoasA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q2LDQCTkDkR1ywYD6CoasA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:35:31"
+  }
+]

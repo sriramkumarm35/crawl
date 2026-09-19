@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gangotri traders",
+    "search_category": "Importers",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "224147",
+    "phone_number": "+91 63936 76783",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nariyon, Mampur, Jahangir Ganj Market, Uttar Pradesh 224147",
+    "area": "Mampur",
+    "latitude": 26.4200244,
+    "longitude": 82.9619637,
+    "place_id": "ChIJu6LYn_wDkTkR_HviZ7OfVDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6LYn_wDkTkR_HviZ7OfVDw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:11"
+  },
+  {
+    "business_name": "Janta Khad bhandar",
+    "search_category": "Importers",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C2M4+78, Aenwa, Uttar Pradesh 224147",
+    "area": "224147",
+    "latitude": 26.433173399999998,
+    "longitude": 83.0058775,
+    "place_id": "ChIJD-f6TL0FkTkRiBDwBF_QMKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-f6TL0FkTkRiBDwBF_QMKs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:12"
+  }
+]

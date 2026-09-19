@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "224164",
+    "phone_number": "+91 87655 26029",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar, baldirai, Dehariyawan, Uttar Pradesh 227806",
+    "area": "224164",
+    "latitude": 26.480489,
+    "longitude": 81.8333656,
+    "place_id": "ChIJE5X4rg1BmjkR_SZ-0vDYI7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5X4rg1BmjkR_SZ-0vDYI7Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:16"
+  },
+  {
+    "business_name": "Satyam Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Business center",
+    "all_categories": "Business center",
+    "pincode": "224164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "HWV5+6FR, Milkipur, Uttar Pradesh 224164",
+    "area": "224164",
+    "latitude": 26.593110799999998,
+    "longitude": 81.9086059,
+    "place_id": "ChIJG5V-bgAVmjkRlZl1w2QMBeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5V-bgAVmjkRlZl1w2QMBeo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petkraft Kennels",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "224159",
+    "phone_number": "+91 75038 91271",
+    "website": "http://www.petkraftkennels.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 08, Mall, Crossings Republik, Ghaziabad, Uttar Pradesh 201016",
+    "area": "Mall, Crossings Republik",
+    "latitude": 28.630951099999997,
+    "longitude": 77.43429789999999,
+    "place_id": "ChIJcVI8btXtDDkRkwXObrlI0zY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVI8btXtDDkRkwXObrlI0zY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:14"
+  },
+  {
+    "business_name": "Pets Caravan",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "224159",
+    "phone_number": "+91 92892 86171",
+    "website": "http://www.petscaravan.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Km-2, Block M, Sector 18, Kavi Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "Block M, Sector 18, Kavi Nagar",
+    "latitude": 28.666958299999997,
+    "longitude": 77.4501794,
+    "place_id": "ChIJHZ9ia9PxDDkRiOfNv5gA6cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZ9ia9PxDDkRiOfNv5gA6cY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:14"
+  }
+]

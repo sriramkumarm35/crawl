@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cute& Cuts",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "224188",
+    "phone_number": "+91 89608 86291",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Deokali Beniganj Rd, Shahjahanj Pur, Faizabad, Uttar Pradesh 224001",
+    "area": "Shahjahanj Pur",
+    "latitude": 26.7780971,
+    "longitude": 82.17036999999999,
+    "place_id": "ChIJ-_lTrc8HmjkR_Qdv83g0HsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_lTrc8HmjkR_Qdv83g0HsE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:51:11"
+  },
+  {
+    "business_name": "SHIV BARAN BODY MAKER",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "224188",
+    "phone_number": "+91 87563 62712",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sohawal, Faizabad Rd, Ayodhya, Faizabad, Uttar Pradesh 224188",
+    "area": "224188",
+    "latitude": 26.752842899999997,
+    "longitude": 81.9850877,
+    "place_id": "ChIJhb0NYgoRmjkRQYNJ_1VtJQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhb0NYgoRmjkRQYNJ_1VtJQo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:51:12"
+  }
+]

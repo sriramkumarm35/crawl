@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Business",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "224161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PCF2+F3, Dhirauli Babu, Uttar Pradesh 272128",
+    "area": "224161",
+    "latitude": 26.7237774,
+    "longitude": 82.40071449999999,
+    "place_id": "ChIJE-bCMwC7kDkR8O4Dv8rKEYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-bCMwC7kDkR8O4Dv8rKEYQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:33:24"
+  },
+  {
+    "business_name": "DAS Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "224161",
+    "phone_number": "+91 92319 45597",
+    "website": "https://youtube.com/@dasrealtors",
+    "rating": 4.7,
+    "reviews_count": 28,
+    "address": "Rajarhat Rekjuani, More, near Axis Bank, Rajarhat, Kolkata, West Bengal 700135",
+    "area": "Rajarhat",
+    "latitude": 22.6315496,
+    "longitude": 88.483342,
+    "place_id": "ChIJca17Ja11AjoRFiqA3osp06c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJca17Ja11AjoRFiqA3osp06c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:33:24"
+  }
+]

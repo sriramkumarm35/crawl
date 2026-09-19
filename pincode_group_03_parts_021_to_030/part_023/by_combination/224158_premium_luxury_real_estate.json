@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Royal Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "224158",
+    "phone_number": "+91 98103 14524",
+    "website": "http://www.royalestateagency.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "35, Jacaranda Marg, DLF Phase 2, Sector 25, Gurugram, Shahpur, Haryana 122002",
+    "area": "DLF Phase 2, Sector 25",
+    "latitude": 28.4858799,
+    "longitude": 77.091974,
+    "place_id": "ChIJ9QbAwUcZDTkR9uAI8v_KYLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QbAwUcZDTkR9uAI8v_KYLI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:29:49"
+  },
+  {
+    "business_name": "Unique Homz",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Auction house, Commercial real estate agency, Industrial real estate agency, Property investment company, Real estate agent, Real estate consultant, Real estate developer, Real estate rental agency",
+    "pincode": "224158",
+    "phone_number": "+91 80 6242 9952",
+    "website": "https://www.uniquehomz.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Building No C 29, Unique Homz, Padmana Naidu Marg, near by St. Teresa School, Shakti Khand III, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "area": "Shakti Khand III, Indirapuram",
+    "latitude": 28.647468399999998,
+    "longitude": 77.3681319,
+    "place_id": "ChIJ071C8Kv7DDkR87Dgj1Nx7Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ071C8Kv7DDkR87Dgj1Nx7Aw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:29:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sona Sales",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Wholesaler",
+    "pincode": "224145",
+    "phone_number": "+91 85529 46464",
+    "website": "https://sonasales.in/",
+    "rating": 4.8,
+    "reviews_count": 88,
+    "address": "Shivaji Rd, Ganj Golai, Latur, Maharashtra 413512",
+    "area": "Ganj Golai",
+    "latitude": 18.39769,
+    "longitude": 76.58411799999999,
+    "place_id": "ChIJp6wwt6KDzzsR86ov29C660o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6wwt6KDzzsR86ov29C660o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:05"
+  },
+  {
+    "business_name": "DRY FRUIT HOUSE",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Produce wholesaler",
+    "pincode": "224145",
+    "phone_number": "+91 94155 42938",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "41/17, 41/17, Prakash Kulfi, near Mohan Market, Mohan Market, Swadeshi Market, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Mohan Market, Swadeshi Market, Aminabad",
+    "latitude": 26.8472613,
+    "longitude": 80.92690739999999,
+    "place_id": "ChIJlazYbbr9mzkRSWcPY-LyVTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlazYbbr9mzkRSWcPY-LyVTo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji's Mart",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Food products supplier, Health food store, Natural goods store, Nut store, Spice store, Spices Wholesaler",
+    "pincode": "224171",
+    "phone_number": "+91 44 2244 0566",
+    "website": "https://balajismart.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15, Krishna Street, Rail Nagar Kadapperi, West Tambaram, Tambaram, Tamil Nadu 600045",
+    "area": "Rail Nagar Kadapperi, West Tambaram, Tambaram",
+    "latitude": 12.9373088,
+    "longitude": 80.1213399,
+    "place_id": "ChIJqwx7F7FfUjoR4S_LOTWY8qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwx7F7FfUjoR4S_LOTWY8qY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:26"
+  },
+  {
+    "business_name": "Auro Fruit & Nut Pvt Ltd",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "224171",
+    "phone_number": "+91 99231 27474",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Plot No. F7, Ground Floor, Sector A2, Tronica City, Loni, Ghaziabad, Uttar Pradesh 201103",
+    "area": "Loni",
+    "latitude": 28.7895102,
+    "longitude": 77.25470519999999,
+    "place_id": "ChIJjbvwpsf_DDkR7y31bcyqA3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbvwpsf_DDkR7y31bcyqA3c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:26"
+  }
+]

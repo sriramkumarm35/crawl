@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lead and Follow India",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Dance company, Fitness center, Hip Hop Dance Class, Salsa Dance Class, Yoga studio",
+    "pincode": "224159",
+    "phone_number": "+91 98210 77414",
+    "website": "http://leadandfollowindia.com/",
+    "rating": 5,
+    "reviews_count": 379,
+    "address": "M-3B, Block M, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Block M, Malviya Nagar",
+    "latitude": 28.536095399999997,
+    "longitude": 77.21466889999999,
+    "place_id": "ChIJKfB5DXjjDDkRLlhecs3b-R8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfB5DXjjDDkRLlhecs3b-R8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:19"
+  },
+  {
+    "business_name": "Ale - The Art Hub",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Amphitheater, Art school, Auditorium, Banquet hall, Cafe, Music school, Exhibition and trade center, Fitness center",
+    "pincode": "224159",
+    "phone_number": "+91 94485 41233",
+    "website": "https://www.alekale.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1335, 8th Main Cross Rd, opp. to Bangalore Hand Centre and Maya ENT clinic, A Block, Milk Colony, 2nd Stage, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "A Block, Milk Colony, 2nd Stage, Rajajinagar",
+    "latitude": 13.0059118,
+    "longitude": 77.5561219,
+    "place_id": "ChIJZ7FW54M9rjsRrlg8f6Owxdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7FW54M9rjsRrlg8f6Owxdk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:20"
+  }
+]

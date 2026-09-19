@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jothi Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "224205",
+    "phone_number": "+91 416 221 1915",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "#9/3D, T.K.B. Lane, Katpadi Road, Vellore, Tamil Nadu 632004",
+    "area": "Thottapalayam",
+    "latitude": 12.925858199999999,
+    "longitude": 79.131525,
+    "place_id": "ChIJ9xVXzb84rTsR5IjIX1Q8180",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xVXzb84rTsR5IjIX1Q8180",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:01"
+  },
+  {
+    "business_name": "Kavin Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "224205",
+    "phone_number": "+91 99448 37100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "4/134 Eakambaranelure, to, Lalapet Road, Eakambaranelure, Ranipet, Ekambaranellur, Tamil Nadu 632405",
+    "area": "Eakambaranelure",
+    "latitude": 13.0011397,
+    "longitude": 79.2879737,
+    "place_id": "ChIJE-X_ZYBKrTsRTcdNGySpG3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-X_ZYBKrTsRTcdNGySpG3c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:01"
+  }
+]

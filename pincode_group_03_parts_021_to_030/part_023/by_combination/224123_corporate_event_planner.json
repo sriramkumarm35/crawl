@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna event planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "224123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q4FV+4QW, Faizabad Road, Lajpat Nagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Lajpat Nagar",
+    "latitude": 26.772759999999998,
+    "longitude": 82.1444193,
+    "place_id": "ChIJj6LtPAAHmjkR89yQjB66vg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6LtPAAHmjkR89yQjB66vg4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:51:12"
+  },
+  {
+    "business_name": "Susaadhya Event Management - corporate & wedding planners Hyderabad",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner, Party planner, Wedding planner",
+    "pincode": "224123",
+    "phone_number": "+91 73867 77177",
+    "website": "https://susaadhyaevents.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1-4-27/71/189, Indira Park Rd, Gandhi Nagar, Musheerabad, Gandhi Nagar, Kavadiguda, Hyderabad, Telangana 500020",
+    "area": "Gandhi Nagar, Musheerabad, Gandhi Nagar, Kavadiguda",
+    "latitude": 17.4137962,
+    "longitude": 78.4946652,
+    "place_id": "ChIJF2lf5EKZyzsR6TrNBMwmfYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2lf5EKZyzsR6TrNBMwmfYk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:51:13"
+  }
+]

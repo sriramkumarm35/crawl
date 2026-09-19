@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electron The Electrical Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Interior Decorator, Interior designer",
+    "pincode": "224159",
+    "phone_number": "+91 98364 25748",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 91,
+    "address": "GP appartment, 761, Sreenagar Main Rd, near ma Kali builders, Dhalua, Panchpota, Kolkata, Rajpur Sonarpur, West Bengal 700094",
+    "area": "Dhalua, Panchpota",
+    "latitude": 22.4722363,
+    "longitude": 88.40503319999999,
+    "place_id": "ChIJGeQ3XNRzAjoRnPDdWTSjrKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeQ3XNRzAjoRnPDdWTSjrKM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:50"
+  },
+  {
+    "business_name": "Electro Power Co.",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Appliance repair service, Appliance store, Auto care products store, Battery Store, Beauty Products Wholesaler, Electrical repair shop, Electrical supply store, Electronics Accessories Wholesaler, Electronics store",
+    "pincode": "224159",
+    "phone_number": "+91 98303 24726",
+    "website": "http://www.facebook.com/electropowerco",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jashoda Bhavan, 167-D, Rash Behari Ave, Ekdalia, Ballygunge, Kolkata, West Bengal 700019",
+    "area": "Ekdalia, Ballygunge",
+    "latitude": 22.5198641,
+    "longitude": 88.36543739999999,
+    "place_id": "ChIJaVl_U9R2AjoR6-q9icW3Lrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVl_U9R2AjoR6-q9icW3Lrg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:51"
+  }
+]

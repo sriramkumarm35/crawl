@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narendra auto garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C4FG+P4R, Kurebhar, Sultanpur, Uttar Pradesh 228151",
+    "area": "224209",
+    "latitude": 26.4243505,
+    "longitude": 82.125278,
+    "place_id": "ChIJ9bbGdABxmjkRd0dNjaBQZ9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bbGdABxmjkRd0dNjaBQZ9g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:12"
+  },
+  {
+    "business_name": "Anwar auto garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224209",
+    "phone_number": "+91 96513 91391",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kurebhar, Said Khan Pur, Uttar Pradesh 228151",
+    "area": "224209",
+    "latitude": 26.4252184,
+    "longitude": 82.1249148,
+    "place_id": "ChIJlT7Phq9xmjkRteYeUrKgNaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlT7Phq9xmjkRteYeUrKgNaw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naval's Academy School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "General education school",
+    "all_categories": "General education school, Primary school, Secondary school",
+    "pincode": "224206",
+    "phone_number": "+91 99362 93672",
+    "website": "https://navalsacademy.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "LIC Office Building, Old, City Station Rd, Deokali, Ayodhya, Faizabad, Uttar Pradesh 224001",
+    "area": "Deokali",
+    "latitude": 26.7716037,
+    "longitude": 82.1639586,
+    "place_id": "ChIJgVE5OAoHmjkR5wh1dajBr_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVE5OAoHmjkR5wh1dajBr_0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:07:25"
+  },
+  {
+    "business_name": "Little Steps Play School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "224206",
+    "phone_number": "+91 93003 33999",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Shiv mandir, Yadunandan Nagar, Tifra, Bilaspur, Chhattisgarh 495003",
+    "area": "Yadunandan Nagar, Tifra",
+    "latitude": 22.0672662,
+    "longitude": 82.118827,
+    "place_id": "ChIJZ7FPmqALKDoRnmXnkp9aDaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7FPmqALKDoRnmXnkp9aDaI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:07:26"
+  }
+]

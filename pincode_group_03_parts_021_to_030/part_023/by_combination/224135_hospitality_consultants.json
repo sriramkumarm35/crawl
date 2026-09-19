@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Paradise Ayodhya",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Guest house, Hotel, Lodge",
+    "pincode": "224135",
+    "phone_number": "+91 88403 57112",
+    "website": "https://devparadiseayodhya.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SitaRamDas Puram, khale ka purwa, रामघाट, Ayodhya, Uttar Pradesh 224123",
+    "area": "khale ka purwa, रामघाट, Karsewakpuram",
+    "latitude": 26.7908278,
+    "longitude": 82.2175654,
+    "place_id": "ChIJM7rkCwCpkDkRBAFBUP6b6oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7rkCwCpkDkRBAFBUP6b6oY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:07"
+  },
+  {
+    "business_name": "Faizabad Genius Inter College",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "College",
+    "all_categories": "College, Education center, Educational consultant, Educational institution, Private College",
+    "pincode": "224135",
+    "phone_number": "+91 81890 93844",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Unnamed Road, Sanethu, Uttar Pradesh 224135",
+    "area": "224135",
+    "latitude": 26.744574,
+    "longitude": 82.191073,
+    "place_id": "ChIJoS7NpO0JmjkRHjXGy4wOrJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoS7NpO0JmjkRHjXGy4wOrJY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:07"
+  }
+]

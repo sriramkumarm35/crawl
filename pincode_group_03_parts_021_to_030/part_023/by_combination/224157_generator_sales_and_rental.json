@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Generator Co",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop, Repair service",
+    "pincode": "224157",
+    "phone_number": "+91 93111 53376",
+    "website": "http://www.indiagenerator.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No. 331, EXT 1, Ecotech III, Greater Noida, Uttar Pradesh 201318",
+    "area": "EXT 1, Ecotech III",
+    "latitude": 28.538458799999997,
+    "longitude": 77.45656129999999,
+    "place_id": "ChIJtcJrAN7rDDkRywuQivDqvI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcJrAN7rDDkRywuQivDqvI4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:03"
+  },
+  {
+    "business_name": "Unique Sales and Services",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop, Diesel engine dealer, Diesel engine repair service, Diesel fuel supplier, Repair service",
+    "pincode": "224157",
+    "phone_number": "+91 99605 84201",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "Swami Vivekanand Colony, behind Bhide Hospital, Savedi, Ahilyanagar, Maharashtra 414003",
+    "area": "Savedi",
+    "latitude": 19.127217299999998,
+    "longitude": 74.7273798,
+    "place_id": "ChIJObpPmMS73DsRr-dO7ZTH8jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObpPmMS73DsRr-dO7ZTH8jo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:05"
+  }
+]

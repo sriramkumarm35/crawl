@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shifa Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "224147",
+    "phone_number": "+91 63900 02182",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghosiyana. Road, Jahangir Ganj, Jahangir Ganj Market, Uttar Pradesh 224147",
+    "area": "224147",
+    "latitude": 26.4179998,
+    "longitude": 82.967778,
+    "place_id": "ChIJk79PerwDkTkR8_EvJO5E1mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk79PerwDkTkR8_EvJO5E1mo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:05"
+  },
+  {
+    "business_name": "Bakdapur",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CXXP+H93, Bakdapur Road, Lakhanpur, Uttar Pradesh 224147",
+    "area": "Lakhanpur",
+    "latitude": 26.448877799999998,
+    "longitude": 82.98592049999999,
+    "place_id": "ChIJVRwTBQAdkTkR2ZGDBvMVkiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRwTBQAdkTkR2ZGDBvMVkiQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:05"
+  }
+]

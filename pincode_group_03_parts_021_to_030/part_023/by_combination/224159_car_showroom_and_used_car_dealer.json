@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HGP CARS PVT LTD",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Renault dealer",
+    "pincode": "224159",
+    "phone_number": "+91 86018 73001",
+    "website": "https://renaultkanpur.com/",
+    "rating": 4.9,
+    "reviews_count": 165,
+    "address": "84\\54 (38 C, near Kapila Pashu Aahar, Jareeb Chowki, Anwarganj, Darshan Purwa, Kanpur, Uttar Pradesh 208003",
+    "area": "Jareeb Chowki, Anwarganj, Darshan Purwa",
+    "latitude": 26.4617003,
+    "longitude": 80.3245134,
+    "place_id": "ChIJZQIaexY4nDkRahicelX036I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQIaexY4nDkRahicelX036I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:43"
+  },
+  {
+    "business_name": "NXT CARS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "224159",
+    "phone_number": "+91 97111 10058",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "G-8, Block G, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Block G, Patel Nagar 3, Patel Nagar",
+    "latitude": 28.6767847,
+    "longitude": 77.4272119,
+    "place_id": "ChIJ6eMty63xDDkRHNvvK1egTTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eMty63xDDkRHNvvK1egTTE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:44"
+  }
+]

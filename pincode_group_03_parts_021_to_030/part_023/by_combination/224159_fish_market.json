@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kolhapur Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "224159",
+    "phone_number": "+91 95950 39595",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1784, Mutton Market Somwar, C Ward, Budhwar Peth, Kolhapur, Maharashtra 416002",
+    "area": "C Ward, Budhwar Peth",
+    "latitude": 16.697258299999998,
+    "longitude": 74.2264931,
+    "place_id": "ChIJGY_tJQABwTsRIQ_V1u0KsiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGY_tJQABwTsRIQ_V1u0KsiU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:10"
+  },
+  {
+    "business_name": "Chowdary's Meats",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "224159",
+    "phone_number": "+91 98498 98451",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 695,
+    "address": "near Telangana Weigh Bridge, Raghavendra Colony, Ramachandrapuram, Hyderabad, Telangana 502032",
+    "area": "Raghavendra Colony",
+    "latitude": 17.5268815,
+    "longitude": 78.2983785,
+    "place_id": "ChIJ-VIlwqGNyzsR98dqsnNHH5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VIlwqGNyzsR98dqsnNHH5o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:12"
+  }
+]

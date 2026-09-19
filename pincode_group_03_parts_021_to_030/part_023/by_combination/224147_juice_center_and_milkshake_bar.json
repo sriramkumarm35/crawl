@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHAKES FACTORY",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Soft drinks shop",
+    "all_categories": "Soft drinks shop",
+    "pincode": "224147",
+    "phone_number": "+91 91408 27748",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "CMS GATE, SECTOR -D LDA COLONY, NO.2, MAIN ROAD, near SBI ATM, Aashiyana, Lucknow, Uttar Pradesh 226012",
+    "area": "Hind Nagar, Sector D, Aashiyana",
+    "latitude": 26.7889402,
+    "longitude": 80.8970073,
+    "place_id": "ChIJVcYwCtj9mzkR4pd5Oi--WUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcYwCtj9mzkR4pd5Oi--WUs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:46"
+  },
+  {
+    "business_name": "Delhi Juice & Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224147",
+    "phone_number": "+91 91986 07545",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "RW72+5GX, Railway Colony, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Railway Colony, Alambagh",
+    "latitude": 26.8129942,
+    "longitude": 80.90137399999999,
+    "place_id": "ChIJlVWf_iD8mzkRdFG0k04CtAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVWf_iD8mzkRdFG0k04CtAk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:46"
+  }
+]

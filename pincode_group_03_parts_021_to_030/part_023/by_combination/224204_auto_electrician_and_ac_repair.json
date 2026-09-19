@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parvez A.C",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224204",
+    "phone_number": "+91 98390 78606",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "LBS MARG, infront of GHS jounior wing, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4526149,
+    "longitude": 81.82874319999999,
+    "place_id": "ChIJfw5r80_LmjkRGtfEC8eJPQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfw5r80_LmjkRGtfEC8eJPQw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:20"
+  },
+  {
+    "business_name": "Prima Auto Cool",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto body shop, Car alarm supplier",
+    "pincode": "224204",
+    "phone_number": "+91 93759 21634",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "prima shopping centre, Grid Rd, opposite Hotel Supreme, Tighra, Navsari, Gujarat 396427",
+    "area": "Tighra",
+    "latitude": 20.946162299999997,
+    "longitude": 72.9619841,
+    "place_id": "ChIJNZj9pFv24DsRf-LCkd_MFXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZj9pFv24DsRf-LCkd_MFXk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:20"
+  }
+]

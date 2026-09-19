@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.N. FITNESS CLUB (GYM)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "224135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P6X9+CCG, Darshan Nagar, Faizabad, Kushmaha, Uttar Pradesh 224135",
+    "area": "Darshan Nagar",
+    "latitude": 26.7485613,
+    "longitude": 82.2185707,
+    "place_id": "ChIJ_3nxOACnkDkRn9CRO3SxOQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3nxOACnkDkRn9CRO3SxOQA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:28"
+  },
+  {
+    "business_name": "DIAMOND HEALTH CLUB(GYM)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "224135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 30,
+    "address": "Awadh Vihar Colony, Vishnupuri Colony, Faizabad, Uttar Pradesh 224001",
+    "area": "Awadh Vihar Colony, Vishnupuri Colony",
+    "latitude": 26.7662978,
+    "longitude": 82.1330857,
+    "place_id": "ChIJ-xJFAqoImjkRWLNA0T9rA6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-xJFAqoImjkRWLNA0T9rA6g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:31"
+  }
+]

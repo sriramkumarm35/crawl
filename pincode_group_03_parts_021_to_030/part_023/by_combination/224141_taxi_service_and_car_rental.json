@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Awadh Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "224141",
+    "phone_number": "+91 96509 71174",
+    "website": "https://www.awadhtravels.com/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "H No - 78, Goshainganj, Rajpal Dharuva, Uttar Pradesh 224141",
+    "area": "224141",
+    "latitude": 26.576275799999998,
+    "longitude": 82.3718292,
+    "place_id": "ChIJQZDyv7WdSUIRKJR5uzCk2rA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZDyv7WdSUIRKJR5uzCk2rA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:09:07"
+  },
+  {
+    "business_name": "Prayagraj Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Service establishment",
+    "pincode": "224141",
+    "phone_number": "+91 92198 81996",
+    "website": "https://prayagrajcab.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Prayagraj Cab, 224141, India",
+    "area": "224141",
+    "latitude": 26.035319299999998,
+    "longitude": 81.94414619999999,
+    "place_id": "ChIJT_5u0AE1hTkRg0kerr0_MrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_5u0AE1hTkRg0kerr0_MrI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:09:08"
+  }
+]

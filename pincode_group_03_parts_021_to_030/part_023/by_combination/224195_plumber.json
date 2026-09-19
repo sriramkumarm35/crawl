@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Total Plumbing Solution",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Bathroom remodeler",
+    "pincode": "224195",
+    "phone_number": "+91 90983 11336",
+    "website": "https://jsdl.in/RSL-QAH1754635783",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Main Rd, near Bombay Hospital, Sector A, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Sector A, Mahalaxmi Nagar",
+    "latitude": 22.7539744,
+    "longitude": 75.9085333,
+    "place_id": "ChIJxRFGa1sdYzkR2hfubeZqs3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRFGa1sdYzkR2hfubeZqs3g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:56:25"
+  },
+  {
+    "business_name": "Modern Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Plumbing supply store",
+    "pincode": "224195",
+    "phone_number": "+91 98933 36838",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Shop-199A, 80 Feet Rd, near Ashoka Garden, Shaid Chouraha, Ashok Vihar, Thana, Bhopal, Madhya Pradesh 462023",
+    "area": "Shaid Chouraha, Ashok Vihar",
+    "latitude": 23.2607909,
+    "longitude": 77.430081,
+    "place_id": "ChIJSxwVVdFpfDkR1mS8eW-3lVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxwVVdFpfDkR1mS8eW-3lVY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:56:25"
+  }
+]

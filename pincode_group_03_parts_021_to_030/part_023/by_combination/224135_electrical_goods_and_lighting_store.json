@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electrical Darbar",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224135",
+    "phone_number": "+91 96165 28212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Dhabha Semar, Faizabad, Kushmaha, Uttar Pradesh 224135",
+    "area": "Dhabha Semar",
+    "latitude": 26.7465077,
+    "longitude": 82.2236282,
+    "place_id": "ChIJJQhtEJankDkRzc-RFTMWxmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQhtEJankDkRzc-RFTMWxmg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:40"
+  },
+  {
+    "business_name": "Pandey Electric",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "224135",
+    "phone_number": "+91 91619 02610",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Near Head Post Office, Sabji Mandi Road, Sringar Haat, Ayodhya, Uttar Pradesh 224123",
+    "area": "Tulsi Nagar",
+    "latitude": 26.799768399999998,
+    "longitude": 82.2035251,
+    "place_id": "ChIJL2pNApIHmjkRsDlJb2y_oS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2pNApIHmjkRsDlJb2y_oS0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:44"
+  }
+]

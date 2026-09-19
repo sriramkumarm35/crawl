@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Rama Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "224171",
+    "phone_number": "+91 94500 25068",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 169,
+    "address": "Opp. CRS Degree College, Kanpur Road, Lal Hospital to Permila Bhawan Rd, Sector D, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector D, LDA Colony",
+    "latitude": 26.7899837,
+    "longitude": 80.895417,
+    "place_id": "ChIJjRrruav-mzkRinbFFTk2thk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRrruav-mzkRinbFFTk2thk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:38:38"
+  },
+  {
+    "business_name": "Prem Sons Stationary Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "224171",
+    "phone_number": "+91 98119 92092",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "53/3, Ground Floor, Bada Bazar Rd, Old Rajinder Nagar, New Delhi, Delhi 110060",
+    "area": "Old Rajinder Nagar, Rajinder Nagar",
+    "latitude": 28.6402754,
+    "longitude": 77.1844239,
+    "place_id": "ChIJEyP3H6MCDTkR9FcsVfFBpXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyP3H6MCDTkR9FcsVfFBpXc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:38:39"
+  }
+]

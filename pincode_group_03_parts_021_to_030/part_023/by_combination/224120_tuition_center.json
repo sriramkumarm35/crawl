@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fatima Educational Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "224120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "PPQR+W38, Near old Gas Godown Bhauli Road, Rudauli, Uttar Pradesh 224120",
+    "area": "224120",
+    "latitude": 26.739788899999997,
+    "longitude": 81.74020279999999,
+    "place_id": "ChIJfci2iys7mjkRDezQpvtx-G0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfci2iys7mjkRDezQpvtx-G0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:39"
+  },
+  {
+    "business_name": "The Student Hub Classes",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "224120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 41,
+    "address": "PWCR+JH8, village -shahpur, post, Surwari, Uttar Pradesh 224189",
+    "area": "Surwari",
+    "latitude": 26.7215392,
+    "longitude": 81.9414396,
+    "place_id": "ChIJwyXtmuQXmjkRkqCYJ_pAwoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyXtmuQXmjkRkqCYJ_pAwoA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:39"
+  }
+]

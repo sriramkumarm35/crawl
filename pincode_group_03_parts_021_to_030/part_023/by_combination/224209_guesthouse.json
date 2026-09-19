@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anant Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "224209",
+    "phone_number": "+91 96512 76910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Said Khan Pur, Uttar Pradesh 228151",
+    "area": "224209",
+    "latitude": 26.440184,
+    "longitude": 82.1259487,
+    "place_id": "ChIJGRkjyWVxmjkRtFXV71-Y4h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRkjyWVxmjkRtFXV71-Y4h4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:41"
+  },
+  {
+    "business_name": "Jairam Guest House and Hotel",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hot water system supplier, Hotel, Parking lot",
+    "pincode": "224209",
+    "phone_number": "+91 98712 77293",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Siddhi Ganeshpur, Kurebhar, Uttar Pradesh 228151",
+    "area": "224209",
+    "latitude": 26.397742899999997,
+    "longitude": 82.122231,
+    "place_id": "ChIJc50H5o1xmjkRfjhVmYou7j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc50H5o1xmjkRfjhVmYou7j4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:41"
+  }
+]

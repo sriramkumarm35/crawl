@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EytTravel",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Bus ticket agency, Tour operator",
+    "pincode": "224125",
+    "phone_number": "+91 84395 74494",
+    "website": "http://eyttravel.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bhattowala, P.O, Gumaniwala, Rishikesh, Uttarakhand 249204",
+    "area": "P.O, Gumaniwala",
+    "latitude": 30.079475199999997,
+    "longitude": 78.2339697,
+    "place_id": "ChIJS9cqpcE_CTkRC4zoYv4sEtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9cqpcE_CTkRC4zoYv4sEtA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:52:35"
+  },
+  {
+    "business_name": "Vishwa Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "224125",
+    "phone_number": "+91 88888 45403",
+    "website": "http://www.vishwatravels.in/contact_us",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. 2, 9HW8+RWG Udyog Bhavan, Shivaji Nagar Road, Shivaji Nagar, Narayan Nagar, Latur, Maharashtra 413531",
+    "area": "Shivaji Nagar, Narayan Nagar",
+    "latitude": 18.396991099999997,
+    "longitude": 76.5673345,
+    "place_id": "ChIJT1P15sGDzzsRE7iU4ZadS0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1P15sGDzzsRE7iU4ZadS0o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:52:36"
+  }
+]

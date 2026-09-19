@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kulhad chai wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Coffee shop",
+    "pincode": "224168",
+    "phone_number": "+91 89292 94248",
+    "website": "https://magicpin.in/Gurgaon/Sector-14/Restaurant/Kulhad-Chai-Wala/store/1536799/?utm_source=gbp",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no 75, main huda market, near om sweets, DLF Colony, Sector 14, Gurugram, Haryana 122007",
+    "area": "DLF Colony, Sector 14",
+    "latitude": 28.4729477,
+    "longitude": 77.04805879999999,
+    "place_id": "ChIJAU1X6VUZDTkRM6knR25OLX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAU1X6VUZDTkRM6knR25OLX8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:35:40"
+  },
+  {
+    "business_name": "Vijayanagar Chai Adda",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "224168",
+    "phone_number": "+91 91489 99899",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 31,
+    "address": "#1252, 9th Main Rd, SBI Staff Colony, Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka 560040",
+    "area": "SBI Staff Colony, Hoshalli Extension, Stage 1, Vijayanagar",
+    "latitude": 12.971041699999999,
+    "longitude": 77.54029419999999,
+    "place_id": "ChIJcyTF3P09rjsRlSIjNhvwYok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyTF3P09rjsRlSIjNhvwYok",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:35:41"
+  }
+]

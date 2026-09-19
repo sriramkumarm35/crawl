@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma cloth house",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "224207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Umarpur bazar bikapur, Uttar Pradesh 224204",
+    "area": "224207",
+    "latitude": 26.589228799999997,
+    "longitude": 82.05633979999999,
+    "place_id": "ChIJeZuUYQgNmjkRt7EFLDgYqEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZuUYQgNmjkRt7EFLDgYqEU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:18"
+  },
+  {
+    "business_name": "Alok Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "224207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harrington-Ganj Road, Kocha Bazar, Kochha, Uttar Pradesh 224207",
+    "area": "Kocha Bazar",
+    "latitude": 26.5381252,
+    "longitude": 82.10352639999999,
+    "place_id": "ChIJibr3iSZzmjkRaQhlRmlwNxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibr3iSZzmjkRaQhlRmlwNxs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:18"
+  }
+]

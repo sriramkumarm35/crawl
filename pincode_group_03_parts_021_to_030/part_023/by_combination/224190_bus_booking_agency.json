@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roohul Ameen Travell",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent",
+    "pincode": "224190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sakrawal Rd, near neemtal masjids, East, Tanda, Uttar Pradesh 224190",
+    "area": "East",
+    "latitude": 26.5433031,
+    "longitude": 82.6548688,
+    "place_id": "ChIJMZ6VvnbpkDkRmzkKRPjg2D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZ6VvnbpkDkRmzkKRPjg2D4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:54:30"
+  },
+  {
+    "business_name": "BASOTIA FORWARDING AGENCY",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "224190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "HM44+H43, SH 5, Chhajjapur, Tanda, Uttar Pradesh 224190",
+    "area": "Chhajjapur",
+    "latitude": 26.556376699999998,
+    "longitude": 82.6553,
+    "place_id": "ChIJI8OcEn3pkDkRpkL-DqZvYD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8OcEn3pkDkRpkL-DqZvYD0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:54:30"
+  }
+]

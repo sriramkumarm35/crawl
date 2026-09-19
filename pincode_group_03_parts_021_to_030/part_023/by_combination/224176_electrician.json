@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electrician Abdullah",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "224176",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sariaya, Dharoopur, Marachharaj, Uttar Pradesh 276137",
+    "area": "Sariaya",
+    "latitude": 26.277705299999997,
+    "longitude": 83.0796292,
+    "place_id": "ChIJlUtbGwAJkTkRcGdLUwaVn2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlUtbGwAJkTkRcGdLUwaVn2U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:48"
+  },
+  {
+    "business_name": "Shalimar Electricals And Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224176",
+    "phone_number": "+91 73552 44867",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Purani Chowk, Mahrajganj, Pasipur, Uttar Pradesh 276137",
+    "area": "224176",
+    "latitude": 26.2586449,
+    "longitude": 83.11603339999999,
+    "place_id": "ChIJ6-86B_kJkTkRxpE9zyt6x7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-86B_kJkTkRxpE9zyt6x7w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:49"
+  }
+]

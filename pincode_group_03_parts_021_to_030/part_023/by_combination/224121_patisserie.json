@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/S Shree Ji Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "224121",
+    "phone_number": "+91 73103 68312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Unnamed Road, Ram Path Rd, Sahadatganj, Faizabad, Uttar Pradesh 224001",
+    "area": "Sahadatganj",
+    "latitude": 26.7717922,
+    "longitude": 82.1144091,
+    "place_id": "ChIJ7VVsWGQFmjkRCP6rwsQep9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VVsWGQFmjkRCP6rwsQep9s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:20"
+  },
+  {
+    "business_name": "Param Food Products",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Indian sweets shop",
+    "pincode": "224121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Infront of Krishna Electronics, Sai Nagar, Ayodhya, Uttar Pradesh 224123",
+    "area": "Sai Nagar",
+    "latitude": 26.7937674,
+    "longitude": 82.2012743,
+    "place_id": "ChIJKWhZQaoHmjkRi703D_FAtko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWhZQaoHmjkRi703D_FAtko",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:22"
+  }
+]

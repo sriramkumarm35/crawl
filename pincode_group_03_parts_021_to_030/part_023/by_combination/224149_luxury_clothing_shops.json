@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MMK Fashion Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store",
+    "pincode": "224149",
+    "phone_number": "+91 84190 90324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jalalpur - Ramgarh Rd, near Khan Petrol Pump, Jalalpur, Uttar Pradesh 224149",
+    "area": "224149",
+    "latitude": 26.3079665,
+    "longitude": 82.7389736,
+    "place_id": "ChIJ7QoF65b5kDkRLavVt17cAZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QoF65b5kDkRLavVt17cAZw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:44"
+  },
+  {
+    "business_name": "MAURYA TEXTILES",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "224149",
+    "phone_number": "+91 87655 91125",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Baskhari road, trimuhani, nikat, Malipur, Jalalpur, Uttar Pradesh 224149",
+    "area": "nikat",
+    "latitude": 26.3122513,
+    "longitude": 82.73245779999999,
+    "place_id": "ChIJsdUlg7v3kDkRxwXAmYDtLvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdUlg7v3kDkRxwXAmYDtLvg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:45"
+  }
+]

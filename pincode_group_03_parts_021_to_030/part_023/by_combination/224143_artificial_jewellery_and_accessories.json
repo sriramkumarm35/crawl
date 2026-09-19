@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Bangle Store",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Bangle Shop",
+    "all_categories": "Bangle Shop",
+    "pincode": "224143",
+    "phone_number": "+91 79853 49351",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Super Market, Saray Chowk Bazar, Ambarpur, Jalalpur, Uttar Pradesh 224149",
+    "area": "224143",
+    "latitude": 26.3108246,
+    "longitude": 82.7374584,
+    "place_id": "ChIJ54vQgsv5kDkRQNCGXbGCoAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54vQgsv5kDkRQNCGXbGCoAM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:33"
+  },
+  {
+    "business_name": "Pooja jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "224143",
+    "phone_number": "+91 91708 26666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tahirpur B, S.P OFFICE ROAD, Patel Nagar, Akbarpur, Uttar Pradesh 224122",
+    "area": "Patel Nagar",
+    "latitude": 26.439743699999998,
+    "longitude": 82.5540635,
+    "place_id": "ChIJa6rNc8yTkDkR6SQXOb-dGAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6rNc8yTkDkR6SQXOb-dGAc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Growth Best",
+    "search_category": "Growth Marketing",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "224153",
+    "phone_number": "+91 88997 88887",
+    "website": "https://growthbest.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Building no.2, Main, GT Karnal Rd, State Bank Colony, Kirpal Bagh, Gujranwala Town, Delhi, 110009",
+    "area": "State Bank Colony, Kirpal Bagh, Gujranwala Town",
+    "latitude": 28.6923806,
+    "longitude": 77.19078499999999,
+    "place_id": "ChIJnf6eY20DDTkRMVcyGtg1TLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnf6eY20DDTkRMVcyGtg1TLE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:24:29"
+  },
+  {
+    "business_name": "Soft Market Solution",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "224153",
+    "phone_number": "+91 62996 55909",
+    "website": "https://softmarketsolution.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "2 rd Floor, WZ - 124, Ram Nagar Extension, Ram Nagar, Tilak Nagar, New Delhi, Delhi, 110018",
+    "area": "Ram Nagar Extension, Ram Nagar, Tilak Nagar",
+    "latitude": 28.6442743,
+    "longitude": 77.0951702,
+    "place_id": "ChIJoVzHIJEFDTkRikXIe-Tud5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVzHIJEFDTkRikXIe-Tud5E",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:24:29"
+  }
+]

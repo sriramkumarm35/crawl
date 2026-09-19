@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "224186",
+    "phone_number": "+91 80534 67003",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7VP5+652, Highway dhaba old toll plaza at bilaspur, Jaipur - Delhi Expy, Gurugram, Haryana 122413",
+    "area": "224186",
+    "latitude": 28.2855234,
+    "longitude": 76.857906,
+    "place_id": "ChIJLXt7pjA5DTkRWhy1yX3xO0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXt7pjA5DTkRWhy1yX3xO0Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:33"
+  },
+  {
+    "business_name": "Tasty point family restaurant and dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "224186",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "RV85+P42 National Highway, 27, Muzahna, Uttar Pradesh 272178",
+    "area": "224186",
+    "latitude": 26.8168626,
+    "longitude": 82.8578023,
+    "place_id": "ChIJDR_rwQbXkDkR7qB1fSZnMMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDR_rwQbXkDkR7qB1fSZnMMA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:33"
+  }
+]

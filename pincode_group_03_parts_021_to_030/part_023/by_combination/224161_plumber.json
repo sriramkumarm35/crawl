@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atul Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "224161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "rajauli jamthara road, Tarapur, Kutubpur, Uttar Pradesh 224171",
+    "area": "224161",
+    "latitude": 26.6949389,
+    "longitude": 82.2676596,
+    "place_id": "ChIJNb5d79inkDkRlJ5uiHcKbtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNb5d79inkDkRlJ5uiHcKbtg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:32:41"
+  },
+  {
+    "business_name": "Dharmendra Plambering work",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrical equipment supplier",
+    "pincode": "224161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pura Bazar, Rajepur Uparhar, Bhagwa Bheet, Uttar Pradesh 224171",
+    "area": "Pura Bazar",
+    "latitude": 26.7015487,
+    "longitude": 82.2715328,
+    "place_id": "ChIJLbpeMMGnkDkRsasmu_k6lCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbpeMMGnkDkRsasmu_k6lCY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:32:44"
+  }
+]

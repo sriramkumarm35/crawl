@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224143",
+    "phone_number": "+91 91251 13099",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CG9Q+963, Nayi sadak, near Anant plaza hotel, Shahzad Pur, Akbarpur, Uttar Pradesh 224122",
+    "area": "Shahzad Pur",
+    "latitude": 26.418388,
+    "longitude": 82.5380496,
+    "place_id": "ChIJvQjPJwKTkDkRQOU7TVd-lOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQjPJwKTkDkRQOU7TVd-lOg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:38"
+  },
+  {
+    "business_name": "Hindustan Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224143",
+    "phone_number": "+91 98380 79402",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "CGMR+P4P, Eltefatganj Akbarpur Road, Maha Nagar Colony, Akbarpur, Uttar Pradesh 224122",
+    "area": "Maha Nagar Colony",
+    "latitude": 26.4343437,
+    "longitude": 82.54031789999999,
+    "place_id": "ChIJtayi0pCTkDkRn5wRtHK6cOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtayi0pCTkDkRn5wRtHK6cOk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:38"
+  }
+]

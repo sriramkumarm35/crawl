@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hazelnut Factory cafe - Alambagh",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "224183",
+    "phone_number": "+91 73174 00400",
+    "website": "http://thehazelnutfactory.com/",
+    "rating": 4.4,
+    "reviews_count": 1760,
+    "address": "LGF & UGF RB Tower, B-172, Kanpur Rd, Behind iDelta Apple Authorized Reseller, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector B, Bargawan, LDA Colony",
+    "latitude": 26.798511599999998,
+    "longitude": 80.8976661,
+    "place_id": "ChIJYcp6sZxJnDkRBQ5nlKns62Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcp6sZxJnDkRBQ5nlKns62Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:36"
+  },
+  {
+    "business_name": "Jai Bharat Mart",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake decorating equipment shop",
+    "all_categories": "Cake decorating equipment shop",
+    "pincode": "224183",
+    "phone_number": "+91 94235 69756",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "B/184/12, River Rd, Pimpri Area, Shastri Nagar, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411017",
+    "area": "Pimpri Area, Shastri Nagar, Pimpri Colony",
+    "latitude": 18.6221946,
+    "longitude": 73.7993989,
+    "place_id": "ChIJr83q_nK5wjsRdsXr1xAt80Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr83q_nK5wjsRdsXr1xAt80Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE SALOON AND SPA CENTRE.",
+    "search_category": "Spa",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "224145",
+    "phone_number": "+91 82913 02615",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GATE NO.02, NTPC COLONY, Tanda, Meeranpur Sadar Ali, Uttar Pradesh 224145",
+    "area": "224145",
+    "latitude": 26.594944899999998,
+    "longitude": 82.5812345,
+    "place_id": "ChIJ192PgkbrkDkRq5OUnbPWuug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ192PgkbrkDkRq5OUnbPWuug",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:57"
+  },
+  {
+    "business_name": "One Day Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "224145",
+    "phone_number": "+91 91964 19793",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "1st Floor, Hello Food, One Day Spa, Ardh Sainik Canteen, near Hello Food, Gola Gokaran Nath, Gola, Uttar Pradesh 262802",
+    "area": "224145",
+    "latitude": 28.072691199999998,
+    "longitude": 80.4785186,
+    "place_id": "ChIJp3lLcCRDnzkR9Vu_A0CVr70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3lLcCRDnzkR9Vu_A0CVr70",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:58"
+  }
+]

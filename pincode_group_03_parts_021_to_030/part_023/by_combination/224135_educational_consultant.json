@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Credentis",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "224135",
+    "phone_number": "N/A",
+    "website": "https://credentis.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Credentis, 224135, India",
+    "area": "224135",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJASS5Avx2ZoERC1z3kjSmUJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASS5Avx2ZoERC1z3kjSmUJM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:14"
+  },
+  {
+    "business_name": "Saloni Consultant",
+    "search_category": "Educational Consultant",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "224135",
+    "phone_number": "+91 73481 11818",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "09, Wajirganj, Uttar Pradesh 224001",
+    "area": "Gayatri Puram",
+    "latitude": 26.771027999999998,
+    "longitude": 82.1603775,
+    "place_id": "ChIJ2YjRr2kHmjkRv2JhKb7hPKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YjRr2kHmjkRv2JhKb7hPKo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:15"
+  }
+]

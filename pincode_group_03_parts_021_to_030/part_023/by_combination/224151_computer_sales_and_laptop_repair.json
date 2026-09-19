@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BN Computers Digital Service Center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "224151",
+    "phone_number": "+91 94151 63189",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shrwan Kshetra, Chiutipara, Shrwan Kshetra, Uttar Pradesh 224168",
+    "area": "224151",
+    "latitude": 26.4388473,
+    "longitude": 82.46860439999999,
+    "place_id": "ChIJmcSiRWqRkDkR90sP7hFENIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcSiRWqRkDkR90sP7hFENIg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:20:25"
+  },
+  {
+    "business_name": "Samarth Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer desk store, Computer Hardware Company, Computer Rental Agency, Computer service, Computer software store, Computer store, Computer Wholesaler, Used computer store",
+    "pincode": "224151",
+    "phone_number": "+91 77559 96677",
+    "website": "https://www.samarthcomputers.in/",
+    "rating": 4.9,
+    "reviews_count": 151,
+    "address": "Shop no 2, Lonkar Wasti, Mundhwa - Manjari Rd, near by HDFC ATM, above Z Corner, Keshav Nagar, Mundhwa, Pune, Maharashtra 411036",
+    "area": "Keshav Nagar, Mundhwa",
+    "latitude": 18.5274514,
+    "longitude": 73.950479,
+    "place_id": "ChIJa1f2YZXDwjsRMwSGeYjtNh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1f2YZXDwjsRMwSGeYjtNh8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:20:28"
+  }
+]

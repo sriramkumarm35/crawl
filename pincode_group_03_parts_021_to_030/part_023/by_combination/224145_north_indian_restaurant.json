@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknow Darbaar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Awadhi Restaurant",
+    "all_categories": "Awadhi Restaurant",
+    "pincode": "224145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GJPM+2W2, Tanda, Fathe Jahoorpur, Uttar Pradesh 224190",
+    "area": "224145",
+    "latitude": 26.534750499999998,
+    "longitude": 82.6352619,
+    "place_id": "ChIJu8pOZADrkDkRJcyjbEhZj08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8pOZADrkDkRJcyjbEhZj08",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:13"
+  },
+  {
+    "business_name": "CRG Restaurent & Fast Food",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "HJV9+73X, NH 28, Raypur, Uttar Pradesh 224232",
+    "area": "224145",
+    "latitude": 26.5932258,
+    "longitude": 82.6177311,
+    "place_id": "ChIJHwfsNizrkDkRrE7uab6SoTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwfsNizrkDkRrE7uab6SoTI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:13"
+  }
+]

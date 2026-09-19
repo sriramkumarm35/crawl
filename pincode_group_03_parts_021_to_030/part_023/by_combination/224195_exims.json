@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TMR EXIMS",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "224195",
+    "phone_number": "+91 95008 11665",
+    "website": "https://www.tmrexims.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "2/38, Lr.medu, Arambakkam, Tamil Nadu 601201",
+    "area": "224195",
+    "latitude": 13.532532699999999,
+    "longitude": 80.0407673,
+    "place_id": "ChIJSxdy-CF3TToREdS8XUi4_Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxdy-CF3TToREdS8XUi4_Lc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:11"
+  },
+  {
+    "business_name": "Export Import Data",
+    "search_category": "EXIMS",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "224195",
+    "phone_number": "+91 99900 20716",
+    "website": "http://exportimportdata.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B-1/E-3, 2nd Floor, NH-19, Mohan Cooperative Industrial Estate, New Delhi, Haryana 121004",
+    "area": "Mohan Cooperative Industrial Estate, Sector 58",
+    "latitude": 28.3213878,
+    "longitude": 77.3103289,
+    "place_id": "ChIJPUjI77fbDDkRUBUr-ngAlHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUjI77fbDDkRUBUr-ngAlHk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urvi's Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224127",
+    "phone_number": "+91 94157 18246",
+    "website": "https://facebook.com/UrviKitchen/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ram Nagar, Murawantola, Naka, Faizabad, Uttar Pradesh 224001",
+    "area": "Murawantola, Naka",
+    "latitude": 26.7649808,
+    "longitude": 82.14117739999999,
+    "place_id": "ChIJxYeSeisJmjkRSnA89YQZZRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYeSeisJmjkRSnA89YQZZRY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:55:44"
+  },
+  {
+    "business_name": "Ekta Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224127",
+    "phone_number": "+91 89573 82965",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Allahabad - Faizabad Rd, Dostpur, Uttar Pradesh 224202",
+    "area": "224127",
+    "latitude": 26.662366199999997,
+    "longitude": 82.13446479999999,
+    "place_id": "ChIJraWnycMLmjkRRf1CwCYSPPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraWnycMLmjkRRf1CwCYSPPk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:55:46"
+  }
+]

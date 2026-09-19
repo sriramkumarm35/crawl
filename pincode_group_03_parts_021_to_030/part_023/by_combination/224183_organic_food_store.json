@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Harvest Farms",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm",
+    "pincode": "224183",
+    "phone_number": "+91 97909 48235",
+    "website": "https://happyharvestfarms.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kuppati rd, devaganapalli, hosur thally rd, hosur, Tamil Nadu 641035",
+    "area": "Ganapathi Maanagar",
+    "latitude": 11.053024599999999,
+    "longitude": 77.0032298,
+    "place_id": "ChIJNceHiMNrrjsRMf1El5iQz-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNceHiMNrrjsRMf1El5iQz-4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:31"
+  },
+  {
+    "business_name": "Dudhai, Uttar Pradesh 224183",
+    "search_category": "Organic Food Store",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "224183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dudhai, Uttar Pradesh",
+    "area": "224183",
+    "latitude": 26.3033808,
+    "longitude": 82.7940297,
+    "place_id": "ChIJtyoLgxT5kDkR7gdUOgO2gAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyoLgxT5kDkR7gdUOgO2gAs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Your Mechanic Online",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Auto wrecker",
+    "all_categories": "Auto wrecker, Auto body parts supplier, Auto painting, Auto repair shop, Car repair and maintenance service, Car wash, Diesel engine repair service, Oil change service, Vehicle inspection service",
+    "pincode": "224201",
+    "phone_number": "+91 75587 83868",
+    "website": "https://yourmechaniconline.com/",
+    "rating": 4.8,
+    "reviews_count": 311,
+    "address": "JP5F+62P, Phase 1, Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Maharashtra 411057",
+    "area": "Phase 1, Rajiv Gandhi Infotech Park",
+    "latitude": 18.6079699,
+    "longitude": 73.723606,
+    "place_id": "ChIJ1X7rK5y7wjsRzLwRob-jb3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X7rK5y7wjsRzLwRob-jb3U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:58:07"
+  },
+  {
+    "business_name": "B R Crane Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "224201",
+    "phone_number": "+91 99538 54798",
+    "website": "https://www.brcraneservices.com/products.html",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "PLOT NO. 10, Sector 17/18 Dividing Rd, near Pasco Body Shop, Sector 18, Gurugram, Haryana 122007",
+    "area": "Sector 18",
+    "latitude": 28.4870691,
+    "longitude": 77.05942139999999,
+    "place_id": "ChIJZarD-IoZDTkRtZxQFoo0t8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZarD-IoZDTkRtZxQFoo0t8c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:58:08"
+  }
+]

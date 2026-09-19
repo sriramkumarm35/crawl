@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shops",
+    "search_category": "Shops",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store",
+    "pincode": "224141",
+    "phone_number": "+91 88535 49951",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "460, Goshainganj, Uttar Pradesh 224141",
+    "area": "224141",
+    "latitude": 26.5652984,
+    "longitude": 82.3826478,
+    "place_id": "ChIJJTTi0amZkDkR3KXyQy_qUHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTTi0amZkDkR3KXyQy_qUHQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:13"
+  },
+  {
+    "business_name": "SHIV ELECTRONICS Goshainganj",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224141",
+    "phone_number": "+91 94538 72200",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bala Paikauli, Road Bypass Katra, Goshainganj, Uttar Pradesh 224141",
+    "area": "224141",
+    "latitude": 26.569884,
+    "longitude": 82.3820346,
+    "place_id": "ChIJh3Zp8TCYkDkRNqgpwMDnVBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3Zp8TCYkDkRNqgpwMDnVBs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:13"
+  }
+]

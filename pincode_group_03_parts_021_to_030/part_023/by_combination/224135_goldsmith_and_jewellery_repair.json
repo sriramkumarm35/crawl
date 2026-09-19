@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Repairing Shop",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "224135",
+    "phone_number": "+91 90265 98905",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q4GP+87G, main road, Lal Nalkoop Colony, Faizabad, Uttar Pradesh 224001",
+    "area": "Lal Nalkoop Colony",
+    "latitude": 26.7758088,
+    "longitude": 82.1357036,
+    "place_id": "ChIJo0oHqwUGmjkREbB9tdzRTCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0oHqwUGmjkREbB9tdzRTCs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:12"
+  },
+  {
+    "business_name": "RajhansJwelers Ajay Kumar",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "224135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Poora bazar, Police chowki Chauraha, Pura Bazar, Rajepur Uparhar, Uttar Pradesh 224171",
+    "area": "Pura Bazar",
+    "latitude": 26.7026312,
+    "longitude": 82.269485,
+    "place_id": "ChIJPZXU5C-nkDkR8msJ6eP5DgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZXU5C-nkDkR8msJ6eP5DgY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:15"
+  }
+]

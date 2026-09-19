@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tamil Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224118",
+    "phone_number": "+91 92783 31002",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sri Sai Plaza, Faizabad - Lucknow Hwy, near to Federal Bank, Awas Vikas Colony, Barabanki, Lucknow, Uttar Pradesh 255001",
+    "area": "Awas Vikas Colony",
+    "latitude": 26.923642599999997,
+    "longitude": 81.1781049,
+    "place_id": "ChIJ5zd-Le9XmTkRmqVk12YVdI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zd-Le9XmTkRmqVk12YVdI0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:40:51"
+  },
+  {
+    "business_name": "Aarva - The Aroma of South",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224118",
+    "phone_number": "+91 74281 25045",
+    "website": "http://aarva.co/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gate 3, Opp, IGNOU Rd, Freedom Fighter Colony, Freedom Fighters Enclave, Neb Sarai, Sainik Farm, New Delhi, Delhi 110068",
+    "area": "Freedom Fighter Colony, Freedom Fighters Enclave, Neb Sarai, Sainik Farm",
+    "latitude": 28.5089676,
+    "longitude": 77.2011382,
+    "place_id": "ChIJ3a8jRNPhDDkROiTlRwpIUp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3a8jRNPhDDkROiTlRwpIUp0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:40:51"
+  }
+]

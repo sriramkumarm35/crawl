@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj computer institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Education center",
+    "pincode": "224146",
+    "phone_number": "+91 95699 82523",
+    "website": "https://rcin.agisvns.com/",
+    "rating": 4.9,
+    "reviews_count": 38,
+    "address": "Devnathpur, Ajaypur, Uttar Pradesh 221401",
+    "area": "224146",
+    "latitude": 25.3560119,
+    "longitude": 82.51062259999999,
+    "place_id": "ChIJAxmeTgDnjzkRc8N36v1gFIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxmeTgDnjzkRc8N36v1gFIM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:01"
+  },
+  {
+    "business_name": "LBS ADVANCED TRAINING INSTITUTE Loni",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "224146",
+    "phone_number": "+91 94575 70001",
+    "website": "http://www.lbsati.in/",
+    "rating": 5,
+    "reviews_count": 72,
+    "address": "New vikas nagar, sombazar wali gali, near city hospital, Loni Dehat, Ghaziabad, Uttar Pradesh 201102",
+    "area": "Loni Dehat",
+    "latitude": 28.744922199999998,
+    "longitude": 77.30693149999999,
+    "place_id": "ChIJL-r19rz5DDkR14eKp6gTKlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-r19rz5DDkR14eKp6gTKlo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:01"
+  }
+]

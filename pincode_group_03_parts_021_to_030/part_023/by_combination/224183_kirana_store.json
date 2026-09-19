@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JANTA KIRANA STORE",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "224183",
+    "phone_number": "+91 98675 85299",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Uttar Pradesh 224139",
+    "area": "224183",
+    "latitude": 26.309705899999997,
+    "longitude": 82.838821,
+    "place_id": "ChIJJf0H7MD-kDkRbvPlFu7SAMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJf0H7MD-kDkRbvPlFu7SAMU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:28"
+  },
+  {
+    "business_name": "Mukhtar Anda & Kirana store",
+    "search_category": "Kirana Store",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "224183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8RH4+3GC, Rafiganj, Bhiyaon, Uttar Pradesh 224139",
+    "area": "224183",
+    "latitude": 26.3282067,
+    "longitude": 82.8063239,
+    "place_id": "ChIJw_GWawD5kDkRPcYLlD2IrZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_GWawD5kDkRPcYLlD2IrZU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:31"
+  }
+]

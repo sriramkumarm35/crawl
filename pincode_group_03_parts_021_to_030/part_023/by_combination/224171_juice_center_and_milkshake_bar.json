@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The juice land",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224171",
+    "phone_number": "+91 93160 02195",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "the juice land, Devayatbodar marg, Airforce2 Rd, near elite luxuria, Vasa Vira Society, Ajanta Society, Jamnagar, Gujarat 361006",
+    "area": "Vasa Vira Society, Ajanta Society",
+    "latitude": 22.460496799999998,
+    "longitude": 70.03799149999999,
+    "place_id": "ChIJlZX4wykVVzkRUrJqNeURxOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZX4wykVVzkRUrJqNeURxOE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:31"
+  },
+  {
+    "business_name": "ROYAL DELHI JUICE",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224171",
+    "phone_number": "+91 70032 32131",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pratapgarh N.S.C BOSE ROAD Pratapgarh, Uttar, Kumarkhali, Rajpur Sonarpur, West Bengal 700103",
+    "area": "Kumarkhali, Laskar Pur",
+    "latitude": 22.450943,
+    "longitude": 88.3896967,
+    "place_id": "ChIJCTjB9tpxAjoRYhm-9kBhGJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTjB9tpxAjoRYhm-9kBhGJU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:32"
+  }
+]

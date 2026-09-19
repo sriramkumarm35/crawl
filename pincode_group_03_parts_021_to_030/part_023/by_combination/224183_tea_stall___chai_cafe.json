@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puneri Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Tea store",
+    "pincode": "224183",
+    "phone_number": "+91 78921 49996",
+    "website": "http://www.chaivenue.com/",
+    "rating": 4.5,
+    "reviews_count": 5274,
+    "address": "8th Cross Rd, below Grand Paradise PG, Tavarekere, Narayan Gowda Layout, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029",
+    "area": "Tavarekere, Narayan Gowda Layout, 1st Stage, BTM 1st Stage",
+    "latitude": 12.9198326,
+    "longitude": 77.61107609999999,
+    "place_id": "ChIJP_Cha98VrjsRdPgByOFgOEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_Cha98VrjsRdPgByOFgOEc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:40"
+  },
+  {
+    "business_name": "SANCHA Tea Boutique Lavelle Road (Best Tea Shop in Bengaluru)",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "224183",
+    "phone_number": "+91 80 4850 7417",
+    "website": "http://www.sanchatea.com/",
+    "rating": 4.6,
+    "reviews_count": 210,
+    "address": "54, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.971385999999999,
+    "longitude": 77.598252,
+    "place_id": "ChIJRyFVvHkWrjsRb7smb-3LwTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyFVvHkWrjsRb7smb-3LwTY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:46:40"
+  }
+]

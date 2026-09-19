@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhanu Farms Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "224159",
+    "phone_number": "+91 81000 00011",
+    "website": "http://www.bhanufarms.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "31, Chowringee Rd, Park Street area, Kolkata, West Bengal 700016",
+    "area": "Park Street area",
+    "latitude": 22.5547094,
+    "longitude": 88.3502829,
+    "place_id": "ChIJ2ZqD6hV3AjoRl7bQf2kRmrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZqD6hV3AjoRl7bQf2kRmrw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:13"
+  },
+  {
+    "business_name": "Meat on Ice",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Restaurant",
+    "pincode": "224159",
+    "phone_number": "+91 78270 46520",
+    "website": "https://meatonice.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sector 1, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 1, Vasundhara",
+    "latitude": 28.6668414,
+    "longitude": 77.3906705,
+    "place_id": "ChIJOQHiqfL7DDkRYko4e26N-PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQHiqfL7DDkRYko4e26N-PU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:13"
+  }
+]

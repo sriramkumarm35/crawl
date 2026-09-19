@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Delivery service, Shipping and mailing service, Shipping service",
+    "pincode": "224120",
+    "phone_number": "+91 95192 12970",
+    "website": "http://www.dtdc.in/",
+    "rating": 4.8,
+    "reviews_count": 42,
+    "address": "Vikas Bhawan Rd, near GST Office, Avas Vikas Barabanki, Awas Vikas Colony, Barabanki, Uttar Pradesh 225001",
+    "area": "Avas Vikas Barabanki, Awas Vikas Colony",
+    "latitude": 26.9203659,
+    "longitude": 81.1788445,
+    "place_id": "ChIJy1nUellhmTkRx_lpNC7aEEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1nUellhmTkRx_lpNC7aEEw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:52"
+  },
+  {
+    "business_name": "International Shipping & Cargo Agency",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "224120",
+    "phone_number": "+91 99901 11785",
+    "website": "https://internationalshippingcargo.com/",
+    "rating": 4.8,
+    "reviews_count": 150,
+    "address": "Ground Floor 32, Indra Prakash Building, 21, Barakhamba Rd, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Connaught Place",
+    "latitude": 28.6294532,
+    "longitude": 77.22389969999999,
+    "place_id": "ChIJqyAQ2wH9DDkRdat8BID7Qtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyAQ2wH9DDkRdat8BID7Qtw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:52"
+  }
+]

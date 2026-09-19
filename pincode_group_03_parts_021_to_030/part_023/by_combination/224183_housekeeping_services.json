@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucknowservices",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "224183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lucknowservices, 224183, India",
+    "area": "224183",
+    "latitude": 26.1049874,
+    "longitude": 81.63476949999999,
+    "place_id": "ChIJ6eqqEkL7mzkRzlZ3mllihmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eqqEkL7mzkRzlZ3mllihmg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:00"
+  },
+  {
+    "business_name": "Aqua Clean Water tank Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "224183",
+    "phone_number": "+91 92729 49095",
+    "website": "http://ahmednagarcity.in/water%20tank%20cleaning%20services%20ahmednagar.html",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "62, Pipeline, Society, Civil Hudco Colony, Savedi, Ahilyanagar, Maharashtra 414003",
+    "area": "Civil Hudco Colony, Savedi",
+    "latitude": 19.127044299999998,
+    "longitude": 74.7406492,
+    "place_id": "ChIJSanL9_273DsReYUdqYhn0y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSanL9_273DsReYUdqYhn0y8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:02"
+  }
+]

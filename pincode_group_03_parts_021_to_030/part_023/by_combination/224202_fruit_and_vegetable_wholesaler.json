@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Right Connection",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "224202",
+    "phone_number": "+91 98871 77786",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 15,
+    "address": "Kisan Mandi, Ganesham-1, Sahakar Marg, behind Pearl Tower, Lalkothi, Jaipur, Rajasthan 302015",
+    "area": "Lalkothi",
+    "latitude": 26.883226,
+    "longitude": 75.797275,
+    "place_id": "ChIJRcbYli-0bTkRmEmg9TpdnEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcbYli-0bTkRmEmg9TpdnEw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:13"
+  },
+  {
+    "business_name": "Vegetable Market Yard",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "224202",
+    "phone_number": "+91 84212 62471",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2090,
+    "address": "Vegetable market, Sarasnagar, Ahilyanagar, Maharashtra 414001",
+    "area": "Sarasnagar, Bhavani Nagar",
+    "latitude": 19.0842358,
+    "longitude": 74.7416622,
+    "place_id": "ChIJyWWdm1uw3DsRI3FVnqo12ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWWdm1uw3DsRI3FVnqo12ew",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:14"
+  }
+]

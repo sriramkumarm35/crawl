@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gola bazar",
+    "search_category": "Fish Market",
+    "primary_category": "Traditional market",
+    "all_categories": "Traditional market",
+    "pincode": "224207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "G4JG+CX6, Gola Bazar, Basantpur, Uttar Pradesh 224207",
+    "area": "224207",
+    "latitude": 26.5310463,
+    "longitude": 82.1273946,
+    "place_id": "ChIJiY2okCZzmjkRO54KZIdXKdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiY2okCZzmjkRO54KZIdXKdE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:07"
+  },
+  {
+    "business_name": "Chakdaha Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "224207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3GHH+PH9, Fish Market Lane, Chakdaha, West Bengal 741222",
+    "area": "224207",
+    "latitude": 23.079483399999997,
+    "longitude": 88.5285638,
+    "place_id": "ChIJNaL_Q2XB-DkRFKSLdvEUWCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaL_Q2XB-DkRFKSLdvEUWCs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:07"
+  }
+]

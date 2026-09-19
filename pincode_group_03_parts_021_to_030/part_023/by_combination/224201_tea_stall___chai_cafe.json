@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE TEA STATION",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "224201",
+    "phone_number": "+91 91639 23322",
+    "website": "https://www.facebook.com/profile.php?id=61561373306541",
+    "rating": 4.7,
+    "reviews_count": 54,
+    "address": "THE TEA STATION, C/O Gosto Behari Sadhukhan, 17, SN Banerjee Rd, DASPARA, Monirampore, Barrackpore, Kolkata, West Bengal 700120",
+    "area": "DASPARA, Monirampore",
+    "latitude": 22.7742871,
+    "longitude": 88.336899,
+    "place_id": "ChIJXfBAnVSb-DkRhBjAcQeS9-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfBAnVSb-DkRhBjAcQeS9-U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:28"
+  },
+  {
+    "business_name": "DKC - Desi Kulhad Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "224201",
+    "phone_number": "+91 77604 62699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "114, Rajballav Saha Ln, Radha Kunj, Bara Bazar, Jorasanko, Howrah, Kolkata, West Bengal 700007",
+    "area": "Radha Kunj, Bara Bazar, Jorasanko",
+    "latitude": 22.5846286,
+    "longitude": 88.3539052,
+    "place_id": "ChIJVWpdfwB3AjoR6t160anmdLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWpdfwB3AjoR6t160anmdLU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:28"
+  }
+]

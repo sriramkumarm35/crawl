@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foodies Planet ( go 69 pizza )",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Chinese restaurant",
+    "pincode": "224135",
+    "phone_number": "+91 72754 06969",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C 108 Awadh puri, Phase 3, Beniganj, Faizabad, Uttar Pradesh 224001",
+    "area": "Phase 3, Beniganj",
+    "latitude": 26.7813305,
+    "longitude": 82.1723502,
+    "place_id": "ChIJD7eNUTsHmjkRKVL-l1deDIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7eNUTsHmjkRKVL-l1deDIU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:10"
+  },
+  {
+    "business_name": "Chaska Maska Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pan-Asian restaurant",
+    "all_categories": "Pan-Asian restaurant",
+    "pincode": "224135",
+    "phone_number": "+91 95060 10649",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 83,
+    "address": "near Paramhans Mahavidyalaya Vidya Kund, Kami Ganj, Ayodhya, Uttar Pradesh 224123",
+    "area": "Kami Ganj",
+    "latitude": 26.780938,
+    "longitude": 82.2034939,
+    "place_id": "ChIJ3z6CExYHmjkRWfQ6rvTEulA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3z6CExYHmjkRWfQ6rvTEulA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:11"
+  }
+]

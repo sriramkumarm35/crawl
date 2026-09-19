@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haidargarh Sabji Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "224119",
+    "phone_number": "+91 91204 54661",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "J89X+96W, Gotauna, Uttar Pradesh 225124",
+    "area": "224119",
+    "latitude": 26.618476299999998,
+    "longitude": 81.3480896,
+    "place_id": "ChIJ971eAK_ImzkRmOATfPlcxWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ971eAK_ImzkRmOATfPlcxWo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:44:21"
+  },
+  {
+    "business_name": "City Center Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "224119",
+    "phone_number": "+91 1800 576 4377",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 920,
+    "address": "W5HV+HJ3, Station Rd, Satyapremi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Satyapremi Nagar",
+    "latitude": 26.9288948,
+    "longitude": 81.1940517,
+    "place_id": "ChIJpdbmykVgmTkRXnP1y1sSgHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdbmykVgmTkRXnP1y1sSgHE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:44:22"
+  }
+]

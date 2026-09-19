@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saucy Bites",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Italian restaurant",
+    "all_categories": "Italian restaurant",
+    "pincode": "224182",
+    "phone_number": "+91 74086 75566",
+    "website": "http://saucybites.digitalintouch.co.in/",
+    "rating": 4.2,
+    "reviews_count": 84,
+    "address": "3rd Floor, UMRAO MALL, near Badshah Nagar Metro Station, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Mahanagar",
+    "latitude": 26.871280499999997,
+    "longitude": 80.95822059999999,
+    "place_id": "ChIJw653aSr9mzkR0WiCD9BgHjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw653aSr9mzkR0WiCD9BgHjE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:44:53"
+  },
+  {
+    "business_name": "Singham Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "224182",
+    "phone_number": "+91 81153 33611",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "A-559, Lekhraj Marg, near Lekhraj Metro Station, Block A, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+    "area": "Block A, Indira Nagar",
+    "latitude": 26.8743266,
+    "longitude": 80.9738711,
+    "place_id": "ChIJGYpxjdD9mzkR-A27jWb5NjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYpxjdD9mzkR-A27jWb5NjI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:44:54"
+  }
+]

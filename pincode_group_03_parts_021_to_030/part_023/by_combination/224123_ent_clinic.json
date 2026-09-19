@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navjivan Medical Center",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "224123",
+    "phone_number": "+91 94150 74311",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Q5C7+G9C, City Station Rd, Gayatri Puram, Faizabad, Uttar Pradesh 224001",
+    "area": "Gayatri Puram",
+    "latitude": 26.7713178,
+    "longitude": 82.1633959,
+    "place_id": "ChIJGX9nqikGmjkRBMxNxXvOGaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGX9nqikGmjkRBMxNxXvOGaY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:50:32"
+  },
+  {
+    "business_name": "Dr. Vimal Srivastava Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "224123",
+    "phone_number": "+91 81201 07011",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 43,
+    "address": "257, MDR18E, Civil Line, Azad Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Civil Line, Azad Nagar",
+    "latitude": 27.132247999999997,
+    "longitude": 81.9516122,
+    "place_id": "ChIJI1Ublv_tmTkRsmh1KEY84QI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1Ublv_tmTkRsmh1KEY84QI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:50:34"
+  }
+]

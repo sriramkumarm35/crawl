@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Top N' Town",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Restaurant",
+    "pincode": "224207",
+    "phone_number": "+91 90699 44333",
+    "website": "https://www.instagram.com/topntown_REWA/",
+    "rating": 4.3,
+    "reviews_count": 178,
+    "address": "Roshan Complex, Amahiya Rd, opp. to Safari Hotel, Galla Mandi, Rewa, Madhya Pradesh 486001",
+    "area": "Galla Mandi, Narendra Nagar, Amaiya Colony",
+    "latitude": 24.5361107,
+    "longitude": 81.2967494,
+    "place_id": "ChIJI1MDTpZbhDkR74jq_Whq44I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1MDTpZbhDkR74jq_Whq44I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:17"
+  },
+  {
+    "business_name": "Once more Rainforest",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "224207",
+    "phone_number": "+91 74893 43034",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 304,
+    "address": "Narendra Nagar, Amaiya Colony, Rewa, Madhya Pradesh 486001",
+    "area": "Narendra Nagar, Amaiya Colony",
+    "latitude": 24.539049,
+    "longitude": 81.29292079999999,
+    "place_id": "ChIJYUFmhMtbhDkR45WK9xuPLZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUFmhMtbhDkR45WK9xuPLZQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:17"
+  }
+]

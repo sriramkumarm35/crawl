@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari Shopping Centre",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224172",
+    "phone_number": "+91 99366 50085",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "J789+3GX, Chachikpur, Uttar Pradesh 224172",
+    "area": "224172",
+    "latitude": 26.6152281,
+    "longitude": 82.2688458,
+    "place_id": "ChIJb8AvWrehkDkRRBQJANHVNYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8AvWrehkDkRRBQJANHVNYg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:40:55"
+  },
+  {
+    "business_name": "Ram Nagar Market",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224172",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "J5JF+H67, Ram Nagar, Uttar Pradesh 224204",
+    "area": "224172",
+    "latitude": 26.6314125,
+    "longitude": 82.1730469,
+    "place_id": "ChIJpZ9XIAULmjkR8u-o7mmAnnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZ9XIAULmjkR8u-o7mmAnnQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:40:56"
+  }
+]

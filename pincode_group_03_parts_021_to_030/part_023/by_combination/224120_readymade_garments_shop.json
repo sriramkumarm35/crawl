@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sayeed Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "224120",
+    "phone_number": "+91 91516 49316",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rudauli, Uttar Pradesh 224120",
+    "area": "224120",
+    "latitude": 26.748237699999997,
+    "longitude": 81.7478892,
+    "place_id": "ChIJE6tE3OAlmjkRKVGl7W2QcMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6tE3OAlmjkRKVGl7W2QcMI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:44:38"
+  },
+  {
+    "business_name": "Khursheed Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "224120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Rudauli, Uttar Pradesh 224120",
+    "area": "224120",
+    "latitude": 26.7512415,
+    "longitude": 81.7460918,
+    "place_id": "ChIJGZciA84kmjkR8-TopLLK7i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZciA84kmjkR8-TopLLK7i8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:44:38"
+  }
+]

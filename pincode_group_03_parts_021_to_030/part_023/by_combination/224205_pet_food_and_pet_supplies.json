@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sambhav Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "224205",
+    "phone_number": "+91 81035 95908",
+    "website": "https://sites.google.com/view/sambhavpetshop",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Azad Chowk Rd, opposite Bal Samaaj Library, Tatyapara, Brahman Para, Raipur, Chhattisgarh 492001",
+    "area": "Tatyapara, Brahman Para",
+    "latitude": 21.23919,
+    "longitude": 81.6285764,
+    "place_id": "ChIJF6OFICvdKDoRTlRKFASMryQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6OFICvdKDoRTlRKFASMryQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:36"
+  },
+  {
+    "business_name": "Pet Planet",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium shop, Bird shop, Pet store, Store",
+    "pincode": "224205",
+    "phone_number": "+91 99452 98909",
+    "website": "http://petplanet.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "49-53, Bowring Hospital Rd, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "area": "Tasker Town, Shivaji Nagar",
+    "latitude": 12.9815449,
+    "longitude": 77.6058177,
+    "place_id": "ChIJPc7fLncXrjsRUmHKYvChb0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPc7fLncXrjsRUmHKYvChb0s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:36"
+  }
+]

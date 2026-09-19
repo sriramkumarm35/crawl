@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEWAD ICE-CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "224126",
+    "phone_number": "+91 86195 00086",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "09 BADAGAON bazar, Uttar Pradesh 224120",
+    "area": "224126",
+    "latitude": 26.761891199999997,
+    "longitude": 81.8287713,
+    "place_id": "ChIJb4Ags1YjmjkRiHr56K4B2dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4Ags1YjmjkRiHr56K4B2dQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:56"
+  },
+  {
+    "business_name": "JAI MAA KALI SWEET HOUSE",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "224126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hazipur Barsedi Uparha, Uttar Pradesh 224126",
+    "area": "224126",
+    "latitude": 26.771732399999998,
+    "longitude": 81.89057389999999,
+    "place_id": "ChIJD2spYj4YmjkRfUZjlaaB_oA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2spYj4YmjkRfUZjlaaB_oA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:56"
+  }
+]

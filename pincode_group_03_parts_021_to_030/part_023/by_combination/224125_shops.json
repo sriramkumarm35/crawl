@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anishika enterprise",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "224125",
+    "phone_number": "+91 94508 06356",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ranuganj, Uttar Pradesh 224125",
+    "area": "224125",
+    "latitude": 26.245701,
+    "longitude": 82.8279858,
+    "place_id": "ChIJ6W96TR3_kDkRWts-wM_tn_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6W96TR3_kDkRWts-wM_tn_A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:40"
+  },
+  {
+    "business_name": "Humpty Dumpty Store Aarohi Enterprise",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "224125",
+    "phone_number": "+91 70070 88457",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mirjapur Kodara, Uttar Pradesh 224122",
+    "area": "224125",
+    "latitude": 26.4378907,
+    "longitude": 82.5203863,
+    "place_id": "ChIJ9xQezXWTkDkRhGJCccaX51I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xQezXWTkDkRhGJCccaX51I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:41"
+  }
+]

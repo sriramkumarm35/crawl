@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty shop",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "224183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saidahi, Fatehpur Manikpur, Uttar Pradesh 224183",
+    "area": "224183",
+    "latitude": 26.2999965,
+    "longitude": 82.8034334,
+    "place_id": "ChIJxeqO9er5kDkR2s1_ra2u8Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxeqO9er5kDkR2s1_ra2u8Cc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:47:28"
+  },
+  {
+    "business_name": "Liza beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "224183",
+    "phone_number": "+91 86230 62204",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "Dwarka Nagar, opp. Ambedkar school, Kandari, Maharashtra 425203",
+    "area": "Ambedkar Nagar",
+    "latitude": 21.0552639,
+    "longitude": 75.8008455,
+    "place_id": "ChIJmcORNCKn2TsR8cVH8vcZPg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcORNCKn2TsR8cVH8vcZPg8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:47:30"
+  }
+]

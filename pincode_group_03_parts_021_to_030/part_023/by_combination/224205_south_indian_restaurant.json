@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Idlies",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Vegetarian restaurant",
+    "pincode": "224205",
+    "phone_number": "+91 90251 02879",
+    "website": "https://shop.houseofidlies.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "27, Bazullah Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "T. Nagar",
+    "latitude": 13.046803599999999,
+    "longitude": 80.23607919999999,
+    "place_id": "ChIJNyblTOdmUjoRQ0j4M7I3r3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyblTOdmUjoRQ0j4M7I3r3Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:40"
+  },
+  {
+    "business_name": "South Indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224205",
+    "phone_number": "+91 98933 47020",
+    "website": "https://www.southindianbank.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "6MV9+2P2, Atm Chowk, Avanti Vihar, Raipur, Chhattisgarh 492001",
+    "area": "Avanti Vihar, Geetanjali Colony, Shankar Nagar",
+    "latitude": 21.2425125,
+    "longitude": 81.66927969999999,
+    "place_id": "ChIJvR5n1T_dKDoRSOHcCyY4rYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvR5n1T_dKDoRSOHcCyY4rYc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:41"
+  }
+]

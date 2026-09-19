@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Leather House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "224202",
+    "phone_number": "+91 99355 33719",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Liberty Showroom, 153, M Block Kidwai Nagar Indian Bank Building Besides, Kanpur, Uttar Pradesh 208011",
+    "area": "Kidwai Nagar",
+    "latitude": 26.4338455,
+    "longitude": 80.3326125,
+    "place_id": "ChIJOUcFVOtHnDkR2kmIvYEeaFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUcFVOtHnDkR2kmIvYEeaFs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:30"
+  },
+  {
+    "business_name": "The Leather Shop",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "224202",
+    "phone_number": "+91 99353 54847",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "125/1, Container Yard Rd, Near Natraj Cinema, Fazalganj, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Near Natraj Cinema, Fazalganj, Govind Nagar",
+    "latitude": 26.449678499999997,
+    "longitude": 80.2973805,
+    "place_id": "ChIJD660lexHnDkR7Lt-DZ0fYnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD660lexHnDkR7Lt-DZ0fYnA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:30"
+  }
+]

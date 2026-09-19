@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Centrio Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224207",
+    "phone_number": "+91 135 351 5100",
+    "website": "https://centriomall.in/",
+    "rating": 4.4,
+    "reviews_count": 6233,
+    "address": "108/84, New Cantonment Rd, Vijay Colony, Shakti Colony, Dehradun, Uttarakhand 248001",
+    "area": "Vijay Colony, Shakti Colony",
+    "latitude": 30.3433864,
+    "longitude": 78.0479568,
+    "place_id": "ChIJPbWQf6YpCTkRT0udCVPGH_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbWQf6YpCTkRT0udCVPGH_o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:09:48"
+  },
+  {
+    "business_name": "Abhai Mobail Sale And Service Centar",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224207",
+    "phone_number": "+91 70800 10501",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F4FH+93R, Faizabad - Sultanpur Rd, Chaure Bazar, Uttar Pradesh 224209",
+    "area": "224207",
+    "latitude": 26.4734774,
+    "longitude": 82.1276444,
+    "place_id": "ChIJE_MNb3dxmjkRzH_thBDwl1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_MNb3dxmjkRzH_thBDwl1w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:09:50"
+  }
+]

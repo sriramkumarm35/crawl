@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan marriage Hall and Lawn",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "224120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PWC5+5FP, Tandwa, Uttar Pradesh 224189",
+    "area": "224120",
+    "latitude": 26.720464699999997,
+    "longitude": 81.9087041,
+    "place_id": "ChIJpzqEJAAXmjkRkndHJtkp3o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzqEJAAXmjkRkndHJtkp3o0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:24"
+  },
+  {
+    "business_name": "Asha bhawan",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "224120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "PVJ6+4PP, Ramsarandas Pur, Uttar Pradesh 224120",
+    "area": "224120",
+    "latitude": 26.730342699999998,
+    "longitude": 81.8618309,
+    "place_id": "ChIJhacECgA9mjkRdWny7GvCQFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhacECgA9mjkRdWny7GvCQFE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:24"
+  }
+]

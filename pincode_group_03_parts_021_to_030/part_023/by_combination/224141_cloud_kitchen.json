@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANGALAM FURNITURE",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Furniture accessories, Furniture maker",
+    "pincode": "224141",
+    "phone_number": "+91 83189 65001",
+    "website": "https://www.instagram.com/mangalam.furniture",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kotwali Rd, Subhash Marg, Katra, Goshainganj, Uttar Pradesh 224141",
+    "area": "Subhash Marg",
+    "latitude": 26.569902199999998,
+    "longitude": 82.3812548,
+    "place_id": "ChIJvxPKhBiYkDkR0kl3kOQGPis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxPKhBiYkDkR0kl3kOQGPis",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:40"
+  },
+  {
+    "business_name": "AT CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "224141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Circle No.6, 19-5-482/A/1/97, NAJAM NAGAR,KISHAN BAGH,19-WARD,BAHADURPURA,HYDERABAD,TELANGANA, INCODE-500064, Rajendra Nagar, Hyderabad, Telangana 500064",
+    "area": "Hafiz Jalal Baba Nagar, Rajendra Nagar, Kishan Bagh",
+    "latitude": 17.3580895,
+    "longitude": 78.4405189,
+    "place_id": "ChIJcWe3FQCXyzsRwiOLI68Icl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWe3FQCXyzsRwiOLI68Icl4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:41"
+  }
+]

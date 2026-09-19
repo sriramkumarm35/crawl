@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Company jobs",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "224159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 21,
+    "address": "Chandawali, Ballabhgarh, Faridabad, Haryana 121004",
+    "area": "Chandawali",
+    "latitude": 28.3194955,
+    "longitude": 77.3503724,
+    "place_id": "ChIJCxw6bfHbDDkR8CIqZFdJ5vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxw6bfHbDDkR8CIqZFdJ5vc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:31"
+  },
+  {
+    "business_name": "Sankarshana Recruitment Consultancy Private Limited",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Employment center",
+    "pincode": "224159",
+    "phone_number": "N/A",
+    "website": "https://www.sankarshanapvtltd.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J54M+95C, RK Colony, Sandalpur, Patna, Bihar 800006",
+    "area": "RK Colony, Sandalpur",
+    "latitude": 25.605926099999998,
+    "longitude": 85.18290569999999,
+    "place_id": "ChIJ04QTbgBZ7TkRvIZx10bXGUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04QTbgBZ7TkRvIZx10bXGUQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:32"
+  }
+]

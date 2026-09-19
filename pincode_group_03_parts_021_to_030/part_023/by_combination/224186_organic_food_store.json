@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Online Kirana Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "224186",
+    "phone_number": "N/A",
+    "website": "https://mydukaan.io/palkiranastore",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8MMJ+QC9, Patti, Kannupur, Uttar Pradesh 224149",
+    "area": "224186",
+    "latitude": 26.3344083,
+    "longitude": 82.6811025,
+    "place_id": "ChIJ91wBimvxkDkRAaXIJdOA3qA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91wBimvxkDkRAaXIJdOA3qA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:25"
+  },
+  {
+    "business_name": "Aanandi Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "224186",
+    "phone_number": "+91 91688 11910",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 1053,
+    "address": "Shop No.3, Mont Vert Marc, Sus - Pashan Rd, Near Union Bank, Pashan, Pune, Maharashtra 411021",
+    "area": "Pashan",
+    "latitude": 18.5442893,
+    "longitude": 73.7828493,
+    "place_id": "ChIJMWPn3Ky_wjsRUga-rauF50w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWPn3Ky_wjsRUga-rauF50w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:25"
+  }
+]

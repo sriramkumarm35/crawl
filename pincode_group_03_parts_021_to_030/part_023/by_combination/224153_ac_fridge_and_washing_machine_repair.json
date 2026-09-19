@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokenath service centre",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Refrigerator repair service, Repair service",
+    "pincode": "224153",
+    "phone_number": "+91 98319 42812",
+    "website": "https://sites.google.com/view/lokenathservicecentre/home",
+    "rating": 4.8,
+    "reviews_count": 159,
+    "address": "132a, Raja Rammohan Roy Rd, Sukanta Pally, Sarada Pally, Kolkata, West Bengal 700008",
+    "area": "Sukanta Pally, Sarada Pally",
+    "latitude": 22.487972799999998,
+    "longitude": 88.325852,
+    "place_id": "ChIJm4CWS5pxAjoRol21Q-7rDNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4CWS5pxAjoRol21Q-7rDNE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:37"
+  },
+  {
+    "business_name": "Refrigrator Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Air conditioning repair service",
+    "pincode": "224153",
+    "phone_number": "+91 94708 74963",
+    "website": "https://refrigratorservices.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Golki More, opp. Maa Durga Traders, East Lakshmi Nagar, Nayachak, Patna, Bihar 800027",
+    "area": "East Lakshmi Nagar, Nayachak",
+    "latitude": 25.5741277,
+    "longitude": 85.1613098,
+    "place_id": "ChIJv_w4Be6n8jkRYQD-mT-mnXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_w4Be6n8jkRYQD-mT-mnXg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:39"
+  }
+]

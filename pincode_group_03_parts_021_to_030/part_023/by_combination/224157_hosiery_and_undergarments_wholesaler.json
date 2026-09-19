@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer, Clothes and fabric wholesaler, Fabric store, Fabric wholesaler, Knit shop, Knitwear manufacturer",
+    "pincode": "224157",
+    "phone_number": "+91 99252 47134",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Block 151-163, 201, Gate, opp. Raipur, New Cloth Market, Sarangpur, Sherkotda, Ahmedabad, Gujarat 380002",
+    "area": "New Cloth Market, Sarangpur, Sherkotda",
+    "latitude": 23.017673799999997,
+    "longitude": 72.6002626,
+    "place_id": "ChIJfa4OCDaFXjkRQJZNpFcyozU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfa4OCDaFXjkRQJZNpFcyozU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:26:48"
+  },
+  {
+    "business_name": "Poonam Cloth",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "224157",
+    "phone_number": "+91 94207 50050",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 47,
+    "address": "Kukana, Maharashtra 414604",
+    "area": "224157",
+    "latitude": 19.4367324,
+    "longitude": 75.07325689999999,
+    "place_id": "ChIJ-8nx-xFk2zsR7i7IgPlFzdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8nx-xFk2zsR7i7IgPlFzdo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:26:49"
+  }
+]

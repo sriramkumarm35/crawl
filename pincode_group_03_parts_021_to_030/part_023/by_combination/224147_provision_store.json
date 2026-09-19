@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari kirana store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "224147",
+    "phone_number": "+91 80525 98836",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "CX97+PFW, Jahangir Ganj, Jahangir Ganj Market, Uttar Pradesh 224147",
+    "area": "224147",
+    "latitude": 26.4193744,
+    "longitude": 82.96370209999999,
+    "place_id": "ChIJfaD4JwADkTkROvo3eDKq6HM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaD4JwADkTkROvo3eDKq6HM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:36"
+  },
+  {
+    "business_name": "STAR VATIKA",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FX38+M5, Khirjpur, Uttar Pradesh 224147",
+    "area": "224147",
+    "latitude": 26.45424,
+    "longitude": 82.9654583,
+    "place_id": "ChIJeaJVaAAdkTkRUezVYKPxCl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaJVaAAdkTkRUezVYKPxCl0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:37"
+  }
+]

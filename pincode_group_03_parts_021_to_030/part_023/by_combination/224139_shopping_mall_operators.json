@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infiniti Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Bowling alley, Cell phone store, Clothing store, Food court, Jewelry store, Restaurant, Shoe store, Showroom, Toy store",
+    "pincode": "224139",
+    "phone_number": "+91 22 4234 0000",
+    "website": "https://www.infinitimall.com/",
+    "rating": 4.5,
+    "reviews_count": 79429,
+    "address": "New Link Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Mindspace, Malad West",
+    "latitude": 19.184753,
+    "longitude": 72.8341927,
+    "place_id": "ChIJK63rBu625zsRfWUzxDWCKJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK63rBu625zsRfWUzxDWCKJw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:23"
+  },
+  {
+    "business_name": "Phoenix Marketcity",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224139",
+    "phone_number": "+91 80 4962 6111",
+    "website": "https://www.phoenixmarketcity.com/bangalore",
+    "rating": 4.5,
+    "reviews_count": 189699,
+    "address": "ITPL Main Rd, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048",
+    "area": "Devasandra Industrial Estate, Mahadevapura",
+    "latitude": 12.996954299999999,
+    "longitude": 77.6965542,
+    "place_id": "ChIJS76jBAsRrjsRQ5Yuqy0l-88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS76jBAsRrjsRQ5Yuqy0l-88",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:23"
+  }
+]

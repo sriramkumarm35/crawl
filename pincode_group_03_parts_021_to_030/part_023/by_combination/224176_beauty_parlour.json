@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Beauty Makeup Studio & Academy",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Service establishment",
+    "pincode": "224176",
+    "phone_number": "+91 91409 30519",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Royal Beauty Makeup Studio & Academy, 224176, India",
+    "area": "224176",
+    "latitude": 26.2517183,
+    "longitude": 83.1192506,
+    "place_id": "ChIJSXcnafQJkTkR4ujinaPiCUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXcnafQJkTkR4ujinaPiCUI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:53"
+  },
+  {
+    "business_name": "RV Beauty Parlour & Cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "224176",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "63QM+3R5, Kumhavat, Uttar Pradesh 276141",
+    "area": "224176",
+    "latitude": 26.2374393,
+    "longitude": 83.084435,
+    "place_id": "ChIJNS5PWQCnkTkRa0ZYnbnHLVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNS5PWQCnkTkRa0ZYnbnHLVk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:56"
+  }
+]

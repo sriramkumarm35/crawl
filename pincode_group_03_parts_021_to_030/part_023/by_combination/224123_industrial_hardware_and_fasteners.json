@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goodgood Manufacturers",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier, Manufacturer, Steel distributor",
+    "pincode": "224123",
+    "phone_number": "+91 77430 04153",
+    "website": "https://www.thefastenershouse.com/",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Sua Rd, Makar Colony, Giaspura, Ludhiana, Punjab 141016",
+    "area": "Makar Colony, Giaspura",
+    "latitude": 30.8585252,
+    "longitude": 75.9136079,
+    "place_id": "ChIJozCjEt6dGjkRABPlvl0hIbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozCjEt6dGjkRABPlvl0hIbg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:51:38"
+  },
+  {
+    "business_name": "BOMBAY MACHINERY",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop, Machine workshop",
+    "pincode": "224123",
+    "phone_number": "+91 98266 50552",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rishi Plaza Complex, 108/112, Hamidia Rd, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.2659991,
+    "longitude": 77.4011737,
+    "place_id": "ChIJSfEo3xdofDkRDh9rfbralvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfEo3xdofDkRDh9rfbralvI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:51:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deva dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "224158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HXJ8+W69, Ranapur, Uttar Pradesh 224225",
+    "area": "224158",
+    "latitude": 26.5822836,
+    "longitude": 81.9656102,
+    "place_id": "ChIJScvheAATmjkRRXnCevNcpW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScvheAATmjkRRXnCevNcpW8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:43"
+  },
+  {
+    "business_name": "Prabha dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "224158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MW7H+FFF, Tarauli bazaar, Kurawan, Uttar Pradesh 224158",
+    "area": "Tarauli bazaar",
+    "latitude": 26.6636772,
+    "longitude": 81.928685,
+    "place_id": "ChIJZ2jbbwAXmjkRBGT909XG6yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2jbbwAXmjkRBGT909XG6yc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:43"
+  }
+]

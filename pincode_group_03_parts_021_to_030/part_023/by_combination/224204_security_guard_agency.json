@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "224204",
+    "phone_number": "+91 94754 66144",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "J-47, Ispat Pally, Bidhannagar, Durgapur, West Bengal 713212",
+    "area": "Ispat Pally, Bidhannagar",
+    "latitude": 23.516420399999998,
+    "longitude": 87.3350822,
+    "place_id": "ChIJo-KIiTtx9zkRmQloR2SfSWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-KIiTtx9zkRmQloR2SfSWM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:08"
+  },
+  {
+    "business_name": "Comrade Security Agency",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "224204",
+    "phone_number": "+91 73778 75648",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 343,
+    "address": "213/2, BDA Rd, Kausalya Nagar, Deep Nagar, Awadhpuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Kausalya Nagar, Deep Nagar, Awadhpuri",
+    "latitude": 23.222447799999998,
+    "longitude": 77.4946513,
+    "place_id": "ChIJscGOv7dBfDkRdmJstri08cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscGOv7dBfDkRdmJstri08cg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:10"
+  }
+]

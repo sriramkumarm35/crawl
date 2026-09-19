@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Juice and Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224125",
+    "phone_number": "+91 88690 07278",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Chowk, Ramnagar, Roorkee, Shafipur, Uttarakhand 247667",
+    "area": "Ramnagar",
+    "latitude": 29.8734351,
+    "longitude": 77.8764437,
+    "place_id": "ChIJuWKgToezDjkRK3BiSkno0E8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWKgToezDjkRK3BiSkno0E8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:52:02"
+  },
+  {
+    "business_name": "Juice Spot",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Store",
+    "all_categories": "Store, Juice shop",
+    "pincode": "224125",
+    "phone_number": "+91 79855 09508",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Block E, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Block E, Rajajipuram",
+    "latitude": 26.8432334,
+    "longitude": 80.8783622,
+    "place_id": "ChIJ9ZKvwmf-mzkRxdbzEgM1KKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZKvwmf-mzkRxdbzEgM1KKo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:52:03"
+  }
+]

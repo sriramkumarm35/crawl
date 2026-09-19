@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanmoy Trading Co.",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Cell phone store, Computer accessories store, Computer Hardware Company, Computer networking service, Computer service, Computer Wholesaler, Printer ink refill store, Printer repair service",
+    "pincode": "224202",
+    "phone_number": "+91 99036 20710",
+    "website": "http://www.facebook.com/tanmoytradingco/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Amta - Ranihati Rd, Shekh Para, jn, Dhulagori, Nabghara, Howrah, West Bengal 711322",
+    "area": "Shekh Para, jn, Dhulagori",
+    "latitude": 22.5639198,
+    "longitude": 88.1574661,
+    "place_id": "ChIJNSXOOtZ_AjoRX1H-Op5lWbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSXOOtZ_AjoRX1H-Op5lWbc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:00:26"
+  },
+  {
+    "business_name": "Core Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Data recovery service",
+    "pincode": "224202",
+    "phone_number": "+91 77749 49808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1659, Shivram Chowk, New Paccha peth, Sakhar Peth, Solapur, Maharashtra 413006",
+    "area": "New Paccha peth, Sakhar Peth",
+    "latitude": 17.6677628,
+    "longitude": 75.9179688,
+    "place_id": "ChIJH5FimcvbxTsRSZr4oSvxT9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5FimcvbxTsRSZr4oSvxT9M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:00:27"
+  }
+]

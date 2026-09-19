@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayodhya house",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "224135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11/10/32, New Colony, Ayodhya, Uttar Pradesh 224123",
+    "area": "New Colony",
+    "latitude": 26.7906504,
+    "longitude": 82.2031731,
+    "place_id": "ChIJBwhOPAAHmjkRZgULMYfI2r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwhOPAAHmjkRZgULMYfI2r8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:31"
+  },
+  {
+    "business_name": "Makan",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "224135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Q57Q+7QJ, सनेथू गाँव,पोस्ट, Darshan Nagar, Ayodhya, Uttar Pradesh 224135",
+    "area": "Ashapur Village, Darshan Nagar",
+    "latitude": 26.763214299999998,
+    "longitude": 82.1893941,
+    "place_id": "ChIJ6ev1Y1gJmjkRgGXNA2lhxRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ev1Y1gJmjkRgGXNA2lhxRw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:31"
+  }
+]

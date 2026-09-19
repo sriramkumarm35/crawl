@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barun bajar",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "224158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M2H5+46C, Gothwara, Uttar Pradesh 224127",
+    "area": "224158",
+    "latitude": 26.6778199,
+    "longitude": 82.008014,
+    "place_id": "ChIJM6W5GxsRmjkR2DXvyq6TpCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6W5GxsRmjkR2DXvyq6TpCY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:29"
+  },
+  {
+    "business_name": "Shri Sanvariya Icecream Center",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "224158",
+    "phone_number": "+91 63766 50761",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 27, Kuchera, Sewara, Uttar Pradesh 224158",
+    "area": "224158",
+    "latitude": 26.6506908,
+    "longitude": 81.9716341,
+    "place_id": "ChIJr7hXxXETmjkR1ch7BAdsOg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7hXxXETmjkR1ch7BAdsOg4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:29"
+  }
+]

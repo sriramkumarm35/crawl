@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tafrii Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "224126",
+    "phone_number": "+91 97939 27644",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sabri Food Plaza, Lane, opposite Park Inn2, qwNalkoop Colony, Radisson, Faizabad, Uttar Pradesh 224001",
+    "area": "qwNalkoop Colony, Radisson",
+    "latitude": 26.7760526,
+    "longitude": 82.13538229999999,
+    "place_id": "ChIJJ2jibgAHmjkRKQdx2zCM6K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2jibgAHmjkRKQdx2zCM6K0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:55"
+  },
+  {
+    "business_name": "Momo Street",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "224126",
+    "phone_number": "+91 96960 75111",
+    "website": "https://momostreeindia.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3/20/34, Naharbagh, Niyawan, Faizabad, Uttar Pradesh 224001",
+    "area": "Naharbagh, Niyawan",
+    "latitude": 26.784879699999998,
+    "longitude": 82.1429186,
+    "place_id": "ChIJVUaD9tEHmjkR7ExKaDpefQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUaD9tEHmjkR7ExKaDpefQc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:57"
+  }
+]

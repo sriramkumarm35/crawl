@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer Care",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "224152",
+    "phone_number": "+91 98105 50222",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 162,
+    "address": "Shiva Tower, Chaudhary Moad, G-23, Uttar Pradesh 201009",
+    "area": "New Gandhi Nagar, Model Town",
+    "latitude": 28.654794799999998,
+    "longitude": 77.434529,
+    "place_id": "ChIJ3VEUGNDxDDkRT7R60aWM3SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VEUGNDxDDkRT7R60aWM3SY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:22:14"
+  },
+  {
+    "business_name": "Laptop Store | Laptop Service Center - Kammanahalli",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer consultant, Computer Hardware Company, Computer networking service, Computer store, Computer service, Computer software store, Computer Wholesaler, Used computer store",
+    "pincode": "224152",
+    "phone_number": "+91 97399 99078",
+    "website": "https://www.laptopstoreindia.in/laptop-store-locations/laptop-store-kammanahalli/",
+    "rating": 4.7,
+    "reviews_count": 765,
+    "address": "A, 1/1 ,1st Floor, Vasavi Arcade ,Kammanahalli Main Rd, 3rd Cross Rd, opp. to Kalyan Nagar, HRBR Layout 2nd Block, Jal Vayu Vihar, Kammanahalli, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout 2nd Block, Jal Vayu Vihar, Kammanahalli",
+    "latitude": 13.022146999999999,
+    "longitude": 77.6374129,
+    "place_id": "ChIJ6-6w2_wXrjsRTCQtrRC6-mY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-6w2_wXrjsRTCQtrRC6-mY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:22:14"
+  }
+]

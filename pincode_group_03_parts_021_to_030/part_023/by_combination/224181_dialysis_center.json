@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saras Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "224181",
+    "phone_number": "+91 20 2427 0202",
+    "website": "https://www.lionsclubsarasbaug.org/saras-dialysis-center",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "696/698, Maharshi Nagar, Pune, Maharashtra 411037",
+    "area": "Maharshi Nagar",
+    "latitude": 18.4921446,
+    "longitude": 73.86294579999999,
+    "place_id": "ChIJX3e_5BjAwjsRpe4_LFxGIQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3e_5BjAwjsRpe4_LFxGIQ0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:43:18"
+  },
+  {
+    "business_name": "Arihant Kidney Care & Distributors",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Medical supply store",
+    "pincode": "224181",
+    "phone_number": "+91 90213 78913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Shop No 4, Sampada CHS LTD, near Venutai Chavan School, Sakhar Nagar, Sutarwadi, Pashan, Pune, Maharashtra 411021",
+    "area": "Sakhar Nagar, Sutarwadi, Pashan",
+    "latitude": 18.540176799999998,
+    "longitude": 73.78260929999999,
+    "place_id": "ChIJx3W0L4W_wjsRhMO6PyOaEis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3W0L4W_wjsRhMO6PyOaEis",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:43:21"
+  }
+]

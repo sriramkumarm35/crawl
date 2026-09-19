@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "224139",
+    "phone_number": "+91 91611 19441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "near state bank of india, Utraula, Uttar Pradesh 271604",
+    "area": "224139",
+    "latitude": 27.317573199999998,
+    "longitude": 82.41923539999999,
+    "place_id": "ChIJ12JXdMZDlzkRYqt_R3noH6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12JXdMZDlzkRYqt_R3noH6Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:07:15"
+  },
+  {
+    "business_name": "Fitness factory gym centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "224139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FP4Q+8RG, Bharthipur, Uttar Pradesh 221201",
+    "area": "224139",
+    "latitude": 25.455875799999998,
+    "longitude": 82.73936959999999,
+    "place_id": "ChIJLY8gMwDXjzkRdfFcfUMrfXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLY8gMwDXjzkRdfFcfUMrfXY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:07:17"
+  }
+]

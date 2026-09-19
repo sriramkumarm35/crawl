@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Boys Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "224183",
+    "phone_number": "+91 91409 18714",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H.P. Dube Marg, Rushtampur, Telephone Colony,, Betiahata, Gorakhpur, Uttar Pradesh 273016",
+    "area": "Mahuesugharpur, Betiahata",
+    "latitude": 26.7369851,
+    "longitude": 83.3702761,
+    "place_id": "ChIJoYyBBXhEkTkR4egAtvUaytI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYyBBXhEkTkR4egAtvUaytI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:47:40"
+  },
+  {
+    "business_name": "Esha Boys Pg",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "224183",
+    "phone_number": "+91 90713 53549",
+    "website": "https://esha-boys-pg.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 215,
+    "address": "163, 5th Cross Rd, Bhadrappa Layout, Koti Hosahalli, Bengaluru, Karnataka 560094",
+    "area": "Bhadrappa Layout, Koti Hosahalli",
+    "latitude": 13.048397699999999,
+    "longitude": 77.5773399,
+    "place_id": "ChIJu7u3NDkXrjsRNHG2f4xgjXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7u3NDkXrjsRNHG2f4xgjXQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:47:40"
+  }
+]

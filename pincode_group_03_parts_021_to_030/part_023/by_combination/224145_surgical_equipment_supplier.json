@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Medical equipment supplier, Orthopedic shoe store, Surgical Products Wholesaler",
+    "pincode": "224145",
+    "phone_number": "+91 83680 24454",
+    "website": "https://www.gargsurgicals.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "252, Patparganj Industrial Area, Patparganj, Delhi, 110092",
+    "area": "Patparganj Industrial Area, Patparganj",
+    "latitude": 28.643359,
+    "longitude": 77.3138878,
+    "place_id": "ChIJ6aFL71LjDDkRGaIXcomLQY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6aFL71LjDDkRGaIXcomLQY4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:35"
+  },
+  {
+    "business_name": "Mahavir Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies, Medical Equipment Manufacturer",
+    "pincode": "224145",
+    "phone_number": "+91 99670 22224",
+    "website": "http://www.mahavirsurgical.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "207, Bombay Talkies Compound, Malad West, Mumbai Suburban, Mumbai, Maharashtra 400064",
+    "area": "Malad, Somwari Bazar, Malad West",
+    "latitude": 19.181689499999997,
+    "longitude": 72.84345859999999,
+    "place_id": "ChIJBfub1vu25zsRurkisX9yr2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfub1vu25zsRurkisX9yr2c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CORE FITNESS GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "224139",
+    "phone_number": "+91 99648 22490",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 77,
+    "address": "594/2, Kodigehalli, Thindu Main Road, Sahakar Nagar, Devinagar, Bengaluru, Karnataka 560092",
+    "area": "Sahakar Nagar, Devinagar",
+    "latitude": 13.060882099999999,
+    "longitude": 77.5752163,
+    "place_id": "ChIJ5Y662MgZrjsReM_vOKBJm10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Y662MgZrjsReM_vOKBJm10",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:07:15"
+  },
+  {
+    "business_name": "FitnessEdge Prime 2",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Dance school, Yoga studio",
+    "pincode": "224139",
+    "phone_number": "+91 99020 02764",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 265,
+    "address": "above I mart, B Block, CQAL Layout, Sahakar Nagar, CQAL, Bengaluru, Karnataka 560092",
+    "area": "B Block, CQAL Layout, Sahakar Nagar, CQAL",
+    "latitude": 13.065736,
+    "longitude": 77.5806849,
+    "place_id": "ChIJTeLVUJEZrjsRTZ1-7ynksGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTeLVUJEZrjsRTZ1-7ynksGE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:07:15"
+  }
+]

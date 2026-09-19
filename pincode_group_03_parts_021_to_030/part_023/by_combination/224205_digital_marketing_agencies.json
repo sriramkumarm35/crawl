@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snaapii",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "224205",
+    "phone_number": "+91 73170 16213",
+    "website": "https://snaapii.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gaura, Uttar Pradesh 228151",
+    "area": "224205",
+    "latitude": 26.3829513,
+    "longitude": 82.1910681,
+    "place_id": "ChIJ16MKb2B5mjkRBDwUo5s72sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16MKb2B5mjkRBDwUo5s72sk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:07"
+  },
+  {
+    "business_name": "Digital AdWords",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Software company",
+    "pincode": "224205",
+    "phone_number": "+91 88829 68740",
+    "website": "https://digitaladwords.in/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "58, Panchshil Enclave, Deepak Vihar, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Panchshil Enclave, Deepak Vihar, Uttam Nagar",
+    "latitude": 28.63874,
+    "longitude": 77.040613,
+    "place_id": "ChIJ03oqQCkKvasRV5Q7C8GHoVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03oqQCkKvasRV5Q7C8GHoVw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:10"
+  }
+]

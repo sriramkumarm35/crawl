@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sk Bablu paan stall",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "224164",
+    "phone_number": "+91 99325 43398",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F8RC+857, more, Purbachal, Durgapur, West Bengal 713201",
+    "area": "Purbachal",
+    "latitude": 23.490801299999998,
+    "longitude": 87.32043329999999,
+    "place_id": "ChIJW1lwX1Jx9zkRak2RfSkDECA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1lwX1Jx9zkRak2RfSkDECA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:33:48"
+  },
+  {
+    "business_name": "Ashok Pan House",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Sandwich shop",
+    "pincode": "224164",
+    "phone_number": "+91 98403 43342",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 17,
+    "address": "No.363, 17, Konnur High Rd, Vasantha nagar, Venkatesapuram Colony, Ayanavaram, Chennai, Tamil Nadu 600023",
+    "area": "Vasantha nagar, Venkatesapuram Colony, Ayanavaram",
+    "latitude": 13.097834299999999,
+    "longitude": 80.2402884,
+    "place_id": "ChIJHfnZjstlUjoRK0cvC0fHCqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfnZjstlUjoRK0cvC0fHCqc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:33:49"
+  }
+]

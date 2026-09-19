@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Tyre Service",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "224202",
+    "phone_number": "+91 99351 72808",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Bikapur, Uttar Pradesh 224204",
+    "area": "224202",
+    "latitude": 26.5983065,
+    "longitude": 82.1328204,
+    "place_id": "ChIJtei5qN0LmjkRpF53Guc-jkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtei5qN0LmjkRpF53Guc-jkw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:48"
+  },
+  {
+    "business_name": "Avdhesh Bihari",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "224202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J4VM+2MQ, Nandigram, Pipri, Uttar Pradesh 224202",
+    "area": "224202",
+    "latitude": 26.6426506,
+    "longitude": 82.1342437,
+    "place_id": "ChIJJYinSwALmjkRl1LzGNwhvkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYinSwALmjkRl1LzGNwhvkg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:51"
+  }
+]

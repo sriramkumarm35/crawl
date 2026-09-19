@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Chand Medical",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "224155",
+    "phone_number": "+91 95060 89551",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 67, Goura, Gora Mahamadpur, Uttar Pradesh 224155",
+    "area": "224155",
+    "latitude": 26.394875499999998,
+    "longitude": 82.7158106,
+    "place_id": "ChIJm-GgAYPxkDkRBDrWUVpLqmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-GgAYPxkDkRBDrWUVpLqmI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:25:31"
+  },
+  {
+    "business_name": "Orange Spa In Nagpur",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Health spa, Massage therapist, Thai massage therapist",
+    "pincode": "224155",
+    "phone_number": "+91 70307 47803",
+    "website": "https://orangespanagpur.in/",
+    "rating": 4.4,
+    "reviews_count": 280,
+    "address": "Shrish Building, 16, S Ambazari Rd, Laxminagar, Nagpur, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.1258111,
+    "longitude": 79.0624023,
+    "place_id": "ChIJq6oO2H3A1DsR_ODQmeX4Iz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oO2H3A1DsR_ODQmeX4Iz4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:25:32"
+  }
+]

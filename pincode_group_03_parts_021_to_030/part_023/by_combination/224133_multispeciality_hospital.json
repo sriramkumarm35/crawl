@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Neuro Care Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "224133",
+    "phone_number": "+91 88967 93793",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "House 11, narayandas nagar, Wazeerganj, japti, Faizabad, Uttar Pradesh 224001",
+    "area": "narayandas nagar, Wazeerganj",
+    "latitude": 26.7718448,
+    "longitude": 82.1601913,
+    "place_id": "ChIJ5yMIfbsHmjkR_fZB114suTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yMIfbsHmjkR_fZB114suTY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:25"
+  },
+  {
+    "business_name": "Kanak Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "224133",
+    "phone_number": "+91 92782 85138",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "Dharam Kata Devakali, Janoura, Karaundia, Faizabad, Uttar Pradesh 224001",
+    "area": "Janoura, Karaundia",
+    "latitude": 26.7618455,
+    "longitude": 82.1578377,
+    "place_id": "ChIJwyKo9lQJmjkRsRlstyf_YBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyKo9lQJmjkRsRlstyf_YBs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:25"
+  }
+]

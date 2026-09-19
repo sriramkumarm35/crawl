@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Pharmacy and Pharma Clinic",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224204",
+    "phone_number": "+91 72358 86949",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bachhrampur, Bikapur, Bankat, Uttar Pradesh 224204",
+    "area": "Bachhrampur",
+    "latitude": 26.5734246,
+    "longitude": 82.102108,
+    "place_id": "ChIJS5YrPgALmjkR6R2r9ukyuJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5YrPgALmjkR6R2r9ukyuJk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:05"
+  },
+  {
+    "business_name": "New Arpit Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224204",
+    "phone_number": "+91 99841 88073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G3VM+WX9, Harrington-Ganj Road, Khajurhat, Amawa, Uttar Pradesh 224207",
+    "area": "224204",
+    "latitude": 26.544789599999998,
+    "longitude": 82.0849862,
+    "place_id": "ChIJzTgBOQBzmjkRIPUX5kizLrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTgBOQBzmjkRIPUX5kizLrk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:03:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Majedaar Restaurant & Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224135",
+    "phone_number": "+91 79054 04619",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 97,
+    "address": "Ram Path, Sahabganj - Vaidehi Nagar Rd, Faizabad, Uttar Pradesh 224001",
+    "area": "Vaidehi Nagar",
+    "latitude": 26.7828564,
+    "longitude": 82.1624034,
+    "place_id": "ChIJBU_psIkHmjkR67E-XpS7nGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBU_psIkHmjkR67E-XpS7nGE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:07"
+  },
+  {
+    "business_name": "The Wave Café",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5/3/14, Amaniganj Rd, Avas Vikas Colony, Amanigunj, Ayodhya, Faizabad, Uttar Pradesh 224001",
+    "area": "Avas Vikas Colony, Amanigunj",
+    "latitude": 26.782503499999997,
+    "longitude": 82.1657965,
+    "place_id": "ChIJ-14ZRAAHmjkR1YB6NFOQ-3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-14ZRAAHmjkR1YB6NFOQ-3g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:03:07"
+  }
+]

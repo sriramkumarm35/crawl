@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sparkling Auto Studio",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto restoration service",
+    "pincode": "224153",
+    "phone_number": "+91 98301 51008",
+    "website": "https://www.facebook.com/sparklingautodetailing",
+    "rating": 4.8,
+    "reviews_count": 345,
+    "address": "Pepsi Factory, Mahamaya Mandir Road Crossing Patuli Dhalai Bridge, Junction, opposite Indian Oil Petrol Pump, Kolkata, West Bengal 700084",
+    "area": "Das Para, Garia",
+    "latitude": 22.4559626,
+    "longitude": 88.39423699999999,
+    "place_id": "ChIJFVaBS-hxAjoRgPPUbZhlt3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVaBS-hxAjoRgPPUbZhlt3s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:23"
+  },
+  {
+    "business_name": "Doon Hot Foam Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "224153",
+    "phone_number": "+91 96349 75545",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2nd Plot, 29, GMS Rd, beside Liberty Shoe Showroom, beside Hotel Surya Residency, Ankit Puram, Shakti Enclave, Lane, Dehradun, Uttarakhand 248171",
+    "area": "Ankit Puram, Shakti Enclave, Lane",
+    "latitude": 30.3182111,
+    "longitude": 78.0130939,
+    "place_id": "ChIJ814GFCIqCTkRNUvncje92fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ814GFCIqCTkRNUvncje92fk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:24"
+  }
+]

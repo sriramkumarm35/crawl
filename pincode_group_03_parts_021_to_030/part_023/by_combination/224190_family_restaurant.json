@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L M chaudhari family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HJ6R+6MV, Tanda - Maya Rd, Asopur, Alahdadpur, Uttar Pradesh 224190",
+    "area": "224190",
+    "latitude": 26.560608199999997,
+    "longitude": 82.64167839999999,
+    "place_id": "ChIJYen3dwDrkDkRk2mgWFBKdNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYen3dwDrkDkRk2mgWFBKdNU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:54:03"
+  },
+  {
+    "business_name": "Manglam family dhaba and restaurant paikoliya tanda",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224190",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GMG6+FVC, Paikoliya, Tanda, Pakolia, Uttar Pradesh 224190",
+    "area": "Paikoliya",
+    "latitude": 26.5261848,
+    "longitude": 82.6621282,
+    "place_id": "ChIJeTCIGwDpkDkR4AwJQQdN6qI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTCIGwDpkDkR4AwJQQdN6qI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:54:04"
+  }
+]

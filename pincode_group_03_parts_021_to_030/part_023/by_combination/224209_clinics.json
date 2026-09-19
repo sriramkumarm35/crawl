@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubhojit clinic",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "224209",
+    "phone_number": "+91 99847 10484",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "bazar dhanpatganj road, Haraura, Lohgi, Uttar Pradesh 228121",
+    "area": "224209",
+    "latitude": 26.439339,
+    "longitude": 82.0410182,
+    "place_id": "ChIJ39fmEMdxmjkRguDkQ7TYd1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39fmEMdxmjkRguDkQ7TYd1w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:04"
+  },
+  {
+    "business_name": "Ansar Hospital",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "224209",
+    "phone_number": "+91 94527 60062",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C4PG+38V, miyanganj saidkhanpur, Kurebhar, Uttar Pradesh 228151",
+    "area": "224209",
+    "latitude": 26.435232,
+    "longitude": 82.1258,
+    "place_id": "ChIJna0obLZwmjkRXk4yLD6P3mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJna0obLZwmjkRXk4yLD6P3mM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:12:04"
+  }
+]

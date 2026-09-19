@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nawab Akram General",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "224189",
+    "phone_number": "+91 91292 39307",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Pinawa, Sohawal, Kithawa, Uttar Pradesh 224189",
+    "area": "Pinawa",
+    "latitude": 26.7110955,
+    "longitude": 81.92678719999999,
+    "place_id": "ChIJD-mH6A0XmjkRJIFtebtL4V0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-mH6A0XmjkRJIFtebtL4V0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:52:09"
+  },
+  {
+    "business_name": "Mohd Jawed General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "224189",
+    "phone_number": "+91 87872 98149",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Pinawa, Sohawal, Kithawa, Uttar Pradesh 224189",
+    "area": "Pinawa",
+    "latitude": 26.7110831,
+    "longitude": 81.9268323,
+    "place_id": "ChIJ49CYvRkXmjkRGjD-7jvDUFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49CYvRkXmjkRGjD-7jvDUFU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:52:09"
+  }
+]

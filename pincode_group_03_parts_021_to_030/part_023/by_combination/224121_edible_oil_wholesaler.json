@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Oil Mills",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "224121",
+    "phone_number": "+91 95011 20156",
+    "website": "http://www.ganeshoilmill.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6MH5+GFH, NH 44, Damtal, Himachal Pradesh 176403",
+    "area": "224121",
+    "latitude": 32.2288231,
+    "longitude": 75.6587263,
+    "place_id": "ChIJn9gss_OAGzkRvS77DtzMu88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9gss_OAGzkRvS77DtzMu88",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:16"
+  },
+  {
+    "business_name": "Dhyanalinga Oil Mill",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "224121",
+    "phone_number": "+91 99650 16058",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "No. 69/1, A.R.G. Complex, Sathy Rd, VCTV, Erode, Tamil Nadu 638003",
+    "area": "VCTV",
+    "latitude": 11.3484115,
+    "longitude": 77.7185854,
+    "place_id": "ChIJcdw5HDdvqTsRQNILCg1RZ2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdw5HDdvqTsRQNILCg1RZ2w",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:16"
+  }
+]

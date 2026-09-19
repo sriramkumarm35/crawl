@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Machinery Store",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machinery parts manufacturer",
+    "all_categories": "Machinery parts manufacturer",
+    "pincode": "224168",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CG9P+6GR, Malipur Rd, Gandhi Chauk, Akbarpur, Uttar Pradesh 224122",
+    "area": "Gandhi Chauk",
+    "latitude": 26.4181213,
+    "longitude": 82.5362593,
+    "place_id": "ChIJE_GPwJ6SkDkR06C_CEB7-ZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_GPwJ6SkDkR06C_CEB7-ZU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:10"
+  },
+  {
+    "business_name": "Admech Equipment (India) Private Limited",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Supplier, Manufacturer, Machine shop, Material handling equipment supplier",
+    "pincode": "224168",
+    "phone_number": "+91 731 497 6099",
+    "website": "http://www.admechindia.com/",
+    "rating": 4,
+    "reviews_count": 34,
+    "address": "708, 7th Floor, Shekhar central, AB Rd, Palasia Square, Manorama Ganj, Indore, Madhya Pradesh 452001",
+    "area": "Palasia Square, Manorama Ganj",
+    "latitude": 22.722678,
+    "longitude": 75.8871721,
+    "place_id": "ChIJAyFK5BH9YjkRI9kRegRD1js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyFK5BH9YjkRI9kRegRD1js",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:37:11"
+  }
+]

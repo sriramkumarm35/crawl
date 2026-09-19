@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pure Sure Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant",
+    "pincode": "224202",
+    "phone_number": "+91 91409 48533",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "Sultanpur Rd, near Surya Public School, Lucknow, Marhar Mau Khurd, Uttar Pradesh 226002",
+    "area": "224202",
+    "latitude": 26.786102699999997,
+    "longitude": 81.0324765,
+    "place_id": "ChIJU3nylrXlmzkRta9rKapjSk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3nylrXlmzkRta9rKapjSk0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:18"
+  },
+  {
+    "business_name": "Mr Baker & Cake Studio",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "224202",
+    "phone_number": "+91 63939 63686",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Mr. Baker, Bikapur, Uttar Pradesh 224204",
+    "area": "224202",
+    "latitude": 26.594167499999998,
+    "longitude": 82.1323092,
+    "place_id": "ChIJvT-KgwsLmjkRYF2GLsBdJJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvT-KgwsLmjkRYF2GLsBdJJ8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:18"
+  }
+]

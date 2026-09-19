@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Mumbai Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "224181",
+    "phone_number": "+91 22 6577 7560",
+    "website": "http://www.studiomumbai.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "561, 563, NM Joshi Marg, Byculla West, Jacob Circle, Mumbai, Maharashtra 400011",
+    "area": "Byculla West, Jacob Circle",
+    "latitude": 18.981631,
+    "longitude": 72.832219,
+    "place_id": "ChIJAzWIP1zO5zsRyKKNaWBufuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzWIP1zO5zsRyKKNaWBufuk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:43:40"
+  },
+  {
+    "business_name": "LATHA ARCHITECTS",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "224181",
+    "phone_number": "+91 95661 92006",
+    "website": "https://lathaarchitects.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GANGA BLOCK, SELVAM ESTATES6th cross road, New Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+    "area": "New Colony, Chromepet",
+    "latitude": 12.9512427,
+    "longitude": 80.13738769999999,
+    "place_id": "ChIJZ11qJgxfUjoR6zkMmVwOHnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ11qJgxfUjoR6zkMmVwOHnA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:43:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reader's Adda",
+    "search_category": "Media and Event",
+    "primary_category": "Library",
+    "all_categories": "Library",
+    "pincode": "224135",
+    "phone_number": "+91 83185 15104",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Q43R+VRF, Naka, near Avadh University, Naka Bypass, Faizabad, Uttar Pradesh 224001",
+    "area": "Naka Bypass",
+    "latitude": 26.754697,
+    "longitude": 82.1420428,
+    "place_id": "ChIJ3QqMTTcHmjkRTxMMOB19rQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QqMTTcHmjkRTxMMOB19rQY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:08"
+  },
+  {
+    "business_name": "Jannat Lawn",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue, Concert hall",
+    "pincode": "224135",
+    "phone_number": "+91 93368 43372",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Q4MW+3R8, Tarkari Mandi Chowk, Shakti Vihar Colony, Faizabad, Uttar Pradesh 224001",
+    "area": "Shakti Vihar Colony",
+    "latitude": 26.782665899999998,
+    "longitude": 82.14708329999999,
+    "place_id": "ChIJb6z0VhYGmjkReSvorhWpm-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6z0VhYGmjkReSvorhWpm-8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:04:08"
+  }
+]

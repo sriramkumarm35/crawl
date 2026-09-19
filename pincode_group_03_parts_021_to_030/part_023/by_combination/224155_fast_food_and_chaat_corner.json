@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224155",
+    "phone_number": "+91 70143 59840",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Plot No. 68, 380, Jagruti Rd, Sanganer, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sanganer, Pratap Nagar",
+    "latitude": 26.8062775,
+    "longitude": 75.8098906,
+    "place_id": "ChIJ_d6qH_XJbTkRkgZ1CyjXpcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_d6qH_XJbTkRkgZ1CyjXpcc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:24:49"
+  },
+  {
+    "business_name": "One Breakfast and chaats",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224155",
+    "phone_number": "+91 93830 11111",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "near Hotel1nonly, Ambajogai Rd, Latur, Maharashtra 413531",
+    "area": "Take Nagar",
+    "latitude": 18.4069973,
+    "longitude": 76.56635109999999,
+    "place_id": "ChIJR5owkMyDzzsR5gVr5njMvXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5owkMyDzzsR5gVr5njMvXE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:24:49"
+  }
+]

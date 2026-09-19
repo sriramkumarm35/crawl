@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BPO Services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency, BPO Company, BPO Placement Agency, Computer store, Data Entry Service Provider",
+    "pincode": "224117",
+    "phone_number": "+91 79 4009 6691",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "BLOCK-A, Naranpura Rd, near AEC Tower, AEC Char Rasta, Naranpura, Ahmedabad, Gujarat 380013",
+    "area": "AEC Char Rasta, Naranpura",
+    "latitude": 23.052738599999998,
+    "longitude": 72.5491816,
+    "place_id": "ChIJp9XLaRqFXjkRf6fqp8u1wNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9XLaRqFXjkRf6fqp8u1wNg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:40:35"
+  },
+  {
+    "business_name": "JP digital solution",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency",
+    "pincode": "224117",
+    "phone_number": "+91 33 4605 0897",
+    "website": "https://jpdigital.in/",
+    "rating": 4.5,
+    "reviews_count": 41,
+    "address": "105/A, Roy Mallick Colony, Kundubagan, Ghughudanga, Dum Dum, Kolkata, West Bengal 700074",
+    "area": "Roy Mallick Colony, Kundubagan, Ghughudanga, Dum Dum",
+    "latitude": 22.619143599999997,
+    "longitude": 88.396935,
+    "place_id": "ChIJQSHrqfqd-DkRFvJETm5Wyow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSHrqfqd-DkRFvJETm5Wyow",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:40:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "224149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "9MXM+W25, Katghar Kamaal, Sammanpur, Uttar Pradesh 224186",
+    "area": "224149",
+    "latitude": 26.3997353,
+    "longitude": 82.6826136,
+    "place_id": "ChIJXcHs2DTxkDkRXgPusdvNSpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcHs2DTxkDkRXgPusdvNSpY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:31"
+  },
+  {
+    "business_name": "Khusi Restaurant Malipur Road Jalalpur",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Barbecue restaurant",
+    "all_categories": "Barbecue restaurant",
+    "pincode": "224149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "8P6G+583, MDR 82E, Jalalpur, Mahmadpur Hamsa, Uttar Pradesh 224149",
+    "area": "224149",
+    "latitude": 26.3103812,
+    "longitude": 82.7257947,
+    "place_id": "ChIJ1Y1nax33kDkR_hSFOBNDO1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Y1nax33kDkR_hSFOBNDO1s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:33"
+  }
+]

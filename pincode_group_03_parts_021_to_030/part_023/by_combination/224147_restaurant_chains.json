@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Walk",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, Continental restaurant",
+    "pincode": "224147",
+    "phone_number": "+91 95990 69519",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 3272,
+    "address": "The Walk, C-69, opposite petrol pump, RDC, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Sector 15, Sector 10, Raj Nagar",
+    "latitude": 28.6767242,
+    "longitude": 77.44301879999999,
+    "place_id": "ChIJS4slJS3xDDkRnSVpfOiCi4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4slJS3xDDkRnSVpfOiCi4s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:49"
+  },
+  {
+    "business_name": "Handi Highway Dining",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Buffet restaurant, Catering food and drink supplier, Chinese restaurant, Continental restaurant, Fine dining restaurant, Italian restaurant, South Indian restaurant",
+    "pincode": "224147",
+    "phone_number": "+91 75990 75350",
+    "website": "http://handihighway.in/",
+    "rating": 4.1,
+    "reviews_count": 6966,
+    "address": "77, opp. Astoria Bouleward, near Hint Chowk, RDC, Block 1, Sector - 1, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "RDC, Block 1, Sector - 1, Raj Nagar",
+    "latitude": 28.677512,
+    "longitude": 77.4421581,
+    "place_id": "ChIJf6RvkbzxDDkRBET8gLmlPKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6RvkbzxDDkRBET8gLmlPKQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:50"
+  }
+]

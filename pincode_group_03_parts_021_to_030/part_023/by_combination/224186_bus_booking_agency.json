@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRI SAIRAM TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "224186",
+    "phone_number": "+91 20 2551 2399",
+    "website": "http://shrisairambus.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kartik Chamber, Kartik Chambers, 1, Modern Engineering College Rd, opposite Modern School, Revenue Colony, Pune, Maharashtra 411005",
+    "area": "Revenue Colony",
+    "latitude": 18.5253641,
+    "longitude": 73.8491444,
+    "place_id": "ChIJE9ECFXzAwjsRyL6DSZ5YA-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9ECFXzAwjsRyL6DSZ5YA-c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:49:06"
+  },
+  {
+    "business_name": "Karan Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "224186",
+    "phone_number": "+91 98220 59133",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "P T Gera Center, Office. 201/A, 2nd Floor, S. TCS 15/1 F. Plot 168, Bund Garden Rd, Sasoon Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "area": "Sangamvadi",
+    "latitude": 18.5317149,
+    "longitude": 73.8764638,
+    "place_id": "ChIJO4buCVjAwjsRZXGZfNxUvBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4buCVjAwjsRZXGZfNxUvBs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:49:06"
+  }
+]

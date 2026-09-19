@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arham Enterprises",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Packaging supply store",
+    "all_categories": "Packaging supply store",
+    "pincode": "224157",
+    "phone_number": "+91 91581 20130",
+    "website": "https://www.instagram.com/arham_packaging?igsh=eXN4dmlsMXU3Y3c3",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop 20, 56, Gala Market, dondiacha road, opp. Rajpal wines, Vijay Nagar, Shahada, Maharashtra 425409",
+    "area": "Vijay Nagar",
+    "latitude": 21.544289499999998,
+    "longitude": 74.4717764,
+    "place_id": "ChIJy33kmQFt3zsRCjfHcCZmQCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy33kmQFt3zsRCjfHcCZmQCQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:27:34"
+  },
+  {
+    "business_name": "Uphaar The Trousseau Studio",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Art studio",
+    "all_categories": "Art studio",
+    "pincode": "224157",
+    "phone_number": "+91 70090 42678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "2054, Basti Johdewal, Sector 32A, Ludhiana, Punjab 141008",
+    "area": "Basti Johdewal, Sector 32A",
+    "latitude": 30.9167064,
+    "longitude": 75.8989895,
+    "place_id": "ChIJH_tvWgCDGjkRPw4KlXFUmBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_tvWgCDGjkRPw4KlXFUmBQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:27:35"
+  }
+]

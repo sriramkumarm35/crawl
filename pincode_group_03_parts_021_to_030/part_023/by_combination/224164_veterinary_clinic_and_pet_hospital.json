@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phoenix Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Pet groomer, Pet store, Veterinary pharmacy",
+    "pincode": "224164",
+    "phone_number": "+91 88851 49333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 275,
+    "address": "My Home Mangala Rd, Kondapur, KMR Estates, Hafeezpet, Hyderabad, Telangana 500084",
+    "area": "Kondapur, KMR Estates, Hafeezpet",
+    "latitude": 17.4797172,
+    "longitude": 78.3498728,
+    "place_id": "ChIJ2zSjByaTyzsR_r-aemvLIU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zSjByaTyzsR_r-aemvLIU4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:16"
+  },
+  {
+    "business_name": "Moitri Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "224164",
+    "phone_number": "+91 98745 81624",
+    "website": "http://www.moitrivet.co.in/",
+    "rating": 3.9,
+    "reviews_count": 870,
+    "address": "Carmel High School, 15B, Deshapriya Park Rd, beside Primary, Manoharpukur, Kalighat, Kolkata, West Bengal 700026",
+    "area": "Manoharpukur, Kalighat",
+    "latitude": 22.5185082,
+    "longitude": 88.3500153,
+    "place_id": "ChIJIZh0DzN3AjoRtT-an4ndEjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZh0DzN3AjoRtT-an4ndEjQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:16"
+  }
+]

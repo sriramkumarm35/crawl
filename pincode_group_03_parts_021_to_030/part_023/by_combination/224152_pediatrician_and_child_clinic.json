@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Shekhar Biswas",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Neonatal physician",
+    "pincode": "224152",
+    "phone_number": "+91 90133 30596",
+    "website": "https://drshekharbiswas.inspiroxindia.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "first floor, Sector 17, 8, Pocket A-1, Pocket 1, Sector 17A, Rohini, New Delhi, Delhi, 110089",
+    "area": "Pocket A-1, Pocket 1, Sector 17A, Rohini",
+    "latitude": 28.738190099999997,
+    "longitude": 77.1168589,
+    "place_id": "ChIJHZ8doCQBDTkRTyy_dXcybuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZ8doCQBDTkRTyy_dXcybuo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:21:24"
+  },
+  {
+    "business_name": "Dr T A KHAN's CHILD HEALTH CENTER, Aliganj, TANDA, Distt. Ambedkarnagar",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "224152",
+    "phone_number": "+91 93368 61320",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "Aliganj , TANDA, Distt, Tanda, Uttar Pradesh 224190",
+    "area": "224152",
+    "latitude": 26.543264699999998,
+    "longitude": 82.66454689999999,
+    "place_id": "ChIJByKMrJDpkDkRmXppX1ahaIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByKMrJDpkDkRmXppX1ahaIw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:21:25"
+  }
+]

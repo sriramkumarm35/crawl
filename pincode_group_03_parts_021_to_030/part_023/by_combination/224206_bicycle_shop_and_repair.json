@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Somnath Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224206",
+    "phone_number": "+91 98254 51913",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khodiyar Complex, Palanpur Rd, Dindayal Society, Sima Nagar, Surat, Gujarat 395005",
+    "area": "Dindayal Society, Sima Nagar",
+    "latitude": 21.2112975,
+    "longitude": 72.7895465,
+    "place_id": "ChIJRYtkeQRN4DsRImnwnMBNUPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYtkeQRN4DsRImnwnMBNUPo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:58"
+  },
+  {
+    "business_name": "H Parikh and Company",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224206",
+    "phone_number": "+91 84011 47294",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Khadia Cross Road, Opposite Khadia Post Office, Gandhi Rd, Khadia, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Khadia",
+    "latitude": 23.0246118,
+    "longitude": 72.5949258,
+    "place_id": "ChIJbZAQKTSEXjkRYBq6v77iEyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZAQKTSEXjkRYBq6v77iEyc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:06:58"
+  }
+]

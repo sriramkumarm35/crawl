@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Pyare Ashok Kumar Jewellery Shop",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "224201",
+    "phone_number": "+91 99560 92383",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazaar, Bhadarsa, Uttar Pradesh 224202",
+    "area": "224201",
+    "latitude": 26.6425208,
+    "longitude": 82.1195978,
+    "place_id": "ChIJpy9a7EANmjkRVBfBIoJLRn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpy9a7EANmjkRVBfBIoJLRn0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:37"
+  },
+  {
+    "business_name": "Shashank jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "224201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shreeram Market, Naveen Mandi, Faizabad, Uttar Pradesh 224001",
+    "area": "Naveen Mandi",
+    "latitude": 26.756684099999998,
+    "longitude": 82.136725,
+    "place_id": "ChIJG2Lx-bwJmjkRdsXM-jo4Om0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2Lx-bwJmjkRdsXM-jo4Om0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navya Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "224206",
+    "phone_number": "+91 88964 44064",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 56,
+    "address": "Nawabganj, Ganipur Jogpur, Uttar Pradesh 209501",
+    "area": "Nawabganj",
+    "latitude": 27.432595,
+    "longitude": 79.4139039,
+    "place_id": "ChIJTfvTISQqnjkRAZpbrSDUKmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfvTISQqnjkRAZpbrSDUKmg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:07:33"
+  },
+  {
+    "business_name": "Baintikala Bukanwa Ayodhya",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "224206",
+    "phone_number": "+91 88699 61012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F5H9+GF6, Bainti Kala, Uttar Pradesh 224209",
+    "area": "224206",
+    "latitude": 26.4787829,
+    "longitude": 82.1686438,
+    "place_id": "ChIJ41ElGQB3mjkRYtzSEzAvJ0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41ElGQB3mjkRYtzSEzAvJ0A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:07:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "10times",
+    "search_category": "Tradeshows",
+    "primary_category": "Event technology service",
+    "all_categories": "Event technology service",
+    "pincode": "224181",
+    "phone_number": "+91 93536 48076",
+    "website": "https://10times.com/",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "A-130, A Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "A Block, Sector 63",
+    "latitude": 28.6187446,
+    "longitude": 77.378733,
+    "place_id": "ChIJeaQK9PPvDDkRf4t_vgaP3hU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeaQK9PPvDDkRf4t_vgaP3hU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:44:30"
+  },
+  {
+    "business_name": "International Private Label & Contract Manufacturing Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "224181",
+    "phone_number": "+91 98201 09077",
+    "website": "https://www.iplcmexpo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "International Private Label & Contract Manufacturing Expo, 224181, India",
+    "area": "224181",
+    "latitude": 20.6541359,
+    "longitude": 67.8503711,
+    "place_id": "ChIJRS_UbrM426cRa8cQDG8K5Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRS_UbrM426cRa8cQDG8K5Nc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:44:30"
+  }
+]

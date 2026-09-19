@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAPPY FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "224153",
+    "phone_number": "+91 97219 86965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CVW7+H68, Arwal, Uttar Pradesh 227806",
+    "area": "224153",
+    "latitude": 26.446412499999997,
+    "longitude": 81.8630781,
+    "place_id": "ChIJL0vNcABDmjkRPpPhqD0NRfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0vNcABDmjkRPpPhqD0NRfk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:00"
+  },
+  {
+    "business_name": "Camcook",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224153",
+    "phone_number": "+91 87992 97829",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 87,
+    "address": "Naharbagh, Niyawan, Faizabad, Uttar Pradesh 224001",
+    "area": "Naharbagh, Niyawan",
+    "latitude": 26.784603999999998,
+    "longitude": 82.1431597,
+    "place_id": "ChIJYXva_MwHmjkRk57ZIc-GSFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXva_MwHmjkRk57ZIc-GSFM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Divine Ayodhya",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "224126",
+    "phone_number": "+91 99352 00144",
+    "website": "https://hoteldivineayodhya.com/",
+    "rating": 4.6,
+    "reviews_count": 118,
+    "address": "467, Magalsi, Jaganpur, Uttar Pradesh 224182",
+    "area": "Magalsi",
+    "latitude": 26.762418099999998,
+    "longitude": 82.0173547,
+    "place_id": "ChIJneU2XwAbmjkRpgJCtwXgccw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneU2XwAbmjkRpgJCtwXgccw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:54:49"
+  },
+  {
+    "business_name": "Hotel Paarvi Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Inn, Lodge, Home Stay",
+    "pincode": "224126",
+    "phone_number": "+91 92505 38645",
+    "website": "https://paarvipalace.com/",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "Bhiki Ka Purva, Ashapur Village, Darshan Nagar, Ranopali, Faizabad, Uttar Pradesh 224123",
+    "area": "Ashapur Village, Darshan Nagar",
+    "latitude": 26.7689257,
+    "longitude": 82.18957739999999,
+    "place_id": "ChIJzU3egYoJmjkRI7QadNxNxnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU3egYoJmjkRI7QadNxNxnI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:54:52"
+  }
+]

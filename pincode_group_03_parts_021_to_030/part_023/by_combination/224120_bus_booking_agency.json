@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna CSC",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "224120",
+    "phone_number": "+91 97290 58696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Saidpur Road, Lohati Saraiyan, Amraigaon, Uttar Pradesh 224120",
+    "area": "224120",
+    "latitude": 26.688366,
+    "longitude": 81.72426159999999,
+    "place_id": "ChIJA7k1IiIxmjkR-acZAjTc57c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7k1IiIxmjkR-acZAjTc57c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:03"
+  },
+  {
+    "business_name": "Sagar Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "224120",
+    "phone_number": "+91 63873 01763",
+    "website": "https://sagartempotravellersandcabs.online/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No: 655, 124 Aquilapur, Sector D, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector D, Jankipuram",
+    "latitude": 26.9081157,
+    "longitude": 80.9501157,
+    "place_id": "ChIJn0DcV7hXmTkRHlWzUuXMRao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0DcV7hXmTkRHlWzUuXMRao",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:45:05"
+  }
+]

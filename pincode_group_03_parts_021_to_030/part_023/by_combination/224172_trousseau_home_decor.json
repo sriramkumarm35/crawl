@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "True Decor Interior designer",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "224172",
+    "phone_number": "+91 98181 40898",
+    "website": "https://www.truedecore.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hingraj Bhawani Mandir, E-7, Madhu Vihar, I.P.Extension, Patparganj, Delhi, 110092",
+    "area": "Madhu Vihar, I.P.Extension, Patparganj",
+    "latitude": 28.6362971,
+    "longitude": 77.3041095,
+    "place_id": "ChIJQzyY0Sb7DDkRkM0SCoLIOtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzyY0Sb7DDkRkM0SCoLIOtQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:40:19"
+  },
+  {
+    "business_name": "TARU INTERIOR DECOR",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "224172",
+    "phone_number": "+91 76782 76686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "floor-1, 92, Street Number 19, Fazalpur, I.P.Extension, Patparganj, New Delhi, Delhi, 110092",
+    "area": "Fazalpur, I.P.Extension, Patparganj",
+    "latitude": 28.6288,
+    "longitude": 77.31017899999999,
+    "place_id": "ChIJXbTX4xnlDDkRbLxLhCE7-_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbTX4xnlDDkRbLxLhCE7-_s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:40:19"
+  }
+]

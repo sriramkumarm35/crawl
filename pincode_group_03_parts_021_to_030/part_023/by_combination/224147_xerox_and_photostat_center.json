@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Photo State",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "224147",
+    "phone_number": "+91 70713 89642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Photo State, Vivekanand Nagar, Azamgarh, Balrampur, Uttar Pradesh 224176",
+    "area": "Vivekanand Nagar",
+    "latitude": 26.3026861,
+    "longitude": 83.08186649999999,
+    "place_id": "ChIJS3b-V4AJkTkRK0C_UMpMOKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3b-V4AJkTkRK0C_UMpMOKE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:51"
+  },
+  {
+    "business_name": "nokia service center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224147",
+    "phone_number": "N/A",
+    "website": "http://nokia.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "CX96+WRM, Rajesultanpur -Tanda Rd, Mampur, Jahangir Ganj Market, Uttar Pradesh 224147",
+    "area": "Mampur",
+    "latitude": 26.4198424,
+    "longitude": 82.9620384,
+    "place_id": "ChIJlyvykKoDkTkRDHwNNfiAv9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyvykKoDkTkRDHwNNfiAv9Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:16:51"
+  }
+]

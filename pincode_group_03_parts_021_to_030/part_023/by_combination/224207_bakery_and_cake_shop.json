@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "224207",
+    "phone_number": "+91 93693 52422",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Chowk to Gulabari Rd, Narendra Dev Nagar, Faizabad, Uttar Pradesh 224001",
+    "area": "Narendra Dev Nagar",
+    "latitude": 26.7798935,
+    "longitude": 82.1537657,
+    "place_id": "ChIJGUnphpsHmjkRuP5fwVdDuZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUnphpsHmjkRuP5fwVdDuZA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:10"
+  },
+  {
+    "business_name": "Kuldeep Pan Bhandar",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "224207",
+    "phone_number": "+91 99188 21658",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuldeep Milkipur, Road, Shivtar, Uttar Pradesh 224207",
+    "area": "224207",
+    "latitude": 26.5485975,
+    "longitude": 82.0568874,
+    "place_id": "ChIJJxT1V5BzmjkRIr5DtAd5060",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxT1V5BzmjkRIr5DtAd5060",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:12"
+  }
+]

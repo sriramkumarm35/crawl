@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Auto Service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Saray Majra, Sagr Patti, Uttar Pradesh 224208",
+    "area": "224208",
+    "latitude": 26.544737299999998,
+    "longitude": 81.99219649999999,
+    "place_id": "ChIJDXtJ1C5tmjkR0sYDvgCvl_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXtJ1C5tmjkR0sYDvgCvl_4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:10:30"
+  },
+  {
+    "business_name": "Mishra Gaadi Dulayi center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "224208",
+    "phone_number": "+91 78809 98683",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Haraura, Uttar Pradesh 228121",
+    "area": "224208",
+    "latitude": 26.4542993,
+    "longitude": 82.0061934,
+    "place_id": "ChIJr-Pi7LpvmjkRgnIP14RRPRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-Pi7LpvmjkRgnIP14RRPRg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:10:30"
+  }
+]

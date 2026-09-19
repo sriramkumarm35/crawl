@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gifts World Expo",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center, Event management company, Event venue, Exhibition planner",
+    "pincode": "224208",
+    "phone_number": "+91 11 4646 4848",
+    "website": "https://www.giftsworldexpo.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "9 LGF, Sant Nagar, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Sant Nagar, East of Kailash",
+    "latitude": 28.554177499999998,
+    "longitude": 77.2512917,
+    "place_id": "ChIJE13ZYfzjDDkRfwd1CRudNWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE13ZYfzjDDkRfwd1CRudNWE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:11:28"
+  },
+  {
+    "business_name": "The Eventage",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner",
+    "pincode": "224208",
+    "phone_number": "N/A",
+    "website": "http://theeventage.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "railway crossing, Daxini Society, Maninagar, Ahmedabad, Gujarat 380008",
+    "area": "Daxini Society, Maninagar",
+    "latitude": 22.9944304,
+    "longitude": 72.6122991,
+    "place_id": "ChIJ1QynZ27y2UgRu_ws9O81kRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QynZ27y2UgRu_ws9O81kRg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:11:28"
+  }
+]

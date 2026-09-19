@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faizabad Plywood Hardwear Center",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "224188",
+    "phone_number": "+91 99357 71579",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sohawal, Faizabad, Uttar Pradesh 224188",
+    "area": "224188",
+    "latitude": 26.7452476,
+    "longitude": 81.9932923,
+    "place_id": "ChIJL5ixyGwRmjkR13mQ8a9i3qI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5ixyGwRmjkR13mQ8a9i3qI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:51:11"
+  },
+  {
+    "business_name": "A S Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "224188",
+    "phone_number": "+91 88749 14748",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Niyawan, Faizabad, Uttar Pradesh 224001",
+    "area": "Niyawan",
+    "latitude": 26.7841389,
+    "longitude": 82.1405462,
+    "place_id": "ChIJI7yAakIHmjkRI3fuMmEwlgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7yAakIHmjkRI3fuMmEwlgw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:51:12"
+  }
+]

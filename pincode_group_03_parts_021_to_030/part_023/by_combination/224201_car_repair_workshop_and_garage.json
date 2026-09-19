@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metre Per Second - Premium Car Service & Repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Auto restoration service",
+    "pincode": "224201",
+    "phone_number": "+91 85558 24915",
+    "website": "https://metrepersecond.com/",
+    "rating": 4.7,
+    "reviews_count": 464,
+    "address": "Mahadev Puram, Plot No: M-8, KPHB Road, next to stark fitness studio, Kailash Hills, Gajularamaram, Hyderabad, Telangana 500117",
+    "area": "Kailash Hills, Gajularamaram",
+    "latitude": 17.518722099999998,
+    "longitude": 78.4146033,
+    "place_id": "ChIJz0XgAeWRyzsRM16VGRZFo0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0XgAeWRyzsRM16VGRZFo0E",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:55"
+  },
+  {
+    "business_name": "Medi Cars",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body parts supplier, Auto body shop, Auto painting, Car wash",
+    "pincode": "224201",
+    "phone_number": "+91 98219 61828",
+    "website": "https://medicars.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "IMT Chowk, NH-8, near Rimjhim Dhaba, Manesar, Gurugram, Haryana 122012",
+    "area": "Manesar",
+    "latitude": 28.3726833,
+    "longitude": 76.94768959999999,
+    "place_id": "ChIJMxyxtV09DTkRNsYHbLf6Vd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxyxtV09DTkRNsYHbLf6Vd4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:57"
+  }
+]

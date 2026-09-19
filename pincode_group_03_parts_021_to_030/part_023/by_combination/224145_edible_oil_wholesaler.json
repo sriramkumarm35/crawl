@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fortune Agency",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Supplier",
+    "pincode": "224145",
+    "phone_number": "+91 96217 12840",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Handia, Uttar Pradesh 221503",
+    "area": "224145",
+    "latitude": 25.363642799999997,
+    "longitude": 82.185851,
+    "place_id": "ChIJBaMbHNlVhTkR8D62jHGriqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaMbHNlVhTkR8D62jHGriqk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:07"
+  },
+  {
+    "business_name": "UTS OIL MILL",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "224145",
+    "phone_number": "+91 63915 38935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village post, Unchey Gaon, Ruhiyawan, Uttar Pradesh 224234",
+    "area": "Unchey Gaon",
+    "latitude": 26.6196633,
+    "longitude": 82.4568642,
+    "place_id": "ChIJv1tmLX69kDkRCf5b0uIC-x4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1tmLX69kDkRCf5b0uIC-x4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:09"
+  }
+]

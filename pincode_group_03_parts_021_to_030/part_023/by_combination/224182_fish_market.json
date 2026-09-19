@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raunahi farmers",
+    "search_category": "Fish Market",
+    "primary_category": "Farm shop",
+    "all_categories": "Farm shop, Farm",
+    "pincode": "224182",
+    "phone_number": "+91 84000 73520",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sohawal, Sanaha Uparhar, Uttar Pradesh 224182",
+    "area": "224182",
+    "latitude": 26.7714298,
+    "longitude": 81.9678608,
+    "place_id": "ChIJIbA_NAAbmjkR83oXxBhf4Fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbA_NAAbmjkR83oXxBhf4Fs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:44:42"
+  },
+  {
+    "business_name": "Ekveera Fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "224182",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 90,
+    "address": "639H+FWM, Dombivli, RBI Colony, Dombivli West, Kalyan, Maharashtra 421202",
+    "area": "Dombivli, RBI Colony, Dombivli West",
+    "latitude": 19.2187198,
+    "longitude": 73.0797949,
+    "place_id": "ChIJM8MhcSK-5zsRfFDhyDO-FWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8MhcSK-5zsRfFDhyDO-FWA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:44:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samar interior group",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "224201",
+    "phone_number": "+91 78974 72517",
+    "website": "https://samarpaintpop.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Usru, Raibareli Rd, Manas Nagar, Ayodhya, Faizabad, Uttar Pradesh 224201",
+    "area": "Manas Nagar",
+    "latitude": 26.7550021,
+    "longitude": 82.1347251,
+    "place_id": "ChIJ3TNlKsIJmjkRvwZgIgI3-_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TNlKsIJmjkRvwZgIgI3-_0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:58:13"
+  },
+  {
+    "business_name": "Rodge Interio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "224201",
+    "phone_number": "+91 82918 88222",
+    "website": "http://www.rodgeinterio.com/",
+    "rating": 4.6,
+    "reviews_count": 144,
+    "address": "Ambedkar chowk, Shop No 1&2, Mahalaxmi Ashish CHS, next to Matrix hospital, East, Shirgaon, Badlapur, Maharashtra 421503",
+    "area": "East, Shirgaon",
+    "latitude": 19.162001999999998,
+    "longitude": 73.2282513,
+    "place_id": "ChIJUyal79SS5zsR3TVRTZq0SiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyal79SS5zsR3TVRTZq0SiE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:58:14"
+  }
+]

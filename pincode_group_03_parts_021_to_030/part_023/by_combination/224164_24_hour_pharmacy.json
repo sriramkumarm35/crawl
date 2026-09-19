@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh pharmacy गणेश फार्मेसी",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224164",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "926C+9QJ Kamapur bhandra, Kurwar, Bhandar Parasrampur, Uttar Pradesh 228155",
+    "area": "224164",
+    "latitude": 26.3609503,
+    "longitude": 82.0218907,
+    "place_id": "ChIJd_tkdQBlmjkROqBrPceEeto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_tkdQBlmjkROqBrPceEeto",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:06"
+  },
+  {
+    "business_name": "Jai Laxmi medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "224164",
+    "phone_number": "+91 91307 93606",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Bahurawan Bazar, Uttar Pradesh 227814",
+    "area": "224164",
+    "latitude": 26.4894206,
+    "longitude": 81.9147902,
+    "place_id": "ChIJRy6D5yVrmjkR2waF6AkrXZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRy6D5yVrmjkR2waF6AkrXZ4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:34:08"
+  }
+]

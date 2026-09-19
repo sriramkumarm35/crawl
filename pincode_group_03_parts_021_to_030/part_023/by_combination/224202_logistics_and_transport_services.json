@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRL Logistics Ltd.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Courier service, Freight Forwarding Agency, Transportation service, Trucking company",
+    "pincode": "224202",
+    "phone_number": "+91 1800 599 7800",
+    "website": "https://vrlgroup.in/vrl_group_home.aspx",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Parthima Indian Gas, Agencies, Bikapur, Gazipur, Uttar Pradesh 224204",
+    "area": "224202",
+    "latitude": 26.599999999999998,
+    "longitude": 82.133904,
+    "place_id": "ChIJJ02QblkLmjkRuFOjPJlsfNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ02QblkLmjkRuFOjPJlsfNE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:52"
+  },
+  {
+    "business_name": "PIHU LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "224202",
+    "phone_number": "+91 99935 52893",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "10.SR COMPOUND GOPAL TOLL KANTA, Dewas Naka, Lasudia Mori, Indore, Madhya Pradesh 453771",
+    "area": "Dewas Naka, Lasudia Mori",
+    "latitude": 22.818137,
+    "longitude": 75.9257315,
+    "place_id": "ChIJkw2EGKUdYzkR94dXMNmxAPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkw2EGKUdYzkR94dXMNmxAPg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:53"
+  }
+]

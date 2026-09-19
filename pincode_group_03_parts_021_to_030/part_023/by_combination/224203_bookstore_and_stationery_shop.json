@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himalaya Book World - Secunderabad",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Bag shop, Chocolate shop, Gift shop, Pen store, Scrapbooking store, Sporting goods store, Toy store",
+    "pincode": "224203",
+    "phone_number": "+91 40 2780 2248",
+    "website": "http://himalayabookworld.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1-7/83, Deepti Apartment, 9-1-7/83/84, Sardar Patel Rd, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Regimental Bazaar, Shivaji Nagar",
+    "latitude": 17.4423185,
+    "longitude": 78.5042631,
+    "place_id": "ChIJB_LEZzuayzsRLSbpg71F9uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_LEZzuayzsRLSbpg71F9uw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:02:11"
+  },
+  {
+    "business_name": "Om Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "224203",
+    "phone_number": "+91 94230 72211",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "229, Om Sadan, Phawade Lane, Raviwar Karanja, Panchavati, Nashik, Maharashtra 422001",
+    "area": "Raviwar Karanja, Panchavati",
+    "latitude": 20.005283199999997,
+    "longitude": 73.78881249999999,
+    "place_id": "ChIJuUlFYKnr3TsRkypYboitoEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUlFYKnr3TsRkypYboitoEQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:02:11"
+  }
+]

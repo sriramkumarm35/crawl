@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chini Mil",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "224143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "FCG7+44G, Ravan Deeh, Uttar Pradesh 224152",
+    "area": "224143",
+    "latitude": 26.475309499999998,
+    "longitude": 82.4128236,
+    "place_id": "ChIJrZyDbeeRkDkR-BNIFeFbx40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZyDbeeRkDkR-BNIFeFbx40",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:11:49"
+  },
+  {
+    "business_name": "Kamlesh Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "224143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "9JQ4+5C4, SH 38, Akbarpur, Uttar Pradesh 209865",
+    "area": "224143",
+    "latitude": 26.3878775,
+    "longitude": 80.6060731,
+    "place_id": "ChIJmUV8nQ5vnDkRDqr39a59o8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUV8nQ5vnDkRDqr39a59o8E",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:11:49"
+  }
+]

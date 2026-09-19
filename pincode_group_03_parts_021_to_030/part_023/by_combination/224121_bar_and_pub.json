@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit singh",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "224121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MRCC+9J, Orwa, Uttar Pradesh 224121",
+    "area": "224121",
+    "latitude": 26.6709575,
+    "longitude": 81.82149489999999,
+    "place_id": "ChIJWZ4xK0A9mjkRhrYbnBnNdEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZ4xK0A9mjkRhrYbnBnNdEY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:27"
+  },
+  {
+    "business_name": "THE KING BAR and Hotel Baadshah & Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Banquet hall, Hotel, Restaurant",
+    "pincode": "224121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Baadshah Tower, Malviya Rd, Bhatolowa, Basti, Uttar Pradesh 272001",
+    "area": "Bhatolowa",
+    "latitude": 26.7996472,
+    "longitude": 82.73411569999999,
+    "place_id": "ChIJOfjILiHbkDkRI8nG-nZBxCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfjILiHbkDkRI8nG-nZBxCU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:30"
+  }
+]

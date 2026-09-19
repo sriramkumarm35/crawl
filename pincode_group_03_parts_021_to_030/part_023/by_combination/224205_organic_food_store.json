@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Organic World - ITPL",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Indian grocery store, Organic shop, Produce market",
+    "pincode": "224205",
+    "phone_number": "+91 90367 28501",
+    "website": "https://theorganicworld.com/",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "GR Tech Park, 08 ITPL Upkar layout, ECC Rd, ITPL Main Rd, next to Prime Bliss, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Pattandur Agrahara, Whitefield",
+    "latitude": 12.9850935,
+    "longitude": 77.7443258,
+    "place_id": "ChIJC5paBJ0RrjsRaq6yCt4l0Fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5paBJ0RrjsRaq6yCt4l0Fk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:29"
+  },
+  {
+    "business_name": "Avadh Premium International LLP",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Business to business service, Food and beverage consultant, Food & Beverage Exporter, Food Processing Company, Food products supplier, Fruit and vegetable processing",
+    "pincode": "224205",
+    "phone_number": "+91 91084 64647",
+    "website": "https://avadh.co.in/",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "280, Hathigo, Uttar Pradesh 224209",
+    "area": "224205",
+    "latitude": 26.4441942,
+    "longitude": 82.1600722,
+    "place_id": "ChIJaRnc_jp3mjkRxRjdMqYMvBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRnc_jp3mjkRxRjdMqYMvBw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:04:30"
+  }
+]

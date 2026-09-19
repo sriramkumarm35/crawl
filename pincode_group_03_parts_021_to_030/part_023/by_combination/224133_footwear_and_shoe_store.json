@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "224133",
+    "phone_number": "+91 98392 27241",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Q47R+RPW, Ram Nagar, Naka, Faizabad, Uttar Pradesh 224001",
+    "area": "Naka",
+    "latitude": 26.764623099999998,
+    "longitude": 82.14182319999999,
+    "place_id": "ChIJ5TLmA6cImjkRPsWXGe8WH_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TLmA6cImjkRPsWXGe8WH_8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:18"
+  },
+  {
+    "business_name": "Shaan Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "224133",
+    "phone_number": "+91 63934 00494",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q47R+4VR, Gandhinagar, Durgapuri Colony, Naka, Hanumangarhi, Faizabad, Uttar Pradesh 224001",
+    "area": "Gandhinagar, Durgapuri Colony, Naka",
+    "latitude": 26.7628521,
+    "longitude": 82.1421501,
+    "place_id": "ChIJTT6vkqYImjkRux1PbhdfkHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTT6vkqYImjkRux1PbhdfkHs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:19"
+  }
+]

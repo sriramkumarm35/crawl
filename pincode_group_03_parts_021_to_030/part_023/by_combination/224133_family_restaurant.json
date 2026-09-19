@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhoj",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "224133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ayodhya - Prayagraj Rd, Dhabha Semar, Ayodhya, Faizabad, Uttar Pradesh 224001",
+    "area": "Dhabha Semar",
+    "latitude": 26.7457948,
+    "longitude": 82.1399354,
+    "place_id": "ChIJCQUld3cJmjkR-BXPs2ujCFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQUld3cJmjkR-BXPs2ujCFU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:11"
+  },
+  {
+    "business_name": "Tasty Junction Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224133",
+    "phone_number": "+91 97216 33853",
+    "website": "http://tastyjunctionrestaurant.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Lucknow - Barauni, National Highway, beside of Gomti Hospital, Manas Nagar, Faizabad, Uttar Pradesh 224133",
+    "area": "Manas Nagar, I.E.T. Campus",
+    "latitude": 26.760590099999998,
+    "longitude": 82.1553229,
+    "place_id": "ChIJY0li0-wJmjkRc4LI4KL7vyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0li0-wJmjkRc4LI4KL7vyw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:11"
+  }
+]

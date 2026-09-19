@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OREA - Omkar Real Estates Agency",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "224183",
+    "phone_number": "+91 98337 40089",
+    "website": "http://www.orea.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dimple Arcade, Premises, Asha Nagar Rd, behind Sai Dham Temple, Kandivali, Gayatri Nagar, Thakur Complex, ⁷Kandivali East, Mumbai, Maharashtra 400101",
+    "area": "Kandivali, Gayatri Nagar, Thakur Complex, ⁷Kandivali East",
+    "latitude": 19.2121422,
+    "longitude": 72.86737889999999,
+    "place_id": "ChIJ9ektzQG35zsRIPFM6itEKI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ektzQG35zsRIPFM6itEKI0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:04"
+  },
+  {
+    "business_name": "MoneyTree Realty Services Limited",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "224183",
+    "phone_number": "+91 97323 00007",
+    "website": "https://moneytreerealty.com/",
+    "rating": 5,
+    "reviews_count": 81,
+    "address": "5th Floor, Cyber Heights, Unit. 501(A, Vijaipur Colony, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijaipur Colony, Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.867732699999998,
+    "longitude": 81.01070159999999,
+    "place_id": "ChIJH_o8XiHjmzkRm7ExvVU-q5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_o8XiHjmzkRm7ExvVU-q5A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:05"
+  }
+]

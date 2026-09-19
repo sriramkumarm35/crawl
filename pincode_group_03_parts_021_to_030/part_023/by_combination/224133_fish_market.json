@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel market",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "224133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q44R+2C9, Naka Bypass, Faizabad, Uttar Pradesh 224001",
+    "area": "Naka Bypass",
+    "latitude": 26.7550468,
+    "longitude": 82.1411026,
+    "place_id": "ChIJSyu9RAAJmjkR2PzPsP49eTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyu9RAAJmjkR2PzPsP49eTc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:01"
+  },
+  {
+    "business_name": "Madipakkam Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "224133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 443,
+    "address": "4/4A, Puzhuthivakkam, Madipakkam, Moovarasampettai, Tamil Nadu 600091",
+    "area": "Puzhuthivakkam, Madipakkam",
+    "latitude": 12.9693481,
+    "longitude": 80.1902853,
+    "place_id": "ChIJ0_x4oOFdUjoR8lln6UmhEao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_x4oOFdUjoR8lln6UmhEao",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:01:03"
+  }
+]

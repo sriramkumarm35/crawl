@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Ratna",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224176",
+    "phone_number": "+91 85448 66603",
+    "website": "https://sagarratna.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nirwana Square One NH-205, Kharar-Kurali, Highway, Greater, Sahibzada Ajit Singh Nagar, Punjab 140301",
+    "area": "Greater",
+    "latitude": 30.766344999999998,
+    "longitude": 76.6272853,
+    "place_id": "ChIJTbtvRK77DzkROaGePQ2VVoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbtvRK77DzkROaGePQ2VVoE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:09"
+  },
+  {
+    "business_name": "Just For You Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "224176",
+    "phone_number": "+91 93353 53546",
+    "website": "https://just-for-you-restaurant.grexa.site/",
+    "rating": 3.7,
+    "reviews_count": 903,
+    "address": "just for you restaurant, near hanuman garhi, Gandhi Nagar, Basti, Uttar Pradesh 272001",
+    "area": "Gandhi Nagar",
+    "latitude": 26.7949794,
+    "longitude": 82.7348386,
+    "place_id": "ChIJJwnKiVTFkDkRqirohBfGtVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwnKiVTFkDkRqirohBfGtVo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:12"
+  }
+]

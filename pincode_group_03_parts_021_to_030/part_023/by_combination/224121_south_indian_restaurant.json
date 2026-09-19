@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taste of India Ayodhya",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Arihant Bhawan, Ayodhya - Faizabad Rd, opposite Saket Degree College, Rano Pali, Ayodhya, Uttar Pradesh 224123",
+    "area": "Rano Pali",
+    "latitude": 26.785951299999997,
+    "longitude": 82.1892082,
+    "place_id": "ChIJj9Z7u0UHmjkRBrpSBqn5p0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9Z7u0UHmjkRBrpSBqn5p0Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:23"
+  },
+  {
+    "business_name": "New Ayodhya Ji South Indian Idli Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224121",
+    "phone_number": "+91 95554 27088",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanumaangadhi, Ayodhya, Uttar Pradesh 224123",
+    "area": "Hanumaangadhi",
+    "latitude": 26.7925619,
+    "longitude": 82.1990301,
+    "place_id": "ChIJ-7OgRtYHmjkRMraMUxNsxQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7OgRtYHmjkRMraMUxNsxQE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:46:23"
+  }
+]

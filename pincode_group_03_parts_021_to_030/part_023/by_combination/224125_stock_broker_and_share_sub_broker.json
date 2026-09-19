@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stock Market Essentials",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "224125",
+    "phone_number": "+91 98500 02442",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Yashoda Residency, A-1, opp. Apurva Garrage, Sadashiv Dangat Nagar, Vishnupuram Colony, Ambegaon Budruk, Pune, Maharashtra 411041",
+    "area": "Sadashiv Dangat Nagar, Vishnupuram Colony, Ambegaon Budruk",
+    "latitude": 18.4599486,
+    "longitude": 73.8272131,
+    "place_id": "ChIJuaWUrc-VwjsRvT1eN9fY2nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaWUrc-VwjsRvT1eN9fY2nk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:21"
+  },
+  {
+    "business_name": "Stock Trading",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "224125",
+    "phone_number": "+91 97116 79806",
+    "website": "https://upstox.com/open-account/?f=W1RM",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stock Trading, 224125, India",
+    "area": "224125",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJr2SHBGt8YUsRQo0dEQ2448A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2SHBGt8YUsRQo0dEQ2448A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:53:22"
+  }
+]

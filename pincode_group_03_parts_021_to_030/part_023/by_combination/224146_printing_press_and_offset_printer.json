@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aone Printing Company",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Digital printing service, Graphic designer, Offset Printer, Screen printing shop",
+    "pincode": "224146",
+    "phone_number": "+91 99111 69338",
+    "website": "https://www.aoneprinters.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Plot No-547, Gali No- 8, near Hawkins, Kadipur Industrial Area, Sector 37C, Gurugram, Haryana 122006",
+    "area": "Kadipur Industrial Area, Sector 37C",
+    "latitude": 28.4508109,
+    "longitude": 76.9930589,
+    "place_id": "ChIJpdwHx4cXDTkRugmT47R509Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdwHx4cXDTkRugmT47R509Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:04"
+  },
+  {
+    "business_name": "Kanha Offset Printers & Stationery Manufacturing Co.",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Stationery manufacturer",
+    "all_categories": "Stationery manufacturer",
+    "pincode": "224146",
+    "phone_number": "+91 94140 68131",
+    "website": "https://kanhaoffsetprinting.in/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "260 Haryana Colony Gali opp. J P Under Pass Exit, near Shree Ram Mandir, Tonk Phatak, Jaipur, Rajasthan 302015",
+    "area": "Ambedkar Nagar, Tonk Phatak",
+    "latitude": 26.881758599999998,
+    "longitude": 75.7946145,
+    "place_id": "ChIJx9Fkwi-0bTkRISWsPcFY_UI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9Fkwi-0bTkRISWsPcFY_UI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:15:04"
+  }
+]

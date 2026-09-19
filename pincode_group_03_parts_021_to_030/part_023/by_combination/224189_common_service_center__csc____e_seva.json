@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Centre, Jan Seva Kendra, Cyber Cafe",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224189",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Unnamed Road, Sikhawala, Garhi Harsaru, Gurugram, Haryana 122505",
+    "area": "Sikhawala, Garhi Harsaru",
+    "latitude": 28.445007999999998,
+    "longitude": 76.93306299999999,
+    "place_id": "ChIJCYqIEQkXDTkRGlRvrT-4wBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYqIEQkXDTkRGlRvrT-4wBQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:53:20"
+  },
+  {
+    "business_name": "Common service center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "224189",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C33C+RRF, Gaurabas, Uttar Pradesh 228151",
+    "area": "224189",
+    "latitude": 26.4045733,
+    "longitude": 82.0720369,
+    "place_id": "ChIJvSpP1idxmjkR-7v-7OvQBsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSpP1idxmjkR-7v-7OvQBsU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:53:22"
+  }
+]

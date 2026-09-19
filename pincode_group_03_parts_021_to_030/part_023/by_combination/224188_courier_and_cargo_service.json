@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarshi Courier & Cargo",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "224188",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Ground Floor Shop no 5, B122, Diamond Park, Joka, Kolkata, West Bengal 700104",
+    "area": "Diamond Park, Joka",
+    "latitude": 22.4513231,
+    "longitude": 88.30423189999999,
+    "place_id": "ChIJuYcn7CV7AjoRQbc9bgl9fR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYcn7CV7AjoRQbc9bgl9fR0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:51:43"
+  },
+  {
+    "business_name": "Post Office Sokhawan",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "224188",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "P253+2M, Sokhawan, Gaura Brahman, Uttar Pradesh 224189",
+    "area": "224188",
+    "latitude": 26.707562499999998,
+    "longitude": 82.0041875,
+    "place_id": "ChIJazW44gERmjkR2TgAaXM2Ge8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazW44gERmjkR2TgAaXM2Ge8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:51:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "224164",
+    "phone_number": "+91 86010 89822",
+    "website": "https://gurumobile.store/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ground Floor Shop No- 67, Guru Mobile, Sree Rama Towers, Ashok Marg, Sadullah Nagar, Narhi, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Sadullah Nagar, Narhi, Hazratganj",
+    "latitude": 26.8501898,
+    "longitude": 80.94837629999999,
+    "place_id": "ChIJAQDQ0gj9mzkRtHMSM_xh6LA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDQ0gj9mzkRtHMSM_xh6LA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:35:02"
+  },
+  {
+    "business_name": "H.N.Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "224164",
+    "phone_number": "+91 96484 41033",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Faizabad Shahganj Road Kuchera, Faizabad, Uttar Pradesh 224158",
+    "area": "224164",
+    "latitude": 26.6503703,
+    "longitude": 81.9731529,
+    "place_id": "ChIJoQrLyYQTmjkR9_uIeYtxxQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQrLyYQTmjkR9_uIeYtxxQM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:35:03"
+  }
+]

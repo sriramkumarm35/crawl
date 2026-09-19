@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Arena (Smart wheels, Jalalpur, Tehsil Road)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "224149",
+    "phone_number": "+91 80 3715 0397",
+    "website": "https://www.marutisuzuki.com/arena/connect-to-dealer",
+    "rating": 5,
+    "reviews_count": 165,
+    "address": "Tehsil Road, near ND Inter college, Jalalpur, Uttar Pradesh 224149",
+    "area": "224149",
+    "latitude": 26.3067837,
+    "longitude": 82.73333509999999,
+    "place_id": "ChIJnXZGi7T3kDkRf75uSgyDbvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXZGi7T3kDkRf75uSgyDbvo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:57"
+  },
+  {
+    "business_name": "Old car seller",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "224149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambarpur, Uttar Pradesh 224149",
+    "area": "224149",
+    "latitude": 26.272664799999998,
+    "longitude": 82.76707449999999,
+    "place_id": "ChIJjfojsyL5kDkRu9BaSalV2AQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfojsyL5kDkRu9BaSalV2AQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:17:57"
+  }
+]

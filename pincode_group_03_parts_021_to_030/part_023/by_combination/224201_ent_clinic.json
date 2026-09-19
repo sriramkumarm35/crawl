@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gore ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "224201",
+    "phone_number": "+91 2382 243 751",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 104,
+    "address": "9HX8+8MJ, MG Rd, near Gore ENT Hospital, Mitra Nagar, Sawe Wadi, Latur, Maharashtra 413531",
+    "area": "Mitra Nagar, Sawe Wadi",
+    "latitude": 18.398335,
+    "longitude": 76.5666514,
+    "place_id": "ChIJKYszBeqDzzsRstbbIt0sIN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYszBeqDzzsRstbbIt0sIN8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:52"
+  },
+  {
+    "business_name": "Malu Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Otolaryngology clinic",
+    "all_categories": "Otolaryngology clinic",
+    "pincode": "224201",
+    "phone_number": "+91 2382 249 394",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 22,
+    "address": "CH2C+PXC, Dinanath Nagar, Sawe Wadi, Latur, Maharashtra 413512",
+    "area": "Sawe Wadi",
+    "latitude": 18.4018217,
+    "longitude": 76.5723879,
+    "place_id": "ChIJ70UQzpSDzzsR4hJYD8f8sTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70UQzpSDzzsR4hJYD8f8sTA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:52"
+  }
+]

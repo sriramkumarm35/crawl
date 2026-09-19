@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saraswati Music College",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Art school, Cultural center, Music school, Music college, Music instructor, Recording studio, Vocational school",
+    "pincode": "224172",
+    "phone_number": "+91 99902 55566",
+    "website": "http://www.saraswatimusiccollege.org/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A-1/226, Block A 1, Nauroji Nagar, Safdarjung Enclave, New Delhi, Delhi 110029",
+    "area": "Block A 1, Nauroji Nagar, Safdarjung Enclave",
+    "latitude": 28.5672891,
+    "longitude": 77.1974393,
+    "place_id": "ChIJcdUH_njiDDkRkU72Ljty-OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdUH_njiDDkRkU72Ljty-OU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:40:24"
+  },
+  {
+    "business_name": "Naach Music & Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school",
+    "pincode": "224172",
+    "phone_number": "+91 97586 20670",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 15,
+    "address": "Hotel Ratan Palace Complex, 141, 2Nd Floor, Hotel Ratan Place, Krishan Nagar Chowk, 899/3/4, Kaulagarh Rd, Anand Vihar Colony, Dehradun, Uttarakhand 248001",
+    "area": "Anand Vihar Colony",
+    "latitude": 30.3354215,
+    "longitude": 78.0248835,
+    "place_id": "ChIJRWVce_kpCTkRTl1nt3eWS1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWVce_kpCTkRTl1nt3eWS1Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:40:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dr neeraj tiwari clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "224161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vl, Tanda - Maya Rd, Maya, Uttar Pradesh 224161",
+    "area": "224161",
+    "latitude": 26.6413981,
+    "longitude": 82.33661459999999,
+    "place_id": "ChIJfb7L7o29kDkRErr7GRBJvcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfb7L7o29kDkRErr7GRBJvcE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:32:18"
+  },
+  {
+    "business_name": "Om Clinic(ओम क्लीनिक),Kanakpur Road,Maya Bazar",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "224161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "J8RM+2XP, Maya Kanakpur Rd, Maya, Uttar Pradesh 224161",
+    "area": "224161",
+    "latitude": 26.6400887,
+    "longitude": 82.33495769999999,
+    "place_id": "ChIJD86BGEyjkDkRoUiSXYs0oUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD86BGEyjkDkRoUiSXYs0oUM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:32:19"
+  }
+]

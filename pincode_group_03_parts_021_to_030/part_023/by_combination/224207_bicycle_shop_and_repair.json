@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riders Inc Salem-MultiBrand cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224207",
+    "phone_number": "+91 87549 87481",
+    "website": "https://www.ridersinc.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no 5, Sarada College Rd, Adaikala Nagar, Hasthampatti, Salem, Salem (M.Corp.), Tamil Nadu 636007",
+    "area": "Adaikala Nagar, Hasthampatti",
+    "latitude": 11.6753749,
+    "longitude": 78.1548652,
+    "place_id": "ChIJYVP9g7_xqzsR62sbE2ycRQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVP9g7_xqzsR62sbE2ycRQY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:47"
+  },
+  {
+    "business_name": "Urban Trailblazer",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224207",
+    "phone_number": "+91 97603 90933",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kishan Nagar Chowk, Chakrata Rd, opp. V Mart, Anand Vihar Colony, Dehradun, Uttarakhand 248001",
+    "area": "Anand Vihar Colony",
+    "latitude": 30.3337196,
+    "longitude": 78.0261274,
+    "place_id": "ChIJBciFfagpCTkRw8Y7btmHRjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBciFfagpCTkRw8Y7btmHRjI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:47"
+  }
+]

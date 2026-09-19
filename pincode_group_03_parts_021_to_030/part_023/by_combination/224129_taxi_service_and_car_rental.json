@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi Stand Nayaghat",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "224129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nayaghat, NH 330, Karsewakpuram, Ayodhya, Uttar Pradesh 224123",
+    "area": "Karsewakpuram",
+    "latitude": 26.807551,
+    "longitude": 82.2091398,
+    "place_id": "ChIJseFcC3AHmjkRwl0eF4X4SOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseFcC3AHmjkRwl0eF4X4SOU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:58:04"
+  },
+  {
+    "business_name": "Sharifa Devi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "224129",
+    "phone_number": "+91 85640 08564",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "378, Baskhari, Uttar Pradesh 224129",
+    "area": "224129",
+    "latitude": 26.453194999999997,
+    "longitude": 82.77218979999999,
+    "place_id": "ChIJHUQrfublkDkR1Wbrl-Tn7nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUQrfublkDkR1Wbrl-Tn7nk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:58:04"
+  }
+]

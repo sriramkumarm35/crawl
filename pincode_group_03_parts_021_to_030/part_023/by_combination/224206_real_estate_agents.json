@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay kumar yadav",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "224206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "G5QC+H2C, Tarhra, Uttar Pradesh 224206",
+    "area": "224206",
+    "latitude": 26.538931299999998,
+    "longitude": 82.17000349999999,
+    "place_id": "ChIJKdyYSyp1mjkRfjcrQeWU09o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdyYSyp1mjkRfjcrQeWU09o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:07:44"
+  },
+  {
+    "business_name": "Rajeev Mishra Ram Milan",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "224206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G5X5+PQV, Katari, Pranpur, Uttar Pradesh 224206",
+    "area": "224206",
+    "latitude": 26.549367999999998,
+    "longitude": 82.1594229,
+    "place_id": "ChIJkzUuZAB1mjkRiMV78UaxAuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzUuZAB1mjkRiMV78UaxAuc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:07:44"
+  }
+]

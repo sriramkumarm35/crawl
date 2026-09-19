@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "bharat jan seva",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Business management consultant",
+    "pincode": "224151",
+    "phone_number": "+91 99275 70976",
+    "website": "http://bharatjanseva.com/",
+    "rating": 3.6,
+    "reviews_count": 12,
+    "address": "Bharat Jan Seva, Siwal Khas, Uttar Pradesh 250501",
+    "area": "224151",
+    "latitude": 28.9406143,
+    "longitude": 77.5256555,
+    "place_id": "ChIJAQAAwNpdDDkRPk3AcNuc66U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwNpdDDkRPk3AcNuc66U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:20:26"
+  },
+  {
+    "business_name": "CSC Jan Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "224151",
+    "phone_number": "+91 89798 23314",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village Mubarakpur Chandpur, Uttar Pradesh 560001",
+    "area": "Ambedkar Veedhi",
+    "latitude": 12.981892499999999,
+    "longitude": 77.594504,
+    "place_id": "ChIJCXXAQbMXrjsRlLorAjjx91Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXXAQbMXrjsRlLorAjjx91Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:20:27"
+  }
+]

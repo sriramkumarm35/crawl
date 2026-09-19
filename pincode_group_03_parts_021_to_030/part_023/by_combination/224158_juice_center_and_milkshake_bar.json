@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Fruit Juices",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "SRT 46, Jawahar Nagar, Kavadiguda, Hyderabad, Telangana 500080",
+    "area": "Jawahar Nagar, Kavadiguda",
+    "latitude": 17.4088933,
+    "longitude": 78.4907806,
+    "place_id": "ChIJH4KNXgCZyzsRCm5h2naJgtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4KNXgCZyzsRCm5h2naJgtU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:24"
+  },
+  {
+    "business_name": "Prabhas Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224158",
+    "phone_number": "+91 97183 61606",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": ", C-112, DLF Colony, DLF Dilshad Extention-II, Dilshad Plaza, Sahibabad, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Dilshad Plaza, Shalimar Garden, Sahibabad",
+    "latitude": 28.6940125,
+    "longitude": 77.33202639999999,
+    "place_id": "ChIJj9A40bL7DDkR3DKJgpbm7Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9A40bL7DDkR3DKJgpbm7Dw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:24"
+  }
+]

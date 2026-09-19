@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INT-EXT EXPO",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "224122",
+    "phone_number": "+91 95920 48025",
+    "website": "https://intexexpo.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Ludhiana, Punjab 141120",
+    "area": "224122",
+    "latitude": 30.8176216,
+    "longitude": 76.00051599999999,
+    "place_id": "ChIJqeIm6p2DGjkRDpDdgMHzsio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeIm6p2DGjkRDpDdgMHzsio",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:49:46"
+  },
+  {
+    "business_name": "Chhatrapati Sahuji Maharaj Govt Polytechnic College",
+    "search_category": "Tradeshows",
+    "primary_category": "Polytechnic College",
+    "all_categories": "Polytechnic College",
+    "pincode": "224122",
+    "phone_number": "+91 97933 86847",
+    "website": "http://csjmgpa.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shiv baba, Faizabad Rd, Akbarpur, Dulla Pur, Uttar Pradesh 224122",
+    "area": "224122",
+    "latitude": 26.461798599999998,
+    "longitude": 82.4899803,
+    "place_id": "ChIJ19hdQsyTkDkRrufjjEBD8x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19hdQsyTkDkRrufjjEBD8x0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:49:47"
+  }
+]

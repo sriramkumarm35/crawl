@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jio World Convention Centre",
+    "search_category": "Tradeshows",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center, Event venue",
+    "pincode": "224203",
+    "phone_number": "+91 22 3570 4400",
+    "website": "https://jioworldcentre.com/jio-world-convention-centre",
+    "rating": 4.7,
+    "reviews_count": 10810,
+    "address": "Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098",
+    "area": "G Block, Bandra Kurla Complex, Bandra East",
+    "latitude": 19.063481499999998,
+    "longitude": 72.8657772,
+    "place_id": "ChIJZ2FW5RzJ5zsRfoq2-gbbmzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2FW5RzJ5zsRfoq2-gbbmzk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:02:34"
+  },
+  {
+    "business_name": "2Exhibitions",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner, Service establishment",
+    "pincode": "224203",
+    "phone_number": "+91 98110 71845",
+    "website": "https://www.2exhibitions.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2Exhibitions, 224203, India",
+    "area": "224203",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJc3cfou8BDTkR589lMy1E4BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3cfou8BDTkR589lMy1E4BU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:02:34"
+  }
+]

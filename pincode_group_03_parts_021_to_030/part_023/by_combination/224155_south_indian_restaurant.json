@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Upsouth — Aundh",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Coffee shop, Coffee store, Fast food restaurant, Juice shop, Lunch restaurant, Meal delivery, Vegetarian restaurant",
+    "pincode": "224155",
+    "phone_number": "+91 84465 20945",
+    "website": "https://www.upsouth.in/",
+    "rating": 4.1,
+    "reviews_count": 6220,
+    "address": "Nagras Rd, Ward No. 8, Aundh, Pune, Maharashtra 411067",
+    "area": "Ward No. 8, Aundh",
+    "latitude": 18.5655034,
+    "longitude": 73.8073617,
+    "place_id": "ChIJ3VBs8DG_wjsR0P-5g2ZF4lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VBs8DG_wjsR0P-5g2ZF4lE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:24:48"
+  },
+  {
+    "business_name": "South Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "224155",
+    "phone_number": "+91 98809 80009",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 6998,
+    "address": "Near Katte Balaga 1st Main Road, Subbarama Chetty Rd, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004",
+    "area": "NR Colony, Basavanagudi",
+    "latitude": 12.937999,
+    "longitude": 77.5687306,
+    "place_id": "ChIJiVk8HIwVrjsRUJfFyyPqfWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVk8HIwVrjsRUJfFyyPqfWY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:24:48"
+  }
+]

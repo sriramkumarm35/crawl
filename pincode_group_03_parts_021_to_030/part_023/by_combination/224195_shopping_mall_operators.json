@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seasons Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224195",
+    "phone_number": "+91 77559 80311",
+    "website": "http://www.seasonsmall.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Magarpatta, Hadapsar, Pune, Maharashtra 411013",
+    "area": "Magarpatta, Hadapsar",
+    "latitude": 18.518712,
+    "longitude": 73.9317961,
+    "place_id": "ChIJ41PwQ_LBwjsRypeqtFw7peY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41PwQ_LBwjsRypeqtFw7peY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:17"
+  },
+  {
+    "business_name": "Pacific Mall Ghaziabad",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Food court, Hotel, Hypermarket, Movie theater",
+    "pincode": "224195",
+    "phone_number": "+91 99533 99833",
+    "website": "https://www.pacificmalls.in/ghaziabad/",
+    "rating": 4.2,
+    "reviews_count": 31249,
+    "address": "Plot Alpha, Sahibabad Industrial Area Site 4, Sahibabad, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Plot Alpha, Sahibabad Industrial Area Site 4, Sahibabad",
+    "latitude": 28.646453299999997,
+    "longitude": 77.3200057,
+    "place_id": "ChIJH3CryTr7DDkR7XRpT0EtcMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3CryTr7DDkR7XRpT0EtcMg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:57:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Majid ali",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8P5P+PXM, Jalalpur, Uttar Pradesh 224149",
+    "area": "224139",
+    "latitude": 26.3093328,
+    "longitude": 82.7374115,
+    "place_id": "ChIJQ22uBwD5kDkRow1I-Z5h14A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ22uBwD5kDkRow1I-Z5h14A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:06:50"
+  },
+  {
+    "business_name": "Titli, The Food House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "224139",
+    "phone_number": "+91 96740 67668",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "Nangi, More, Parbangla, Maheshtala, West Bengal 700140",
+    "area": "Parbangla, Budge Budge",
+    "latitude": 22.4976475,
+    "longitude": 88.2250049,
+    "place_id": "ChIJOZ-h5Y59AjoRdD_okqj93Mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ-h5Y59AjoRdD_okqj93Mg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:06:51"
+  }
+]

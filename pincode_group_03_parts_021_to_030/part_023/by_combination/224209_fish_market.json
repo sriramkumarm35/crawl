@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kurebhar Bazar, Sultanpur",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "224209",
+    "phone_number": "N/A",
+    "website": "http://sultanpur.nic.in/",
+    "rating": 4.1,
+    "reviews_count": 2763,
+    "address": "C48F+FRJ, Faizabad - Sultanpur Rd, Kurebhar, Uttar Pradesh 228151",
+    "area": "224209",
+    "latitude": 26.416221,
+    "longitude": 82.12451159999999,
+    "place_id": "ChIJI-OLGWNxmjkRN2wthTiHNnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-OLGWNxmjkRN2wthTiHNnw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:11:40"
+  },
+  {
+    "business_name": "Kolathur Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Aquarium shop",
+    "all_categories": "Aquarium shop",
+    "pincode": "224209",
+    "phone_number": "N/A",
+    "website": "http://www.kolathurfishmarket.com/",
+    "rating": 4.4,
+    "reviews_count": 8501,
+    "address": "Mahatma Gandhi Nagar, Girija Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Mahatma Gandhi Nagar, Girija Nagar, Kolathur",
+    "latitude": 13.1277929,
+    "longitude": 80.21494659999999,
+    "place_id": "ChIJRfRz2vVkUjoRcdR17g_0-vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfRz2vVkUjoRcdR17g_0-vo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:11:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Prakash Kaushal",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "224189",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "222, Deorhi Bazar, Dakhin Para, Uttar Pradesh 224189",
+    "area": "Deorhi Bazar",
+    "latitude": 26.723479899999997,
+    "longitude": 81.9107705,
+    "place_id": "ChIJK2jACcsXmjkRqAKCPSqiaIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2jACcsXmjkRqAKCPSqiaIY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:52:47"
+  },
+  {
+    "business_name": "SINGH TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "224189",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anant Bahadur Singh Market Kandai Kalan Kandai Kalan, Uttar Pradesh 224189",
+    "area": "224189",
+    "latitude": 26.7014052,
+    "longitude": 81.8757821,
+    "place_id": "ChIJs9qiglYXmjkR3dbULNkriGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9qiglYXmjkR3dbULNkriGA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:52:47"
+  }
+]

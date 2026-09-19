@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOUTH INDIAN",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "224158",
+    "phone_number": "+91 85113 90219",
+    "website": "https://www.southindianbank.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "XMX6+M43, Vastral Road, near Metro Medical, Vastral, Ahmedabad, Gujarat 382418",
+    "area": "Vastral",
+    "latitude": 22.9991432,
+    "longitude": 72.6602972,
+    "place_id": "ChIJadReo9CHXjkRuvrL3LV4ecA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadReo9CHXjkRuvrL3LV4ecA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:26"
+  },
+  {
+    "business_name": "Sarang Sweets & Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Indian sweets shop",
+    "pincode": "224158",
+    "phone_number": "+91 85650 17869",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 565,
+    "address": "128, Seth, Prabhu Dayal Marg, Sadar Bazaar, Cantonment, Lucknow, Uttar Pradesh 226002",
+    "area": "Sadar Bazaar, Cantonment",
+    "latitude": 26.827279299999997,
+    "longitude": 80.9455845,
+    "place_id": "ChIJQ05VVfj8mzkRwPelTIRje4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ05VVfj8mzkRwPelTIRje4U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:29"
+  }
+]

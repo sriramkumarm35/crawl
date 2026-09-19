@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Saroj Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Maharashtrian Restaurant",
+    "all_categories": "Maharashtrian Restaurant, Vegetarian restaurant",
+    "pincode": "224159",
+    "phone_number": "+91 94234 64903",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1659,
+    "address": "Gut no 34, 1, Pune - Nashik Hwy, Malwadi, Maharashtra 412411",
+    "area": "224159",
+    "latitude": 19.231351,
+    "longitude": 74.1300921,
+    "place_id": "ChIJxwaYKvch3TsRL8gXb4PPquk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwaYKvch3TsRL8gXb4PPquk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:16"
+  },
+  {
+    "business_name": "Sanjay Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Punjabi restaurant",
+    "pincode": "224159",
+    "phone_number": "+91 81232 26725",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 3237,
+    "address": "Koddayanhalli Gate Btrypura, Bhagyada Baglu Rd, Bengaluru, Karnataka 560092",
+    "area": "Amruthnagar, Byatarayanapura",
+    "latitude": 13.0580419,
+    "longitude": 77.5951182,
+    "place_id": "ChIJAQAAACMYrjsR8xnnu7yS_M8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAACMYrjsR8xnnu7yS_M8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:17"
+  }
+]

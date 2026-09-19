@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The TAJ Spice restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Mid-Atlantic restaurant (US)",
+    "all_categories": "Mid-Atlantic restaurant (US), Restaurant",
+    "pincode": "224143",
+    "phone_number": "+91 88817 58863",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "ke samne, ramlila maidan, Akbarpur Road, Baskhari, Ashrafpur Kichhauchha, Uttar Pradesh 224129",
+    "area": "224143",
+    "latitude": 26.454110699999998,
+    "longitude": 82.7693695,
+    "place_id": "ChIJG4t1MJ_zkDkRMc-bYftECEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4t1MJ_zkDkRMc-bYftECEE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:23"
+  },
+  {
+    "business_name": "Arsh Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "224143",
+    "phone_number": "+91 94504 63987",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 754,
+    "address": "NH-28, Basti Gorakhpur Rd, near Tol Pazza Badevan, Chauraha, Basti, Uttar Pradesh 272002",
+    "area": "Chauraha",
+    "latitude": 26.8144954,
+    "longitude": 82.73545779999999,
+    "place_id": "ChIJbQeuaPrPkDkR5Uzukne6gik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQeuaPrPkDkR5Uzukne6gik",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:10:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "224155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Major District Road 82E, Bhitoro North, Uttar Pradesh 224155",
+    "area": "224155",
+    "latitude": 26.385555699999998,
+    "longitude": 82.7500973,
+    "place_id": "ChIJ9-hQcZ77kDkROi6rX3ng3SE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-hQcZ77kDkROi6rX3ng3SE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:26:14"
+  },
+  {
+    "business_name": "Shri Ram Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "224155",
+    "phone_number": "+91 95352 78238",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 213,
+    "address": "80, 4th Cross, near indus century apartment, 10th Stage, BEML Layout, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098",
+    "area": "10th Stage, BEML Layout, Rajarajeshwari Nagar",
+    "latitude": 12.9112478,
+    "longitude": 77.5119295,
+    "place_id": "ChIJlZxtZgI_rjsRFuof0PtEsoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZxtZgI_rjsRFuof0PtEsoI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:26:15"
+  }
+]

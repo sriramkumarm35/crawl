@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Key Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "224183",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No 97/1, Jodidhars Club, opp. BRAHMINS THATTE IDLI, Nanjappa Layout, Chamundeswari Layout, Vidyaranyapura, Bengaluru, Karnataka 560097",
+    "area": "Nanjappa Layout, Chamundeswari Layout, Vidyaranyapura",
+    "latitude": 13.0690302,
+    "longitude": 77.5567889,
+    "place_id": "ChIJM3aycaYirjsRsoB03Jq-_NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3aycaYirjsRsoB03Jq-_NM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:04"
+  },
+  {
+    "business_name": "Shri ji Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real Estate Builders & Construction Company, Service establishment",
+    "pincode": "224183",
+    "phone_number": "+91 73888 88852",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shri ji Properties, 224183, India",
+    "area": "224183",
+    "latitude": 26.831203499999997,
+    "longitude": 80.8889763,
+    "place_id": "ChIJUcetTgr8mzkRH8YIyCiAmDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcetTgr8mzkRH8YIyCiAmDU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:48:05"
+  }
+]

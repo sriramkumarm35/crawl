@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rd Dairy",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "224145",
+    "phone_number": "+91 74580 08524",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Vill-baruwa Jalnki Tanda Ambedkar Nagar, near Akpg College, Baruwa Jalnki, Tanda, Uttar Pradesh 224230",
+    "area": "Baruwa Jalnki",
+    "latitude": 26.5701252,
+    "longitude": 82.55888329999999,
+    "place_id": "ChIJdbmbYzOVkDkRktLske8jmSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbmbYzOVkDkRktLske8jmSQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:16"
+  },
+  {
+    "business_name": "Pink Berry Ice-cream Pvt Ltd",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "224145",
+    "phone_number": "+91 84018 20196",
+    "website": "https://pinkberryicecream.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pink Berry Ice-cream Pvt Ltd, Post, near Semariya, Keshopur, Ayodhya, Uttar Pradesh 224145",
+    "area": "224145",
+    "latitude": 26.5941892,
+    "longitude": 82.544285,
+    "place_id": "ChIJVXOUhdeVkDkREwQteaA4OE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXOUhdeVkDkREwQteaA4OE8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:12:16"
+  }
+]

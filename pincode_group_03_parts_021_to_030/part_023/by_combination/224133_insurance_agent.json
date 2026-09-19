@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC ERGO General Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Auto insurance agency, Health insurance agency, Home insurance agency, Motorcycle insurance agency",
+    "pincode": "224133",
+    "phone_number": "+91 22 6234 6234",
+    "website": "http://www.hdfcergo.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sai Niwas, near Prabhat Montessori School, Gandhinagar, Durgapuri Colony, Tilak Nagar, Ayodhya, Faizabad, Uttar Pradesh 224001",
+    "area": "Gandhinagar, Durgapuri Colony, Tilak Nagar",
+    "latitude": 26.7612594,
+    "longitude": 82.1449866,
+    "place_id": "ChIJMe9PxPEJmjkR2Z2HJPmSzkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMe9PxPEJmjkR2Z2HJPmSzkE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:02:27"
+  },
+  {
+    "business_name": "National Insurance Company Limited नेशनल इंश्योरेंस कंपनी लिमिटेड",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "224133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "358, Faizabad - Sultanpur Rd, Naka Bypass, Faizabad, Uttar Pradesh 224001",
+    "area": "Naka Bypass",
+    "latitude": 26.7565277,
+    "longitude": 82.14139209999999,
+    "place_id": "ChIJw9T4F_UHmjkRggpgVyANhGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9T4F_UHmjkRggpgVyANhGo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:02:27"
+  }
+]

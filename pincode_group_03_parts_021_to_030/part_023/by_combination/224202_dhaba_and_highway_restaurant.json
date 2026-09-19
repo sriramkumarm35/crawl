@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A one Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "224202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Kanpur Rd, Unnao, Lakha Pur, Uttar Pradesh 209862",
+    "area": "224202",
+    "latitude": 26.4540856,
+    "longitude": 80.439095,
+    "place_id": "ChIJnfiZZhZAnDkRhR_FLZsGcPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfiZZhZAnDkRhR_FLZsGcPc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:20"
+  },
+  {
+    "business_name": "Akash ganga Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "224202",
+    "phone_number": "+91 99355 08351",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Matiyara, Uttar Pradesh 211013",
+    "area": "224202",
+    "latitude": 25.580175,
+    "longitude": 81.8915323,
+    "place_id": "ChIJA--vzbS3mjkR6c0pWoRoriQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA--vzbS3mjkR6c0pWoRoriQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:20"
+  }
+]

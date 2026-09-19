@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Traders",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "224157",
+    "phone_number": "+91 97211 97333",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23, Goshainganj, Uttar Pradesh 224141",
+    "area": "224157",
+    "latitude": 26.5587366,
+    "longitude": 82.390103,
+    "place_id": "ChIJzXr9fnCXkDkRqQqtosSvRS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXr9fnCXkDkRqQqtosSvRS8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:26:33"
+  },
+  {
+    "business_name": "AK Pet Shop \"N\" Treat",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "224157",
+    "phone_number": "+91 72889 80075",
+    "website": "https://akpetsntreat.mystrikingly.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "20-4-209/1/C, Shah Ali Banda New Rd, opp. Hayaath the school, Shah Ali Banda, Hyderabad, Telangana 500002",
+    "area": "Shah Ali Banda",
+    "latitude": 17.354841699999998,
+    "longitude": 78.47104949999999,
+    "place_id": "ChIJ5wdsuYWXyzsRuLvDIkHO4xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wdsuYWXyzsRuLvDIkHO4xw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:26:34"
+  }
+]

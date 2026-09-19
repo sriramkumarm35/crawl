@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himachal Autocare",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224189",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kangra, NH-20, Mandi - Pathankot Rd, Ladwara, Himachal Pradesh 176208",
+    "area": "224189",
+    "latitude": 32.1772359,
+    "longitude": 76.231107,
+    "place_id": "ChIJU2wgevtaGzkRhEP1rMtmkcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2wgevtaGzkRhEP1rMtmkcM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:52:42"
+  },
+  {
+    "business_name": "Vajreshwari Autocare",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Chevrolet dealer",
+    "pincode": "224189",
+    "phone_number": "+91 98170 87407",
+    "website": "http://www.chevrolet.co.in/locate-authorized-service-outlet.html",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Mohal Jhikli, Jhikli, Ichhi Khas, Gaggal, Himachal Pradesh 176209",
+    "area": "Jhikli",
+    "latitude": 32.1494341,
+    "longitude": 76.2746799,
+    "place_id": "ChIJQ78jBQFQGzkROlrbGU0ZgLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ78jBQFQGzkROlrbGU0ZgLM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:52:42"
+  }
+]

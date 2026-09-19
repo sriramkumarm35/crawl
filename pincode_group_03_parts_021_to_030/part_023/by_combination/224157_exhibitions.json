@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalakshetra exhibition ground",
+    "search_category": "Exhibitions",
+    "primary_category": "Exhibit",
+    "all_categories": "Exhibit",
+    "pincode": "224157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "79-84, Kalakshetra Colony, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+    "area": "Kalakshetra Colony, Thiruvanmiyur",
+    "latitude": 12.9893707,
+    "longitude": 80.2622284,
+    "place_id": "ChIJndJtF2RdUjoRVxVoZF8_xRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndJtF2RdUjoRVxVoZF8_xRA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:07"
+  },
+  {
+    "business_name": "Village Bhagola",
+    "search_category": "Exhibitions",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "224157",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G9JV+RX8, Bhgola, Sonava, Uttar Pradesh 224157",
+    "area": "224157",
+    "latitude": 26.5320286,
+    "longitude": 82.394949,
+    "place_id": "ChIJL2ECFACXkDkRqqp1ug5rj4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2ECFACXkDkRqqp1ug5rj4E",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:28:07"
+  }
+]

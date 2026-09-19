@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Plumbing services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "224207",
+    "phone_number": "+91 80851 15717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near icici bank, Indus Empire, Shahpura, Bhopal, Madhya Pradesh 462039",
+    "area": "Indus Empire, Shahpura",
+    "latitude": 23.1901244,
+    "longitude": 77.4242558,
+    "place_id": "ChIJzQlGBEVDfDkRpURFzmfuGMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQlGBEVDfDkRpURFzmfuGMk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:54"
+  },
+  {
+    "business_name": "plumber (ashu enterprises)",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Civil engineer",
+    "pincode": "224207",
+    "phone_number": "+91 72248 84902",
+    "website": "http://www.modrnplumber.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "12 no. Stop arera colony, E-8, Bharat Nagar, Bhopal, Madhya Pradesh 462039",
+    "area": "Basant Kunj, Bharat Nagar",
+    "latitude": 23.1995915,
+    "longitude": 77.4365919,
+    "place_id": "ChIJ3RVN0cJDfDkRybn_NaEjpsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RVN0cJDfDkRybn_NaEjpsA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:54"
+  }
+]

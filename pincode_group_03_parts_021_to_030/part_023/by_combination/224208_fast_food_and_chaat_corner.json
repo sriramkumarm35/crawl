@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Bala G Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224208",
+    "phone_number": "+91 63862 13400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Milkipur, Malethu Buzurg, Uttar Pradesh 224208",
+    "area": "224208",
+    "latitude": 26.538708,
+    "longitude": 82.0122397,
+    "place_id": "ChIJvf4h2aZtmjkRu8CKIvH6ZFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvf4h2aZtmjkRu8CKIvH6ZFQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:10:04"
+  },
+  {
+    "business_name": "Jai Maa Santoshi Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224208",
+    "phone_number": "+91 73982 86029",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Johan, Uttar Pradesh 224208",
+    "area": "224208",
+    "latitude": 26.4949035,
+    "longitude": 82.0265795,
+    "place_id": "ChIJvbUjLhJtmjkRfG8j4wjtv0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbUjLhJtmjkRfG8j4wjtv0Y",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:10:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh & Fine Organic Grocery",
+    "search_category": "Organic Food Store",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "224207",
+    "phone_number": "+91 95846 10166",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 65,
+    "address": "MIG 270, near AARYA BHAVAN, Gautam Nagar, Housing Board Colony, Bhopal, Madhya Pradesh 462011",
+    "area": "Gautam Nagar, Housing Board Colony",
+    "latitude": 23.2369326,
+    "longitude": 77.43966619999999,
+    "place_id": "ChIJO3uqAXVDfDkRT41fN14M54Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3uqAXVDfDkRT41fN14M54Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:04"
+  },
+  {
+    "business_name": "Himalay Frsh - Siliguri",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "224207",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/himalay_frsh_siliguri/",
+    "rating": 4.9,
+    "reviews_count": 86,
+    "address": "Groun Floor, PRM Tower, Sevoke Rd, opposite Suchitra Hotel, Ward 43, Dasrath Pally, Bhanu Nagar, Siliguri, West Bengal 734001",
+    "area": "Ward 43, Dasrath Pally, Bhanu Nagar",
+    "latitude": 26.735661099999998,
+    "longitude": 88.4328474,
+    "place_id": "ChIJhzZz6nVH5DkRqIfWj6LeQIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzZz6nVH5DkRqIfWj6LeQIo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:08:04"
+  }
+]

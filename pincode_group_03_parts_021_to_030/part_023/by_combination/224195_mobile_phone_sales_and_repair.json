@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Mobile world",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "224195",
+    "phone_number": "+91 98975 66889",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 810,
+    "address": "Bus Stand, 367, Garh Rd, near Shorab Gate, Ramgarhi, Meerut, Uttar Pradesh 250001",
+    "area": "Ramgarhi",
+    "latitude": 28.9700441,
+    "longitude": 77.7227583,
+    "place_id": "ChIJwWvWHsBkDDkRTGeEgubGiSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWvWHsBkDDkRTGeEgubGiSg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:56:53"
+  },
+  {
+    "business_name": "Iqra Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "224195",
+    "phone_number": "+91 84678 28751",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Agaganj bazar, Kalyanpurchhtauna, Aagaganj Bazar, Uttar Pradesh 224195",
+    "area": "224195",
+    "latitude": 26.5701908,
+    "longitude": 82.28140909999999,
+    "place_id": "ChIJBymYYY2fkDkRRDscf0s9-P8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBymYYY2fkDkRRDscf0s9-P8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:56:55"
+  }
+]

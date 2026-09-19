@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Small Wonder School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool, School",
+    "pincode": "224153",
+    "phone_number": "+91 172 227 4827",
+    "website": "http://www.smallwondersschool.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mohali Stadium Rd, behind Motor Market, Phase 7, Sector 61, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Phase 7, Sector 61",
+    "latitude": 30.7055735,
+    "longitude": 76.7218236,
+    "place_id": "ChIJX_ySe4_uDzkRfE0iNY8tMRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_ySe4_uDzkRfE0iNY8tMRA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:59"
+  },
+  {
+    "business_name": "KIDSDEN",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "224153",
+    "phone_number": "+91 96747 29029",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Greenfield City Link Rd, Joth Shibrampur, Parui Mauza, Maheshtala, West Bengal 700141",
+    "area": "Joth Shibrampur, Parui Mauza",
+    "latitude": 22.4917364,
+    "longitude": 88.2743935,
+    "place_id": "ChIJyYIZNlJ7AjoRH9UJqOdxeLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYIZNlJ7AjoRH9UJqOdxeLI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:59"
+  }
+]

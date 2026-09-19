@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The New Shahi planet cafe and restaurent",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224141",
+    "phone_number": "+91 88876 90939",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 59,
+    "address": "Besides of electricity department, bypass, near Vodafone office, Deokali, Faizabad, Uttar Pradesh 224001",
+    "area": "Deokali",
+    "latitude": 26.7675967,
+    "longitude": 82.1722538,
+    "place_id": "ChIJCdIIqAEJmjkRMFXIy-RW-7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdIIqAEJmjkRMFXIy-RW-7U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:41"
+  },
+  {
+    "business_name": "Way Point Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224141",
+    "phone_number": "+91 95696 27273",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 66,
+    "address": "H95Q+225, Faizabad Rd, Bala Pakoole, Uttar Pradesh 224141",
+    "area": "224141",
+    "latitude": 26.5575118,
+    "longitude": 82.3876102,
+    "place_id": "ChIJHYow6huZkDkRsASthXmARl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYow6huZkDkRsASthXmARl8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:08:41"
+  }
+]

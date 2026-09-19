@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Men's Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "224181",
+    "phone_number": "+91 99857 56561",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop13-16-123, 1, Sai Baba Temple Rd, Swati Tower, Kamala Nagar, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Swati Tower, Kamala Nagar, Dilsukhnagar",
+    "latitude": 17.3668695,
+    "longitude": 78.5273521,
+    "place_id": "ChIJFVz8tjSZyzsRSG68hstc7o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVz8tjSZyzsRSG68hstc7o0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:43:05"
+  },
+  {
+    "business_name": "United SR Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "224181",
+    "phone_number": "+91 88884 80232",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.1, United SR Collection, opposite Suvarnayug Sahakari Bank, Dnydeep Colony, Thorat Colony, Hingne Budrukh, Karvenagar, Pune, Maharashtra 411052",
+    "area": "Dnydeep Colony, Thorat Colony, Hingne Budrukh, Karvenagar",
+    "latitude": 18.4922063,
+    "longitude": 73.8196683,
+    "place_id": "ChIJCaJNId6_wjsRFP-ezLFg_0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaJNId6_wjsRFP-ezLFg_0Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:43:06"
+  }
+]

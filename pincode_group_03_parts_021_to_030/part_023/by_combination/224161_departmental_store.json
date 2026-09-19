@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store, Pura Bazar, Ayodhya (Wonder World Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "224161",
+    "phone_number": "+91 97958 05692",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "लक्ष्य आर सी एम मार्ट, Black Road, Pura Bazar, Bhagwa Bheet, Uttar Pradesh 224171",
+    "area": "Pura Bazar",
+    "latitude": 26.703006799999997,
+    "longitude": 82.2667915,
+    "place_id": "ChIJG16f07qnkDkRvVwCDH-1QM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG16f07qnkDkRvVwCDH-1QM4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:51"
+  },
+  {
+    "business_name": "Shivansh General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "224161",
+    "phone_number": "+91 99846 58085",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kerampur, Faizabad, Uttar Pradesh 224161",
+    "area": "224161",
+    "latitude": 26.653124,
+    "longitude": 82.29956729999999,
+    "place_id": "ChIJH3TWNF2hkDkRPKCi0JXOLLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3TWNF2hkDkRPKCi0JXOLLE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:31:51"
+  }
+]

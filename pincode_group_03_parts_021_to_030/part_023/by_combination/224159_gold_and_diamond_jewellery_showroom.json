@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "224159",
+    "phone_number": "N/A",
+    "website": "https://www.anjalijewellers.in/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "7H8X+PFQ, bazar, Dhauruwa, Uttar Pradesh 224159",
+    "area": "224159",
+    "latitude": 26.266847799999997,
+    "longitude": 82.5987396,
+    "place_id": "ChIJuR6dywX1kDkR4sp90j_ALpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuR6dywX1kDkR4sp90j_ALpw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:23"
+  },
+  {
+    "business_name": "Tanishq Jewellery - Patna - Bailley Road",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler, Jewelry designer, Jewelry manufacturer, Jewelry repair service",
+    "pincode": "224159",
+    "phone_number": "+91 612 259 0018",
+    "website": "https://stores.tanishq.co.in/store-locator/jewellery-stores/Bihar/Patna/Patna-BailleyRoad-PNA",
+    "rating": 4.9,
+    "reviews_count": 15863,
+    "address": "9, Bailey Rd, opposite Pillar No 9, Jagdeo Path, Rukanpura, Patna, Bihar 800014",
+    "area": "Jagdeo Path, Rukanpura",
+    "latitude": 25.6063102,
+    "longitude": 85.0739809,
+    "place_id": "ChIJ-RkQordX7TkRVkUlzksgC_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RkQordX7TkRVkUlzksgC_E",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:30:24"
+  }
+]

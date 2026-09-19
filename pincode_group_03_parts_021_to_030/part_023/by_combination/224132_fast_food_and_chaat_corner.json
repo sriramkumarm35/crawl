@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DK Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224132",
+    "phone_number": "+91 72379 09826",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajhiya, Road, Gosaiganj, Haider Ganj, Uttar Pradesh 224205",
+    "area": "Gosaiganj",
+    "latitude": 26.4256554,
+    "longitude": 82.2391452,
+    "place_id": "ChIJmzOZJh6dkDkRIMyza25IOok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzOZJh6dkDkRIMyza25IOok",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:59:22"
+  },
+  {
+    "business_name": "Bholu Chaat & Chow Mein Corner, Haiderganj",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhobana Chauraha, Haider Ganj, Uttar Pradesh 224205",
+    "area": "224132",
+    "latitude": 26.4589359,
+    "longitude": 82.23329199999999,
+    "place_id": "ChIJG7DVewCdkDkR7_nstZKQSdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7DVewCdkDkR7_nstZKQSdU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 06:59:22"
+  }
+]

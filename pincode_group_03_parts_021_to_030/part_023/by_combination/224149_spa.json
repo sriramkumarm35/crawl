@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bal Krishna",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "224149",
+    "phone_number": "+91 97923 02024",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 63 Nikqt Avadh Rice Mil Malipur Ride Jalalpur, Uttar Pradesh 224149",
+    "area": "224149",
+    "latitude": 26.3081849,
+    "longitude": 82.7153419,
+    "place_id": "ChIJ_7K_Ggv3kDkRWuECY_5CHtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7K_Ggv3kDkRWuECY_5CHtM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:18:16"
+  },
+  {
+    "business_name": "Golden Door Spa & Saloon",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "224149",
+    "phone_number": "+91 90444 49865",
+    "website": "https://goldendoorspa.in/shahjahanpur",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No-67, 2nd Floor, DS Virk Tower, near Ghantaghar, Ghanta Ghar, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Ghanta Ghar",
+    "latitude": 27.877043099999998,
+    "longitude": 79.9112006,
+    "place_id": "ChIJucHm3Iu9nzkRgZO0VIYoe7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucHm3Iu9nzkRgZO0VIYoe7U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:18:17"
+  }
+]

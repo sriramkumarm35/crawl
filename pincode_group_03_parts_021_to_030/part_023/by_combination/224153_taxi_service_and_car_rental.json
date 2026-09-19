@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car On Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "224153",
+    "phone_number": "+91 88888 07783",
+    "website": "http://www.caronrentals.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No 6/454, SFS Colony, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "SFS Colony, Mansarovar",
+    "latitude": 26.8503461,
+    "longitude": 75.75846349999999,
+    "place_id": "ChIJ_Ss3hfu1bTkR6bgXx4mmre8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Ss3hfu1bTkR6bgXx4mmre8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:28"
+  },
+  {
+    "business_name": "Dynamic Travels ( Taxi Service in Kolkata | Outstation Taxi Service | Innova Rental in Kolkata | Car Hire for outstation )",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "224153",
+    "phone_number": "+91 70037 37779",
+    "website": "http://dynamictravelskolkata.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "95, SN Banerjee Road, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700014",
+    "area": "New Market Area, Dharmatala, Taltala",
+    "latitude": 22.560869,
+    "longitude": 88.363665,
+    "place_id": "ChIJY9hgGgh3AjoRLJzk9adW5Kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9hgGgh3AjoRLJzk9adW5Kc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:23:29"
+  }
+]

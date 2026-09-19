@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KIA VETERINARY CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service, Pet supply store, Veterinarian",
+    "pincode": "224176",
+    "phone_number": "+91 79835 42714",
+    "website": "http://kiapetclinic.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 2, plot no 25, near vishal mega mart, behind police chowky, Sector 5, Rajendra Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Sector 5, Rajendra Nagar, Sahibabad",
+    "latitude": 28.6778555,
+    "longitude": 77.3575749,
+    "place_id": "ChIJMz-3WXf7DDkR6IyznlJewQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMz-3WXf7DDkR6IyznlJewQ0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:31"
+  },
+  {
+    "business_name": "Unique Pet Care Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "224176",
+    "phone_number": "+91 89205 77636",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "G10/2, near Kapoor nursing home, Pocket 1, Block G, Dilshad Colony, Delhi, 110095",
+    "area": "Pocket 1, Block G, Dilshad Colony",
+    "latitude": 28.6817899,
+    "longitude": 77.3281444,
+    "place_id": "ChIJ9efoOlj7DDkRmmLiR6daKcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9efoOlj7DDkRmmLiR6daKcM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:41:31"
+  }
+]

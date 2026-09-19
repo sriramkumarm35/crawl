@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MY ORGANIC BHARAT",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic farm, Organic restaurant",
+    "pincode": "224202",
+    "phone_number": "+91 77700 02071",
+    "website": "https://www.myorganicbharat.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot Number 16, near UP Public School, Siddharshram Nagar, Ahirwan, Kanpur, Uttar Pradesh 208007",
+    "area": "Siddharshram Nagar, Ahirwan",
+    "latitude": 26.3944591,
+    "longitude": 80.4040216,
+    "place_id": "ChIJZb4U_6JBnDkRvLj4oWVbhlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZb4U_6JBnDkRvLj4oWVbhlk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:13"
+  },
+  {
+    "business_name": "The Millet World Indore",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "224202",
+    "phone_number": "+91 91313 11051",
+    "website": "https://milletplanet.wordpress.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "J-Block Golden Palm, Niranjanpur, Indore, Madhya Pradesh 452010",
+    "area": "Niranjanpur",
+    "latitude": 22.7778325,
+    "longitude": 75.8864949,
+    "place_id": "ChIJ6cp0qZoDYzkRY9grcYbgn48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cp0qZoDYzkRY9grcYbgn48",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 07:59:13"
+  }
+]
