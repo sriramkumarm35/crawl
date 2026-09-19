@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mens Fashion Boutique",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhakwa bazar, Sonpura, Uttar Pradesh 230121",
+    "area": "228161",
+    "latitude": 26.000434199999997,
+    "longitude": 82.37498649999999,
+    "place_id": "ChIJ-YxrvYtxkDkRhCK7ggJA0Q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YxrvYtxkDkRhCK7ggJA0Q0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:47"
+  },
+  {
+    "business_name": "Delhi Fashion House",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "228161",
+    "phone_number": "+91 99357 77985",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaunpur Road, opposite Primary School, Dhakwa Bazzar, Sonpura, Uttar Pradesh 230121",
+    "area": "228161",
+    "latitude": 26.0017098,
+    "longitude": 82.3748138,
+    "place_id": "ChIJTTyGeNlxkDkRe2RNicsU8KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTyGeNlxkDkRe2RNicsU8KE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:47"
+  }
+]

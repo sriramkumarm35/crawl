@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayka Cafe & Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "229204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "25R9+VVQ, Gaura Hardo, Uttar Pradesh 229204",
+    "area": "229204",
+    "latitude": 26.0422868,
+    "longitude": 81.1696947,
+    "place_id": "ChIJ02gKFAANmzkRyEyi8H6xnO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02gKFAANmzkRyEyi8H6xnO8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:49:19"
+  },
+  {
+    "business_name": "Dwivedi Restaurant Malpura",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "229204",
+    "phone_number": "+91 88748 49322",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "4553+MVC, Ubarini, Uttar Pradesh 229125",
+    "area": "229204",
+    "latitude": 26.1091923,
+    "longitude": 81.1546477,
+    "place_id": "ChIJb7SRpy91mzkRaXkNX9l5GTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7SRpy91mzkRaXkNX9l5GTo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:49:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi kumar store",
+    "search_category": "Departmental Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "228133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "56J5+4VF, Shahpur Harbansh, Uttar Pradesh 222302",
+    "area": "228133",
+    "latitude": 26.1803177,
+    "longitude": 82.20968719999999,
+    "place_id": "ChIJg8npIACBmjkRd72dnqwQ7Gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8npIACBmjkRd72dnqwQ7Gk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:58:17"
+  },
+  {
+    "business_name": "SHIPRA",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "228133",
+    "phone_number": "+91 95556 03261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "450, Sultanpur, Kakwadpur, Uttar Pradesh 222302",
+    "area": "228133",
+    "latitude": 26.1833574,
+    "longitude": 82.2102199,
+    "place_id": "ChIJvQwOWnSBmjkRorCVdKin_AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQwOWnSBmjkRorCVdKin_AM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:58:17"
+  }
+]

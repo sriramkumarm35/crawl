@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna dosa house",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "228159",
+    "phone_number": "+91 86930 47421",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "primary school ke samne, Durgapur, Amethi, Uttar Pradesh 227816",
+    "area": "228159",
+    "latitude": 26.137840999999998,
+    "longitude": 82.0444916,
+    "place_id": "ChIJEzZyfgCHmjkRR1T4dLFC2RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzZyfgCHmjkRR1T4dLFC2RY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:09:48"
+  },
+  {
+    "business_name": "Khushi Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "228159",
+    "phone_number": "+91 70540 90721",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "bajaar, Ramganj, Vishundas Pur, Uttar Pradesh 228159",
+    "area": "228159",
+    "latitude": 26.1159197,
+    "longitude": 82.0404729,
+    "place_id": "ChIJ74rMTdCJmjkRQinzH4Vvdso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74rMTdCJmjkRQinzH4Vvdso",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:09:49"
+  }
+]

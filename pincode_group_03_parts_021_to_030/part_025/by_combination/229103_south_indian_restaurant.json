@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Loveena Delight Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Banquet hall, Bar, Marriage celebrant, Party planner, Roofing contractor, Training center",
+    "pincode": "229103",
+    "phone_number": "+91 78178 99455",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5084,
+    "address": "Plot No.3, Sector 5, Buddhi Vihar Phase 2, Moradabad, Uttar Pradesh 244103",
+    "area": "Sector 5, Buddhi Vihar Phase 2",
+    "latitude": 28.834222999999998,
+    "longitude": 78.73640979999999,
+    "place_id": "ChIJF6SZ1Lr9CjkR6GoUaYq3J3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6SZ1Lr9CjkR6GoUaYq3J3w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:20:53"
+  },
+  {
+    "business_name": "CHAI SHAI Bar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "229103",
+    "phone_number": "+91 76111 17002",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "WPM5+2MR SVM Inter College, Road, Lalganj Ajhara, Sangipur, Uttar Pradesh 230132",
+    "area": "229103",
+    "latitude": 25.9325625,
+    "longitude": 81.7091875,
+    "place_id": "ChIJYTvkF73vmjkRRhNFbDhpkDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTvkF73vmjkRRhNFbDhpkDA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:20:55"
+  }
+]

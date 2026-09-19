@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shri balaji skin care clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist",
+    "pincode": "229203",
+    "phone_number": "+91 89532 12413",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Acharya Nagar Rd, near Dr. Ch. mishra) Vidya ultrasound, Lalganj, Suddan Khera, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.1694173,
+    "longitude": 80.96693669999999,
+    "place_id": "ChIJmwp7kAyDmzkRS79FPPhGAsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwp7kAyDmzkRS79FPPhGAsQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:47"
+  },
+  {
+    "business_name": "Skin care clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "229203",
+    "phone_number": "+91 89532 12413",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Acharya nagar, near Anga day school, Lalganj, Suddan Khera, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.1692985,
+    "longitude": 80.96680599999999,
+    "place_id": "ChIJpUwTTyKDmzkRXkq5E5r8XjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUwTTyKDmzkRXkq5E5r8XjQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:50"
+  }
+]

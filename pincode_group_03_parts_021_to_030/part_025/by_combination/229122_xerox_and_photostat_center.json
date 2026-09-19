@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Offset Printer",
+    "pincode": "229122",
+    "phone_number": "+91 98302 17335",
+    "website": "https://www.xerox.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Bansberia, Mithapukur More, West Bengal 712502",
+    "area": "Bansberia",
+    "latitude": 22.958899,
+    "longitude": 88.40510139999999,
+    "place_id": "ChIJTTR_v5yU-DkRsP7d8B_iEsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTR_v5yU-DkRsP7d8B_iEsQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:27:16"
+  },
+  {
+    "business_name": "Shri Ram Photocopy",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "229122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bargi Nagar - Ghansore Rd, near sbi bank, Mankedi, Madhya Pradesh 482056",
+    "area": "229122",
+    "latitude": 22.9395092,
+    "longitude": 79.8964324,
+    "place_id": "ChIJCemDx-pPgDkR7AxUUlXpyz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCemDx-pPgDkR7AxUUlXpyz4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:27:16"
+  }
+]

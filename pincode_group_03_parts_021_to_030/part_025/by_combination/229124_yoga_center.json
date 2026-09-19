@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym The Fitness Factory",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "229124",
+    "phone_number": "+91 97111 73456",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "petrol pump, Karahiya Bazar Rd, Bairampur, Uttar Pradesh 229124",
+    "area": "229124",
+    "latitude": 26.0051475,
+    "longitude": 81.5444989,
+    "place_id": "ChIJ-Vp6l-L9mjkRWidaEG2aW3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Vp6l-L9mjkRWidaEG2aW3Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:05"
+  },
+  {
+    "business_name": "Yog And Stress Redressal Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "229124",
+    "phone_number": "+91 74608 31470",
+    "website": "https://aviral-yog-sadhana-centre.netlify.app/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Prabhu Town Rd, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.227257599999998,
+    "longitude": 81.2412062,
+    "place_id": "ChIJeS566yuhmzkRZUMCxtw697w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeS566yuhmzkRZUMCxtw697w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:06"
+  }
+]

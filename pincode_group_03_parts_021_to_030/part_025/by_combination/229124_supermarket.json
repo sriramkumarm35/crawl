@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpat General Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229124",
+    "phone_number": "+91 94151 90879",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2FG3+HGG, Salon Bazar, Salon, Uttar Pradesh 229127",
+    "area": "229124",
+    "latitude": 26.0264444,
+    "longitude": 81.45383489999999,
+    "place_id": "ChIJE7NE_qEDmzkRWftk6Nazcjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7NE_qEDmzkRWftk6Nazcjc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:29:34"
+  },
+  {
+    "business_name": "आराध्या किराना एंड जनरल स्टोर",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "229124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "tanki, Agai, Uttar Pradesh 229410",
+    "area": "229124",
+    "latitude": 25.998595299999998,
+    "longitude": 81.5792122,
+    "place_id": "ChIJL4HA7eP9mjkRgG2aNY1P67A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4HA7eP9mjkRgG2aNY1P67A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:29:34"
+  }
+]

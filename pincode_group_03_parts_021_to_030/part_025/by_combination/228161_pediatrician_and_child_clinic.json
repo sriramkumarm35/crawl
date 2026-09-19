@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kilkari Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Pediatrician",
+    "pincode": "228161",
+    "phone_number": "+91 94547 34577",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 59,
+    "address": "Pediatrician D-1205/30,Indranagar,Lucknow Niwas-D1205/ Lucknow 27,, Indira Nagar Rd, Lucknow, Uttar Pradesh 226016",
+    "area": "Sector 5, Block D, Indira Nagar",
+    "latitude": 26.876762799999998,
+    "longitude": 80.9955117,
+    "place_id": "ChIJRxNzN1P9mzkRGJxZ6FXihe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxNzN1P9mzkRGJxZ6FXihe4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:01"
+  },
+  {
+    "business_name": "Dr. Arun Gupta, Pediatrician",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "228161",
+    "phone_number": "+91 93122 11344",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "Basement & Third Floor, S 56, Block S, Panchsheel Park South, Panchsheel Park, New Delhi, Delhi 110017",
+    "area": "Block S, Panchsheel Park South, Panchsheel Park",
+    "latitude": 28.542491899999998,
+    "longitude": 77.2127039,
+    "place_id": "ChIJJaaeyu7jDDkR8zuP7L_DEzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJaaeyu7jDDkR8zuP7L_DEzs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:01"
+  }
+]

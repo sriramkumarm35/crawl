@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Royale Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "229201",
+    "phone_number": "+91 92050 80341",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1293, H B Colony, Sector 29, Faridabad, Haryana 121008",
+    "area": "H B Colony, Sector 29",
+    "latitude": 28.428581299999998,
+    "longitude": 77.3223185,
+    "place_id": "ChIJMSXF8MzdDDkRa2AJy9jTSeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSXF8MzdDDkRa2AJy9jTSeE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:03"
+  },
+  {
+    "business_name": "Southern India",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Vegetarian restaurant",
+    "pincode": "229201",
+    "phone_number": "+91 99041 53349",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "GF, Shop No.8, JBR Arcade, Opposite Satyam Complex,, Sola Gam Rd, Ahmedabad, Gujarat 380060",
+    "area": "Sola",
+    "latitude": 23.074024899999998,
+    "longitude": 72.51170259999999,
+    "place_id": "ChIJKx-XxKGEXjkR-pCCzLYmBMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKx-XxKGEXjkR-pCCzLYmBMk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:03"
+  }
+]

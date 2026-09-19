@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrija medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "229129",
+    "phone_number": "+91 70119 38596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B. R. Complex, Parshadepur Road, Market, opposite Jila Panchayat, Civil line, Uttar Pradesh 229129",
+    "area": "Civil line",
+    "latitude": 26.077126,
+    "longitude": 81.5056314,
+    "place_id": "ChIJLbFUdCwBmzkR_7YNt0cPuMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbFUdCwBmzkR_7YNt0cPuMM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:57"
+  },
+  {
+    "business_name": "H.B. Groups Of Hospital & H.B. Pathology Lab",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "229129",
+    "phone_number": "+91 75220 23486",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "near Citizen Public school, Salon, Uttar Pradesh 229127",
+    "area": "229129",
+    "latitude": 26.0226772,
+    "longitude": 81.46544569999999,
+    "place_id": "ChIJe6uDon8DmzkRFHQ_DC5OvQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6uDon8DmzkRFHQ_DC5OvQk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:58"
+  }
+]

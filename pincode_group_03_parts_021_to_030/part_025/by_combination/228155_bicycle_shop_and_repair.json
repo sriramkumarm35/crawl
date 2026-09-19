@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj auto parts",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Service establishment",
+    "pincode": "228155",
+    "phone_number": "N/A",
+    "website": "https://wwwsalmanrahmani.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raj auto parts, 228155, India",
+    "area": "228155",
+    "latitude": 27.4939866,
+    "longitude": 79.16925069999999,
+    "place_id": "ChIJbVADC8_VXw8ROSnhWpEF5Bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVADC8_VXw8ROSnhWpEF5Bo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:08:27"
+  },
+  {
+    "business_name": "Naveen Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Electronics store",
+    "pincode": "228155",
+    "phone_number": "+91 63883 95466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Islaamgunj Bazar, Uttar Pradesh 227808",
+    "area": "228155",
+    "latitude": 26.2937025,
+    "longitude": 81.9622447,
+    "place_id": "ChIJB4_ircJlmjkReKw4Qgnd-oA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4_ircJlmjkReKw4Qgnd-oA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:08:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Savitri Auto Sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Saab dealer",
+    "all_categories": "Saab dealer",
+    "pincode": "228132",
+    "phone_number": "+91 88088 80880",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "73GG+5W6, Kadipur - Sultanpur Rd, Vallipur, Sultanpur, Uttar Pradesh 228118",
+    "area": "Vallipur",
+    "latitude": 26.2754051,
+    "longitude": 82.07726389999999,
+    "place_id": "ChIJv7bHQ4x8mjkRiUJE3uSHG4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7bHQ4x8mjkRiUJE3uSHG4o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:56:57"
+  },
+  {
+    "business_name": "Shri Kunjbihari Bajaj",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer",
+    "pincode": "228132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NH731, Sankarpur, Abhiyankalan, Uttar Pradesh 228001",
+    "area": "228132",
+    "latitude": 26.1938064,
+    "longitude": 82.15305359999999,
+    "place_id": "ChIJryOQCACBmjkRk4wJzrHddIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryOQCACBmjkRk4wJzrHddIM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:56:57"
+  }
+]

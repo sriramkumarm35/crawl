@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadiwa",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "228141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "87QQ+JQH, Purvanchal Expy, Mahamudpur Semari, Uttar Pradesh 228142",
+    "area": "228141",
+    "latitude": 26.339052,
+    "longitude": 82.2894972,
+    "place_id": "ChIJVdbGHACDkDkRM4AwXMbwgeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdbGHACDkDkRM4AwXMbwgeU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:00:38"
+  },
+  {
+    "business_name": "Rudra tea house",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "228141",
+    "phone_number": "+91 72349 52024",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "977V+H6G, Mahmud Pur Semari Bazar, Nagaipur, Uttar Pradesh 228142",
+    "area": "228141",
+    "latitude": 26.3639494,
+    "longitude": 82.2930777,
+    "place_id": "ChIJDYSZNACDkDkR6CGi1LVcAUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYSZNACDkDkR6CGi1LVcAUU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:00:38"
+  }
+]

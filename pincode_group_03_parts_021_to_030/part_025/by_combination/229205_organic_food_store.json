@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foodcosta Lalganj Raebareli",
+    "search_category": "Organic Food Store",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229205",
+    "phone_number": "+91 89568 30001",
+    "website": "https://www.foodcosta.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sareni Rd, Malpura, Lalganj, Uttar Pradesh 229206",
+    "area": "229205",
+    "latitude": 26.166615,
+    "longitude": 80.95781,
+    "place_id": "ChIJ-eAQivCDmzkRD7s4_D0edFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eAQivCDmzkRD7s4_D0edFg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:50:51"
+  },
+  {
+    "business_name": "C I BLACK BOOM",
+    "search_category": "Organic Food Store",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "229205",
+    "phone_number": "+91 90820 72707",
+    "website": "https://ciblackboom.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "31, newati, Gurudin Villa, Maharaji Khera, Bisramau, Uttar Pradesh 209866",
+    "area": "Maharaji Khera",
+    "latitude": 26.3006145,
+    "longitude": 80.8721892,
+    "place_id": "ChIJrzyJxyyHmzkRp7CtqQQbJSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzyJxyyHmzkRp7CtqQQbJSc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:50:51"
+  }
+]

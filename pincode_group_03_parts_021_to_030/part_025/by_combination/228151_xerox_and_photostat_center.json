@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj computers & photo goods",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store, Computer store",
+    "pincode": "228151",
+    "phone_number": "+91 95543 64362",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Faizabad - Sultanpur Rd, Babuganj, Kheri Doda Pur, Uttar Pradesh 228125",
+    "area": "228151",
+    "latitude": 26.361715399999998,
+    "longitude": 82.1199534,
+    "place_id": "ChIJs6m40_h7mjkRJtPcLSCyTbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6m40_h7mjkRJtPcLSCyTbM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:09"
+  },
+  {
+    "business_name": "ABHISHEK COMPUTERS",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "228151",
+    "phone_number": "+91 99187 17272",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infront of, SP Office Rd, Civil Line, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.2616023,
+    "longitude": 82.0744429,
+    "place_id": "ChIJC3H4ivB9mjkR-WF_JZlyXRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3H4ivB9mjkR-WF_JZlyXRM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:09"
+  }
+]

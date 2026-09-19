@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAVI Kumar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "228145",
+    "phone_number": "+91 84231 70570",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawahar Nagar, Market, Kadipur, Sultanpur, Uttar Pradesh 228145",
+    "area": "Jawahar Nagar, Market",
+    "latitude": 26.1667171,
+    "longitude": 82.3701517,
+    "place_id": "ChIJ4V4lpdV9kDkRjyqiDLwzuvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4V4lpdV9kDkRjyqiDLwzuvY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:20"
+  },
+  {
+    "business_name": "Dulha Ghar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "228145",
+    "phone_number": "+91 96482 07351",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "5989+2J7, Kadipur, Uttar Pradesh 228145",
+    "area": "228145",
+    "latitude": 26.1650334,
+    "longitude": 82.3690352,
+    "place_id": "ChIJxzHCZd58kDkRNEoPFhljbcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzHCZd58kDkRNEoPFhljbcM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:21"
+  }
+]

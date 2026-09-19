@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Batohi sweets and Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "229127",
+    "phone_number": "+91 94157 44732",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lucknow - Prayagraj Hwy, Khojanpur, Sawayaya Hasan, Uttar Pradesh 229404",
+    "area": "229127",
+    "latitude": 25.937510099999997,
+    "longitude": 81.288741,
+    "place_id": "ChIJNSeVSKoRmzkRxbaBbsBAWwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSeVSKoRmzkRxbaBbsBAWwc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:35:02"
+  },
+  {
+    "business_name": "Ich Canteen Ntpc Plant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "229127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "W89H+9JC, Niranjanpur, Uttar Pradesh 229406",
+    "area": "229127",
+    "latitude": 25.918433,
+    "longitude": 81.3290011,
+    "place_id": "ChIJMZxdM00RmzkRGV8rKsU0jng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZxdM00RmzkRGV8rKsU0jng",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:35:02"
+  }
+]

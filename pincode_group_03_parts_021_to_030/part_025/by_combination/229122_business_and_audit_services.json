@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StrideTax",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Accounting firm, Income tax help association",
+    "pincode": "229122",
+    "phone_number": "+91 88860 73720",
+    "website": "https://stridetax.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2-1-663, Osmania University Rd, Vignanpuri C, Vidya Nagar, Adikmet, Hyderabad, Telangana 500044",
+    "area": "Vignanpuri C, Vidya Nagar, Adikmet",
+    "latitude": 17.4040847,
+    "longitude": 78.5114979,
+    "place_id": "ChIJMWVkENWZyzsRq3XEUJxZD7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWVkENWZyzsRq3XEUJxZD7o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:27:30"
+  },
+  {
+    "business_name": "A Tibrewala & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "229122",
+    "phone_number": "+91 63037 78343",
+    "website": "http://atassociates.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Raghav Ratna Towers, 5-8-352, 0ffice no 1005, 10th floor, Abids, Hyderabad, Telangana 500001",
+    "area": "Mahesh Nagar Colony, Abids",
+    "latitude": 17.393275,
+    "longitude": 78.4727422,
+    "place_id": "ChIJFZHIleaXyzsRVeRI5I4wnH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZHIleaXyzsRVeRI5I4wnH0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:27:30"
+  }
+]

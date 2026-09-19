@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foodsta Supply Chain Private Limited",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Frozen food store",
+    "pincode": "229125",
+    "phone_number": "+91 80141 11444",
+    "website": "http://wwwgofoodsta.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bankapur Chowk, Anand Ginning Compound, near Nagpur Garage, Narayanapura, Karnataka 580028",
+    "area": "Old Hubli",
+    "latitude": 15.3304403,
+    "longitude": 75.1418996,
+    "place_id": "ChIJKWJgn_zXuDsRuKbGfmWtNDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWJgn_zXuDsRuKbGfmWtNDM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:22"
+  },
+  {
+    "business_name": "Iceblaze Foods and Beverages Pvt Ltd",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company, Frozen dessert supplier, Frozen food manufacturer, Fruit and vegetable processing, Spices Exporter, Fruits & Vegetable Wholesaler",
+    "pincode": "229125",
+    "phone_number": "+91 98189 11569",
+    "website": "http://www.ifbnutraorganic.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bharat Ekta Cooperative, Plot no 91, Bokaro Steel City, Satanpur, Jharkhand 827013",
+    "area": "229125",
+    "latitude": 23.6209736,
+    "longitude": 86.1332833,
+    "place_id": "ChIJUV5w7LIj9DkRDr273Y5rDjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUV5w7LIj9DkRDr273Y5rDjQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:22"
+  }
+]

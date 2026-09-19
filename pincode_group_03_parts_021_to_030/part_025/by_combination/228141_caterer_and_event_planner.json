@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Kumar",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "228141",
+    "phone_number": "+91 72360 82400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Guptarging Road, Guptarganj, Sultanpur, Uttar Pradesh 228151",
+    "area": "228141",
+    "latitude": 26.374973999999998,
+    "longitude": 82.1208078,
+    "place_id": "ChIJDUdZMDF7mjkRE1YU3B5_8h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUdZMDF7mjkRE1YU3B5_8h4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:26"
+  },
+  {
+    "business_name": "Krisna caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "228141",
+    "phone_number": "+91 80091 13046",
+    "website": "http://krishnacaterers.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Sultanpur Rd, Golf City, Lucknow, Hasanpur Khevali, Uttar Pradesh 226002",
+    "area": "Golf City",
+    "latitude": 26.775235799999997,
+    "longitude": 81.02066769999999,
+    "place_id": "ChIJ7dLK-RDlmzkREvRmOqwQI1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dLK-RDlmzkREvRmOqwQI1s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:29"
+  }
+]

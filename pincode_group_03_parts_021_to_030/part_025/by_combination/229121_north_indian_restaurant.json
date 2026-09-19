@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seven Palms Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "229121",
+    "phone_number": "+91 97926 68899",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 484,
+    "address": "Bijnor Rd, Omaxe City, Lucknow, Uttar Pradesh 226025",
+    "area": "Omaxe City",
+    "latitude": 26.761391999999997,
+    "longitude": 80.9222723,
+    "place_id": "ChIJXcbrCr_7mzkREudgE4n_kc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcbrCr_7mzkREudgE4n_kc8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:28"
+  },
+  {
+    "business_name": "Spicy Corner",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant",
+    "pincode": "229121",
+    "phone_number": "+91 92771 71341",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gauri Priya Complex Shop No.5, HIG-35 Jawahar Vihar Colony, Malik mau Colony, Raebareli, Uttar Pradesh 229010",
+    "area": "Malik mau Colony, Sri Nagar",
+    "latitude": 26.2206619,
+    "longitude": 81.26142899999999,
+    "place_id": "ChIJnYACcACnmzkRA7O_GBympUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYACcACnmzkRA7O_GBympUI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:29"
+  }
+]

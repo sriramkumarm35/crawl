@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "229205",
+    "phone_number": "+91 77770 01951",
+    "website": "https://www.pathkindlabs.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5XG9+3MM, Alampur Road, opp. Baiswara Inter College, Lalganj, Alampur, Uttar Pradesh 229206",
+    "area": "229205",
+    "latitude": 26.1752117,
+    "longitude": 80.96918649999999,
+    "place_id": "ChIJDR808_2DmzkRtDRegMcLdvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDR808_2DmzkRtDRegMcLdvk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:51:20"
+  },
+  {
+    "business_name": "Radhey Shyam Medical Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "229205",
+    "phone_number": "+91 99351 12042",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Radhey Shyam Medical Center, main road, near ambedkar marg, Saraffa Mandi, Lalganj, Uttar Pradesh 229206",
+    "area": "Saraffa Mandi",
+    "latitude": 26.165056399999997,
+    "longitude": 80.9705292,
+    "place_id": "ChIJyzIWA0CDmzkRo-YOy32R6Ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzIWA0CDmzkRo-YOy32R6Ts",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:51:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "229203",
+    "phone_number": "+91 74580 25649",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 01, Annapurna Market, Main Road, Lalganj, Suddan Khera, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.169693199999998,
+    "longitude": 80.9711372,
+    "place_id": "ChIJMyEAZ3mDmzkRJz0R3x3w5wA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyEAZ3mDmzkRJz0R3x3w5wA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:36"
+  },
+  {
+    "business_name": "PETER ENGLAND",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "229203",
+    "phone_number": "N/A",
+    "website": "https://lalganj.peterengland.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Bazar, Kanpur - Lucknow Rd, near Anu Milk Dairy, Lalganj, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.172443899999998,
+    "longitude": 80.967649,
+    "place_id": "ChIJlarWEOqDmzkR2SqI8vQZEx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlarWEOqDmzkR2SqI8vQZEx8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:36"
+  }
+]

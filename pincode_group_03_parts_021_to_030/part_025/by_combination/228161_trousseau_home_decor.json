@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Lalittya",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior architect office",
+    "all_categories": "Interior architect office, Architecture firm, Furniture maker",
+    "pincode": "228161",
+    "phone_number": "+91 98103 18175",
+    "website": "http://www.lalittya.com/",
+    "rating": 4.6,
+    "reviews_count": 40,
+    "address": "Basement Floor, A-14/4, Golf Course Rd, DLF Phase 1, Gurugram, Haryana 122002",
+    "area": "DLF Phase 1",
+    "latitude": 28.476839599999998,
+    "longitude": 77.0942608,
+    "place_id": "ChIJ____z7XtDzkRZe6wXoRBusA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____z7XtDzkRZe6wXoRBusA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:39"
+  },
+  {
+    "business_name": "Home interior",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "228161",
+    "phone_number": "+91 99879 27634",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Terameel, Dehari, Uttar Pradesh 230135",
+    "area": "Terameel",
+    "latitude": 25.944277,
+    "longitude": 82.1478073,
+    "place_id": "ChIJ9VGKZBmdmjkRCt-8K2u6yOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VGKZBmdmjkRCt-8K2u6yOE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:40"
+  }
+]

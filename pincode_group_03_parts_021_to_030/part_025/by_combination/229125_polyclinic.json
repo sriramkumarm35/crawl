@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Poly Clinic and Sai Medical Store",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "229125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2577+5C6, गौरा रोड, गदागंज, Kishori Balampur, Uttar Pradesh 229204",
+    "area": "गदागंज",
+    "latitude": 26.0129166,
+    "longitude": 81.1635415,
+    "place_id": "ChIJB9m_cABzmzkR0EinN6n4azk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9m_cABzmzkR0EinN6n4azk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:46"
+  },
+  {
+    "business_name": "AAROGYAM POLYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "229125",
+    "phone_number": "+91 99351 18555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5725+R4J, Lucknow Rd, Prayagraj, Mohammadpur Kuchariya, Uttar Pradesh 229405",
+    "area": "229125",
+    "latitude": 26.152092099999997,
+    "longitude": 81.2577774,
+    "place_id": "ChIJ8RVo5v0JmzkRHv0vT5naXbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RVo5v0JmzkRHv0vT5naXbY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:46"
+  }
+]

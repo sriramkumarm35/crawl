@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Store",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "229122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Madiya Pangarha, Damoh, Madhya Pradesh 470661",
+    "area": "Madiya Pangarha",
+    "latitude": 23.8329207,
+    "longitude": 79.44172669999999,
+    "place_id": "ChIJVQwURAkBgjkRlwowDGZwENs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQwURAkBgjkRlwowDGZwENs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:33"
+  },
+  {
+    "business_name": "Shri Krishna Medical Stores",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "229122",
+    "phone_number": "+91 72258 32842",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Ward No. 11, Purani, Dindori, Madhya Pradesh 481880",
+    "area": "229122",
+    "latitude": 22.9321286,
+    "longitude": 81.081913,
+    "place_id": "ChIJgZLCLrY9hzkRUqIK16-NyWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZLCLrY9hzkRUqIK16-NyWg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:33"
+  }
+]

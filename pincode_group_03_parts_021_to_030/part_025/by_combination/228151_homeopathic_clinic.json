@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Homeopathic Care Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "228151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhanpatganj Road, Kurebhar, Uttar Pradesh 228151",
+    "area": "228151",
+    "latitude": 26.416778299999997,
+    "longitude": 82.1223921,
+    "place_id": "ChIJU8Sb11ZxmjkRiTerVELPj8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8Sb11ZxmjkRiTerVELPj8E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:15"
+  },
+  {
+    "business_name": "Jarman Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic Clinic",
+    "all_categories": "Homeopathic Clinic",
+    "pincode": "228151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bharai Khata, Chaure Bazar, Uttar Pradesh 224209",
+    "area": "228151",
+    "latitude": 26.4771866,
+    "longitude": 82.1281398,
+    "place_id": "ChIJw88i0qx2mjkR-QPIl5FdOs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw88i0qx2mjkR-QPIl5FdOs8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:17"
+  }
+]

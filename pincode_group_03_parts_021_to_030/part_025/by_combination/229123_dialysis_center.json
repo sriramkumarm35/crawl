@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAHI Care Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "229123",
+    "phone_number": "+91 63985 51396",
+    "website": "http://www.rahicare.in/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Rahi care dialysis at Shivalik hospital, Sector 69, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Sector 69",
+    "latitude": 30.694910699999998,
+    "longitude": 76.7213254,
+    "place_id": "ChIJvb3pqUPvDzkR64LuY1A3RWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvb3pqUPvDzkR64LuY1A3RWM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:28:19"
+  },
+  {
+    "business_name": "Dialysis centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "229123",
+    "phone_number": "+91 63880 57065",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mahaveer hospital , kadam chauraha ballia 277401, Ballia, Uttar Pradesh 277001",
+    "area": "229123",
+    "latitude": 25.7575868,
+    "longitude": 84.17002889999999,
+    "place_id": "ChIJJx5Y0R5lkjkREeIevDLQ4-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJx5Y0R5lkjkREeIevDLQ4-I",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:28:20"
+  }
+]

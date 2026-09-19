@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijeta automobile",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "229202",
+    "phone_number": "+91 89533 70775",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Street 335, Uttar Pradesh 229202",
+    "area": "229202",
+    "latitude": 26.138005999999997,
+    "longitude": 80.7629224,
+    "place_id": "ChIJ0RfsRxZ_nDkRsiLT9r5Iv_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RfsRxZ_nDkRsiLT9r5Iv_4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:11"
+  },
+  {
+    "business_name": "Verma Automobiles",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "229202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4QQ3+V4G, Bhojpur, Dalipur, Uttar Pradesh 229202",
+    "area": "229202",
+    "latitude": 26.139698499999998,
+    "longitude": 80.75284359999999,
+    "place_id": "ChIJ3xZOWQB_nDkRotTOTp0QS9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xZOWQB_nDkRotTOTp0QS9M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:11"
+  }
+]

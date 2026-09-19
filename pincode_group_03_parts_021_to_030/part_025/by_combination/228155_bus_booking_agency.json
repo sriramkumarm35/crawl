@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star tour and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "228155",
+    "phone_number": "+91 98076 32605",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "bus stand, Civil Line, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.265026,
+    "longitude": 82.0730105,
+    "place_id": "ChIJCZgZK059mjkR547yLtz7ZWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZgZK059mjkR547yLtz7ZWk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:08:27"
+  },
+  {
+    "business_name": "Sultanpur Junction",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "228155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 566,
+    "address": "Junction, Sultanpur Railway Station Rd, Majar Ganj, Sultanpur, Uttar Pradesh 228001",
+    "area": "Majar Ganj",
+    "latitude": 26.265028599999997,
+    "longitude": 82.0671711,
+    "place_id": "ChIJq6jSx2N9mjkR24CKHFX_noE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6jSx2N9mjkR24CKHFX_noE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:08:29"
+  }
+]

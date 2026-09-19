@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S A Interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "229010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "66RQ+XWQ, opp. Ekta Vihar Colony, Anwar Nagar, Ratapur, Raebareli, Uttar Pradesh 229316",
+    "area": "Anwar Nagar, Ratapur",
+    "latitude": 26.2424586,
+    "longitude": 81.2398272,
+    "place_id": "ChIJj0BlQjihmzkRdOG4xXrn_xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0BlQjihmzkRdOG4xXrn_xI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:19:47"
+  },
+  {
+    "business_name": "Adecors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "229010",
+    "phone_number": "+91 97686 08595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Galla Mandi, Ratapur Rd, Railway Model Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "Railway Model Colony",
+    "latitude": 26.238603299999998,
+    "longitude": 81.2386314,
+    "place_id": "ChIJh2XFVY2hmzkRAjaRhWKpn3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2XFVY2hmzkRAjaRhWKpn3w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:19:47"
+  }
+]

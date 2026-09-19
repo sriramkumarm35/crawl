@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baiswara test training centre",
+    "search_category": "Educational Consultant",
+    "primary_category": "Visa Agent",
+    "all_categories": "Visa Agent",
+    "pincode": "229203",
+    "phone_number": "+91 92362 93541",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Dihwa par, near baba Dharm kanta, Lalganj, Datauli Lal Ganj, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.1567656,
+    "longitude": 80.977431,
+    "place_id": "ChIJu3dronqDmzkRcgl1sqzyijI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3dronqDmzkRcgl1sqzyijI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:48:33"
+  },
+  {
+    "business_name": "KHIDMAT EDUCATIONAL & WELFARE SOCIETY",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "229203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5X89+582, Chikwahi Mandi Road, Lalganj, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.1653868,
+    "longitude": 80.9682533,
+    "place_id": "ChIJ0adaLsKCmzkR16xqSY1E1b8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0adaLsKCmzkR16xqSY1E1b8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:48:33"
+  }
+]

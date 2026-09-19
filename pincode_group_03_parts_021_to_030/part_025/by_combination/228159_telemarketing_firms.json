@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YN IT Solutions",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services, Website designer",
+    "pincode": "228159",
+    "phone_number": "+91 94156 10060",
+    "website": "http://www.ynitsolutions.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kamta Sadan, near gramin bank, Ahimane, Sultanpur, Uttar Pradesh 228001",
+    "area": "228159",
+    "latitude": 26.2149877,
+    "longitude": 82.05806059999999,
+    "place_id": "ChIJETarh5d9mjkRQTwbShSVJyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETarh5d9mjkRQTwbShSVJyc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:24"
+  },
+  {
+    "business_name": "SM INFOTECH SOLUTIONS",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer networking service, Computer security service, Computer support and services, Service establishment, Software Training Institute, Web hosting company, Website designer",
+    "pincode": "228159",
+    "phone_number": "N/A",
+    "website": "https://sminfotechsolutions.in/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "SM INFOTECH SOLUTIONS, 228159, India",
+    "area": "228159",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJc8GMbJctW4ARdLbCsi16zdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8GMbJctW4ARdLbCsi16zdQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:25"
+  }
+]

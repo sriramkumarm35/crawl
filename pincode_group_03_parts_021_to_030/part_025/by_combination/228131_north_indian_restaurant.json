@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Samosa Corner",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Awadhi Restaurant",
+    "pincode": "228131",
+    "phone_number": "+91 95069 98858",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 25,
+    "address": "Marui Gate, Alipur Road, Mangl Nagar, Umari, Uttar Pradesh 228171",
+    "area": "Mangl Nagar",
+    "latitude": 26.156976099999998,
+    "longitude": 82.51266749999999,
+    "place_id": "ChIJg6zm_u58mjkR0IofbuWVXzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6zm_u58mjkR0IofbuWVXzE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:54:13"
+  },
+  {
+    "business_name": "BRO & BROTHERS' CAFE SULTANPUR",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "228131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "66WP+983, Barausa, Brounsa, Uttar Pradesh 228120",
+    "area": "228131",
+    "latitude": 26.2452817,
+    "longitude": 82.2369767,
+    "place_id": "ChIJB9RNYQCBkDkRjC1XVQdNyZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9RNYQCBkDkRjC1XVQdNyZ4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:54:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KBD FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Health resort",
+    "all_categories": "Health resort",
+    "pincode": "229202",
+    "phone_number": "+91 87379 11993",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KBD FITNESS CLUB, Kanti, Unchgaon, Uttar Pradesh 209863",
+    "area": "229202",
+    "latitude": 26.174652599999998,
+    "longitude": 80.6963354,
+    "place_id": "ChIJW5BB8cd9nDkRyXslzyWSNFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5BB8cd9nDkRyXslzyWSNFk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:09"
+  },
+  {
+    "business_name": "O2 Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "229202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tripula, Kishunpur Ramchandra, Gokulpur, Uttar Pradesh 229316",
+    "area": "229202",
+    "latitude": 26.2542373,
+    "longitude": 81.23219999999999,
+    "place_id": "ChIJM5PXWACjmzkRLiCdlyTAM6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5PXWACjmzkRLiCdlyTAM6w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:10"
+  }
+]

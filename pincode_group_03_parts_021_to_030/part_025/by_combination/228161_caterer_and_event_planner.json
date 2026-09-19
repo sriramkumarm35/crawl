@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manglam Caterers & Event Planner",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "228161",
+    "phone_number": "+91 82991 61328",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 247,
+    "address": "128/211, H2 Block, Kidwai Nagar, Kanpur, Uttar Pradesh 208011",
+    "area": "H2 Block, Kidwai Nagar",
+    "latitude": 26.432406099999998,
+    "longitude": 80.32957069999999,
+    "place_id": "ChIJH9HYWGJHnDkRB4PYobvU_vI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9HYWGJHnDkRB4PYobvU_vI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:36"
+  },
+  {
+    "business_name": "Kwality Royal Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Restaurant, Wedding planner",
+    "pincode": "228161",
+    "phone_number": "+91 76075 67772",
+    "website": "https://www.kwalityroyalcaterer.in/",
+    "rating": 4.8,
+    "reviews_count": 254,
+    "address": "Residency Awadh Building, Chowk, Lucknow, Uttar Pradesh 226003",
+    "area": "Chowk",
+    "latitude": 26.867238099999998,
+    "longitude": 80.9101731,
+    "place_id": "ChIJVS7YJAr9mzkRmb8BUzSV-nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVS7YJAr9mzkRmb8BUzSV-nE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:37"
+  }
+]

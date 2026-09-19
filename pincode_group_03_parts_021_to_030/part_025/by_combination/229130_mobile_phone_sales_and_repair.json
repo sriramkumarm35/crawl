@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Adda",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "229130",
+    "phone_number": "+91 72710 60606",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "10, 124/M, below Central Bank, Near Natraj Cinema, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "Near Natraj Cinema, Govind Nagar",
+    "latitude": 26.4495971,
+    "longitude": 80.29942419999999,
+    "place_id": "ChIJWfEqM5dHnDkRN4JS8Eu_l4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfEqM5dHnDkRN4JS8Eu_l4s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:41:32"
+  },
+  {
+    "business_name": "A Top Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "229130",
+    "phone_number": "+91 98257 63543",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "40/B ,Shop No, 5, Shakti Society, Danilimda, Ahmedabad, Gujarat 382405",
+    "area": "Shakti Society, Danilimda",
+    "latitude": 22.9967196,
+    "longitude": 72.5783469,
+    "place_id": "ChIJQYR-3qKFXjkR4bBV9Y8NIOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYR-3qKFXjkR4bBV9Y8NIOM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:41:32"
+  }
+]

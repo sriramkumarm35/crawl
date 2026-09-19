@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Awadh poultry farm",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "228159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7XFV+885, Sultanpur, Uttar Pradesh 227808",
+    "area": "228159",
+    "latitude": 26.273645,
+    "longitude": 81.992876,
+    "place_id": "ChIJJ9PvAABjmjkRBVAZ5R26yJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9PvAABjmjkRBVAZ5R26yJI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:09:44"
+  },
+  {
+    "business_name": "Bombay Watch And Mobile House",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "228159",
+    "phone_number": "+91 98394 88764",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Ramkumar Jaysawal, Pryag Road, Durgapur, Sultanpur, Uttar Pradesh 228159",
+    "area": "228159",
+    "latitude": 26.1387884,
+    "longitude": 82.04444889999999,
+    "place_id": "ChIJm8bP0zaHmjkRp9gwlXAxcAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8bP0zaHmjkRp9gwlXAxcAQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:09:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Web Dream Consultancy",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Service establishment, Website designer",
+    "pincode": "229127",
+    "phone_number": "+91 83188 34414",
+    "website": "http://webdreamconsultancy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Web Dream Consultancy, 229127, India",
+    "area": "229127",
+    "latitude": 14.157641199999999,
+    "longitude": 138.7793,
+    "place_id": "ChIJiZWVVePhmjkRImXrkK9MBQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZWVVePhmjkRImXrkK9MBQA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:35"
+  },
+  {
+    "business_name": "AB Consultancy Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "229127",
+    "phone_number": "+91 99998 44772",
+    "website": "http://www.ksaca.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill. Asthoraipur, Rokha, Uttar Pradesh 229310",
+    "area": "229127",
+    "latitude": 26.1891797,
+    "longitude": 81.4261399,
+    "place_id": "ChIJVzrB3wapmzkRoxzdfh_M2BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzrB3wapmzkRoxzdfh_M2BQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:36"
+  }
+]

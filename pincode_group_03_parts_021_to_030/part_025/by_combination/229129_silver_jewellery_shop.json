@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "229129",
+    "phone_number": "+91 63914 92890",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5F5J+MHG, Birnawa, Uttar Pradesh 229307",
+    "area": "229129",
+    "latitude": 26.159254999999998,
+    "longitude": 81.4817283,
+    "place_id": "ChIJHVlxcQABmzkReTEsOG-XLOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVlxcQABmzkReTEsOG-XLOk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:46"
+  },
+  {
+    "business_name": "रहमानी ज्वैलर्स",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "229129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3GM2+3CX, NH931A, Parshde Pur Chauraha, Sansari, Uttar Pradesh 229129",
+    "area": "229129",
+    "latitude": 26.0827366,
+    "longitude": 81.50111319999999,
+    "place_id": "ChIJ1bPKDvEBmzkRrHt2nHDvLNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bPKDvEBmzkRrHt2nHDvLNE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:46"
+  }
+]

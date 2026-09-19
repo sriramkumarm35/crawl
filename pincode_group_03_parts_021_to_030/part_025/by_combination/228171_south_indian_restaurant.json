@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Shree Avantika Family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Fast food restaurant, Italian restaurant",
+    "pincode": "228171",
+    "phone_number": "+91 87074 05046",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "loha mandi, Belwai - Shahganj Rd, Shahganj, Uttar Pradesh 223101",
+    "area": "228171",
+    "latitude": 26.051729599999998,
+    "longitude": 82.6825607,
+    "place_id": "ChIJO6z-Ni5bkDkR3wmipAv-G4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6z-Ni5bkDkR3wmipAv-G4o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:13:32"
+  },
+  {
+    "business_name": "Awadhpuri Restaurant (शुद्ध शाकाहारी)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "228171",
+    "phone_number": "+91 73797 68651",
+    "website": "https://scanmenu.in/mapping-url/AwadhpuriRestaurant",
+    "rating": 4.5,
+    "reviews_count": 65,
+    "address": "Baskhari, Uttar Pradesh 224129",
+    "area": "228171",
+    "latitude": 26.4543125,
+    "longitude": 82.7686875,
+    "place_id": "ChIJERcGCcPlkDkRW3ZnVtmHeCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJERcGCcPlkDkRW3ZnVtmHeCM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:13:33"
+  }
+]

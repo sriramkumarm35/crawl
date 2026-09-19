@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sterling Rampath Ayodhya",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Holiday home, Hotel, Restaurant, Spa",
+    "pincode": "228141",
+    "phone_number": "+91 79 6979 2070",
+    "website": "https://www.sterlingholidays.com/resorts-hotels/rampath-ayodhya",
+    "rating": 4.6,
+    "reviews_count": 434,
+    "address": "Building no. 2, 7/24, Balakram Colony, Niyawan, Faizabad, Ayodhya, Uttar Pradesh 224001",
+    "area": "Balakram Colony, Niyawan",
+    "latitude": 26.785928,
+    "longitude": 82.1381698,
+    "place_id": "ChIJT92VaE4PmjkRIHy8wLKHNTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT92VaE4PmjkRIHy8wLKHNTA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:27"
+  },
+  {
+    "business_name": "Vidyawati Resort",
+    "search_category": "Resort",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "228141",
+    "phone_number": "+91 70449 20302",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 492,
+    "address": "NH731, Badlapur, Pattidayal, Uttar Pradesh 222125",
+    "area": "228141",
+    "latitude": 25.8824538,
+    "longitude": 82.47497709999999,
+    "place_id": "ChIJ3UkWZEBtkDkRyg8pJF0BtAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UkWZEBtkDkRyg8pJF0BtAk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:29"
+  }
+]

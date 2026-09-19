@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rang Dhang",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "229203",
+    "phone_number": "+91 80908 44463",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Road, near Government Hospital, Alampur, Lalganj, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.174435499999998,
+    "longitude": 80.96805959999999,
+    "place_id": "ChIJI0vGMdODmzkRYJDhlIb53vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0vGMdODmzkRYJDhlIb53vU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:37"
+  },
+  {
+    "business_name": "Metro Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "229203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "66GP+RCX, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.2271225,
+    "longitude": 81.236102,
+    "place_id": "ChIJyXjOuUahmzkR3-eIJDSPHno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXjOuUahmzkR3-eIJDSPHno",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:37"
+  }
+]

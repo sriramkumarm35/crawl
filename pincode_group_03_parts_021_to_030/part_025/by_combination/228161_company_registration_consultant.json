@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finaurt",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "228161",
+    "phone_number": "+91 89492 58587",
+    "website": "http://www.finaurt.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, Plus offices, Landmark Cyberpark, Prajapati Rd, Sector 67, Gurugram, Haryana 122101",
+    "area": "Sector 67",
+    "latitude": 28.3908156,
+    "longitude": 77.0597883,
+    "place_id": "ChIJjUvzIrcjDTkRR8lR1ixWWN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUvzIrcjDTkRR8lR1ixWWN4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:13:00"
+  },
+  {
+    "business_name": "Office (Santosh Kumar Pandey)",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Lawyers association",
+    "all_categories": "Lawyers association",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "73C7+PHQ, Sultanpur Kurwar Rd, Vivek Nagar, Sultanpur, Uttar Pradesh 228001",
+    "area": "Vivek Nagar",
+    "latitude": 26.271825,
+    "longitude": 82.063999,
+    "place_id": "ChIJp3vfKQJ9mjkRzqUSxG-xLN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3vfKQJ9mjkRzqUSxG-xLN0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:13:01"
+  }
+]

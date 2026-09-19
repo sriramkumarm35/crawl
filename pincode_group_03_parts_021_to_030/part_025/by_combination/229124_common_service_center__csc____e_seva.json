@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC E-Governance Services India Limited",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "229124",
+    "phone_number": "+91 99990 01989",
+    "website": "http://cscegs.in/",
+    "rating": 3.1,
+    "reviews_count": 132,
+    "address": "3rd floor, Electronic Niketan, 6, Lodhi Rd, Gokalpuri, CGO Complex, Pragati Vihar, New Delhi, Delhi 110003",
+    "area": "Gokalpuri, CGO Complex, Pragati Vihar",
+    "latitude": 28.590956799999997,
+    "longitude": 77.22800289999999,
+    "place_id": "ChIJy_nD7P3iDDkRLSylYwQTSYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_nD7P3iDDkRLSylYwQTSYo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:47"
+  },
+  {
+    "business_name": "CSC digital seva kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "229124",
+    "phone_number": "+91 94771 01351",
+    "website": "https://cscdigitalsevakendra.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Barrackpore, Shalidaha, West Bengal 743145",
+    "area": "Barrackpore",
+    "latitude": 22.897345899999998,
+    "longitude": 88.4801413,
+    "place_id": "ChIJCa0aIQC9-DkRbS_8zQYpv4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCa0aIQC9-DkRbS_8zQYpv4E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sushrut ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "229201",
+    "phone_number": "+91 99679 17076",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 86,
+    "address": "Sushrut ENT hospital, Ghanshyam Gupte Road, Jai Hind Colony, Shastri Nagar, Dombivli West, Kalyan, Maharashtra 421202",
+    "area": "Jai Hind Colony, Shastri Nagar, Dombivli West",
+    "latitude": 19.2238039,
+    "longitude": 73.0839481,
+    "place_id": "ChIJUZ7Ukh6-5zsRwDkwl7YybC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZ7Ukh6-5zsRwDkwl7YybC4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:22"
+  },
+  {
+    "business_name": "Susruti ENT Foundation",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "229201",
+    "phone_number": "+91 98311 11924",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "CCVG+HGM, Kamrabad Biswas Para, Kamrabad, Narendrapur, Rajpur Sonarpur, Kolkata, West Bengal 700150",
+    "area": "Kamrabad, Narendrapur",
+    "latitude": 22.4439691,
+    "longitude": 88.42630439999999,
+    "place_id": "ChIJXVIkPpdzAjoRhBWZ2UYiyUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVIkPpdzAjoRhBWZ2UYiyUk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:22"
+  }
+]

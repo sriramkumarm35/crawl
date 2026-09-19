@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "229001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH-38, bhaguatipur, Kajiyana, Uttar Pradesh 229204",
+    "area": "bhaguatipur",
+    "latitude": 25.9791527,
+    "longitude": 81.2132827,
+    "place_id": "ChIJX7A2gSANmzkRwsol2oB04Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7A2gSANmzkRwsol2oB04Po",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:18:42"
+  },
+  {
+    "business_name": "Satyam Enterprises Oil & Grinder Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "73CR+MXC, Unnamed Road, Malikmau Chaubara, Uttar Pradesh 229130",
+    "area": "229001",
+    "latitude": 26.2716992,
+    "longitude": 81.0923917,
+    "place_id": "ChIJVYI2bX-ZmzkRIstg1JPEwcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYI2bX-ZmzkRIstg1JPEwcQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:18:42"
+  }
+]

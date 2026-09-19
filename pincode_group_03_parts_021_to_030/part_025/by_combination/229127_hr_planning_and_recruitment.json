@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Resume service",
+    "all_categories": "Resume service, Service establishment",
+    "pincode": "229127",
+    "phone_number": "+91 94578 58620",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR Solutions, 229127, India",
+    "area": "229127",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJuT8eTnc0-oIR7MmJK1tD1Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuT8eTnc0-oIR7MmJK1tD1Jg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:21"
+  },
+  {
+    "business_name": "Hello Jobs Placement Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment",
+    "pincode": "229127",
+    "phone_number": "N/A",
+    "website": "https://www.hellojobs.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hello Jobs Placement Services, 229127, India",
+    "area": "229127",
+    "latitude": 27.1381928,
+    "longitude": 80.8593042,
+    "place_id": "ChIJwQQC8bFkJ2cRZU00hf6UNIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQQC8bFkJ2cRZU00hf6UNIs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:21"
+  }
+]

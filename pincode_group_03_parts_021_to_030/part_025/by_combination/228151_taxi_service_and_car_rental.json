@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dabbu travel agency",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service",
+    "pincode": "228151",
+    "phone_number": "+91 63878 95285",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sultanpur, Uttar Pradesh 272163",
+    "area": "228151",
+    "latitude": 26.8899747,
+    "longitude": 82.632745,
+    "place_id": "ChIJ63kaJhLLkDkRB2JSne2bK2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63kaJhLLkDkRB2JSne2bK2M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:32"
+  },
+  {
+    "business_name": "Khan tour & travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Parking lot",
+    "all_categories": "Parking lot",
+    "pincode": "228151",
+    "phone_number": "+91 99181 12222",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "350/2, Church Compound, Civil Line, Sultanpur, Uttar Pradesh 228001",
+    "area": "Church Compound, Civil Line",
+    "latitude": 26.263635999999998,
+    "longitude": 82.075699,
+    "place_id": "ChIJ89kMpPF8mjkRdMUdUcj_ncw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89kMpPF8mjkRdMUdUcj_ncw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:32"
+  }
+]

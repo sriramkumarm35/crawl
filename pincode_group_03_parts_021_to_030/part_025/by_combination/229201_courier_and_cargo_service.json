@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "International Courier and Cargo - Sagar Air Express",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Freight Forwarding Agency, Import export company, Logistics service, Shipping service, Transportation service",
+    "pincode": "229201",
+    "phone_number": "+91 99997 77651",
+    "website": "http://www.sagarairexpress.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Metro Pillar Number 126, 416/2, Ghitorni, New Delhi, Delhi 110030",
+    "area": "Ghitorni",
+    "latitude": 28.491574999999997,
+    "longitude": 77.1433607,
+    "place_id": "ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQvaac0fDTkRktOD-wiIFsY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:45:16"
+  },
+  {
+    "business_name": "India post",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "229201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "5R4H+377, Purepandey Road, Sareni, Uttar Pradesh 229212",
+    "area": "229201",
+    "latitude": 26.155161099999997,
+    "longitude": 80.8281648,
+    "place_id": "ChIJ6Sf8X6eBmzkR0izIt9Cljm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Sf8X6eBmzkR0izIt9Cljm0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:45:17"
+  }
+]

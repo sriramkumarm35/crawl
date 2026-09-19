@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jalsa resort",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "229010",
+    "phone_number": "+91 90052 37227",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Motel chauraha, Civil Lines Chouraha, Sri Nagar, Raebareli, Uttar Pradesh 229010",
+    "area": "Sri Nagar",
+    "latitude": 26.221358,
+    "longitude": 81.2563885,
+    "place_id": "ChIJgQkaxeKnmzkRQqUnNWcqo_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQkaxeKnmzkRQqUnNWcqo_o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:20:00"
+  },
+  {
+    "business_name": "Hotel Jaideep",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "229010",
+    "phone_number": "+91 535 221 2004",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 73,
+    "address": "Just Near, Railway Station Rd, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.2324606,
+    "longitude": 81.2376939,
+    "place_id": "ChIJC6EGLUShmzkRCrfnkLgQXBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6EGLUShmzkRCrfnkLgQXBA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:20:02"
+  }
+]

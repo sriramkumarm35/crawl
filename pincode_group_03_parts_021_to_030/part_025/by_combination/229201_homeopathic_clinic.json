@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "229201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "4R8Q+H46, Ghuri Khera, Uttar Pradesh 229215",
+    "area": "229201",
+    "latitude": 26.1164083,
+    "longitude": 80.8377782,
+    "place_id": "ChIJnzV43Jx_mzkR64P3JkJkoDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzV43Jx_mzkR64P3JkJkoDw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:15"
+  },
+  {
+    "business_name": "Shri kunj homeopathic centre",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "229201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sareni, Uttar Pradesh 229212",
+    "area": "229201",
+    "latitude": 26.1578704,
+    "longitude": 80.8336465,
+    "place_id": "ChIJQWK_4O6BmzkRdzc8Pf7abHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWK_4O6BmzkRdzc8Pf7abHw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ABCD Dance Workshop Salon",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Night club",
+    "all_categories": "Night club",
+    "pincode": "229127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2FG5+522, Salon Bazar, Salon, Uttar Pradesh 229127",
+    "area": "229127",
+    "latitude": 26.0253996,
+    "longitude": 81.4575235,
+    "place_id": "ChIJm0_V8wADmzkRYBgwA5v797c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0_V8wADmzkRYBgwA5v797c",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:06"
+  },
+  {
+    "business_name": "ABCD Dance Class Salon",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Night club",
+    "all_categories": "Night club",
+    "pincode": "229127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2FG5+42X, Salon Bazar, Salon, Uttar Pradesh 229127",
+    "area": "229127",
+    "latitude": 26.025361,
+    "longitude": 81.457624,
+    "place_id": "ChIJ_dik9MQDmzkR9WpRtzdPkaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dik9MQDmzkR9WpRtzdPkaI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:06"
+  }
+]

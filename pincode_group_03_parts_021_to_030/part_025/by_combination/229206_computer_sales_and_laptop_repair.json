@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahu Agencies Lalganj",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "229206",
+    "phone_number": "+91 88740 40100",
+    "website": "https://sahuagencies.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "12, Main Road, Nayi Bazaar, Lalganj, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.170776,
+    "longitude": 80.970372,
+    "place_id": "ChIJvSjtpFSDmzkR-GIjEsP94CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSjtpFSDmzkR-GIjEsP94CU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:54"
+  },
+  {
+    "business_name": "Raj Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "229206",
+    "phone_number": "+91 81275 05054",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pure Devi, Korihara, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.1583133,
+    "longitude": 80.9638904,
+    "place_id": "ChIJ0a0y0T2DmzkRq5uqneeHsbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a0y0T2DmzkRq5uqneeHsbs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:54"
+  }
+]

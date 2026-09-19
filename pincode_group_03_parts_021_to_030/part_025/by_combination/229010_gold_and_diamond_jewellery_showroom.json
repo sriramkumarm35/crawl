@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soham jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "229010",
+    "phone_number": "+91 70818 19077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kaiparganj, Khoya mandi road, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.2290907,
+    "longitude": 81.2342994,
+    "place_id": "ChIJgVSeT5inmzkRaolYVujF7fM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVSeT5inmzkRaolYVujF7fM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:19:13"
+  },
+  {
+    "business_name": "Bhundal Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "229010",
+    "phone_number": "+91 93051 49074",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "Kaiperganj, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.228825699999998,
+    "longitude": 81.2349423,
+    "place_id": "ChIJlRjk-kOhmzkRa6z46-GVCtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRjk-kOhmzkRa6z46-GVCtY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:19:14"
+  }
+]

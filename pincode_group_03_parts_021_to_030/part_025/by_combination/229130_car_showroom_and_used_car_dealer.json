@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "229130",
+    "phone_number": "+91 98116 18055",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 28,
+    "address": "Super Mart-II, E-2, Block C2, DLF Phase IV, Sector 43, Gurugram, Haryana 122002",
+    "area": "Block C2, DLF Phase IV, Sector 43",
+    "latitude": 28.4614639,
+    "longitude": 77.0881989,
+    "place_id": "ChIJEx6eGNEYDTkRJWTysG8JsEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEx6eGNEYDTkRJWTysG8JsEs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:40:50"
+  },
+  {
+    "business_name": "South City Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "229130",
+    "phone_number": "+91 98454 93970",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 240,
+    "address": "25&26, 23rd Main Rd, opp. Innisfree House School Ranga Shankara, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "R K Colony, 2nd Phase, J. P. Nagar",
+    "latitude": 12.9116249,
+    "longitude": 77.5868232,
+    "place_id": "ChIJUfInJQ0VrjsRKkEVJGU0PDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfInJQ0VrjsRKkEVJGU0PDo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:40:51"
+  }
+]

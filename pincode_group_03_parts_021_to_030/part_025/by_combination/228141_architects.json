@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Bansal & Associates",
+    "search_category": "Architects",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architectural designer, Structural engineer",
+    "pincode": "228141",
+    "phone_number": "+91 124 238 0877",
+    "website": "http://anandbansalassociates.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House No 507, near St. Angel Senior School, Sector 45, Gurugram, Haryana 122003",
+    "area": "Sector 45",
+    "latitude": 28.4423559,
+    "longitude": 77.0701503,
+    "place_id": "ChIJ67JpokYZDTkRa5Z-mAQsj8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67JpokYZDTkRa5Z-mAQsj8g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:14"
+  },
+  {
+    "business_name": "AA Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "228141",
+    "phone_number": "N/A",
+    "website": "https://aaarchitects.in/",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "Sultanpur Lodhi Road, near Anand Public School, Kapurthala, Punjab 144601",
+    "area": "228141",
+    "latitude": 31.369850099999997,
+    "longitude": 75.3767175,
+    "place_id": "ChIJO52m2-1JGjkRq0p3s-ENrc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO52m2-1JGjkRq0p3s-ENrc0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:15"
+  }
+]

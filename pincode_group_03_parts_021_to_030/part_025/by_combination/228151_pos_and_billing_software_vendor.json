@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basawa Technologies Limited",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "228151",
+    "phone_number": "+91 484 929 5773",
+    "website": "https://www.basawa.com/",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "5, Sarvapriya Vihar Market, New Delhi, Delhi 110016",
+    "area": "Block 3, Sarvapriya Vihar",
+    "latitude": 28.542180199999997,
+    "longitude": 77.206859,
+    "place_id": "ChIJI25fkxLiDDkREEcbymBEoFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI25fkxLiDDkREEcbymBEoFU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:13"
+  },
+  {
+    "business_name": "S.P Computer And Janseva Kendra",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "228151",
+    "phone_number": "+91 73763 21169",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar Akhandnagar Sultanpur, Nirala Nagar, Vivek Nagar, Sultanpur, Uttar Pradesh 228171",
+    "area": "Nirala Nagar, Vivek Nagar",
+    "latitude": 26.270476199999997,
+    "longitude": 82.0625077,
+    "place_id": "ChIJi9FB-6N9mjkRQL4r0ZLIBms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9FB-6N9mjkRQL4r0ZLIBms",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:14"
+  }
+]

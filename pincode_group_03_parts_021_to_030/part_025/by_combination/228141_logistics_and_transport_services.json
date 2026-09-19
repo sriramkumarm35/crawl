@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma Transport Agency",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "228141",
+    "phone_number": "+91 98398 82934",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lohramau Rd, Om Nagar, Sultanpur, Uttar Pradesh 228001",
+    "area": "Om Nagar",
+    "latitude": 26.248679,
+    "longitude": 82.07877429999999,
+    "place_id": "ChIJq695i5yRmjkRUG_lttm316g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq695i5yRmjkRUG_lttm316g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:04"
+  },
+  {
+    "business_name": "New Singh Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "228141",
+    "phone_number": "+91 93354 86898",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "64G4+CCW, Payagipur Chauraha,,Laxmanpur Railway Crossing,Under Over bridge, Sultanpuar, Uttar Pradesh 228001",
+    "area": "228141",
+    "latitude": 26.22611,
+    "longitude": 82.106068,
+    "place_id": "ChIJQ1VVVZV9mjkRhblCeYYbacs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1VVVZV9mjkRhblCeYYbacs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:04"
+  }
+]

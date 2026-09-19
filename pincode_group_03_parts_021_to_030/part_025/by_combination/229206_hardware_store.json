@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Cycle Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229206",
+    "phone_number": "+91 92368 00742",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mahesh Nagar, near Gandhi Chauraha, Korihara, Lalganj, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.1622615,
+    "longitude": 80.9680552,
+    "place_id": "ChIJ3VJTB8GCmzkRLgSWZE3Mp3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VJTB8GCmzkRLgSWZE3Mp3o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:22"
+  },
+  {
+    "business_name": "Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229206",
+    "phone_number": "+91 98389 38662",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durgesh Hardware, Purani Sabji Mandi, Lalganj, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.1664379,
+    "longitude": 80.9718956,
+    "place_id": "ChIJD1du43mDmzkRvOGUdT58jjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1du43mDmzkRvOGUdT58jjI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:22"
+  }
+]

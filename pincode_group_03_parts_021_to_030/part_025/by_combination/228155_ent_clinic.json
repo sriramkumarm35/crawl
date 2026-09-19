@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Priyanka pandey",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "228155",
+    "phone_number": "+91 73983 57740",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "normal campus, 22, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.2608735,
+    "longitude": 82.0756541,
+    "place_id": "ChIJ9SeGYfd9mjkROqMaWZbzqdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SeGYfd9mjkROqMaWZbzqdQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:08:17"
+  },
+  {
+    "business_name": "Dr. SC Gupta",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "228155",
+    "phone_number": "+91 94159 68403",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rudra nagar, 569, Sabji Mandi, Majar Ganj, Sultanpur, Uttar Pradesh 228001",
+    "area": "Majar Ganj",
+    "latitude": 26.262017699999998,
+    "longitude": 82.068584,
+    "place_id": "ChIJoYx6O319mjkReZKAWiEDtEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYx6O319mjkReZKAWiEDtEY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:08:20"
+  }
+]

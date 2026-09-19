@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajlaxmi Kitchen",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "229125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawahar Vihar Colony, Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Jawahar Vihar Colony, Sri Nagar",
+    "latitude": 26.221120799999998,
+    "longitude": 81.26442519999999,
+    "place_id": "ChIJDQRSMyinmzkRq9yySIzaGYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQRSMyinmzkRq9yySIzaGYw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:32:46"
+  },
+  {
+    "business_name": "Shankar ganj",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "229125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "5562+W46, Shankar ganj Bazar, Raebareli, Uttar Pradesh 229125",
+    "area": "229125",
+    "latitude": 26.162291,
+    "longitude": 81.150263,
+    "place_id": "ChIJP87wYnqfmzkRkZJuokuciiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP87wYnqfmzkRkZJuokuciiw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:32:46"
+  }
+]

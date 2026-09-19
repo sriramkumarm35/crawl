@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap Garden",
+    "search_category": "Media and Event",
+    "primary_category": "Garden",
+    "all_categories": "Garden, Hotel",
+    "pincode": "228159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 30,
+    "address": "Sultanpur - Raebareli Road, NH128, Dhammaur, Uttar Pradesh 227408",
+    "area": "228159",
+    "latitude": 26.2474912,
+    "longitude": 81.9303888,
+    "place_id": "ChIJdfgfwgxhmjkRGFCs0I23Q8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfgfwgxhmjkRGFCs0I23Q8Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:49"
+  },
+  {
+    "business_name": "Bisu Drone Service",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service",
+    "pincode": "228159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kk complex, Nr punch rasta, Uttar Pradesh 228001",
+    "area": "Khairabad",
+    "latitude": 26.258497799999997,
+    "longitude": 82.06605549999999,
+    "place_id": "ChIJSTac4yx9mjkRNBZGcmDEyqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTac4yx9mjkRNBZGcmDEyqg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:51"
+  }
+]

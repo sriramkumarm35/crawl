@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SCOOPS 'N' DELIGHT",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "228141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Panchopiran, Sultanpur, Uttar Pradesh 228118",
+    "area": "Panchopiran",
+    "latitude": 26.2818573,
+    "longitude": 82.0803105,
+    "place_id": "ChIJyXbjEid9mjkR4pi4kxI8sWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXbjEid9mjkR4pi4kxI8sWw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:00:35"
+  },
+  {
+    "business_name": "Mahalaxmi Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "228141",
+    "phone_number": "+91 88748 02734",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Malupur Sirsiya, Rajesultanpur, Uttar Pradesh 224176",
+    "area": "228141",
+    "latitude": 26.294363399999998,
+    "longitude": 83.0933512,
+    "place_id": "ChIJJ9Pyc8wJkTkRQdw5pO10glA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9Pyc8wJkTkRQdw5pO10glA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:00:35"
+  }
+]

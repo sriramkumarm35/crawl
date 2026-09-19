@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aaradhya Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "229121",
+    "phone_number": "+91 788 033 7493",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "Bachhrawan, Uttar Pradesh 229301",
+    "area": "229121",
+    "latitude": 26.474072399999997,
+    "longitude": 81.108113,
+    "place_id": "ChIJt9qcjveUmzkRI2-9fHETcCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9qcjveUmzkRI2-9fHETcCw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:49"
+  },
+  {
+    "business_name": "Shree Krishna Healthcare & Distributors",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "229121",
+    "phone_number": "+91 84236 96596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarosha Bharosa, Mohan Rd, Mode, Kakori, Lucknow, Uttar Pradesh 226017",
+    "area": "Mode",
+    "latitude": 26.8351041,
+    "longitude": 80.8291995,
+    "place_id": "ChIJ3f4RD77_mzkRyggr1AZxSBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3f4RD77_mzkRyggr1AZxSBc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:51"
+  }
+]

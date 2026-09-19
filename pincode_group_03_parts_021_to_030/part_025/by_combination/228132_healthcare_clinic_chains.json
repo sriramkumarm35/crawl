@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MaxCare Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "228132",
+    "phone_number": "+91 72758 29693",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pyare Patti Rd, near bojhi baba mazar, Pyarepatti, Sultanpur, Uttar Pradesh 228001",
+    "area": "Pyarepatti",
+    "latitude": 26.2531982,
+    "longitude": 82.0833753,
+    "place_id": "ChIJXb-Sfih9mjkRIx6MEhmxqI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXb-Sfih9mjkRIx6MEhmxqI0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:56:51"
+  },
+  {
+    "business_name": "Nidaan health care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "228132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4CGP+P37, Surapur, Taukalpur Nagara, Uttar Pradesh 228161",
+    "area": "228132",
+    "latitude": 26.126856999999998,
+    "longitude": 82.4350982,
+    "place_id": "ChIJR3kyNQBjkDkRQ6q3v3BDsP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3kyNQBjkDkRQ6q3v3BDsP8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:56:53"
+  }
+]

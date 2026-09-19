@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadbhavna medicals",
+    "search_category": "Therapy Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "229206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "5XC8+XMP, Kanpur - Raebareli Rd, Lalganj, Alampur, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.1724663,
+    "longitude": 80.9667146,
+    "place_id": "ChIJnaVbMKSDmzkRs9pYMo4tKAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaVbMKSDmzkRs9pYMo4tKAc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:37"
+  },
+  {
+    "business_name": "Sheshka physiotherapy clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "229206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Acharya Nagar Rd, Lalganj, Suddan Khera, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.1704555,
+    "longitude": 80.9683142,
+    "place_id": "ChIJLbLmoHWDmzkRb2gIa0jemVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbLmoHWDmzkRb2gIa0jemVo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:37"
+  }
+]

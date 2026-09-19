@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anubhav mishra (Home)",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "228151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "C34Q+HJM, Jurapatti, Kurebhar, Ramapur, Uttar Pradesh 228151",
+    "area": "Jurapatti",
+    "latitude": 26.4064502,
+    "longitude": 82.0890558,
+    "place_id": "ChIJpxqvGm1xmjkRsPCH04Tjbak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxqvGm1xmjkRsPCH04Tjbak",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:13"
+  },
+  {
+    "business_name": "Aman Computers Fulauna Chauraha",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Recording studio",
+    "pincode": "228151",
+    "phone_number": "+91 97219 86867",
+    "website": "http://aman.com/",
+    "rating": 3.6,
+    "reviews_count": 25,
+    "address": "Unnamed Road fulauna, chauraha, Gaura, Uttar Pradesh 228151",
+    "area": "chauraha",
+    "latitude": 26.3833812,
+    "longitude": 82.19630049999999,
+    "place_id": "ChIJuSpe3yJ4mjkRH3PxkSzlJa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSpe3yJ4mjkRH3PxkSzlJa0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:13"
+  }
+]

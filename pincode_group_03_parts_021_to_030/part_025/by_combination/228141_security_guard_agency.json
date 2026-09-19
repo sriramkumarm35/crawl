@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TASKMAN SECURITY AGENCY",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Service establishment",
+    "pincode": "228141",
+    "phone_number": "+91 79917 52526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TASKMAN SECURITY AGENCY, 228141, India",
+    "area": "228141",
+    "latitude": 27.1381928,
+    "longitude": 80.8593042,
+    "place_id": "ChIJnWhzU9pKESoRBGO53EcVBKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWhzU9pKESoRBGO53EcVBKM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:51"
+  },
+  {
+    "business_name": "TASKMAN SECURITY AGENCY",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service, Service establishment",
+    "pincode": "228141",
+    "phone_number": "N/A",
+    "website": "https://www.taskmansecurity.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TASKMAN SECURITY AGENCY, 228141, India",
+    "area": "228141",
+    "latitude": 27.81073,
+    "longitude": 79.7641806,
+    "place_id": "ChIJ73vMadaMJCgRjPhQWgHlDBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73vMadaMJCgRjPhQWgHlDBk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:52"
+  }
+]

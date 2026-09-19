@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veer medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "229125",
+    "phone_number": "+91 94522 30498",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "55G7+35V, Purwa Pindor, Uttar Pradesh 229125",
+    "area": "229125",
+    "latitude": 26.175238999999998,
+    "longitude": 81.16292729999999,
+    "place_id": "ChIJcXnqLxafmzkRF9FZAYcbZXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXnqLxafmzkRF9FZAYcbZXw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:49"
+  },
+  {
+    "business_name": "Pradhanmantri Bhartiya Jan Aushadhi Kendra | Ratapur | Raebareli",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Medical supply store",
+    "pincode": "229125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "317 733, Mandi Samiti Road, Ekta Vihar Colony, Ratapur, Raebareli, Uttar Pradesh 229316",
+    "area": "Ekta Vihar Colony, Ratapur",
+    "latitude": 26.2423921,
+    "longitude": 81.24087469999999,
+    "place_id": "ChIJx5PX0f6hmzkRpytOlpaN2yU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5PX0f6hmzkRpytOlpaN2yU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jamali Stationary",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "229204",
+    "phone_number": "+91 88663 80513",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Ramnagar Society, Dahod, Gujarat 389151",
+    "area": "Ramnagar Society",
+    "latitude": 22.8455113,
+    "longitude": 74.2552243,
+    "place_id": "ChIJC784qZkdYTkR2KkGYTsMHoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC784qZkdYTkR2KkGYTsMHoA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:50:20"
+  },
+  {
+    "business_name": "Universal Book Sellers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "229204",
+    "phone_number": "+91 77049 99071",
+    "website": "https://universalbooksellers.com/",
+    "rating": 4.1,
+    "reviews_count": 1510,
+    "address": "Mithaiwala Chaurah, 1, 10, Lohia Path, below Flyover, Vivek Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vivek Khand 2, Gomti Nagar",
+    "latitude": 26.861752799999998,
+    "longitude": 80.99410019999999,
+    "place_id": "ChIJPXxnL8bimzkRAsnzbmg2p-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXxnL8bimzkRAsnzbmg2p-k",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:50:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical Yog Academy",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "229121",
+    "phone_number": "+91 88022 07780",
+    "website": "https://medicalyogacademy.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "554k/49d, near School, Arjun Nagar, Adarsh Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Arjun Nagar, Adarsh Nagar, Alambagh",
+    "latitude": 26.819679999999998,
+    "longitude": 80.9144275,
+    "place_id": "ChIJVz49C6L9mzkR8M00Y5LdglA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz49C6L9mzkR8M00Y5LdglA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:51"
+  },
+  {
+    "business_name": "yoga classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "229121",
+    "phone_number": "+91 95192 13125",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "E1/294, Vinay Khand 3, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vinay Khand 3, Gomti Nagar",
+    "latitude": 26.857378999999998,
+    "longitude": 81.00780069999999,
+    "place_id": "ChIJIavTWAjjmzkRlKv7vIi9KKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIavTWAjjmzkRlKv7vIi9KKE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:51"
+  }
+]

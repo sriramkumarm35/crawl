@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asia Auto Sales Bajaj",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "228151",
+    "phone_number": "+91 93395 64777",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 16,
+    "address": "Phul Pur, Sultanpur, NH-96, Sultnpur Faizabad Road, Kurebhar, Kurebhar, Uttar Pradesh 228151",
+    "area": "228151",
+    "latitude": 26.4214304,
+    "longitude": 82.125055,
+    "place_id": "ChIJ3wzDYsxwmjkRLouvFcUJa3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wzDYsxwmjkRLouvFcUJa3g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:27"
+  },
+  {
+    "business_name": "Aman Auto Sales Honda",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "228151",
+    "phone_number": "+91 99222 56641",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "Phul Pur, Sultanpur, NH-96, Sultnpur Faizabad Road, Kurebhar, Kurebhar, Uttar Pradesh 228151",
+    "area": "228151",
+    "latitude": 26.4175653,
+    "longitude": 82.124775,
+    "place_id": "ChIJX-lyU8pwmjkRPAIZdfkuMcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-lyU8pwmjkRPAIZdfkuMcE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:27"
+  }
+]

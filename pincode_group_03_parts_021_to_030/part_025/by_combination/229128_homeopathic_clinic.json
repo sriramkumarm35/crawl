@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "229128",
+    "phone_number": "+91 80522 23004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1363/18, Mauhari Purwa Road, Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Sri Nagar",
+    "latitude": 26.2132875,
+    "longitude": 81.26823979999999,
+    "place_id": "ChIJkdwVGwCnmzkR50GK4mKbJME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdwVGwCnmzkR50GK4mKbJME",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:37:04"
+  },
+  {
+    "business_name": "Hadi Homoeo Hall",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Homeopathic pharmacy",
+    "pincode": "229128",
+    "phone_number": "+91 85428 16340",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Sri Nagar",
+    "latitude": 26.212584099999997,
+    "longitude": 81.2583902,
+    "place_id": "ChIJh8gYH86mmzkRi18sX5peIkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8gYH86mmzkRi18sX5peIkU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:37:04"
+  }
+]

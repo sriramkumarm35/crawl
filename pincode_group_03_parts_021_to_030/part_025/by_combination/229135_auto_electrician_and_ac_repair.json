@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "229135",
+    "phone_number": "+91 99355 81562",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bachhrawa chauraha, raibareli road, Haidargarh, Uttar Pradesh 225124",
+    "area": "229135",
+    "latitude": 26.6046795,
+    "longitude": 81.3612012,
+    "place_id": "ChIJj4-Kx83JmzkR0B6k7P0jLX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4-Kx83JmzkR0B6k7P0jLX4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:42:43"
+  },
+  {
+    "business_name": "Garuda AS Autowheels",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop",
+    "pincode": "229135",
+    "phone_number": "+91 94500 00520",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 24,
+    "address": "Lucknow, NH731, Chaubeesi, Haidergarh, Uttar Pradesh 225124",
+    "area": "229135",
+    "latitude": 26.5753928,
+    "longitude": 81.4286334,
+    "place_id": "ChIJMRFOm_bLmzkR4i0M7lOypuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRFOm_bLmzkR4i0M7lOypuA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:42:43"
+  }
+]

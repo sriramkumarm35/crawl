@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUKLA TREDARS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229130",
+    "phone_number": "+91 82998 03699",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Ataura Buzurg, Uttar Pradesh 229130",
+    "area": "229130",
+    "latitude": 26.2276907,
+    "longitude": 81.10964419999999,
+    "place_id": "ChIJG9mQlcafmzkRJ3DmcdPyfn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9mQlcafmzkRJ3DmcdPyfn8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:40:56"
+  },
+  {
+    "business_name": "LALJI TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229130",
+    "phone_number": "+91 99367 72827",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raebareli road, Village, Porai, Porae, Uttar Pradesh 229130",
+    "area": "Village",
+    "latitude": 26.264637699999998,
+    "longitude": 81.10915539999999,
+    "place_id": "ChIJC-92BrOZmzkR-opoyxF11GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-92BrOZmzkR-opoyxF11GE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:40:58"
+  }
+]

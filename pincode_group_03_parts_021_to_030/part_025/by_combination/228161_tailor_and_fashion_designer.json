@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nasim Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chowk, hanuman mandir ki gali, Khairabad, Sultanpur, Uttar Pradesh 228001",
+    "area": "Khairabad",
+    "latitude": 26.260208199999997,
+    "longitude": 82.0705803,
+    "place_id": "ChIJZXNm4ud9mjkRHQ-3LAPAYJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXNm4ud9mjkRHQ-3LAPAYJs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:48"
+  },
+  {
+    "business_name": "Guru kirpa tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sadar Bazaar, Sultanpur Lodhi, Punjab 144626",
+    "area": "228161",
+    "latitude": 31.2144509,
+    "longitude": 75.1974706,
+    "place_id": "ChIJsxL1ego9GjkRr0q3wjr8N60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxL1ego9GjkRr0q3wjr8N60",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:49"
+  }
+]

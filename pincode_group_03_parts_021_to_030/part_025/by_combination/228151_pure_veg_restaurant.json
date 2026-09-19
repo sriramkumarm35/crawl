@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chana deen",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "228151",
+    "phone_number": "+91 70816 12020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 42,
+    "address": "Vikas Bhavan Rd, Civil Line, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line",
+    "latitude": 26.262532399999998,
+    "longitude": 82.0747624,
+    "place_id": "ChIJlyy98kB9mjkR9Al7A-TClQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyy98kB9mjkR9Al7A-TClQo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:05:59"
+  },
+  {
+    "business_name": "Hungry Heart Kitchen",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "228151",
+    "phone_number": "+91 95400 98901",
+    "website": "https://hungryheartkitchen.com/",
+    "rating": 4.9,
+    "reviews_count": 71,
+    "address": "31-B/270, West Rajiv Nagar, Sector 12, Gurugram, Haryana 122001",
+    "area": "West Rajiv Nagar, Sector 12",
+    "latitude": 28.476084099999998,
+    "longitude": 77.0342934,
+    "place_id": "ChIJ0znmbdMZDTkRqiCHPLaxkoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0znmbdMZDTkRqiCHPLaxkoY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "228132",
+    "phone_number": "+91 81271 23123",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sultanpur Flyover, Gabhariya, Mahuariya, Sultanpur, Uttar Pradesh 228001",
+    "area": "Gabhariya, Mahuariya",
+    "latitude": 26.256406199999997,
+    "longitude": 82.06272229999999,
+    "place_id": "ChIJKTPsEwB9mjkRrinKYyMmRZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTPsEwB9mjkRrinKYyMmRZo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:57:00"
+  },
+  {
+    "business_name": "Car/Taxi Rental Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "228132",
+    "phone_number": "+91 90160 70454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Car/Taxi Rental Service, 228132, India",
+    "area": "228132",
+    "latitude": 25.9065951,
+    "longitude": 87.8262439,
+    "place_id": "ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:57:01"
+  }
+]

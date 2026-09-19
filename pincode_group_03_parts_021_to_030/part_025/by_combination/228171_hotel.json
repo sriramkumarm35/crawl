@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Grand Shehnai",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "228171",
+    "phone_number": "+91 97922 62083",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Belwai - Pawai Road, near Ambedkar Park, Rampur Kalan, Uttar Pradesh 276288",
+    "area": "228171",
+    "latitude": 26.1768684,
+    "longitude": 82.70787969999999,
+    "place_id": "ChIJcwb7QvFZkDkR07upcr8z3EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwb7QvFZkDkR07upcr8z3EU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:14:26"
+  },
+  {
+    "business_name": "Vijay Bahadur Tiwari Ji(Hotel Manager &Cater)",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "228171",
+    "phone_number": "+91 73767 62438",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 15,
+    "address": "Unurkha, Uttar Pradesh 228171",
+    "area": "228171",
+    "latitude": 26.1530851,
+    "longitude": 82.5434822,
+    "place_id": "ChIJnUH9UL5gkDkR9eEO94IfOEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUH9UL5gkDkR9eEO94IfOEU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:14:28"
+  }
+]

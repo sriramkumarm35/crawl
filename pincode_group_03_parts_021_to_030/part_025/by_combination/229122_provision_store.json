@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JYOTI DEVI",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229122",
+    "phone_number": "+91 73093 10045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Post Office, Lalganj Road, Gurbuxganj, Onai Paharpur, Uttar Pradesh 229122",
+    "area": "229122",
+    "latitude": 26.2988167,
+    "longitude": 81.0256716,
+    "place_id": "ChIJoeMh0I-bmzkR-US-N4cg4cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoeMh0I-bmzkR-US-N4cg4cc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:02"
+  },
+  {
+    "business_name": "Abhishek general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229122",
+    "phone_number": "+91 97939 14432",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "935P+496, Sarai Umar, Uttar Pradesh 229303",
+    "area": "229122",
+    "latitude": 26.3577956,
+    "longitude": 81.0859091,
+    "place_id": "ChIJA4vbMQCXmzkRiQoiXauGhtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4vbMQCXmzkRiQoiXauGhtc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:03"
+  }
+]

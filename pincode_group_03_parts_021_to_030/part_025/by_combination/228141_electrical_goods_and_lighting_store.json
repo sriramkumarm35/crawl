@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Electronic & Repair Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "228141",
+    "phone_number": "+91 96488 27876",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chauraha, Muili, Jaisinghpur, Uttar Pradesh 228141",
+    "area": "Chauraha",
+    "latitude": 26.3125158,
+    "longitude": 82.2467826,
+    "place_id": "ChIJEabu3gCDkDkR6d2BQyYD73c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEabu3gCDkDkR6d2BQyYD73c",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:06"
+  },
+  {
+    "business_name": "AJAZ ELECTRICAL",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "228141",
+    "phone_number": "+91 97952 35050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khairabad, Sultanpur, Uttar Pradesh 228001",
+    "area": "Khairabad",
+    "latitude": 26.259221999999998,
+    "longitude": 82.06843529999999,
+    "place_id": "ChIJg9LQ_sR9mjkRDkirzkehHXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9LQ_sR9mjkRDkirzkehHXs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:01:07"
+  }
+]

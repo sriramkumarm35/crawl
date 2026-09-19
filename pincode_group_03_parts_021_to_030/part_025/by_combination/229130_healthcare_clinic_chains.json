@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healthcare Polyclinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Neurophysiologist",
+    "all_categories": "Neurophysiologist, Physiotherapy Center",
+    "pincode": "229130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "beside Panchayat bhawan, Parsauna Rd, Situl Khurd, Madhya Pradesh 486886",
+    "area": "229130",
+    "latitude": 24.0112666,
+    "longitude": 82.5233709,
+    "place_id": "ChIJM0vQSS1LjzkRhcnzTiOBFlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0vQSS1LjzkRhcnzTiOBFlI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:40:48"
+  },
+  {
+    "business_name": "Life Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "229130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kutbe Alam Nagar, Saiyedwadi, Vatva, Ahmedabad, Gujarat 382445",
+    "area": "Kutbe Alam Nagar, Saiyedwadi, Vatva",
+    "latitude": 22.9646524,
+    "longitude": 72.61607479999999,
+    "place_id": "ChIJ2_DaRK2IXjkREu87nEjTNfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_DaRK2IXjkREu87nEjTNfc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:40:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ezee Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "229128",
+    "phone_number": "+91 99352 01079",
+    "website": "https://eezeechicken.com/",
+    "rating": 4.1,
+    "reviews_count": 52,
+    "address": "Shop No 11, 12, Vijay Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Vijay Nagar, Shastri Nagar",
+    "latitude": 26.462237899999998,
+    "longitude": 80.2937884,
+    "place_id": "ChIJt85Yyws4nDkRzuEC1Sjw-cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt85Yyws4nDkRzuEC1Sjw-cc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:45"
+  },
+  {
+    "business_name": "Deeh",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "229128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 9,
+    "address": "49VX+MW8, Dela, Uttar Pradesh 229310",
+    "area": "229128",
+    "latitude": 26.1441728,
+    "longitude": 81.3998163,
+    "place_id": "ChIJE5k1ZDkHmzkRAZwiy1X-I-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5k1ZDkHmzkRAZwiy1X-I-Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Humsafar cab service travels and taxi services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Travel agency",
+    "pincode": "229128",
+    "phone_number": "+91 80523 33300",
+    "website": "http://www.humsafarcabservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "568, Kailashpuri, 154, Gali No 10, near Neelkanth Temple, Barha, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Barha, Alambagh",
+    "latitude": 26.813554099999998,
+    "longitude": 80.9160594,
+    "place_id": "ChIJ8T24I979mzkRWXBd_lTM_z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8T24I979mzkRWXBd_lTM_z0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:37:23"
+  },
+  {
+    "business_name": "Taxi Rental Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Airport Shuttle Service Provider, Car leasing service, Taxi service, Minibus taxi service",
+    "pincode": "229128",
+    "phone_number": "+91 80909 15556",
+    "website": "https://www.taxilucknow.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "kamta chauraha, Avadh bus stop, Plot number-9, Ismailganj, Gomti Nagar, Lucknow, Uttar Pradesh 226028",
+    "area": "Ismailganj, Gomti Nagar",
+    "latitude": 26.874919199999997,
+    "longitude": 81.0137252,
+    "place_id": "ChIJT51NDdvjmzkR-BWEBKavKkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT51NDdvjmzkR-BWEBKavKkY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:37:23"
+  }
+]

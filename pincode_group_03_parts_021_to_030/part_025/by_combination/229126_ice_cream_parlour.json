@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanhaiya ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "229126",
+    "phone_number": "+91 81088 73114",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Alalipur Road, Kotwa, Uttar Pradesh 229306",
+    "area": "229126",
+    "latitude": 26.3637916,
+    "longitude": 81.4113916,
+    "place_id": "ChIJq6qqqsWxmzkRNbpr_6qv2DA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqsWxmzkRNbpr_6qv2DA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:33:19"
+  },
+  {
+    "business_name": "Ice Cream Parlor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream equipment supplier",
+    "all_categories": "Ice cream equipment supplier, Service establishment",
+    "pincode": "229126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Ice Cream Parlor, 229126, India",
+    "area": "229126",
+    "latitude": 22.5406546,
+    "longitude": 72.723997,
+    "place_id": "ChIJvfXLDulXXjkR__pLwliKbO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfXLDulXXjkR__pLwliKbO8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:33:21"
+  }
+]

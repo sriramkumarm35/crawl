@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shakti Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "229122",
+    "phone_number": "+91 89482 71374",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nigohan, Raibareli Rd, Lucknow, Uttar Pradesh 226302",
+    "area": "229122",
+    "latitude": 26.567254499999997,
+    "longitude": 81.0369456,
+    "place_id": "ChIJechlU6ftmzkRhXICEIQI6rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJechlU6ftmzkRhXICEIQI6rw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:25"
+  },
+  {
+    "business_name": "Rajendra Medical Center",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "229122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7XXF+F5V, Khiron, road, Bhitar Gaon, Uttar Pradesh 229205",
+    "area": "229122",
+    "latitude": 26.2987266,
+    "longitude": 80.9729198,
+    "place_id": "ChIJx6eikYyFmzkRTkkMa92HkuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6eikYyFmzkRTkkMa92HkuQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:27"
+  }
+]

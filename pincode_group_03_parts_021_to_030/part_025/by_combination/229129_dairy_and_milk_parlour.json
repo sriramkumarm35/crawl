@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam DAIRY",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "229129",
+    "phone_number": "+91 63069 56252",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Unnamed Road, Tiloi, Uttar Pradesh 229309",
+    "area": "229129",
+    "latitude": 26.3937498,
+    "longitude": 81.4730503,
+    "place_id": "ChIJ9-hrRnmzmzkRaCFHcpXzfek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-hrRnmzmzkRaCFHcpXzfek",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:31"
+  },
+  {
+    "business_name": "Satyam dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "229129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9FP7+5PX, Sangipur, Devkali, Uttar Pradesh 229309",
+    "area": "229129",
+    "latitude": 26.385485,
+    "longitude": 81.4643613,
+    "place_id": "ChIJjQwmcwCzmzkRMA8oqDq-w24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQwmcwCzmzkRMA8oqDq-w24",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:31"
+  }
+]

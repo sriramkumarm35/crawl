@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Frozen Foods Lucknow",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "229128",
+    "phone_number": "+91 73799 89999",
+    "website": "https://www.palfrozenfoods.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot Number 175 and 176 Allu Nagar Diguria, Hardoi Bypass Road, near IIM Road, Chauraha, Madiyanva, Lucknow, Uttar Pradesh 226013",
+    "area": "Chauraha, Madiyanva",
+    "latitude": 26.9306679,
+    "longitude": 80.9077787,
+    "place_id": "ChIJ57sZGvD_mzkRZxQxdlW5ovs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57sZGvD_mzkRZxQxdlW5ovs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:47"
+  },
+  {
+    "business_name": "Deshraj Kushwaha",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229128",
+    "phone_number": "+91 62664 50226",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Darguwan, Raebareli, Uttar Pradesh 229001",
+    "area": "229128",
+    "latitude": 26.192572499999997,
+    "longitude": 81.2268373,
+    "place_id": "ChIJtSgILEyhmzkRHX7HgQ_3-bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSgILEyhmzkRHX7HgQ_3-bo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:48"
+  }
+]

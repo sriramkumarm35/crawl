@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ApnaStaff.com",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpenter, Child care agency, Cleaning Services, Electrical repair shop, House sitter, Plumber, Plumbing supply store, Water Tank Cleaners",
+    "pincode": "229124",
+    "phone_number": "+91 78999 23500",
+    "website": "https://www.apnastaff.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "73, Chetana Colony, Shirur Park, Vidya Nagar, Hubballi, Karnataka 580030",
+    "area": "Shirur Park, Vidya Nagar",
+    "latitude": 15.3614576,
+    "longitude": 75.1214681,
+    "place_id": "ChIJV1VVAS7XuDsRvIBED78Z3B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1VVAS7XuDsRvIBED78Z3B0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:57"
+  },
+  {
+    "business_name": "Shrisha cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Pool cleaning service, Tile cleaning service, Upholstery cleaning service, Water Tank Cleaners, Window cleaning service",
+    "pincode": "229124",
+    "phone_number": "+91 84599 43140",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "chowk road, Sangli, Vishrambag, Sangli Miraj Kupwad, Maharashtra 416415",
+    "area": "Sangli, Vishrambag",
+    "latitude": 16.848433999999997,
+    "longitude": 74.5961386,
+    "place_id": "ChIJwcg3i88jwTsRrKHyuhkwMxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcg3i88jwTsRrKHyuhkwMxY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Resort",
+    "search_category": "Resort",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "229126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 48,
+    "address": "FCRX+HQ7, Ahorwa Bhwani, Uttar Pradesh 229135",
+    "area": "229126",
+    "latitude": 26.491400799999997,
+    "longitude": 81.4494352,
+    "place_id": "ChIJbfwdMgC1mzkR6-vu3HScr7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfwdMgC1mzkR6-vu3HScr7w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:34:09"
+  },
+  {
+    "business_name": "Restwell Holidays Club & Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "229126",
+    "phone_number": "+91 82697 20899",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "C-48, Iznaa Tower, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8631165,
+    "longitude": 80.9977196,
+    "place_id": "ChIJMTesDKP9mzkR46a6tOhw5XM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTesDKP9mzkR46a6tOhw5XM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:34:12"
+  }
+]

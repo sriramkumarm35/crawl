@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KK Pet care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "229121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6364+VMQ, Unnao - Raebareli Rd, Madhukarpur, Uttar Pradesh 229121",
+    "area": "229121",
+    "latitude": 26.2122289,
+    "longitude": 81.0568852,
+    "place_id": "ChIJvbRlAQCdmzkRbOVgIBXxB6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbRlAQCdmzkRbOVgIBXxB6c",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:23"
+  },
+  {
+    "business_name": "Mad Hunter Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "229121",
+    "phone_number": "+91 96702 53255",
+    "website": "https://www.facebook.com/Mad-Hunter-aquarium-274487742722896",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Avas Vikas-1, Keshavpuram, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Keshavpuram, Kalyanpur",
+    "latitude": 26.492191899999998,
+    "longitude": 80.2579203,
+    "place_id": "ChIJNQ6jKZQ3nDkRT2yylnTbBX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQ6jKZQ3nDkRT2yylnTbBX0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:24"
+  }
+]

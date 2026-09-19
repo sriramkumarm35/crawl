@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Auto Garage Lalganj",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop",
+    "pincode": "229203",
+    "phone_number": "+91 99350 40646",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Shammi Auto Parts, Lalganj, Datauli Lal Ganj, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.161196999999998,
+    "longitude": 80.9691497,
+    "place_id": "ChIJm5yS6wGDmzkRISEehcokLlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5yS6wGDmzkRISEehcokLlk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:54"
+  },
+  {
+    "business_name": "Pikpart smart garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "229203",
+    "phone_number": "+91 70545 18868",
+    "website": "http://www.mysmartgarage.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ke bagal me, maurya nagar sabji Mandi, By pass road, near Sabji mandi, near Tata motors, Lalganj, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.166397399999997,
+    "longitude": 80.9737373,
+    "place_id": "ChIJQdQ6JxyDmzkRjLQgnLUVNUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdQ6JxyDmzkRjLQgnLUVNUk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:47:54"
+  }
+]

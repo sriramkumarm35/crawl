@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay Financial Services",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance agency, Insurance broker, Investment service, Financial planner",
+    "pincode": "228171",
+    "phone_number": "+91 94997 56942",
+    "website": "https://shivayfinancial.com/",
+    "rating": 4.9,
+    "reviews_count": 185,
+    "address": "5th, Shyam, Raiya Rd, near Ambika Park Society, Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar, Rajkot, Gujarat 360007",
+    "area": "Hanuman Madhi Chowk, Nagrik Bank Society, Gulab Nagar",
+    "latitude": 22.299723399999998,
+    "longitude": 70.7771116,
+    "place_id": "ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ3GRf3JWTkRvtfnKDlhnBU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:14:51"
+  },
+  {
+    "business_name": "Fair Intermediate Investment",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "228171",
+    "phone_number": "+91 522 405 2806",
+    "website": "http://www.fairinvest.co.in/",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Shukla Palace, 2nd Floor Sukla Palace, Sapru Marg, Prem Nagar, Civil Lines, Lucknow, Uttar Pradesh 226001",
+    "area": "Prem Nagar, Civil Lines",
+    "latitude": 26.8528468,
+    "longitude": 80.9487769,
+    "place_id": "ChIJReOGsQ79mzkRkWbIwLqJLv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReOGsQ79mzkRkWbIwLqJLv8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:14:51"
+  }
+]

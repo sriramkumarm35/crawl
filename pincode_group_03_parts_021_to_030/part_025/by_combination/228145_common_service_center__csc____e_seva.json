@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "228145",
+    "phone_number": "+91 90847 40900",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 12,
+    "address": "near Water Tank, Ghitorni, New Delhi, Delhi 110030",
+    "area": "Ghitorni",
+    "latitude": 28.493980099999998,
+    "longitude": 77.14384059999999,
+    "place_id": "ChIJDSWXK7ofDTkRMS_3kCwDDq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSWXK7ofDTkRMS_3kCwDDq8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:05:19"
+  },
+  {
+    "business_name": "SK communication",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "E - Commerce Agency",
+    "all_categories": "E - Commerce Agency, Internet cafe",
+    "pincode": "228145",
+    "phone_number": "+91 79828 09215",
+    "website": "https://common-service-373768.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "H, NO 1903/4, opposite MADAN AATA CHAKI, Rajiv Nagar, Sector 13, Gurugram, Haryana 122001",
+    "area": "Rajiv Nagar, Sector 13",
+    "latitude": 28.4757628,
+    "longitude": 77.0367435,
+    "place_id": "ChIJeT717bYZDTkRyMfSL0knKeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeT717bYZDTkRyMfSL0knKeE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:05:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "229125",
+    "phone_number": "+91 91984 64168",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rasoolpur dharavan, Dalmau, Kadha Chak Sagunpur, Uttar Pradesh 229207",
+    "area": "229125",
+    "latitude": 26.0245096,
+    "longitude": 81.09447759999999,
+    "place_id": "ChIJE-NbfFxzmzkRQSs5HZ1exxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-NbfFxzmzkRQSs5HZ1exxI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:56"
+  },
+  {
+    "business_name": "Jagelal General Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "229125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Kandharpur, Uttar Pradesh 229207",
+    "area": "229125",
+    "latitude": 26.073028899999997,
+    "longitude": 81.0890598,
+    "place_id": "ChIJVcVGHUB1mzkRit1wstdXv6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcVGHUB1mzkRit1wstdXv6s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:31:58"
+  }
+]

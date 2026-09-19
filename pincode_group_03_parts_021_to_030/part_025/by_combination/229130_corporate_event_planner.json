@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventina",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "229130",
+    "phone_number": "+91 99599 99182",
+    "website": "http://eventina.com/",
+    "rating": 5,
+    "reviews_count": 1494,
+    "address": "105, Divyashakti Appartments, Begumpet, Hyderabad, Telangana 500016",
+    "area": "Divyashakti Appartments, Begumpet",
+    "latitude": 17.436812,
+    "longitude": 78.45245039999999,
+    "place_id": "ChIJzz6iTcSRyzsROSyrlRNM7yU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzz6iTcSRyzsROSyrlRNM7yU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:41:21"
+  },
+  {
+    "business_name": "Srushti Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner, Event venue, Wedding planner",
+    "pincode": "229130",
+    "phone_number": "+91 80083 33393",
+    "website": "http://www.srushtievents.com/",
+    "rating": 4.8,
+    "reviews_count": 157,
+    "address": "# 33-26-10A, Kasturibaipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Kasturibaipet",
+    "latitude": 16.510818399999998,
+    "longitude": 80.63890649999999,
+    "place_id": "ChIJyYRY0QHwNToRXjmNRX2LRx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYRY0QHwNToRXjmNRX2LRx0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:41:21"
+  }
+]

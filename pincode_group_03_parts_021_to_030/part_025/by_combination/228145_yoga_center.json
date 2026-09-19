@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Yog Shala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Yoga instructor",
+    "pincode": "228145",
+    "phone_number": "N/A",
+    "website": "http://www.govindyogshala.com/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "19 SCF 2nd Floor Saheed Bhagat Singh Nagar ( SBS Nagar, E Block, Main market, Ludhiana, Punjab 141001",
+    "area": "E Block, Main market",
+    "latitude": 30.8804946,
+    "longitude": 75.81394759999999,
+    "place_id": "ChIJB8ydduyDGjkRT-_o20Fkx2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8ydduyDGjkRT-_o20Fkx2s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:35"
+  },
+  {
+    "business_name": "Pragya Yogshala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center, Yoga studio",
+    "pincode": "228145",
+    "phone_number": "+91 89205 09153",
+    "website": "https://pragyayogshala.in/",
+    "rating": 5,
+    "reviews_count": 154,
+    "address": "185 A, opposite mother dairy, New Colony, Sector 7, Gurugram, Haryana 122001",
+    "area": "New Colony, Sector 7",
+    "latitude": 28.464618899999998,
+    "longitude": 77.0148797,
+    "place_id": "ChIJt6YDumMZDTkRzzc3cpoMaiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6YDumMZDTkRzzc3cpoMaiw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:35"
+  }
+]

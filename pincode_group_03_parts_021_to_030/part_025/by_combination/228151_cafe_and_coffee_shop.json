@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yor's Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "228151",
+    "phone_number": "+91 63871 04389",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "P, Sultanpur, Kabari, Uttar Pradesh 228118",
+    "area": "228151",
+    "latitude": 26.306281499999997,
+    "longitude": 82.0882821,
+    "place_id": "ChIJgx6eCeV9mjkR63fDghjZNH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgx6eCeV9mjkR63fDghjZNH8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:05"
+  },
+  {
+    "business_name": "Barista - Gallery On MG",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Breakfast restaurant, Cafe, Dessert shop, Diner, Fast food restaurant",
+    "pincode": "228151",
+    "phone_number": "+91 93193 92273",
+    "website": "http://barista.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Metro Station Gate, Mehrauli-Gurgaon Rd, near Sultanpur, New Manglapuri, Sultanpur, New Delhi, Delhi 110030",
+    "area": "New Manglapuri, Sultanpur",
+    "latitude": 28.5009737,
+    "longitude": 77.1662211,
+    "place_id": "ChIJRbVqgkEeDTkRuyflm5zu-8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbVqgkEeDTkRuyflm5zu-8E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:06:06"
+  }
+]

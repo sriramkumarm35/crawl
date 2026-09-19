@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sumit Book Depot & mobile center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Outdoor sports store",
+    "pincode": "228151",
+    "phone_number": "+91 90059 17797",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sudnapur Chauraha, Uttar Pradesh 228151",
+    "area": "228151",
+    "latitude": 26.355074899999998,
+    "longitude": 82.1531267,
+    "place_id": "ChIJFUfNvoF5mjkR70DVu8_LW2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUfNvoF5mjkR70DVu8_LW2Q",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:07"
+  },
+  {
+    "business_name": "BOOK STALL",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "228151",
+    "phone_number": "+91 63936 11863",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "PLATFORM NO 1, Railway Station Rd, Majar Ganj, Sultanpur, Uttar Pradesh 228001",
+    "area": "Majar Ganj",
+    "latitude": 26.2646891,
+    "longitude": 82.0670662,
+    "place_id": "ChIJJy67t5J9mjkROl_v854H2Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy67t5J9mjkROl_v854H2Io",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:08"
+  }
+]

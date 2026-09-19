@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAPPU CHAI SHOP",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "229128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Salon, Salon Bazar, Uttar Pradesh 229127",
+    "area": "229128",
+    "latitude": 26.0289401,
+    "longitude": 81.4483595,
+    "place_id": "ChIJE50ZP58DmzkRQ31-9d7BS_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE50ZP58DmzkRQ31-9d7BS_k",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:52"
+  },
+  {
+    "business_name": "Hotal And Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "229128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Unnamed Road, Sanda Saidan, Uttar Pradesh 229127",
+    "area": "229128",
+    "latitude": 26.0392592,
+    "longitude": 81.471366,
+    "place_id": "ChIJR6_-bkkDmzkR9osf2ONxtfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6_-bkkDmzkR9osf2ONxtfE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:36:52"
+  }
+]

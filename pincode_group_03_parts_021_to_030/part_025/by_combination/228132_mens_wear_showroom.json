@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "General Store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, General store",
+    "pincode": "228132",
+    "phone_number": "+91 80818 69533",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shahgarh, Dhopap, Uttar Pradesh 222302",
+    "area": "228132",
+    "latitude": 26.182635899999998,
+    "longitude": 82.2679496,
+    "place_id": "ChIJf3Ipvoh_kDkR2gcDXc2J8xU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3Ipvoh_kDkR2gcDXc2J8xU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:56:30"
+  },
+  {
+    "business_name": "KK. Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "228132",
+    "phone_number": "+91 93050 93735",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Barausa, Sultanpur, Uttar Pradesh 228120",
+    "area": "228132",
+    "latitude": 26.2525375,
+    "longitude": 82.22752369999999,
+    "place_id": "ChIJO21zhTqBkDkRiC-avn_rwaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO21zhTqBkDkRiC-avn_rwaY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 05:56:32"
+  }
+]

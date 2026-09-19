@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shatabdi Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "229202",
+    "phone_number": "+91 88875 06839",
+    "website": "http://www.shatabditavel.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "39-B, Kalpi Rd, near Railway Crossing, Panki Padaw, Panki, Kanpur, Uttar Pradesh 208020",
+    "area": "Panki Padaw, Panki",
+    "latitude": 26.4601914,
+    "longitude": 80.224811,
+    "place_id": "ChIJ-9Ps2ZlJnDkRYnxrIGfMeYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9Ps2ZlJnDkRYnxrIGfMeYo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:16"
+  },
+  {
+    "business_name": "Fouji travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "229202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "sanata dharm mandir, 27A, VIP Rd, Singar Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Singar Nagar, Alambagh",
+    "latitude": 26.8028095,
+    "longitude": 80.89463769999999,
+    "place_id": "ChIJ5-N0LbL_mzkRWHZreUuROt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-N0LbL_mzkRWHZreUuROt0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:17"
+  }
+]

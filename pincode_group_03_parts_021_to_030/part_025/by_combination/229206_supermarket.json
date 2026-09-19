@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHANDAN GENERAL STORE",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "5262+6HP, Sohawal, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.1606493,
+    "longitude": 81.00183559999999,
+    "place_id": "ChIJzyByaFqdmzkRBxlayatmvJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyByaFqdmzkRBxlayatmvJs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:52:38"
+  },
+  {
+    "business_name": "Annu milk dairy",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "229206",
+    "phone_number": "+91 94532 50821",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Kanpur - Raebareli Rd, Lalganj, Alampur, Uttar Pradesh 229206",
+    "area": "229206",
+    "latitude": 26.1726285,
+    "longitude": 80.9673631,
+    "place_id": "ChIJY8DBcgCDmzkRTo80HwXcTOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8DBcgCDmzkRTo80HwXcTOs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:52:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Dhaba And Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "296C+7HM, NH731, Sonpura, Uttar Pradesh 230121",
+    "area": "228161",
+    "latitude": 26.0107227,
+    "longitude": 82.3714107,
+    "place_id": "ChIJBUgIWiJxkDkRwIesKS-0VKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUgIWiJxkDkRwIesKS-0VKk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:40"
+  },
+  {
+    "business_name": "Bashi dhaba sultanpur road",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "7XPC+652, Sultanpur, Uttar Pradesh 227808",
+    "area": "228161",
+    "latitude": 26.2855223,
+    "longitude": 81.9703821,
+    "place_id": "ChIJdxlUtQ5jmjkRD6SijC6wzQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxlUtQ5jmjkRD6SijC6wzQk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:43"
+  }
+]

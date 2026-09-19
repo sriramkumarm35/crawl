@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheeba seewing machine",
+    "search_category": "Tradeshows",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "228141",
+    "phone_number": "+91 80049 66373",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 19,
+    "address": "736C+73G, Civil Line Number 2, Sultanpur, Uttar Pradesh 228001",
+    "area": "Civil Line Number 2",
+    "latitude": 26.2606824,
+    "longitude": 82.07021,
+    "place_id": "ChIJI7AQc-98mjkReSEpSwOnFig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7AQc-98mjkReSEpSwOnFig",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:02:03"
+  },
+  {
+    "business_name": "Super Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Tradeshows",
+    "all_categories": "Tradeshows",
+    "pincode": "228141",
+    "phone_number": "+91 88749 11111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "734C+9P7, Old NH-96, Dadupur, Sultanpur, Uttar Pradesh 228001",
+    "area": "Dadupur",
+    "latitude": 26.255918899999998,
+    "longitude": 82.0718065,
+    "place_id": "ChIJX0RZ5uR8mjkRYzhHz0G9F0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0RZ5uR8mjkRYzhHz0G9F0M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:02:03"
+  }
+]

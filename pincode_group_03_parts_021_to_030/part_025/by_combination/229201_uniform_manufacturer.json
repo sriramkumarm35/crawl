@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vastra Mahal",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, School supply store",
+    "pincode": "229201",
+    "phone_number": "+91 63983 83303",
+    "website": "http://www.vastramahal.in/",
+    "rating": 4.8,
+    "reviews_count": 2262,
+    "address": "A41, Priyadarshini Nagar, Rajendra Nagar, Bareilly, Uttar Pradesh 243122",
+    "area": "Priyadarshini Nagar, Rajendra Nagar",
+    "latitude": 28.3792351,
+    "longitude": 79.4287726,
+    "place_id": "ChIJiyQq8-AGoDkR2xbchVIa8kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyQq8-AGoDkR2xbchVIa8kk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:11"
+  },
+  {
+    "business_name": "Payal garment and kashish sari shop",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing wholesaler",
+    "pincode": "229201",
+    "phone_number": "+91 94535 89912",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Gautam Chauraha thana road sareni, Lalganj Road, Sareni, Uttar Pradesh 229212",
+    "area": "229201",
+    "latitude": 26.1582968,
+    "longitude": 80.8280351,
+    "place_id": "ChIJG-v6rOSBmzkRAXMgzPX-16o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-v6rOSBmzkRAXMgzPX-16o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:13"
+  }
+]

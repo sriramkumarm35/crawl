@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chacha Chay Stall",
+    "search_category": "Spa",
+    "primary_category": "Wellness hotel",
+    "all_categories": "Wellness hotel",
+    "pincode": "229206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "4W39+3WR, Peer Alipur, Lalganj, Lalu Mau, Uttar Pradesh 229206",
+    "area": "Peer Alipur",
+    "latitude": 26.102728799999998,
+    "longitude": 80.91975529999999,
+    "place_id": "ChIJ0VIDFAN5mzkRW4EOk7nYmtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VIDFAN5mzkRW4EOk7nYmtU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:33"
+  },
+  {
+    "business_name": "ISHANI HERBAL",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "229206",
+    "phone_number": "+91 97920 07098",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "118, Acharya Nagar, Lalganj, Suddan Khera, Uttar Pradesh 229206",
+    "area": "Acharya Nagar",
+    "latitude": 26.1703869,
+    "longitude": 80.96684049999999,
+    "place_id": "ChIJlTznEAODmzkRbWveK36BmgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTznEAODmzkRbWveK36BmgU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:53:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prajapati Computers Suchi",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Cafe",
+    "pincode": "229128",
+    "phone_number": "+91 81278 57077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaiswal Market Suchi, Pratapgarh - Raebareli Rd, Salon, Raebareli, Uttar Pradesh 229128",
+    "area": "229128",
+    "latitude": 26.083046,
+    "longitude": 81.3634718,
+    "place_id": "ChIJWZh5BRIHmzkRyMbybVmRWXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZh5BRIHmzkRyMbybVmRWXY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:02"
+  },
+  {
+    "business_name": "Rishu Computer Center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "229128",
+    "phone_number": "+91 88589 03602",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "012, Raebareli, Uttar Pradesh 229001",
+    "area": "Krishna Nagar, Sri Nagar",
+    "latitude": 26.2141448,
+    "longitude": 81.2529217,
+    "place_id": "ChIJiXrM74unmzkRgXilcN_TRLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXrM74unmzkRgXilcN_TRLs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:38:02"
+  }
+]

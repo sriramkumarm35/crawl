@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dubey Car Baazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "228159",
+    "phone_number": "+91 95654 24046",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Durgapur, Durga Pur, Uttar Pradesh 227304",
+    "area": "228159",
+    "latitude": 26.1389118,
+    "longitude": 82.0490267,
+    "place_id": "ChIJH6bHLDeHmjkR-lX5hUdjGnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6bHLDeHmjkR-lX5hUdjGnQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:16"
+  },
+  {
+    "business_name": "Beeaar Miles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer, Hyundai dealer",
+    "pincode": "228159",
+    "phone_number": "+91 75675 67784",
+    "website": "https://beeaar.hyundaimotor.in/",
+    "rating": 4.7,
+    "reviews_count": 123,
+    "address": "Qaisar Officer's Colony, 2, Capper Rd, near Nishat Hospital, DM Compound Colony, Kaiserbagh Officer's Colony, Kaiser Bagh, Lucknow, Uttar Pradesh 226001",
+    "area": "DM Compound Colony, Kaiserbagh Officer's Colony, Kaiser Bagh",
+    "latitude": 26.850780099999998,
+    "longitude": 80.937457,
+    "place_id": "ChIJMZ9GrDT9mzkRX0aor-2ZYwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZ9GrDT9mzkRX0aor-2ZYwo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Traders",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "228142",
+    "phone_number": "+91 94150 46367",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "Laxmanpur, Sultanpur, Uttar Pradesh 228001",
+    "area": "Laxmanpur",
+    "latitude": 26.2415366,
+    "longitude": 82.0644646,
+    "place_id": "ChIJJdW9Mh99mjkRzz7UCVcAUME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdW9Mh99mjkRzz7UCVcAUME",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:02:48"
+  },
+  {
+    "business_name": "Yadav Tyre Servicing",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "228142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9862+W87, Mahmud Pur Semari Bazar, Uttar Pradesh 228142",
+    "area": "228142",
+    "latitude": 26.362293299999997,
+    "longitude": 82.3007992,
+    "place_id": "ChIJQc3pm32DkDkR_XemnlCydqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQc3pm32DkDkR_XemnlCydqg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:02:48"
+  }
+]

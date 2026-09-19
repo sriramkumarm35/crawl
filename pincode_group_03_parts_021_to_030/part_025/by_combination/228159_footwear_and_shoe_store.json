@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arif Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "228159",
+    "phone_number": "+91 88082 57889",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "12, Sultanpur, Attarsand, Uttar Pradesh 222302",
+    "area": "228159",
+    "latitude": 26.04621,
+    "longitude": 82.10039859999999,
+    "place_id": "ChIJq1EK5BuFmjkRzVme3gaDP7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1EK5BuFmjkRzVme3gaDP7k",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:00"
+  },
+  {
+    "business_name": "Maurya Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "228159",
+    "phone_number": "+91 88963 23759",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mod, near Kandharpur, Kohandaur, Uttar Pradesh 230401",
+    "area": "228159",
+    "latitude": 26.040948399999998,
+    "longitude": 82.0248471,
+    "place_id": "ChIJd-bpDnWPmjkRV1iePrGC_PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-bpDnWPmjkRV1iePrGC_PQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:00"
+  }
+]

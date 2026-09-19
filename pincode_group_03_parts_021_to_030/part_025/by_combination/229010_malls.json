@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World Trade Park",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Business center",
+    "pincode": "229010",
+    "phone_number": "+91 141 272 8044",
+    "website": "http://www.wtpjaipur.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Jawahar Lal Nehru Marg, D-Block, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "D-Block, Malviya Nagar",
+    "latitude": 26.8529889,
+    "longitude": 75.80486909999999,
+    "place_id": "ChIJz2S0q9C1bTkRr_3JFqQKREM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2S0q9C1bTkRr_3JFqQKREM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:20:38"
+  },
+  {
+    "business_name": "Balaji Enterprises (Patanjali Store)",
+    "search_category": "Malls",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "229010",
+    "phone_number": "+91 94520 40144",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "RDA Complex, Awas Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Awas Vikas Colony, Indira Nagar",
+    "latitude": 26.2148452,
+    "longitude": 81.2407829,
+    "place_id": "ChIJAQDAdzqhmzkR4M8nsjsw4uU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDAdzqhmzkR4M8nsjsw4uU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:20:40"
+  }
+]

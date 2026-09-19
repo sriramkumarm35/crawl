@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homely Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning service",
+    "pincode": "229129",
+    "phone_number": "+91 90368 53501",
+    "website": "https://www.homelysolutions.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "#182, 2, Koorgally, Karnataka 570018",
+    "area": "229129",
+    "latitude": 12.350410199999999,
+    "longitude": 76.5762755,
+    "place_id": "ChIJPX_NghN7rzsRk9vaKRtGSg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPX_NghN7rzsRk9vaKRtGSg4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:39:53"
+  },
+  {
+    "business_name": "Clean Fanatic",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Cleaning service, Floor sanding and polishing service, Marble contractor, Painting, Pest control service, Upholstery cleaning service, Window cleaning service",
+    "pincode": "229129",
+    "phone_number": "+91 87222 72777",
+    "website": "https://cleanfanatic.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "34, Pattandur Agrahara Maithri Layout 5th Cross Rd, Hagadur, Immadihalli, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Hagadur, Immadihalli, Whitefield",
+    "latitude": 12.965310899999999,
+    "longitude": 77.7563562,
+    "place_id": "ChIJqWrpy_oNrjsR2mrG9qPTKUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWrpy_oNrjsR2mrG9qPTKUk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:39:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAO POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "228171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3JMC+4F8, SH 34, Sarai Mohiuddenpur, Uttar Pradesh 223103",
+    "area": "228171",
+    "latitude": 26.082792299999998,
+    "longitude": 82.62120159999999,
+    "place_id": "ChIJe815VvFckDkRG5raNvxf9hg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe815VvFckDkRG5raNvxf9hg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:13:51"
+  },
+  {
+    "business_name": "Aasha polyclinic ,daulautpur khuthan",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "228171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XHG5+426, Khutahan, Pilkichha, Uttar Pradesh 223104",
+    "area": "228171",
+    "latitude": 25.9752871,
+    "longitude": 82.5575037,
+    "place_id": "ChIJx8n6DQBpkDkR2KWztUMqFuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8n6DQBpkDkR2KWztUMqFuU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:13:51"
+  }
+]

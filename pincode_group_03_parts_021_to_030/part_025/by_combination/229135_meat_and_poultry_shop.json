@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nellai Broilers",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "229135",
+    "phone_number": "+91 63749 19293",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Perumbakkam Main Rd, Permbakkam, Medavakkam, Kanchipuram, Medavakkam, Tamil Nadu 600100",
+    "area": "Permbakkam, Medavakkam",
+    "latitude": 12.9158598,
+    "longitude": 80.19448349999999,
+    "place_id": "ChIJUWOKFRlcUjoRZqE7suF40SM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWOKFRlcUjoRZqE7suF40SM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:42:05"
+  },
+  {
+    "business_name": "chickNfresh",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Butcher shop deli, Chicken shop, Meat products store, Meat wholesaler, Non Vegetarian Restaurant",
+    "pincode": "229135",
+    "phone_number": "+91 99883 27933",
+    "website": "http://chicknfresh.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Omega City, near Fit hit gym, Kharar, Punjab 140301",
+    "area": "229135",
+    "latitude": 30.7565465,
+    "longitude": 76.6205299,
+    "place_id": "ChIJaVKwOST7DzkR0NDXM-HikP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVKwOST7DzkR0NDXM-HikP0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:42:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUPER CAR WORKSHOP",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto tune up service",
+    "all_categories": "Auto tune up service",
+    "pincode": "229124",
+    "phone_number": "+91 70004 41361",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH 44, PIPARIYA ROAD, Gadarwara, Khairi, Madhya Pradesh 487551",
+    "area": "229124",
+    "latitude": 22.9160108,
+    "longitude": 78.7662031,
+    "place_id": "ChIJGfrPequpfzkRPBEwWpu6FBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfrPequpfzkRPBEwWpu6FBU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:07"
+  },
+  {
+    "business_name": "Biswan Motor Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "229124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "VWGV+XJP, Bara Chandganj, Sector A, Lucknow, Uttar Pradesh 226006",
+    "area": "Bara Chandganj, Sector A",
+    "latitude": 26.8774724,
+    "longitude": 80.9440657,
+    "place_id": "ChIJPTInMQb9mzkR1egH2imgZiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTInMQb9mzkR1egH2imgZiE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:07"
+  }
+]

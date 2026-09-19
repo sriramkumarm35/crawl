@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghar ki rasoi",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "228155",
+    "phone_number": "+91 98201 09325",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 86,
+    "address": "SATYAM TOWER, 90 Feet Rd, Kandivali, Thakur Complex, Kandivali East, Mumbai, Maharashtra 400101",
+    "area": "Kandivali, Thakur Complex, Kandivali East",
+    "latitude": 19.2147051,
+    "longitude": 72.8667026,
+    "place_id": "ChIJdXTWpdO35zsRs0vhpYLgdNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXTWpdO35zsRs0vhpYLgdNM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:55"
+  },
+  {
+    "business_name": "Tifola - Food delivery services",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Food products supplier",
+    "pincode": "228155",
+    "phone_number": "+91 73070 52831",
+    "website": "https://tifola.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "B2-406-Fourth Floor, DLF myPad, Vijaipur Colony, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijaipur Colony, Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.865799,
+    "longitude": 81.006355,
+    "place_id": "ChIJAQAAAL_imzkRd8GXeIKULZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAL_imzkRd8GXeIKULZM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:07:56"
+  }
+]

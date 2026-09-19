@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR Electric",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Security system installation service",
+    "pincode": "228161",
+    "phone_number": "+91 74395 06940",
+    "website": "http://arelectric.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "115/10, Canal St, Sreebhumi, Lake Town, Kolkata, South Dumdum, West Bengal 700048",
+    "area": "Sreebhumi, Lake Town",
+    "latitude": 22.5985437,
+    "longitude": 88.4032069,
+    "place_id": "ChIJTZ8ASEOf-DkRQCWy4B1ko98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZ8ASEOf-DkRQCWy4B1ko98",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:12"
+  },
+  {
+    "business_name": "Baranwal Cycle Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baranwal Cycle, Moti Lal, Baranwal, Pattinarendrapur, Uttar Pradesh 223102",
+    "area": "Moti Lal, Baranwal",
+    "latitude": 26.0368821,
+    "longitude": 82.5216911,
+    "place_id": "ChIJbxRTTippkDkRQcffoGxuNME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxRTTippkDkRQcffoGxuNME",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:12:12"
+  }
+]

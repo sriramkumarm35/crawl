@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trucks on road",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "228145",
+    "phone_number": "+91 88825 11534",
+    "website": "https://trucksonroad.diginweb.site/",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Office no 314, 3rd Floor, Vishwadeep Tower, Janakpuri District Center, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Janakpuri District Center, Janakpuri",
+    "latitude": 28.630030599999998,
+    "longitude": 77.0809543,
+    "place_id": "ChIJFWoHFkcFDTkRpEIP6LdW-vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWoHFkcFDTkRpEIP6LdW-vs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:44"
+  },
+  {
+    "business_name": "Vidhan Travels - Tempo Traveller & Taxi Booking",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Sightseeing Tour Operator, Tour operator, Transportation service, Travel agency",
+    "pincode": "228145",
+    "phone_number": "+91 96508 67077",
+    "website": "https://vidhantravels.com/",
+    "rating": 4.4,
+    "reviews_count": 1064,
+    "address": "D65/460, Lahartara Rd, opposite Police Booth, near Ksheer Sagar Sweet Shop, Chauraha, Maheshpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Chauraha, Maheshpur",
+    "latitude": 25.316172299999998,
+    "longitude": 82.9676456,
+    "place_id": "ChIJq6qq6vItjjkRV_hSgwPqjDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6vItjjkRV_hSgwPqjDI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:44"
+  }
+]

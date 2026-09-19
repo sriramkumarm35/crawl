@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Hind Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "229201",
+    "phone_number": "+91 92305 08033",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Oppo, Lakshmi Narayan Mondir, 41/1A, Sarat Bose Rd, Jadubabur Bazar, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Jadubabur Bazar, Bhowanipore",
+    "latitude": 22.533150499999998,
+    "longitude": 88.3530686,
+    "place_id": "ChIJj7FAqyR3AjoRScZjx1_9yQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7FAqyR3AjoRScZjx1_9yQ8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:02"
+  },
+  {
+    "business_name": "AMBER DA DHABA",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Dhaba",
+    "pincode": "229201",
+    "phone_number": "+91 87440 91711",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1227, Faridabad Bypass Rd, Sector 8, Faridabad, Haryana 121006",
+    "area": "Sector 8",
+    "latitude": 28.362966999999998,
+    "longitude": 77.339598,
+    "place_id": "ChIJeyAYyhDdDDkRbh5DjHwsP7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyAYyhDdDDkRbh5DjHwsP7M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:44:02"
+  }
+]

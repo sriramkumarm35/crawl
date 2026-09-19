@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YourLegal Accounting Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Accountant, Bookkeeping service, Tax preparation, Tax preparation service",
+    "pincode": "228145",
+    "phone_number": "+91 731 358 9025",
+    "website": "http://yourlegal.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "304, Trade House, above HDFC Bank, Manorama Ganj, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "Manorama Ganj, South Tukoganj",
+    "latitude": 22.7176828,
+    "longitude": 75.8780402,
+    "place_id": "ChIJp_c4bEH9YjkRdUboCO4paPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_c4bEH9YjkRdUboCO4paPs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:05:30"
+  },
+  {
+    "business_name": "SC Financial Consulting",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner, Consultant, Service establishment, Investment service",
+    "pincode": "228145",
+    "phone_number": "N/A",
+    "website": "https://scfinancialconsulting.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SC Financial Consulting, 228145, India",
+    "area": "228145",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_9X3njnlZzkRV4BuUY7SVSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9X3njnlZzkRV4BuUY7SVSE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:05:30"
+  }
+]

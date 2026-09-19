@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyanida Consultancy Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment center",
+    "all_categories": "Employment center, Service establishment",
+    "pincode": "229103",
+    "phone_number": "+91 70601 42359",
+    "website": "https://www.gyanida.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gyanida Consultancy Services, 229103, India",
+    "area": "229103",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ7W5KM1v4NyYRBbeMjLopuMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7W5KM1v4NyYRBbeMjLopuMI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:22:10"
+  },
+  {
+    "business_name": "VJ HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment",
+    "pincode": "229103",
+    "phone_number": "+91 80907 36847",
+    "website": "https://vjhrsolutions.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VJ HR Solutions, 229103, India",
+    "area": "229103",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJFXmVdVW_W0kRoIERecW7tPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXmVdVW_W0kRoIERecW7tPE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:22:11"
+  }
+]

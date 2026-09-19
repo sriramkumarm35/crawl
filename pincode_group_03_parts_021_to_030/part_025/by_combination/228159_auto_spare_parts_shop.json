@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samriddhi Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "228159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "Laxmanpur, Sultanpur, Uttar Pradesh 228001",
+    "area": "Laxmanpur",
+    "latitude": 26.2440715,
+    "longitude": 82.0662467,
+    "place_id": "ChIJY0QcM999mjkRS5zXiHqacp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0QcM999mjkRS5zXiHqacp0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:16"
+  },
+  {
+    "business_name": "Kisan Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "228159",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Payagipur chauraha, Ramapur, Sultanpur, Uttar Pradesh 228001",
+    "area": "Ramapur",
+    "latitude": 26.2386326,
+    "longitude": 82.063098,
+    "place_id": "ChIJU64ACQB9mjkRaUMec-2s0gc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU64ACQB9mjkRaUMec-2s0gc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:10:16"
+  }
+]

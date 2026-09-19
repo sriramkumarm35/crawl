@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office Padera",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "229130",
+    "phone_number": "N/A",
+    "website": "http://indiapost.gov.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "229303, Padhera Rd, Uttar Pradesh 229303",
+    "area": "229130",
+    "latitude": 26.298908299999997,
+    "longitude": 81.1388841,
+    "place_id": "ChIJ53H_1UKYmzkRJAeA62UO8_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53H_1UKYmzkRJAeA62UO8_I",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:41:40"
+  },
+  {
+    "business_name": "Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "229130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "अज्मतुल्ला, Vill, and post, Drigpal Ganj Rd, Harchandpur, Ajmatulla Ganj, Uttar Pradesh 229303",
+    "area": "229130",
+    "latitude": 26.2967817,
+    "longitude": 81.15925419999999,
+    "place_id": "ChIJaWtAiQOZmzkRRjaxVMIwh8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWtAiQOZmzkRRjaxVMIwh8A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:41:41"
+  }
+]

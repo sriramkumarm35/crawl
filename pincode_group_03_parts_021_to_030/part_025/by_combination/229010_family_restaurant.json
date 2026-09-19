@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chawlas 2, Since 1960",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "229010",
+    "phone_number": "+91 85769 50950",
+    "website": "http://chawlas2.com/",
+    "rating": 3.9,
+    "reviews_count": 74,
+    "address": "Astha Complex, Civil Lines, Raebareli, Mainoopur, Uttar Pradesh 229001",
+    "area": "Civil Lines",
+    "latitude": 26.2619926,
+    "longitude": 81.306932,
+    "place_id": "ChIJO_kI7MymmzkRlHuiE3m46B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_kI7MymmzkRlHuiE3m46B4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:19:09"
+  },
+  {
+    "business_name": "Sharma Traders",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229010",
+    "phone_number": "+91 61466 05605",
+    "website": "http://abc.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Awas Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Awas Vikas Colony, Indira Nagar",
+    "latitude": 26.2138584,
+    "longitude": 81.2381151,
+    "place_id": "ChIJFb95wmehmzkRfepTWcHI4aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFb95wmehmzkRfepTWcHI4aw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:19:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ultimate Event Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment, Event management company, Musical Band and Orchestra, Restaurant supply store, Wedding planner",
+    "pincode": "229126",
+    "phone_number": "+91 98901 80330",
+    "website": "http://www.facebook.com/ultimateeventmanagement/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Ultimate Event Management, 229126, India",
+    "area": "229126",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJiUQ4-h2_1DsRB5lrEn2rKHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUQ4-h2_1DsRB5lrEn2rKHY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:34:15"
+  },
+  {
+    "business_name": "Sanu Dj Satgawan",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "229126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C9RX+33V, Satgawan, Uttar Pradesh 229126",
+    "area": "229126",
+    "latitude": 26.4402318,
+    "longitude": 81.3976746,
+    "place_id": "ChIJH9mJ3DGxmzkRk35j7OJw33o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9mJ3DGxmzkRk35j7OJw33o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:34:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANJAY AUTO PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "229122",
+    "phone_number": "+91 96211 14050",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SARKARI HOSPITAL ROAD, Khiron, Saguni, Uttar Pradesh 229205",
+    "area": "229122",
+    "latitude": 26.2897625,
+    "longitude": 80.9316602,
+    "place_id": "ChIJ6VjVBACFmzkR2khmbRFNNk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VjVBACFmzkR2khmbRFNNk0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:38"
+  },
+  {
+    "business_name": "sanjay auto parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "229122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "7WGF+GC3, rebareli, kheeron, Uttar Pradesh 229205",
+    "area": "rebareli",
+    "latitude": 26.2762581,
+    "longitude": 80.9235387,
+    "place_id": "ChIJq6qqqrWFmzkRI9FiqJ7GrDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqrWFmzkRI9FiqJ7GrDc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:26:38"
+  }
+]

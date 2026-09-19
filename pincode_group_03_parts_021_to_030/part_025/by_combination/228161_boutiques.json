@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal vastralaya",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "143, Karaudi Kalan, Uttar Pradesh 228161",
+    "area": "228161",
+    "latitude": 26.0578075,
+    "longitude": 82.4238894,
+    "place_id": "ChIJS0u5MHNlkDkRQK4rcpctHcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0u5MHNlkDkRQK4rcpctHcE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:55"
+  },
+  {
+    "business_name": "J.p Garments",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "228161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Arpit Verma, Magarsan Kalan Mev Pur Rod, Amaramaoo, Uttar Pradesh 228161",
+    "area": "228161",
+    "latitude": 26.0756847,
+    "longitude": 82.44847519999999,
+    "place_id": "ChIJQaj6KCtlkDkRUzma5ET2g-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaj6KCtlkDkRUzma5ET2g-c",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:11:57"
+  }
+]

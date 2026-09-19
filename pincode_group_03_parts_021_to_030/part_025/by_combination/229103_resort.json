@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Oasis Jungle Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "229103",
+    "phone_number": "+91 82874 68765",
+    "website": "http://www.whiteoasisresort.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Tiger Reserve, 2 Km from Pilibhit Chuka Booking Counter, Khatima - Puranpur Rd, Pilibhit, Uttar Pradesh 262001",
+    "area": "229103",
+    "latitude": 28.6533154,
+    "longitude": 80.0902682,
+    "place_id": "ChIJ_91j-vc1oDkRei_pznPPcRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_91j-vc1oDkRei_pznPPcRY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:21:47"
+  },
+  {
+    "business_name": "Hotel Swagat",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Fast food restaurant, Indian restaurant",
+    "pincode": "229103",
+    "phone_number": "+91 88741 00222",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 608,
+    "address": "Nh30 lucknow, highway Dadouli, Prayagraj, Raebareli, Uttar Pradesh 229316",
+    "area": "229103",
+    "latitude": 26.2614409,
+    "longitude": 81.2287041,
+    "place_id": "ChIJkck3FMKjmzkRTlwVwXgjDdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkck3FMKjmzkRTlwVwXgjDdI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:21:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Square Feet Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Industrial real estate agency, Property management company, Real estate agent, Real estate rental agency",
+    "pincode": "229203",
+    "phone_number": "+91 98450 76840",
+    "website": "https://www.squarefeetrealtors.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Vasundhra Complex, 209, 7th Main Rd, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "HRBR Layout, Kalyan Nagar",
+    "latitude": 13.017357899999999,
+    "longitude": 77.6429357,
+    "place_id": "ChIJCeID-uAVrjsRknzi2GfUI08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeID-uAVrjsRknzi2GfUI08",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:48:49"
+  },
+  {
+    "business_name": "Dhaara Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Property investment company",
+    "all_categories": "Property investment company, Commercial agent, Commercial real estate agency, Industrial real estate agency, Leasing service, Office space rental agency, Property management company, Real estate consultant, Retail space rental agency",
+    "pincode": "229203",
+    "phone_number": "+91 98980 16624",
+    "website": "https://dhaaraestateproperty.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GANESH GLORY, 610, Sarkhej - Gandhinagar Hwy, Jagatpur, Ahmedabad, Gujarat 382470",
+    "area": "Jagatpur",
+    "latitude": 23.1138826,
+    "longitude": 72.5412793,
+    "place_id": "ChIJ2a-k-qODXjkRYPXZ7-s55PM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2a-k-qODXjkRYPXZ7-s55PM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:48:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mrcuban car rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Taxi service",
+    "pincode": "229203",
+    "phone_number": "+91 75220 20838",
+    "website": "http://mrcuban.in/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Lalganj Byp, near Balaji mandir, Lalganj, Uttar Pradesh 229206",
+    "area": "229203",
+    "latitude": 26.166365,
+    "longitude": 80.9714189,
+    "place_id": "ChIJZ0p6JOiDmzkRzSYjOBzmUx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0p6JOiDmzkRzSYjOBzmUx4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:48:00"
+  },
+  {
+    "business_name": "Som Driver Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Airport Shuttle Service Provider, Limousine service, Taxi service, Transportation service, Valet parking service",
+    "pincode": "229203",
+    "phone_number": "+91 73881 00005",
+    "website": "https://sites.google.com/view/somdriverservices/home",
+    "rating": 4.9,
+    "reviews_count": 868,
+    "address": "3/886, Vastu Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vastu Khand, Gomti Nagar",
+    "latitude": 26.865867899999998,
+    "longitude": 81.0264406,
+    "place_id": "ChIJXxTJBinjmzkRGx3KztilJnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxTJBinjmzkRGx3KztilJnk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:48:01"
+  }
+]

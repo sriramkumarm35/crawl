@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The SP Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "229124",
+    "phone_number": "+91 74118 63227",
+    "website": "http://www.thespevents.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop NO- 133, First Floor, Marvel Artiza, CTS NO 4A/2, Jayanagara, opposite KIMS Road, Vidya Nagar, Hubballi, Karnataka 580021",
+    "area": "Jayanagar, Vidya Nagar",
+    "latitude": 15.3615987,
+    "longitude": 75.1261924,
+    "place_id": "ChIJy2gQUR7RuDsR319umgD8pmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2gQUR7RuDsR319umgD8pmI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:32"
+  },
+  {
+    "business_name": "Celebrats event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "229124",
+    "phone_number": "+91 81097 02044",
+    "website": "https://celebrats.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Celebrats event, 229124, India",
+    "area": "229124",
+    "latitude": 23.1994097,
+    "longitude": 77.4058914,
+    "place_id": "ChIJ1ff7EP8K-4cRutcT6HdnH1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ff7EP8K-4cRutcT6HdnH1s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:30:34"
+  }
+]

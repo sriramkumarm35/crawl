@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJENDRA MEDICAL",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "229202",
+    "phone_number": "+91 99367 39842",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lalganj - Bhojpur Rd, Bhojpur, Dalipur, Uttar Pradesh 229202",
+    "area": "229202",
+    "latitude": 26.1396405,
+    "longitude": 80.7508916,
+    "place_id": "ChIJzU7Xitp_nDkRTgV0QI7RzWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU7Xitp_nDkRTgV0QI7RzWo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:30"
+  },
+  {
+    "business_name": "Safa val",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "229202",
+    "phone_number": "+91 73804 48705",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mayaram Kheda Rd, सौना, Uttar Pradesh 212664",
+    "area": "229202",
+    "latitude": 26.056391299999998,
+    "longitude": 80.73884489999999,
+    "place_id": "ChIJTby2sHyBnDkRppSjNOA6UcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTby2sHyBnDkRppSjNOA6UcU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:46:30"
+  }
+]

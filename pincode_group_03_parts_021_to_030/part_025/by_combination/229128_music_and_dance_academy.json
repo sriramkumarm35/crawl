@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Music & Dance Classes",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Musical club",
+    "pincode": "229128",
+    "phone_number": "+91 97214 44420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Surendra Lawn, Kaushalpuri Colony, Vishnupuri Colony, Faizabad, Uttar Pradesh 224001",
+    "area": "Kaushalpuri Colony, Vishnupuri Colony",
+    "latitude": 26.7664914,
+    "longitude": 82.1310307,
+    "place_id": "ChIJi1FIM28JmjkR7Hl_H1Z7nYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1FIM28JmjkR7Hl_H1Z7nYE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:37:55"
+  },
+  {
+    "business_name": "Vaayupankh Music Classes",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school, Educational institution, Performing arts group, Personal trainer, Vocal Instructor",
+    "pincode": "229128",
+    "phone_number": "+91 96512 17002",
+    "website": "https://www.vaayupankh.com/contact-us/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C- Block, near Aryan Restaurant, in front of Jal Sansthan, Block C, Rajajipuram, Lucknow, Uttar Pradesh 226017",
+    "area": "Block C, Rajajipuram",
+    "latitude": 26.8410326,
+    "longitude": 80.8835141,
+    "place_id": "ChIJqcA9Uwz_mzkR-vX5GWkAam4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcA9Uwz_mzkR-vX5GWkAam4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:37:55"
+  }
+]

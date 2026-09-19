@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mother restaurant and hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229121",
+    "phone_number": "+91 98395 67840",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "sharda nahar, near, Parsadepur Rd, Raebareli, Jagdishpur, Uttar Pradesh 229001",
+    "area": "229121",
+    "latitude": 26.2027233,
+    "longitude": 81.2851683,
+    "place_id": "ChIJT23a5ginmzkRj7l3T3gI3Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT23a5ginmzkRj7l3T3gI3Xc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:31"
+  },
+  {
+    "business_name": "Haweli restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229121",
+    "phone_number": "+91 99846 31210",
+    "website": "https://g.co/kgs/1kvDmD",
+    "rating": 4.1,
+    "reviews_count": 37,
+    "address": "Tripathi complex, dalmau road, near Police chauki, Ghorwara, Uttar Pradesh 229125",
+    "area": "229121",
+    "latitude": 26.1206812,
+    "longitude": 81.1089494,
+    "place_id": "ChIJDfI1CNyhmzkRmCp-6dTXQnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfI1CNyhmzkRmCp-6dTXQnc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:24:33"
+  }
+]

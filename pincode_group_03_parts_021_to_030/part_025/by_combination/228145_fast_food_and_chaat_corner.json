@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "228145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "488V+34, Shahpur, Uttar Pradesh 222303",
+    "area": "228145",
+    "latitude": 26.115237999999998,
+    "longitude": 82.34275099999999,
+    "place_id": "ChIJbZvVRCN7kDkRLpXmkwj_tbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZvVRCN7kDkRLpXmkwj_tbY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:11"
+  },
+  {
+    "business_name": "Bandnaam Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "228145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "3895+3RQ, Amrupur, Chanda, Maharani Paschim, Uttar Pradesh 222303",
+    "area": "Amrupur",
+    "latitude": 26.0677065,
+    "longitude": 82.3095968,
+    "place_id": "ChIJjcD4MSx6kDkRSKzQMo1WfG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcD4MSx6kDkRSKzQMo1WfG8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:04:13"
+  }
+]
