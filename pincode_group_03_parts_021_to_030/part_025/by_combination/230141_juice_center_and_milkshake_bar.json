@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Payal Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Juice shop",
+    "pincode": "230141",
+    "phone_number": "+91 83858 31552",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 107,
+    "address": "Purani Chungi, Agra Rd, Sumel, Jaipur, Rajasthan 302031",
+    "area": "Sumel",
+    "latitude": 26.881841599999998,
+    "longitude": 75.9099852,
+    "place_id": "ChIJdaHHcy24bTkR6kDyb4UAcIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaHHcy24bTkR6kDyb4UAcIM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:46"
+  },
+  {
+    "business_name": "Raj Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "230141",
+    "phone_number": "+91 89573 75398",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "PG99+CV3, Pratapgarh Bus, Railway Station Road, Uttar Pradesh 230204",
+    "area": "230141",
+    "latitude": 25.7185201,
+    "longitude": 81.5196816,
+    "place_id": "ChIJFWP62gPfmjkRFRmIYJxncAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWP62gPfmjkRFRmIYJxncAI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:46"
+  }
+]

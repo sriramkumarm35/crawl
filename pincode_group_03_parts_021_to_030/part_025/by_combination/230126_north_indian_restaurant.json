@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banjara Rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "230126",
+    "phone_number": "+91 89832 40021",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no. 36, Ashwin Apartment, Mankapur Ring Rd, Vyankatesh Nagar, Kotwal Nagar, Khamla, Nagpur, Maharashtra 440025",
+    "area": "Vyankatesh Nagar, Kotwal Nagar, Khamla",
+    "latitude": 21.1126695,
+    "longitude": 79.0619924,
+    "place_id": "ChIJGx7j22q_1DsR5UtQ-qH_alM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGx7j22q_1DsR5UtQ-qH_alM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:00:46"
+  },
+  {
+    "business_name": "Uttar Dakshin by Naivedhyam",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Restaurant, Lunch restaurant, North Indian restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "230126",
+    "phone_number": "+91 78754 44119",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Balaji Corporate Park, P&T Colony, Kotwal Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "P&T Colony, Kotwal Nagar, Pratap Nagar",
+    "latitude": 21.118502499999998,
+    "longitude": 79.056843,
+    "place_id": "ChIJG9GA6fu_1DsR3shh1xsEZNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9GA6fu_1DsR3shh1xsEZNg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:00:46"
+  }
+]

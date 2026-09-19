@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "230129",
+    "phone_number": "+91 98356 18780",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "Bargari, Road, Murma, Mandar, Jharkhand 835205",
+    "area": "230129",
+    "latitude": 23.4410857,
+    "longitude": 85.1340781,
+    "place_id": "ChIJS94JHGzb9DkRLhcXwszf6PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS94JHGzb9DkRLhcXwszf6PY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:51"
+  },
+  {
+    "business_name": "Humsafar Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "230129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQCC+FWV, Jethwara Rd, Kushahi, Jethwara, Uttar Pradesh 230129",
+    "area": "Kushahi",
+    "latitude": 25.821235899999998,
+    "longitude": 81.7723067,
+    "place_id": "ChIJ7QVrufDpmjkR33Upe0Lp8Hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QVrufDpmjkR33Upe0Lp8Hc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:52"
+  }
+]

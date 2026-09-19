@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhab Book store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "230134",
+    "phone_number": "+91 98612 66118",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 56,
+    "address": "Sp Office Chwok, Bargarh Rd, near Block Office, Bargarh, Odisha 768028",
+    "area": "230134",
+    "latitude": 21.340778099999998,
+    "longitude": 83.62392659999999,
+    "place_id": "ChIJz6pPiOpLIToR48K4aRQTBvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6pPiOpLIToR48K4aRQTBvE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:16:44"
+  },
+  {
+    "business_name": "ABC Books & Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Gift shop, Book store",
+    "pincode": "230134",
+    "phone_number": "+91 94701 82474",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main Rd, AG Cooperative Colony, Kadru, Delatoli, Ranchi, Jharkhand 834002",
+    "area": "AG Cooperative Colony, Kadru, Delatoli",
+    "latitude": 23.3513268,
+    "longitude": 85.316572,
+    "place_id": "ChIJ1YZPU6zh9DkRx7gYh94iBFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YZPU6zh9DkRx7gYh94iBFA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:16:45"
+  }
+]

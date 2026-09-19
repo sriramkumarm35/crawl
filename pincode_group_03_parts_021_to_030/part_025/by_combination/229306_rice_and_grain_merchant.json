@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous industries, Rice mil",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7722+7PR, Industrial Area, Raebareli, Uttar Pradesh 229316",
+    "area": "Industrial Area",
+    "latitude": 26.250738199999997,
+    "longitude": 81.25176239999999,
+    "place_id": "ChIJP-KOdYajmzkRh8-NWtcwWZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-KOdYajmzkRh8-NWtcwWZ4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:32"
+  },
+  {
+    "business_name": "Hariom Beej Bhandar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural association",
+    "all_categories": "Agricultural association",
+    "pincode": "229306",
+    "phone_number": "+91 70375 25182",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Habibulla Nagar, Ratapur, Raebareli, Uttar Pradesh 229316",
+    "area": "Habibulla Nagar, Ratapur",
+    "latitude": 26.2427504,
+    "longitude": 81.2430935,
+    "place_id": "ChIJcdzSD-ihmzkRM_zXQBy91eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdzSD-ihmzkRM_zXQBy91eM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Kirana Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229410",
+    "phone_number": "+91 95657 22542",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "05, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "Ashtbhuja Nagar, Pratapgarh",
+    "latitude": 25.914983499999998,
+    "longitude": 81.98006269999999,
+    "place_id": "ChIJxXoRwF2RmjkR_4XSU-elr50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXoRwF2RmjkR_4XSU-elr50",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:42:21"
+  },
+  {
+    "business_name": "Shree Laxmi Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "229410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2QMM+X22, Jhandagali, Pratapgarh, Pratapgad, Rajasthan 312605",
+    "area": "Jhandagali",
+    "latitude": 24.034876399999998,
+    "longitude": 74.78251279999999,
+    "place_id": "ChIJk9B8Pv-FZjkRX2Q2445BSW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9B8Pv-FZjkRX2Q2445BSW8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:42:22"
+  }
+]

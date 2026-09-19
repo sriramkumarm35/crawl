@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New OK Watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Sunglasses store, Watch repair service",
+    "pincode": "230127",
+    "phone_number": "+91 99321 08564",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 280,
+    "address": "Grand Trunk Rd, opposite Subhash Cinema Hall, Joynager, Munshi Bazar, Asansol, West Bengal 713301",
+    "area": "Joynager, Munshi Bazar",
+    "latitude": 23.6858062,
+    "longitude": 86.9746869,
+    "place_id": "ChIJM5-X7hcf9zkRBDps9dFDVr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5-X7hcf9zkRBDps9dFDVr8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:49"
+  },
+  {
+    "business_name": "Kisan Radio and Super watch House",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Court Rd, Begum Ward, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "Begum Ward",
+    "latitude": 25.9215365,
+    "longitude": 82.00057079999999,
+    "place_id": "ChIJsza4C4ORmjkRO7T_2-kIT3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsza4C4ORmjkRO7T_2-kIT3o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:52"
+  }
+]

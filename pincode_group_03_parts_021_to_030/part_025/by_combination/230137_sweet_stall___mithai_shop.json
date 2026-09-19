@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modi sweets and bakers",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "230137",
+    "phone_number": "+91 88408 52029",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "raniganj, Ajgara, Jogapur, Uttar Pradesh 230144",
+    "area": "raniganj",
+    "latitude": 25.9058125,
+    "longitude": 81.8695625,
+    "place_id": "ChIJqQB8L2mVmjkRJtYIZtsO8xs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQB8L2mVmjkRJtYIZtsO8xs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:21:12"
+  },
+  {
+    "business_name": "Gupta Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Fast food restaurant, Restaurant",
+    "pincode": "230137",
+    "phone_number": "+91 90267 16002",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Gupta Sweets Kama Pur Parmoda, Uttar Pradesh 230502",
+    "area": "230137",
+    "latitude": 25.9999616,
+    "longitude": 81.9213853,
+    "place_id": "ChIJS2APilecmjkRBU_c0oeIb-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2APilecmjkRBU_c0oeIb-g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:21:15"
+  }
+]

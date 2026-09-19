@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirala Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "230138",
+    "phone_number": "+91 91257 87681",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Market, Chanda, Pratappur Kamaicha, Uttar Pradesh 222303",
+    "area": "Market",
+    "latitude": 26.070592899999998,
+    "longitude": 82.311422,
+    "place_id": "ChIJW0O49DJ6kDkRkyWZCa-b654",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0O49DJ6kDkRkyWZCa-b654",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:23:10"
+  },
+  {
+    "business_name": "Jafri Collection Ready Made Garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "230138",
+    "phone_number": "+91 91691 41415",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "2789+JX3, Saifabad, Saifabad Bazaar, Uttar Pradesh 230138",
+    "area": "230138",
+    "latitude": 26.0165148,
+    "longitude": 82.26992059999999,
+    "place_id": "ChIJbYlYchx3kDkRRT5VUUAYt1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYlYchx3kDkRRT5VUUAYt1E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:23:11"
+  }
+]

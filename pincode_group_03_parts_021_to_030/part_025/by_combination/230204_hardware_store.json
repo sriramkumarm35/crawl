@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji hardware and paints",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "230204",
+    "phone_number": "+91 89538 84330",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramalal, petrol pump ke bagal, Lucknow - Prayagraj Hwy, Kunda, Uttar Pradesh 230204",
+    "area": "230204",
+    "latitude": 25.721453099999998,
+    "longitude": 81.5099231,
+    "place_id": "ChIJ5R_9FWIhmzkRzOGJEOSJFgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5R_9FWIhmzkRzOGJEOSJFgY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:38:06"
+  },
+  {
+    "business_name": "Sanjay hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "230204",
+    "phone_number": "+91 97935 05634",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kunda, Uttar Pradesh 230204",
+    "area": "230204",
+    "latitude": 25.719142899999998,
+    "longitude": 81.5136629,
+    "place_id": "ChIJ7XLEAyAhmzkRtNYuASFdW-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XLEAyAhmzkRtNYuASFdW-0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:38:08"
+  }
+]

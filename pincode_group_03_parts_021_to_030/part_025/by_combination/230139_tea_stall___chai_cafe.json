@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devansh Tea Stall Mahrajpur",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Tea house",
+    "pincode": "230139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kakwa Rd, Maharajpur, Aghar, Uttar Pradesh 227405",
+    "area": "230139",
+    "latitude": 26.1173514,
+    "longitude": 81.73600859999999,
+    "place_id": "ChIJSx189eH2mjkRKIxCjvBtFi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSx189eH2mjkRKIxCjvBtFi8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:55"
+  },
+  {
+    "business_name": "Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "230139",
+    "phone_number": "+91 83185 37372",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4505521,
+    "longitude": 81.8363485,
+    "place_id": "ChIJ7xSDIEnLmjkRk-e0lvrefSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xSDIEnLmjkRk-e0lvrefSM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:58"
+  }
+]

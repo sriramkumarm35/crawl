@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, ATM, Financial institution, Insurance agency",
+    "pincode": "230142",
+    "phone_number": "+91 99810 45790",
+    "website": "https://www.finobank.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Barwan, Madhya Pradesh 465674",
+    "area": "230142",
+    "latitude": 23.8366306,
+    "longitude": 76.9734474,
+    "place_id": "ChIJhekJBhRvezkRRKSmOwMUCqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhekJBhRvezkRRKSmOwMUCqs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:29:49"
+  },
+  {
+    "business_name": "Sanjeev Online Service Centre",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Store",
+    "all_categories": "Store, Online Share Trading Center",
+    "pincode": "230142",
+    "phone_number": "+91 99191 45989",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Jogipur, Patti, Pratapgarh, Uttar Pradesh 230142",
+    "area": "230142",
+    "latitude": 25.9522524,
+    "longitude": 82.0997883,
+    "place_id": "ChIJq7M2pnqbmjkRGL104-32kKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7M2pnqbmjkRGL104-32kKo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:29:50"
+  }
+]

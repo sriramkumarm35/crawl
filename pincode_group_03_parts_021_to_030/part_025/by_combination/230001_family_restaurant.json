@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tandoories Villa",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "230001",
+    "phone_number": "+91 99187 00800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "WX5V+6JM, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230001",
+    "latitude": 25.908070199999997,
+    "longitude": 81.9940767,
+    "place_id": "ChIJsyi2FgCXmjkRhJ5KIgvLO5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyi2FgCXmjkRhJ5KIgvLO5M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:51:39"
+  },
+  {
+    "business_name": "ARADHYA RESIDENCY",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230001",
+    "phone_number": "+91 90052 17006",
+    "website": "http://www.hotelaradhyaresidency.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Civil Line Rd, near Roadways Shiv Mandir, Pratapgarh, Bela Pratapgarh, Pure Ishwarnath, Uttar Pradesh 230001",
+    "area": "Pratapgarh",
+    "latitude": 25.919797799999998,
+    "longitude": 81.9849947,
+    "place_id": "ChIJkeJ0CPSRmjkRpWeH3vO-9Ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkeJ0CPSRmjkRpWeH3vO-9Ak",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:51:40"
+  }
+]

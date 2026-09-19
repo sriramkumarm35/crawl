@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, ATM, Business banking service, Car finance and loan company, Financial institution, Bank, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "229406",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/uttarpradesh/raebareli/hdfcbank-branch-unchahar",
+    "rating": 3.5,
+    "reviews_count": 10,
+    "address": "Upper Ground Floor Allahabad, Lucknow Rd, near Hanuman Mandir, Mustafabad, Unchahar, Raebareli, Uttar Pradesh 229406",
+    "area": "Mustafabad",
+    "latitude": 25.903578399999997,
+    "longitude": 81.30903049999999,
+    "place_id": "ChIJm8Au2-gQmzkRVLWZviUra18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8Au2-gQmzkRVLWZviUra18",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:29"
+  },
+  {
+    "business_name": "Anderson Insurance Agency",
+    "search_category": "Insurance Agent",
+    "primary_category": "Health insurance agency",
+    "all_categories": "Health insurance agency, Service establishment",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "http://smokymountaininsurance.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anderson Insurance Agency, 229406, India",
+    "area": "229406",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJnXsQLAX4W4gRMg6NlReDhbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXsQLAX4W4gRMg6NlReDhbg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:29"
+  }
+]

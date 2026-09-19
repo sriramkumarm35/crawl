@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raaj welding work shop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devi Rd, Mantha, Maharashtra 431504",
+    "area": "229306",
+    "latitude": 19.652285199999998,
+    "longitude": 76.3882045,
+    "place_id": "ChIJkVAeQgCD2jsR0Z0xneOFS14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVAeQgCD2jsR0Z0xneOFS14",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:19:02"
+  },
+  {
+    "business_name": "MAHAKAL WELDING SEONI",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "229306",
+    "phone_number": "+91 62668 21935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Marjhor Rd, Ganj Area, Seoni, Simariya, Madhya Pradesh 480661",
+    "area": "Ganj Area",
+    "latitude": 22.0700911,
+    "longitude": 79.5330098,
+    "place_id": "ChIJPb2AnpixKjoRww04ksMKNGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb2AnpixKjoRww04ksMKNGs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:19:02"
+  }
+]

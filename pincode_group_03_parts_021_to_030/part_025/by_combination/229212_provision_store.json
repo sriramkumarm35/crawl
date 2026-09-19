@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raibareli",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Banpurwa, Gajpati Khera, Uttar Pradesh 229212",
+    "area": "229212",
+    "latitude": 26.176071399999998,
+    "longitude": 80.7695975,
+    "place_id": "ChIJXeZfWwB_nDkRsyxLSsITYGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeZfWwB_nDkRsyxLSsITYGA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:03:08"
+  },
+  {
+    "business_name": "Devta general store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "229212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 10,
+    "address": "6R32+7M5, dewpor, Ibrahimpur, Uttar Pradesh 229212",
+    "area": "dewpor",
+    "latitude": 26.2030978,
+    "longitude": 80.8017249,
+    "place_id": "ChIJq_GaDAB_nDkR0aIh2-CZpOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_GaDAB_nDkR0aIh2-CZpOU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:03:08"
+  }
+]

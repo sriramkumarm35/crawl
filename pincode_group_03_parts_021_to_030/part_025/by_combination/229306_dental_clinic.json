@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arogya Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "229306",
+    "phone_number": "+91 74589 98932",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Inhauna Road, in front of 200 Beded Referral Hospital, Tiloi, Uttar Pradesh 229309",
+    "area": "229306",
+    "latitude": 26.4045433,
+    "longitude": 81.4869827,
+    "place_id": "ChIJd05HewCzmzkRhjF0A5H2kTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd05HewCzmzkRhjF0A5H2kTc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:55"
+  },
+  {
+    "business_name": "Sandeep Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "229306",
+    "phone_number": "+91 99191 00867",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar, Amawan Road, Khaspari, Raebareli, Uttar Pradesh 229010",
+    "area": "229306",
+    "latitude": 26.2564504,
+    "longitude": 81.27012239999999,
+    "place_id": "ChIJ_-24EtKlmzkRrE-Jt6-ePOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-24EtKlmzkRrE-Jt6-ePOo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:55"
+  }
+]

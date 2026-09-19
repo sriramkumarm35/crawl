@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vrindavan lawn",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "229207",
+    "phone_number": "+91 99587 74079",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chiwahla road, Chak Rahera, Uttar Pradesh 212650",
+    "area": "229207",
+    "latitude": 25.9768825,
+    "longitude": 81.0533854,
+    "place_id": "ChIJn2jlmsBxmzkRJ57H7d2fNTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2jlmsBxmzkRJ57H7d2fNTY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:55:22"
+  },
+  {
+    "business_name": "Shri Narendra Vatika Marriage Lawn",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "229207",
+    "phone_number": "+91 87075 83958",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "W3CH+5H, Palia Bujurg, Uttar Pradesh 212650",
+    "area": "229207",
+    "latitude": 25.9205135,
+    "longitude": 81.0789277,
+    "place_id": "ChIJFd30wHptmzkRen9i-v7TGZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFd30wHptmzkRen9i-v7TGZw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:55:23"
+  }
+]

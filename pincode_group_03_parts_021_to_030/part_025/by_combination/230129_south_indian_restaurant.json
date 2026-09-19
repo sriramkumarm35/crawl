@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Maurya South Indian Chinese Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "230129",
+    "phone_number": "+91 76078 21713",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gadiyani, Sikandarpur, Uttar Pradesh 212507",
+    "area": "230129",
+    "latitude": 25.6654029,
+    "longitude": 81.8405945,
+    "place_id": "ChIJi5euwe3HmjkRSuj7CejQMok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5euwe3HmjkRSuj7CejQMok",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:18"
+  },
+  {
+    "business_name": "Tanjore",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Indian restaurant, Vegetarian restaurant",
+    "pincode": "230129",
+    "phone_number": "+91 75075 98980",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ground Floor Pathak House, Abhyankar Nagar Rd, Near VNIT, Nagpur, Maharashtra 440010",
+    "area": "Abhyankar Nagar",
+    "latitude": 21.1268527,
+    "longitude": 79.0580054,
+    "place_id": "ChIJQwpHAbLB1DsRKO_so6WOLFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwpHAbLB1DsRKO_so6WOLFA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:20"
+  }
+]

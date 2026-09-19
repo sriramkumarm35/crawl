@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cosmo Bar & Bistro",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant, Bistro",
+    "pincode": "230144",
+    "phone_number": "+91 78770 44420",
+    "website": "https://cosmobarbistro.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4th floor, Hotel Castle Inn, 20-BHATT JI KI BARI, 8, Udaipur, Rajasthan 313004",
+    "area": "Madhuban",
+    "latitude": 24.5931094,
+    "longitude": 73.6975144,
+    "place_id": "ChIJIymQpvzlZzkRBspyiCNtSo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIymQpvzlZzkRBspyiCNtSo4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:19"
+  },
+  {
+    "business_name": "Hangout The Cocktail Room",
+    "search_category": "Bar and Pub",
+    "primary_category": "Cocktail bar",
+    "all_categories": "Cocktail bar, Bar, Brewery, Brewpub, Live music bar, Pool billard club, Restaurant, Sports bar",
+    "pincode": "230144",
+    "phone_number": "+91 77699 54645",
+    "website": "https://hangoutudaipur.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Basement of Hotel HNM, near JK Fortis Hospital, Shobhagpura, Udaipur, Sobhagpura, Rajasthan 313001",
+    "area": "Shobhagpura",
+    "latitude": 24.6064758,
+    "longitude": 73.7144849,
+    "place_id": "ChIJ9T198LrlZzkRQRUNtvywx8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9T198LrlZzkRQRUNtvywx8s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:19"
+  }
+]

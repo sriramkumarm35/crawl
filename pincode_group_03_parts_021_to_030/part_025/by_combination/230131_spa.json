@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharamender Salon Spa",
+    "search_category": "Spa",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "230131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pratapgarh, Ghatampur, Uttar Pradesh 230131",
+    "area": "230131",
+    "latitude": 25.8518732,
+    "longitude": 81.9400739,
+    "place_id": "ChIJ0-gjTXqVmjkRR0ZqCscj1DY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-gjTXqVmjkRR0ZqCscj1DY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:10:50"
+  },
+  {
+    "business_name": "RBS BATH SOLUTIONS",
+    "search_category": "Spa",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "230131",
+    "phone_number": "+91 79832 36290",
+    "website": "https://www.radidasbathsolutions.com/",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "4-6-485, near to Crazy corner cafe, Esamiya Bazaar, Koti, Hyderabad, Telangana 500027",
+    "area": "Esamiya Bazaar, Koti",
+    "latitude": 17.3843413,
+    "longitude": 78.4901369,
+    "place_id": "ChIJh0chQQCZyzsRFBvtHAkMGRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0chQQCZyzsRFBvtHAkMGRE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:10:51"
+  }
+]

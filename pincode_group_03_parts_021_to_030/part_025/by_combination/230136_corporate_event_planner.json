@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shobha Shyam Palace",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "230136",
+    "phone_number": "+91 83186 44310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "WRVR+3H4, Sahabganj bazar chandicon Road, Lilapur, Deoli, Uttar Pradesh 230137",
+    "area": "230136",
+    "latitude": 25.9426375,
+    "longitude": 81.8414531,
+    "place_id": "ChIJWbAwLADtmjkRCfFLSqIJARk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbAwLADtmjkRCfFLSqIJARk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:20:22"
+  },
+  {
+    "business_name": "The Event Planet",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "230136",
+    "phone_number": "0306 7861019",
+    "website": "https://eventplanet.com.pk/",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "The Event Planet, 230136, India",
+    "area": "230136",
+    "latitude": 25.1945977,
+    "longitude": 67.1541658,
+    "place_id": "ChIJQzdd4eA_sz4Ruw6icKcCISI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzdd4eA_sz4Ruw6icKcCISI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:20:22"
+  }
+]

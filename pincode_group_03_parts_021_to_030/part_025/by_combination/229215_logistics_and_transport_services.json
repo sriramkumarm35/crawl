@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Track's Shipping & Logistics Pvt. Ltd.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "229215",
+    "phone_number": "N/A",
+    "website": "http://www.besttracks.in/",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "No. 103, Linghi Chetty Street, Mannadi, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Mannadi, George Town",
+    "latitude": 13.0967834,
+    "longitude": 80.2901969,
+    "place_id": "ChIJZ12KA0VvUjoRN1llRJR2cgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ12KA0VvUjoRN1llRJR2cgc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:37"
+  },
+  {
+    "business_name": "A k transport packers and Movers",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Moving service",
+    "all_categories": "Moving service, Transportation service",
+    "pincode": "229215",
+    "phone_number": "+91 90149 30046",
+    "website": "https://www.aktransport.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "ALI COMPLEX, Sri Sai Enclave, Old Bowenpally, Secunderabad, Telangana 500011",
+    "area": "Sri Sai Enclave, Old Bowenpally",
+    "latitude": 17.4767698,
+    "longitude": 78.47539429999999,
+    "place_id": "ChIJVVUZK4CayzsR---oiFsDezQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUZK4CayzsR---oiFsDezQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:38"
+  }
+]

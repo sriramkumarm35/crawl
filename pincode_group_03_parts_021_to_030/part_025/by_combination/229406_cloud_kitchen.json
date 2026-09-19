@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery, Caterer",
+    "pincode": "229406",
+    "phone_number": "+91 74110 16781",
+    "website": "http://www.bcloudkitchen.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Apex Nivas, Manjunath Nagar, Canara Bank Colony, Chikkalasandra, Bengaluru, Karnataka 560061",
+    "area": "Manjunath Nagar, Canara Bank Colony, Chikkalasandra",
+    "latitude": 12.9089674,
+    "longitude": 77.55134819999999,
+    "place_id": "ChIJC82ziqY_rjsRBXNJUZV0eiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC82ziqY_rjsRBXNJUZV0eiA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:21"
+  },
+  {
+    "business_name": "Tiffin service and cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "229406",
+    "phone_number": "+91 87778 90965",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "181, rohit apartment, Patipukur, Kolkata, South Dumdum, West Bengal 700048",
+    "area": "Patipukur",
+    "latitude": 22.601511199999997,
+    "longitude": 88.4003915,
+    "place_id": "ChIJnTQIA3x3AjoRXuTo845YWws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTQIA3x3AjoRXuTo845YWws",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:22"
+  }
+]

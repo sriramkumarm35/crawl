@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr sanjeet clinic",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "230128",
+    "phone_number": "+91 91982 30908",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Phursat ganj bajar saray indrawat, Patel Doctor 🏥💊, Derwa, Uttar Pradesh 230128",
+    "area": "230128",
+    "latitude": 25.8109495,
+    "longitude": 81.720776,
+    "place_id": "ChIJnYXrkN3pmjkRGPELcBUalcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYXrkN3pmjkRGPELcBUalcI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:13"
+  },
+  {
+    "business_name": "Candle Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa, Massage therapist",
+    "pincode": "230128",
+    "phone_number": "+91 95719 11891",
+    "website": "https://candlespainudaipur.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2nd Floor, near RK Circle, above Ampere EV, Leevan Automobiles, Adarsh Colony, Pulla Bhuwana, Fatehpura, Udaipur, Udaipur (M Corp.) (Part), Rajasthan 313001",
+    "area": "Adarsh Colony, Pulla Bhuwana, Fatehpura",
+    "latitude": 24.6073685,
+    "longitude": 73.6980249,
+    "place_id": "ChIJXcVx4oTlZzkRvW0uEvrgZ9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcVx4oTlZzkRvW0uEvrgZ9A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REC Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "229302",
+    "phone_number": "+91 90454 23262",
+    "website": "http://www.rechousekeeping.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no 2, Grace hotel, Durga Complex, Shaheed Nagar, Tajganj, Agra, Uttar Pradesh 282001",
+    "area": "Shaheed Nagar, Tajganj",
+    "latitude": 27.1555386,
+    "longitude": 78.0352956,
+    "place_id": "ChIJP8-yJ39xdDkR_GSIqTGES4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8-yJ39xdDkR_GSIqTGES4M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:11:42"
+  },
+  {
+    "business_name": "AMC House Service | Lucknow",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning service, Cleaning Services, Pest control service, Repair service",
+    "pincode": "229302",
+    "phone_number": "+91 89310 61210",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Padera - Raebareli Rd, Vardan Khand, Sector 1, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vardan Khand, Sector 1, Gomti Nagar",
+    "latitude": 26.8378405,
+    "longitude": 81.0084937,
+    "place_id": "ChIJAQAAMCDjmzkRXYj88aP9P0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAMCDjmzkRXYj88aP9P0w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:11:43"
+  }
+]

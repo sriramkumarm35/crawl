@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarush Medical Store and Pet Planet",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "230121",
+    "phone_number": "+91 94553 00914",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Barahimpur, road, Dhakwa Bazzar, Uttar Pradesh 230121",
+    "area": "230121",
+    "latitude": 26.003034,
+    "longitude": 82.3762765,
+    "place_id": "ChIJ-fXDaJBxkDkRkEuONIvpXtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fXDaJBxkDkRkEuONIvpXtw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:14"
+  },
+  {
+    "business_name": "PETSNEED - Pets Accessories",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "230121",
+    "phone_number": "+91 88895 00765",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "Shop No. 3 , Plot No. 357 , Kanak kunj, Kripal Chowk Rd, Gupteshwar, Jabalpur, Madhya Pradesh 482001",
+    "area": "Premnagar, Gupteshwar",
+    "latitude": 23.149497,
+    "longitude": 79.9183023,
+    "place_id": "ChIJMb9SWc6zgTkRsA_8Q74OXu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMb9SWc6zgTkRsA_8Q74OXu4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:16"
+  }
+]

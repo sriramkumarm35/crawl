@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L.I.C",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency, Service establishment",
+    "pincode": "229304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "L.I.C, 229304, India",
+    "area": "229304",
+    "latitude": 26.35399,
+    "longitude": 81.55758,
+    "place_id": "ChIJNatdHUBTmjkRZu619IME8Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNatdHUBTmjkRZu619IME8Qk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:15:16"
+  },
+  {
+    "business_name": "Sandeep Computers Tiloi Amethi",
+    "search_category": "Insurance Agent",
+    "primary_category": "Typist",
+    "all_categories": "Typist, Airline ticket agency, Auto insurance agency, Internet shop, Railway Ticket Agent",
+    "pincode": "229304",
+    "phone_number": "+91 98383 43456",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Rajmarg, near Post Office, Tiloi, Uttar Pradesh 229309",
+    "area": "229304",
+    "latitude": 26.393724,
+    "longitude": 81.4733305,
+    "place_id": "ChIJj6pRwPiymzkRNk-O9O34fp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6pRwPiymzkRNk-O9O34fp0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:15:16"
+  }
+]

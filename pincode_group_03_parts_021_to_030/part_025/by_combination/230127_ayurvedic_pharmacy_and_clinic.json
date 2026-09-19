@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokesh ayurvedic agencies",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Ayurvedic clinic, Wholesaler",
+    "pincode": "230127",
+    "phone_number": "+91 97830 88951",
+    "website": "https://ladpharma.in/",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Mohalla Qureshi, Sikar, Rajasthan 332001",
+    "area": "Mohalla Qureshi",
+    "latitude": 27.6053918,
+    "longitude": 75.14368619999999,
+    "place_id": "ChIJdSKtHXqlbDkRMZWhRyegYFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSKtHXqlbDkRMZWhRyegYFA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:50"
+  },
+  {
+    "business_name": "Shri Vishnu Ayurvedic Pharmacy",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "230127",
+    "phone_number": "+91 1575 224 867",
+    "website": "http://vishnuayurvedic.com/",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "9H89+GCW, Reengus, Rngus, Rajasthan 332404",
+    "area": "230127",
+    "latitude": 27.3663644,
+    "longitude": 75.5685809,
+    "place_id": "ChIJ-VWpsijlbDkRoJWdWl4gcng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VWpsijlbDkRoJWdWl4gcng",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:50"
+  }
+]

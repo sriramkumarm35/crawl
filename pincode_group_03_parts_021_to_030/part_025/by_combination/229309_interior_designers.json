@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baby bouncy",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "229309",
+    "phone_number": "+91 97920 29806",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGVJ+M7C, Mattepur, Uttar Pradesh 229309",
+    "area": "229309",
+    "latitude": 26.4442408,
+    "longitude": 81.5307156,
+    "place_id": "ChIJZRsixjNNmjkRG72hKTaokH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRsixjNNmjkRG72hKTaokH4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:23:41"
+  },
+  {
+    "business_name": "Royal Furniture and interior decoration",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Furniture store",
+    "pincode": "229309",
+    "phone_number": "+91 70070 60405",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Jaferganj, Jagdishpur, Mangraura, Uttar Pradesh 227809",
+    "area": "229309",
+    "latitude": 26.468089799999998,
+    "longitude": 81.58808239999999,
+    "place_id": "ChIJhwuMbu5LmjkR4ivHrQKHamQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwuMbu5LmjkR4ivHrQKHamQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:23:42"
+  }
+]

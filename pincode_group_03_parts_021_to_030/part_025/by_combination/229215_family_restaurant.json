@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AROMA FAMILY DINING",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fine dining restaurant",
+    "pincode": "229215",
+    "phone_number": "+91 97419 05555",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1086,
+    "address": "66, Sedam Rd, Gulbarga University, Jnana Ganga, GDA Layout, Kusnur, Karnataka 585106",
+    "area": "Gulbarga University, Jnana Ganga, GDA Layout",
+    "latitude": 17.3226111,
+    "longitude": 76.87263039999999,
+    "place_id": "ChIJywwfWHPByDsRJ3KePKU6W6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywwfWHPByDsRJ3KePKU6W6A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:09"
+  },
+  {
+    "business_name": "Kwality Restaurant & Bar",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229215",
+    "phone_number": "+91 97584 65521",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1057,
+    "address": "54, 2nd Floor, Ayub Khan - Choupla Rd, Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3567452,
+    "longitude": 79.417563,
+    "place_id": "ChIJJUr1MycHoDkR3MWF_MUSeIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUr1MycHoDkR3MWF_MUSeIU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:09"
+  }
+]

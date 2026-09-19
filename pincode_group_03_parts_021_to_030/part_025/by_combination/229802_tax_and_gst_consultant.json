@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GA & Associates",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Auditor",
+    "all_categories": "Auditor, Tax preparation service",
+    "pincode": "229802",
+    "phone_number": "+91 98453 09261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No.1575 1st Floor, 1st Main Rd, Kalyan Nagar, T. Dasarahalli, Bengaluru, Karnataka 560057",
+    "area": "Kalyan Nagar, T. Dasarahalli",
+    "latitude": 13.049780499999999,
+    "longitude": 77.51496259999999,
+    "place_id": "ChIJAz2iXPc9rjsRraFxcQz7Onw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAz2iXPc9rjsRraFxcQz7Onw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:51:02"
+  },
+  {
+    "business_name": "Shree Giri GST Tax Associate",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Accounting firm, Chartered accountant, Tax attorney, Tax preparation",
+    "pincode": "229802",
+    "phone_number": "+91 82004 42870",
+    "website": "https://shree-giri-gsttax.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raghuvir industrial estate, 202, nr. ved hospital, part 3, Vatva, Ahmedabad, Gujarat 382445",
+    "area": "Dibiyapur, part 3, Vatva",
+    "latitude": 22.957672,
+    "longitude": 72.62765449999999,
+    "place_id": "ChIJVVXUdMeDXjkR4VKfpbFfGMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXUdMeDXjkR4VKfpbFfGMY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:51:03"
+  }
+]

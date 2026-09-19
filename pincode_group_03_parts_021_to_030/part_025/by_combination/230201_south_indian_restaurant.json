@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "230201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "HG48+H3F, Bharwari, Saita, Uttar Pradesh 212201",
+    "area": "230201",
+    "latitude": 25.5564368,
+    "longitude": 81.515163,
+    "place_id": "ChIJdyqr9NkpmzkRtI9z-WR5LKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyqr9NkpmzkRtI9z-WR5LKE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:33:59"
+  },
+  {
+    "business_name": "Shri Balaji Dosa Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "HF5P+R99, SH 94, Bharwari, Uttar Pradesh 212201",
+    "area": "230201",
+    "latitude": 25.5595264,
+    "longitude": 81.48598559999999,
+    "place_id": "ChIJz88iBu0pmzkRZd3HWehdkr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz88iBu0pmzkRZd3HWehdkr8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:33:59"
+  }
+]

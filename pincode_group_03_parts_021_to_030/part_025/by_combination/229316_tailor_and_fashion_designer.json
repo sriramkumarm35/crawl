@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avon Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "229316",
+    "phone_number": "+91 73173 13465",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Devanandpur, Raebareli, Uttar Pradesh 229316",
+    "area": "Devanandpur",
+    "latitude": 26.247424499999997,
+    "longitude": 81.2411058,
+    "place_id": "ChIJHXhijXChmzkRF6Mvz3ONA6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXhijXChmzkRF6Mvz3ONA6w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:28:32"
+  },
+  {
+    "business_name": "STAR FASHIONS",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "229316",
+    "phone_number": "+91 99633 55097",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hno M-31, Nandanavanam Colony, Hanuman Nagar Colony, Meerpet, Hyderabad, Telangana 500097",
+    "area": "Nandanavanam Colony, Hanuman Nagar Colony, Meerpet",
+    "latitude": 17.326494999999998,
+    "longitude": 78.537712,
+    "place_id": "ChIJk6MYn3OjyzsRc-16j63JLC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6MYn3OjyzsRc-16j63JLC8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:28:35"
+  }
+]

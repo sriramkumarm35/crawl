@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pushpraj Jan Seva Kendra",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Kiosk",
+    "all_categories": "Kiosk, Auto insurance agency, Business banking service, Cell phone store, Computer service, Computer store, Internet cafe, Lamination service, Passport Agent, Payment terminal, Railway Ticket Agent",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "https://pushpraj-csc-jan-seva.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saroj Tiraha, Khajurni, Uttar Pradesh 230131",
+    "area": "230127",
+    "latitude": 25.8826042,
+    "longitude": 82.00764649999999,
+    "place_id": "ChIJr6-34ceXmjkRtAWuvKpFAIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6-34ceXmjkRtAWuvKpFAIw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:07"
+  },
+  {
+    "business_name": "Chauhan bus service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W292+Q57, Uday Raj Marg, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230127",
+    "latitude": 25.9194066,
+    "longitude": 82.0004344,
+    "place_id": "ChIJJ8g3QQCRmjkRKWBfRb3vXrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8g3QQCRmjkRKWBfRb3vXrQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:10"
+  }
+]

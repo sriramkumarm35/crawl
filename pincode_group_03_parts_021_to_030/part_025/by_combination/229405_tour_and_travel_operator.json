@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New jay balaji taxi service",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "229405",
+    "phone_number": "+91 88747 49999",
+    "website": "https://sites.google.com/view/newjaybalajitaxiservice/home",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "near satyam hospital, Vishnu Nagar, Krishna Nagar, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Vishnu Nagar, Krishna Nagar, Indira Nagar",
+    "latitude": 26.2107483,
+    "longitude": 81.2512102,
+    "place_id": "ChIJd0sIJsuhmzkR1vHd7RjHhfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0sIJsuhmzkR1vHd7RjHhfQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:02"
+  },
+  {
+    "business_name": "Radhe tour and travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "229405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bargad Chauraha, Krishna Nagar, Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Bargad Chauraha, Krishna Nagar, Sri Nagar",
+    "latitude": 26.2106425,
+    "longitude": 81.250828,
+    "place_id": "ChIJ0xapJQChmzkRWes4qnsJhy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xapJQChmzkRWes4qnsJhy8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:03"
+  }
+]

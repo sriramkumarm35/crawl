@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ra Media & Infotainment",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Audiovisual equipment rental service",
+    "pincode": "229212",
+    "phone_number": "+91 93840 09792",
+    "website": "http://www.ramedia.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "5, Babu Jagan Street Bala Vinayagar Nagar, Arumbakkam, Chennai, Tamil Nadu 600106",
+    "area": "Kanna Bala Nagar, Ashoka Nagar, Sri Sakthi Nagar, Arumbakkam",
+    "latitude": 13.0660438,
+    "longitude": 80.2117808,
+    "place_id": "ChIJa6uB9RJnUjoRi1cffatBGCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6uB9RJnUjoRi1cffatBGCM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:04:17"
+  },
+  {
+    "business_name": "Media Connect, Bangalore",
+    "search_category": "Media and Event",
+    "primary_category": "Media company",
+    "all_categories": "Media company",
+    "pincode": "229212",
+    "phone_number": "+91 77605 98121",
+    "website": "https://www.mediaconnectindia.com/",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "Building, #105, First Floor Café Coffee Day, Siddhaiah Puranik Rd, Shakthi Ganapathi Nagar, Basaveshwar Nagar, Bengaluru, Karnataka 560079",
+    "area": "Shakthi Ganapathi Nagar, Basaveshwar Nagar",
+    "latitude": 12.9973431,
+    "longitude": 77.5403819,
+    "place_id": "ChIJwwr2F2_lsTsRDPPEYhpm_uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwr2F2_lsTsRDPPEYhpm_uM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:04:17"
+  }
+]

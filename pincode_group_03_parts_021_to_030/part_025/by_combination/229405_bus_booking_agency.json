@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VANSH TOUR AND TREVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "229405",
+    "phone_number": "+91 98393 00092",
+    "website": "https://vermapraveen997.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna Nagar, Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Krishna Nagar, Sri Nagar",
+    "latitude": 26.214480599999998,
+    "longitude": 81.25281389999999,
+    "place_id": "ChIJm-814gGnmzkRfHIZ13cau4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-814gGnmzkRfHIZ13cau4Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:02"
+  },
+  {
+    "business_name": "Kamlesh Bharat Gas",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Gas Agency",
+    "all_categories": "Gas Agency",
+    "pincode": "229405",
+    "phone_number": "+91 91292 97444",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "423, near Bharat Gas Agency, Nirala Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Nirala Nagar",
+    "latitude": 26.220914699999998,
+    "longitude": 81.2439847,
+    "place_id": "ChIJK63GQ4uhmzkRjUZti5_bnco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK63GQ4uhmzkRjUZti5_bnco",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:02"
+  }
+]

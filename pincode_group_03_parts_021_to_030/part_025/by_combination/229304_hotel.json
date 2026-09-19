@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Revati Mahal",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel, Resort hotel",
+    "pincode": "229304",
+    "phone_number": "+91 79850 83981",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 399,
+    "address": "Revati Mahal, Raebareli Road, near Lodhi Baba Mandir, Gauriganj, Uttar Pradesh 227409",
+    "area": "229304",
+    "latitude": 26.2084343,
+    "longitude": 81.6774052,
+    "place_id": "ChIJj8lyn4RXmjkRg2PV1Mgyr28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8lyn4RXmjkRg2PV1Mgyr28",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:59"
+  },
+  {
+    "business_name": "Kalyanam hotel & marriage hall",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229304",
+    "phone_number": "+91 99180 90555",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 42,
+    "address": "Chowk - madhavpur road, near santoshi mata mandir, Gauriganj, Uttar Pradesh 227409",
+    "area": "229304",
+    "latitude": 26.209409599999997,
+    "longitude": 81.6904412,
+    "place_id": "ChIJS6bn1qZXmjkRy6S3NSCGEes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6bn1qZXmjkRy6S3NSCGEes",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:59"
+  }
+]

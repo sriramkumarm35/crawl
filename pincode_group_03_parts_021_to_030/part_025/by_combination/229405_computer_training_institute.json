@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise Computer & Educational Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "229405",
+    "phone_number": "+91 91514 30749",
+    "website": "http://sunrisecomputerinstitute.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3rd Floor, 789, Infront of Plesant View Hotel, Manika Road, Gandhi Nagar, Feroz Gandhi Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Gandhi Nagar, Feroz Gandhi Nagar",
+    "latitude": 26.219827799999997,
+    "longitude": 81.2530017,
+    "place_id": "ChIJoex49VqnmzkRyEmRvJZYTHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoex49VqnmzkRyEmRvJZYTHY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:34"
+  },
+  {
+    "business_name": "Edutech Raebareli Center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Professional organizer",
+    "all_categories": "Professional organizer",
+    "pincode": "229405",
+    "phone_number": "+91 94534 50869",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "opposite Feroze Gandhi Degree College, near Shaheed Chawk, Nirala Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Nirala Nagar",
+    "latitude": 26.2177276,
+    "longitude": 81.2445503,
+    "place_id": "ChIJmY3vzjahmzkRI9TzmXCtDl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmY3vzjahmzkRI9TzmXCtDl4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haroon chicken shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "230129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VV53+PG6 Sarai ana dev, Pahalwan Beer Baba Rd, Marg, Pratapgarh, Uttar Pradesh 230144",
+    "area": "Marg",
+    "latitude": 25.8592987,
+    "longitude": 81.8537577,
+    "place_id": "ChIJzxGHboDrmjkRkWkDRVEn2Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxGHboDrmjkRkWkDRVEn2Ac",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:12"
+  },
+  {
+    "business_name": "Gupta poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "230129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VR39+Q84, Narayanpur, Uttar Pradesh 230129",
+    "area": "230129",
+    "latitude": 25.8543877,
+    "longitude": 81.8183274,
+    "place_id": "ChIJbYi5CgDrmjkRFaavBxua5J0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYi5CgDrmjkRFaavBxua5J0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:12"
+  }
+]

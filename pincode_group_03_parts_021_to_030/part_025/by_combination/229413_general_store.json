@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229413",
+    "phone_number": "+91 96168 48964",
+    "website": "http://business.google.com/website/raja-general-store",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "9VRC+533, Kazipur Road,Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Dandi",
+    "latitude": 25.390386,
+    "longitude": 81.8701665,
+    "place_id": "ChIJO_1xH35KhTkReCdykOTx7Kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_1xH35KhTkReCdykOTx7Kk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:16"
+  },
+  {
+    "business_name": "Nandlal Ashish Kumar General And Machinery Store",
+    "search_category": "General Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229413",
+    "phone_number": "+91 98381 41577",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanuman Chauraha, Lalgopalganj, Uttar Pradesh 229413",
+    "area": "229413",
+    "latitude": 25.636314,
+    "longitude": 81.62458219999999,
+    "place_id": "ChIJIVA_Qs3bmjkR7hRRjnTQ0AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVA_Qs3bmjkR7hRRjnTQ0AA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:16"
+  }
+]

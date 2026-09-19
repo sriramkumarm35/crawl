@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonker Market",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "89P5+P7F, Amanwa, Janai, Uttar Pradesh 229306",
+    "area": "229306",
+    "latitude": 26.336809,
+    "longitude": 81.3581871,
+    "place_id": "ChIJAeuuOOavmzkRVPw9EDCQfOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeuuOOavmzkRVPw9EDCQfOw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:36"
+  },
+  {
+    "business_name": "Jeetu Kirana Store Kodra",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "887J+2PP, Amanwa, Uttar Pradesh 229306",
+    "area": "229306",
+    "latitude": 26.3125924,
+    "longitude": 81.3318354,
+    "place_id": "ChIJ33Eu_WSlmzkRbRohnUKdxDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33Eu_WSlmzkRbRohnUKdxDM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AHMAD COLLECTION",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "230135",
+    "phone_number": "+91 88879 43900",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Punjabi Market, Bela Pratapgarh, Pratapgarh, Uttar Pradesh 230001",
+    "area": "Punjabi Market",
+    "latitude": 25.9210189,
+    "longitude": 81.99961309999999,
+    "place_id": "ChIJUwLnGGeRmjkRFgWdkUAnoa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwLnGGeRmjkRFgWdkUAnoa8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:38"
+  },
+  {
+    "business_name": "Brothers Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "230135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cinema Rd, opposite shiv mandir, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230135",
+    "latitude": 25.919509899999998,
+    "longitude": 81.9981147,
+    "place_id": "ChIJgYnkTluRmjkRGtYLYEE8lZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYnkTluRmjkRGtYLYEE8lZU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Unnamed Road, Gurandi, Jabalpur, Madhya Pradesh 482002",
+    "area": "Gurandi",
+    "latitude": 23.1746104,
+    "longitude": 79.940477,
+    "place_id": "ChIJ2R_1whSugTkRw32MQdmLAFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2R_1whSugTkRw32MQdmLAFs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:30"
+  },
+  {
+    "business_name": "New Umra bangle store",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "230127",
+    "phone_number": "+91 95480 28049",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Royal market, Pratapgarh, Pure Ishwarnath, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "Pratapgarh",
+    "latitude": 25.9210094,
+    "longitude": 82.00002479999999,
+    "place_id": "ChIJsStervWRmjkRnaguioCzQd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsStervWRmjkRnaguioCzQd0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:30"
+  }
+]

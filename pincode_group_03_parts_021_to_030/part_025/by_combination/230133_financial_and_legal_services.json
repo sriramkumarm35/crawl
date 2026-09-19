@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur & Co Law Firm",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Divorce lawyer, Family law attorney, Lawyer",
+    "pincode": "230133",
+    "phone_number": "+91 88866 86177",
+    "website": "http://thakurlawfirm.in/",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "B-18, Ground Floor, Opp: Post Office, Vengal Rao Nagar Rd, Mothi Nagar, Vengal Rao Nagar, Sanjeeva Reddy Nagar, Hyderabad, Telangana 500038",
+    "area": "Mothi Nagar, Vengal Rao Nagar, Sanjeeva Reddy Nagar",
+    "latitude": 17.4412315,
+    "longitude": 78.4406255,
+    "place_id": "ChIJSTupOa2RyzsRM2yj8_zdN9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTupOa2RyzsRM2yj8_zdN9M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:08"
+  },
+  {
+    "business_name": "Minpay Consultants LLP",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "230133",
+    "phone_number": "N/A",
+    "website": "https://minpay.in/",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Netaji Subhash Place, Shakurpur, Delhi, 110034",
+    "area": "Netaji Subhash Place, Shakurpur",
+    "latitude": 28.692204399999998,
+    "longitude": 77.1532388,
+    "place_id": "ChIJ54qY5FD9DDkR4F3gq_i0meE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54qY5FD9DDkR4F3gq_i0meE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:09"
+  }
+]

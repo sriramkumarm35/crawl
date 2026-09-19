@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Squeez Juice Bars - Garuda Mall",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Dessert restaurant, Dessert shop, Ice cream shop, Snack bar",
+    "pincode": "229305",
+    "phone_number": "+91 63641 23267",
+    "website": "https://squeezjuicebars.com/",
+    "rating": 4.6,
+    "reviews_count": 604,
+    "address": "Food Court, Garuda Mall, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Ashok Nagar",
+    "latitude": 12.9701972,
+    "longitude": 77.6101336,
+    "place_id": "ChIJwRa8pQoXrjsRczlH7oHLlmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRa8pQoXrjsRczlH7oHLlmE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:15:48"
+  },
+  {
+    "business_name": "Juice & shake centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "229305",
+    "phone_number": "+91 82409 42836",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "isha khan masjid, Barrackpore Trunk Rd, Titagarh, Barrackpore, West Bengal 700119",
+    "area": "Titagarh",
+    "latitude": 22.7433105,
+    "longitude": 88.3723936,
+    "place_id": "ChIJa4Y8IACb-DkROqSjspD926s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4Y8IACb-DkROqSjspD926s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:15:49"
+  }
+]

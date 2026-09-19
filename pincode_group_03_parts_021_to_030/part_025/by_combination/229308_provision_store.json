@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vimal Janral Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229308",
+    "phone_number": "+91 93050 20654",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3chaurasiya Bhawan, Chitvaniya, Shivgarh, Baiti, Uttar Pradesh 229308",
+    "area": "Chitvaniya",
+    "latitude": 26.564671399999998,
+    "longitude": 81.2166764,
+    "place_id": "ChIJFapaBVDBmzkRgazelI6gipQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFapaBVDBmzkRgazelI6gipQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:03"
+  },
+  {
+    "business_name": "Vaibhav Janral Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229308",
+    "phone_number": "+91 95552 86796",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chaurasiya Bhawan, 8, Chitwaniya, Uttar Pradesh 229308",
+    "area": "229308",
+    "latitude": 26.5641006,
+    "longitude": 81.2170737,
+    "place_id": "ChIJUYD9iH3BmzkRJcxr5Ct-KRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYD9iH3BmzkRJcxr5Ct-KRs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:03"
+  }
+]

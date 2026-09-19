@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bala Ji Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "230128",
+    "phone_number": "+91 95068 70664",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mandal Bhanso Mandal Bhanso, Uttar Pradesh 230129",
+    "area": "230128",
+    "latitude": 25.790868999999997,
+    "longitude": 81.733403,
+    "place_id": "ChIJUc00PRnDmjkRi7cA50CXawY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUc00PRnDmjkRi7cA50CXawY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:04:46"
+  },
+  {
+    "business_name": "Esha poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "230128",
+    "phone_number": "+91 81760 23616",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Heera Ganj, Raigarh, Uttar Pradesh 230128",
+    "area": "Heera Ganj",
+    "latitude": 25.7677223,
+    "longitude": 81.6369005,
+    "place_id": "ChIJS0PO9zTdmjkR83T7QQ9D2qU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0PO9zTdmjkR83T7QQ9D2qU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:04:46"
+  }
+]

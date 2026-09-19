@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Old flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "230126",
+    "phone_number": "+91 79956 08902",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saritha Apartment, Nacharam - Mallapur Rd, Savarkar Nagar, Ram Reddy Colony, Nacharam, Secunderabad, Telangana 500076",
+    "area": "Savarkar Nagar, Ram Reddy Colony, Nacharam",
+    "latitude": 17.4339361,
+    "longitude": 78.55091399999999,
+    "place_id": "ChIJt1QjBtqbyzsR9anKlG3VILU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1QjBtqbyzsR9anKlG3VILU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:13"
+  },
+  {
+    "business_name": "Sathvi Oil Mill & Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "230126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "11, Hi-Tension Rd, ECIL, Cherlapalli Industrial Area, Alwal, Hyderabad, Secunderabad, Telangana 500062",
+    "area": "ECIL, Cherlapalli Industrial Area, Alwal",
+    "latitude": 17.481044699999998,
+    "longitude": 78.5612495,
+    "place_id": "ChIJPWjkOn-byzsRqrTOlsDaOec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWjkOn-byzsRqrTOlsDaOec",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:14"
+  }
+]

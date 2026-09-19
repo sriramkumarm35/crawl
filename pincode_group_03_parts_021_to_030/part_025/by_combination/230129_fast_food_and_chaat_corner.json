@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "230129",
+    "phone_number": "+91 93053 34866",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QVF2+RQ2, Hainsi Mandhata, Uttar Pradesh 230402",
+    "area": "230129",
+    "latitude": 25.774518099999998,
+    "longitude": 81.85188149999999,
+    "place_id": "ChIJrTMeFLDBmjkRA7K-DK1_EaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTMeFLDBmjkRA7K-DK1_EaY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:20"
+  },
+  {
+    "business_name": "Saurabh Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "230129",
+    "phone_number": "+91 86260 15646",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prtapgarh, Pryagraj Road, Katra Gulab Singh, Uttar Pradesh 230402",
+    "area": "Katra Gulab Singh",
+    "latitude": 25.7388384,
+    "longitude": 81.8006386,
+    "place_id": "ChIJXa2da27BmjkRAs4epMFzWRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXa2da27BmjkRAs4epMFzWRw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:06:22"
+  }
+]

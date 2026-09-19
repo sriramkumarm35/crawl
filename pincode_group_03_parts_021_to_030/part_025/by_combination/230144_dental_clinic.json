@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shweta Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "230144",
+    "phone_number": "+91 80052 00749",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sandra Khas, Sandwa Khas, Uttar Pradesh 230402",
+    "area": "230144",
+    "latitude": 25.8507037,
+    "longitude": 81.847025,
+    "place_id": "ChIJP-vBySjrmjkRsPwUdmJmrUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-vBySjrmjkRsPwUdmJmrUk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:30"
+  },
+  {
+    "business_name": "Ma Savitri Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "230144",
+    "phone_number": "+91 94159 62486",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "532, Shankar Dayal Rd, Pratapgarh, Uttar Pradesh 230002",
+    "area": "230144",
+    "latitude": 25.902786799999998,
+    "longitude": 81.9432805,
+    "place_id": "ChIJn10UrJyVmjkRPwEQwXL_gP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn10UrJyVmjkRPwEQwXL_gP0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:30"
+  }
+]

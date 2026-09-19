@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dashrath Lime & Paint merchant",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "230202",
+    "phone_number": "+91 99363 24949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sankalp nagar, Barai, Kunda, Uttar Pradesh 230204",
+    "area": "230202",
+    "latitude": 25.726387,
+    "longitude": 81.4984277,
+    "place_id": "ChIJN931CtkhmzkRRu8jUIGpaZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN931CtkhmzkRRu8jUIGpaZs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:36:23"
+  },
+  {
+    "business_name": "Datta Building Material Supplier",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Cement Supplier, Sand & gravel supplier",
+    "pincode": "230202",
+    "phone_number": "+91 98231 54331",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near hanuman temple, Ravi Nagar, Amravati, Maharashtra 444605",
+    "area": "Ravi Nagar",
+    "latitude": 20.917072599999997,
+    "longitude": 77.74536259999999,
+    "place_id": "ChIJPSV_rbSk1jsR7H4TAWgVBHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSV_rbSk1jsR7H4TAWgVBHU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:36:23"
+  }
+]

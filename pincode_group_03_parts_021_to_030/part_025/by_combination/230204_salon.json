@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atoz Mobile Glas",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "230204",
+    "phone_number": "+91 83828 99010",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siv Mobile, Surat, Kunda, Uttar Pradesh 230204",
+    "area": "230204",
+    "latitude": 25.7209304,
+    "longitude": 81.5149291,
+    "place_id": "ChIJwXE-tGchmzkRrlwuoGgppwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXE-tGchmzkRrlwuoGgppwg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:38:19"
+  },
+  {
+    "business_name": "The sanam beauty home",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "230204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Saryu nagar, Sarju Nagar, Kunda, Uttar Pradesh 230204",
+    "area": "Sarju Nagar",
+    "latitude": 25.7213179,
+    "longitude": 81.5105474,
+    "place_id": "ChIJMeAIl2IhmzkRoayfnWfFDj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeAIl2IhmzkRoayfnWfFDj0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:38:19"
+  }
+]

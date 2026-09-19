@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lifeline Surgicare",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Surgical Products Wholesaler",
+    "pincode": "230121",
+    "phone_number": "+91 98860 47949",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 40,
+    "address": "Emkey's, bus stop, Lifeline Surgicare Base ment, opp. kankanady, Kankanady, Mangaluru, Karnataka 575002",
+    "area": "Kankanady",
+    "latitude": 12.8681257,
+    "longitude": 74.858069,
+    "place_id": "ChIJQ8olMKFQozsR9E2wYCosMuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8olMKFQozsR9E2wYCosMuA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:41"
+  },
+  {
+    "business_name": "Akash Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "230121",
+    "phone_number": "+91 172 277 2071",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 14,
+    "address": "Sector 16 D, Sector 16, Chandigarh, 160015",
+    "area": "Sector 16 D, Sector 16",
+    "latitude": 30.7484443,
+    "longitude": 76.7745058,
+    "place_id": "ChIJ1yYHCpztDzkRQ1bRJkNEqek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yYHCpztDzkRQ1bRJkNEqek",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:41"
+  }
+]

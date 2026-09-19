@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Pathology",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Pathologist",
+    "pincode": "229310",
+    "phone_number": "+91 94154 46967",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Yadav Complex, Fursatganj Road, Deeh, Rorwa, Uttar Pradesh 229310",
+    "area": "229310",
+    "latitude": 26.1562999,
+    "longitude": 81.4393936,
+    "place_id": "ChIJBcv6EsEBmzkRo9rBPgAduNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcv6EsEBmzkRo9rBPgAduNk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:25:07"
+  },
+  {
+    "business_name": "SHIV MEDICAL STORE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "229310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deeh, Parsadepur Rd, Raebareli, Uttar Pradesh 229310",
+    "area": "229310",
+    "latitude": 26.173579999999998,
+    "longitude": 81.3260798,
+    "place_id": "ChIJjfoAvbSnmzkRyfAuhAV1iuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfoAvbSnmzkRyfAuhAV1iuA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:25:07"
+  }
+]

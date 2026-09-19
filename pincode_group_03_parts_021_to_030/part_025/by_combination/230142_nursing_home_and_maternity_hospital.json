@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "VPRR+C94, Babuganj, Uttar Pradesh 230126",
+    "area": "230142",
+    "latitude": 25.8910219,
+    "longitude": 81.7409484,
+    "place_id": "ChIJLfTJLy_pmjkRDREmGLcMjOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfTJLy_pmjkRDREmGLcMjOA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:28:52"
+  },
+  {
+    "business_name": "B.D. Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "5GQW+WHV, Prajapatipur, Uttar Pradesh 231312",
+    "area": "230142",
+    "latitude": 25.1898722,
+    "longitude": 82.5464361,
+    "place_id": "ChIJT5QF7x3qjzkRH3k9peViKSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5QF7x3qjzkRH3k9peViKSM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:28:52"
+  }
+]

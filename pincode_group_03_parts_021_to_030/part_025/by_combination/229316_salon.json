@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali Makeover",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Cosmetics store, Gift shop",
+    "pincode": "229316",
+    "phone_number": "+91 92353 85857",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amava Road, near Shubharati Hospital, Ratapur, Raebareli, Uttar Pradesh 229001",
+    "area": "Ratapur",
+    "latitude": 26.246205999999997,
+    "longitude": 81.2436618,
+    "place_id": "ChIJjaRUtVKhmzkRs_3RNmqJLKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjaRUtVKhmzkRs_3RNmqJLKo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:29:14"
+  },
+  {
+    "business_name": "Mishika Makeover",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Hair extension technician, Hair removal service, Make-up artist, Stylist",
+    "pincode": "229316",
+    "phone_number": "+91 88826 92963",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ITI shopping center, Doorbhash Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Doorbhash Nagar",
+    "latitude": 26.2330729,
+    "longitude": 81.26111619999999,
+    "place_id": "ChIJ-650eNWnmzkROvzK6kwpPNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-650eNWnmzkROvzK6kwpPNA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:29:14"
+  }
+]

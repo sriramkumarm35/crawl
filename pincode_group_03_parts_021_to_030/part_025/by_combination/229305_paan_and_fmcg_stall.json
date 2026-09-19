@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL Panshop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "229305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harabhajan Complex, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "area": "Deshpande Nagar",
+    "latitude": 15.3560705,
+    "longitude": 75.1381559,
+    "place_id": "ChIJW0DfKIHXuDsReW3KUsslCnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0DfKIHXuDsReW3KUsslCnw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:15:46"
+  },
+  {
+    "business_name": "The Galla Pan House",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "229305",
+    "phone_number": "+91 84693 52455",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "C-03, Vinayak Business Park, PDPU Rd, Raysan, Gujarat 382426",
+    "area": "229305",
+    "latitude": 23.158776,
+    "longitude": 72.6466267,
+    "place_id": "ChIJqVNUQeyBXjkRCHG3heIyvDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVNUQeyBXjkRCHG3heIyvDU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:15:47"
+  }
+]

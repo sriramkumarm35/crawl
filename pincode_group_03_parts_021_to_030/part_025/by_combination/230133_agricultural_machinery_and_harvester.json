@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sriram Tractors",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "230133",
+    "phone_number": "+91 93646 42202",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chennai Highways , Opp. E.S Engg. Coll. Ayyur Agaram, Villupuram, Viluppuram, Tamil Nadu 605601",
+    "area": "230133",
+    "latitude": 11.968455599999999,
+    "longitude": 79.5007171,
+    "place_id": "ChIJQdn4qDNRUzoRVKBRj01R5U8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdn4qDNRUzoRVKBRj01R5U8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:17"
+  },
+  {
+    "business_name": "Maruthi Krishi Udyog",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "230133",
+    "phone_number": "+91 94829 75463",
+    "website": "http://www.maruthikrishiudyog.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kerikode, Nelamangala Town, Karnataka 562123",
+    "area": "Kerikode",
+    "latitude": 13.106549099999999,
+    "longitude": 77.3960225,
+    "place_id": "ChIJvywCLpclrjsRPDildyRBFU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvywCLpclrjsRPDildyRBFU8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:17"
+  }
+]

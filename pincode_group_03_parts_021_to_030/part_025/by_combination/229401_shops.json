@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Clay Creation",
+    "search_category": "Shops",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store",
+    "pincode": "229401",
+    "phone_number": "+91 72750 05319",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Clay Creation, Khalik pur Kala, Chaturpur Urf Misrapur, Uttar Pradesh 229401",
+    "area": "229401",
+    "latitude": 25.972755199999998,
+    "longitude": 81.3034948,
+    "place_id": "ChIJN4NAMc8PmzkRqOuctWiu7Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN4NAMc8PmzkRqOuctWiu7Kg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:31:51"
+  },
+  {
+    "business_name": "Ma laxmi hardware paints & electronic",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "229401",
+    "phone_number": "+91 99847 08309",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Laxmiganj, Unchahar, Itaura Buzurg, Uttar Pradesh 229401",
+    "area": "Laxmiganj",
+    "latitude": 25.965615699999997,
+    "longitude": 81.3190272,
+    "place_id": "ChIJY97hLSIRmzkRyfJPq2NCTN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY97hLSIRmzkRyfJPq2NCTN0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:31:51"
+  }
+]

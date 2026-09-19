@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bengal Tour Plans",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Sightseeing Tour Operator, Tour operator",
+    "pincode": "230002",
+    "phone_number": "+91 84203 61281",
+    "website": "https://bengaltourplans.com/",
+    "rating": 4.7,
+    "reviews_count": 418,
+    "address": "Ground Floor, Annapurna Bari, 50/8D, Harish Mukherjee Rd, Bhowanipore, Kolkata, West Bengal 700025",
+    "area": "Bhowanipore",
+    "latitude": 22.5354571,
+    "longitude": 88.34374969999999,
+    "place_id": "ChIJZZ5UDctxAjoR5kAGa50IBbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZ5UDctxAjoR5kAGa50IBbQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:01"
+  },
+  {
+    "business_name": "Nikhil Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "230002",
+    "phone_number": "+91 78978 22941",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "vikram colony, Dahilamau, Uttar Pradesh 230001",
+    "area": "vikram colony",
+    "latitude": 25.931420499999998,
+    "longitude": 81.9823163,
+    "place_id": "ChIJH6U86qWRmjkRovHrgxAUHzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6U86qWRmjkRovHrgxAUHzI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:03"
+  }
+]

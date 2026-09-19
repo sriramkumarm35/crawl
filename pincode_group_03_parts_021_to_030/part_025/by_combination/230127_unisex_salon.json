@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Scissor Plaza",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon, Hairdresser",
+    "pincode": "230127",
+    "phone_number": "+91 99369 78540",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 30,
+    "address": "Babaganj Phb, Pratapgarh, Pure Ishwarnath, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "Pratapgarh",
+    "latitude": 25.9183216,
+    "longitude": 82.000563,
+    "place_id": "ChIJVbjEWNSQmjkRbDh9ssN3bqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbjEWNSQmjkRbDh9ssN3bqM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:23"
+  },
+  {
+    "business_name": "Rana hair saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "230127",
+    "phone_number": "+91 88583 47363",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Gaffar petrol pump ke bagal Pawan Palace road babaganj, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230127",
+    "latitude": 25.9181733,
+    "longitude": 82.000453,
+    "place_id": "ChIJXUV7C7eRmjkRNUz10RmfpJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUV7C7eRmjkRNUz10RmfpJs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:23"
+  }
+]

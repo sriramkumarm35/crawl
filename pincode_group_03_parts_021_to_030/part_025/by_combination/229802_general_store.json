@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pihu general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G9CP+FM8, Mahiya Senduriya, Uttar Pradesh 229802",
+    "area": "229802",
+    "latitude": 26.5215902,
+    "longitude": 81.38708919999999,
+    "place_id": "ChIJ9VS8IMS3mzkRzMMrQEyd88Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VS8IMS3mzkRzMMrQEyd88Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:49:52"
+  },
+  {
+    "business_name": "Pawan General Store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "229802",
+    "phone_number": "+91 88963 38799",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pecharuwa, Haidargarh, Pecharua, Uttar Pradesh 225124",
+    "area": "Pecharuwa",
+    "latitude": 26.604636799999998,
+    "longitude": 81.3863932,
+    "place_id": "ChIJY73nt_TJmzkRHxkGDvDBWso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY73nt_TJmzkRHxkGDvDBWso",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:49:52"
+  }
+]

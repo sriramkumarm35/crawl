@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surya Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "230137",
+    "phone_number": "+91 94374 57020",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Old, NH 6, WN 9, Bandutikra, Bargarh, Odisha 768028",
+    "area": "WN 9, Bandutikra",
+    "latitude": 21.3430604,
+    "longitude": 83.6189946,
+    "place_id": "ChIJB9YYm0ZLIToR7UQViLeCowc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9YYm0ZLIToR7UQViLeCowc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:22:21"
+  },
+  {
+    "business_name": "Jayashree Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "230137",
+    "phone_number": "+91 6646 230 024",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "8JM9+873, Uma Talkies Rd, Bargarh, Odisha 768028",
+    "area": "230137",
+    "latitude": 21.333251999999998,
+    "longitude": 83.61818389999999,
+    "place_id": "ChIJGfSGiJRKIToRWcSPw1oNwqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfSGiJRKIToRWcSPw1oNwqA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:22:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya sweets & bakery",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "229401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W7JR+W42, SH 38, Sawaya Dhani, Uttar Pradesh 229404",
+    "area": "229401",
+    "latitude": 25.933339399999998,
+    "longitude": 81.2901078,
+    "place_id": "ChIJ8S8jcAARmzkRcDYY2hGsoDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8S8jcAARmzkRcDYY2hGsoDA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:30:13"
+  },
+  {
+    "business_name": "Rahul Sweets & Namkeen",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Snack bar",
+    "pincode": "229401",
+    "phone_number": "+91 89487 46161",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4765+J79, Jamalpur Nankari, Uttar Pradesh 229402",
+    "area": "229401",
+    "latitude": 26.1115368,
+    "longitude": 81.2582371,
+    "place_id": "ChIJc34p74MJmzkRJd_8gxJ_nwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc34p74MJmzkRJd_8gxJ_nwU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:30:13"
+  }
+]

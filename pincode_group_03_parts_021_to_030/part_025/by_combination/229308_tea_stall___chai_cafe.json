@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj bun makkhan chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Coffee shop",
+    "pincode": "229308",
+    "phone_number": "+91 90444 74149",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 252,
+    "address": "Shivalik Chauraha,Bijarwa Post -bankat,SH 66, Azamgarh, Uttar Pradesh 276125",
+    "area": "229308",
+    "latitude": 26.1176981,
+    "longitude": 83.21670879999999,
+    "place_id": "ChIJp7XETACjkTkRB4unLXJOG_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7XETACjkTkRB4unLXJOG_8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:14"
+  },
+  {
+    "business_name": "Tea Value",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "229308",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/tea.value?igsh=aWYyeXNlcWk3cTR6",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "NH-233, Azamghar Ambedkar Nagar Road, Bhawarnath, Devkhari, Azamgarh, Uttar Pradesh 276135",
+    "area": "Bhawarnath",
+    "latitude": 26.093229899999997,
+    "longitude": 83.1663323,
+    "place_id": "ChIJr0qwJACjkTkRPiQKCv6LBPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0qwJACjkTkRPiQKCv6LBPo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:14"
+  }
+]

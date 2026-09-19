@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Gallery of Modern Art",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "230133",
+    "phone_number": "+91 22 2288 1969",
+    "website": "http://www.ngmaindia.gov.in/ngma_mumbai.asp",
+    "rating": 4.4,
+    "reviews_count": 2406,
+    "address": "Jahangir Public Hall, Sir Cowasji, Mahatma Gandhi Road, Mantralaya, Fort, Mumbai, Maharashtra 400032",
+    "area": "Mantralaya, Fort",
+    "latitude": 18.9257724,
+    "longitude": 72.83144659999999,
+    "place_id": "ChIJBZWe1sPR5zsRzh5wXAiDNwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZWe1sPR5zsRzh5wXAiDNwM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:20"
+  },
+  {
+    "business_name": "Piramal Art Gallery",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "230133",
+    "phone_number": "+91 22 2202 9483",
+    "website": "http://ncpamumbai.com/",
+    "rating": 4.4,
+    "reviews_count": 90,
+    "address": "WRGC+52V National Centre of the Performing Arts, NCPA Marg, Nariman Point, Mumbai, Maharashtra 400021",
+    "area": "Nariman Point",
+    "latitude": 18.9254849,
+    "longitude": 72.8200322,
+    "place_id": "ChIJ3f3Pne7R5zsRaf0B-jWbfAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3f3Pne7R5zsRaf0B-jWbfAE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:20"
+  }
+]

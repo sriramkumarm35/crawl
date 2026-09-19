@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orbis Realtors Real Estate Consultants",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "229310",
+    "phone_number": "+91 90262 22444",
+    "website": "http://www.orbisrealtors.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Millenium place, Orbis Real Estate Services Pvt.Ltd, next to Lulu Mall, Sector B Ansal API, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Sector B Ansal API",
+    "latitude": 26.7825317,
+    "longitude": 80.989935,
+    "place_id": "ChIJm_MyBP3lmzkR-dbzqHuiAOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_MyBP3lmzkR-dbzqHuiAOc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:26:07"
+  },
+  {
+    "business_name": "Combine Estate Services India",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "229310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambedkar Market, Harakhpur, Cheete Mau, Uttar Pradesh 212507",
+    "area": "229310",
+    "latitude": 25.698123799999998,
+    "longitude": 81.8411799,
+    "place_id": "ChIJyaG5aSTHmjkRhyGMRa6IiFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaG5aSTHmjkRhyGMRa6IiFs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:26:08"
+  }
+]

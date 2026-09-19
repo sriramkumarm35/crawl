@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHASHANK MEDICAL AGENCY",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "229402",
+    "phone_number": "+91 94159 36813",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 1 Jagatpur, Chauraha, Dalmau Road, Jagatpur, Uttar Pradesh 229402",
+    "area": "229402",
+    "latitude": 26.054054599999997,
+    "longitude": 81.27313629999999,
+    "place_id": "ChIJ-Uf74VEPmzkRhJUHPo41xF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Uf74VEPmzkRhJUHPo41xF4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:19"
+  },
+  {
+    "business_name": "Saloni Clinic Jagatpur Raebareli",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "229402",
+    "phone_number": "+91 94155 24129",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jagatpur, Uttar Pradesh 229402",
+    "area": "229402",
+    "latitude": 26.0536164,
+    "longitude": 81.2738285,
+    "place_id": "ChIJaQiPgVUPmzkRk1sLVGpHm-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQiPgVUPmzkRk1sLVGpHm-0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "medical",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "230134",
+    "phone_number": "+91 84236 17686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "hwc, Gajariya, Uttar Pradesh 230134",
+    "area": "hwc",
+    "latitude": 25.8410238,
+    "longitude": 82.1781613,
+    "place_id": "ChIJd1t2J1afmjkRgeG5t5IUdYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1t2J1afmjkRgeG5t5IUdYE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:16:24"
+  },
+  {
+    "business_name": "Abhishek Kumar",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "230134",
+    "phone_number": "+91 96954 26572",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bibipur, Uttar Pradesh 230135",
+    "area": "230134",
+    "latitude": 25.949056,
+    "longitude": 82.1931149,
+    "place_id": "ChIJf92f3vmdmjkR08qDsCH3Knc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf92f3vmdmjkR08qDsCH3Knc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:16:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "229408",
+    "phone_number": "+91 81740 89020",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "PGX3+FCW, Mangarh Dham Rd, fooltali, Kunda, Chak Adilali, Uttar Pradesh 230204",
+    "area": "fooltali",
+    "latitude": 25.7487417,
+    "longitude": 81.5035917,
+    "place_id": "ChIJ_-nYdQAhmzkRqkWJkLH93ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-nYdQAhmzkRqkWJkLH93ks",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:39:07"
+  },
+  {
+    "business_name": "Dawat Restaurat",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229408",
+    "phone_number": "+91 93350 51400",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 107,
+    "address": "WX3R+664, Jogapur, Uttar Pradesh 230131",
+    "area": "229408",
+    "latitude": 25.9030187,
+    "longitude": 81.990584,
+    "place_id": "ChIJOUmNPACXmjkR907xW18VF7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUmNPACXmjkR907xW18VF7A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:39:08"
+  }
+]

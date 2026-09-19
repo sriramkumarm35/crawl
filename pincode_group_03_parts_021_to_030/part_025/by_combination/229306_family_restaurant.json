@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "Haidargarh road, Maharajganj, Uttar Pradesh 229306",
+    "area": "229306",
+    "latitude": 26.3905678,
+    "longitude": 81.276822,
+    "place_id": "ChIJ54oDM8q7mzkRcSKUgeO8jZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54oDM8q7mzkRcSKUgeO8jZk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:41"
+  },
+  {
+    "business_name": "Anayra’s restaurant and Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229306",
+    "phone_number": "+91 91292 22210",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "Mahabir degree College, near about Nexa showroom, Harchandpur, Kathwara, Uttar Pradesh 229303",
+    "area": "229306",
+    "latitude": 26.3119262,
+    "longitude": 81.1899674,
+    "place_id": "ChIJtQJGlrSjmzkRl_BDfBEaots",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQJGlrSjmzkRl_BDfBEaots",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:44"
+  }
+]

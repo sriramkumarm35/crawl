@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leela Medical and Surgical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "229405",
+    "phone_number": "+91 70528 19297",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gate No. 1, Surya bhavn complex, Shop no. 5,6 basement, Munshiganj, Raebareli, Uttar Pradesh 229001",
+    "area": "Krishna Nagar, Sri Nagar",
+    "latitude": 26.214480599999998,
+    "longitude": 81.25281389999999,
+    "place_id": "ChIJuTJm1j-nmzkRuE830S4-pMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTJm1j-nmzkRuE830S4-pMs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:44"
+  },
+  {
+    "business_name": "Jaiswal Medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "229405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near, Amethi road, chauraha, Munshiganj, Uttar Pradesh 229405",
+    "area": "chauraha",
+    "latitude": 26.183520599999998,
+    "longitude": 81.24499949999999,
+    "place_id": "ChIJeZbT-AtfmjkRbvvHMNcwbmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZbT-AtfmjkRbvvHMNcwbmE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:44"
+  }
+]

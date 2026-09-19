@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Bala Ji Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "229216",
+    "phone_number": "+91 98898 58253",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Dalmau Rd, Husainganj, Uttar Pradesh 212651",
+    "area": "229216",
+    "latitude": 26.0000762,
+    "longitude": 80.9336545,
+    "place_id": "ChIJHQ6T0wZ7mzkRON7aIVySuaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQ6T0wZ7mzkRON7aIVySuaw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:59"
+  },
+  {
+    "business_name": "सोनी ज्वेलर्स",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "229216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chorahiya, Uttar Pradesh 229216",
+    "area": "229216",
+    "latitude": 26.0865558,
+    "longitude": 80.9146962,
+    "place_id": "ChIJS0Qkt9h4mzkRzWZw7kgmTKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0Qkt9h4mzkRzWZw7kgmTKU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:59"
+  }
+]

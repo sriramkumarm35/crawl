@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaylaxmi Traders",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "230126",
+    "phone_number": "+91 63078 30703",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamasin, Akodhi, Uttar Pradesh 230129",
+    "area": "Kamasin",
+    "latitude": 25.735046099999998,
+    "longitude": 81.749575,
+    "place_id": "ChIJjQ2hbwzDmjkRXYA_2ZMCsnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQ2hbwzDmjkRXYA_2ZMCsnU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:22"
+  },
+  {
+    "business_name": "Mani Square",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "230126",
+    "phone_number": "+91 98314 89780",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "164/1 Maniktala Main Road, Eastern Metropolitan Bypass, Kolkata, West Bengal 700054",
+    "area": "Kadapara, Phoolbagan, Kankurgachi",
+    "latitude": 22.5776883,
+    "longitude": 88.4010594,
+    "place_id": "ChIJO6DIwXd2AjoRpGSPKoMCvOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6DIwXd2AjoRpGSPKoMCvOE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:23"
+  }
+]

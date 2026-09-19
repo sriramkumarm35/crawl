@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheetalnirmal eye care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230121",
+    "phone_number": "+91 74082 75855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amargarh patti road, Pratapgarh, Udai Shahpur, Uttar Pradesh 222126",
+    "area": "Pratapgarh",
+    "latitude": 25.9319921,
+    "longitude": 82.3213985,
+    "place_id": "ChIJNfOaOABzkDkRpE1iOUpcCRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfOaOABzkDkRpE1iOUpcCRU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:35"
+  },
+  {
+    "business_name": "MPIC Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "230121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W83C+F4G, Bhogipur, Uttar Pradesh 230124",
+    "area": "230121",
+    "latitude": 25.9036771,
+    "longitude": 82.3203163,
+    "place_id": "ChIJR-AF1ZVzkDkROXjmKgXhhv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-AF1ZVzkDkROXjmKgXhhv4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:35"
+  }
+]

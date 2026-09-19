@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kunal furniture store",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "229401",
+    "phone_number": "+91 99368 12615",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near SBI Bank CSP ke samne, Umaran, Uttar Pradesh 229404",
+    "area": "229401",
+    "latitude": 25.9401238,
+    "longitude": 81.36468959999999,
+    "place_id": "ChIJZ3VsukIbmzkRJwpWNXE9UhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3VsukIbmzkRJwpWNXE9UhY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:30:58"
+  },
+  {
+    "business_name": "Sohanlal Furnitures",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "229401",
+    "phone_number": "+91 90051 32067",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sohan La Furniture Umari Salon, Uttar Pradesh 229128",
+    "area": "229401",
+    "latitude": 26.0590707,
+    "longitude": 81.39720659999999,
+    "place_id": "ChIJpZ6rPrsFmzkRSG6ZftwllJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZ6rPrsFmzkRSG6ZftwllJg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:30:58"
+  }
+]

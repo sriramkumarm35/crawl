@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surya Garden",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "230127",
+    "phone_number": "+91 94512 75888",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dileeppur, Dauarikapur, Uttar Pradesh 230127",
+    "area": "230127",
+    "latitude": 25.8887641,
+    "longitude": 82.05171659999999,
+    "place_id": "ChIJC_5IGqmZmjkRcFf_iFF_NdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_5IGqmZmjkRcFf_iFF_NdM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:27"
+  },
+  {
+    "business_name": "صفا محل Safa Palace",
+    "search_category": "Banquet Hall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230127",
+    "phone_number": "+91 94153 52284",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 131,
+    "address": "W2C4+7X4, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230127",
+    "latitude": 25.920626799999997,
+    "longitude": 82.0074528,
+    "place_id": "ChIJLzOKFEGRmjkRPjt_D1Db130",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzOKFEGRmjkRPjt_D1Db130",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:28"
+  }
+]

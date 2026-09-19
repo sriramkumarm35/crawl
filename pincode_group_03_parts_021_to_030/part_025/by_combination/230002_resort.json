@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Resort",
+    "search_category": "Resort",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "230002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Usrapur, Uttar Pradesh 230402",
+    "area": "230002",
+    "latitude": 25.828021099999997,
+    "longitude": 81.9074844,
+    "place_id": "ChIJi00a1ZiVmjkRC6u2nRzDPwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi00a1ZiVmjkRC6u2nRzDPwo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:25"
+  },
+  {
+    "business_name": "mansarovar marriage lawn and resort",
+    "search_category": "Resort",
+    "primary_category": "Marriage celebrant",
+    "all_categories": "Marriage celebrant",
+    "pincode": "230002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bhupiyamau, Kamaipur, Uttar Pradesh 230131",
+    "area": "230002",
+    "latitude": 25.8784414,
+    "longitude": 81.96017119999999,
+    "place_id": "ChIJvUpxK1qXmjkRs8d3li43m2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUpxK1qXmjkRs8d3li43m2M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:25"
+  }
+]

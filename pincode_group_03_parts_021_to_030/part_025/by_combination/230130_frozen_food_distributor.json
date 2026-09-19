@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozzeto",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "230130",
+    "phone_number": "+91 97697 69904",
+    "website": "https://www.swiggy.com/menu/959982?source=sharing",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "4th Floor, Harihar Enclave, GS Rd, Christian Basti, Guwahati, Assam 781005",
+    "area": "Christian Basti",
+    "latitude": 26.1560554,
+    "longitude": 91.7787784,
+    "place_id": "ChIJLR8bB7hZWjcR_mYLfVAfT_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLR8bB7hZWjcR_mYLfVAfT_g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:08:01"
+  },
+  {
+    "business_name": "Sri Shyam Sales",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, FMCG Goods Wholesaler",
+    "pincode": "230130",
+    "phone_number": "+91 98323 56310",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bandana apartment, Saradamoni Rd, Ashram Para, Hakim Para, Siliguri, West Bengal 734001",
+    "area": "Ashram Para, Hakim Para",
+    "latitude": 26.7212879,
+    "longitude": 88.429705,
+    "place_id": "ChIJEb0BI1ZB5DkRtr58PVAa9As",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEb0BI1ZB5DkRtr58PVAa9As",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:08:01"
+  }
+]

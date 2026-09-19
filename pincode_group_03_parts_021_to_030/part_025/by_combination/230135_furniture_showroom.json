@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Furniture & Electronics",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Furniture Rental Store",
+    "pincode": "230135",
+    "phone_number": "+91 99582 14953",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mujahi to Narayanpur Road, Kalahuganj Bazar, Rampur Bela, Patti, Uttar Pradesh 230135",
+    "area": "Kalahuganj Bazar",
+    "latitude": 25.995915999999998,
+    "longitude": 82.20875819999999,
+    "place_id": "ChIJD_YbHwCdmjkRSWoWJTNc128",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_YbHwCdmjkRSWoWJTNc128",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:18:16"
+  },
+  {
+    "business_name": "Satyam Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories supplier",
+    "all_categories": "Furniture accessories supplier",
+    "pincode": "230135",
+    "phone_number": "+91 94501 87892",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 14,
+    "address": "W5CX+JJ3, Main Rd, Patti, Uttar Pradesh 230135",
+    "area": "230135",
+    "latitude": 25.921503299999998,
+    "longitude": 82.1990497,
+    "place_id": "ChIJf3Z-ZwmemjkRyso0xvNb0Ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3Z-ZwmemjkRyso0xvNb0Ic",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:18:17"
+  }
+]

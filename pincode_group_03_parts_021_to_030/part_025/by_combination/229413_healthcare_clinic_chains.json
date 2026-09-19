@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community Health Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "229413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "9RMR+MCP, DHABHAW CHAKA NAINI DHABHAW CHAKA, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.384209499999997,
+    "longitude": 81.8410907,
+    "place_id": "ChIJwSTxXNo1hTkR-9cv_YCPASI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSTxXNo1hTkR-9cv_YCPASI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:43"
+  },
+  {
+    "business_name": "Yashlok Hospital & Research Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Gynecologist, Orthopedic surgeon, Research institute",
+    "pincode": "229413",
+    "phone_number": "+91 94521 10437",
+    "website": "https://www.yashlokhospital.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "43-a, 31a, Hashimpur Rd, Prayagraj, Uttar Pradesh 211001",
+    "area": "Tagore Town",
+    "latitude": 25.460223,
+    "longitude": 81.8655041,
+    "place_id": "ChIJz1AQBaDKmjkRuooQc3Xyqis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1AQBaDKmjkRuooQc3Xyqis",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:43"
+  }
+]

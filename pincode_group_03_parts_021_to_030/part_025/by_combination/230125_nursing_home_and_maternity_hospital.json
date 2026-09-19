@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Dhanu Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "QVVH+H28, Mandhata, Uttar Pradesh 230402",
+    "area": "230125",
+    "latitude": 25.7939167,
+    "longitude": 81.8775898,
+    "place_id": "ChIJCT4ahu2_mjkRhQ39eUg8ubE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCT4ahu2_mjkRhQ39eUg8ubE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:59:14"
+  },
+  {
+    "business_name": "Ashirwad Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "230125",
+    "phone_number": "+91 94153 50808",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gayatri Nagar 167, Katra Rd, Teonga, Uttar Pradesh 230002",
+    "area": "230125",
+    "latitude": 25.8978896,
+    "longitude": 81.9663545,
+    "place_id": "ChIJQ5vdGruWmjkRXYrRGKAf3dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5vdGruWmjkRXYrRGKAf3dk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:59:16"
+  }
+]

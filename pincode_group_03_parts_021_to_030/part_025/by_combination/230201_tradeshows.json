@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay construction company",
+    "search_category": "Tradeshows",
+    "primary_category": "Trade fair construction company",
+    "all_categories": "Trade fair construction company",
+    "pincode": "230201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "nearby shanidev tempal, Dalapur, Samaspur, Uttar Pradesh 230201",
+    "area": "Dalapur",
+    "latitude": 25.5998233,
+    "longitude": 81.567869,
+    "place_id": "ChIJW-ZDHRHXmjkRe2R-QrcOh5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-ZDHRHXmjkRe2R-QrcOh5o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:26"
+  },
+  {
+    "business_name": "Litfusion India Pvt Ltd",
+    "search_category": "Tradeshows",
+    "primary_category": "Book publisher",
+    "all_categories": "Book publisher",
+    "pincode": "230201",
+    "phone_number": "+91 99928 84343",
+    "website": "https://litfusionindia.com/",
+    "rating": 5,
+    "reviews_count": 82,
+    "address": "Prem Nagar, Kunda, Uttar Pradesh 230204",
+    "area": "Prem Nagar",
+    "latitude": 25.716015,
+    "longitude": 81.5182688,
+    "place_id": "ChIJm0epNEnfmjkREkmowDv9Ni0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0epNEnfmjkREkmowDv9Ni0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukulpur market",
+    "search_category": "Departmental Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "230125",
+    "phone_number": "+91 96211 96391",
+    "website": "http://www.shukulpur.wordpress.com/",
+    "rating": 3.9,
+    "reviews_count": 161,
+    "address": "Shukulpur, Uttar Pradesh 230139",
+    "area": "230125",
+    "latitude": 26.0426176,
+    "longitude": 81.68530899999999,
+    "place_id": "ChIJYfq2GHz6mjkRvDvNLUxZzLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfq2GHz6mjkRvDvNLUxZzLI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:58:47"
+  },
+  {
+    "business_name": "🏠 घनश्याम राजपूत ठाकुर होम",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "230125",
+    "phone_number": "+91 98397 38904",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lakhara Rd, Muraini, Uttar Pradesh 230139",
+    "area": "230125",
+    "latitude": 26.0594911,
+    "longitude": 81.6352465,
+    "place_id": "ChIJ0avwv7_7mjkRndI1eZdfHiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0avwv7_7mjkRndI1eZdfHiA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:58:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Battery Dukaan",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Battery Wholesaler, Car battery store",
+    "pincode": "229207",
+    "phone_number": "+91 91825 02589",
+    "website": "https://www.batterydukaan.in/",
+    "rating": 5,
+    "reviews_count": 88,
+    "address": "9th Phase Rd, Kukatpally Housing Board Colony, K P H B Phase 6, chandana enclave, Hyderabad, Telangana 500085",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 6, chandana enclave",
+    "latitude": 17.4863036,
+    "longitude": 78.38653049999999,
+    "place_id": "ChIJP-yB4kuRyzsR4p5ryUMKtOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-yB4kuRyzsR4p5ryUMKtOs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:55:03"
+  },
+  {
+    "business_name": "BATTERY CENTER",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Manufacturer, Battery Store, Battery Wholesaler",
+    "pincode": "229207",
+    "phone_number": "+91 90258 16560",
+    "website": "https://www.batterycenter.in/",
+    "rating": 4.8,
+    "reviews_count": 77,
+    "address": "1299, Thadagam Main Rd, Near Milk Company, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "area": "Near Milk Company, R.S. Puram",
+    "latitude": 11.0079196,
+    "longitude": 76.9447843,
+    "place_id": "ChIJ7Z-rY-ZZqDsR1RE2Qz4BlBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Z-rY-ZZqDsR1RE2Qz4BlBs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:55:03"
+  }
+]

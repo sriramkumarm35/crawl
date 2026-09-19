@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Laxmi",
+    "search_category": "Doctors",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V8X2+M6V, Akodhiya Rd, Uncha Har Dehat, Unchahar, Uttar Pradesh 229404",
+    "area": "229406",
+    "latitude": 25.8992489,
+    "longitude": 81.3005383,
+    "place_id": "ChIJy8l7QwARmzkRK1igpBJBRL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8l7QwARmzkRK1igpBJBRL0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:34"
+  },
+  {
+    "business_name": "Dr MANOJ",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W859+RP7, Babhanpur, Unchahar, Uttar Pradesh 229406",
+    "area": "229406",
+    "latitude": 25.9095436,
+    "longitude": 81.3193119,
+    "place_id": "ChIJXWbPRZwRmzkRknulWlv8jDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWbPRZwRmzkRknulWlv8jDw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:34"
+  }
+]

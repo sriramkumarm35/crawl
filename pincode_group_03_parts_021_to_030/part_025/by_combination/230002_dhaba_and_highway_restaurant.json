@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Delight family Dhaba & Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "230002",
+    "phone_number": "+91 99502 70351",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pal Bypass Road, near Junawa Complex, M.I.A. 1st Phase, Basni, Basni, Jodhpur, Rajasthan 342014",
+    "area": "M.I.A. 1st Phase, Basni, Basni",
+    "latitude": 26.214659599999997,
+    "longitude": 72.9876618,
+    "place_id": "ChIJ35KeqGCJQTkRkEbRjGhfdyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35KeqGCJQTkRkEbRjGhfdyc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:53:29"
+  },
+  {
+    "business_name": "Mewar Bagh Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Piparda, Rajasthan 313324",
+    "area": "230002",
+    "latitude": 25.0199438,
+    "longitude": 73.855007,
+    "place_id": "ChIJWyl4l6JtaDkReQslZ5qzr50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyl4l6JtaDkReQslZ5qzr50",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:53:29"
+  }
+]

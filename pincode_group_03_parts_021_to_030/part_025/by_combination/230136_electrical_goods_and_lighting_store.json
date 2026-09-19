@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJESH TELECOM AND ELECTRIC STORE",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "230136",
+    "phone_number": "+91 87870 41549",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Handaur, Uttar Pradesh 230136",
+    "area": "230136",
+    "latitude": 25.9293357,
+    "longitude": 81.7914916,
+    "place_id": "ChIJbTXtGz3smjkRk5IQVDSUabk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTXtGz3smjkRk5IQVDSUabk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:19:57"
+  },
+  {
+    "business_name": "Kailash Electronic",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "230136",
+    "phone_number": "+91 80528 99230",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Unnamed Road, Jamtali, Uttar Pradesh 230302",
+    "area": "230136",
+    "latitude": 25.8352105,
+    "longitude": 82.1192796,
+    "place_id": "ChIJl1YpVpmZmjkRyXBNlqsugF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1YpVpmZmjkRyXBNlqsugF8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:19:58"
+  }
+]

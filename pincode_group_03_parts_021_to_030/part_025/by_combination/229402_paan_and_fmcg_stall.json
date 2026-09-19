@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit pan shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "229402",
+    "phone_number": "+91 70684 86934",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "66HJ+CJV, Khali Sahat Rd, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.2286087,
+    "longitude": 81.23155009999999,
+    "place_id": "ChIJ2ZDdkGKhmzkR6PpdagL1Waw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZDdkGKhmzkR6PpdagL1Waw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:31:57"
+  },
+  {
+    "business_name": "Rajjan Paan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "229402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "46PH+6P4, Unnamed Road, Bela Bhela, Uttar Pradesh 229402",
+    "area": "229402",
+    "latitude": 26.135504899999997,
+    "longitude": 81.22933669999999,
+    "place_id": "ChIJyW5QtmwKmzkRfXTfRl1Hqgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyW5QtmwKmzkRfXTfRl1Hqgc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:31:57"
+  }
+]

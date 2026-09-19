@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TRIPATHI AUTO GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "230204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "JCG3+8QR, Andhawa, Uttar Pradesh 212204",
+    "area": "230204",
+    "latitude": 25.625868099999998,
+    "longitude": 81.40465309999999,
+    "place_id": "ChIJKUR9Wa4lmzkRtCRB-JiEXQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUR9Wa4lmzkRtCRB-JiEXQQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:56"
+  },
+  {
+    "business_name": "MOIN AUTO GARAGE tractor workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tractor repair shop",
+    "all_categories": "Tractor repair shop, Garage",
+    "pincode": "230204",
+    "phone_number": "+91 79915 69496",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 19, Ganapa, Uttar Pradesh 212217",
+    "area": "230204",
+    "latitude": 25.6387666,
+    "longitude": 81.381126,
+    "place_id": "ChIJXTHaJJIlmzkRgrxmZuzOYDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTHaJJIlmzkRgrxmZuzOYDM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaudhary General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Amawan Chauraha, Amawan, Amawa, Uttar Pradesh 229311",
+    "area": "Amawan",
+    "latitude": 26.5277583,
+    "longitude": 81.0870259,
+    "place_id": "ChIJr9U6z-XrmzkRHrt4-WFxCog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9U6z-XrmzkRHrt4-WFxCog",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:26:25"
+  },
+  {
+    "business_name": "Sandeep traders",
+    "search_category": "Provision Store",
+    "primary_category": "Custom Confiscated Goods Store",
+    "all_categories": "Custom Confiscated Goods Store",
+    "pincode": "229311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vikash nagar lalganj road, Bachhrawan, Uttar Pradesh 229301",
+    "area": "229311",
+    "latitude": 26.463153199999997,
+    "longitude": 81.1015352,
+    "place_id": "ChIJDbPnUHGVmzkRMxoN5GQvwiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbPnUHGVmzkRMxoN5GQvwiw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:26:27"
+  }
+]

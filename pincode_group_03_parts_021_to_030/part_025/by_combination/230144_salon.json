@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "230144",
+    "phone_number": "+91 98732 96794",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Rajendra Hair Salon, Road, Domipur, Kachha, Uttar Pradesh 230144",
+    "area": "230144",
+    "latitude": 25.885934799999998,
+    "longitude": 81.7821438,
+    "place_id": "ChIJUwwm9aTrmjkRk8MGHP9SioQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwwm9aTrmjkRk8MGHP9SioQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:57"
+  },
+  {
+    "business_name": "GULFAM HAIR SALOON",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "230144",
+    "phone_number": "+91 91255 93893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sarai Ana Dev, Birsinghpur, Puranpur Khas, Uttar Pradesh 230144",
+    "area": "230144",
+    "latitude": 25.862902199999997,
+    "longitude": 81.8329345,
+    "place_id": "ChIJU9OEsd_rmjkR7oMWi-UncJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9OEsd_rmjkR7oMWi-UncJg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:57"
+  }
+]

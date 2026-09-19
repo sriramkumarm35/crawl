@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya rao",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "230137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WVRP+XJQ, Bahuchara, Uttar Pradesh 230137",
+    "area": "230137",
+    "latitude": 25.942472499999997,
+    "longitude": 81.8866233,
+    "place_id": "ChIJlXKrHwCTmjkRB4826iDGrXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXKrHwCTmjkRB4826iDGrXo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:21:43"
+  },
+  {
+    "business_name": "Jaswat Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "230137",
+    "phone_number": "+91 98388 22878",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Purekhusai, Mohanganj, Uttar Pradesh 230002",
+    "area": "230137",
+    "latitude": 25.8903994,
+    "longitude": 81.9023339,
+    "place_id": "ChIJy0msp4qVmjkRNOxmVI_9Sbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0msp4qVmjkRNOxmVI_9Sbk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:21:44"
+  }
+]

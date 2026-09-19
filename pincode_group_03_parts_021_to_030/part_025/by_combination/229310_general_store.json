@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Girish General Store",
+    "search_category": "General Store",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "229310",
+    "phone_number": "+91 85489 01667",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Feroz Gandhi Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Feroz Gandhi Nagar",
+    "latitude": 26.2199957,
+    "longitude": 81.24978349999999,
+    "place_id": "ChIJb4j-tMShmzkR6Zk8b8vF024",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4j-tMShmzkR6Zk8b8vF024",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:24:44"
+  },
+  {
+    "business_name": "Sunil general store",
+    "search_category": "General Store",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "229310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4CV6+F27, Deeh, Uttar Pradesh 229310",
+    "area": "229310",
+    "latitude": 26.143669799999998,
+    "longitude": 81.41004029999999,
+    "place_id": "ChIJf_QvmiQHmzkRnJib1sdnFNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_QvmiQHmzkRnJib1sdnFNw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:24:44"
+  }
+]

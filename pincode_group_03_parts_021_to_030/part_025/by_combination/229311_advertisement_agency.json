@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaid Mohammad",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "229311",
+    "phone_number": "+91 88879 24722",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nigoha, Utrawan, Patauna, Uttar Pradesh 226302",
+    "area": "Nigoha",
+    "latitude": 26.5949372,
+    "longitude": 81.07284179999999,
+    "place_id": "ChIJQSAWRVztmzkRqveYvVXP4AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSAWRVztmzkRqveYvVXP4AA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:28:07"
+  },
+  {
+    "business_name": "NARAYANI ADVERTISING",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Laser Cutting Service Provider, Print shop",
+    "pincode": "229311",
+    "phone_number": "+91 97825 48079",
+    "website": "https://www.printstation.co.in/",
+    "rating": 4.8,
+    "reviews_count": 205,
+    "address": "08 karni vivek vihar, Gandhi Path Rd, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Maa Hingloj Nagar, Gulab Vihar B, Vaishali Nagar",
+    "latitude": 26.9049862,
+    "longitude": 75.72525329999999,
+    "place_id": "ChIJJ2DZNZy0bTkRqsFG1hIKNnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2DZNZy0bTkRqsFG1hIKNnM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:28:08"
+  }
+]

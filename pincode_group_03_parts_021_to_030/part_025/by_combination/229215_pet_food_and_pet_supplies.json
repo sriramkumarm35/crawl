@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World Pet Mart",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "229215",
+    "phone_number": "+91 98240 63273",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 137,
+    "address": "G-18, Gold Coin Complex, Jodhpur Cross Rd, Satellite, Ahmedabad, Gujarat 380015",
+    "area": "Kameshwar Vihar, Suryapooja Block B, Satellite",
+    "latitude": 23.025869399999998,
+    "longitude": 72.5268399,
+    "place_id": "ChIJscqLfc6EXjkR05DfUJsJG70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscqLfc6EXjkR05DfUJsJG70",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:02"
+  },
+  {
+    "business_name": "Maple Pets International Pvt. Ltd.",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "229215",
+    "phone_number": "+91 72250 02229",
+    "website": "https://maplepets.in/",
+    "rating": 4.8,
+    "reviews_count": 265,
+    "address": "792 Dwarkapuri, 60 Feet Rd, near Futi Kothi, Prajapat Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Prajapat Nagar",
+    "latitude": 22.6919234,
+    "longitude": 75.8252512,
+    "place_id": "ChIJDTSL_jP8YjkRljpI8lgoYg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTSL_jP8YjkRljpI8lgoYg8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:02"
+  }
+]

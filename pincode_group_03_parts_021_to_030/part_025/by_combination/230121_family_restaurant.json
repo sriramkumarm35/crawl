@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FOOD JUNCTION FAMILY RESTAURANT & SNAKKER",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230121",
+    "phone_number": "+91 87796 13622",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Fattupur,Badlapur, Uttar Pradesh 222125",
+    "area": "230121",
+    "latitude": 25.9133419,
+    "longitude": 82.4298409,
+    "place_id": "ChIJJSpUQDdtkDkRzz5rA4aGHcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSpUQDdtkDkRzz5rA4aGHcc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:22"
+  },
+  {
+    "business_name": "Anand bhog Family Restaurant & Bekars",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230121",
+    "phone_number": "+91 87076 94506",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 25,
+    "address": "Shiv Mandir Ke Pass, Anand Bhog, Derwa - Kunda Rd, Derwa, Sabalgarh, Uttar Pradesh 230128",
+    "area": "230121",
+    "latitude": 25.8378649,
+    "longitude": 81.73284009999999,
+    "place_id": "ChIJHwqq_QDpmjkRI6s87TrRfHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwqq_QDpmjkRI6s87TrRfHo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:25"
+  }
+]

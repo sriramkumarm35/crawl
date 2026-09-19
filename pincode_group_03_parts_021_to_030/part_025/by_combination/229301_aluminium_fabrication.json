@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel metal",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "229301",
+    "phone_number": "+91 63888 43082",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shivgarh road, near Shikhar flex, Bachhrawan, Malhipur, Uttar Pradesh 229301",
+    "area": "229301",
+    "latitude": 26.475831099999997,
+    "longitude": 81.1172228,
+    "place_id": "ChIJy4OYcQCVmzkRpRU66bnJQWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4OYcQCVmzkRpRU66bnJQWo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:09:57"
+  },
+  {
+    "business_name": "Khan Aluminium & glass works",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminum window",
+    "all_categories": "Aluminum window, Glass shop",
+    "pincode": "229301",
+    "phone_number": "+91 88535 66721",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Umesh Ara machine, Pani Tanki road, bypass, Shivgarh, Bachhrawan, Uttar Pradesh 229301",
+    "area": "bypass",
+    "latitude": 26.4734642,
+    "longitude": 81.1109127,
+    "place_id": "ChIJLYwIKPuVmzkROQpZnWLCpnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYwIKPuVmzkROQpZnWLCpnY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:09:57"
+  }
+]

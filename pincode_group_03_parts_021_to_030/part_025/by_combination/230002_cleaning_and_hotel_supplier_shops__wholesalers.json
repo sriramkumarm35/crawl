@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Sales Agency",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store, Cleaning products supplier, Toiletries Store",
+    "pincode": "230002",
+    "phone_number": "+91 77710 53000",
+    "website": "http://www.laxmisalesagency.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sadhya, Ground floor, Dhamtari Rd, near Kamal Vihar, Sector 8B, Devpuri, Raipur, Chhattisgarh 492015",
+    "area": "Sector 8B",
+    "latitude": 21.2029161,
+    "longitude": 81.67764009999999,
+    "place_id": "ChIJ_aTe4zndKDoRUakMtArENgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aTe4zndKDoRUakMtArENgU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:28"
+  },
+  {
+    "business_name": "Shreya International",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Disposable Items shop, Household chemicals supplier, Office equipment supplier, Office supply wholesaler",
+    "pincode": "230002",
+    "phone_number": "+91 85273 47806",
+    "website": "https://shreyainternational.in/",
+    "rating": 4.8,
+    "reviews_count": 171,
+    "address": "Awana Complex, Plot No 1, Nithari Rd, opposite Primary School, Nithari, A-Block, Sector 31, Noida, Uttar Pradesh 201301",
+    "area": "Nithari, A-Block, Sector 31",
+    "latitude": 28.5755025,
+    "longitude": 77.345148,
+    "place_id": "ChIJSejKrzDlDDkRByBRWIAbvXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSejKrzDlDDkRByBRWIAbvXE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:28"
+  }
+]

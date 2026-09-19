@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "khatija hair saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W865+QM7, Unchahar Rd, Unchahar, Uttar Pradesh 229406",
+    "area": "229406",
+    "latitude": 25.9119241,
+    "longitude": 81.3091704,
+    "place_id": "ChIJm-apL0ERmzkR_uG_lMTPhrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-apL0ERmzkR_uG_lMTPhrY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:00"
+  },
+  {
+    "business_name": "Out Look salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "229406",
+    "phone_number": "+91 98075 72838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khojanpur, Unchahar, Uttar Pradesh 229404",
+    "area": "229406",
+    "latitude": 25.9095233,
+    "longitude": 81.2933628,
+    "place_id": "ChIJATALStkRmzkRJuSAH8dovW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATALStkRmzkRJuSAH8dovW0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:00"
+  }
+]

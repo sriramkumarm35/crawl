@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WearMySpex.com",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center, Sunglasses store",
+    "pincode": "230124",
+    "phone_number": "+91 94737 33125",
+    "website": "http://wearmyspex.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "in front of gov hospital Chaka, Naini, Prayagraj, Mohabatganj Uparhar, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.3841164,
+    "longitude": 81.84058809999999,
+    "place_id": "ChIJ24zr2qI1hTkRZcMesRmoxkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24zr2qI1hTkRZcMesRmoxkM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:57:23"
+  },
+  {
+    "business_name": "Saurabh Eye Care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "230124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dugauli, Mahrajgaunj, Uttar Pradesh 222145",
+    "area": "230124",
+    "latitude": 25.8456886,
+    "longitude": 82.3876276,
+    "place_id": "ChIJZ6uGgC5zkDkRC6P_DSYiDpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6uGgC5zkDkRC6P_DSYiDpc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:57:24"
+  }
+]

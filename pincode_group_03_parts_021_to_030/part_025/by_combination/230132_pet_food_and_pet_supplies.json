@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zooland Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "230132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WPJ3+R9F, Lalganj Ajhara, Pure Tikaram, Uttar Pradesh 230132",
+    "area": "230132",
+    "latitude": 25.9320648,
+    "longitude": 81.7034242,
+    "place_id": "ChIJfRGg_6XvmjkRaY6A9DoEMS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRGg_6XvmjkRaY6A9DoEMS0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:11:49"
+  },
+  {
+    "business_name": "RAHUL PET's",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Animal shelter, Bird shop, Dog breeder, Dog trainer, Animal feed store, Pet adoption service, Pet store, Veterinarian",
+    "pincode": "230132",
+    "phone_number": "+91 93355 52233",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 189,
+    "address": "jagarnathpur, Chahaniya, Uttar Pradesh 232114",
+    "area": "230132",
+    "latitude": 25.4114622,
+    "longitude": 83.2134378,
+    "place_id": "ChIJgZ46WmQjjjkRvJ9tbrDHY28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ46WmQjjjkRvJ9tbrDHY28",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:11:51"
+  }
+]

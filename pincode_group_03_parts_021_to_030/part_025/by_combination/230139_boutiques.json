@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abya Fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "230139",
+    "phone_number": "+91 82869 27006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pratapgarh, Rehualalganj, Uttar Pradesh 230139",
+    "area": "Pratapgarh",
+    "latitude": 26.0599433,
+    "longitude": 81.617828,
+    "place_id": "ChIJL-Ea2_D7mjkR2ynH05dSuPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-Ea2_D7mjkR2ynH05dSuPQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:25:09"
+  },
+  {
+    "business_name": "Tilori mod kunda pratapgarh",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "230139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tilori mod, Kunda, Uttar Pradesh 230204",
+    "area": "230139",
+    "latitude": 25.7186915,
+    "longitude": 81.5197862,
+    "place_id": "ChIJIdvUawDfmjkR59vDdyaGlM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdvUawDfmjkR59vDdyaGlM4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:25:10"
+  }
+]

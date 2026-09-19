@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Mobiles & Electronics Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "229301",
+    "phone_number": "+91 77740 01052",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Devi Sadan, SH13, Goorha Chauraha, Road, opposite to Rachana Computers, Shivgarh, Uttar Pradesh 229301",
+    "area": "229301",
+    "latitude": 26.525495,
+    "longitude": 81.19660809999999,
+    "place_id": "ChIJKeBcbu_BmzkRqWFhtoA7Tqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeBcbu_BmzkRqWFhtoA7Tqk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:09:44"
+  },
+  {
+    "business_name": "Dixit mobile shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "229301",
+    "phone_number": "N/A",
+    "website": "http://dixitmobileshop.netlify.app/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Front off, Rudra Complex, Amawan Road, Ratapur, Raebareli, Uttar Pradesh 229316",
+    "area": "Ratapur",
+    "latitude": 26.2466236,
+    "longitude": 81.2440788,
+    "place_id": "ChIJl5HtStejmzkRWoly4m4YmHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5HtStejmzkRWoly4m4YmHU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:09:44"
+  }
+]

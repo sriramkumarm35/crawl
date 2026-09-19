@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHAKES FARM",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "230144",
+    "phone_number": "+91 97728 81998",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Shobhagpura, Udaipur, Sobhagpura, Rajasthan 313001",
+    "area": "Shobhagpura",
+    "latitude": 24.6072959,
+    "longitude": 73.71125479999999,
+    "place_id": "ChIJzdZCEuPlZzkRgESKqvxege0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdZCEuPlZzkRgESKqvxege0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:12"
+  },
+  {
+    "business_name": "Slurpology - Thick Shakes and Juices",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Dessert shop, Snack bar",
+    "pincode": "230144",
+    "phone_number": "+91 70120 99604",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd main, 2nd Cross Rd, chikka banaswadi, OMBR Layout, Bengaluru, Karnataka 560043",
+    "area": "chikka banaswadi, OMBR Layout, Banaswadi",
+    "latitude": 13.008440199999999,
+    "longitude": 77.6498553,
+    "place_id": "ChIJ0fTW0wwXrjsRWCmCmZjx8F4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fTW0wwXrjsRWCmCmZjx8F4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:12"
+  }
+]

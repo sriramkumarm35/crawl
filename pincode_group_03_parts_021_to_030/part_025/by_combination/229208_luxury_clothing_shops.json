@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Le Mill",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing Accessories Store, Furniture store, Jewelry store",
+    "pincode": "229208",
+    "phone_number": "+91 85919 07690",
+    "website": "http://lemillindia.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1st Floor, Pheroze Building, Chhatrapati Shivaji Maharaj Marg, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+    "area": "Apollo Bandar, Colaba",
+    "latitude": 18.9238197,
+    "longitude": 72.83328089999999,
+    "place_id": "ChIJCcHFMMHR5zsRxIEH4a1lJOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcHFMMHR5zsRxIEH4a1lJOs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:56:34"
+  },
+  {
+    "business_name": "Luxury D’Allure",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "229208",
+    "phone_number": "+91 85880 58196",
+    "website": "http://www.luxurydallure.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "15, E Block Rd, Block E, Tagore Garden, Tagore Garden Extension, Delhi, 110027",
+    "area": "Block E, Tagore Garden, Tagore Garden Extension",
+    "latitude": 28.6482875,
+    "longitude": 77.1118485,
+    "place_id": "ChIJByqUHx4DDTkRB-CBOBytZ54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByqUHx4DDTkRB-CBOBytZ54",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:56:34"
+  }
+]

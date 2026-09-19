@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrim Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "229413",
+    "phone_number": "+91 94152 69705",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "521, Meerapur, Prayagraj, Uttar Pradesh 211003",
+    "area": "Meerapur",
+    "latitude": 25.427108,
+    "longitude": 81.82771199999999,
+    "place_id": "ChIJPyafLSk1hTkRZpRS3jt1EXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyafLSk1hTkRZpRS3jt1EXo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:56"
+  },
+  {
+    "business_name": "Raj Paint Palace",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229413",
+    "phone_number": "+91 99365 16337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, A, D A Market, Rajapur, Prayagraj, Uttar Pradesh 211001",
+    "area": "Rajapur",
+    "latitude": 25.466189099999998,
+    "longitude": 81.849662,
+    "place_id": "ChIJTccMER3LmjkRAMXOZM2Req0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTccMER3LmjkRAMXOZM2Req0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:57"
+  }
+]

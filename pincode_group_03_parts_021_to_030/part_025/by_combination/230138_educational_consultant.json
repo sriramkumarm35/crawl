@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Digital Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "230138",
+    "phone_number": "+91 96820 69899",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "288jrr8788 122, Ramganj Baazar, Sihauli, Uttar Pradesh 230138",
+    "area": "230138",
+    "latitude": 26.013748999999997,
+    "longitude": 82.3313567,
+    "place_id": "ChIJPfSWvZ5xkDkRqv8LAa4SBKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfSWvZ5xkDkRqv8LAa4SBKI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:11"
+  },
+  {
+    "business_name": "First Choice group Of Education Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Education",
+    "all_categories": "Education",
+    "pincode": "230138",
+    "phone_number": "+91 94546 90038",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jethwara, Pratapgarh, Uttar Pradesh 230129",
+    "area": "230138",
+    "latitude": 25.821496,
+    "longitude": 81.7718663,
+    "place_id": "ChIJ65LvxYbpmjkRsJPwtlvLg44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65LvxYbpmjkRsJPwtlvLg44",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:11"
+  }
+]

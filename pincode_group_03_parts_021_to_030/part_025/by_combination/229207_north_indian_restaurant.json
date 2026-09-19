@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Go green dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "229207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3395+2VQ, SH 38, Dalmau, Uttar Pradesh 229203",
+    "area": "229207",
+    "latitude": 26.067597799999998,
+    "longitude": 81.0597367,
+    "place_id": "ChIJreVBDXJ3mzkRgnm_Jd0EyUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJreVBDXJ3mzkRgnm_Jd0EyUk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:54:35"
+  },
+  {
+    "business_name": "Raja Gupta",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "229207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X3JV+49P, Kotla, Uttar Pradesh 229207",
+    "area": "229207",
+    "latitude": 25.980325399999998,
+    "longitude": 81.0934673,
+    "place_id": "ChIJmXvk1OxzmzkRHsBT59HSDvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXvk1OxzmzkRHsBT59HSDvg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:54:35"
+  }
+]

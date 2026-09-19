@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rauf market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "229302",
+    "phone_number": "+91 99194 11828",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 18,
+    "address": "7F5H+V93, Odaree, Uttar Pradesh 229304",
+    "area": "229302",
+    "latitude": 26.2596292,
+    "longitude": 81.47843449999999,
+    "place_id": "ChIJg9Q17H2rmzkRU6UczdVGji8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9Q17H2rmzkRU6UczdVGji8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:12:00"
+  },
+  {
+    "business_name": "राजा मौर्य सब्जी मंडी",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "229302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "6M4R+3Q7, Kajipatty, Raj Garh, Gauriganj, Uttar Pradesh 227409",
+    "area": "Kajipatty",
+    "latitude": 26.2051515,
+    "longitude": 81.6919305,
+    "place_id": "ChIJSQl5wulZmjkRw9o-TNJJIWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQl5wulZmjkRw9o-TNJJIWo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:12:02"
+  }
+]

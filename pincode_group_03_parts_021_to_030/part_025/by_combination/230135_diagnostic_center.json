@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAY DIOGNOSTIC CENTRE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "230135",
+    "phone_number": "+91 98392 28480",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W6H4+2HQ के बगल, ढकवा रोड, शिव मन्दिर, Patti, Uttar Pradesh 230135",
+    "area": "शिव मन्दिर",
+    "latitude": 25.9275803,
+    "longitude": 82.2064706,
+    "place_id": "ChIJ9UHxdP2dmjkRsbK6UbWiWds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UHxdP2dmjkRsbK6UbWiWds",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:49"
+  },
+  {
+    "business_name": "Agilus Diagnostics - Patti, Pratapgarh",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service",
+    "pincode": "230135",
+    "phone_number": "+91 86016 91297",
+    "website": "https://agilusdiagnostics.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Collection Centre, Raipur Rd, Patti, Maraha, Uttar Pradesh 230135",
+    "area": "230135",
+    "latitude": 25.988933,
+    "longitude": 82.20326899999999,
+    "place_id": "ChIJ50XujnWdmjkRXNs4BR9qoXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50XujnWdmjkRXNs4BR9qoXE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:51"
+  }
+]

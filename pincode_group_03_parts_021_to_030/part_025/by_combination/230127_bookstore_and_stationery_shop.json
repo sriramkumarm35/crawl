@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "230127",
+    "phone_number": "+91 94153 80903",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "WX7X+J2R, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230127",
+    "latitude": 25.9141095,
+    "longitude": 81.99751549999999,
+    "place_id": "ChIJtd2T28KXmjkRT7YbmWwqgBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtd2T28KXmjkRT7YbmWwqgBw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:41"
+  },
+  {
+    "business_name": "AAPNI DUKAN",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "230127",
+    "phone_number": "+91 78910 46691",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Bishnoi Mohalla, Suratgarh, Rajasthan 335804",
+    "area": "Bishnoi Mohalla",
+    "latitude": 29.3212835,
+    "longitude": 73.89230979999999,
+    "place_id": "ChIJV4uIPdFzFjkRSlwthDpWHFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4uIPdFzFjkRSlwthDpWHFU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:44"
+  }
+]

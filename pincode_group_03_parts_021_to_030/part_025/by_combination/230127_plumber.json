@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hanu Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "https://hanu-enterprises.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanu Enterprises, 230127, India",
+    "area": "230127",
+    "latitude": 25.89977,
+    "longitude": 81.944465,
+    "place_id": "ChIJpTShCgqZmjkRfsfz0LZjj6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTShCgqZmjkRfsfz0LZjj6A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:16"
+  },
+  {
+    "business_name": "Anil plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "230127",
+    "phone_number": "+91 80763 07265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "604/40 street no 5/2, near inder public school, Ravi Nagar, Sector 9, Gurugram, Haryana 122001",
+    "area": "Ravi Nagar, Sector 9",
+    "latitude": 28.4588206,
+    "longitude": 77.0007545,
+    "place_id": "ChIJi577_bIXDTkRcEbJ3iuTfXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi577_bIXDTkRcEbJ3iuTfXg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:18"
+  }
+]

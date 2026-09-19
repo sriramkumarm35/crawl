@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Kumar Prajapati",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229215",
+    "phone_number": "+91 81140 40742",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pure pandey, Jhampur, Sareni, Uttar Pradesh 229215",
+    "area": "229215",
+    "latitude": 26.1315724,
+    "longitude": 80.84634779999999,
+    "place_id": "ChIJHxLZ66aBmzkRstBARdkXoYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxLZ66aBmzkRstBARdkXoYo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:04:56"
+  },
+  {
+    "business_name": "SHIVDAS TUBEWELL HOUSE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Supermarket",
+    "pincode": "229215",
+    "phone_number": "+91 94532 75381",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Himmatpur, Dhanpalpur, Uttar Pradesh 229212",
+    "area": "229215",
+    "latitude": 26.1436645,
+    "longitude": 80.85789919999999,
+    "place_id": "ChIJZ0YR2jOAmzkRek7skN6BH0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0YR2jOAmzkRek7skN6BH0U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:04:56"
+  }
+]

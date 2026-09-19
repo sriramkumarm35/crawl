@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha pharmacy",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "230143",
+    "phone_number": "+91 94141 51414",
+    "website": "http://www.kaachal.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Behind Arya Samaj, Sheoganj, Rajasthan 307027",
+    "area": "Hiragar Wadi",
+    "latitude": 25.1391565,
+    "longitude": 73.06319069999999,
+    "place_id": "ChIJD4trJorrQjkRAmtdgyXWcW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4trJorrQjkRAmtdgyXWcW4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:31:11"
+  },
+  {
+    "business_name": "Rishi Dawakhana",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Ayurvedic clinic, Herbal medicine store",
+    "pincode": "230143",
+    "phone_number": "+91 93110 81111",
+    "website": "http://www.rishidawakhana.com/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Rajeev Colony, Sanjay Colony, Narela, Delhi, 110040",
+    "area": "Rajeev Colony, Sanjay Colony, Narela",
+    "latitude": 28.8560348,
+    "longitude": 77.0905923,
+    "place_id": "ChIJaYk2Z2-pDTkRItPkpY-D7yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYk2Z2-pDTkRItPkpY-D7yw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:31:13"
+  }
+]

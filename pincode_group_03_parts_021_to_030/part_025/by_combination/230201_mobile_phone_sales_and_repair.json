@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji mobile sale and service",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "230201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PG95+2X2, Kareti Road, Pandy Ka Purwa, Kunda, Uttar Pradesh 230204",
+    "area": "Pandy Ka Purwa",
+    "latitude": 25.7175034,
+    "longitude": 81.50987909999999,
+    "place_id": "ChIJ_6DrRwAhmzkRjE_6m85bIkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6DrRwAhmzkRjE_6m85bIkg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:05"
+  },
+  {
+    "business_name": "SONU MOBILE SHOP",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "230201",
+    "phone_number": "+91 83181 24793",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "MQX5+88V, Mukund Pur Road, Mukundpur, Uttar Pradesh 212503",
+    "area": "230201",
+    "latitude": 25.698359999999997,
+    "longitude": 81.7582879,
+    "place_id": "ChIJw8mUGBPEmjkRaXcX5dTX5bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8mUGBPEmjkRaXcX5dTX5bE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:09"
+  }
+]

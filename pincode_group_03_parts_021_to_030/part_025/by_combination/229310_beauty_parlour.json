@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Glam Beauty Cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "229310",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Super Collection, Rasheed Market, Ghantaghar, Raebareli, Uttar Pradesh 229001",
+    "area": "Ghantaghar",
+    "latitude": 26.2274514,
+    "longitude": 81.2375777,
+    "place_id": "ChIJFYbvlUyhmzkR1N4-v2pbMPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYbvlUyhmzkR1N4-v2pbMPs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:25:34"
+  },
+  {
+    "business_name": "Bharat cosmetic & general Store",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "229310",
+    "phone_number": "+91 97525 01356",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kotwali Rd, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.2258645,
+    "longitude": 81.236071,
+    "place_id": "ChIJdXpW0_KhmzkRmFhRKuTApnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXpW0_KhmzkRmFhRKuTApnE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:25:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalka kirana shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "230204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "2QGF+2X3, Gaurav Path, Indra Colony, Pratapgad, Rajasthan 312605",
+    "area": "Indra Colony",
+    "latitude": 24.0250228,
+    "longitude": 74.7749231,
+    "place_id": "ChIJSWjpCU-PZjkRBQ3quCJkHMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWjpCU-PZjkRBQ3quCJkHMc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:29"
+  },
+  {
+    "business_name": "Nice bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "230204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kunda, Uttar Pradesh 230204",
+    "area": "230204",
+    "latitude": 25.7263681,
+    "longitude": 81.4973619,
+    "place_id": "ChIJl6qhSgAhmzkRu_736RyW2xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6qhSgAhmzkRu_736RyW2xc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Film City",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Photography service, Photography studio",
+    "pincode": "230127",
+    "phone_number": "+91 95875 35595",
+    "website": "https://www.instagram.com/rameshfilmcity/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Natata Road, Amer, Kunda, Chouraha, Rajasthan 302028",
+    "area": "Kunda, Chouraha",
+    "latitude": 27.013561799999998,
+    "longitude": 75.8953038,
+    "place_id": "ChIJK6DgGRyxbTkRr0bZoy6nLcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6DgGRyxbTkRr0bZoy6nLcs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:36"
+  },
+  {
+    "business_name": "OM Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner, Event technology service",
+    "pincode": "230127",
+    "phone_number": "+91 89391 74777",
+    "website": "https://omeventschennai.com/",
+    "rating": 5,
+    "reviews_count": 447,
+    "address": "Shree Soft Techno Coders Unmai Nagar, 101, Street Number 6, near varun media, S. Kolathur, S.Kolathur, Mylai Kapaleshwarar Nagar, Madipakkam, Tambaram, Tamil Nadu 600091",
+    "area": "S. Kolathur, S.Kolathur, Mylai Kapaleshwarar Nagar, Madipakkam",
+    "latitude": 12.9529234,
+    "longitude": 80.1981694,
+    "place_id": "ChIJI6Gh3gxnUjoRCax5w9eEPik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6Gh3gxnUjoRCax5w9eEPik",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadaha Bazar",
+    "search_category": "Departmental Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "230124",
+    "phone_number": "+91 99190 23411",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 298,
+    "address": "Dhakwa Road, Patti, Sadaha, Uttar Pradesh 230124",
+    "area": "230124",
+    "latitude": 25.9295136,
+    "longitude": 82.2831013,
+    "place_id": "ChIJR_CG6h50kDkRga9t-1NxuYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_CG6h50kDkRga9t-1NxuYM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:56:59"
+  },
+  {
+    "business_name": "RCM Store, Singramau, Jaunpur (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "230124",
+    "phone_number": "+91 91259 82221",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. Mahakali Mandir Gate, Singramau, Singhawal, Uttar Pradesh 222175",
+    "area": "230124",
+    "latitude": 25.9465593,
+    "longitude": 82.397262,
+    "place_id": "ChIJcckyfXNvkDkRC0I7ly5IVRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcckyfXNvkDkRC0I7ly5IVRc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:57:00"
+  }
+]

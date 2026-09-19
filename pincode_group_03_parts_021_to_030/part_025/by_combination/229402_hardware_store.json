@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puspendra Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229402",
+    "phone_number": "+91 95696 41925",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Bai Pass Road, Raebareli, Jhakrasi, Uttar Pradesh 229405",
+    "area": "229402",
+    "latitude": 26.173831399999997,
+    "longitude": 81.25698969999999,
+    "place_id": "ChIJ2fhgOdOnmzkRQnMboZRgmhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fhgOdOnmzkRQnMboZRgmhU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:35"
+  },
+  {
+    "business_name": "Rajan Enterprises",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "229402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajan Traders, Maneharu Chauraha, Manehroo, Uttar Pradesh 229125",
+    "area": "229402",
+    "latitude": 26.1571031,
+    "longitude": 81.1694172,
+    "place_id": "ChIJf3TCER2hmzkRb-r8OtuLHPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3TCER2hmzkRb-r8OtuLHPk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "230204",
+    "phone_number": "+91 87378 43069",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daranagar Ajuha, Uttar Pradesh 212204",
+    "area": "230204",
+    "latitude": 25.6797006,
+    "longitude": 81.35231639999999,
+    "place_id": "ChIJd96R-qslmzkRlYBIFgAbfMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd96R-qslmzkRlYBIFgAbfMc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:43"
+  },
+  {
+    "business_name": "Pasand footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "230204",
+    "phone_number": "+91 94522 83725",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Purani bazar, Bharwari, Uttar Pradesh 212201",
+    "area": "Purani bazar",
+    "latitude": 25.5602455,
+    "longitude": 81.4910996,
+    "place_id": "ChIJPb0Nb_opmzkRw6C-S16CKKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPb0Nb_opmzkRw6C-S16CKKk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:44"
+  }
+]

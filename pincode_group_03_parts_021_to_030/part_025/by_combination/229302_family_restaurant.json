@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE BABA FAMILY RESTAURANT AND DHABA",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sultanpur road, near Sarthi marriage lawn, Kasimpur Baghail, Dighiya, Uttar Pradesh 229310",
+    "area": "229302",
+    "latitude": 26.2468847,
+    "longitude": 81.3256457,
+    "place_id": "ChIJXZv1dBCnmzkRdpIe8wuNU2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZv1dBCnmzkRdpIe8wuNU2c",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:29"
+  },
+  {
+    "business_name": "SHREE HARI FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "229302",
+    "phone_number": "+91 76077 22226",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 64,
+    "address": "Raebareli - Lucknow Road Mohanlalgunj, Atrauli, Lucknow, Uttar Pradesh 226301",
+    "area": "229302",
+    "latitude": 26.668318799999998,
+    "longitude": 80.9870072,
+    "place_id": "ChIJyT4qDwDxmzkR9hWajMwbCrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyT4qDwDxmzkR9hWajMwbCrM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:32"
+  }
+]

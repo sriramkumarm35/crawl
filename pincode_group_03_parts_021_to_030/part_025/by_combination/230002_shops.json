@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranvijay Singh Wine Shop",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "230002",
+    "phone_number": "+91 70545 05556",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 4,
+    "address": "Pratapgarh, Uttar Pradesh 230002",
+    "area": "230002",
+    "latitude": 25.886765699999998,
+    "longitude": 81.9374473,
+    "place_id": "ChIJ9zRsNr-VmjkR4J-kXQs65rQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zRsNr-VmjkR4J-kXQs65rQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:06"
+  },
+  {
+    "business_name": "STUDENT SOLUTION POINT CYBER CAFE",
+    "search_category": "Shops",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Computer store",
+    "pincode": "230002",
+    "phone_number": "+91 63864 09735",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "STUDENT SOLUTION POINT CYBER CAFE, Pratapgarh, Uttar Pradesh 230002",
+    "area": "230002",
+    "latitude": 25.893041999999998,
+    "longitude": 81.9478742,
+    "place_id": "ChIJlyFNUlXvmjkR2t9YqX90QwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyFNUlXvmjkR2t9YqX90QwE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:09"
+  }
+]

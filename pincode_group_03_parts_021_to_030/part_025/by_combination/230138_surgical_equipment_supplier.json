@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "230138",
+    "phone_number": "N/A",
+    "website": "https://sksurgical.blogspot.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Makhdoompur, Piraut Singhpur, Uttar Pradesh 275301",
+    "area": "Makhdoompur",
+    "latitude": 26.149555,
+    "longitude": 83.5188268,
+    "place_id": "ChIJy127Ah6HkTkRNG4YSzt7tbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy127Ah6HkTkRNG4YSzt7tbM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:23:27"
+  },
+  {
+    "business_name": "Jindal Medi Surge",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Medical equipment supplier, Orthopedic supplies store, Surgical Products Wholesaler",
+    "pincode": "230138",
+    "phone_number": "+91 83758 15995",
+    "website": "http://www.jmshealth.com/",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "5a, Off :, 5, Ansari Rd, Daryaganj, New Delhi, Delhi 110002",
+    "area": "Old Delhi, Daryaganj",
+    "latitude": 28.645056,
+    "longitude": 77.24422899999999,
+    "place_id": "ChIJN3nATd78DDkRQ9OtBPBgVB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3nATd78DDkRQ9OtBPBgVB0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:23:28"
+  }
+]

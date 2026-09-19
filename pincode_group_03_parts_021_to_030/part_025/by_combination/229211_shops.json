@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Enterprises",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "229211",
+    "phone_number": "+91 94521 11267",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panjabi Market Semari Lalganj, Kanpur - Raebareli Rd, Semari, Raebareli, Uttar Pradesh 229211",
+    "area": "229211",
+    "latitude": 26.229238199999998,
+    "longitude": 80.8866395,
+    "place_id": "ChIJE1oCSoCHmzkR9aFCCAABJLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1oCSoCHmzkR9aFCCAABJLM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:03:07"
+  },
+  {
+    "business_name": "Rahul Footwear Shop",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "229211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6VXF+WXH, Sareni Road, Semari, Uttar Pradesh 229211",
+    "area": "229211",
+    "latitude": 26.249812499999997,
+    "longitude": 80.8749844,
+    "place_id": "ChIJx4HxawCHmzkRVyZTNFSM_j8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4HxawCHmzkRVyZTNFSM_j8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:03:09"
+  }
+]

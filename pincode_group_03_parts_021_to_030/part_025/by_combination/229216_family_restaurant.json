@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal seven food family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "bhitaura road, Sahimapur, Unnaur, Uttar Pradesh 212601",
+    "area": "229216",
+    "latitude": 26.010329799999997,
+    "longitude": 80.85053219999999,
+    "place_id": "ChIJybwuGQB9mzkRWk9uv1KCsh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybwuGQB9mzkRWk9uv1KCsh8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:54"
+  },
+  {
+    "business_name": "Agrima palace and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "229216",
+    "phone_number": "+91 90262 82894",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Hanumantpuram,Ahiya Raipur near NH-24, Raebareli - Lucknow Rd, Raebareli, Uttar Pradesh 229316",
+    "area": "229216",
+    "latitude": 26.2490424,
+    "longitude": 81.2316491,
+    "place_id": "ChIJ3TexbcSjmzkRGKzQE0rs94M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TexbcSjmzkRGKzQE0rs94M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAMPOORNA OIL & FLOUR MILL",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "230134",
+    "phone_number": "+91 72329 30738",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SURSATI, VAIDYA MANDIR, Raipur Rd, Sadhaipur, kasba, Patti, Uttar Pradesh 230135",
+    "area": "Sadhaipur, kasba",
+    "latitude": 25.9138363,
+    "longitude": 82.2038269,
+    "place_id": "ChIJ4f0FKm-fmjkRUaMGRb1yUNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4f0FKm-fmjkRUaMGRb1yUNk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:04"
+  },
+  {
+    "business_name": "Om Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "230134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Mahilong, Jharkhand 835103",
+    "area": "230134",
+    "latitude": 23.355920599999997,
+    "longitude": 85.4160536,
+    "place_id": "ChIJF6BiQefi9DkRzmV0yl3JTHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6BiQefi9DkRzmV0yl3JTHg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:04"
+  }
+]

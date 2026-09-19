@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sneha Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "229308",
+    "phone_number": "+91 91255 72535",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amar Complex, Shivgarh Main Road, Bachhrawan, Uttar Pradesh 229301",
+    "area": "229308",
+    "latitude": 26.564818,
+    "longitude": 81.19920119999999,
+    "place_id": "ChIJzwZtcBHBmzkRxd86qndGdj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwZtcBHBmzkRxd86qndGdj0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:53"
+  },
+  {
+    "business_name": "Ankita electronics bhwanigarh raebareli",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "229308",
+    "phone_number": "+91 99198 83641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bedaroo Road, Uttar Pradesh 229308",
+    "area": "229308",
+    "latitude": 26.546107199999998,
+    "longitude": 81.2242304,
+    "place_id": "ChIJpUxnhpPAmzkRKM8siRL_rxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUxnhpPAmzkRKM8siRL_rxs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:53"
+  }
+]

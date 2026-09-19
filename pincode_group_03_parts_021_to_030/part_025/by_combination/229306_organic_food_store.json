@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Medical Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 26,
+    "address": "Maharajganj, Uttar Pradesh 229306",
+    "area": "229306",
+    "latitude": 26.3801675,
+    "longitude": 81.2760136,
+    "place_id": "ChIJJX9X_Qy7mzkRKDETujTsRlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJX9X_Qy7mzkRKDETujTsRlA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:28"
+  },
+  {
+    "business_name": "Rasehta Bazaar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "78X5+F7M, Rasehta, Uttar Pradesh 229316",
+    "area": "229306",
+    "latitude": 26.29872,
+    "longitude": 81.3081649,
+    "place_id": "ChIJr1zaagilmzkRXYDn3bnsJ8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1zaagilmzkRXYDn3bnsJ8o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:30"
+  }
+]

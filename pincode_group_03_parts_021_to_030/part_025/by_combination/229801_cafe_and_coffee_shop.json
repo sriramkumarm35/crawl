@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay restaurant ifka ke samne road no4 utelwa jagdishpur",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "229801",
+    "phone_number": "+91 91291 59600",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "FHCH+MF, Utelwa, Uttar Pradesh 227817",
+    "area": "229801",
+    "latitude": 26.4717941,
+    "longitude": 81.5794784,
+    "place_id": "ChIJC2dU5DBLmjkRuMJSNXaWeT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2dU5DBLmjkRuMJSNXaWeT4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:48:11"
+  },
+  {
+    "business_name": "The village cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229801",
+    "phone_number": "+91 88406 82857",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "FHFH+3GQ, Utelwa, Uttar Pradesh 227817",
+    "area": "229801",
+    "latitude": 26.472775499999997,
+    "longitude": 81.5789309,
+    "place_id": "ChIJyUiOAwBLmjkRKW5QyVhMJus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUiOAwBLmjkRKW5QyVhMJus",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:48:12"
+  }
+]

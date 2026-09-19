@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Baran Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "230142",
+    "phone_number": "+91 74590 33971",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dohari, Sarsidiha, Uttar Pradesh 230405",
+    "area": "230142",
+    "latitude": 25.973893,
+    "longitude": 82.0994333,
+    "place_id": "ChIJ8xzis5ubmjkRzTLQZgdpVgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xzis5ubmjkRzTLQZgdpVgM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:29:06"
+  },
+  {
+    "business_name": "Abhishek Cycle Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Motor scooter repair shop",
+    "pincode": "230142",
+    "phone_number": "+91 99811 86815",
+    "website": "https://youtube.com/@AbhishekAutomobileService?si=Ek1So36B0XGMW_wW",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dubaha, Rewa, Madhya Pradesh 486003",
+    "area": "230142",
+    "latitude": 24.578826,
+    "longitude": 81.3253847,
+    "place_id": "ChIJU6WPnSxZhDkRc1kq3Vv2SU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6WPnSxZhDkRc1kq3Vv2SU8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:29:08"
+  }
+]

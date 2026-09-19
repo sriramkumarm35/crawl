@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi trader's",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "230134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W584+WW2, Bani, Patti, Uttar Pradesh 230134",
+    "area": "230134",
+    "latitude": 25.9172735,
+    "longitude": 82.15727179999999,
+    "place_id": "ChIJZephoUWfmjkRswwLTHq8bDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZephoUWfmjkRswwLTHq8bDE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:04"
+  },
+  {
+    "business_name": "Yadav Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "230134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Q4PC+4CP, Chandpur, Uttar Pradesh 230304",
+    "area": "230134",
+    "latitude": 25.7853252,
+    "longitude": 82.1210718,
+    "place_id": "ChIJXeC9FSyimjkRbagV-t1Z6Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeC9FSyimjkRbagV-t1Z6Jc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:06"
+  }
+]

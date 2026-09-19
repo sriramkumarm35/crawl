@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathaur Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229302",
+    "phone_number": "+91 63860 49100",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RAthaur Kirana Y Mahoba, Raebareli, Pothai, Uttar Pradesh 229302",
+    "area": "229302",
+    "latitude": 26.2046323,
+    "longitude": 81.4086854,
+    "place_id": "ChIJPUxFytSpmzkRq4EX8trWsU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUxFytSpmzkRq4EX8trWsU8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:16"
+  },
+  {
+    "business_name": "Mohd Kasif General Store Takiya Chakpeershah",
+    "search_category": "Departmental Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "229302",
+    "phone_number": "+91 99180 92864",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "78M4+PXH, Chakpeera Shah, Uttar Pradesh 229316",
+    "area": "229302",
+    "latitude": 26.2843105,
+    "longitude": 81.307486,
+    "place_id": "ChIJEadspLqlmzkRW3kHsaXDIsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEadspLqlmzkRW3kHsaXDIsQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:18"
+  }
+]

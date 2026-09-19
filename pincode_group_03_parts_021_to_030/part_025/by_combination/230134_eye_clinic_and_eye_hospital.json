@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W682+JPM, Bhandhwa Baazar - Patti Rd, Patti, Uttar Pradesh 230135",
+    "area": "230134",
+    "latitude": 25.916588299999997,
+    "longitude": 82.2017906,
+    "place_id": "ChIJl1Zo_2efmjkRouC3ys0wgCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1Zo_2efmjkRouC3ys0wgCo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:57"
+  },
+  {
+    "business_name": "Jabalpur Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "230134",
+    "phone_number": "+91 91114 51846",
+    "website": "http://www.jabalpureyecare.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Near Sunil Hosiery, Bhavartal Garden Rd, adjacent Psychiatry Clinic,Krishna Hotel Road, Jabalpur, Madhya Pradesh 482002",
+    "area": "Marhatal",
+    "latitude": 23.1634593,
+    "longitude": 79.93307659999999,
+    "place_id": "ChIJ3-dPqg-ugTkR_OK9Juof5kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-dPqg-ugTkR_OK9Juof5kc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:58"
+  }
+]

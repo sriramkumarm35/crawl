@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "229304",
+    "phone_number": "+91 89249 85470",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near Railway Station, Bahadurpur Da Jayas, Jais, Uttar Pradesh 229305",
+    "area": "229304",
+    "latitude": 26.2667078,
+    "longitude": 81.54749819999999,
+    "place_id": "ChIJf6XFYABTmjkRPDCMrK0r1Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6XFYABTmjkRPDCMrK0r1Hw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:08"
+  },
+  {
+    "business_name": "Somil Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "229304",
+    "phone_number": "+91 93050 17085",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "8G89+X4V, Shah Mau, Uttar Pradesh 229304",
+    "area": "229304",
+    "latitude": 26.317487099999997,
+    "longitude": 81.51778499999999,
+    "place_id": "ChIJLcXtDdNSmjkRBXlHc5-dSyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcXtDdNSmjkRBXlHc5-dSyo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:10"
+  }
+]

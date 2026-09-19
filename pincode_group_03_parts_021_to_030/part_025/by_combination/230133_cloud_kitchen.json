@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Villa Tiffin Centre& Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Food products supplier",
+    "pincode": "230133",
+    "phone_number": "+91 98015 04074",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "33, East Lakshmi Nagar, Ramkrishan Nagar, Patna, Bihar 800027",
+    "area": "East Lakshmi Nagar, Ramkrishan Nagar",
+    "latitude": 25.5796079,
+    "longitude": 85.1602423,
+    "place_id": "ChIJPwMSySKn8jkRwxDU_JxZ33o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwMSySKn8jkRwxDU_JxZ33o",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:13:46"
+  },
+  {
+    "business_name": "Kota Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Food court",
+    "pincode": "230133",
+    "phone_number": "+91 77929 62898",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "154-A, Krishna Vihar Rd, Laxman Vihar, Kunadi, Electricity Board Area, Kota, Kota Municipal Area, Rajasthan 324008",
+    "area": "Laxman Vihar, Kunadi, Electricity Board Area",
+    "latitude": 25.194938,
+    "longitude": 75.8304746,
+    "place_id": "ChIJJTWwYgCbbzkRMLRbvHo3U0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTWwYgCbbzkRMLRbvHo3U0A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:13:47"
+  }
+]

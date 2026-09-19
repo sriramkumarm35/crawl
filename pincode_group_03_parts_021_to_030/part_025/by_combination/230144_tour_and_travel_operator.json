@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Pal",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "230144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivam pal katra, indra kuvar, Pratapgarh, Dherahna, Uttar Pradesh 230002",
+    "area": "indra kuvar",
+    "latitude": 25.8660924,
+    "longitude": 81.9104179,
+    "place_id": "ChIJzxvRyeKVmjkRKGm1697FyQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxvRyeKVmjkRKGm1697FyQo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:42"
+  },
+  {
+    "business_name": "Ajit Mishra",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "230144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RXC2+MX5, Sansarpur, Uttar Pradesh 230304",
+    "area": "230144",
+    "latitude": 25.8216416,
+    "longitude": 81.95247189999999,
+    "place_id": "ChIJjV_HbgCVmjkRqFU8A7q-qB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjV_HbgCVmjkRqFU8A7q-qB0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:42"
+  }
+]

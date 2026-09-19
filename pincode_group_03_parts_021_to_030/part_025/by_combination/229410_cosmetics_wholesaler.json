@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhi Cosmetic And General Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Cosmetics store",
+    "pincode": "229410",
+    "phone_number": "+91 96706 64651",
+    "website": "https://mybillbook.in/store/vidhicosmetic",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tiraha, Jethwara Road, Mohanganj, Pure Khusai, Uttar Pradesh 230002",
+    "area": "229410",
+    "latitude": 25.8903927,
+    "longitude": 81.8989209,
+    "place_id": "ChIJ_8mukeuVmjkR9-crKMPbb9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8mukeuVmjkR9-crKMPbb9M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:41:35"
+  },
+  {
+    "business_name": "JMD Cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Shopping mall",
+    "pincode": "229410",
+    "phone_number": "+91 96952 19966",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 50,
+    "address": "WPJ4+PQ3, Lalganj Ajhara, Sangipur, Uttar Pradesh 230132",
+    "area": "229410",
+    "latitude": 25.931753,
+    "longitude": 81.7069307,
+    "place_id": "ChIJ5Y9QCm7vmjkRW8U39y_BE-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Y9QCm7vmjkRW8U39y_BE-4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:41:35"
+  }
+]

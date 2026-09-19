@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Foods Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "230202",
+    "phone_number": "+91 90364 93934",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH2, near power grid, Tengara, Bihar 824112",
+    "area": "230202",
+    "latitude": 24.8138431,
+    "longitude": 84.2865467,
+    "place_id": "ChIJRe0OltYBjTkRYPJ4Vp_AZHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRe0OltYBjTkRYPJ4Vp_AZHU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:40"
+  },
+  {
+    "business_name": "Sahjani, Uttar Pradesh 230202",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "230202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahjani, Uttar Pradesh",
+    "area": "230202",
+    "latitude": 25.7772877,
+    "longitude": 81.4388858,
+    "place_id": "ChIJy2qvlLshmzkRDWyN9tiwDbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2qvlLshmzkRDWyN9tiwDbM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:41"
+  }
+]

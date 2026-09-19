@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushman Arogya Mandir",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "230131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "WX4V+F46, Post Office Rd, Bela Pratapgarh, Uttar Pradesh 230131",
+    "area": "230131",
+    "latitude": 25.9061634,
+    "longitude": 81.9927699,
+    "place_id": "ChIJJbCFVACXmjkRi1-Ef2McqzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbCFVACXmjkRi1-Ef2McqzQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:10:54"
+  },
+  {
+    "business_name": "shiva medical agency",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "230131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KARANPUR PURE PITAI, Uttar Pradesh 230001",
+    "area": "230131",
+    "latitude": 25.9114845,
+    "longitude": 81.9911754,
+    "place_id": "ChIJe1HS1iyXmjkRUgSnfRZTWYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1HS1iyXmjkRUgSnfRZTWYo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:10:56"
+  }
+]

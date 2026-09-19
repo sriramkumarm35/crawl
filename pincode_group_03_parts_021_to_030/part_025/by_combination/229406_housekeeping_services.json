@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kovai Clean service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "229406",
+    "phone_number": "+91 88707 96503",
+    "website": "https://kovaicleanservice.lyzoo.co.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Ganapathy Niluvu Complex, 16, Sathy Rd, Ganapathy, Coimbatore, Tamil Nadu 641006",
+    "area": "Ganapathy",
+    "latitude": 11.0340293,
+    "longitude": 76.9781879,
+    "place_id": "ChIJsZD5f9NZqDsRVof-fRZeN9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZD5f9NZqDsRVof-fRZeN9I",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:36"
+  },
+  {
+    "business_name": "U V Services and Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lalghati, Bhopal, Madhya Pradesh 462001",
+    "area": "Lalghati",
+    "latitude": 23.2812774,
+    "longitude": 77.3610965,
+    "place_id": "ChIJmROE3QhnfDkRY8xIA6z0YT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmROE3QhnfDkRY8xIA6z0YT4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:36"
+  }
+]

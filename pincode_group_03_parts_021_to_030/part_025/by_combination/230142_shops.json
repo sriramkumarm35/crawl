@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohd Aneesh",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "230142",
+    "phone_number": "+91 91196 92504",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 6, Mangroura Road, Purepandy, Diwan Ganj, Pratapgarh, Uttar Pradesh 230142",
+    "area": "Purepandy",
+    "latitude": 25.9204197,
+    "longitude": 82.1067601,
+    "place_id": "ChIJfbEbLzGZmjkR8rFY79A578g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbEbLzGZmjkR8rFY79A578g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:30:12"
+  },
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "230142",
+    "phone_number": "+91 70718 27282",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Diwanganj, Narsinghpur, Uttar Pradesh 230142",
+    "area": "230142",
+    "latitude": 25.9191744,
+    "longitude": 82.1058304,
+    "place_id": "ChIJ2fX1dGCZmjkRAAAAcC4Cx2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fX1dGCZmjkRAAAAcC4Cx2k",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:30:15"
+  }
+]

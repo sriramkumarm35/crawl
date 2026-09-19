@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Dhaba Non Veg",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Chicken restaurant",
+    "pincode": "229310",
+    "phone_number": "+91 94503 75330",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 87,
+    "address": "NH 30, Bagaha, Uttar Pradesh 261141",
+    "area": "229310",
+    "latitude": 27.618946899999997,
+    "longitude": 80.5596247,
+    "place_id": "ChIJ08KDMgAnnzkRCY_EsbbYSis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08KDMgAnnzkRCY_EsbbYSis",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:24:50"
+  },
+  {
+    "business_name": "Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229310",
+    "phone_number": "+91 88581 62973",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Devkali, Bypass, Deokali, Faizabad, Uttar Pradesh 224001",
+    "area": "Deokali",
+    "latitude": 26.768650899999997,
+    "longitude": 82.1747638,
+    "place_id": "ChIJc4BRw48JmjkRCyaK3-rQjfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4BRw48JmjkRCyaK3-rQjfo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:24:50"
+  }
+]

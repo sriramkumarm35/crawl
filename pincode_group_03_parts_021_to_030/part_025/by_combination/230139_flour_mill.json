@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubh Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "230139",
+    "phone_number": "+91 73111 16060",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jangal Ramnagar, Uttar Pradesh 227405",
+    "area": "230139",
+    "latitude": 26.1638374,
+    "longitude": 81.77315109999999,
+    "place_id": "ChIJbZmtz2j3mjkREG8fVQTS1U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZmtz2j3mjkREG8fVQTS1U0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:48"
+  },
+  {
+    "business_name": "Shakti Aata chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "230139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Arjunpur, Gauriganj, Anni Baijal, Uttar Pradesh 227409",
+    "area": "Arjunpur",
+    "latitude": 26.1584434,
+    "longitude": 81.7120704,
+    "place_id": "ChIJEVrn5Q73mjkRDWFRsVii8cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVrn5Q73mjkRDWFRsVii8cI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Upahar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "229410",
+    "phone_number": "+91 81972 73685",
+    "website": "https://gomysite.com/southindianupahar",
+    "rating": 4.9,
+    "reviews_count": 822,
+    "address": "Gali No 5, Naval Kishore Ashram, 336, Vishwavidyalaya Rd, near Birla Farm, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.993082599999997,
+    "longitude": 78.1960579,
+    "place_id": "ChIJcRfl6fxHCTkR17sPudYE1qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRfl6fxHCTkR17sPudYE1qw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:40:48"
+  },
+  {
+    "business_name": "Gunjan food valley",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "229410",
+    "phone_number": "+91 95892 73237",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Tikamgarh - Jhansi Rd, Tikamgarh, Takha, Madhya Pradesh 472001",
+    "area": "229410",
+    "latitude": 24.7655095,
+    "longitude": 78.8337493,
+    "place_id": "ChIJ88OFBChPeDkRL528Fdhyrgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88OFBChPeDkRL528Fdhyrgw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:40:50"
+  }
+]

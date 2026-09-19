@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "229305",
+    "phone_number": "+91 97214 89825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Atheha, Sangipur, Uttar Pradesh 230125",
+    "area": "229305",
+    "latitude": 26.0992651,
+    "longitude": 81.6354344,
+    "place_id": "ChIJvb--1pj5mjkRYVHIdfAAVrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvb--1pj5mjkRYVHIdfAAVrE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:16:27"
+  },
+  {
+    "business_name": "Vijay Builders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Building materials store",
+    "pincode": "229305",
+    "phone_number": "+91 99849 85600",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "ITI, Kithawar Road, near Bhalothiya rice mill, Mauhariya, Amethi, Bariya Pur, Uttar Pradesh 227405",
+    "area": "Mauhariya",
+    "latitude": 26.1419608,
+    "longitude": 81.796643,
+    "place_id": "ChIJ91lyk5v1mjkRLTS8BuZLGvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91lyk5v1mjkRLTS8BuZLGvo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:16:27"
+  }
+]

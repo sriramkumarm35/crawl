@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ar Khan Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "229301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 34,
+    "address": "C36G+8RX, Madan Tusi, Uttar Pradesh 229301",
+    "area": "229301",
+    "latitude": 26.4108533,
+    "longitude": 81.0771144,
+    "place_id": "ChIJV1ggl7KWmzkRZHTSC9SVUrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1ggl7KWmzkRZHTSC9SVUrk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:16"
+  },
+  {
+    "business_name": "Bhagwati Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "229301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C35G+984, SH 13, Madan Tusi, Uttar Pradesh 229301",
+    "area": "229301",
+    "latitude": 26.408383099999998,
+    "longitude": 81.07581449999999,
+    "place_id": "ChIJt0__llmXmzkRlZS1pNWZpis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0__llmXmzkRlZS1pNWZpis",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:16"
+  }
+]

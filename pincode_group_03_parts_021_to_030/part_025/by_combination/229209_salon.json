@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Printers /Sunlight Beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "229209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8WMJ+QQ4, Paho, Uttar Pradesh 229209",
+    "area": "229209",
+    "latitude": 26.334378599999997,
+    "longitude": 80.9319522,
+    "place_id": "ChIJHbS6XgCPmzkRkK89dsLO_yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbS6XgCPmzkRkK89dsLO_yc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:58:45"
+  },
+  {
+    "business_name": "Toni&Guy Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser, Facial spa, Make-up artist, Nail salon, Skin care clinic",
+    "pincode": "229209",
+    "phone_number": "+91 73183 01117",
+    "website": "https://toniandguy.com/salon/mahanagar",
+    "rating": 4.8,
+    "reviews_count": 690,
+    "address": "B-83, near Channilal Circle, Sector-C, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Sector-C, Mahanagar",
+    "latitude": 26.877929599999998,
+    "longitude": 80.9543254,
+    "place_id": "ChIJK92oA6z9mzkR4adcCmZfjCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK92oA6z9mzkR4adcCmZfjCA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:58:45"
+  }
+]

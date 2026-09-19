@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Food Products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "230301",
+    "phone_number": "+91 93737 73646",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 17,
+    "address": "Khalasi Ln, Mohan Nagar, Nagpur, Maharashtra 440001",
+    "area": "Mohan Nagar",
+    "latitude": 21.158887999999997,
+    "longitude": 79.084564,
+    "place_id": "ChIJW1MrsefA1DsRFkX6PbXUMJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1MrsefA1DsRFkX6PbXUMJs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:18"
+  },
+  {
+    "business_name": "Royal's Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "230301",
+    "phone_number": "+91 76762 91059",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "245, 3rd Cross Rd, Rahmath Nagar, RT Nagar, Bengaluru, Karnataka 560032",
+    "area": "Rahmath Nagar, RT Nagar",
+    "latitude": 13.017663599999999,
+    "longitude": 77.5923397,
+    "place_id": "ChIJO6brF6cXrjsRQ9ZjxqqG0dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6brF6cXrjsRQ9ZjxqqG0dk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:19"
+  }
+]

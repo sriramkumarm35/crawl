@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tripathi Handloom",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "229405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "66CM+7CV, Near GGIC Chauraha,police lines, Kanpur Rd, Raebareli, Uttar Pradesh 229001",
+    "area": "Amrishpuri Colony",
+    "latitude": 26.2207498,
+    "longitude": 81.2335557,
+    "place_id": "ChIJtUbndNGhmzkRUu03ltGhKIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUbndNGhmzkRUu03ltGhKIc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:34"
+  },
+  {
+    "business_name": "Omkar Sarees Collection",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "229405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Awas Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Awas Vikas Colony, Indira Nagar",
+    "latitude": 26.21592,
+    "longitude": 81.23098449999999,
+    "place_id": "ChIJe9rG5j2hmzkRyS7abmzMoI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9rG5j2hmzkRyS7abmzMoI0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:36"
+  }
+]

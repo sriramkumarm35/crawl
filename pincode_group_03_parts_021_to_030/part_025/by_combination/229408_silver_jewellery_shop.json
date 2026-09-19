@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Pawan Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "229408",
+    "phone_number": "+91 83030 62108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ghari, Manikpur, Uttar Pradesh 230202",
+    "area": "Ghari",
+    "latitude": 25.771396,
+    "longitude": 81.41166869999999,
+    "place_id": "ChIJWQEmiywjmzkR76BqVUwf6Nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQEmiywjmzkR76BqVUwf6Nk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:39:12"
+  },
+  {
+    "business_name": "अम्बे ज्वैलर्स",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "229408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lala bazar road, in front of Chandragupt Inter College, kunda, Manikpur, Mirgarhwa, Uttar Pradesh 230202",
+    "area": "kunda",
+    "latitude": 25.7760557,
+    "longitude": 81.4098046,
+    "place_id": "ChIJYYqsdS4jmzkRIXnni8slfRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYqsdS4jmzkRIXnni8slfRs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:39:12"
+  }
+]

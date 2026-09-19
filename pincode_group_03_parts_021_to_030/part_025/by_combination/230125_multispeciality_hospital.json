@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aastha Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230125",
+    "phone_number": "+91 96641 55636",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2QQH+PXM, NH 113, New Maruti Nagar, Nai Abaadi, Pratapgad, Rajasthan 312605",
+    "area": "New Maruti Nagar, Nai Abaadi",
+    "latitude": 24.0393385,
+    "longitude": 74.7799288,
+    "place_id": "ChIJg1APraqIZjkR7jHve5M0LNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1APraqIZjkR7jHve5M0LNI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:59:13"
+  },
+  {
+    "business_name": "choudhry Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230125",
+    "phone_number": "+91 94143 45443",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "2QHQ+74J, Bada Bag Colony, Pratapgad, Rajasthan 312605",
+    "area": "Bada Bag Colony",
+    "latitude": 24.0282235,
+    "longitude": 74.7877522,
+    "place_id": "ChIJLeg7oPCFZjkRLA7ACkBWWW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeg7oPCFZjkRLA7ACkBWWW0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:59:13"
+  }
+]

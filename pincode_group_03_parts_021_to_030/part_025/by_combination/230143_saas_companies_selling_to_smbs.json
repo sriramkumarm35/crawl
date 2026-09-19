@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M S B Chemicals",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "230143",
+    "phone_number": "+91 98100 08354",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Plot No-57, Industrial Area, P.O. Mohan Nagar, G T Road, Rajendra Nagar, Chander Puri, Naya Ganj, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Rajendra Nagar, Chander Puri, Naya Ganj",
+    "latitude": 28.66741,
+    "longitude": 77.42642099999999,
+    "place_id": "ChIJA86FpVPwDDkRmJuedAgahcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA86FpVPwDDkRmJuedAgahcI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:01"
+  },
+  {
+    "business_name": "SAAS infosolutions",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "230143",
+    "phone_number": "+91 98223 02098",
+    "website": "https://www.saasinfosolutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, above Sudama pohe shop, vivekanand nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "vivekanand nagar, Wakad",
+    "latitude": 18.6102921,
+    "longitude": 73.7598052,
+    "place_id": "ChIJDQ0WyRi5wjsRG10mkNgmgws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQ0WyRi5wjsRG10mkNgmgws",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:01"
+  }
+]

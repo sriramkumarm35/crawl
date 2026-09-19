@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parvez kids wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "229304",
+    "phone_number": "+91 63907 84208",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shah Mau, Jais, Uttar Pradesh 229304",
+    "area": "229304",
+    "latitude": 26.316062,
+    "longitude": 81.519033,
+    "place_id": "ChIJ_c-uWNRTmjkR-m3ooI6pF2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_c-uWNRTmjkR-m3ooI6pF2U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:11"
+  },
+  {
+    "business_name": "Meer Kid's Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "229304",
+    "phone_number": "+91 98896 63151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop Nu.4, Sahu Market, Jais, Uttar Pradesh 229305",
+    "area": "229304",
+    "latitude": 26.2603187,
+    "longitude": 81.54732279999999,
+    "place_id": "ChIJY7BWK9BVmjkR_PtSgwCsDdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7BWK9BVmjkR_PtSgwCsDdc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:11"
+  }
+]

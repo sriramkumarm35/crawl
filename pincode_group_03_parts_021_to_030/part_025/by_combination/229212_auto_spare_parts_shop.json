@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUKLA AUTO PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "229212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Manikapur, Kurwan, Uttar Pradesh 209866",
+    "area": "229212",
+    "latitude": 26.249216,
+    "longitude": 80.7788364,
+    "place_id": "ChIJX7jtCO94nDkRGXKdGGM-Sa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7jtCO94nDkRGXKdGGM-Sa8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:03:45"
+  },
+  {
+    "business_name": "Ranjeet",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "229212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5QJC+647, Ranjeetpur, Gajpati Khera, Uttar Pradesh 229212",
+    "area": "229212",
+    "latitude": 26.1805274,
+    "longitude": 80.7702912,
+    "place_id": "ChIJU2ifWgB_nDkRQlBHLMnXR6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2ifWgB_nDkRQlBHLMnXR6E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:03:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Mobile Repairing Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "230124",
+    "phone_number": "+91 96952 84043",
+    "website": "http://www.onlinejjcsy.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pratapgarh - Prayagraj Rd, Mau Aima, Uttar Pradesh 212507",
+    "area": "230124",
+    "latitude": 25.7025741,
+    "longitude": 81.9099641,
+    "place_id": "ChIJDVC-uyC5mjkRnZVRpz2tnlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVC-uyC5mjkRnZVRpz2tnlw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:58:19"
+  },
+  {
+    "business_name": "Sanjay Mobile Repairing",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "230124",
+    "phone_number": "+91 73985 41186",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pratapgarh, Chakvan Tod, Uttar Pradesh 230002",
+    "area": "230124",
+    "latitude": 25.910750399999998,
+    "longitude": 81.9730517,
+    "place_id": "ChIJHT6pCWGXmjkR_GK16-VHGwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHT6pCWGXmjkR_GK16-VHGwI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:58:19"
+  }
+]

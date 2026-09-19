@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "📚Vidip hostel📚",
+    "search_category": "Hostels",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "230002",
+    "phone_number": "+91 62684 02640",
+    "website": "http://gpppratapgarh.in/",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "near goverment polotechinic college, Premdhar Patti, Uttar Pradesh 230127",
+    "area": "230002",
+    "latitude": 25.891077,
+    "longitude": 82.031859,
+    "place_id": "ChIJEydte_eXmjkRj5z6YMOuTeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEydte_eXmjkRj5z6YMOuTeI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:25"
+  },
+  {
+    "business_name": "Pandey Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "230002",
+    "phone_number": "+91 87075 62251",
+    "website": "https://www.gpppratapgarh.in/",
+    "rating": 4.5,
+    "reviews_count": 28,
+    "address": "230127, Road, Dileeppur, Premdhar Patti, Uttar Pradesh 230127",
+    "area": "230002",
+    "latitude": 25.8910773,
+    "longitude": 82.031859,
+    "place_id": "ChIJ-RNllkSXmjkR0cCcdasuIVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RNllkSXmjkR0cCcdasuIVo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:25"
+  }
+]

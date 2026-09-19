@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Royal photos",
+    "search_category": "Photographers",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "229405",
+    "phone_number": "+91 63064 18557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Kanpur Rd, Rana Nagar, Chakbhikampur, Raebareli, Uttar Pradesh 229001",
+    "area": "Rana Nagar, Chakbhikampur",
+    "latitude": 26.2218877,
+    "longitude": 81.23070059999999,
+    "place_id": "ChIJTWKCOiKhmzkR2HBKJWQaEdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWKCOiKhmzkR2HBKJWQaEdU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:25"
+  },
+  {
+    "business_name": "MAHAVIR PHOTO",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Service establishment",
+    "pincode": "229405",
+    "phone_number": "+91 91739 96422",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MAHAVIR PHOTO, 229405, India",
+    "area": "229405",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI5xcvDAZWDkRtlblV2pwlKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5xcvDAZWDkRtlblV2pwlKE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:36:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhil general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229401",
+    "phone_number": "+91 97931 93238",
+    "website": "https://www.instagram.com/its_aman_229401?igsh=MWdpdjVzMzF2YnA0MQ==",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "near primary school bargadha, Bargadaha, Itaura Buzurg, Uttar Pradesh 229401",
+    "area": "Bargadaha",
+    "latitude": 26.0186755,
+    "longitude": 81.2984864,
+    "place_id": "ChIJB031REQPmzkRpvOLB2YFUIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB031REQPmzkRpvOLB2YFUIc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:30:11"
+  },
+  {
+    "business_name": "Anil pandey general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "229401",
+    "phone_number": "+91 99199 51328",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "RD Complex, 229406, U-3, Unnamed Rd, Sector 3, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 229401",
+    "area": "Sector 3, Avas Vikas Colony, Sikandra",
+    "latitude": 25.9642026,
+    "longitude": 81.3117425,
+    "place_id": "ChIJy0T6sCYQmzkRHZxFMQcV4Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0T6sCYQmzkRHZxFMQcV4Wk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:30:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prembahadur Sweets House",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "229405",
+    "phone_number": "+91 91409 77649",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MDR15B, , Malkhanpur, MDR15B, Malkhanpur, Uttar Pradesh 229001",
+    "area": "229405",
+    "latitude": 26.200335,
+    "longitude": 81.25913709999999,
+    "place_id": "ChIJVcWUdQanmzkRx_4rGp6ZBvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcWUdQanmzkRx_4rGp6ZBvw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:34"
+  },
+  {
+    "business_name": "Urmila Kumari",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "229405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6773+Q4W, Krishna Nagar, Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Krishna Nagar, Sri Nagar",
+    "latitude": 26.214480599999998,
+    "longitude": 81.25281389999999,
+    "place_id": "ChIJaaNBWQCnmzkRnKsSE2oK8sY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaNBWQCnmzkRnKsSE2oK8sY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:34"
+  }
+]

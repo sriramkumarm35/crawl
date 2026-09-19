@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak PG",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "229215",
+    "phone_number": "+91 79820 08024",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Front of shastri marg lane 6-B, Satya sai mandir road, Subhash Nagar, Dehradun, Uttarakhand 248002",
+    "area": "Subhash Nagar",
+    "latitude": 30.2781126,
+    "longitude": 77.9948857,
+    "place_id": "ChIJHWHtMgArCTkRy6PbihMSTs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWHtMgArCTkRy6PbihMSTs4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:59"
+  },
+  {
+    "business_name": "Gera hostel",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "229215",
+    "phone_number": "+91 63956 17474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bidholi Rd, near petroleum university, Misraspatti, Uttarakhand 248007",
+    "area": "229215",
+    "latitude": 30.414071699999997,
+    "longitude": 77.9679934,
+    "place_id": "ChIJK61xzE_VCDkRCFUOM3XKIiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK61xzE_VCDkRCFUOM3XKIiI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:05:59"
+  }
+]

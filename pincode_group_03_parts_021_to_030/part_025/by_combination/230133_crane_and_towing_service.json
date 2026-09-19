@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Efficient Towing Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "230133",
+    "phone_number": "N/A",
+    "website": "http://www.efficienttowing.sg/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Efficient Towing Services, 230133, India",
+    "area": "230133",
+    "latitude": 1.3139999999999998,
+    "longitude": 103.84425,
+    "place_id": "ChIJZwgkDGUX2jERh6_HBdAuAcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwgkDGUX2jERh6_HBdAuAcw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:14:21"
+  },
+  {
+    "business_name": "CRANE MAN",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service, Crane Dealer and Manufacturer, Industrial Spares & Products Wholesaler",
+    "pincode": "230133",
+    "phone_number": "+91 80859 53701",
+    "website": "http://www.craneman.in/",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "Hamilton Road, Mori Gate, Old Delhi, Chandni Chowk, Delhi, 110006",
+    "area": "Old Delhi, Chandni Chowk",
+    "latitude": 28.6628777,
+    "longitude": 77.22199119999999,
+    "place_id": "ChIJwSp-gTDnKDoROamsKWq4A-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSp-gTDnKDoROamsKWq4A-w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:14:24"
+  }
+]

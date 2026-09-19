@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Onbyte Motel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "http://www.onbytemotel.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sloriya Tiraha, Dilippur Road, Achalpur, Pratapgarh, Uttar Pradesh 230001",
+    "area": "Achalpur",
+    "latitude": 25.914324,
+    "longitude": 82.01204709999999,
+    "place_id": "ChIJn_XH-HGXmjkROICPCpm1be8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_XH-HGXmjkROICPCpm1be8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:35"
+  },
+  {
+    "business_name": "Gangaram Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kachhari road, near Gopal Mandir, beside District Hospital, Pratapgarh, Pure Ishwarnath, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "Pratapgarh",
+    "latitude": 25.9214061,
+    "longitude": 81.9990407,
+    "place_id": "ChIJ7RdsVbKRmjkRBe10iGJlKp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RdsVbKRmjkRBe10iGJlKp4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:35"
+  }
+]

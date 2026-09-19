@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra Kumar Welding",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "230128",
+    "phone_number": "+91 99364 58010",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pratapgarh, Uttar Pradesh 230128",
+    "area": "230128",
+    "latitude": 25.833852,
+    "longitude": 81.7265858,
+    "place_id": "ChIJAWP8ytPpmjkRvMSgOYv6cFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWP8ytPpmjkRvMSgOYv6cFQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:53"
+  },
+  {
+    "business_name": "R. K. Engineering Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer, General contractor",
+    "pincode": "230128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "127 Civil Line Pratapgarh u.p., Pratapgarh, Uttar Pradesh 230002",
+    "area": "Pratapgarh",
+    "latitude": 25.892187,
+    "longitude": 81.93311,
+    "place_id": "ChIJ5czJ6hSUmjkRq8cJRKjcsCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5czJ6hSUmjkRq8cJRKjcsCs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:54"
+  }
+]

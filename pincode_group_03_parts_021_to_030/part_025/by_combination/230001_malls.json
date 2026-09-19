@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faishion Mall",
+    "search_category": "Malls",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "230001",
+    "phone_number": "+91 98754 10587",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Ganta Ghar, Court Rd, Pratapgarh, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230001",
+    "latitude": 25.9213344,
+    "longitude": 82.0028796,
+    "place_id": "ChIJIWpm80KRmjkR3RWtJexAZhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWpm80KRmjkR3RWtJexAZhg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:53:15"
+  },
+  {
+    "business_name": "Shoes material shop",
+    "search_category": "Malls",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "230001",
+    "phone_number": "+91 96827 46165",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Purani Bata gali, Pratapgarh - Prayagraj Rd, Uttar Pradesh 230001",
+    "area": "230001",
+    "latitude": 25.9209171,
+    "longitude": 82.0021302,
+    "place_id": "ChIJXfZEf56RmjkRy1p1mWDGvgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfZEf56RmjkRy1p1mWDGvgw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:53:15"
+  }
+]

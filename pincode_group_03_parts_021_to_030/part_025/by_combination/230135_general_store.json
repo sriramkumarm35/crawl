@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIMALA GERENAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "230135",
+    "phone_number": "+91 78005 02605",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Civil Line, Patti, Uttar Pradesh 230135",
+    "area": "Civil Line",
+    "latitude": 25.9270712,
+    "longitude": 82.20473109999999,
+    "place_id": "ChIJoSVlCaadmjkRtfpNY5my_1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSVlCaadmjkRtfpNY5my_1s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:21"
+  },
+  {
+    "business_name": "Neeraj General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "230135",
+    "phone_number": "+91 75708 87030",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "01, Bela Pratapgarh, Uttar Pradesh 230135",
+    "area": "230135",
+    "latitude": 25.9493987,
+    "longitude": 82.19600319999999,
+    "place_id": "ChIJecF0JsKdmjkRyEKajHhHebk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecF0JsKdmjkRyEKajHhHebk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:23"
+  }
+]

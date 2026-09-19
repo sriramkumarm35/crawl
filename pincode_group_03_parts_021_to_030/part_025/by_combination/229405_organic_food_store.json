@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mathura & Sons",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Cosmetics store",
+    "pincode": "229405",
+    "phone_number": "+91 94541 48220",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Awas Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Awas Vikas Colony, Indira Nagar",
+    "latitude": 26.2079015,
+    "longitude": 81.2455712,
+    "place_id": "ChIJkUZrF1ahmzkRH-ztAzVFN5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUZrF1ahmzkRH-ztAzVFN5Q",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:21"
+  },
+  {
+    "business_name": "Getfit Nutrition",
+    "search_category": "Organic Food Store",
+    "primary_category": "Sports nutrition store",
+    "all_categories": "Sports nutrition store",
+    "pincode": "229405",
+    "phone_number": "+91 96959 71000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "001, Kutchery Rd, Nirala Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Nirala Nagar",
+    "latitude": 26.220900399999998,
+    "longitude": 81.24121939999999,
+    "place_id": "ChIJAT4T8rOhmzkRAfy5FoncenM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAT4T8rOhmzkRAfy5FoncenM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:35:21"
+  }
+]

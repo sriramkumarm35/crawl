@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohd Mohsin",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "229304",
+    "phone_number": "+91 91707 98514",
+    "website": "https://www.facebook.com/profile.php?id=100075130809673&mibextid=ZbWKwL",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chota qajiyana, Jais, Uttar Pradesh 229305",
+    "area": "229304",
+    "latitude": 26.2661221,
+    "longitude": 81.54723949999999,
+    "place_id": "ChIJIVfJSX9TmjkR4ntuLEFxPPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVfJSX9TmjkR4ntuLEFxPPk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:44"
+  },
+  {
+    "business_name": "Singh Plumber Solutions",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "229304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Pure Bandhan Singh Kunwarmau, Nasirabad, Uttar Pradesh 229307",
+    "area": "229304",
+    "latitude": 26.2103577,
+    "longitude": 81.521241,
+    "place_id": "ChIJ8Rf0l6FVmjkRrwZndWcO2EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Rf0l6FVmjkRrwZndWcO2EY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:45"
+  }
+]

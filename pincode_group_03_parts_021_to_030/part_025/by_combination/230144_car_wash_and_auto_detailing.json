@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Car Dose",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service, Wheel store",
+    "pincode": "230144",
+    "phone_number": "+91 76100 71600",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Jodhras Chouraha, Ajmer Rd, in front of RECB Grid, Bhilwara, Rajasthan 311001",
+    "area": "230144",
+    "latitude": 25.381539699999998,
+    "longitude": 74.62181819999999,
+    "place_id": "ChIJ0RrGuGrDaDkRWQTzCY3D1Ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RrGuGrDaDkRWQTzCY3D1Ds",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:39"
+  },
+  {
+    "business_name": "GLIZO- On Site Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "230144",
+    "phone_number": "+91 95696 79569",
+    "website": "https://www.glizo.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "S2 /656 D, near Circuit House Road, Chotta Chuppepur, Varanasi, Uttar Pradesh 221002",
+    "area": "Chotta Chuppepur",
+    "latitude": 25.347380299999998,
+    "longitude": 82.9752139,
+    "place_id": "ChIJj5YbEvImcEERv-cYPUzTRVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5YbEvImcEERv-cYPUzTRVg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:40"
+  }
+]

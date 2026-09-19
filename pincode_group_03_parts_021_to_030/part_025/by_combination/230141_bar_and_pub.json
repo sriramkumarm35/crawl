@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pure basdev",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "230141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RFJR+PX7, Pure Basdev, Uttar Pradesh 230141",
+    "area": "230141",
+    "latitude": 25.8317981,
+    "longitude": 81.4924269,
+    "place_id": "ChIJg8B999kfmzkRDm4Vl67P10U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8B999kfmzkRDm4Vl67P10U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:48"
+  },
+  {
+    "business_name": "Twist Bar & Lounge",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Lounge bar, Night club, Restaurant",
+    "pincode": "230141",
+    "phone_number": "+91 83062 31050",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Connaught Place, Shobhagpura, Udaipur, Rajasthan 313001",
+    "area": "Shobhagpura",
+    "latitude": 24.6086189,
+    "longitude": 73.709436,
+    "place_id": "ChIJbfeYhTLlZzkRRsvG6RwE4K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfeYhTLlZzkRRsvG6RwE4K8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:50"
+  }
+]

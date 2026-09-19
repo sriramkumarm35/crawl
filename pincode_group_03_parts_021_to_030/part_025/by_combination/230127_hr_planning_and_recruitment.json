@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advait HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Employment consultant, Recruiter",
+    "pincode": "230127",
+    "phone_number": "+91 98999 79034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block E, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    "area": "Block E, Mohan Cooperative Industrial Estate, Badarpur",
+    "latitude": 28.5102495,
+    "longitude": 77.2985884,
+    "place_id": "ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63Ok5RjnDDkRnFQfyOckRrc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:53"
+  },
+  {
+    "business_name": "The HR Gallery",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "230127",
+    "phone_number": "+91 99999 13970",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "C-25, Bishanpura, Sector 58, Noida, Uttar Pradesh 201309",
+    "area": "Bishanpura, Sector 58",
+    "latitude": 28.6077503,
+    "longitude": 77.3561993,
+    "place_id": "ChIJm3zBp2zlDDkRTSxvfoFxM1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3zBp2zlDDkRTSxvfoFxM1I",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:55"
+  }
+]

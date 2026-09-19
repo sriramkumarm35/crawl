@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SB Advertising Media",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency",
+    "pincode": "230121",
+    "phone_number": "+91 91369 09020",
+    "website": "https://sbadvertisingmedia.com/",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "122, Vardhman Premium Mall, Deepali, Pitampura, Delhi, 110034",
+    "area": "Deepali, Pitampura",
+    "latitude": 28.6964522,
+    "longitude": 77.11552669999999,
+    "place_id": "ChIJ3xpLH28DDTkRwYle__o3fHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xpLH28DDTkRwYle__o3fHE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:56:52"
+  },
+  {
+    "business_name": "Pushpak Advertising (Mr Rakesh)",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "230121",
+    "phone_number": "+91 172 507 9300",
+    "website": "http://www.pushpakadvertising.com/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "opposite Electronic market, Sector 18A, 18A, Sector 18, Chandigarh, 160018",
+    "area": "Sector 18A, 18A, Sector 18",
+    "latitude": 30.734240099999997,
+    "longitude": 76.7877178,
+    "place_id": "ChIJKQZXmRPtDzkRNeFiM7NGR5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQZXmRPtDzkRNeFiM7NGR5s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:56:52"
+  }
+]

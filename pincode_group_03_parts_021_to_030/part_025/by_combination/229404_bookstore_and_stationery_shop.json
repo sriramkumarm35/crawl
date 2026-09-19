@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "229404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "III-B-64, Unchahar, Uttar Pradesh 229404",
+    "area": "229404",
+    "latitude": 25.907908199999998,
+    "longitude": 81.2926105,
+    "place_id": "ChIJTfCQ5xwRmzkRpJ4bxTH_KCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfCQ5xwRmzkRpJ4bxTH_KCI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:34:49"
+  },
+  {
+    "business_name": "YASH BOOK DEPO",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "229404",
+    "phone_number": "+91 78608 56150",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Hanumaan ganj, Umaran, Rohaniya, Uttar Pradesh 229404",
+    "area": "229404",
+    "latitude": 25.9537512,
+    "longitude": 81.38018029999999,
+    "place_id": "ChIJ3_0pQeUbmzkRCgLJ5TtaK_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_0pQeUbmzkRCgLJ5TtaK_8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:34:51"
+  }
+]

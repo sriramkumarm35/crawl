@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swagat food",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Awadhi Restaurant, Food & Beverage Exporter, Hot pot restaurant, Restaurant, Soup shop, Vegan restaurant",
+    "pincode": "230124",
+    "phone_number": "+91 11 6931 0406",
+    "website": "https://swagat-food.grexa.site/",
+    "rating": 4.3,
+    "reviews_count": 214,
+    "address": "Pratapgarh - Prayagraj Rd, Mau Aima, Uttar Pradesh 212507",
+    "area": "230124",
+    "latitude": 25.701317,
+    "longitude": 81.9096325,
+    "place_id": "ChIJqd5m-f-5mjkRs5dQaEfXWi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqd5m-f-5mjkRs5dQaEfXWi4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:57:07"
+  },
+  {
+    "business_name": "Poonam Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Family restaurant, Maharashtrian Restaurant, North Indian restaurant, Punjabi restaurant, Rice restaurant, South Indian restaurant",
+    "pincode": "230124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "CTS Nm - 539 C, near Poonam Chowk, Mahabaleshwar, Maharashtra 412806",
+    "area": "230124",
+    "latitude": 17.924682699999998,
+    "longitude": 73.6576577,
+    "place_id": "ChIJn_Qyz1NlwjsREBqsOIhNEss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_Qyz1NlwjsREBqsOIhNEss",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:57:08"
+  }
+]

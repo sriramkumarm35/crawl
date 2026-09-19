@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mewar Juice Corner & Fast Food",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Fast food restaurant",
+    "pincode": "230143",
+    "phone_number": "+91 83055 05910",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 463,
+    "address": "HIG-1/93, DD Nagar Rd Sector 1, DD Nagar Rd, Sector 1, DDU Nagar, Amanaka, Raipur, Chhattisgarh 492013",
+    "area": "Sector 1, DDU Nagar, Amanaka",
+    "latitude": 21.236736,
+    "longitude": 81.6005595,
+    "place_id": "ChIJhxqFLXTeKDoRu7j2-CSRqUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxqFLXTeKDoRu7j2-CSRqUw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:30:23"
+  },
+  {
+    "business_name": "Shake Sahab",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "230143",
+    "phone_number": "+91 99993 37866",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 2466,
+    "address": "A-2/52, Lal Quarters Rd, Block A, Krishna Nagar, Delhi, 110051",
+    "area": "Block A, Krishna Nagar",
+    "latitude": 28.6603441,
+    "longitude": 77.2790259,
+    "place_id": "ChIJBQWNjDX9DDkR3uZn3Q6Fhao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQWNjDX9DDkR3uZn3Q6Fhao",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:30:23"
+  }
+]

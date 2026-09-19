@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna dhaba & restaurent",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "229304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 20,
+    "address": "C42P+MWJ, Raibareli Rd, Peerun, Karanpur, Uttar Pradesh 229303",
+    "area": "229304",
+    "latitude": 26.401708799999998,
+    "longitude": 81.1372538,
+    "place_id": "ChIJn8JexQ2XmzkRXgeEozXmji4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8JexQ2XmzkRXgeEozXmji4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:04"
+  },
+  {
+    "business_name": "ankit dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "229304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6773+Q4W, Krishna Nagar, Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Krishna Nagar, Sri Nagar",
+    "latitude": 26.214480599999998,
+    "longitude": 81.25281389999999,
+    "place_id": "ChIJ5QBNlXSnmzkRZy3Nw7sTCYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QBNlXSnmzkRZy3Nw7sTCYg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:14:06"
+  }
+]

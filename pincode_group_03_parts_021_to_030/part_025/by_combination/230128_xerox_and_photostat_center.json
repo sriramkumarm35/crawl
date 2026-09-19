@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Printing Station",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Service establishment",
+    "pincode": "230128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Printing Station, 230128, India",
+    "area": "230128",
+    "latitude": 27.619317199999998,
+    "longitude": 84.35761,
+    "place_id": "ChIJWeHqpEaK12oRDaIS1Zv1hlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeHqpEaK12oRDaIS1Zv1hlA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:34"
+  },
+  {
+    "business_name": "The Printing House",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "230128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 30,
+    "address": "College tilla, opposite of BBM college, Pratapgarh, Agartala, Tripura 799004",
+    "area": "Pratapgarh",
+    "latitude": 23.8247823,
+    "longitude": 91.29331549999999,
+    "place_id": "ChIJH7cxwWzzUzcRuh9Hue0LtNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7cxwWzzUzcRuh9Hue0LtNc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:34"
+  }
+]

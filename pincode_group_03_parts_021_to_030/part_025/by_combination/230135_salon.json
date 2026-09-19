@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Rose Beauty Parlor",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "230135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road , Main Chauk, Bandwa Bazar, Bhandhawa Bazar, Usrauli, Pratapgarh, Uttar Pradesh 230135",
+    "area": "Bandwa Bazar, Bhandhawa Bazar",
+    "latitude": 25.8525611,
+    "longitude": 82.2806557,
+    "place_id": "ChIJh-ULQGd1kDkRXbhFXO_CPn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-ULQGd1kDkRXbhFXO_CPn0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:18:16"
+  },
+  {
+    "business_name": "Mahadaha बचाऊ",
+    "search_category": "Salon",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "230135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahadaha, Uttar Pradesh 230135",
+    "area": "230135",
+    "latitude": 25.987089299999997,
+    "longitude": 82.1903963,
+    "place_id": "ChIJCey5ZgCdmjkRCkkpXpFC8Hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCey5ZgCdmjkRCkkpXpFC8Hc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:18:17"
+  }
+]

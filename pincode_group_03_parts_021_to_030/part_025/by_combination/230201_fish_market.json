@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunda Machchi Bazaar",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "230201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "PG97+CQR, Kunda, Uttar Pradesh 230204",
+    "area": "230201",
+    "latitude": 25.7186092,
+    "longitude": 81.5143872,
+    "place_id": "ChIJMe4Ck6AgmzkR7R3XLE4H_wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMe4Ck6AgmzkR7R3XLE4H_wU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:33:52"
+  },
+  {
+    "business_name": "FSCI FISHIRES",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery, Farm, Fish processing, Fishing camp, Fishing pond, Fishing store, Agricultural Seed Store",
+    "pincode": "230201",
+    "phone_number": "+91 98924 74325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kunda, Uttar Pradesh 230204",
+    "area": "230201",
+    "latitude": 25.719265999999998,
+    "longitude": 81.516004,
+    "place_id": "ChIJie3i8WzfmjkRMAb0TVQ4xiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJie3i8WzfmjkRMAb0TVQ4xiw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:33:54"
+  }
+]

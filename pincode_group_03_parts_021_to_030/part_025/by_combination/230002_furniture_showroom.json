@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangal Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "230002",
+    "phone_number": "+91 63877 84136",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Patel Nagar, Pratapgarh, Banveer Kachh, Uttar Pradesh 230002",
+    "area": "Patel Nagar",
+    "latitude": 25.8930467,
+    "longitude": 81.9305779,
+    "place_id": "ChIJuynbVfSVmjkRDHlxBDM7lIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuynbVfSVmjkRDHlxBDM7lIk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:14"
+  },
+  {
+    "business_name": "Sleepwell Gallery - Sabzi Mandi, Pratapgarh",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "230002",
+    "phone_number": "+91 8071 640 311",
+    "website": "https://storesnearme.mysleepwell.com/sleepwell/stores-in-pratapgarh/stores-in-sabzi-mandi/sleepwell-shoppe-super-furnishing-in-sabzi-mandi-pratapgarh--771e283c-7228-4b61-843b-991c2621a503/home",
+    "rating": 4.7,
+    "reviews_count": 62,
+    "address": "Super Furnishing, Sabzi Mandi, Main Road, Pratapgarh, Uttar Pradesh 230001",
+    "area": "230002",
+    "latitude": 25.8990138,
+    "longitude": 81.93754059999999,
+    "place_id": "ChIJh04dzdaVmjkRVuodqPw1H10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh04dzdaVmjkRVuodqPw1H10",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Timber",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "229311",
+    "phone_number": "+91 96510 40800",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sehgon, Sehgon Pashchim Gaon, Tamanpur, Uttar Pradesh 229311",
+    "area": "Sehgon",
+    "latitude": 26.556214399999998,
+    "longitude": 81.1293165,
+    "place_id": "ChIJhVPCKl3rmzkRGTXj04va4rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVPCKl3rmzkRGTXj04va4rk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:27:17"
+  },
+  {
+    "business_name": "Architect",
+    "search_category": "Architects",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "229311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J566+WM3, Aslam Nagar, Uttar Pradesh 226303",
+    "area": "229311",
+    "latitude": 26.6123722,
+    "longitude": 81.1614994,
+    "place_id": "ChIJdyL1h_jrmzkRd5VrmV8VO9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyL1h_jrmzkRd5VrmV8VO9s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:27:19"
+  }
+]

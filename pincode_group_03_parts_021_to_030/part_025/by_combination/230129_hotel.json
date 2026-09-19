@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPOT ON by OYO Saiyaara Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "230129",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/360845/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Landmark- bharat petrol pump, 1, Plot no.- 354, Mauaima, Harakhpur, Sulempur, Uttar Pradesh 212507",
+    "area": "Mauaima",
+    "latitude": 25.698127099999997,
+    "longitude": 81.8238025,
+    "place_id": "ChIJ6X2yovPHmjkR991Hz5_FY60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6X2yovPHmjkR991Hz5_FY60",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:07:13"
+  },
+  {
+    "business_name": "SPOT ON A2 Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "230129",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/355835/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot no.- 444, Mauima, Kalyanpur, Harakhpue, Semra Birbhanpur, Uttar Pradesh 212507",
+    "area": "Mauima, Kalyanpur",
+    "latitude": 25.6845833,
+    "longitude": 81.8413056,
+    "place_id": "ChIJ_9WjAbTHmjkRv3cx_VxJ_n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9WjAbTHmjkRv3cx_VxJ_n4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:07:13"
+  }
+]

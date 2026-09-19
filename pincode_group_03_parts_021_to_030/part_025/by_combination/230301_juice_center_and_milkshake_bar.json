@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Juice & Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Beverage Store",
+    "all_categories": "Beverage Store",
+    "pincode": "230301",
+    "phone_number": "+91 70027 94922",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "KR, S Chowdhury Rd, near Amravati Foods, Kumarpara, Bharalumukh, Guwahati, Assam 781009",
+    "area": "Kumarpara, Bharalumukh",
+    "latitude": 26.1708954,
+    "longitude": 91.7336163,
+    "place_id": "ChIJaSWXPDxbWjcRRTk7XxDKUaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSWXPDxbWjcRRTk7XxDKUaE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:24"
+  },
+  {
+    "business_name": "Jagjeet Juice Machine",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store, Appliance store",
+    "pincode": "230301",
+    "phone_number": "+91 98103 77767",
+    "website": "https://fruitjuicemachine.com/",
+    "rating": 3.9,
+    "reviews_count": 65,
+    "address": "Nawabganj, Tis Hazari, New Delhi, Delhi, 110006",
+    "area": "Nawabganj, Tis Hazari",
+    "latitude": 28.664754199999997,
+    "longitude": 77.20966349999999,
+    "place_id": "ChIJie573i_9DDkRq--g4CdzSpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJie573i_9DDkRq--g4CdzSpQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:24"
+  }
+]

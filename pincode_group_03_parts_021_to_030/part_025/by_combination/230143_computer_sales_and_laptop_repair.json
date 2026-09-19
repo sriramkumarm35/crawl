@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "230143",
+    "phone_number": "+91 96870 43550",
+    "website": "http://www.narayancomputers.com/",
+    "rating": 4.9,
+    "reviews_count": 178,
+    "address": "U.G.-3, near Bahumali Building, Navdi Bandar, Nanpura, Surat, Gujarat 395001",
+    "area": "Navdi Bandar, Nanpura",
+    "latitude": 21.1898393,
+    "longitude": 72.8127262,
+    "place_id": "ChIJTWyJFstP4DsRfQZIjI6qD5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWyJFstP4DsRfQZIjI6qD5A",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:31:32"
+  },
+  {
+    "business_name": "Balaji Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "230143",
+    "phone_number": "+91 99190 48706",
+    "website": "http://balajiinfotech.org.in/",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Vikas bhavan, road, Gauriganj, Madho Pur, Uttar Pradesh 227409",
+    "area": "230143",
+    "latitude": 26.193574899999998,
+    "longitude": 81.68390219999999,
+    "place_id": "ChIJE7J9f01XmjkRPd1Ok_oBFG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7J9f01XmjkRPd1Ok_oBFG8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:31:32"
+  }
+]

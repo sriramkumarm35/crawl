@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MK Motor Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Truck parts supplier",
+    "all_categories": "Truck parts supplier, Home automation company",
+    "pincode": "230204",
+    "phone_number": "+91 99365 83971",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "NH2 Gulamipur Ganpa, Uttar Pradesh 212217",
+    "area": "230204",
+    "latitude": 25.639927099999998,
+    "longitude": 81.37770379999999,
+    "place_id": "ChIJOaBi6AMlmzkR44qqbfYW2-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaBi6AMlmzkR44qqbfYW2-U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:38:01"
+  },
+  {
+    "business_name": "Pappu Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "230204",
+    "phone_number": "+91 98381 32478",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "04, Bharwari, Daranagar, Uttar Pradesh 212204",
+    "area": "Bharwari",
+    "latitude": 25.6872825,
+    "longitude": 81.3552129,
+    "place_id": "ChIJcTMMEwAlmzkR70ZGoJxWSd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTMMEwAlmzkR70ZGoJxWSd0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:38:02"
+  }
+]

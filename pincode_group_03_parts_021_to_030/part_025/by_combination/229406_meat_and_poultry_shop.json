@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khurampur, Uttar Pradesh 229406",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khurampur, Uttar Pradesh",
+    "area": "229406",
+    "latitude": 25.893659,
+    "longitude": 81.3234382,
+    "place_id": "ChIJUzFL7GYQmzkRf5x4ys0t0ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzFL7GYQmzkRf5x4ys0t0ac",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:12"
+  },
+  {
+    "business_name": "Chicken shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "669J+JP5, Police Line Rd, Awas Vikas Colony, Indira Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Awas Vikas Colony, Indira Nagar",
+    "latitude": 26.2189564,
+    "longitude": 81.2319651,
+    "place_id": "ChIJJXvP18ahmzkR0O8meBwVKWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXvP18ahmzkR0O8meBwVKWc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:13"
+  }
+]

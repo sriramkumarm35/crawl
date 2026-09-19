@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dairy. Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Food products supplier",
+    "pincode": "229402",
+    "phone_number": "+91 76071 49567",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pt .Rameshwar Degree College, Sultanpur Aaima, Madhupuri, Uttar Pradesh 229402",
+    "area": "229402",
+    "latitude": 26.1756717,
+    "longitude": 81.2342922,
+    "place_id": "ChIJsTUVeB-hmzkR-Q4gLHncN9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTUVeB-hmzkR-Q4gLHncN9U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:04"
+  },
+  {
+    "business_name": "Giani's Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "229402",
+    "phone_number": "+91 63926 60228",
+    "website": "https://www.gianisicecream.com/stores/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1317 civil lines Lucknow road near by SBI Bank Sultanpur Pin.228001, Uttar Pradesh 110064",
+    "area": "229402",
+    "latitude": 26.1598868,
+    "longitude": 81.2561176,
+    "place_id": "ChIJoxHm8lOnmzkRDbrq_4x9-5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxHm8lOnmzkRDbrq_4x9-5Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:04"
+  }
+]

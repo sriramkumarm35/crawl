@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "230127",
+    "phone_number": "+91 95982 68484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Railway Station, Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230127",
+    "latitude": 25.9129802,
+    "longitude": 82.0012842,
+    "place_id": "ChIJ21AVbSuXmjkRAAAAcAKQHTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21AVbSuXmjkRAAAAcAKQHTI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:43"
+  },
+  {
+    "business_name": "Van Heusen Pratapgarh",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "230127",
+    "phone_number": "N/A",
+    "website": "http://vanheusenindia.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Van Heusen, 453/ 1, Upper Ground Floor Sahodarpur West. Main Road, Pratapgarh - Prayagraj Rd, Ayodhya, Uttar Pradesh 230001",
+    "area": "230127",
+    "latitude": 25.9156287,
+    "longitude": 81.99910799999999,
+    "place_id": "ChIJtTZxEj6RmjkR7AAuxqPXzeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTZxEj6RmjkR7AAuxqPXzeY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:45"
+  }
+]

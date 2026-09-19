@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajasthan International Center",
+    "search_category": "Exhibitions",
+    "primary_category": "Convention center",
+    "all_categories": "Convention center",
+    "pincode": "230002",
+    "phone_number": "+91 141 256 3238",
+    "website": "https://ricjaipur.org/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bhamashah State Data Centre Block-C, Jhalana Doongri, Jaipur, Rajasthan 302004",
+    "area": "Jhalana Doongri",
+    "latitude": 26.8668664,
+    "longitude": 75.8190989,
+    "place_id": "ChIJRdB4yna3bTkRzaraT_I3r3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdB4yna3bTkRzaraT_I3r3M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:59"
+  },
+  {
+    "business_name": "Pure bhagwan das",
+    "search_category": "Exhibitions",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "230002",
+    "phone_number": "+91 63075 63618",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Gaighat Rd, Pure Keshav Rai, Param Nath Pur, Uttar Pradesh 230502",
+    "area": "230002",
+    "latitude": 25.946634399999997,
+    "longitude": 81.9635576,
+    "place_id": "ChIJeeTUdBSRmjkRd2Mi8Q3BQs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeTUdBSRmjkRd2Mi8Q3BQs4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:00"
+  }
+]

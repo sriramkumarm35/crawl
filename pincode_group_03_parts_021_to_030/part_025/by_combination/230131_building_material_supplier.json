@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Home builder",
+    "pincode": "230131",
+    "phone_number": "+91 97945 11680",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dwarika Bazzar, Biraipur, Uttar Pradesh 230304",
+    "area": "230131",
+    "latitude": 25.7751307,
+    "longitude": 81.97957099999999,
+    "place_id": "ChIJPyfjMAC9mjkR-Xp919IH9E8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyfjMAC9mjkR-Xp919IH9E8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:10:40"
+  },
+  {
+    "business_name": "Kuldeep Buliding matterial & kirana store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "230131",
+    "phone_number": "+91 99365 36747",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saroj Tiraha, Khajurni, Uttar Pradesh 230131",
+    "area": "230131",
+    "latitude": 25.8826055,
+    "longitude": 82.0074485,
+    "place_id": "ChIJ7-Gyl-KXmjkR1zbrjrfqdAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-Gyl-KXmjkR1zbrjrfqdAA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:10:43"
+  }
+]

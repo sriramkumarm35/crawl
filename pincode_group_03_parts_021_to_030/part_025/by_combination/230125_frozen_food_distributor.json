@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frozen Delights",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Catering food and drink supplier, Dairy Products Supplier, Food products supplier, Fried chicken takeaway, Hotel supply store, Meat wholesaler, Wholesale Food Store, Wholesale grocer, Wholesaler",
+    "pincode": "230125",
+    "phone_number": "+91 73586 21707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 67,
+    "address": "Plot no 2/76A, 1st Main Rd, Poompuhar Nagar, Kolathur, Chennai, Tamil Nadu 600099",
+    "area": "Poompuhar Nagar, Kolathur",
+    "latitude": 13.120565099999999,
+    "longitude": 80.21214859999999,
+    "place_id": "ChIJucJJuY5lUjoRbTmaNYFpObQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucJJuY5lUjoRbTmaNYFpObQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:58:53"
+  },
+  {
+    "business_name": "Sri Venkateshwara Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "230125",
+    "phone_number": "+91 94408 76338",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 29,
+    "address": "Door .-39/245,, Number 7 Rd, IDA Jeedimetla, Subhash Nagar, Hyderabad, Telangana 500055",
+    "area": "IDA Jeedimetla, Subhash Nagar, Jeedimetla",
+    "latitude": 17.5132194,
+    "longitude": 78.45981859999999,
+    "place_id": "ChIJq_q2jRuQyzsR5q5AdcESJfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_q2jRuQyzsR5q5AdcESJfo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:58:54"
+  }
+]

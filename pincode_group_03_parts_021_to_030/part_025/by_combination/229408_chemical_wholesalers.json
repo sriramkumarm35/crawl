@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ritech Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler, Chemical Manufacturer, Chemical wholesaler, Household chemicals supplier, Water treatment plant, Water treatment supplier",
+    "pincode": "229408",
+    "phone_number": "+91 98291 30479",
+    "website": "https://ritechind.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Plot No. 1211, Ajmer Rd, Jamuna Dairy, Gayatri Nagar, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Jamuna Dairy, Gayatri Nagar, Sodala",
+    "latitude": 26.904530599999998,
+    "longitude": 75.7718383,
+    "place_id": "ChIJOSMYQ0q1bTkR2uJ2Xxd-Tl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSMYQ0q1bTkR2uJ2Xxd-Tl8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:40:24"
+  },
+  {
+    "business_name": "KTP CHEMICALS",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service",
+    "pincode": "229408",
+    "phone_number": "+91 98240 24249",
+    "website": "http://ktpchemicals.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B-38, SUPATH -2 COMPLEX near JUNA VADAJ BUS STAND, USMANPURA, Nava Vadaj, Ahmedabad, Gujarat 380013",
+    "area": "Nava Vadaj",
+    "latitude": 23.0532984,
+    "longitude": 72.5720515,
+    "place_id": "ChIJ76vUvcCFXjkRMBtblb0B1NE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76vUvcCFXjkRMBtblb0B1NE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:40:24"
+  }
+]

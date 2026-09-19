@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla Rice Mile",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "230129",
+    "phone_number": "+91 99181 03267",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "RP6X+7M6, Kanupur, Uttar Pradesh 230129",
+    "area": "230129",
+    "latitude": 25.8106652,
+    "longitude": 81.7491378,
+    "place_id": "ChIJV8B9BdnpmjkRDm3jHOjM2VM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8B9BdnpmjkRDm3jHOjM2VM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:07:43"
+  },
+  {
+    "business_name": "Rahul Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "230129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQGW+XPM, Kalhwari, Uttar Pradesh 230129",
+    "area": "230129",
+    "latitude": 25.8274629,
+    "longitude": 81.7968108,
+    "place_id": "ChIJRUZmol_rmjkR6k3obhL06TA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUZmol_rmjkR6k3obhL06TA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:07:43"
+  }
+]

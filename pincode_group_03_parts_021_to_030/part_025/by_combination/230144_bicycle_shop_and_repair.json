@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu bike repair center",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop",
+    "pincode": "230144",
+    "phone_number": "+91 96542 54473",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chandroiya, Harchetpur, Usrapur, Uttar Pradesh 230402",
+    "area": "chandroiya",
+    "latitude": 25.826860399999997,
+    "longitude": 81.9071724,
+    "place_id": "ChIJdahRzXmVmjkRA2biuCzqpfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdahRzXmVmjkRA2biuCzqpfk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:42"
+  },
+  {
+    "business_name": "Chatkara Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "230144",
+    "phone_number": "+91 81300 65004",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1/1, C-1, Chatkara Chowk, 1, Delhi, 110007",
+    "area": "Rana Pratap Bagh, Ashok Vihar",
+    "latitude": 28.6872664,
+    "longitude": 77.1935117,
+    "place_id": "ChIJRzjcc3UCDTkR7x9Xk0G5VXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzjcc3UCDTkR7x9Xk0G5VXA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:32:44"
+  }
+]

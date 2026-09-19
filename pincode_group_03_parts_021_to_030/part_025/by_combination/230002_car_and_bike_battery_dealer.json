@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Battery House",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Battery Wholesaler",
+    "pincode": "230002",
+    "phone_number": "+91 99997 20041",
+    "website": "https://kumarbatteryhouse.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Badshahpur Sohna Rd, near JMD Gallery, opp. sec 47, Malibu Towne, Tikri, Sector 48, Gurugram, Haryana 122018",
+    "area": "Malibu Towne, Tikri, Sector 48",
+    "latitude": 28.4217987,
+    "longitude": 77.03873329999999,
+    "place_id": "ChIJSWOOhHMYDTkR26RfXH7Sjak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWOOhHMYDTkR26RfXH7Sjak",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:53:59"
+  },
+  {
+    "business_name": "VG Amaron Exide Inverter & Car Batteries",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Store, Battery Wholesaler, Electronics manufacturer",
+    "pincode": "230002",
+    "phone_number": "+91 99513 55544",
+    "website": "http://www.vgbatteries.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7-1-63/3, Dharam Karan Rd, Jamuna Tirth, Ameerpet, Hyderabad, Telangana 500016",
+    "area": "Jamuna Tirth, Ameerpet",
+    "latitude": 17.4402312,
+    "longitude": 78.4512822,
+    "place_id": "ChIJGTRGmMeQyzsRkFTqN2666Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTRGmMeQyzsRkFTqN2666Pg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:54:01"
+  }
+]

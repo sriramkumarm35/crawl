@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Party Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Party planner",
+    "pincode": "229406",
+    "phone_number": "+91 79735 61986",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aerocity Road, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab 140306",
+    "area": "Sector 82, JLPL Industrial Area",
+    "latitude": 30.6580116,
+    "longitude": 76.7380757,
+    "place_id": "ChIJpdy7bz7rDzkRdtbGchW40VA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdy7bz7rDzkRdtbGchW40VA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:11"
+  },
+  {
+    "business_name": "Balloon Delight Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "229406",
+    "phone_number": "+91 77078 07676",
+    "website": "https://balloondelightdecoration.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Cabin No 3, Nation (HQ, F-426, near Start Hub, Sector 91, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Sector 91",
+    "latitude": 30.702133099999998,
+    "longitude": 76.683055,
+    "place_id": "ChIJ89C6qSLvDzkRFP4oU0zEjeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89C6qSLvDzkRFP4oU0zEjeI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:38:11"
+  }
+]

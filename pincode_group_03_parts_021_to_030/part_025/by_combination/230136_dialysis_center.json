@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NephroPRO Dialysis Services",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "230136",
+    "phone_number": "+91 92462 46526",
+    "website": "https://www.nephropro.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "305 A, Pavani Anusuya Towers, Tarnaka Main Rd, above Sudarshan Reddy Sweets, Hyderabad, Telangana 500017",
+    "area": "Shri Mitra Ramana Classic Enclave, Krishna Giri Enclave, Tarnaka",
+    "latitude": 17.4248902,
+    "longitude": 78.5358966,
+    "place_id": "ChIJGzlxe8ubyzsRAtnWMgPrJc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzlxe8ubyzsRAtnWMgPrJc8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:19:45"
+  },
+  {
+    "business_name": "GoDialysis",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "230136",
+    "phone_number": "+91 98105 55611",
+    "website": "http://godialysis.org/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Plot No-509, Phase V, Udyog Vihar, Sector 19, Gurugram, Haryana 122016",
+    "area": "Phase V, Udyog Vihar, Sector 19",
+    "latitude": 28.499121199999998,
+    "longitude": 77.0853382,
+    "place_id": "ChIJIZBOckMZDTkRPn_zQdDEGVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZBOckMZDTkRPn_zQdDEGVA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:19:45"
+  }
+]

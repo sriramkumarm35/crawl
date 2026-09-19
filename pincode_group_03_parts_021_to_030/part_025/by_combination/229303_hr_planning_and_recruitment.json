@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AL HR Consulting Ltd",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "229303",
+    "phone_number": "01905 900080",
+    "website": "https://alhrconsulting.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AL HR Consulting Ltd, 229303, India",
+    "area": "229303",
+    "latitude": 52.3213187,
+    "longitude": -1.9176753,
+    "place_id": "ChIJtStzqvuBP4wRQGA5VafQVSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtStzqvuBP4wRQGA5VafQVSU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:13:32"
+  },
+  {
+    "business_name": "Vinush Recruitment Agency",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Employment consultant",
+    "pincode": "229303",
+    "phone_number": "+91 94821 66835",
+    "website": "https://www.vinush.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "17, 7th Main Rd, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+    "latitude": 12.978523599999999,
+    "longitude": 77.635577,
+    "place_id": "ChIJy-_GR4cXrjsR1tkgTiH3d3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-_GR4cXrjsR1tkgTiH3d3g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:13:33"
+  }
+]

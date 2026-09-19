@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhilesh Tailor",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "229309",
+    "phone_number": "+91 87261 39881",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhadoriya Market Lalgang To Saimbasi, Raebareli, Uttar Pradesh 229309",
+    "area": "229309",
+    "latitude": 26.3324465,
+    "longitude": 81.4654971,
+    "place_id": "ChIJpd8Rst-tmzkRKzUdllAd69E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpd8Rst-tmzkRKzUdllAd69E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:23:08"
+  },
+  {
+    "business_name": "Brothers Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "229309",
+    "phone_number": "+91 63074 72725",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Jagdishpur - Jais Rd, Aanand Nagar, Babu Pur Sharia, Uttar Pradesh 227809",
+    "area": "Aanand Nagar",
+    "latitude": 26.414191,
+    "longitude": 81.58623419999999,
+    "place_id": "ChIJNc3B_h5NmjkRE0bQbfUFqgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNc3B_h5NmjkRE0bQbfUFqgY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:23:08"
+  }
+]

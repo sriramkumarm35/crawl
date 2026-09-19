@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIVYA AUTOMOBILES",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "230127",
+    "phone_number": "+91 90445 37733",
+    "website": "https://carsell.in/",
+    "rating": 4.5,
+    "reviews_count": 62,
+    "address": "Main Lalitpur rode, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.4097378,
+    "longitude": 78.56335969999999,
+    "place_id": "ChIJqUaYVaF7dzkRKU-dVP1RutA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUaYVaF7dzkRKU-dVP1RutA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:04"
+  },
+  {
+    "business_name": "Shiva Auto Sales Bajaj",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "230127",
+    "phone_number": "+91 94151 95364",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Kunda, Pratapgarh NH-24B, Lucknow, Road, Prayagraj, Kunda, Uttar Pradesh 230204",
+    "area": "230127",
+    "latitude": 25.720299999999998,
+    "longitude": 81.5157,
+    "place_id": "ChIJjXWbf6AgmzkR4WnzyNvdvk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXWbf6AgmzkR4WnzyNvdvk8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:06"
+  }
+]

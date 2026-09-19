@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "229316",
+    "phone_number": "+91 73075 46180",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "6772+QV8, Krishna Nagar, Sri Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Krishna Nagar, Sri Nagar",
+    "latitude": 26.214405,
+    "longitude": 81.25251899999999,
+    "place_id": "ChIJD7AgBACnmzkRu7JkJs3Y5ig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7AgBACnmzkRu7JkJs3Y5ig",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:28:24"
+  },
+  {
+    "business_name": "Dadi Ki Rasoi, Budaun, Pure Vegetarian restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "229316",
+    "phone_number": "+91 92580 14275",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SH 43, Bhagautipur, Uttar Pradesh 243601",
+    "area": "229316",
+    "latitude": 28.060078299999997,
+    "longitude": 79.1262236,
+    "place_id": "ChIJWZWflLZPdTkRy8TSptq8GDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZWflLZPdTkRy8TSptq8GDI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:28:24"
+  }
+]

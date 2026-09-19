@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty Station",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Products Wholesaler, Outlet mall, Wholesale market",
+    "pincode": "230126",
+    "phone_number": "+91 99588 27898",
+    "website": "https://beautystation.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "5826, Matke Wali Gali, Narain Market, Sadar Bazar, Delhi, 110006",
+    "area": "Narain Market, Sadar Bazar",
+    "latitude": 28.657861699999998,
+    "longitude": 77.2149718,
+    "place_id": "ChIJ-T1kEgP9DDkR0zU-EydbDk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-T1kEgP9DDkR0zU-EydbDk0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:01:36"
+  },
+  {
+    "business_name": "S R Enterprises",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "230126",
+    "phone_number": "+91 99143 99222",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "SCO 805, Sector 22A, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22A, Sector 22",
+    "latitude": 30.7389084,
+    "longitude": 76.7744177,
+    "place_id": "ChIJVVVVVaTtDzkRh2zYOdCDoxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaTtDzkRh2zYOdCDoxY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:01:36"
+  }
+]

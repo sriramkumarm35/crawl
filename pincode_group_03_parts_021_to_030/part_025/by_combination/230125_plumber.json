@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajinder Kumar",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "230125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2MW8+MV4, Sangipur, Uttar Pradesh 230139",
+    "area": "230125",
+    "latitude": 26.0466406,
+    "longitude": 81.6672093,
+    "place_id": "ChIJLTbKfgD7mjkRaf_kBqcaINg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTbKfgD7mjkRaf_kBqcaINg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:59:37"
+  },
+  {
+    "business_name": "JLH Plumbing Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Service establishment",
+    "pincode": "230125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "JLH Plumbing Services, 230125, India",
+    "area": "230125",
+    "latitude": 42.659912999999996,
+    "longitude": -83.3864155,
+    "place_id": "ChIJv708ox_JM6ER_DIepojuooc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv708ox_JM6ER_DIepojuooc",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:59:38"
+  }
+]

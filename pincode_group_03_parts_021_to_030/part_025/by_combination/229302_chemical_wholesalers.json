@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Fertilizers And Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "229302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6C86+6H7, Pothai, Uttar Pradesh 229302",
+    "area": "229302",
+    "latitude": 26.215548599999998,
+    "longitude": 81.4114142,
+    "place_id": "ChIJVVVVVXGpmzkRiNfizgSOG8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVXGpmzkRiNfizgSOG8g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:11:47"
+  },
+  {
+    "business_name": "Mourya Kirana Store Mojamganj",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Auto chemistry shop",
+    "all_categories": "Auto chemistry shop",
+    "pincode": "229302",
+    "phone_number": "+91 89537 32897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mojamganj Raebareli Sultanpur Road, Odaree, Uttar Pradesh 229304",
+    "area": "229302",
+    "latitude": 26.2637724,
+    "longitude": 81.49382949999999,
+    "place_id": "ChIJ96zm3wCtmzkRsXoTkXfgnSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96zm3wCtmzkRsXoTkXfgnSU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:11:47"
+  }
+]

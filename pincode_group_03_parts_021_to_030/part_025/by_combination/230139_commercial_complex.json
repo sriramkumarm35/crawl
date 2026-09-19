@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv traders",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "230139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Vill. Thariya, Post, Lakshmikantgunj, Uttar Pradesh 230139",
+    "area": "230139",
+    "latitude": 26.0108578,
+    "longitude": 81.7305215,
+    "place_id": "ChIJRd5o61TxmjkRcdalOd4wJpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRd5o61TxmjkRcdalOd4wJpk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:33"
+  },
+  {
+    "business_name": "Ajay & Pramod Traders",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "230139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Jagat Complex, MDR-174E, Rahatikar, Uttar Pradesh 230139",
+    "area": "230139",
+    "latitude": 26.0350283,
+    "longitude": 81.59603299999999,
+    "place_id": "ChIJFaGmwGf9mjkRfAzxuux5vHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFaGmwGf9mjkRfAzxuux5vHA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:33"
+  }
+]

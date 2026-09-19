@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HUNGRY MAK'S",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Pizza restaurant",
+    "pincode": "229302",
+    "phone_number": "+91 95696 91588",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Raebareli sultanpur road, Mukhatiya Moad, Bahadurpur, Jais, Uttar Pradesh 229304",
+    "area": "Mukhatiya Moad",
+    "latitude": 26.266089599999997,
+    "longitude": 81.50700669999999,
+    "place_id": "ChIJHzs8JY2tmzkRm2h-JDh2kw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzs8JY2tmzkRm2h-JDh2kw0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:27"
+  },
+  {
+    "business_name": "‌pradhan Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "229302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "7F43+H6, Sarai Mahesha, Nigohan, Uttar Pradesh 229302",
+    "area": "229302",
+    "latitude": 26.257111599999998,
+    "longitude": 81.4512877,
+    "place_id": "ChIJsThzSWKrmzkRPn12Jtln48I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsThzSWKrmzkRPn12Jtln48I",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:10:27"
+  }
+]

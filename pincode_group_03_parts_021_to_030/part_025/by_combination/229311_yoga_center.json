@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "100rya Fitness Hub (Branch 2)",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "229311",
+    "phone_number": "+91 95559 00338",
+    "website": "https://100rya.fit/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagram Rd, Samesee, Uttar Pradesh 226303",
+    "area": "229311",
+    "latitude": 26.609838399999997,
+    "longitude": 81.1039526,
+    "place_id": "ChIJZ1i6SQDpmzkROxJtDXoXFPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1i6SQDpmzkROxJtDXoXFPk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:26:58"
+  },
+  {
+    "business_name": "Omeesha Yoga (Yoga for happiness)",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor, Service establishment",
+    "pincode": "229311",
+    "phone_number": "+91 75710 21272",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Omeesha Yoga (Yoga for happiness), 229311, India",
+    "area": "229311",
+    "latitude": 26.8572514,
+    "longitude": 81.012163,
+    "place_id": "ChIJ01SwpWbjmzkRDdQu9zERM08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01SwpWbjmzkRDdQu9zERM08",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:27:01"
+  }
+]

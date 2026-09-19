@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram sanehi",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "229404",
+    "phone_number": "+91 74088 93747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Uchahar, Arkha, Uttar Pradesh 229404",
+    "area": "229404",
+    "latitude": 25.8873367,
+    "longitude": 81.238653,
+    "place_id": "ChIJRVTZnDcTmzkRfPaBtHV1Dh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVTZnDcTmzkRfPaBtHV1Dh8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:33:52"
+  },
+  {
+    "business_name": "Zafar Alam",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "229404",
+    "phone_number": "+91 78977 43540",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Hathgaon Rd, Arkha, Kalyani, Uttar Pradesh 229404",
+    "area": "229404",
+    "latitude": 25.8575865,
+    "longitude": 81.260143,
+    "place_id": "ChIJR9TR84EXmzkRKD7hzZIoHk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9TR84EXmzkRKD7hzZIoHk8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:33:52"
+  }
+]

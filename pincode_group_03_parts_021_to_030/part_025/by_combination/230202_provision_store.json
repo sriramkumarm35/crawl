@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashiram Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Dry Fruit Store, Food products",
+    "pincode": "230202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "PWPW+6MR, Sadar Bazaar, Bhatapara, Chhattisgarh 493118",
+    "area": "Sadar Bazaar",
+    "latitude": 21.7356025,
+    "longitude": 81.9466322,
+    "place_id": "ChIJazMxSlxhKDoRZujiAGqX-kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazMxSlxhKDoRZujiAGqX-kk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:37"
+  },
+  {
+    "business_name": "Tolani Provision & Daily Needs",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "230202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gurunanak Ward, Bhatapara, Chhattisgarh 493118",
+    "area": "Gurunanak Ward",
+    "latitude": 21.750204999999998,
+    "longitude": 81.9429141,
+    "place_id": "ChIJxyhWjnhhKDoRPvcP7CGlhNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyhWjnhhKDoRPvcP7CGlhNo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:35:37"
+  }
+]

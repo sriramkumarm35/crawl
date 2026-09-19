@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Team IN Filings",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business management consultant, Certified public accountant, Payroll Service Provider, Tax consultant, Tax preparation",
+    "pincode": "230136",
+    "phone_number": "+91 78922 56853",
+    "website": "https://teamindia.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, 17/2, Kodigehalli Main Rd, near Chairman club, opp. to SRPC staff quarters, Sahakar Nagar, Sanjeevini Nagar, Bengaluru, Karnataka 560092",
+    "area": "Sahakar Nagar, Sanjeevini Nagar",
+    "latitude": 13.057974399999999,
+    "longitude": 77.5869537,
+    "place_id": "ChIJV-Cn-SQYrjsRmR1GHD8Qmc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-Cn-SQYrjsRmR1GHD8Qmc8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:20:43"
+  },
+  {
+    "business_name": "Aimfox (Legal WorkMate)",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "230136",
+    "phone_number": "+91 90816 86565",
+    "website": "https://legalworkmate.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Akshar Pavilion, 1017-1018 Broadway Empire, Besides, Vasna Bhayli Main Rd, Vadodara, Gujarat 391410",
+    "area": "Yogi Nagar Township, Gokul Nagar",
+    "latitude": 22.298914399999997,
+    "longitude": 73.13062219999999,
+    "place_id": "ChIJhQJtDHTJXzkR50Y49ir4uEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQJtDHTJXzkR50Y49ir4uEw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:20:43"
+  }
+]

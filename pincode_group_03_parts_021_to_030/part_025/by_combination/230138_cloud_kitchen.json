@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "230138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ward no 1, Gali no 3, near Patel Degree Mahila College, Bhabua, Bihar 821101",
+    "area": "Azad Nagar",
+    "latitude": 25.044167599999998,
+    "longitude": 83.5966679,
+    "place_id": "ChIJc7wdS87ZjTkRuNjcE1PuS30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7wdS87ZjTkRuNjcE1PuS30",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:23:09"
+  },
+  {
+    "business_name": "My Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "230138",
+    "phone_number": "+91 94141 01012",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "TV tower ke pass, Masjid ke piche, road, Manpura, Pratapgad, Rajasthan 312605",
+    "area": "Manpura, Forest Colony",
+    "latitude": 24.0244435,
+    "longitude": 74.79089739999999,
+    "place_id": "ChIJl09ahVGFZjkRAG-SLnrmsk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl09ahVGFZjkRAG-SLnrmsk4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:23:09"
+  }
+]

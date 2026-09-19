@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hues by Ayushi makeup studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "229311",
+    "phone_number": "+91 63073 74118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "naveen market, 774/28, near Chawla's restaurant, civil line, Raebareli, Uttar Pradesh 229001",
+    "area": "civil line",
+    "latitude": 26.2154699,
+    "longitude": 81.2537225,
+    "place_id": "ChIJV1KNzY-nmzkRjxBQ-qp5mMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1KNzY-nmzkRjxBQ-qp5mMw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:27:22"
+  },
+  {
+    "business_name": "Disha mehendi artist",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Mehndi Designer",
+    "all_categories": "Mehndi Designer",
+    "pincode": "229311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "F4C7+C38, Bachhrawan, Uttar Pradesh 229301",
+    "area": "229311",
+    "latitude": 26.471033,
+    "longitude": 81.112712,
+    "place_id": "ChIJ5-0jTgCVmzkRiDNLbW2i-r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-0jTgCVmzkRiDNLbW2i-r4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:27:25"
+  }
+]

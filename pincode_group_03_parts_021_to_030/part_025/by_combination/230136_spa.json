@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvind Medical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "230136",
+    "phone_number": "+91 99369 91895",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pratapgarh, Sagra, Sagrasundarpur, Uttar Pradesh 230136",
+    "area": "Pratapgarh",
+    "latitude": 25.9300024,
+    "longitude": 81.7663807,
+    "place_id": "ChIJ1cZkiTvvmjkR5m6Sk-iPtcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cZkiTvvmjkR5m6Sk-iPtcg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:20:09"
+  },
+  {
+    "business_name": "Istiyak Medical Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "230136",
+    "phone_number": "+91 93050 24050",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WQJ8+76G, Pratapgarh, Sagra, Sagrasundarpur, Uttar Pradesh 230136",
+    "area": "Pratapgarh",
+    "latitude": 25.930684199999998,
+    "longitude": 81.7655667,
+    "place_id": "ChIJMbgb5f7vmjkRj_mOyEmxvME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbgb5f7vmjkRj_mOyEmxvME",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:20:09"
+  }
+]

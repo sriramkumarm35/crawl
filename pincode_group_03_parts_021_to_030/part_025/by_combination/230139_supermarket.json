@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Kirana",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "230139",
+    "phone_number": "+91 74089 89923",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 8,
+    "address": "Ramesh Kirana, Gowardhanpur, Jagdishpur, Bhagaura, Uttar Pradesh 230139",
+    "area": "Gowardhanpur",
+    "latitude": 26.0629754,
+    "longitude": 81.69411099999999,
+    "place_id": "ChIJV1Kg-FfvmjkRZfPKjwPgSt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1Kg-FfvmjkRZfPKjwPgSt0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:45"
+  },
+  {
+    "business_name": "vodafone mini store Umesh",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "230139",
+    "phone_number": "+91 96487 44155",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 25,
+    "address": "2PW6+QV8, Unnamed Road, Kalyanpur, Uttar Pradesh 230139",
+    "area": "230139",
+    "latitude": 26.0469111,
+    "longitude": 81.7122153,
+    "place_id": "ChIJK8aXuIzwmjkRbxAz3fhLBFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8aXuIzwmjkRbxAz3fhLBFM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:24:47"
+  }
+]

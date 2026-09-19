@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MUTHU NAGARAM SEAFOODS",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "229216",
+    "phone_number": "+91 90421 44269",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7HCJ+6GP, Kavalkinaru, Vadakankulam, Tamil Nadu 627105",
+    "area": "229216",
+    "latitude": 8.2706463,
+    "longitude": 77.5812895,
+    "place_id": "ChIJYQ2wXQCLBDsR6WXK_YkPWQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQ2wXQCLBDsR6WXK_YkPWQ0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:46"
+  },
+  {
+    "business_name": "Owais Jafar Fish Farm",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "229216",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "WRVP+P55, Udhannapur, Uttar Pradesh 212601",
+    "area": "229216",
+    "latitude": 25.944274,
+    "longitude": 80.8354825,
+    "place_id": "ChIJoz5GNjR9mzkRrmQaE1ddUkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz5GNjR9mzkRrmQaE1ddUkg",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:48"
+  }
+]

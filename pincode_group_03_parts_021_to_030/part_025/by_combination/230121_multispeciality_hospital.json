@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pravya I. C. U & Critical care",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "230121",
+    "phone_number": "+91 85029 14514",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhakwa Bazzar, Sonpura, Uttar Pradesh 230121",
+    "area": "230121",
+    "latitude": 26.0069116,
+    "longitude": 82.3733744,
+    "place_id": "ChIJ30UkIwBxkDkRtp31SZZrBy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30UkIwBxkDkRtp31SZZrBy4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:34"
+  },
+  {
+    "business_name": "Chc Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "230121",
+    "phone_number": "+91 75249 03541",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "362V+V28, Araila, Patti, Uttar Pradesh 230138",
+    "area": "230121",
+    "latitude": 26.052162499999998,
+    "longitude": 82.2425781,
+    "place_id": "ChIJ6d5GBUR4kDkRmm9BnzHmDVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6d5GBUR4kDkRmm9BnzHmDVU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:55:34"
+  }
+]

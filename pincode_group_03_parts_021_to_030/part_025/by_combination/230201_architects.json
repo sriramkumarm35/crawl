@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DN'B Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "230201",
+    "phone_number": "+91 81158 43082",
+    "website": "https://www.instagram.com/dnb_architects24?igsh=MXdmdzdmb2xpMHFwdQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DNB Architects, near Atahar Petrol pump, Kunda, Uttar Pradesh 230204",
+    "area": "230201",
+    "latitude": 25.717545299999998,
+    "longitude": 81.5211843,
+    "place_id": "ChIJA-P0dCohmzkRz2xKXg8x4sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-P0dCohmzkRz2xKXg8x4sw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:34:39"
+  },
+  {
+    "business_name": "MAQ architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "230201",
+    "phone_number": "+91 90058 08357",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near shariq memorial polyclinic, PURANI BAZAR, Bharwari, Uttar Pradesh 212201",
+    "area": "PURANI BAZAR",
+    "latitude": 25.559327099999997,
+    "longitude": 81.4941821,
+    "place_id": "ChIJnZ41yuspmzkR-guMggY-p9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZ41yuspmzkR-guMggY-p9Q",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:34:39"
+  }
+]

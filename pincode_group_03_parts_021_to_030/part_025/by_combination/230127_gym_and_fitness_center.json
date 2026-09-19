@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit Life wellness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "230127",
+    "phone_number": "+91 86013 97933",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R4M9+XPP, Raniganj Patti marrg, Jamtali, Uttar Pradesh 230302",
+    "area": "230127",
+    "latitude": 25.834943,
+    "longitude": 82.11935129999999,
+    "place_id": "ChIJ8ytVPACZmjkRKGEnekTIRNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ytVPACZmjkRKGEnekTIRNI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:00"
+  },
+  {
+    "business_name": "Lord's karate Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Martial arts club",
+    "all_categories": "Martial arts club",
+    "pincode": "230127",
+    "phone_number": "+91 80902 06753",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "Bela Pratapgarh, Uttar Pradesh 230001",
+    "area": "230127",
+    "latitude": 25.917835,
+    "longitude": 82.00222099999999,
+    "place_id": "ChIJZa8wPdmQmjkR1e5R_WdZaFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZa8wPdmQmjkR1e5R_WdZaFs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:03:01"
+  }
+]

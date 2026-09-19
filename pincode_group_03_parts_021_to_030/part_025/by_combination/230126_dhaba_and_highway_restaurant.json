@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chiku da Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "230126",
+    "phone_number": "+91 72404 35110",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "V6MV+9XX Mitawa farm house, Chelasi Road, Balwantpura, Dundlodh, Rajasthan 333702",
+    "area": "230126",
+    "latitude": 27.8924825,
+    "longitude": 75.2445319,
+    "place_id": "ChIJ746rIgBNEzkR6n7BVKGCnoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ746rIgBNEzkR6n7BVKGCnoY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:00:47"
+  },
+  {
+    "business_name": "Shri Krishna Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "230126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 59,
+    "address": "VXH5+JQJ, Pratapgarh, Banaras, Agra - Lucknow Expy, Bhupiyamau, Uttar Pradesh 230131",
+    "area": "230126",
+    "latitude": 25.879091199999998,
+    "longitude": 81.9593756,
+    "place_id": "ChIJiyxrZ5uWmjkRWbrjJNSFkQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyxrZ5uWmjkRWbrjJNSFkQE",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:00:48"
+  }
+]

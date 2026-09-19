@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sumitra polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "229211",
+    "phone_number": "+91 88585 76221",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Pooran Pur, Uttar Pradesh 226301",
+    "area": "229211",
+    "latitude": 26.7344485,
+    "longitude": 81.00512739999999,
+    "place_id": "ChIJ94lydHTlmzkRic_fuldmp1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94lydHTlmzkRic_fuldmp1Q",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:01:52"
+  },
+  {
+    "business_name": "Akchansh Pollyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "229211",
+    "phone_number": "+91 96468 00474",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "44, Road, Nigoha, Ichauli, Uttar Pradesh 229301",
+    "area": "229211",
+    "latitude": 26.4628367,
+    "longitude": 81.0373386,
+    "place_id": "ChIJHfjUGJqTmzkR99IwdT4ELms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfjUGJqTmzkR99IwdT4ELms",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:01:52"
+  }
+]

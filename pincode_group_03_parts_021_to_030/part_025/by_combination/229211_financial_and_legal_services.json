@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FinLeaf The Consultants (Corporate Legal Firm)",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business management consultant, Financial consultant",
+    "pincode": "229211",
+    "phone_number": "+91 95997 62894",
+    "website": "http://www.finleaflegal.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UG- 2B, SG ALPHA TOWER, 2, Sector 9, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 9, Vasundhara",
+    "latitude": 28.659564099999997,
+    "longitude": 77.368449,
+    "place_id": "ChIJr9PyLyT7DDkRwZmcnflux2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9PyLyT7DDkRwZmcnflux2U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:02:50"
+  },
+  {
+    "business_name": "Patil Legal Solutions",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Civil law attorney, Criminal justice attorney, Divorce lawyer, Family law attorney, Financial consultant, Law firm, Lawyer, Real estate attorney",
+    "pincode": "229211",
+    "phone_number": "+91 74115 26651",
+    "website": "https://patillegalsolutions.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Patil Legal Solutions, Niketan garden, Javali Plot, near Suchirayu Hospital, Kallur Layout, Hubballi, Karnataka 580030",
+    "area": "Kallur Layout",
+    "latitude": 15.354730499999999,
+    "longitude": 75.12195109999999,
+    "place_id": "ChIJzfnvhkTXuDsRbWeTIeGIO1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfnvhkTXuDsRbWeTIeGIO1M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:02:50"
+  }
+]

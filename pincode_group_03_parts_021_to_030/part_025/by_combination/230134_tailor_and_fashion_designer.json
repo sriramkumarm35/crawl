@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion tailor's",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "230134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "2354+22J, Akasi, Bihar 821113",
+    "area": "230134",
+    "latitude": 25.007589199999998,
+    "longitude": 84.0550087,
+    "place_id": "ChIJNcf0WgC7jTkR0TI5q2019ec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcf0WgC7jTkR0TI5q2019ec",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:48"
+  },
+  {
+    "business_name": "R K tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "230134",
+    "phone_number": "+91 85600 65457",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HC3M+7GH, Wadiya Colony, Kankra Doongri, Banswara, Rajasthan 327001",
+    "area": "Wadiya Colony",
+    "latitude": 23.5531841,
+    "longitude": 74.4338664,
+    "place_id": "ChIJQ18XAS7FZjkROVICiUbSO8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ18XAS7FZjkROVICiUbSO8Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:15:49"
+  }
+]

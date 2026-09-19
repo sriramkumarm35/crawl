@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Car Bath",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto restoration service",
+    "pincode": "230141",
+    "phone_number": "+91 80945 21777",
+    "website": "https://thecarbath.in/",
+    "rating": 4.9,
+    "reviews_count": 83,
+    "address": "Agrasen Cir - Bagar Rd, opp. The Choice Bar, Fauz Ka Mohalla, Jhunjhunu, Rajasthan 333001",
+    "area": "Fauz Ka Mohalla",
+    "latitude": 28.1404902,
+    "longitude": 75.4132137,
+    "place_id": "ChIJ-SQmUkE5EzkRbyL3WJp6dr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SQmUkE5EzkRbyL3WJp6dr4",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:27:10"
+  },
+  {
+    "business_name": "Star car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "230141",
+    "phone_number": "+91 87992 99229",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "60 Feet Rd, near Humsafar garden, New Chakia, GTB nagar, Kala Danda, Prayagraj, Uttar Pradesh 211016",
+    "area": "New Chakia, GTB nagar, Kala Danda",
+    "latitude": 25.4313675,
+    "longitude": 81.80299,
+    "place_id": "ChIJZawP_Mo0hTkRMn0ewDiZskk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZawP_Mo0hTkRMn0ewDiZskk",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:27:11"
+  }
+]

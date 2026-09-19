@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COURIER SERVICE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "229801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "FHGF+7R9, Lucknow - Sultanpur Rd, Utelwa, Uttar Pradesh 227817",
+    "area": "229801",
+    "latitude": 26.4756693,
+    "longitude": 81.57461459999999,
+    "place_id": "ChIJXd4UVZxLmjkRKq45jojGKjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXd4UVZxLmjkRKq45jojGKjI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:49:26"
+  },
+  {
+    "business_name": "Banbhariya post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "229801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "FGCM+632, Unnamed Road, Sithauli, Uttar Pradesh 229801",
+    "area": "229801",
+    "latitude": 26.4705041,
+    "longitude": 81.5326364,
+    "place_id": "ChIJn1Vvo25LmjkR1Xhp8ruc71s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1Vvo25LmjkR1Xhp8ruc71s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:49:26"
+  }
+]

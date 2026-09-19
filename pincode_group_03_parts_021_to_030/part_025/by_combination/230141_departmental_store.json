@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kesarwani shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "230141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 22,
+    "address": "VG5W+R8W, Unnamed Road, Newada Khurd, Uttar Pradesh 230143",
+    "area": "230141",
+    "latitude": 25.8596114,
+    "longitude": 81.5458295,
+    "place_id": "ChIJJcKnKsHhmjkRqUm3hljXehU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcKnKsHhmjkRqUm3hljXehU",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:36"
+  },
+  {
+    "business_name": "Tiwaripur Kunda Pratapgarh",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "230141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 38,
+    "address": "QC2V+JPQ, Fattehullapur, Uttar Pradesh 230202",
+    "area": "230141",
+    "latitude": 25.751584899999997,
+    "longitude": 81.44434849999999,
+    "place_id": "ChIJ07BNCHwhmzkREKY9JA-k6IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07BNCHwhmzkREKY9JA-k6IA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:26:36"
+  }
+]

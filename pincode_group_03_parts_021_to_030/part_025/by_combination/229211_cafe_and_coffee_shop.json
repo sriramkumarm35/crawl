@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuhu mishra",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "229211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7V4V+XF7, Ganga Expy, Ketanpur, Uttar Pradesh 229211",
+    "area": "229211",
+    "latitude": 26.2574005,
+    "longitude": 80.89365959999999,
+    "place_id": "ChIJwxeOPwCHmzkRJiSnsmIiM_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxeOPwCHmzkRJiSnsmIiM_U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:01:38"
+  },
+  {
+    "business_name": "DOMINUS PIZZA",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "229211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Shastri Nagar, Khiron, Uttar Pradesh 229205",
+    "area": "Shastri Nagar",
+    "latitude": 26.287072199999997,
+    "longitude": 80.92376689999999,
+    "place_id": "ChIJxeOnc1yFmzkRHAvdhKHTPs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxeOnc1yFmzkRHAvdhKHTPs8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:01:38"
+  }
+]

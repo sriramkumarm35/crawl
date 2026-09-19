@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "230204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "PG89+989, Kunda, Uttar Pradesh 230204",
+    "area": "230204",
+    "latitude": 25.7159111,
+    "longitude": 81.5183584,
+    "place_id": "ChIJb6Ul3ljfmjkRlh5TUQ9Dk9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6Ul3ljfmjkRlh5TUQ9Dk9w",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:56"
+  },
+  {
+    "business_name": "Lucky Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "230204",
+    "phone_number": "+91 79769 91035",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 58,
+    "address": "BSNL office road, near tagore park, opp. Udgham hospital, New Maruti Nagar, Naya badi, Nai Abaadi, Pratapgad, Rajasthan 312605",
+    "area": "New Maruti Nagar, Naya badi, Nai Abaadi",
+    "latitude": 24.0389572,
+    "longitude": 74.777329,
+    "place_id": "ChIJF3Oka1aPZjkRqWf9D5q9eWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3Oka1aPZjkRqWf9D5q9eWQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:37:58"
+  }
+]

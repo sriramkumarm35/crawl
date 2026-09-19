@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LOKA Leather design",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "230301",
+    "phone_number": "+91 98948 02442",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "No 1&2, Sri Vaari Complex, 1st cross, Nethaji Rd, Flower bazar, Ambur, Tamil Nadu 635802",
+    "area": "Flower bazar",
+    "latitude": 12.785220599999999,
+    "longitude": 78.7208437,
+    "place_id": "ChIJfeyTluEJrTsRreS2XYkpikA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeyTluEJrTsRreS2XYkpikA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:33"
+  },
+  {
+    "business_name": "Ambur Shoe Maker",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "230301",
+    "phone_number": "+91 99447 41626",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "13, Nethaji Rd, Flower bazar, Ambur, Tamil Nadu 635802",
+    "area": "Flower bazar",
+    "latitude": 12.784868099999999,
+    "longitude": 78.7207341,
+    "place_id": "ChIJ7x7n6eYIrTsRSMj3T7AXu9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x7n6eYIrTsRSMj3T7AXu9U",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:39:33"
+  }
+]

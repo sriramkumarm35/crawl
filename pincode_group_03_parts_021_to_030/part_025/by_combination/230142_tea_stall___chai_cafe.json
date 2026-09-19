@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Small Tea Place",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "230142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VXXQ+M45, Pratapgarh - Prayagraj Rd, Jogapur, Bela Pratapgarh, Uttar Pradesh 230131",
+    "area": "230142",
+    "latitude": 25.8991272,
+    "longitude": 81.98786779999999,
+    "place_id": "ChIJpc_T8nGXmjkRbaOomV5WD1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpc_T8nGXmjkRbaOomV5WD1g",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:28:36"
+  },
+  {
+    "business_name": "UdaySamrat Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "230142",
+    "phone_number": "N/A",
+    "website": "http://udaysamratchai.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "55/1, near Tehsil Sadar, below Urban Bank, Khadiganj Babaganj, Pratapgarh, Uttar Pradesh 230001",
+    "area": "Khadiganj Babaganj",
+    "latitude": 25.917823,
+    "longitude": 82.0003085,
+    "place_id": "ChIJ14hq8fmRmjkRTgxBq6KDw-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14hq8fmRmjkRTgxBq6KDw-M",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:28:36"
+  }
+]

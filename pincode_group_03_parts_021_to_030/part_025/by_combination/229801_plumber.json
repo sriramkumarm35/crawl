@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jainul enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "229801",
+    "phone_number": "+91 72358 64042",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Kathaura, Uttar Pradesh 229801",
+    "area": "229801",
+    "latitude": 26.5020337,
+    "longitude": 81.5351606,
+    "place_id": "ChIJN3AVLkxLmjkRWVyksR1rrbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3AVLkxLmjkRWVyksR1rrbw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:48:50"
+  },
+  {
+    "business_name": "Bablu Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Contractor",
+    "pincode": "229801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Gurunanak Chowk, Shastri Nagar, Shashtri Nagar, Solapur, Maharashtra 413003",
+    "area": "Shastri Nagar, Shashtri Nagar",
+    "latitude": 17.6528261,
+    "longitude": 75.9162032,
+    "place_id": "ChIJG5gVkcfbxTsRzt42mVB-LOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5gVkcfbxTsRzt42mVB-LOQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:48:51"
+  }
+]

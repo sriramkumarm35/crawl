@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coolbreeze Resorts",
+    "search_category": "Resort",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "229209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 42,
+    "address": "Plot No. C/07/0CF1-A (FACILITY PLOT) Sector-C, Lucknow - Sultanpur Rd, opp. Iskcon Temple, Golf City, Pocket-7, Lucknow, Uttar Pradesh 226030",
+    "area": "Golf City, Pocket-7",
+    "latitude": 26.785155,
+    "longitude": 81.0109258,
+    "place_id": "ChIJQ1v9bwDlmzkRliVTpjl9B7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1v9bwDlmzkRliVTpjl9B7k",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:58:54"
+  },
+  {
+    "business_name": "Nilansh Theme Park Resort & Water Park",
+    "search_category": "Resort",
+    "primary_category": "Theme park",
+    "all_categories": "Theme park",
+    "pincode": "229209",
+    "phone_number": "+91 1800 120 700 700",
+    "website": "http://nilanshthemepark.com/",
+    "rating": 4,
+    "reviews_count": 12362,
+    "address": "Gomti River View Resorts and Farm House NH 25A, Yakaria Kalan Near Itaunja Bridge, Uttar Pradesh 261304",
+    "area": "229209",
+    "latitude": 27.080555,
+    "longitude": 80.8359511,
+    "place_id": "ChIJs0mVz2tNmTkROqghPMpQm_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0mVz2tNmTkROqghPMpQm_E",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 06:58:56"
+  }
+]

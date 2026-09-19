@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chemould Prescott Road",
+    "search_category": "Exhibitions",
+    "primary_category": "Art gallery",
+    "all_categories": "Art gallery",
+    "pincode": "229215",
+    "phone_number": "+91 22 2200 0211",
+    "website": "http://www.gallerychemould.com/",
+    "rating": 4.5,
+    "reviews_count": 245,
+    "address": "3rd floor, Queens Mansion, Ghanshyam Talwatkar Marg, Azad Maidan, Fort, Mumbai, Maharashtra 400001",
+    "area": "Azad Maidan, Fort",
+    "latitude": 18.935278399999998,
+    "longitude": 72.8323925,
+    "place_id": "ChIJY5n2QdzR5zsRddq0yXXL7xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5n2QdzR5zsRddq0yXXL7xI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:31"
+  },
+  {
+    "business_name": "Zion Exhibitions",
+    "search_category": "Exhibitions",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center, Exhibition planner",
+    "pincode": "229215",
+    "phone_number": "+91 96503 80303",
+    "website": "http://zionexhibitions.com/",
+    "rating": 4,
+    "reviews_count": 29,
+    "address": "Spacetime, A-16, Mohan Cooperative Industrial Estate, Sarita Vihar, New Delhi, Delhi 110044",
+    "area": "Mohan Cooperative Industrial Estate, Sarita Vihar",
+    "latitude": 28.5307247,
+    "longitude": 77.2867069,
+    "place_id": "ChIJx70avijnDDkR3M8ifwdqULI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx70avijnDDkR3M8ifwdqULI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:06:31"
+  }
+]

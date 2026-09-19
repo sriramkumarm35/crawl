@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Oil & Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Flour mill, Store, Wholesaler",
+    "pincode": "229308",
+    "phone_number": "+91 98186 80857",
+    "website": "http://www.vedicera.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "114, 21, Gali Number 1, Laxman Vihar, Madanpuri, Sector 7, Gurugram, Haryana 122001",
+    "area": "Laxman Vihar, Madanpuri, Sector 7",
+    "latitude": 28.4621745,
+    "longitude": 77.0172655,
+    "place_id": "ChIJq6qqeikYDTkRsEgu6VOV2QM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqeikYDTkRsEgu6VOV2QM",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:22:38"
+  },
+  {
+    "business_name": "Vitthal Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "229308",
+    "phone_number": "N/A",
+    "website": "http://vitthalindustries.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vitthal Oil Mill, Shevgaon, Maharashtra 414502",
+    "area": "229308",
+    "latitude": 19.372909999999997,
+    "longitude": 75.201591,
+    "place_id": "ChIJgfHYiPtp2zsRAL1aHpEwGd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfHYiPtp2zsRAL1aHpEwGd0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:22:38"
+  }
+]

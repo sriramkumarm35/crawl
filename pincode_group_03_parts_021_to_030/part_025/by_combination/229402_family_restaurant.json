@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New zayaka family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "229402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 71,
+    "address": "57G3+C9R, Kamal Gang Bazar Rd, Dariyapur, Uttar Pradesh 229405",
+    "area": "229402",
+    "latitude": 26.176121199999997,
+    "longitude": 81.2533967,
+    "place_id": "ChIJdUygcWWnmzkRoI3nX4RpJUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUygcWWnmzkRoI3nX4RpJUA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:05"
+  },
+  {
+    "business_name": "Kailashpati Kitchen",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229402",
+    "phone_number": "+91 63878 70407",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Near AIIMS 3rd gate , sultanpur aima, road, Madhupuri, Raebareli, Uttar Pradesh 229001",
+    "area": "road",
+    "latitude": 26.180294399999998,
+    "longitude": 81.2397203,
+    "place_id": "ChIJld2HRz2hmzkR-8WjIXrEjDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJld2HRz2hmzkR-8WjIXrEjDI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:32:05"
+  }
+]

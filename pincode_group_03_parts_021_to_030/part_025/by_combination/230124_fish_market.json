@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "230124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "6FGV+R5M, Maharaja Surajmal Chowk, Sahyog Nagar, Bharatpur, Bharatpur Chak 2, Rajasthan 321001",
+    "area": "Sahyog Nagar",
+    "latitude": 27.2270762,
+    "longitude": 77.4929217,
+    "place_id": "ChIJoa2kUWajczkRaT5zZm5N0RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoa2kUWajczkRaT5zZm5N0RY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:57:02"
+  },
+  {
+    "business_name": "Fish & Chiken Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "230124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Belhahih, Dist, Belhadih Road, Kharihani, Belhadih, Uttar Pradesh 276123",
+    "area": "230124",
+    "latitude": 25.7835625,
+    "longitude": 83.22093749999999,
+    "place_id": "ChIJ5bojfCbCkTkRDBREX2Pdy0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bojfCbCkTkRDBREX2Pdy0Y",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:57:03"
+  }
+]

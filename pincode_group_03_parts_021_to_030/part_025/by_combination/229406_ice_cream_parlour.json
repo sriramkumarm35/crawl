@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durgesh ice cream parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "229406",
+    "phone_number": "+91 75182 86058",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unchahar Rd, Unchahar, Uttar Pradesh 229404",
+    "area": "229406",
+    "latitude": 25.9051875,
+    "longitude": 81.2946875,
+    "place_id": "ChIJj6E4FQARmzkRl6KO-IhVZDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6E4FQARmzkRl6KO-IhVZDo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:22"
+  },
+  {
+    "business_name": "Galaxy ice-cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "229406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W832+JHF, Tiwaripur, Unchahar, Uttar Pradesh 229406",
+    "area": "Tiwaripur",
+    "latitude": 25.904069999999997,
+    "longitude": 81.30142839999999,
+    "place_id": "ChIJMd9f9aoRmzkR4979V82eTCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMd9f9aoRmzkR4979V82eTCs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:37:22"
+  }
+]

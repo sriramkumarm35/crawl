@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haidergarh Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "229308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Awsaneshwar Rd, Haidargarh, Uttar Pradesh 225124",
+    "area": "229308",
+    "latitude": 26.617191899999998,
+    "longitude": 81.35818309999999,
+    "place_id": "ChIJgz3RNQDJmzkRoGO6pssTMLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgz3RNQDJmzkRoGO6pssTMLI",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:17"
+  },
+  {
+    "business_name": "Shree cafe and restro",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "229308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "G6VP+HF5, Bhawanigarh to, Shivgarh Main Road, Shivgarh, Sivli, Uttar Pradesh 229308",
+    "area": "229308",
+    "latitude": 26.5438904,
+    "longitude": 81.2362318,
+    "place_id": "ChIJgxwgOADBmzkRxHCyu7Uyvu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxwgOADBmzkRxHCyu7Uyvu8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:21:17"
+  }
+]

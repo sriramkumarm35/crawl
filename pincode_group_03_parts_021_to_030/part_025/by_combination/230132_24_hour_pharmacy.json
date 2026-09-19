@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh HERBAL store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "230132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WMQG+GMG, Verma Nagar, chauraha, Turkiniya, Uttar Pradesh 230132",
+    "area": "Verma Nagar, chauraha",
+    "latitude": 25.938803,
+    "longitude": 81.67670919999999,
+    "place_id": "ChIJ81p-CpXlmjkRESoZzwLMd8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81p-CpXlmjkRESoZzwLMd8s",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:12:09"
+  },
+  {
+    "business_name": "SatVidya Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Pharmaceutical Products Wholesaler",
+    "pincode": "230132",
+    "phone_number": "+91 88401 03265",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hernahar, Paendapur, Uttar Pradesh 230132",
+    "area": "230132",
+    "latitude": 25.8568796,
+    "longitude": 81.623865,
+    "place_id": "ChIJ-UtaSwDnmjkRMiHbZwvFYfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UtaSwDnmjkRMiHbZwvFYfY",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:12:10"
+  }
+]

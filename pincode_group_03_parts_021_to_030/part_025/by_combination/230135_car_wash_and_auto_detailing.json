@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The SHINE CAR Detailing & Washing Hub",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting, Auto repair shop",
+    "pincode": "230135",
+    "phone_number": "+91 96540 56128",
+    "website": "https://theshinecar.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "14, Block G, Ashok Vihar Phase III Extension, Gurugram, Haryana 122006",
+    "area": "Block G, Ashok Vihar Phase III Extension",
+    "latitude": 28.499127599999998,
+    "longitude": 77.027082,
+    "place_id": "ChIJT-8wPvoZDTkRdE_yJT9Kzgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-8wPvoZDTkRdE_yJT9Kzgs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:57"
+  },
+  {
+    "business_name": "Detailing By Deep",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto painting, RV detailing service, Vehicle wrapping service",
+    "pincode": "230135",
+    "phone_number": "+91 81780 79710",
+    "website": "https://detailingbydeep.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no. 15 Old palam road Mohit Nagar, opp. shagun banquet, Sulahkul Vihar, Sector 14 Dwarka, New Delhi, Delhi 110078",
+    "area": "Sulahkul Vihar, Sector 14 Dwarka, Dwarka",
+    "latitude": 28.606220999999998,
+    "longitude": 77.0330087,
+    "place_id": "ChIJ2d0KSLAFDTkRyuT65X5liFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2d0KSLAFDTkRyuT65X5liFQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:17:57"
+  }
+]

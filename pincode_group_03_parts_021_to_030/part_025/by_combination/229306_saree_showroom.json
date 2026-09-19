@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty collection & Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ahiyapur, Raebareli, Kishunpur Ramchandra, Uttar Pradesh 229316",
+    "area": "Ahiyapur",
+    "latitude": 26.2475211,
+    "longitude": 81.2314572,
+    "place_id": "ChIJqUEaRwCjmzkR3h0xusAZoJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUEaRwCjmzkR3h0xusAZoJw",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:41"
+  },
+  {
+    "business_name": "Rakesh Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "229306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Unnamed Road, Rajafatehpur, Fatepur, Rajapur, Uttar Pradesh 229309",
+    "area": "Rajafatehpur",
+    "latitude": 26.4648187,
+    "longitude": 81.4951066,
+    "place_id": "ChIJ_1i5PUS1mzkRTnHMbqS0qvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1i5PUS1mzkRTnHMbqS0qvA",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:17:43"
+  }
+]

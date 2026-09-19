@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer Swadist Chicken Corner",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "230127",
+    "phone_number": "+91 99103 01407",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.22/481,Trilokpuri Chowk,Kanya Vidhyalaya,, Part 2, Trilokpuri, New Delhi, Delhi 110091",
+    "area": "Block 21, Part 2, Trilokpuri",
+    "latitude": 28.6055946,
+    "longitude": 77.3065757,
+    "place_id": "ChIJBWUQVpTkDDkR8Vx4weO9shs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWUQVpTkDDkR8Vx4weO9shs",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:31"
+  },
+  {
+    "business_name": "MeatwaleIndia.com",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Frozen food store, Kebab shop, Meat products store, Meat wholesaler, Mutton barbecue restaurant, Non Vegetarian Restaurant, Prawn fishing, Raw food restaurant",
+    "pincode": "230127",
+    "phone_number": "+91 73575 70444",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No B-5- B Lower Ground, Vaibhav Complex, Below FPF coffee, 11 1, Girdhar Marg, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Sector 12, Malviya Nagar",
+    "latitude": 26.8430739,
+    "longitude": 75.8146373,
+    "place_id": "ChIJVTw9ZCW3bTkR1rNSQH5H7Xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTw9ZCW3bTkR1rNSQH5H7Xo",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:02:31"
+  }
+]

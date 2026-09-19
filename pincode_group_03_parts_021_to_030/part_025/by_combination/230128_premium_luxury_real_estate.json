@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Property Advisor",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "230128",
+    "phone_number": "+91 72782 00001",
+    "website": "http://www.premiumpropertyadvisor.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "54-D, opposite Dr. Kalicharan, D-Block, Sarabha Nagar, Ludhiana, Punjab 141008",
+    "area": "D-Block, Sarabha Nagar",
+    "latitude": 30.890337499999998,
+    "longitude": 75.8198421,
+    "place_id": "ChIJVbuTwCaDGjkRLxrcE52_zq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbuTwCaDGjkRLxrcE52_zq8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:51"
+  },
+  {
+    "business_name": "Property Look",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "230128",
+    "phone_number": "+91 63909 88725",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 12,
+    "address": "Moti Mahal, Station Road, Road, Prayagraj, Uttar Pradesh 211001",
+    "area": "Miurabad",
+    "latitude": 25.4435547,
+    "longitude": 81.8311811,
+    "place_id": "ChIJkTFd-O_LmjkRzc9xQ7OqlWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTFd-O_LmjkRzc9xQ7OqlWQ",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 08:05:51"
+  }
+]

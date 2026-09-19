@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pahalwan Juice Stuff",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "229413",
+    "phone_number": "+91 93059 08131",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "SultanPur Bhawa, Malviyanagar, Prayagraj, Uttar Pradesh 211016",
+    "area": "SultanPur Bhawa, Malviyanagar",
+    "latitude": 25.4320409,
+    "longitude": 81.8225021,
+    "place_id": "ChIJhU9VO8g1hTkRYU2nGcyVYB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhU9VO8g1hTkRYU2nGcyVYB8",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:20"
+  },
+  {
+    "business_name": "Real Juice & Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice Center and Milkshake Bar",
+    "all_categories": "Juice Center and Milkshake Bar",
+    "pincode": "229413",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajrooppur, Prayagraj, Uttar Pradesh 211015",
+    "area": "Rajrooppur",
+    "latitude": 25.4324038,
+    "longitude": 81.79940859999999,
+    "place_id": "ChIJy7SpQbU0hTkRM59PGEMb7g0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7SpQbU0hTkRM59PGEMb7g0",
+    "part_id": "part_025",
+    "crawled_at": "2026-09-19 07:46:20"
+  }
+]
