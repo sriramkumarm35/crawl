@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YOUR FINANCIAL FRIEND",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment bank",
+    "all_categories": "Investment bank, Financial planner, Tax consultant",
+    "pincode": "224227",
+    "phone_number": "+91 72061 33404",
+    "website": "https://www.yourfinancialfriend.in/",
+    "rating": 4.8,
+    "reviews_count": 43,
+    "address": "5437/16 First floor, Nicholson Road, Punjabi Mohalla, Sadar Bazar, Ambala Cantt, Haryana 133001",
+    "area": "Punjabi Mohalla, Sadar Bazar",
+    "latitude": 30.3398908,
+    "longitude": 76.84156469999999,
+    "place_id": "ChIJ8xhH9D62DzkRh4aL20JYAJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xhH9D62DzkRh4aL20JYAJw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:29"
+  },
+  {
+    "business_name": "Investment Guide(Sunandan)",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Health insurance agency, Insurance agency, Financial consultant",
+    "pincode": "224227",
+    "phone_number": "+91 90172 70786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Shop No.1, Shanti Kunj, Jaggi Garden, Phase-2, Ambala City, Sadopur, Haryana 134007",
+    "area": "224227",
+    "latitude": 30.3969983,
+    "longitude": 76.7947085,
+    "place_id": "ChIJlTpuwofJDzkRSTne-FZJLGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTpuwofJDzkRSTne-FZJLGA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224229",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "CVX5+HMC, हलियापुर कुरवार मार्ग, Arwal, Uttar Pradesh 227806",
+    "area": "224229",
+    "latitude": 26.4489442,
+    "longitude": 81.8591306,
+    "place_id": "ChIJeceAM1xDmjkRQ-8eOll2MRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeceAM1xDmjkRQ-8eOll2MRQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:55"
+  },
+  {
+    "business_name": "Sagar Gaire",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224229",
+    "phone_number": "+91 94254 03707",
+    "website": "http://www.sagargairefastfoodcorner.com/",
+    "rating": 4.2,
+    "reviews_count": 17962,
+    "address": "2, Durga Mandir Rd, 7 No Stop,Near State Bank, No 6 Locality, Shivaji Nagar, Bhopal, Madhya Pradesh 462016",
+    "area": "7 No Stop,Near State Bank, No 6 Locality, Shivaji Nagar",
+    "latitude": 23.2231398,
+    "longitude": 77.4335882,
+    "place_id": "ChIJF9wzA1tCfDkRtN5U0hGCn9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9wzA1tCfDkRtN5U0hGCn9M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:56"
+  }
+]

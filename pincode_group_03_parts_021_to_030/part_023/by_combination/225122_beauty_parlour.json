@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaikar gift and cosmetic shop",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "225122",
+    "phone_number": "+91 72359 84823",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sarkari hospital, Sahadatgunj road, mod, Ramnagar, Uttar Pradesh 225205",
+    "area": "225122",
+    "latitude": 27.0778194,
+    "longitude": 81.4010322,
+    "place_id": "ChIJT5fjIHN7mTkRyUdZkIIPwVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5fjIHN7mTkRyUdZkIIPwVM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:43"
+  },
+  {
+    "business_name": "Saumya cosmetic",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "225122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Salempur Rd, Gangaganj, Salempur, Uttar Pradesh 226501",
+    "area": "225122",
+    "latitude": 26.725248399999998,
+    "longitude": 81.1989289,
+    "place_id": "ChIJd-YswYvdmzkRfeB7kuSnAgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-YswYvdmzkRfeB7kuSnAgY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:43"
+  }
+]

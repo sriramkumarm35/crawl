@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan Square",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "225120",
+    "phone_number": "+91 94551 93481",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Narayan square, Makan Pur, Uttar Pradesh 226501",
+    "area": "225120",
+    "latitude": 26.7035828,
+    "longitude": 81.23815119999999,
+    "place_id": "ChIJiY-tOgDDmzkRvKsY51RBzVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiY-tOgDDmzkRvKsY51RBzVc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:06"
+  },
+  {
+    "business_name": "KOVIDARA BLISS FARM HOUSE",
+    "search_category": "Hotel",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "225120",
+    "phone_number": "+91 99362 20210",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 25,
+    "address": "Karaundi Khurd, Harakh, Uttar Pradesh 225121",
+    "area": "225120",
+    "latitude": 26.836327899999997,
+    "longitude": 81.2459659,
+    "place_id": "ChIJD9RcTUbfmzkRh-EGI9HiWLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9RcTUbfmzkRh-EGI9HiWLQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:06"
+  }
+]

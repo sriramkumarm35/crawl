@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nelson Medical Center",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "225119",
+    "phone_number": "+91 80043 55810",
+    "website": "http://nelsonmedicalcenter.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "KD Singh Babu Rd, near Nelson Children Hospital, Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Preet Vihar Colony, Civil Lines",
+    "latitude": 26.928484599999997,
+    "longitude": 81.18857469999999,
+    "place_id": "ChIJ9YMPM0JgmTkRA6vAAmTbTWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YMPM0JgmTkRA6vAAmTbTWA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:41"
+  },
+  {
+    "business_name": "Dr. Amit Chawla",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center, Children Policlinic, Neonatal physician",
+    "pincode": "225119",
+    "phone_number": "+91 93350 08996",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Panki - Kalyanpur Rd, Gooba Gardens, Kalyanpur, Kanpur, Uttar Pradesh 208017",
+    "area": "Gooba Gardens, Kalyanpur",
+    "latitude": 26.497723399999998,
+    "longitude": 80.2510968,
+    "place_id": "ChIJzcpZ0rw3nDkR2L80zJAtwrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcpZ0rw3nDkR2L80zJAtwrY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:42"
+  }
+]

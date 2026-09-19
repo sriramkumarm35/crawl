@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathour Machinery Stores",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "225120",
+    "phone_number": "+91 98391 79876",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "Hetmapur Road, Suratganj, Uttar Pradesh 225305",
+    "area": "225120",
+    "latitude": 27.205242799999997,
+    "longitude": 81.3311746,
+    "place_id": "ChIJCeQmJPJtmTkR7fRJbr_HH-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeQmJPJtmTkR7fRJbr_HH-I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:02"
+  },
+  {
+    "business_name": "Singh Intetprises",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "225120",
+    "phone_number": "+91 91406 12495",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5GP+M9J, Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Preet Vihar Colony, Civil Lines",
+    "latitude": 26.9267117,
+    "longitude": 81.1858989,
+    "place_id": "ChIJHfTI_UFgmTkR0Dv9shfiGeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfTI_UFgmTkR0Dv9shfiGeE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Opticians",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "224228",
+    "phone_number": "+91 88794 44936",
+    "website": "http://vijayopticians.com/",
+    "rating": 5,
+    "reviews_count": 2474,
+    "address": "SHOP A2, Amar Jyoti Building, Saint Louis Convent Rd, Gharkul Society, Manish Nagar, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Gharkul Society, Manish Nagar, Four Bungalows, Andheri West",
+    "latitude": 19.1284082,
+    "longitude": 72.8257438,
+    "place_id": "ChIJm5fdJTzI5zsR1e-qLXLiVD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5fdJTzI5zsR1e-qLXLiVD8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:17"
+  },
+  {
+    "business_name": "Visionista by President Optics",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "224228",
+    "phone_number": "+91 92234 07020",
+    "website": "http://www.visionista.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Munshi Building, Shop No 3 & 4, Aaditya Avenue Prarthana Samaj, 224/3, VP Rd, opp. Kotachi Wadi, Prathna Samaj, Khetwadi, Girgaon, Mumbai, Maharashtra 400004",
+    "area": "Prathna Samaj, Khetwadi, Girgaon",
+    "latitude": 18.9571047,
+    "longitude": 72.82082369999999,
+    "place_id": "ChIJBfBnqC7P5zsRdaLqYqDRjQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfBnqC7P5zsRdaLqYqDRjQw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:18"
+  }
+]

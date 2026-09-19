@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event-U-All",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Corporate gift supplier, Entertainment agency, Event planner, Outdoor activity organiser, Wedding planner",
+    "pincode": "224227",
+    "phone_number": "+91 99720 43210",
+    "website": "https://www.eventuall.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st Floor, No.38, AVS Compound, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "area": "4th Block, Koramangala",
+    "latitude": 12.9367143,
+    "longitude": 77.628261,
+    "place_id": "ChIJ_8N9PncWrjsRBAIgzYLHwTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8N9PncWrjsRBAIgzYLHwTM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:11"
+  },
+  {
+    "business_name": "Dev Teant House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "224227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "18 Sivlipur, Akbarpur Kurki Bajar Rod, Akbarpur, Surapur, Uttar Pradesh 224227",
+    "area": "Akbarpur",
+    "latitude": 26.4726112,
+    "longitude": 82.6260485,
+    "place_id": "ChIJYcSRCuHtkDkRA20GvdegIg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcSRCuHtkDkRA20GvdegIg8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:12"
+  }
+]

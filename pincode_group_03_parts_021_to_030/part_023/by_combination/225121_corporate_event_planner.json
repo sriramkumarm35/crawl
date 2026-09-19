@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Candid Concepts (Best Event Planners)",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "225121",
+    "phone_number": "+91 70073 73703",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Candid Concepts (Best Event Planners), 225121, India",
+    "area": "225121",
+    "latitude": 23.8884525,
+    "longitude": 77.3561488,
+    "place_id": "ChIJeZ1QSmxeGYcROkYcwbGTsFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZ1QSmxeGYcROkYcwbGTsFo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:46:06"
+  },
+  {
+    "business_name": "Sky Event Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "225121",
+    "phone_number": "N/A",
+    "website": "http://www.skyeventplanner.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sky Event Planner, 225121, India",
+    "area": "225121",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJIcWQBgvO4A8RMPoh1YNfteI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcWQBgvO4A8RMPoh1YNfteI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:46:07"
+  }
+]

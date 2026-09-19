@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mod daddy",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto repair shop",
+    "pincode": "224229",
+    "phone_number": "+91 522 711 8878",
+    "website": "http://www.moddaddy.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chadai Ka Purwa, Lucknow - Sultanpur Rd, near M.S. Marble, Arjunganj, Lucknow, Uttar Pradesh 226002",
+    "area": "Arjunganj",
+    "latitude": 26.8016099,
+    "longitude": 81.0021833,
+    "place_id": "ChIJJxElBQzjmzkRicEmLyZizWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxElBQzjmzkRicEmLyZizWc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:19"
+  },
+  {
+    "business_name": "Ramu's Ex Army Wala Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "224229",
+    "phone_number": "+91 63044 66937",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 140,
+    "address": "opp. PNR TOWNSHIP, Sai Nagar, Indresham, Bachuguda, Hyderabad, Telangana 502319",
+    "area": "Sai Nagar, Indresham",
+    "latitude": 17.5646648,
+    "longitude": 78.2620859,
+    "place_id": "ChIJV2r-vMbzyzsRYUAe-2Eolr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2r-vMbzyzsRYUAe-2Eolr0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:21"
+  }
+]

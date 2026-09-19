@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tax Market",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accountant, Accounting firm, Auditor, Tax collector's office",
+    "pincode": "224210",
+    "phone_number": "+91 97100 07514",
+    "website": "http://taxmarket.in/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "1st Floor, Bhagawathi Palace, Plot No 3631, Anna Nagar 3rd Main Rd, J Block, Annanagar East, Chennai, Tamil Nadu 600102",
+    "area": "J Block, Annanagar East",
+    "latitude": 13.0920367,
+    "longitude": 80.2184663,
+    "place_id": "ChIJe4kSiIRlUjoRqQlubECr6TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4kSiIRlUjoRqQlubECr6TI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:14:42"
+  },
+  {
+    "business_name": "Srinithi Tax Consultancy",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Accountant, Consultant, Tax attorney",
+    "pincode": "224210",
+    "phone_number": "+91 94444 40586",
+    "website": "http://www.srinithiconsultancy.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "No.94, 80 Feet Road, Kumaran Nagar, Chennai, Land Mark - Kumaran Nagar Post Office, Chennai, Tamil Nadu 600082",
+    "area": "Kumaran Nagar, Perambur",
+    "latitude": 13.1250067,
+    "longitude": 80.2257091,
+    "place_id": "ChIJ0xe5EVZkUjoRizRzuAyYqC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0xe5EVZkUjoRizRzuAyYqC0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:14:44"
+  }
+]

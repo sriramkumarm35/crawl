@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Metal & Chemical Supplier",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Plating service, Metal supplier",
+    "pincode": "224284",
+    "phone_number": "+91 98316 75723",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "73/1, Belilious Rd, Tikiapara, Howrah, West Bengal 711101",
+    "area": "Tikiapara",
+    "latitude": 22.590357299999997,
+    "longitude": 88.3323297,
+    "place_id": "ChIJEzSU7u13AjoRJWD2-FI-f5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzSU7u13AjoRJWD2-FI-f5I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:35:12"
+  },
+  {
+    "business_name": "Rasayan Trading Co",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "224284",
+    "phone_number": "+91 80 4860 6343",
+    "website": "https://www.rasayantrading.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "605, Sangita Complex, 6th Floor, Near Parimal Garden, Navrangpura, opposite Doctor House, Ahmedabad, Gujarat 380006",
+    "area": "Ambawadi",
+    "latitude": 23.0169763,
+    "longitude": 72.5572189,
+    "place_id": "ChIJASmoXeOEXjkRfD_cKH1l8kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASmoXeOEXjkRfD_cKH1l8kk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:35:12"
+  }
+]

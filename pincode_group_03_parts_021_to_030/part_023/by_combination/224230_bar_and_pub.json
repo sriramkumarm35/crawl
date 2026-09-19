@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The UP 78",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224230",
+    "phone_number": "+91 93071 98140",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 186,
+    "address": "Plot 112, 92B, Benajhabar Rd, Motilal Swaroop Nagar, Khalasi Line, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Motilal Swaroop Nagar, Khalasi Line, Swaroop Nagar",
+    "latitude": 26.479207,
+    "longitude": 80.3193883,
+    "place_id": "ChIJi5hfx3M5nDkRn95j1ybIV5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5hfx3M5nDkRn95j1ybIV5s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:22:48"
+  },
+  {
+    "business_name": "RAJ TRADERS",
+    "search_category": "Bar and Pub",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "224230",
+    "phone_number": "+91 94509 19281",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "CGRX+57Q, Bahavddihpur, Patel Nagar, Akbarpur, Uttar Pradesh 224122",
+    "area": "Bahavddihpur, Patel Nagar",
+    "latitude": 26.4404659,
+    "longitude": 82.54824459999999,
+    "place_id": "ChIJMRnSrcmSkDkRR7XaK0fHg3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRnSrcmSkDkRR7XaK0fHg3Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:22:50"
+  }
+]

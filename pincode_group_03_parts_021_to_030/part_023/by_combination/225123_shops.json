@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sachin tares",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "225123",
+    "phone_number": "+91 94542 50410",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 04, Dewa Rd, Somaiya Nagar, Barabanki, Uttar Pradesh 225203",
+    "area": "Somaiya Nagar",
+    "latitude": 26.9496336,
+    "longitude": 81.19133219999999,
+    "place_id": "ChIJjcaFggVhmTkRh7jaDYEmqZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcaFggVhmTkRh7jaDYEmqZ8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:50:24"
+  },
+  {
+    "business_name": "Gupta Jenral Store",
+    "search_category": "Shops",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "225123",
+    "phone_number": "+91 75052 80702",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dewa Rd, Somaiya Nagar, Barabanki, Uttar Pradesh 225203",
+    "area": "Somaiya Nagar",
+    "latitude": 26.9484924,
+    "longitude": 81.1914319,
+    "place_id": "ChIJ14COP8ZhmTkRUnO0huscrY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14COP8ZhmTkRUnO0huscrY0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:50:25"
+  }
+]

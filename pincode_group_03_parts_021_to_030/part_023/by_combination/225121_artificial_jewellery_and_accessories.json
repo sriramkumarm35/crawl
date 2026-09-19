@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arjun jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "225121",
+    "phone_number": "+91 88585 45969",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W59Q+554 Ram Sewak Chauraha, Jalalpur road, Barail Rd, near st, Lakhpedabagh, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Lakhpedabagh",
+    "latitude": 26.9179146,
+    "longitude": 81.1879755,
+    "place_id": "ChIJ7fUC3SFhmTkRRLfLC6hXVPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fUC3SFhmTkRRLfLC6hXVPM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:12"
+  },
+  {
+    "business_name": "Samya fashion jewellery",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "225121",
+    "phone_number": "+91 93359 31500",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "In spencer hyper, Basti - Lucknow Rd, opposite swastik petrol pump, Awas Vikas Colony, Barabanki, Uttar Pradesh 225001",
+    "area": "Awas Vikas Colony",
+    "latitude": 26.923071099999998,
+    "longitude": 81.1765108,
+    "place_id": "ChIJUeXpIMthmTkR7FNDdwgBmro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeXpIMthmTkR7FNDdwgBmro",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:13"
+  }
+]

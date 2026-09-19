@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "224231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "99PM+6XV, Bhiti Rd, Mahrua, Uttar Pradesh 224231",
+    "area": "224231",
+    "latitude": 26.385620499999998,
+    "longitude": 82.3849287,
+    "place_id": "ChIJ68JyIQCFkDkRj7kY671ajqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68JyIQCFkDkRj7kY671ajqU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:59"
+  },
+  {
+    "business_name": "Akshit enterprises",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "224231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "88M9+GCF, Purvanchal Expy, Chorama, Uttar Pradesh 228141",
+    "area": "224231",
+    "latitude": 26.333188999999997,
+    "longitude": 82.317854,
+    "place_id": "ChIJTdo4cACFkDkRWeIUWtA5YwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdo4cACFkDkRWeIUWtA5YwQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:59"
+  }
+]

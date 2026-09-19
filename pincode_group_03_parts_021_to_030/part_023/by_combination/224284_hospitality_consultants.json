@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "224284",
+    "phone_number": "+91 98250 50246",
+    "website": "http://www.parasconsultants.co.in/",
+    "rating": 4.6,
+    "reviews_count": 12,
+    "address": "3rd Floor, Centaur Complex, Vijay Cross Rd, opp. Bank of Maharashtra, Sarvottam Nagar Society, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Sarvottam Nagar Society, Navrangpura",
+    "latitude": 23.0426309,
+    "longitude": 72.54979209999999,
+    "place_id": "ChIJydxBAZSEXjkROlZbuJFzwzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydxBAZSEXjkROlZbuJFzwzk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:48"
+  },
+  {
+    "business_name": "Class Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "224284",
+    "phone_number": "+91 92125 01725",
+    "website": "https://classconsultants.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "186, Pocket 12, Block C2C, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Pocket 12, Block C2C, Janakpuri",
+    "latitude": 28.619299599999998,
+    "longitude": 77.08756699999999,
+    "place_id": "ChIJr6S0lj8FDTkRX7xSNCMNzJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6S0lj8FDTkRX7xSNCMNzJ8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:48"
+  }
+]

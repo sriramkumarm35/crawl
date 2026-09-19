@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MO AKMAL",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "224225",
+    "phone_number": "+91 75210 38713",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lalbagh, Maqbara, Faizabad, Uttar Pradesh 224001",
+    "area": "Lalbagh, Maqbara",
+    "latitude": 26.7709376,
+    "longitude": 82.1484447,
+    "place_id": "ChIJBZ3yZl4HmjkR6ceTFQ4ezKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZ3yZl4HmjkR6ceTFQ4ezKo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:15"
+  },
+  {
+    "business_name": "A1 Cosmetic General Store",
+    "search_category": "General Store",
+    "primary_category": "Cosmetic surgeon",
+    "all_categories": "Cosmetic surgeon",
+    "pincode": "224225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dehli, Sonbarsa, Uttar Pradesh 227814",
+    "area": "224225",
+    "latitude": 26.4867019,
+    "longitude": 81.9425701,
+    "place_id": "ChIJQTurn9FrmjkRME0EGGgtAAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTurn9FrmjkRME0EGGgtAAI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BVK Plumbing Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "224229",
+    "phone_number": "+91 81793 27471",
+    "website": "https://bvkplumbingservices.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1-169, Ambedkar Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049",
+    "area": "Ambedkar Nagar, Hafeezpet",
+    "latitude": 17.4934544,
+    "longitude": 78.3600222,
+    "place_id": "ChIJ12WNZyKTyzsRdCgwGo00lpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12WNZyKTyzsRdCgwGo00lpo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:34"
+  },
+  {
+    "business_name": "SSB Plumbing Services & Contractors",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "224229",
+    "phone_number": "+91 88851 21202",
+    "website": "https://getssbplumbers.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Address : Shop No. 328, 2nd Floor, Padmavathi Plaza, Kukatpally Housing Board Colony, Hmt Sathavahana Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, HMT Sathavahana Nagar, Kukatpally",
+    "latitude": 17.4948955,
+    "longitude": 78.4008392,
+    "place_id": "ChIJnyyd6ziRyzsR7iQTlswoA8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyyd6ziRyzsR7iQTlswoA8c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:34"
+  }
+]

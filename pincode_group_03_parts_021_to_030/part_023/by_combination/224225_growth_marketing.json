@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Boostify",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, Marketing agency, Software company, Website designer",
+    "pincode": "224225",
+    "phone_number": "+91 74096 84005",
+    "website": "https://boostify.in/",
+    "rating": 4.6,
+    "reviews_count": 35,
+    "address": "Chanda Complex, Mursan Gate Rd, Ram Nagar Colony, Hathras, Uttar Pradesh 204101",
+    "area": "Ram Nagar Colony",
+    "latitude": 27.5941601,
+    "longitude": 78.0461303,
+    "place_id": "ChIJCcqg3TGbdDkRRk5H055-qV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcqg3TGbdDkRRk5H055-qV4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:16:53"
+  },
+  {
+    "business_name": "Mr Growth Hub",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "224225",
+    "phone_number": "+91 90860 27131",
+    "website": "https://mrgrowthhub.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mr Growth Hub, 224225, India",
+    "area": "224225",
+    "latitude": 33.5315733,
+    "longitude": 75.2647236,
+    "place_id": "ChIJjww5CcOyxGcRD3P1mLZGNas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjww5CcOyxGcRD3P1mLZGNas",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:16:55"
+  }
+]

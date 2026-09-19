@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "224229",
+    "phone_number": "+91 78010 50468",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Sanjaypuri Colony, Sriram Nagar, Jagathgiri Gutta, Hyderabad, Telangana 500037",
+    "area": "Sanjaypuri Colony, Sriram Nagar, Jagathgiri Gutta",
+    "latitude": 17.5007345,
+    "longitude": 78.4291052,
+    "place_id": "ChIJl8_MUY2RyzsRRipsOlUa00g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8_MUY2RyzsRRipsOlUa00g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:52"
+  },
+  {
+    "business_name": "Fruitoholic",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Bakery and Cake Shop, Ice cream shop, Fruit parlor",
+    "pincode": "224229",
+    "phone_number": "+91 95508 93369",
+    "website": "http://fruitoholic.in/",
+    "rating": 4.2,
+    "reviews_count": 502,
+    "address": "MLA Colony, Film Nagar, Hyderabad, Telangana 500096",
+    "area": "MLA Colony, Film Nagar",
+    "latitude": 17.417321599999998,
+    "longitude": 78.4139457,
+    "place_id": "ChIJxyj6p1mXyzsRCsK5Hvz4VQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxyj6p1mXyzsRCsK5Hvz4VQo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:54"
+  }
+]

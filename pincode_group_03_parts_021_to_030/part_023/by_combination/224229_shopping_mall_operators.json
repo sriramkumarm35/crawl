@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224229",
+    "phone_number": "+91 755 668 0021",
+    "website": "http://www.capitalmalls.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "5F79+PCG, Narmadapuram Rd, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1643231,
+    "longitude": 77.46857349999999,
+    "place_id": "ChIJgR01iv9DfDkRgFyYYABcoz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgR01iv9DfDkRgFyYYABcoz4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:22:28"
+  },
+  {
+    "business_name": "Gammon Mall (Shrishti CBD)",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224229",
+    "phone_number": "+91 755 257 0363",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Road 1, New Market, Malviya Nagar, near Samnawaya Bhawan, Shivaji Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Shivaji Nagar",
+    "latitude": 23.2319685,
+    "longitude": 77.4045805,
+    "place_id": "ChIJlebXupVCfDkR4uBeEeZr5Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlebXupVCfDkR4uBeEeZr5Jc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:22:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pramesh Electric works",
+    "search_category": "Electrician",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "224227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Meera pur hayatganj, paschimi, hayatganj paschimi, Tanda, Uttar Pradesh 224190",
+    "area": "paschimi, hayatganj paschimi",
+    "latitude": 26.5521709,
+    "longitude": 82.65906079999999,
+    "place_id": "ChIJ62DPeHrpkDkRTUWI2gC0pzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62DPeHrpkDkRTUWI2gC0pzA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:17:53"
+  },
+  {
+    "business_name": "Irfan Siddiqui",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "224227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FHWV+38V, Surapur, Uttar Pradesh 224227",
+    "area": "224227",
+    "latitude": 26.4949785,
+    "longitude": 82.59348589999999,
+    "place_id": "ChIJ03qDFwDtkDkRv2NUVpwJcoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03qDFwDtkDkRv2NUVpwJcoM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:17:53"
+  }
+]

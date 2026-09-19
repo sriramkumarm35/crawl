@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K P M Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "224210",
+    "phone_number": "+91 98492 29565",
+    "website": "https://kpmlodge.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "KG Rd, Gareebnagar, Atmakur, Andhra Pradesh 518422",
+    "area": "Gareebnagar",
+    "latitude": 15.876155599999999,
+    "longitude": 78.580062,
+    "place_id": "ChIJI8ByGTWftTsRgNto5zCFIXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8ByGTWftTsRgNto5zCFIXU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:14:28"
+  },
+  {
+    "business_name": "Balaji Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Lodging",
+    "pincode": "224210",
+    "phone_number": "+91 241 232 9190",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 199,
+    "address": "Old Kapda Bazar, 2732, MG Road, Ahilyanagar, Maharashtra 414001",
+    "area": "Nalegaon",
+    "latitude": 19.0949535,
+    "longitude": 74.7392804,
+    "place_id": "ChIJmRVzSmGw3DsR4jwiWAdARFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRVzSmGw3DsR4jwiWAdARFQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:14:29"
+  }
+]

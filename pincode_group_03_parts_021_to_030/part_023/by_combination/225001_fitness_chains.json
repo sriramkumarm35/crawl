@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Falcon Fitness Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "225001",
+    "phone_number": "+91 89602 19700",
+    "website": "https://www.instagram.com/thefalcon.1?igsh=MWJnOTVpOW5pNDY5bg==",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "in front of BANSAL PETROL PUMP, CHAURAHA, Nabiganj, Palhari, Barabanki, Uttar Pradesh 225001",
+    "area": "CHAURAHA, Nabiganj",
+    "latitude": 26.929178699999998,
+    "longitude": 81.2135009,
+    "place_id": "ChIJiYTtZLBhmTkRcYytSd1RNTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYTtZLBhmTkRcYytSd1RNTA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:36:02"
+  },
+  {
+    "business_name": "BHATIA SPORTS 1982",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Cricket shop, Exercise equipment store, Fitness Equipment Wholesaler, Sporting goods store, Playground equipment supplier, Sports Accessories Wholesaler, Sportswear store",
+    "pincode": "225001",
+    "phone_number": "+91 77530 11116",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1099,
+    "address": "57, Nazirabad Rd, Khayali Ganj, Kaiser Bagh, Lucknow, Uttar Pradesh 226018",
+    "area": "Khayali Ganj, Kaiser Bagh",
+    "latitude": 26.8493042,
+    "longitude": 80.9302567,
+    "place_id": "ChIJSzn0v7r9mzkR7wyPYgzQEKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzn0v7r9mzkR7wyPYgzQEKQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:36:03"
+  }
+]

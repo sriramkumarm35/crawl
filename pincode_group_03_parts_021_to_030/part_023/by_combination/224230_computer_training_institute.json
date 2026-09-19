@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer center",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "224230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Surapur, rampur, Tanda, Uttar Pradesh 224227",
+    "area": "224230",
+    "latitude": 26.5021077,
+    "longitude": 82.60224649999999,
+    "place_id": "ChIJ9V9etCPtkDkRMuL6xsO87CY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9V9etCPtkDkRMuL6xsO87CY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:47"
+  },
+  {
+    "business_name": "Dream Tech",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Computer support and services, Institute of technology, Training center, Website designer",
+    "pincode": "224230",
+    "phone_number": "+91 79062 86760",
+    "website": "http://dreamtech.org.in/",
+    "rating": 4.8,
+    "reviews_count": 544,
+    "address": "Cross Road Mall, 11 Maan Singh Road DSB College Road Near, Dehradun, Uttarakhand 248001",
+    "area": "Karanpur",
+    "latitude": 30.330564199999998,
+    "longitude": 78.056411,
+    "place_id": "ChIJ1yDPB_gpCTkRQDEwznd651E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yDPB_gpCTkRQDEwznd651E",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:49"
+  }
+]

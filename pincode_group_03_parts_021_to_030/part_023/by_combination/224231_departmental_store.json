@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sultan Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "224231",
+    "phone_number": "+91 70520 99374",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "VILLAGE AND POST, HEDE PAKADIYA, Ramnagar Karre, Uttar Pradesh 224231",
+    "area": "224231",
+    "latitude": 26.4034783,
+    "longitude": 82.4004071,
+    "place_id": "ChIJ9xFEHiSPkDkRPa3WTMmK6To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xFEHiSPkDkRPa3WTMmK6To",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:25"
+  },
+  {
+    "business_name": "Shailkumari Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "224231",
+    "phone_number": "+91 91252 58224",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bathua, Kilhapur, Lucknow, Uttar Pradesh 226001",
+    "area": "Bathua",
+    "latitude": 26.3888723,
+    "longitude": 82.30128599999999,
+    "place_id": "ChIJQxnSEoyDkDkRX9QuNTY8QVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxnSEoyDkDkRX9QuNTY8QVo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:27"
+  }
+]

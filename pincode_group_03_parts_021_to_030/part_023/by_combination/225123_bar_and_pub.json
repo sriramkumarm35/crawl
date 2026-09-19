@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sihali",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub",
+    "pincode": "225123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 50,
+    "address": "37PC+RFQ, Sihali, Uttar Pradesh 225202",
+    "area": "225123",
+    "latitude": 27.0870921,
+    "longitude": 81.27122489999999,
+    "place_id": "ChIJ4dk8KQBlmTkRc5PXWZAUecY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dk8KQBlmTkRc5PXWZAUecY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:48:50"
+  },
+  {
+    "business_name": "Big Boss",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "225123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "W5HR+F37, Begum Gunj, Barabanki, Uttar Pradesh 225001",
+    "area": "Begum Gunj",
+    "latitude": 26.928698299999997,
+    "longitude": 81.19022,
+    "place_id": "ChIJV0DAnINhmTkRzFYtGUeyAJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0DAnINhmTkRzFYtGUeyAJE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:48:50"
+  }
+]

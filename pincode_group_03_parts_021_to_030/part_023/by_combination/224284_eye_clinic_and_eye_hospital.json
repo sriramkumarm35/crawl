@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brar Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Eye care center",
+    "pincode": "224284",
+    "phone_number": "+91 72182 72182",
+    "website": "https://brareyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Faridkot Rd, near Petrol Pump, Kot Kapura, Punjab 151204",
+    "area": "224284",
+    "latitude": 30.5885985,
+    "longitude": 74.8168271,
+    "place_id": "ChIJ38SvRcpZFzkRUczzngp3Ibo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38SvRcpZFzkRUczzngp3Ibo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:08"
+  },
+  {
+    "business_name": "Gorwa Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "224284",
+    "phone_number": "+91 81550 50155",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 133,
+    "address": "201, Ambica Complex, Opp-Bapu Ni Dargah, Gorwa Refinery Road, Gorwa, Vadodara, Gujarat 390016",
+    "area": "Ashok Vatika Society, Gorwa",
+    "latitude": 22.33371,
+    "longitude": 73.154962,
+    "place_id": "ChIJxauf-ebIXzkRG36E5farXmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxauf-ebIXzkRG36E5farXmE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:10"
+  }
+]

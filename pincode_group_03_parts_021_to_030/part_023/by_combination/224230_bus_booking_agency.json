@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Bus charter, Bus company, Bus ticket agency, Bus tour agency, Minibus taxi service, Taxi service, Tour operator",
+    "pincode": "224230",
+    "phone_number": "+91 98298 87121",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 241,
+    "address": "Alwar - Jaipur Rd, opposite gate Military Hospital, Pratap Nagar, Kabir Colony, Alwar, Rajasthan 301001",
+    "area": "Pratap Nagar, Kabir Colony",
+    "latitude": 27.556159299999997,
+    "longitude": 76.6015772,
+    "place_id": "ChIJw0K60oaZcjkRkSkjLC4ImOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0K60oaZcjkRkSkjLC4ImOA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:17"
+  },
+  {
+    "business_name": "Sitaram Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "224230",
+    "phone_number": "+91 278 242 8224",
+    "website": "https://sitaramtravels.com/",
+    "rating": 4,
+    "reviews_count": 906,
+    "address": "Q49V+6PM, Kalubha Rd, near Surya Deep Complex, Kalanala, Panwadi, Bhavnagar, Gujarat 364001",
+    "area": "Kalanala, Panwadi",
+    "latitude": 21.7680953,
+    "longitude": 72.1442908,
+    "place_id": "ChIJq6qqun9aXzkRHiIyOikPYQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqun9aXzkRHiIyOikPYQg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:17"
+  }
+]

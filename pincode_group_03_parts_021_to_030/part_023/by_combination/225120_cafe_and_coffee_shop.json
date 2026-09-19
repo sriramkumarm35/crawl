@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hazelnut Factory - Box Park International",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "225120",
+    "phone_number": "+91 76178 00900",
+    "website": "https://thehazelnutfactory.com/",
+    "rating": 4.5,
+    "reviews_count": 77,
+    "address": "Box Park International, NH 27, Ayodhya - Lucknow Rd, adjacent to Seth MR Jaipuria School, Barabanki, Sursanda, Uttar Pradesh 225203",
+    "area": "225120",
+    "latitude": 26.9250378,
+    "longitude": 81.2491889,
+    "place_id": "ChIJZ1l3_ExhmTkRcwOBblqoQIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1l3_ExhmTkRcwOBblqoQIo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:14"
+  },
+  {
+    "business_name": "Common Room Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "225120",
+    "phone_number": "+91 89534 96681",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 358,
+    "address": "VB near Mahindra showroom, 1902, Faizabad - Lucknow Hwy, Avas Vikas Barabanki, Awas Vikas Colony, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Avas Vikas Barabanki, Awas Vikas Colony",
+    "latitude": 26.9167788,
+    "longitude": 81.1831551,
+    "place_id": "ChIJTxy1nTlhmTkRSoCqv7Kdfas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxy1nTlhmTkRSoCqv7Kdfas",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:18"
+  }
+]

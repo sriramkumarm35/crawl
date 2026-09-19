@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "224231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "98RX+GH, Ramnagar Karre, Uttar Pradesh 224231",
+    "area": "224231",
+    "latitude": 26.391262899999997,
+    "longitude": 82.3489551,
+    "place_id": "ChIJKQhZKACFkDkRXCAEMfZXgW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQhZKACFkDkRXCAEMfZXgW4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:38"
+  },
+  {
+    "business_name": "Atul qrao",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "224231",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C84P+8RM, Jaitpur, Uttar Pradesh 224231",
+    "area": "224231",
+    "latitude": 26.4058313,
+    "longitude": 82.33705049999999,
+    "place_id": "ChIJ525RWQCbkDkRZxOXV8DHVE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ525RWQCbkDkRZxOXV8DHVE8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:38"
+  }
+]

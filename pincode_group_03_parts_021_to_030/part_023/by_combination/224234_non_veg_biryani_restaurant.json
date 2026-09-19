@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chitwai",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "HGFG+34H, Chitwai, Madarpur, Uttar Pradesh 224145",
+    "area": "224234",
+    "latitude": 26.572677499999998,
+    "longitude": 82.5253481,
+    "place_id": "ChIJnbHTZwCVkDkRZtYeXCR5pgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbHTZwCVkDkRZtYeXCR5pgA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:23"
+  },
+  {
+    "business_name": "Singh Nonveg Point And Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "224234",
+    "phone_number": "+91 94509 53000",
+    "website": "http://prabhakarsingh.page.tl/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QGJ4+8PR, Bhadwal, Aama Pande, Uttar Pradesh 272155",
+    "area": "224234",
+    "latitude": 26.7808539,
+    "longitude": 82.5067803,
+    "place_id": "ChIJObfwbQC5kDkRKxzbU-2dCwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObfwbQC5kDkRKxzbU-2dCwc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:23"
+  }
+]

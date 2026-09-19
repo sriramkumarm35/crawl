@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "224284",
+    "phone_number": "+91 73092 21695",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kazi saray, Shahganj Road, Kaji Saray, Chandipur Nagarha, Uttar Pradesh 224284",
+    "area": "Kaji Saray",
+    "latitude": 26.6297274,
+    "longitude": 82.0818491,
+    "place_id": "ChIJbdHGmk4NmjkRT2oOzBVj7vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdHGmk4NmjkRT2oOzBVj7vU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:02"
+  },
+  {
+    "business_name": "Raj Jawellers umarpur Bazar",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "224284",
+    "phone_number": "+91 96700 02577",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "14, Umarpur, Uttar Pradesh 224204",
+    "area": "224284",
+    "latitude": 26.5896491,
+    "longitude": 82.058014,
+    "place_id": "ChIJe2eojEANmjkRjBePlmb3LQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2eojEANmjkRjBePlmb3LQI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:02"
+  }
+]

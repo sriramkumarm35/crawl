@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Watch repair centre",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "224228",
+    "phone_number": "+91 72178 22600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gali No. 1, Saidulajab, Saiyad Ul Ajaib Village, Sainik Farm, New Delhi, Delhi 110030",
+    "area": "Saidulajab, Saiyad Ul Ajaib Village, Sainik Farm",
+    "latitude": 28.518293,
+    "longitude": 77.2021721,
+    "place_id": "ChIJ2dJfCjzhDDkR0UPUdOckCj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dJfCjzhDDkR0UPUdOckCj4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:16"
+  },
+  {
+    "business_name": "Arora Watch & Electronics",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Watch repair service",
+    "pincode": "224228",
+    "phone_number": "+91 99110 60397",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 38,
+    "address": "A-5, Central Market, Sector 5, Doctor Ambedkar Nagar, Madangir, New Delhi, Delhi 110062",
+    "area": "Central Market, Sector 5, Doctor Ambedkar Nagar, Madangir",
+    "latitude": 28.519821,
+    "longitude": 77.23118099999999,
+    "place_id": "ChIJtTVI6JrhDDkRXRx4zqQoe1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTVI6JrhDDkRXRx4zqQoe1k",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:16"
+  }
+]

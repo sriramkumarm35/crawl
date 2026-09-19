@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arohi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "225119",
+    "phone_number": "+91 90448 57496",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "M7Q4+RJ2, Khan Pur, Uttar Pradesh 226501",
+    "area": "225119",
+    "latitude": 26.6895073,
+    "longitude": 81.2565089,
+    "place_id": "ChIJ5zvcC2vFmzkRPecUkMi5BOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zvcC2vFmzkRPecUkMi5BOw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:22"
+  },
+  {
+    "business_name": "Highway Dhaba Non Veg",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Chicken restaurant",
+    "pincode": "225119",
+    "phone_number": "+91 94503 75330",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 87,
+    "address": "NH 30, Bagaha, Uttar Pradesh 261141",
+    "area": "225119",
+    "latitude": 27.618946899999997,
+    "longitude": 80.5596247,
+    "place_id": "ChIJ08KDMgAnnzkRCY_EsbbYSis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ08KDMgAnnzkRCY_EsbbYSis",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:25"
+  }
+]

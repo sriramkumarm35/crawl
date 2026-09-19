@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INSURANCE POINT",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "225123",
+    "phone_number": "+91 62009 77672",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "TetryTolly Basti, Namkum, Ranchi, Jharkhand 834010",
+    "area": "TetryTolly Basti, Namkum",
+    "latitude": 23.3519976,
+    "longitude": 85.3746903,
+    "place_id": "ChIJ4bMvxDfi9DkR2-668QjHq1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bMvxDfi9DkR2-668QjHq1c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:58"
+  },
+  {
+    "business_name": "LIC Branch Office",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "225123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C-640, Dewa Rd, Shri Nagar, Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Shri Nagar, Preet Vihar Colony, Civil Lines",
+    "latitude": 26.9336882,
+    "longitude": 81.18584609999999,
+    "place_id": "ChIJjzHTVwBhmTkRWp9xGCum_-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzHTVwBhmTkRWp9xGCum_-M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:58"
+  }
+]

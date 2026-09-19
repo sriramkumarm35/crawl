@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajkaran",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "225120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q83G+342, Usman Pur, Uttar Pradesh 225119",
+    "area": "225120",
+    "latitude": 26.7526375,
+    "longitude": 81.3252656,
+    "place_id": "ChIJdcx1ZADbmzkRLXwUywm1Yo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcx1ZADbmzkRLXwUywm1Yo8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:24"
+  },
+  {
+    "business_name": "Akshita Beauty Parlour & Butique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "225120",
+    "phone_number": "+91 88747 19790",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sathwara, Gosainganj, Uttar Pradesh 226501",
+    "area": "225120",
+    "latitude": 26.762002499999998,
+    "longitude": 81.07029969999999,
+    "place_id": "ChIJlzAxXy3lmzkRiUZuGG4R44o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzAxXy3lmzkRiUZuGG4R44o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:25"
+  }
+]

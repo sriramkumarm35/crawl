@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Siddhivinayak taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "225122",
+    "phone_number": "+91 96767 92912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TG 07 T 5663, Road number 6, L N Colony, Rajalingam Colony, Telephone Colony, Boduppal, Hyderabad, Telangana 500092",
+    "area": "L N Colony, Rajalingam Colony, Telephone Colony, Boduppal",
+    "latitude": 17.4294351,
+    "longitude": 78.5889938,
+    "place_id": "ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3A7OpWTyzsRkDfxN_fQJXM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:29"
+  },
+  {
+    "business_name": "My Cab - Mumbai to Pune Car Rentals (One-Way & Round Trip)",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "225122",
+    "phone_number": "+91 99208 41717",
+    "website": "https://www.themycab.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHS-B/20, CLUSTER_VASAI-26 DEV POOJA, Shiv Chaya Chawl, Yashvant Viva Twp, Nalasopara East, Vasai-Virar, Maharashtra 401209",
+    "area": "Shiv Chaya Chawl, Yashvant Viva Township, Nalasopara East",
+    "latitude": 19.410282,
+    "longitude": 72.8246376,
+    "place_id": "ChIJl1UpzKyp5zsRlX6G9WcXE0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1UpzKyp5zsRlX6G9WcXE0U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:31"
+  }
+]

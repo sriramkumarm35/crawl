@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "224210",
+    "phone_number": "+91 22 2370 1131",
+    "website": "https://www.instagram.com/modern.tailors_mumbai?igsh=eWpkZzM4azFpd2V6&utm_source=qr",
+    "rating": 4.5,
+    "reviews_count": 33,
+    "address": "26-15, R Naik Road, Mathar Pakhadi Rd, Mazgaon, Mumbai, Maharashtra 400010",
+    "area": "Thakkar Estate, Mazgaon",
+    "latitude": 18.9716128,
+    "longitude": 72.842676,
+    "place_id": "ChIJFQaSJknO5zsRroc0whCTnt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQaSJknO5zsRroc0whCTnt8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:13:40"
+  },
+  {
+    "business_name": "Orofit Bespoke",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Custom tailor",
+    "all_categories": "Custom tailor, Clothing store, Designer Clothing Store, Fashion designer, Formal Clothing Store",
+    "pincode": "224210",
+    "phone_number": "+91 76660 85230",
+    "website": "http://www.orofit.com/",
+    "rating": 4.4,
+    "reviews_count": 134,
+    "address": "Deccan Court, Swami Vivekanand Rd, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Bandra West",
+    "latitude": 19.060780299999998,
+    "longitude": 72.83697269999999,
+    "place_id": "ChIJWVIapozO5zsR_j3NE_-Uln4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVIapozO5zsR_j3NE_-Uln4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:13:41"
+  }
+]

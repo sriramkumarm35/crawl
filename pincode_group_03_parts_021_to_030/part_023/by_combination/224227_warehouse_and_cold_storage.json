@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BKT Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "224227",
+    "phone_number": "+91 94151 10701",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 37,
+    "address": "Bakshi Ka Talab, Bargadi Magath, Lucknow, Uttar Pradesh 226201",
+    "area": "Bakshi Ka Talab",
+    "latitude": 26.9961392,
+    "longitude": 80.9187393,
+    "place_id": "ChIJA2QwSEBRmTkR4Jsh_0Pg5ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2QwSEBRmTkR4Jsh_0Pg5ck",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:38"
+  },
+  {
+    "business_name": "Amish Handloom",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "224227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rkbk, Tanda, Uttar Pradesh 224190",
+    "area": "Rkbk",
+    "latitude": 26.5490767,
+    "longitude": 82.6581537,
+    "place_id": "ChIJ7S4Cr5XpkDkRjXrePK0y7xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7S4Cr5XpkDkRjXrePK0y7xI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purani Haveli Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "225121",
+    "phone_number": "+91 94555 55918",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "near Sagar Institute, Sursanda, Barabanki, Uttar Pradesh 225203",
+    "area": "225121",
+    "latitude": 26.925219499999997,
+    "longitude": 81.24657739999999,
+    "place_id": "ChIJIVsLN5phmTkREF1OzlHKREQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVsLN5phmTkREF1OzlHKREQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:06"
+  },
+  {
+    "business_name": "Singh Dhaba & FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225121",
+    "phone_number": "+91 87709 34153",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near sagar institute, Barabanki, Sursanda, Uttar Pradesh 225203",
+    "area": "225121",
+    "latitude": 26.9254251,
+    "longitude": 81.24552369999999,
+    "place_id": "ChIJSZLsVMlhmTkRsatntn7y6lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZLsVMlhmTkRsatntn7y6lw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mk Computer World",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "224210",
+    "phone_number": "+91 97032 46605",
+    "website": "https://mkcomputerworld.com/",
+    "rating": 4.1,
+    "reviews_count": 125,
+    "address": "16-11-16/L/4, TEEGAGUDA, Afzal Nagar, Malakpet Extension, Old Malakpet, Hyderabad, Telangana 500036",
+    "area": "TEEGAGUDA, Afzal Nagar, Malakpet Extension, Old Malakpet",
+    "latitude": 17.3840588,
+    "longitude": 78.5112621,
+    "place_id": "ChIJC6GiyUKZyzsRAwYG3h-T6qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6GiyUKZyzsRAwYG3h-T6qo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:14:40"
+  },
+  {
+    "business_name": "THE COMPUTER SOLUTIONS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer networking service, Computer store",
+    "pincode": "224210",
+    "phone_number": "+91 94331 29071",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "6/28, Bijoygarh Rd, Bijoygarh, Samajgarh, Regent Park, Kolkata, West Bengal 700040",
+    "area": "Bijoygarh, Samajgarh, Regent Park",
+    "latitude": 22.4853661,
+    "longitude": 88.36063469999999,
+    "place_id": "ChIJnzuKLG1xAjoRvRNrIhLknqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzuKLG1xAjoRvRNrIhLknqQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:14:43"
+  }
+]

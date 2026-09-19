@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ultra Hostel, Dhakauli",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "225123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Road, Somaiya 225123, Somaiya Nagar, Dhakauli, Uttar Pradesh 225123",
+    "area": "Somaiya Nagar",
+    "latitude": 26.9512741,
+    "longitude": 81.1942346,
+    "place_id": "ChIJiadPSUhhmTkRzRpBPJYlals",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiadPSUhhmTkRzRpBPJYlals",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:41"
+  },
+  {
+    "business_name": "PDR MINI HOSTEL",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "225123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X52W+M2R, Dhakauli Rd, Somaiya Nagar, Barabanki, Uttar Pradesh 225203",
+    "area": "Somaiya Nagar",
+    "latitude": 26.9517261,
+    "longitude": 81.1950257,
+    "place_id": "ChIJ6YJnqvZhmTkRzLd0fbnhU0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YJnqvZhmTkRzLd0fbnhU0E",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:41"
+  }
+]

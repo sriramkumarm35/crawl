@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "225123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X52R+7H7, Saddipur, Dewa Rd, Barabanki, Uttar Pradesh 225123",
+    "area": "Somaiya Nagar",
+    "latitude": 26.9506643,
+    "longitude": 81.1914352,
+    "place_id": "ChIJI6ZQeQBhmTkR91wkQjrEA3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6ZQeQBhmTkR91wkQjrEA3A",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:24"
+  },
+  {
+    "business_name": "Ashu Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "225123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "W59R+5WX, Lakhpedabagh, Barabanki, Barel, Uttar Pradesh 225001",
+    "area": "Lakhpedabagh",
+    "latitude": 26.917999299999998,
+    "longitude": 81.19235309999999,
+    "place_id": "ChIJGc6_PDlgmTkRlLoksEjLgsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGc6_PDlgmTkRlLoksEjLgsE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:26"
+  }
+]

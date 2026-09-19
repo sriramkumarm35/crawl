@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Maurya",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "224234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pousra, Pausara Uparhar, Uttar Pradesh 224234",
+    "area": "224234",
+    "latitude": 26.6390176,
+    "longitude": 82.40646699999999,
+    "place_id": "ChIJ16rRLwC9kDkRmSBCRnSgJfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16rRLwC9kDkRmSBCRnSgJfs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:47"
+  },
+  {
+    "business_name": "BOMBAY AUTO PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "224234",
+    "phone_number": "+91 98944 23423",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 33,
+    "address": "Ambur Bypass Rd, Indira Nagar, Ambur, Tamil Nadu 635802",
+    "area": "Indira Nagar",
+    "latitude": 12.7807582,
+    "longitude": 78.71703459999999,
+    "place_id": "ChIJW7wyfe8IrTsRThbB2deJa8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7wyfe8IrTsRThbB2deJa8s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:48"
+  }
+]

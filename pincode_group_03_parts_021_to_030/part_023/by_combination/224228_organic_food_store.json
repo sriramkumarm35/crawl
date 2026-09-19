@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kokum Organic Grocery Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Supermarket",
+    "pincode": "224228",
+    "phone_number": "+91 90046 79355",
+    "website": "https://wa.me/c/919004679355",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "Kokum Organic Grocery Store, Plot 12, Sector C/3, Town Centre, N 1, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Sector C/3, Town Centre, N 1, Cidco",
+    "latitude": 19.877561999999998,
+    "longitude": 75.367212,
+    "place_id": "ChIJG9MF8kij2zsRI-kde99ciQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9MF8kij2zsRI-kde99ciQM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:52"
+  },
+  {
+    "business_name": "Taldholi, Uttar Pradesh 224228",
+    "search_category": "Organic Food Store",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "224228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taldholi, Uttar Pradesh",
+    "area": "224228",
+    "latitude": 26.6303393,
+    "longitude": 81.8934484,
+    "place_id": "ChIJoWn_jr8VmjkRGz947stXg2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWn_jr8VmjkRGz947stXg2g",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:54"
+  }
+]

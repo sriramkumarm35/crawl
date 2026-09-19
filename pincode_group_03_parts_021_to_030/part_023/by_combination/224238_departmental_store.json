@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asha The Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Grocery store",
+    "pincode": "224238",
+    "phone_number": "+91 87940 74546",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 392,
+    "address": "TG Rd, Ram Nagar, Agartala, Tripura 799002",
+    "area": "Ram Nagar",
+    "latitude": 23.8408841,
+    "longitude": 91.2703827,
+    "place_id": "ChIJR6zV8xf0UzcRlZQQM9TUjwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6zV8xf0UzcRlZQQM9TUjwI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:31:53"
+  },
+  {
+    "business_name": "Sarika Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "224238",
+    "phone_number": "+91 90445 55551",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "G-36, MIG, Gujaini, Kanpur, Uttar Pradesh 208022",
+    "area": "MIG, Gujaini",
+    "latitude": 26.442037799999998,
+    "longitude": 80.2765229,
+    "place_id": "ChIJh8TTrgpInDkRrwDivtt8sp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8TTrgpInDkRrwDivtt8sp8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:31:53"
+  }
+]

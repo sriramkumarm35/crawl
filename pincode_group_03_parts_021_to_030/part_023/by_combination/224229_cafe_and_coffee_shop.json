@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Coffee & Coldrink Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "224229",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sultanpur Rd, Musafirkhana, Khaudiya, Uttar Pradesh 227813",
+    "area": "224229",
+    "latitude": 26.370217099999998,
+    "longitude": 81.8125294,
+    "place_id": "ChIJHwriBoNdmjkR5hXD4FMBmbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwriBoNdmjkR5hXD4FMBmbw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:55"
+  },
+  {
+    "business_name": "Yadav jalpan Grah",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "224229",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "APCO House, B-9, Dobhiyara, Uttar Pradesh 224229",
+    "area": "224229",
+    "latitude": 26.529356699999997,
+    "longitude": 81.802595,
+    "place_id": "ChIJwWqsPABBmjkRq9VG3_IBmYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWqsPABBmjkRq9VG3_IBmYU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Garage 69",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224228",
+    "phone_number": "+91 99592 43009",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot no.112,Sy no.1007, Environ Estates Vishnu marg Road, Bhagyanagar Society, Near, beside Kaithalapur Flyover Road, Madhapur, Telangana 500081",
+    "area": "Bhagyanagar Colony, Madhapur",
+    "latitude": 17.4618587,
+    "longitude": 78.39710889999999,
+    "place_id": "ChIJTUraq2KRyzsRCRqTn_iJ-I8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUraq2KRyzsRCRqTn_iJ-I8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:38"
+  },
+  {
+    "business_name": "Janata Car Care",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ramappa Junior Defence College (Elite Campus, Kakatiya Colony, Hanamkonda, Warangal, Telangana 506011",
+    "area": "Kakatiya Colony",
+    "latitude": 18.0021281,
+    "longitude": 79.58320379999999,
+    "place_id": "ChIJKRZZEW1FMzoRvg3CkR0XJrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRZZEW1FMzoRvg3CkR0XJrw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:38"
+  }
+]

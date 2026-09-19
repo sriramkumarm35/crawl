@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durgesh Auto Service Centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "224229",
+    "phone_number": "+91 73556 07021",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pure Ram Charan, Milkipur - Amaniganj Rd, Uttar Pradesh 224164",
+    "area": "224229",
+    "latitude": 26.6039757,
+    "longitude": 81.8766467,
+    "place_id": "ChIJze1KVY4VmjkRXNCacUpSfuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJze1KVY4VmjkRXNCacUpSfuM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:24"
+  },
+  {
+    "business_name": "Adhunik electronics",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224229",
+    "phone_number": "+91 94507 17487",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "road, Khandasa, Akma, Uttar Pradesh 224229",
+    "area": "224229",
+    "latitude": 26.5538615,
+    "longitude": 81.8360977,
+    "place_id": "ChIJHRzQIKNBmjkR2Y6Gt_Deb4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRzQIKNBmjkR2Y6Gt_Deb4k",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manu Pharma & medical",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa",
+    "pincode": "225119",
+    "phone_number": "+91 63929 34135",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trivediganj, Tejwa Pur, Uttar Pradesh 225126",
+    "area": "225119",
+    "latitude": 26.6675219,
+    "longitude": 81.308709,
+    "place_id": "ChIJZd6NgJzFmzkR4dbZd7Lhxw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZd6NgJzFmzkR4dbZd7Lhxw4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:42:08"
+  },
+  {
+    "business_name": "Dr.Bhola medical stor kothi",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa, Service establishment",
+    "pincode": "225119",
+    "phone_number": "+91 94507 86665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dr.Bhola medical stor kothi, 225119, India",
+    "area": "225119",
+    "latitude": 27.1381928,
+    "longitude": 80.8593042,
+    "place_id": "ChIJB_XlDRfbmzkRMd6y_BAUKQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_XlDRfbmzkRMd6y_BAUKQo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:42:10"
+  }
+]

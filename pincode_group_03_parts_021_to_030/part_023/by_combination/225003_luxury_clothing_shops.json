@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manaswini Designer Studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Fashion designer, Formal Clothing Store, Jewelry designer, Traditional Kostume store",
+    "pincode": "225003",
+    "phone_number": "+91 94503 96887",
+    "website": "https://manaswinidesignerstudio.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2/372, Vibhav Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhav Khand, Gomti Nagar",
+    "latitude": 26.8640829,
+    "longitude": 81.02071769999999,
+    "place_id": "ChIJedmEudvjmzkR2jAWNpUa_AU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedmEudvjmzkR2jAWNpUa_AU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:44"
+  },
+  {
+    "business_name": "HPM HUB",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "225003",
+    "phone_number": "+91 73183 87123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palika Market, New, Begum Gunj, Barabanki, Uttar Pradesh 225001",
+    "area": "Begum Gunj",
+    "latitude": 26.928992299999997,
+    "longitude": 81.1900395,
+    "place_id": "ChIJTzjaTHRhmTkRybDA1pjXDGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzjaTHRhmTkRybDA1pjXDGo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisan Corporation",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural Engineer, Farm equipment supplier",
+    "pincode": "224210",
+    "phone_number": "+91 70282 89999",
+    "website": "https://www.forcemotors.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "cottage corner, 253/5 Nagar Manmad Road Near Nagapur Bridge, Savedi, Ahilyanagar, Maharashtra 414003",
+    "area": "Savedi",
+    "latitude": 19.1387713,
+    "longitude": 74.71938279999999,
+    "place_id": "ChIJOyxsBkO63DsRziGuEN9W6bs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyxsBkO63DsRziGuEN9W6bs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:13:59"
+  },
+  {
+    "business_name": "Dandwate Tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "224210",
+    "phone_number": "+91 91300 28299",
+    "website": "https://tocard.in/dandwate-tractors",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nagar, Manmad Rd, near RAHATA COURT, Rahata, Pimplas, Maharashtra 423107",
+    "area": "224210",
+    "latitude": 19.6968847,
+    "longitude": 74.48349329999999,
+    "place_id": "ChIJVXzu-eNZ3DsRINuunJM8QIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXzu-eNZ3DsRINuunJM8QIA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:13:59"
+  }
+]

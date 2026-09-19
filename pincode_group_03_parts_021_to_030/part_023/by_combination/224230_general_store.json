@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "224230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FH87+FVC, Katariya Yakubpur, Uttar Pradesh 224122",
+    "area": "224230",
+    "latitude": 26.466183599999997,
+    "longitude": 82.56463529999999,
+    "place_id": "ChIJj36iN8jtkDkRXQ5s8WHhKcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj36iN8jtkDkRXQ5s8WHhKcg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:22:40"
+  },
+  {
+    "business_name": "Jyoti General Store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "224230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "FHMM+7RH, Ariya, Uttar Pradesh 224122",
+    "area": "224230",
+    "latitude": 26.4831984,
+    "longitude": 82.58460079999999,
+    "place_id": "ChIJkYsYbYjtkDkRzu5JEBMHTH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYsYbYjtkDkRzu5JEBMHTH4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:22:40"
+  }
+]

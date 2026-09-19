@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Littel pet store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "224228",
+    "phone_number": "+91 99669 94506",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "St.Annas, girls high school, B54 F4, Vijaynagar Colony, Besides, Masab Tank, Hyderabad, Telangana 500057",
+    "area": "Vijaynagar Colony, Besides, Masab Tank",
+    "latitude": 17.397351099999998,
+    "longitude": 78.45436,
+    "place_id": "ChIJyfSh9ZKXyzsRc__weqXPl5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfSh9ZKXyzsRc__weqXPl5U",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:58"
+  },
+  {
+    "business_name": "Paws & Co.",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "224228",
+    "phone_number": "+91 77996 34406",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "1st Floor, Paws and Co, Plot No: 09, Public Sector Colony, New Bowenpally, Secunderabad, Hyderabad, Telangana 500011",
+    "area": "Public Sector Colony, New Bowenpally",
+    "latitude": 17.462255199999998,
+    "longitude": 78.470587,
+    "place_id": "ChIJLZyHGX-RyzsR5IMvoG9BayU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZyHGX-RyzsR5IMvoG9BayU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:59"
+  }
+]

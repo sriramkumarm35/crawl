@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramya Cleaning Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning service",
+    "all_categories": "Cleaning service",
+    "pincode": "224235",
+    "phone_number": "+91 92292 19769",
+    "website": "https://ramyacleaningservice.com/",
+    "rating": 4.6,
+    "reviews_count": 78,
+    "address": "2nd Floor, C Sky Mall, Roxy Pul, Chitnis Ki Goth, Lohiya Bazaar, Gwalior, Madhya Pradesh 474001",
+    "area": "Roxy Pul, Chitnis Ki Goth, Lohiya Bazaar",
+    "latitude": 26.196284,
+    "longitude": 78.1495683,
+    "place_id": "ChIJaVyZZzh0UkMRg8DOaiqkcRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVyZZzh0UkMRg8DOaiqkcRo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:31:30"
+  },
+  {
+    "business_name": "GO GREEN FACILITY SERVICES",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Water Tank Cleaners",
+    "pincode": "224235",
+    "phone_number": "+91 91829 75684",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 302,
+    "address": "SHOP NO:23 GROUND FLOOR, BESIDE: D-MART, RAGA MAYURI PRIDE, Guru Raghavendra Nagar, Kurnool, Kalluru, Andhra Pradesh 518003",
+    "area": "Guru Raghavendra Nagar",
+    "latitude": 15.8230191,
+    "longitude": 78.0209228,
+    "place_id": "ChIJEWkq08_ntTsRPH3u4YkLOd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWkq08_ntTsRPH3u4YkLOd8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:31:30"
+  }
+]

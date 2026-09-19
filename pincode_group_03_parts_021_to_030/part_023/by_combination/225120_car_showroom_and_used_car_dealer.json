@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beeaar Miles",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer, Hyundai dealer",
+    "pincode": "225120",
+    "phone_number": "+91 75675 67784",
+    "website": "https://beeaar.hyundaimotor.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Qaisar Officer's Colony, 2, Capper Rd, near Nishat Hospital, DM Compound Colony, Kaiserbagh Officer's Colony, Kaiser Bagh, Lucknow, Uttar Pradesh 226001",
+    "area": "DM Compound Colony, Kaiserbagh Officer's Colony, Kaiser Bagh",
+    "latitude": 26.850780099999998,
+    "longitude": 80.937457,
+    "place_id": "ChIJMZ9GrDT9mzkRX0aor-2ZYwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZ9GrDT9mzkRX0aor-2ZYwo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:39"
+  },
+  {
+    "business_name": "Lucknow Motor Sales",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "225120",
+    "phone_number": "+91 73948 44707",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lucknow Motor Sales Gol Market, opposite Mahanagar, Kotwali, Mahanagar, Lucknow, Uttar Pradesh 226006",
+    "area": "Kotwali, Mahanagar",
+    "latitude": 26.8733434,
+    "longitude": 80.95862679999999,
+    "place_id": "ChIJ65EHxuP9mzkRuytswJVoTUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65EHxuP9mzkRuytswJVoTUs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "225120",
+    "phone_number": "+91 63072 44844",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "237, Main Market Rd, Ghanta Ghar Road, near Clock Tower, Satyapremi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Satyapremi Nagar",
+    "latitude": 26.9314553,
+    "longitude": 81.1992032,
+    "place_id": "ChIJNa-6fUdhmTkR38_5kPT13r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNa-6fUdhmTkR38_5kPT13r4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:08"
+  },
+  {
+    "business_name": "New Delhi Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Fast food restaurant, Restaurant",
+    "pincode": "225120",
+    "phone_number": "+91 77592 46600",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Indira Commercial Complex, Dheradun Delhi, Transport Nagar, Chhattisgarh 495677",
+    "area": "Indira Commercial Complex",
+    "latitude": 22.3640874,
+    "longitude": 82.71150569999999,
+    "place_id": "ChIJ-4PiQMqIJzoRTXb1YG0r0HY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4PiQMqIJzoRTXb1YG0r0HY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:09"
+  }
+]

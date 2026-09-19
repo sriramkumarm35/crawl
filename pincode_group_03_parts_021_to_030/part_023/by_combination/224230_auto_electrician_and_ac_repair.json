@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sampark Enterprises",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Air conditioning contractor, Air conditioning store, Appliance repair service, HVAC contractor, Microwave oven repair service, Repair service, Water purification company, Water treatment plant, Water works",
+    "pincode": "224230",
+    "phone_number": "+91 80053 13728",
+    "website": "https://samparkcare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "49C/5, Stanley Rd, near Mohak Hospital, Kamla Nagar, Mumfordganj, Prayagraj, Uttar Pradesh 211002",
+    "area": "Kamla Nagar, Mumfordganj",
+    "latitude": 25.4758127,
+    "longitude": 81.8485401,
+    "place_id": "ChIJHWN3JYu1mjkRPJQEaWKTxcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWN3JYu1mjkRPJQEaWKTxcU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:12"
+  },
+  {
+    "business_name": "Avyaan Electrical &Electronics",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop",
+    "pincode": "224230",
+    "phone_number": "+91 78003 15676",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Baura Jagdishpur Road, nearby Devari Taaranpatti, Judaupur, Rajapur, Uttar Pradesh 228142",
+    "area": "224230",
+    "latitude": 26.362135799999997,
+    "longitude": 82.349699,
+    "place_id": "ChIJ6_gIVt6FkDkRnkJMcfjT6Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_gIVt6FkDkRnkJMcfjT6Us",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:15"
+  }
+]

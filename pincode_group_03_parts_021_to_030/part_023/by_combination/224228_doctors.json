@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Ashok Kumar S/O Ram Prasad",
+    "search_category": "Doctors",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "224228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JXMF+FC, Inayat Nagar, Uttar Pradesh 224228",
+    "area": "224228",
+    "latitude": 26.633722,
+    "longitude": 81.973522,
+    "place_id": "ChIJ20IrIAATmjkRwtBN4ENmeRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20IrIAATmjkRwtBN4ENmeRM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:20"
+  },
+  {
+    "business_name": "Divyansh Clinic Shop",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "224228",
+    "phone_number": "+91 93364 24470",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Milkipur, Adhiyona, Uttar Pradesh 224228",
+    "area": "224228",
+    "latitude": 26.637860999999997,
+    "longitude": 81.874507,
+    "place_id": "ChIJgbvTDkAVmjkRs4igGrr2rJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbvTDkAVmjkRs4igGrr2rJI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:22"
+  }
+]

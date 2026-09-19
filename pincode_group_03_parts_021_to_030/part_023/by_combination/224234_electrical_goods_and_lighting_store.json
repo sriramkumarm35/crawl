@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "224234",
+    "phone_number": "+91 90369 99299",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 74,
+    "address": "834 Post, Hosa Rd, Chennakeshava Nagar, CK Nagar, Pragathi Nagar, Electronic City, Bengaluru, Karnataka 560100",
+    "area": "Chennakeshava Nagar, CK Nagar, Pragathi Nagar, Electronic City",
+    "latitude": 12.8705451,
+    "longitude": 77.65483069999999,
+    "place_id": "ChIJrwR9N6hsrjsRq8Wh9uyLINk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwR9N6hsrjsRq8Wh9uyLINk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:56"
+  },
+  {
+    "business_name": "Chaudhary Electric And Hardware Stores",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "224234",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 10, Ambedkar Rd, Kandivali, Charkop, Ambedkar Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Charkop, Ambedkar Nagar, Kandivali West",
+    "latitude": 19.2052235,
+    "longitude": 72.8232864,
+    "place_id": "ChIJOQU06rm25zsR7XOpNf9tHx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQU06rm25zsR7XOpNf9tHx8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:56"
+  }
+]

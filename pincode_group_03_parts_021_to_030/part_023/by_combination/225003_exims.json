@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ESI Dispensary BARABANKI",
+    "search_category": "EXIMS",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "Gramin Bank Bagal gali me, ESI Dispensary, Dewa Rd, behind PPS Vidyalay, Preet Vihar Colony, Abhay Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Preet Vihar Colony, Abhay Nagar",
+    "latitude": 26.9355428,
+    "longitude": 81.1877579,
+    "place_id": "ChIJLZEA5JBhmTkRre2kZgPnGx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZEA5JBhmTkRre2kZgPnGx4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:03"
+  },
+  {
+    "business_name": "IEM College of Pharmacy",
+    "search_category": "EXIMS",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "225003",
+    "phone_number": "+91 5240 273 916",
+    "website": "http://iempharmacy.in/",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "223G+X6M, Kursi Rd, Anwari, Uttar Pradesh 225301",
+    "area": "225003",
+    "latitude": 27.004670899999997,
+    "longitude": 81.0250956,
+    "place_id": "ChIJHys-G4NbmTkRdnoELmbu2wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHys-G4NbmTkRdnoELmbu2wY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dheeraj",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "224238",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHPW+9WQ, NTPC Colony, Kanaudha, Uttar Pradesh 224232",
+    "area": "NTPC Colony",
+    "latitude": 26.5859502,
+    "longitude": 82.5973734,
+    "place_id": "ChIJ2YCtawDrkDkROu8YrtflGlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YCtawDrkDkROu8YrtflGlo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:32:28"
+  },
+  {
+    "business_name": "Mechkartz",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "224238",
+    "phone_number": "N/A",
+    "website": "https://www.mechkartz.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "B1/277, Street Number 11, Block B 1, New Ashok Nagar, Delhi, 110096",
+    "area": "Block B 1, New Ashok Nagar",
+    "latitude": 28.587320499999997,
+    "longitude": 77.3060752,
+    "place_id": "ChIJ77fndszlDDkRFBz0rcPdkI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77fndszlDDkRFBz0rcPdkI8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:32:28"
+  }
+]

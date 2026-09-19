@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chauhan Electronic Workers",
+    "search_category": "Hardware Store",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Hardware store",
+    "pincode": "224284",
+    "phone_number": "+91 95985 58692",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rewati Ganj- Sahab Ganj Road, Road, Sahabganj, Uttar Pradesh 224284",
+    "area": "Sahabganj",
+    "latitude": 26.6434,
+    "longitude": 82.0475668,
+    "place_id": "ChIJYRyZoY0NmjkRtjYAQE_i648",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRyZoY0NmjkRtjYAQE_i648",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:23"
+  },
+  {
+    "business_name": "Anshu Aluminium",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "224284",
+    "phone_number": "+91 70807 58540",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shahganj Rd Kazi Sarai, Uttar Pradesh 224284",
+    "area": "224284",
+    "latitude": 26.630719,
+    "longitude": 82.0788591,
+    "place_id": "ChIJ84gAJA8NmjkR8Y9el9FT0lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84gAJA8NmjkR8Y9el9FT0lI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:23"
+  }
+]

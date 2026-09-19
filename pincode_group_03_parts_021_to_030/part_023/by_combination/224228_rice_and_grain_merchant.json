@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajeshwari rice traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "224228",
+    "phone_number": "+91 97400 04847",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Manjunatha Layout Main Rd, Shirdi Sai Nagar, Munnekolala, Bengaluru, Karnataka 560037",
+    "area": "Shirdi Sai Nagar, Munnekolala",
+    "latitude": 12.9495258,
+    "longitude": 77.71440919999999,
+    "place_id": "ChIJPWJe8swTrjsRbJ0em6jWVNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWJe8swTrjsRbJ0em6jWVNw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:54"
+  },
+  {
+    "business_name": "Philips Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "224228",
+    "phone_number": "+91 99620 30469",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "107/45, Anna Main Rd, Ponnambalam Colony, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+    "area": "Ponnambalam Colony, MGR Nagar, Nesapakkam",
+    "latitude": 13.0367403,
+    "longitude": 80.1980303,
+    "place_id": "ChIJ-bIvTthmUjoRKzS98qdfJEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bIvTthmUjoRKzS98qdfJEQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:18:56"
+  }
+]

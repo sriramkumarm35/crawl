@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajaz PolyClinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Dermatologist",
+    "pincode": "225121",
+    "phone_number": "+91 94527 17786",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "near Chota Imambada, behind Noor Jahan Market, Chota Imamabada, Zaidpur, Uttar Pradesh 225414",
+    "area": "Chota Imamabada",
+    "latitude": 26.828276199999998,
+    "longitude": 81.329008,
+    "place_id": "ChIJR7azVObZmzkRyJd-M0VMLTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7azVObZmzkRyJd-M0VMLTM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:23"
+  },
+  {
+    "business_name": "Shanti Poly Clinic & Surgical Centre",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W6HH+6VC, Faizabad Rd, Sultan Pur, Uttar Pradesh 225001",
+    "area": "225121",
+    "latitude": 26.9280588,
+    "longitude": 81.2296279,
+    "place_id": "ChIJTybNJr5hmTkRWF0oI-HqKp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTybNJr5hmTkRWF0oI-HqKp4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:23"
+  }
+]

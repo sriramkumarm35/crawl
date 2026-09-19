@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpati furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "225122",
+    "phone_number": "+91 78000 01989",
+    "website": "https://ganpatifurniture.in/",
+    "rating": 4.5,
+    "reviews_count": 217,
+    "address": "Matinpurwa, Khurram Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Matinpurwa, Khurram Nagar",
+    "latitude": 26.8893778,
+    "longitude": 80.96828579999999,
+    "place_id": "ChIJ55KIshRXmTkRR7ENEtdOl1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55KIshRXmTkRR7ENEtdOl1s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:40"
+  },
+  {
+    "business_name": "Haneef Fincher House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "225122",
+    "phone_number": "+91 76518 95989",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 03, Road, Amethi, Barabanki, Uttar Pradesh 225122",
+    "area": "225122",
+    "latitude": 26.8561533,
+    "longitude": 81.1941097,
+    "place_id": "ChIJIzoLl2bfmzkR11C0w-FNiQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzoLl2bfmzkR11C0w-FNiQA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:43"
+  }
+]

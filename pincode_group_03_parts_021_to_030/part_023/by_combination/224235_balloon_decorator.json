@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RN EVENTER",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Event management company, Party planner, Wedding service",
+    "pincode": "224235",
+    "phone_number": "+91 87676 91868",
+    "website": "https://rn-eventer.grexa.site/",
+    "rating": 5,
+    "reviews_count": 98,
+    "address": "Nandgiri Road, Pachpaoli, Tandapeth, Nagpur, Maharashtra 440002",
+    "area": "Pachpaoli, Tandapeth",
+    "latitude": 21.160955299999998,
+    "longitude": 79.1054379,
+    "place_id": "ChIJZfw6q87B1DsRYHaKc6bgO2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZfw6q87B1DsRYHaKc6bgO2Q",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:31:03"
+  },
+  {
+    "business_name": "S T Event Entertainment",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Caterer, DJ service, Event planner, Magician, Party planner, Party store, Photography service, Wedding planner, Wedding service",
+    "pincode": "224235",
+    "phone_number": "+91 84848 88872",
+    "website": "https://www.instagram.com/st_event_entertainment?igsh=Y241cXljYmJhMXZv",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv Shakti bhavan, 678/a timki chimabahi peth, topre ka kuwa, nr. Mahajan cantol, Nagpur, Maharashtra 440018",
+    "area": "224235",
+    "latitude": 21.1593968,
+    "longitude": 79.1020564,
+    "place_id": "ChIJtw0Qp87B1DsRtZi6A5MvF6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtw0Qp87B1DsRtZi6A5MvF6M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:31:04"
+  }
+]

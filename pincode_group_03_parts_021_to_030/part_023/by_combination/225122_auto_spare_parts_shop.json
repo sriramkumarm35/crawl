@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HINDUSTAN Auto Part",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "225122",
+    "phone_number": "+91 97024 55427",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Station Rd, Dariyabad, Uttar Pradesh 225405",
+    "area": "225122",
+    "latitude": 26.881199499999997,
+    "longitude": 81.5512471,
+    "place_id": "ChIJxxSOACErmjkR9lAiUQa8xwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxSOACErmjkR9lAiUQa8xwI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:24"
+  },
+  {
+    "business_name": "Mobil℠ Bike Care - Puja Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Oil change service",
+    "all_categories": "Oil change service, Auto restoration service, Two Wheeler Repair Shop, Repair service",
+    "pincode": "225122",
+    "phone_number": "+91 88749 11501",
+    "website": "https://www.mobil.co.in/en-in?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, Satrikh Rd, near Satrikh, CHC, Satrikh, Barabanki, Uttar Pradesh 225121",
+    "area": "CHC",
+    "latitude": 26.863125,
+    "longitude": 81.201459,
+    "place_id": "ChIJh3e5urzfmzkRAi4IU9Fnqyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3e5urzfmzkRAi4IU9Fnqyg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:26"
+  }
+]

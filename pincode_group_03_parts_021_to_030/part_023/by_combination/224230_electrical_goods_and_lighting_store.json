@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical supply store",
+    "pincode": "224230",
+    "phone_number": "+91 265 242 9580",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "76X6+M64, Nr Jumma Masjid Below Baroda Mercanttile Bank Mandvi Gandigate Road Mandvi, Vadodara, Gujarat 390017",
+    "area": "Fakhri Mohalla, Chokshi Bazar",
+    "latitude": 22.2991374,
+    "longitude": 73.2105847,
+    "place_id": "ChIJVVVVlV_PXzkRGBn8IChJnSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlV_PXzkRGBn8IChJnSQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:21"
+  },
+  {
+    "business_name": "SARKAR ELECTRIC",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical repair shop, Electronics repair shop, Electrical supply store",
+    "pincode": "224230",
+    "phone_number": "+91 99032 62464",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "F95M+JM7, Garia Gardens, Garia, Rajpur Sonarpur, West Bengal 700084",
+    "area": "Garia Gardens, Garia",
+    "latitude": 22.4590294,
+    "longitude": 88.3841652,
+    "place_id": "ChIJlYrjT5hxAjoRTfy5x-oimfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYrjT5hxAjoRTfy5x-oimfE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavitha vegetable market",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "224232",
+    "phone_number": "+91 90032 64350",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 19,
+    "address": "26XP+4CF, Dr Sadasivam Rd, Rama Kamath Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Rama Kamath Puram, T. Nagar",
+    "latitude": 13.0478048,
+    "longitude": 80.23605359999999,
+    "place_id": "ChIJq0ESmD5nUjoRr0lRPV501_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0ESmD5nUjoRr0lRPV501_I",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:26:20"
+  },
+  {
+    "business_name": "Arvind Fruits Vendor and Supplier",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market, Convenience store, Corporate gift supplier, Supplier, Dry Fruit Store, Fruits Wholesaler, Ice cream shop, Milk delivery service, Organic food store, Salad shop",
+    "pincode": "224232",
+    "phone_number": "+91 80909 05044",
+    "website": "http://arvindfruits.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no.-4 ground, gate no.-1, Tejaswini Tower, opp. MUMBAI UNIVERSITY, Mhada Colony, Vidya Nagari, Kalina, Santacruz East, Mumbai, Maharashtra 400098",
+    "area": "Mhada Colony, Vidya Nagari, Kalina, Santacruz East",
+    "latitude": 19.0731345,
+    "longitude": 72.862209,
+    "place_id": "ChIJhyxFufrI5zsRP8JtZa-QFu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyxFufrI5zsRP8JtZa-QFu0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:26:21"
+  }
+]

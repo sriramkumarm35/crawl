@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Coffee Works",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Coffee machine supplier, Coffee roastery, Coffee stand, Coffee store, Coffee vending machine, Coffee wholesaler",
+    "pincode": "224238",
+    "phone_number": "+91 99000 05006",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 101,
+    "address": "Block 4, 49, 7th Cross Rd, NR Colony, Basavanagudi, Bengaluru, Karnataka 560070",
+    "area": "NR Colony, Basavanagudi",
+    "latitude": 12.9376243,
+    "longitude": 77.5681747,
+    "place_id": "ChIJ7S0RH4wVrjsR3NaGRvMCuDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7S0RH4wVrjsR3NaGRvMCuDM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:32:06"
+  },
+  {
+    "business_name": "Paa Ji Coffee Center",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "224238",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "HM36+JP2, SH 5, Tanda, Uttar Pradesh 224190",
+    "area": "224238",
+    "latitude": 26.554018,
+    "longitude": 82.6617783,
+    "place_id": "ChIJYzBa2HDpkDkRMAk077khlv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzBa2HDpkDkRMAk077khlv8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:32:07"
+  }
+]

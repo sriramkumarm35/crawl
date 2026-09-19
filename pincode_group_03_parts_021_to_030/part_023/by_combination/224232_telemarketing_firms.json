@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Intouch Solution",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Call center",
+    "all_categories": "Call center",
+    "pincode": "224232",
+    "phone_number": "+91 22 2891 4346",
+    "website": "http://www.intouchsolution.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Hari Om Plaza, 125/126/127, Mahatma Gandhi Rd, Borivali East, Mumbai, Maharashtra 400066",
+    "area": "Sukarwadi, Borivali East",
+    "latitude": 19.2314988,
+    "longitude": 72.862321,
+    "place_id": "ChIJBeOdeuCx5zsRNU3rgLD0ttE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeOdeuCx5zsRNU3rgLD0ttE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:06"
+  },
+  {
+    "business_name": "Smart Call Center Pvt. Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company",
+    "pincode": "224232",
+    "phone_number": "+91 33 4066 1317",
+    "website": "http://www.smartcallcentersolutions.com/",
+    "rating": 3.5,
+    "reviews_count": 278,
+    "address": "6th Floor, 6th Floor, New B.K Market, 16A, Shakespeare Sarani, Elgin, Kolkata, West Bengal 700071",
+    "area": "Elgin",
+    "latitude": 22.5452169,
+    "longitude": 88.3512009,
+    "place_id": "ChIJoXe_-BN3AjoRdTPTt-3SPcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXe_-BN3AjoRdTPTt-3SPcg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:06"
+  }
+]

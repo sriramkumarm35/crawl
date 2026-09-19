@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "224225",
+    "phone_number": "+91 62831 61904",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Madina Masjid, Ordnance Cable Factory Colony, Sector 29 B, Chandigarh, 160030",
+    "area": "Ordnance Cable Factory Colony, Sector 29 B",
+    "latitude": 30.7112336,
+    "longitude": 76.7952324,
+    "place_id": "ChIJ8RI5wxXtDzkRfg6SQCUFUgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RI5wxXtDzkRfg6SQCUFUgI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:14"
+  },
+  {
+    "business_name": "Country Chicken Co Pragathi Nagar",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop, Meat wholesaler",
+    "pincode": "224225",
+    "phone_number": "+91 80961 10961",
+    "website": "http://www.countrychickenco.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No - G2, Plot No: 1361, Lakshmi Nilayam, Pragathi Nagar Rd, beside Bhasyam School, Pragathi Nagar, Kukatpally, Hyderabad, Telangana 500090",
+    "area": "Pragathi Nagar, Kukatpally",
+    "latitude": 17.521942,
+    "longitude": 78.3961583,
+    "place_id": "ChIJbTCoKeWRyzsRNonXJ6MNIgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTCoKeWRyzsRNonXJ6MNIgM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:14"
+  }
+]

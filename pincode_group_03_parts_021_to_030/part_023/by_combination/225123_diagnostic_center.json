@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divyanshi Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "225123",
+    "phone_number": "+91 98893 58974",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Faizabad Rd, near Eram School Rd, Barabanki, Uttar Pradesh 225001",
+    "area": "Subhash Nagar, Begum Gunj",
+    "latitude": 26.9261639,
+    "longitude": 81.19226549999999,
+    "place_id": "ChIJaeOzd0FgmTkRSm9KMLgE36c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeOzd0FgmTkRSm9KMLgE36c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:06"
+  },
+  {
+    "business_name": "Spark Imaging Solution",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "225123",
+    "phone_number": "+91 94546 74037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Somaiya Nagar, Barabanki, Uttar Pradesh 225123",
+    "area": "Somaiya Nagar",
+    "latitude": 26.951624199999998,
+    "longitude": 81.1919738,
+    "place_id": "ChIJLz97RPVhmTkRPV6fz4sl8wA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLz97RPVhmTkRPV6fz4sl8wA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:06"
+  }
+]

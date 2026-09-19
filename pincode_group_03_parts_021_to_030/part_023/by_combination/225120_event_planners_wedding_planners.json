@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANR Planners",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner",
+    "pincode": "225120",
+    "phone_number": "+91 99200 12253",
+    "website": "https://anrplanners.com/",
+    "rating": 4.9,
+    "reviews_count": 260,
+    "address": "5, B/129, Mittal Industrial Estate Rd, Sanjay Gandhi Nagar, Mittal Industrial Estate, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "Sanjay Gandhi Nagar, Mittal Industrial Estate, Marol, Andheri East",
+    "latitude": 19.1042907,
+    "longitude": 72.8820843,
+    "place_id": "ChIJFY3rbGzI5zsRyISvIbNIJYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFY3rbGzI5zsRyISvIbNIJYg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:03"
+  },
+  {
+    "business_name": "Doli Saja Ke Rrakhna Wedding Planners",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment, Event management company, Wedding service",
+    "pincode": "225120",
+    "phone_number": "+91 98190 57400",
+    "website": "http://www.dolisajakerakhna.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Doli Saja Ke Rrakhna Wedding Planners, 225120, India",
+    "area": "225120",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ3RXObRO75zsRXXmMdip5aCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RXObRO75zsRXXmMdip5aCs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:04"
+  }
+]

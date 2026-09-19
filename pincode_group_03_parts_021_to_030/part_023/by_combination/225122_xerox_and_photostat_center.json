@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "First Class Photostat",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "225122",
+    "phone_number": "+91 98101 76048",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 10,
+    "address": "Gulmohar Commercial Complex, C-, Captain Vijyant Thapar Marg, A Block, Sector 15, Noida, Uttar Pradesh 201301",
+    "area": "A Block, Sector 15",
+    "latitude": 28.583351699999998,
+    "longitude": 77.31213869999999,
+    "place_id": "ChIJf1dYrV_kDDkRR4XjuOWIYtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1dYrV_kDDkRR4XjuOWIYtA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:48:03"
+  },
+  {
+    "business_name": "Royal Photostat",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "225122",
+    "phone_number": "+91 94196 00193",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sir Syed Gate, University of Kashmir, Hazratbal Rd, Nagin Bagh, Srinagar, Jammu and Kashmir 191121",
+    "area": "Nagin Bagh",
+    "latitude": 34.1275261,
+    "longitude": 74.8363061,
+    "place_id": "ChIJ3YZyjPuF4TgRClonDMEsero",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YZyjPuF4TgRClonDMEsero",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:48:04"
+  }
+]

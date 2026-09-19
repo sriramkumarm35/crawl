@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SINGH BUS SERVICE (MAHAMAYA)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "225120",
+    "phone_number": "+91 81151 99957",
+    "website": "https://www.mahamayasinghbus.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "SINGH BUS SERVICE (MAHAMAYA), 225120, India",
+    "area": "225120",
+    "latitude": 25.346239999999998,
+    "longitude": 82.99306349999999,
+    "place_id": "ChIJN6pWRMwjo4gRxUi_ggK8wfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6pWRMwjo4gRxUi_ggK8wfM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:42"
+  },
+  {
+    "business_name": "R.V.N. Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service, Car rental agency, Minibus taxi service, Taxi service, Tour operator",
+    "pincode": "225120",
+    "phone_number": "+91 94506 37935",
+    "website": "https://rvntoursandtravel.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13 B.D.S Plaza Kanchan Vihari Marg Pragati Vihar Kalyanpur West, near Metro Hospital, Kalyanpur, Lucknow, Uttar Pradesh 226022",
+    "area": "Pragati Vihar, Kalyanpur",
+    "latitude": 26.902638399999997,
+    "longitude": 80.9730651,
+    "place_id": "ChIJ3ZbmLOxXmTkR2TDqieBKSZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZbmLOxXmTkR2TDqieBKSZ4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:42"
+  }
+]

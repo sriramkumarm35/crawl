@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dehati Meat",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "225003",
+    "phone_number": "+91 80902 12683",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4/254, Virat Khand Rd, Vijayant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijayant Khand, Gomti Nagar",
+    "latitude": 26.868852,
+    "longitude": 81.02515679999999,
+    "place_id": "ChIJVypZwpfjmzkRcZ2bmgRjMdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVypZwpfjmzkRcZ2bmgRjMdI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:26"
+  },
+  {
+    "business_name": "Laxman Jhatka Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "225003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RW62+MW2, Chander Nagar Market, Chander Nagar, Alambagh, Lucknow, Uttar Pradesh 226005",
+    "area": "Chander Nagar Market, Chander Nagar, Alambagh",
+    "latitude": 26.811648899999998,
+    "longitude": 80.9022778,
+    "place_id": "ChIJo_SKFj39mzkRhhfI9zUDwfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_SKFj39mzkRhhfI9zUDwfE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK & Sons Real Estate",
+    "search_category": "Property Developers",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "225120",
+    "phone_number": "+91 70074 93448",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kursi Rd, Lucknow, Kursi, Uttar Pradesh 225302",
+    "area": "225120",
+    "latitude": 27.0586892,
+    "longitude": 81.046587,
+    "place_id": "ChIJ8ysUuRZbmTkR7LrYHAXK2h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ysUuRZbmTkR7LrYHAXK2h4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:34"
+  },
+  {
+    "business_name": "Kshitij Green City",
+    "search_category": "Property Developers",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "225120",
+    "phone_number": "+91 80527 93753",
+    "website": "https://asrlands.com/",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "23CF+5X2, Baburi Gaon, Lucknow, Uttar Pradesh 225301",
+    "area": "225120",
+    "latitude": 27.0204375,
+    "longitude": 81.07493749999999,
+    "place_id": "ChIJFSTDI5JbmTkRASUaoDSItm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSTDI5JbmTkRASUaoDSItm0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:35"
+  }
+]

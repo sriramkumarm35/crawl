@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shardha Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224225",
+    "phone_number": "+91 93362 74713",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baurhwa, Uttar Pradesh 227814",
+    "area": "224225",
+    "latitude": 26.489517,
+    "longitude": 81.9113612,
+    "place_id": "ChIJs0Un7kBrmjkRJJEfZ2VDX38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0Un7kBrmjkRJJEfZ2VDX38",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:21"
+  },
+  {
+    "business_name": "Chats Over Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "224225",
+    "phone_number": "+91 99047 77323",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 221,
+    "address": "Advait Complex, 35/A, near Soham Terrace, Vastrapur, Ahmedabad, Gujarat 380054",
+    "area": "Vastrapur",
+    "latitude": 23.040931099999998,
+    "longitude": 72.5261455,
+    "place_id": "ChIJd2-J5T-FXjkRwoDuT8G3hAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2-J5T-FXjkRwoDuT8G3hAw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:23"
+  }
+]

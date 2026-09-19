@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "100 bed hospital sirauli gauspur barabanki",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "XFR8+XPJ, Sirauli, Gauspur, Sirauli, Uttar Pradesh 225207",
+    "area": "Sirauli",
+    "latitude": 26.992473999999998,
+    "longitude": 81.46676219999999,
+    "place_id": "ChIJV324HAB_mTkRSL-xTbOT4GM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV324HAB_mTkRSL-xTbOT4GM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:38"
+  },
+  {
+    "business_name": "Ankit Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "225119",
+    "phone_number": "+91 93350 80855",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Raj Kamal Rd, Behind Opium Office, Satyapremi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Satyapremi Nagar",
+    "latitude": 26.932569899999997,
+    "longitude": 81.1909763,
+    "place_id": "ChIJyaqaMVtgmTkRa_IlSC6wKmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaqaMVtgmTkRa_IlSC6wKmI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:39"
+  }
+]

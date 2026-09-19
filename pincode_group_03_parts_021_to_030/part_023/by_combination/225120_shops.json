@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Emporium",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "225120",
+    "phone_number": "+91 95598 60143",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "near gas agency, Ramnagar, Uttar Pradesh 225205",
+    "area": "225120",
+    "latitude": 27.0867833,
+    "longitude": 81.4018262,
+    "place_id": "ChIJKTZwc3J6mTkRyKBg-QWdhYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTZwc3J6mTkRyKBg-QWdhYk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:52"
+  },
+  {
+    "business_name": "Store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "225120",
+    "phone_number": "N/A",
+    "website": "https://www.sheelafoam.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5HR+XWH, Station Road, opposite Palika Bazar, Barabanki, Uttar Pradesh 225001",
+    "area": "Begum Gunj",
+    "latitude": 26.92994,
+    "longitude": 81.19236,
+    "place_id": "ChIJ-UkrXQZhmTkRn5UTW3lT_Gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UkrXQZhmTkRn5UTW3lT_Gk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:54"
+  }
+]

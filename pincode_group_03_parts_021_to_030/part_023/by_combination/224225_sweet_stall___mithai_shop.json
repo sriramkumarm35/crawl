@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishno Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "224225",
+    "phone_number": "+91 97935 93579",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bahu Rawan, Uttar Pradesh 227814",
+    "area": "224225",
+    "latitude": 26.4884983,
+    "longitude": 81.9178886,
+    "place_id": "ChIJAYU_rCVrmjkR6O-KedlKUt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYU_rCVrmjkR6O-KedlKUt0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:16"
+  },
+  {
+    "business_name": "Naman Sweets And Restaurant",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "224225",
+    "phone_number": "+91 84619 16318",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "28, Nizamuddin Rd, Bhawanidham Phase-1, Chhatrapati Nagar, Narela Shankri, Ayodhya Bypass, Bhopal, Madhya Pradesh 462041",
+    "area": "Bhawanidham Phase-1, Chhatrapati Nagar, Narela Shankri, Ayodhya Bypass",
+    "latitude": 23.2688128,
+    "longitude": 77.4683007,
+    "place_id": "ChIJkY8VO_hpfDkRN_o0bEyyNwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkY8VO_hpfDkRN_o0bEyyNwE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gorakhpur Handloom House",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "225119",
+    "phone_number": "+91 512 237 4804",
+    "website": "https://www.gorakhpurhandloomhouse.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "60/42, Biharilal Gupta Rd, Naya Ganj, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Naya Ganj, General Ganj",
+    "latitude": 26.4607654,
+    "longitude": 80.35407239999999,
+    "place_id": "ChIJOw0QhlpHnDkRcEiZ-ikMZbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOw0QhlpHnDkRcEiZ-ikMZbg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:35"
+  },
+  {
+    "business_name": "Apna Ghar Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler, Clothing store",
+    "pincode": "225119",
+    "phone_number": "+91 93075 55506",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop, 50/46, Naughara, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "Naughara, General Ganj",
+    "latitude": 26.462138,
+    "longitude": 80.3500083,
+    "place_id": "ChIJeY-77FtHnDkRZ6D1wBynczQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeY-77FtHnDkRZ6D1wBynczQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:35"
+  }
+]

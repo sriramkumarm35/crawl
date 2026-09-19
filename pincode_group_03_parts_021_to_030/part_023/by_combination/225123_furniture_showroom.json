@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BANWA FURNITURE HOUSE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "225123",
+    "phone_number": "+91 87990 22880",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W6J5+GMC, Satti Bazar Rd, Nabiganj, Barabanki, Uttar Pradesh 225001",
+    "area": "Nabiganj",
+    "latitude": 26.9313219,
+    "longitude": 81.20914839999999,
+    "place_id": "ChIJ2d7FM01gmTkRDb8gYnlKkM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2d7FM01gmTkRDb8gYnlKkM8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:30"
+  },
+  {
+    "business_name": "Faiz Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "225123",
+    "phone_number": "+91 63944 01134",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "56H6+6X9, Fatehpur - Mahmudabad - Bhagauli Rd, Tehsil Fateh Pur, Chakkajipur, Uttar Pradesh 225305",
+    "area": "225123",
+    "latitude": 27.178047199999998,
+    "longitude": 81.21248469999999,
+    "place_id": "ChIJK_q5bX5pmTkRlvxVajjueAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_q5bX5pmTkRlvxVajjueAw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:32"
+  }
+]

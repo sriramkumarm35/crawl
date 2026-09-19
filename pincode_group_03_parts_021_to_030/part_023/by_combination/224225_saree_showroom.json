@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaushal Traders",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "224225",
+    "phone_number": "+91 78977 82646",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaushal traders, Dharamganj Market, Dharam Ganj, Hardoiya, Uttar Pradesh 224225",
+    "area": "Dharam Ganj",
+    "latitude": 26.541643699999998,
+    "longitude": 81.93521659999999,
+    "place_id": "ChIJyTfnmpFrmjkRO3O4Qcx14yU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTfnmpFrmjkRO3O4Qcx14yU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:26"
+  },
+  {
+    "business_name": "Civil Services",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "224225",
+    "phone_number": "+91 76789 58241",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Car Driving Sindhaura, Sagr Patti, Uttar Pradesh 224208",
+    "area": "224225",
+    "latitude": 26.544443299999998,
+    "longitude": 81.9919527,
+    "place_id": "ChIJ6U-_uwRtmjkRmksBtT4sY3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6U-_uwRtmjkRmksBtT4sY3c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:28"
+  }
+]

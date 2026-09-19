@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Car Mall",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "224228",
+    "phone_number": "+91 98112 42588",
+    "website": "http://thecarmall.co.in/",
+    "rating": 4.3,
+    "reviews_count": 177,
+    "address": "17/10, Ground Floor, Old Rajinder Nagar, New Delhi-110008, Delhi, 110060",
+    "area": "Block 17, Rajinder Nagar",
+    "latitude": 28.639032,
+    "longitude": 77.1838446,
+    "place_id": "ChIJG3m3OaMCDTkR8GyIOAwfAHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3m3OaMCDTkR8GyIOAwfAHc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:31"
+  },
+  {
+    "business_name": "The Car Mall - All Used Cars Under One Roof",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Audi dealer, Auto insurance agency, BMW dealer, Car dealer, Car finance and loan company, Jaguar dealer, Land Rover dealer, Mercedes-Benz dealer, Volvo dealer",
+    "pincode": "224228",
+    "phone_number": "+91 98973 70008",
+    "website": "http://thecarmall.in/",
+    "rating": 4.1,
+    "reviews_count": 72,
+    "address": "68, Byepass road, NH 2, near Saket Mall, Gandhi Nagar, Agra, Uttar Pradesh 282002",
+    "area": "Sultan Ganj, Gandhi Nagar, Civil Lines",
+    "latitude": 27.2083788,
+    "longitude": 78.0125795,
+    "place_id": "ChIJszubZWd3dDkRpnFTmCnOCVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszubZWd3dDkRpnFTmCnOCVY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "225121",
+    "phone_number": "+91 94518 16932",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Bajar, Bhitariya, Ram Sanehi Ghat, Uttar Pradesh 225409",
+    "area": "Bhitariya",
+    "latitude": 26.802788999999997,
+    "longitude": 81.523994,
+    "place_id": "ChIJGTM3M7YsmjkRWRo69cVZW_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTM3M7YsmjkRWRo69cVZW_s",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:58"
+  },
+  {
+    "business_name": "Vijay Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "225121",
+    "phone_number": "+91 96517 87777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st floor, Patel guest house, Faizabad Rd, Barabanki, Uttar Pradesh 225001",
+    "area": "Ayodhya Nagar, Ganga Vihar Colny, Moharipur",
+    "latitude": 26.9269778,
+    "longitude": 81.2006206,
+    "place_id": "ChIJv9MqUb5hmTkRZfV07YzuG-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9MqUb5hmTkRZfV07YzuG-o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:00"
+  }
+]

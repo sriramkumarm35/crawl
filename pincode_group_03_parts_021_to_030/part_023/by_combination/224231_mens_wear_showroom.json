@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Style Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "224231",
+    "phone_number": "+91 94536 50344",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Bus Stop, Mahmud Pur Semari Bazar, Uttar Pradesh 228142",
+    "area": "224231",
+    "latitude": 26.361383,
+    "longitude": 82.2962668,
+    "place_id": "ChIJzbmpjXuDkDkREizrlZqaoYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbmpjXuDkDkREizrlZqaoYU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:41"
+  },
+  {
+    "business_name": "Ravinder Tiwari",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "224231",
+    "phone_number": "+91 73797 52137",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "123, Village- Adhanpur, Post- Madarbhari, Dist- Ambedkar Nagar, Uttar Pradesh 224132",
+    "area": "224231",
+    "latitude": 26.442532399999997,
+    "longitude": 82.3191217,
+    "place_id": "ChIJI5TM9xKbkDkRXj2bX_4GXWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5TM9xKbkDkRXj2bX_4GXWo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:24:42"
+  }
+]

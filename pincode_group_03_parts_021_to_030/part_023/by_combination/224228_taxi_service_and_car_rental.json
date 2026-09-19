@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car rental agency",
+    "pincode": "224228",
+    "phone_number": "+91 96960 00999",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Flat No-41, Brabone House, 6 Chaurangi Lane, Park street, Kolkata, West Bengal 700016",
+    "area": "Colootola, New Market Area, Dharmatala, Taltala",
+    "latitude": 22.556478,
+    "longitude": 88.35274199999999,
+    "place_id": "ChIJpfnaXQ93AjoR83DXwmCO_WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfnaXQ93AjoR83DXwmCO_WI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:34"
+  },
+  {
+    "business_name": "DAS CAB - Tour and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "224228",
+    "phone_number": "+91 96817 13174",
+    "website": "https://www.facebook.com/profile.php?id=100089094814671",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "85, Amalangshu Sen Rd, Shree Bhumi, Patipukur, Kolkata, South Dumdum, West Bengal 700048",
+    "area": "Shree Bhumi, Patipukur",
+    "latitude": 22.6033783,
+    "longitude": 88.3982359,
+    "place_id": "ChIJI5pjNpp1AjoRFn2GBma2icQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5pjNpp1AjoRFn2GBma2icQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bag factory",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "224229",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 6,
+    "address": "Chowk Nai Basti, Sadar Bazar, New Delhi, Delhi, 110006",
+    "area": "Chowk Nai Basti, Sadar Bazar",
+    "latitude": 28.6595001,
+    "longitude": 77.2034231,
+    "place_id": "ChIJu4g6rFj9DDkR8pIQQSuCzfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4g6rFj9DDkR8pIQQSuCzfM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:04"
+  },
+  {
+    "business_name": "UT Leather and Allied Products",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "224229",
+    "phone_number": "+91 91988 05478",
+    "website": "https://urbantuck.com/",
+    "rating": 5,
+    "reviews_count": 150,
+    "address": "Arazi no.7 Pokharpur, KDA Colony, Lal Bangla, J K Puri, Kanpur, Uttar Pradesh 208010",
+    "area": "KDA Colony, Lal Bangla, J K Puri",
+    "latitude": 26.432484799999997,
+    "longitude": 80.3869169,
+    "place_id": "ChIJa8TPusNBnDkRAHMqY5z4FwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8TPusNBnDkRAHMqY5z4FwI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:21:04"
+  }
+]

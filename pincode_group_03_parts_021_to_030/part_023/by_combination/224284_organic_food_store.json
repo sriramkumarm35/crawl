@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N B Organic Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "224284",
+    "phone_number": "+91 78178 16877",
+    "website": "https://nborganicmart.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Atharva Landmark, E 803, Chainpur, Krishnadham Tenement, Chandkheda, Ahmedabad, Ranip, Gujarat 382470",
+    "area": "Chainpur, Krishnadham Tenement, Chandkheda",
+    "latitude": 23.1045706,
+    "longitude": 72.5580418,
+    "place_id": "ChIJAwCyFQCDXjkRN8us4gwgcb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwCyFQCDXjkRN8us4gwgcb0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:41"
+  },
+  {
+    "business_name": "Dhema vaishya",
+    "search_category": "Organic Food Store",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "224284",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ghurehata, Uttar Pradesh 224208",
+    "area": "224284",
+    "latitude": 26.5981953,
+    "longitude": 82.03326489999999,
+    "place_id": "ChIJoYqLW-kTmjkRhwYp4kPtCbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYqLW-kTmjkRhwYp4kPtCbE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:41"
+  }
+]

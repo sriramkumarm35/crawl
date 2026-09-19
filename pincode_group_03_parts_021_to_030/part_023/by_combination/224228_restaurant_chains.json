@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chutney Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "224228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Chutney Restaurant, Hotel Grape City, Nashik - Pune Hwy, DattaMandir, Signal, Nashik, Maharashtra 422101",
+    "area": "DattaMandir, Signal",
+    "latitude": 19.957019,
+    "longitude": 73.8339518,
+    "place_id": "ChIJdVJvGQCV3TsRXDk5WNDuo-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVJvGQCV3TsRXDk5WNDuo-o",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:08"
+  },
+  {
+    "business_name": "Epic Pizza Cafe",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "224228",
+    "phone_number": "+91 99991 19571",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 214,
+    "address": "B-75, near mount columbus school, Central Market, Block D, Doctor Ambedkar Nagar, Madangir, New Delhi, Delhi 110062",
+    "area": "Central Market, Block D, Doctor Ambedkar Nagar, Madangir",
+    "latitude": 28.519571199999998,
+    "longitude": 77.23484959999999,
+    "place_id": "ChIJo4inxgLhDDkRyVdY5W1FhqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4inxgLhDDkRyVdY5W1FhqM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grand Bike Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "224227",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "CGPF+27Q, Main Road, near Patel Nagar, Bauddh Vihar Colony, Patel Nagar, Akbarpur, Rasulabad Hospatti, Uttar Pradesh 224122",
+    "area": "Bauddh Vihar Colony, Patel Nagar",
+    "latitude": 26.435088,
+    "longitude": 82.523237,
+    "place_id": "ChIJMSBdQ4uSkDkR1XMDHL85NFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSBdQ4uSkDkR1XMDHL85NFw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:17:44"
+  },
+  {
+    "business_name": "Vivek Cycle Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "224227",
+    "phone_number": "+91 96167 38330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vivek Cycle Service, NTPC Bypass Road, Asopur, Tanda, Uttar Pradesh 224190",
+    "area": "224227",
+    "latitude": 26.540003799999997,
+    "longitude": 82.6475001,
+    "place_id": "ChIJlxy_8R_rkDkRRBJmeDuO1Sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxy_8R_rkDkRRBJmeDuO1Sw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:17:45"
+  }
+]

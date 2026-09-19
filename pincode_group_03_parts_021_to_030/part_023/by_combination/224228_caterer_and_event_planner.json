@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Fiesta Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Catering food and drink supplier, Caterer, Food and beverage consultant, Marriage celebrant, Wedding buffet, Wedding planner, Wedding service",
+    "pincode": "224228",
+    "phone_number": "+91 731 460 0730",
+    "website": "https://lafiestacatering.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "36/62, Jyotish Roy Rd, Ajoy Nagar, Buroshibtalla, New Alipore, Kolkata, West Bengal 700053",
+    "area": "Ajoy Nagar, Buroshibtalla, New Alipore",
+    "latitude": 22.4999279,
+    "longitude": 88.3360395,
+    "place_id": "ChIJszJo761wAjoR0y6-OxT3oBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszJo761wAjoR0y6-OxT3oBs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:19:59"
+  },
+  {
+    "business_name": "NANDI Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "224228",
+    "phone_number": "+91 99713 49444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 56,
+    "address": "Shop No.212, Central Market, Opp. Indian Overseas Bank, near Delhi Juice Corner, Faridabad, Haryana 121001",
+    "area": "Block K, New Industrial Township 1, New Industrial Township",
+    "latitude": 28.381888399999998,
+    "longitude": 77.3023223,
+    "place_id": "ChIJDe7H4DbdDDkR-HZ3lSyYvc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDe7H4DbdDDkR-HZ3lSyYvc4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:00"
+  }
+]

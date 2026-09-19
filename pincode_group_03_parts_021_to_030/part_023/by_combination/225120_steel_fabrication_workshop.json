@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANDS Fabrication",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "225120",
+    "phone_number": "+91 77159 78888",
+    "website": "http://www.andsfabrication.com/",
+    "rating": 4.9,
+    "reviews_count": 102,
+    "address": "Mahatma Gandhi Rd, opp. national hotel, Hindustan Naka, Sai Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Hindustan Naka, Sai Nagar, Kandivali West",
+    "latitude": 19.2078942,
+    "longitude": 72.8307189,
+    "place_id": "ChIJzeTTYsOo5zsRmIrlgkCBiKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeTTYsOo5zsRmIrlgkCBiKM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:35"
+  },
+  {
+    "business_name": "Shivram Fabricators Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "225120",
+    "phone_number": "+91 90444 49301",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zebra Park, Palhari, Chauraha, Zaidpur Rd, Zaidpur, Uttar Pradesh 225001",
+    "area": "225120",
+    "latitude": 26.917010299999998,
+    "longitude": 81.2246883,
+    "place_id": "ChIJ75no8MNhmTkRsdIAnCBcwrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75no8MNhmTkRsdIAnCBcwrc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:44:37"
+  }
+]

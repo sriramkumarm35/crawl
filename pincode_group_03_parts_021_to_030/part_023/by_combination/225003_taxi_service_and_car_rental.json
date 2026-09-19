@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelkamal driver service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "225003",
+    "phone_number": "+91 73554 39453",
+    "website": "http://neelkamaldriverservice.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tedhi Pulia Ring Rd, Adarsh Nagar, Lucknow, Uttar Pradesh 226022",
+    "area": "Adarsh Nagar",
+    "latitude": 26.8969469,
+    "longitude": 80.96905129999999,
+    "place_id": "ChIJEWhFp_hXmTkRFglTatKk8oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWhFp_hXmTkRFglTatKk8oo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:40:00"
+  },
+  {
+    "business_name": "Lucknow Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "225003",
+    "phone_number": "+91 84190 00011",
+    "website": "https://www.lucknowcabs.com/",
+    "rating": 4.7,
+    "reviews_count": 82,
+    "address": "Shop No M-36, Apna Bazaar, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8608515,
+    "longitude": 81.00960789999999,
+    "place_id": "ChIJb5wYHJQ6A6ERYya85pJWkn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5wYHJQ6A6ERYya85pJWkn0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:40:02"
+  }
+]

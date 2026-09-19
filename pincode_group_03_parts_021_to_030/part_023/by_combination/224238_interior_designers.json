@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Interio",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "224238",
+    "phone_number": "+91 91759 38345",
+    "website": "https://www.studiointerio.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Survey no 573. Flat, Saniya Heritage, Reshma Society, plot no 27, Parshwanath Nagar, Bibwewadi, Pune, Maharashtra 411037",
+    "area": "Parshwanath Nagar, Bibwewadi",
+    "latitude": 18.480228,
+    "longitude": 73.8627856,
+    "place_id": "ChIJYQZA1TXrwjsRvDIkl4MemQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQZA1TXrwjsRvDIkl4MemQM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:32:43"
+  },
+  {
+    "business_name": "Earthborne by Dezign",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "224238",
+    "phone_number": "+91 99205 33066",
+    "website": "https://www.earthbornebydezign.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Earthborne by Dezign, 224238, India",
+    "area": "224238",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJT3y2yoy3KiERLyUIsAtFVGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3y2yoy3KiERLyUIsAtFVGU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:32:43"
+  }
+]

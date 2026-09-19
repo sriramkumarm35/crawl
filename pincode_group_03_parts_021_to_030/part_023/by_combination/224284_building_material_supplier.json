@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Gupta Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Store",
+    "pincode": "224284",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Barun bazar, Faizabad, Uttar Pradesh 224127",
+    "area": "224284",
+    "latitude": 26.686224199999998,
+    "longitude": 82.0360752,
+    "place_id": "ChIJ1_z3peYRmjkRU3hMC5Xan90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_z3peYRmjkRU3hMC5Xan90",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:27"
+  },
+  {
+    "business_name": "Chaurasiya hardware store",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "224284",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H2R9+QV2, Rewati Ganj- Sahab Ganj Road, प्रभात नगर, Sariyawan, Baswar Buzurg, Uttar Pradesh 224208",
+    "area": "प्रभात नगर",
+    "latitude": 26.5918791,
+    "longitude": 82.0196316,
+    "place_id": "ChIJPebUBgATmjkRxDvyYoALLuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPebUBgATmjkRxDvyYoALLuo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:34:27"
+  }
+]

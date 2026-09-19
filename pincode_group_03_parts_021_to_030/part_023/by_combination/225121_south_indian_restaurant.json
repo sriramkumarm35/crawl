@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosa king",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "225121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamla Nehru Park, Ram Krishna Nagar, Jawahar Nagar, Begum Gunj, Kanpur, Barabanki, Uttar Pradesh 225001",
+    "area": "Ram Krishna Nagar, Jawahar Nagar, Begum Gunj",
+    "latitude": 26.9298711,
+    "longitude": 81.1905998,
+    "place_id": "ChIJ7QjkMwBhmTkR9x39wLezPg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QjkMwBhmTkR9x39wLezPg8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:06"
+  },
+  {
+    "business_name": "Laxman",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "225121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Gandhi Nagar",
+    "latitude": 26.9400001,
+    "longitude": 81.19,
+    "place_id": "ChIJ95MKvV5gmTkReNAOTTMClHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95MKvV5gmTkReNAOTTMClHo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "224238",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "131, Dadri Main Rd, opposite pillar no, Bhangel, Sector 102, Salarpur Khadar, Salarpur, Noida, Uttar Pradesh 201304",
+    "area": "Bhangel, Sector 102, Salarpur Khadar, Salarpur",
+    "latitude": 28.5370477,
+    "longitude": 77.3906191,
+    "place_id": "ChIJi0_yEADpDDkRV1gpg5leC4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0_yEADpDDkRV1gpg5leC4c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:24"
+  },
+  {
+    "business_name": "MG Organics Pvt Ltd",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "224238",
+    "phone_number": "+91 97185 79800",
+    "website": "https://www.mgorganics.com/",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "Noida office: Shop No. 35, Red Light, Durga Market, Bhangel, Sector - 106, Sector - 19 A, Salarpur, Noida, Uttar Pradesh 201304",
+    "area": "Bhangel, Sector - 106, Sector - 19 A, Salarpur",
+    "latitude": 28.5355048,
+    "longitude": 77.3914846,
+    "place_id": "ChIJb3kYN67oDDkRbG71fQDU-RQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3kYN67oDDkRbG71fQDU-RQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:24"
+  }
+]

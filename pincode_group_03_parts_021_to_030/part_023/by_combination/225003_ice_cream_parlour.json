@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A2Y shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "225003",
+    "phone_number": "+91 94536 52431",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "W599+C7Q, Mayur Vihar, Barabanki, Uttar Pradesh 225003",
+    "area": "Mayur Vihar",
+    "latitude": 26.9185773,
+    "longitude": 81.1682313,
+    "place_id": "ChIJK_fPZQBhmTkRfPCUkU055yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_fPZQBhmTkRfPCUkU055yA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:33"
+  },
+  {
+    "business_name": "मनीराम स्वीट्स कारखाना",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "225003",
+    "phone_number": "+91 80528 51663",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "W43C+HC3, Safedabad, Barabanki, Uttar Pradesh 225003",
+    "area": "Safedabad",
+    "latitude": 26.9039,
+    "longitude": 81.1210603,
+    "place_id": "ChIJJ8y0vpJfmTkR1aVLcD8MYWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8y0vpJfmTkR1aVLcD8MYWM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vine Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "225003",
+    "phone_number": "+91 84679 66792",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Safdargung Safdargung, Barabanki, Gadia, Uttar Pradesh 225003",
+    "area": "225003",
+    "latitude": 26.9102367,
+    "longitude": 81.1412685,
+    "place_id": "ChIJedQEgIVfmTkRxsCe88Skw40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedQEgIVfmTkRxsCe88Skw40",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:37"
+  },
+  {
+    "business_name": "Rahul Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "225003",
+    "phone_number": "+91 63920 91994",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3, Faizabad Rd, Barabanki, Jinholi, Uttar Pradesh 225001",
+    "area": "225003",
+    "latitude": 26.9023669,
+    "longitude": 81.1718212,
+    "place_id": "ChIJEbjVQRFhmTkRTWSh01L0p3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbjVQRFhmTkRTWSh01L0p3M",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:39:37"
+  }
+]

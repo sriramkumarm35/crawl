@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "224235",
+    "phone_number": "+91 85544 70382",
+    "website": "https://stores.metroshoes.com/shoe-shop-court-road-rahamat-nagar-anantapur",
+    "rating": 4.8,
+    "reviews_count": 146,
+    "address": "Ground & First Floor, Door No. 7, 201, Court Rd, Rahamat Nagar, Anantapur, Andhra Pradesh 515001",
+    "area": "Adimurthy Nagar, Rahamat Nagar",
+    "latitude": 14.680733,
+    "longitude": 77.59403999999999,
+    "place_id": "ChIJQ9ifTP5LsTsRlt1u3jcZilk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9ifTP5LsTsRlt1u3jcZilk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:30:20"
+  },
+  {
+    "business_name": "Suvidha Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "224235",
+    "phone_number": "+91 90225 87773",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 15,
+    "address": "176, Jaitala Rd, Surve Nagar, Trimurti Nagar, Nagpur, Maharashtra 440022",
+    "area": "Surve Nagar, Trimurti Nagar",
+    "latitude": 21.116681999999997,
+    "longitude": 79.0332351,
+    "place_id": "ChIJ0ZOayfe_1DsRzM86-7NsdJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZOayfe_1DsRzM86-7NsdJw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:30:20"
+  }
+]

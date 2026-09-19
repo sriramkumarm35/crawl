@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rawat Chicken corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "224234",
+    "phone_number": "+91 89799 62842",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "833X+P5X, Raipur, Dehradun, Uttarakhand 248008",
+    "area": "Raipur",
+    "latitude": 30.304350399999997,
+    "longitude": 78.0979905,
+    "place_id": "ChIJKz6fuUkpCTkRkRP4K2qQgZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKz6fuUkpCTkRkRP4K2qQgZA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:24"
+  },
+  {
+    "business_name": "CHATKARO By Jay Jalaram Snacks & Fastfood",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "224234",
+    "phone_number": "+91 97278 78977",
+    "website": "http://www.chatkarofood.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sardar Patel Marg, opp. Sardar Hospital, Patidarjin, Bardoli, Gujarat 394601",
+    "area": "Patidarjin",
+    "latitude": 21.129801999999998,
+    "longitude": 73.106883,
+    "place_id": "ChIJpRE383Nn4DsR3JJiDUfsJEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRE383Nn4DsR3JJiDUfsJEA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:24"
+  }
+]

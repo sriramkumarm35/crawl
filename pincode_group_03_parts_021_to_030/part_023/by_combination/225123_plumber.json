@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradeep plumber& Electrician",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrician",
+    "pincode": "225123",
+    "phone_number": "+91 78700 23745",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Chhatarpur - Japla Rd, Ram Bigha, Japla, Jharkhand 822116",
+    "area": "Ram Bigha",
+    "latitude": 24.5252598,
+    "longitude": 84.0045399,
+    "place_id": "ChIJ0_i0zndHjDkRoNe_G5Y0CXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_i0zndHjDkRoNe_G5Y0CXE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:27"
+  },
+  {
+    "business_name": "Khushboo santry and hardware",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "225123",
+    "phone_number": "+91 83406 22939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Engineering road, Madan Mohan Rd, chowk, pach, Medininagar, Jharkhand 822101",
+    "area": "chowk",
+    "latitude": 24.039605599999998,
+    "longitude": 84.06149049999999,
+    "place_id": "ChIJaWlWjFl3jDkRS0ZncXF7OCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWlWjFl3jDkRS0ZncXF7OCE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:49:27"
+  }
+]

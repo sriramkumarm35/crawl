@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer Swadist Chicken Corner",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop",
+    "pincode": "224235",
+    "phone_number": "+91 99103 01407",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No.22/481,Trilokpuri Chowk,Kanya Vidhyalaya,, Part 2, Trilokpuri, New Delhi, Delhi 110091",
+    "area": "Block 21, Part 2, Trilokpuri",
+    "latitude": 28.6055946,
+    "longitude": 77.3065757,
+    "place_id": "ChIJBWUQVpTkDDkR8Vx4weO9shs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWUQVpTkDDkR8Vx4weO9shs",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:30:04"
+  },
+  {
+    "business_name": "standard fresh chicken & meat shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "224235",
+    "phone_number": "+91 11 4564 0205",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 49,
+    "address": "shop no.11 ,purvanchal plaza.mayur vihar, ph 2, Pocket B, Mayur Vihar, Delhi, 110091",
+    "area": "Pocket B, Mayur Vihar",
+    "latitude": 28.619828199999997,
+    "longitude": 77.3013374,
+    "place_id": "ChIJ17YE3SjlDDkRy_Mf8Z5DGqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17YE3SjlDDkRy_Mf8Z5DGqM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:30:04"
+  }
+]

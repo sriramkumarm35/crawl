@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshita beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "224234",
+    "phone_number": "+91 91107 09936",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhitaura, Uttar Pradesh 224234",
+    "area": "224234",
+    "latitude": 26.621277199999998,
+    "longitude": 82.4433025,
+    "place_id": "ChIJA5i4zSG9kDkRa3jK_PTe3YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5i4zSG9kDkRa3jK_PTe3YU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:29:04"
+  },
+  {
+    "business_name": "Pari Beauty Parlour &Mobiles",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "224234",
+    "phone_number": "+91 92199 01919",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shastri Sadan, Shastri Nagar, Bandanpur, Birshah Pur, Uttar Pradesh 224141",
+    "area": "Shastri Nagar",
+    "latitude": 26.5965356,
+    "longitude": 82.4184207,
+    "place_id": "ChIJQYdDQyy9kDkRZlHmDyOCAj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYdDQyy9kDkRZlHmDyOCAj4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:29:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aayat Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224235",
+    "phone_number": "+91 97681 65888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 56,
+    "address": "Shop No 7/8, Girnar Chs, Plot No C 10, Diva Nagar Rd, near D mart, Sector No 9, Airoli, Navi Mumbai, Maharashtra 400708",
+    "area": "Sector No 9, Airoli",
+    "latitude": 19.144782799999998,
+    "longitude": 72.989054,
+    "place_id": "ChIJf5s6dwGR5zsRzZDRcNJjdfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5s6dwGR5zsRzZDRcNJjdfU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:30:41"
+  },
+  {
+    "business_name": "The Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "224235",
+    "phone_number": "+91 86005 54400",
+    "website": "https://thecyclesstore.in/#home",
+    "rating": 4.5,
+    "reviews_count": 141,
+    "address": "Gupta House, Commercial Complex, Jaitala Rd, opposite Aditya Angha Bank, Prasad Nagar, Nagpur, Maharashtra 440022",
+    "area": "Prasad Nagar",
+    "latitude": 21.1159599,
+    "longitude": 79.0315044,
+    "place_id": "ChIJJ3Uzfsa_1DsRzxxF8rMN6b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3Uzfsa_1DsRzxxF8rMN6b0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:30:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "99 City Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "225120",
+    "phone_number": "+91 89418 08081",
+    "website": "https://99citycabs.com/booking/aligarh-taxi-service",
+    "rating": 4.8,
+    "reviews_count": 40,
+    "address": "Pratibha Colony Road, Phase 2, Mangal Vihar Colony, Bannadevi, Aligarh, Uttar Pradesh 202001",
+    "area": "Phase 2, Mangal Vihar Colony, Bannadevi",
+    "latitude": 27.8921349,
+    "longitude": 78.0530498,
+    "place_id": "ChIJuydM6qildDkR2EfsCYFEqGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuydM6qildDkR2EfsCYFEqGY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:43"
+  },
+  {
+    "business_name": "PERFECT CAB AND TAXI SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bus tour agency, Car leasing service, Car rental agency, Tour agency, Transportation service, Travel agency",
+    "pincode": "225120",
+    "phone_number": "+91 94529 80475",
+    "website": "https://perfect-cab-and.grexa.site/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "No 543, National Highway, 91, GT Rd, Saraimeera, Kannauj, Uttar Pradesh 209727",
+    "area": "Saraimeera",
+    "latitude": 27.033944299999998,
+    "longitude": 79.9182441,
+    "place_id": "ChIJVUoaL2RvnjkRH_lxXR1pOXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUoaL2RvnjkRH_lxXR1pOXU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:43"
+  }
+]

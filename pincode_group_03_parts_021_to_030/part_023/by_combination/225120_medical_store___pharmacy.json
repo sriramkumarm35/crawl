@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shan medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Badosarai, Uttar Pradesh 225207",
+    "area": "225120",
+    "latitude": 27.0146046,
+    "longitude": 81.4622504,
+    "place_id": "ChIJ9VQBDS55mTkRxyk-AnQ7CdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VQBDS55mTkRxyk-AnQ7CdE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:25"
+  },
+  {
+    "business_name": "Warsi Medical Store Masauli",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225120",
+    "phone_number": "+91 70079 03684",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Bhooliganj, Masauli, Uttar Pradesh 225204",
+    "area": "Bhooliganj",
+    "latitude": 26.979440699999998,
+    "longitude": 81.32211819999999,
+    "place_id": "ChIJxdaZ30BjmTkRv0ZdpXqK-rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdaZ30BjmTkRv0ZdpXqK-rY",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:25"
+  }
+]

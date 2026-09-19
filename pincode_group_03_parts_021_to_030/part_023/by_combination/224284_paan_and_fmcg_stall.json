@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family paan parlour",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "224284",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hariom Heritage, Sector 21, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Sector 21, Kharghar",
+    "latitude": 19.048427,
+    "longitude": 73.0649802,
+    "place_id": "ChIJ5dUSLQDD5zsRhLs7ZYILjJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dUSLQDD5zsRhLs7ZYILjJk",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:49"
+  },
+  {
+    "business_name": "Pappu Pan",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "224284",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "9JHX+R5G, Unnamed Road,, Balgi, Chhattisgarh 495455",
+    "area": "224284",
+    "latitude": 22.3795713,
+    "longitude": 82.6479665,
+    "place_id": "ChIJ50jdI-CLJzoRou_9rONzfIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50jdI-CLJzoRou_9rONzfIo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:49"
+  }
+]

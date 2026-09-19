@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BANDI KA CHAI",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "224225",
+    "phone_number": "+91 83090 88838",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Srinidhi pg 3, DLF Rd, APHB Colony, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "APHB Colony, Jayabheri Enclave, Gachibowli",
+    "latitude": 17.4487767,
+    "longitude": 78.35742719999999,
+    "place_id": "ChIJ374XVzaTyzsR1KymDR9FbU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ374XVzaTyzsR1KymDR9FbU0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:19"
+  },
+  {
+    "business_name": "Karnan Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "224225",
+    "phone_number": "+91 97513 51411",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 377,
+    "address": "MDR532, Mandalakkottai, Orathanadu, Tamil Nadu 614625",
+    "area": "224225",
+    "latitude": 10.6293714,
+    "longitude": 79.25218249999999,
+    "place_id": "ChIJK57A8s6xqjsRGLFmbP1ESzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK57A8s6xqjsRGLFmbP1ESzI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:20"
+  }
+]

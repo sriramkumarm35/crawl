@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cherry tree restaurant hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "225121",
+    "phone_number": "+91 63068 08182",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 19,
+    "address": "W78V+9F8, Lakshvar Vajaha, Uttar Pradesh 225412",
+    "area": "225121",
+    "latitude": 26.916017099999998,
+    "longitude": 81.29362429999999,
+    "place_id": "ChIJAZ6_fgBjmTkRbTAZncata-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZ6_fgBjmTkRbTAZncata-4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:01"
+  },
+  {
+    "business_name": "NARAYAN BHOJNALAYA pure vegetarian",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant",
+    "pincode": "225121",
+    "phone_number": "+91 73552 48304",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 58,
+    "address": "Munshiganj, near BANK OF BARODA, Tehsil Fateh Pur, Uttar Pradesh 225305",
+    "area": "225121",
+    "latitude": 27.172398899999997,
+    "longitude": 81.20886209999999,
+    "place_id": "ChIJw_tm8MVpmTkRMOm51ph3li8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_tm8MVpmTkRMOm51ph3li8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:01"
+  }
+]

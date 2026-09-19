@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CI SQUARE",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "224232",
+    "phone_number": "N/A",
+    "website": "http://www.cibuilders.in/",
+    "rating": 4.1,
+    "reviews_count": 638,
+    "address": "G 18, Danish Kunj Kolar Rd, Danish Kunj, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Danish Kunj, Kolar Rd",
+    "latitude": 23.1723009,
+    "longitude": 77.41703199999999,
+    "place_id": "ChIJ-e4sgJZDfDkR8q0NlUvbgeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-e4sgJZDfDkR8q0NlUvbgeA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:08"
+  },
+  {
+    "business_name": "Business Towers",
+    "search_category": "Commercial Complex",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "224232",
+    "phone_number": "N/A",
+    "website": "http://www.keiip.in/",
+    "rating": 4.2,
+    "reviews_count": 122,
+    "address": "7th Floor, 206, AJC Bose Rd, Park Circus, Park Street area, Kolkata, West Bengal 700017",
+    "area": "Park Circus, Park Street area",
+    "latitude": 22.544531,
+    "longitude": 88.36101699999999,
+    "place_id": "ChIJa0WK2x13AjoREaILwQ5u5Ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa0WK2x13AjoREaILwQ5u5Ug",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:28:08"
+  }
+]

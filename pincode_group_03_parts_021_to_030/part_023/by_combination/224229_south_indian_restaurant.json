@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Telangana Spice Kitchen",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Bar & grill, Lounge bar",
+    "pincode": "224229",
+    "phone_number": "+91 97335 52222",
+    "website": "https://telanganaspicekitchen.com/",
+    "rating": 4.1,
+    "reviews_count": 3929,
+    "address": "Fourth floor, CVK Park Square, above Aptronix store, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4419906,
+    "longitude": 78.4898687,
+    "place_id": "ChIJSTvFupubyzsRfWbxmT6BgHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTvFupubyzsRfWbxmT6BgHE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:56"
+  },
+  {
+    "business_name": "Black Pepper Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Bar & grill, Catering food and drink supplier, Caterer, Chinese restaurant, Meal delivery, Mughlai restaurant, Non Vegetarian Restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "224229",
+    "phone_number": "+91 99970 00909",
+    "website": "https://blaackpepperr.in/",
+    "rating": 4.6,
+    "reviews_count": 7418,
+    "address": "3, Rajpur Rd, Ashtley Hall, Irigation Colony, Karanpur, Dehradun, Uttarakhand 248001",
+    "area": "Ashtley Hall, Irigation Colony, Karanpur",
+    "latitude": 30.3278581,
+    "longitude": 78.04609289999999,
+    "place_id": "ChIJ-UV74NMpCTkRAgzJWx20myE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UV74NMpCTkRAgzJWx20myE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:20:56"
+  }
+]

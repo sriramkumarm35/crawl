@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Healthcare Services",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant, Furnished apartment building, Hotel, Marketing consultant, Tour operator, Translation service",
+    "pincode": "224225",
+    "phone_number": "+91 99897 77863",
+    "website": "https://besthealthcareservices.co.uk/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "Flat No:- 401, Humayun Nagar Rd, adj. Crescent Hospital, Shastri Nagar Colony, Mehdipatnam, Hyderabad, Telangana 500006",
+    "area": "Shastri Nagar Colony, Mehdipatnam",
+    "latitude": 17.3985002,
+    "longitude": 78.4460541,
+    "place_id": "ChIJQaB8mhaXyzsRqpSnVMT_2l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaB8mhaXyzsRqpSnVMT_2l0",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:47"
+  },
+  {
+    "business_name": "Healthcare Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Doctor",
+    "pincode": "224225",
+    "phone_number": "+91 98242 75460",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Motinagar-3, Ayodhya Twp, Tarsali, Vadodara, Gujarat 390009",
+    "area": "Motinagar-3, Ayodhya Township, Tarsali",
+    "latitude": 22.250694,
+    "longitude": 73.2108324,
+    "place_id": "ChIJGUdmwxjFXzkR_ndEUjVTMpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUdmwxjFXzkR_ndEUjVTMpE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:47"
+  }
+]

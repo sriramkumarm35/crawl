@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CALCUTTA CYCLE COMPANY",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "224230",
+    "phone_number": "+91 70074 61892",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QPVH+5PP, Gandhi Nagar Rd, Maharikhanwa, Gandhi Nagar, Basti, Uttar Pradesh 272001",
+    "area": "Maharikhanwa, Gandhi Nagar",
+    "latitude": 26.792962199999998,
+    "longitude": 82.7293243,
+    "place_id": "ChIJt06BqlbFkDkRA8BloOCsVNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt06BqlbFkDkRA8BloOCsVNI",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:14"
+  },
+  {
+    "business_name": "Sanjeev cycle repairing centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "224230",
+    "phone_number": "+91 63874 02021",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bhadkhin, Uttar Pradesh 222205",
+    "area": "224230",
+    "latitude": 25.434054999999997,
+    "longitude": 82.6474683,
+    "place_id": "ChIJN8mpWoPfjzkR3As7rW0UXIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8mpWoPfjzkR3As7rW0UXIc",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:23:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjeet tour&travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "225121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V6JW+F3G, Vijay nagar, Kamravan, Uttar Pradesh 225001",
+    "area": "Vijay nagar",
+    "latitude": 26.8811875,
+    "longitude": 81.2451875,
+    "place_id": "ChIJF67_fgDfmzkR5T0RHeLmyL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF67_fgDfmzkR5T0RHeLmyL4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:34"
+  },
+  {
+    "business_name": "Umrah Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "225121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sara Complex, Station Rd, near Railway, Preet Vihar Colony, Civil Lines, Barabanki, Uttar Pradesh 225001",
+    "area": "Preet Vihar Colony, Civil Lines",
+    "latitude": 26.9332264,
+    "longitude": 81.1798614,
+    "place_id": "ChIJQ4u_TwBhmTkRVXhB-rz1Jkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4u_TwBhmTkRVXhB-rz1Jkg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:45:36"
+  }
+]

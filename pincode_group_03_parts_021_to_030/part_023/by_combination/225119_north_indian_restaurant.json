@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BOMBAY DHABA GANGAGANJ",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 137,
+    "address": "NH731, near GANGAGANJ, Salempur, Uttar Pradesh 226501",
+    "area": "225119",
+    "latitude": 26.7295742,
+    "longitude": 81.18916829999999,
+    "place_id": "ChIJyw7ahkXdmzkRn7MhOBtHrJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyw7ahkXdmzkRn7MhOBtHrJo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:23"
+  },
+  {
+    "business_name": "Roti Tadka Aur Pakwan",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "225119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "K D Resort, Shop No 20, Gomti Market, Bithoor, Road, beside Capital O, Mandhana, Kanpur, Uttar Pradesh 209217",
+    "area": "225119",
+    "latitude": 26.5616341,
+    "longitude": 80.2310001,
+    "place_id": "ChIJP48ymxQxnDkRqpamGpAmlKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP48ymxQxnDkRqpamGpAmlKU",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:41:25"
+  }
+]

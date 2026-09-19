@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Tie Consultancy",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "225121",
+    "phone_number": "+91 80902 08755",
+    "website": "http://www.whitetieconsultancy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "White Tie Consultancy, 225121, India",
+    "area": "225121",
+    "latitude": 20.8674948,
+    "longitude": 80.6183267,
+    "place_id": "ChIJs51VnslhmTkR6F9VGSAUEfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs51VnslhmTkR6F9VGSAUEfA",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:46:36"
+  },
+  {
+    "business_name": "Photon Search Marketing",
+    "search_category": "SEO Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "225121",
+    "phone_number": "N/A",
+    "website": "https://www.photonsearchmarketing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Photon Search Marketing, 225121, India",
+    "area": "225121",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ8dtrSpZhmTkRX8Q4aC0aN6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dtrSpZhmTkRX8Q4aC0aN6c",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:46:36"
+  }
+]

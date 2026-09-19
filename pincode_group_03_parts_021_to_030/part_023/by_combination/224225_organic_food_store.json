@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhey Fruits Products",
+    "search_category": "Organic Food Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "224225",
+    "phone_number": "+91 94155 83227",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "JW2P+5R5, Kadanpur, Uttar Pradesh 224164",
+    "area": "224225",
+    "latitude": 26.600394599999998,
+    "longitude": 81.9371197,
+    "place_id": "ChIJmafX5poUmjkRa_E5v8BWCVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmafX5poUmjkRa_E5v8BWCVw",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:10"
+  },
+  {
+    "business_name": "Uyir Organic Farmers Market, Chennai Mylapore",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "224225",
+    "phone_number": "+91 78259 81144",
+    "website": "https://uyirorganic.farm/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3rd St, East Abiramapuram, Bhaskarapuram, Abiramapuram, Chennai, Tamil Nadu 600004",
+    "area": "East Abiramapuram, Bhaskarapuram, Abiramapuram",
+    "latitude": 13.0337459,
+    "longitude": 80.2634243,
+    "place_id": "ChIJf2aUwiVnUjoRkzobBEPyUL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2aUwiVnUjoRkzobBEPyUL8",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:15:12"
+  }
+]

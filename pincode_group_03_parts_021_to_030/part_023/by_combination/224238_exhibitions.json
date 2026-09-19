@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sindhoor Convention Center",
+    "search_category": "Exhibitions",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "224238",
+    "phone_number": "+91 80 2665 4575",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "75, 15th Cross Rd, Gangadhar Nagar, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Gangadhar Nagar, 1st Phase, J. P. Nagar",
+    "latitude": 12.9067382,
+    "longitude": 77.57561799999999,
+    "place_id": "ChIJlafBBm8VrjsRVbansUlZsBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlafBBm8VrjsRVbansUlZsBM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:32"
+  },
+  {
+    "business_name": "DelhiEvents.com",
+    "search_category": "Exhibitions",
+    "primary_category": "Event technology service",
+    "all_categories": "Event technology service",
+    "pincode": "224238",
+    "phone_number": "+91 88004 36965",
+    "website": "https://www.delhievents.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Floor, B-277, Gali No. 11, Indira Nagar, Subhash Park, Adarsh Nagar, Delhi, 110033",
+    "area": "Indira Nagar, Subhash Park, Adarsh Nagar",
+    "latitude": 28.7168973,
+    "longitude": 77.1726583,
+    "place_id": "ChIJQ99uTiQBDTkRk0naBH3ZLgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ99uTiQBDTkRk0naBH3ZLgQ",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:33:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laeeq Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "225120",
+    "phone_number": "+91 97216 79576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1/20, Dewa Rd, Gandhi Nagar, Barabanki, Uttar Pradesh 225001",
+    "area": "Gandhi Nagar",
+    "latitude": 26.9383675,
+    "longitude": 81.1886758,
+    "place_id": "ChIJfzhIb8hhmTkROrlsYSEZxb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzhIb8hhmTkROrlsYSEZxb4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:56"
+  },
+  {
+    "business_name": "Anupam Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "225120",
+    "phone_number": "+91 96953 99080",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Lucknow - Sultanpur Rd, Lucknow, Gosainganj, Uttar Pradesh 226501",
+    "area": "225120",
+    "latitude": 26.768217699999997,
+    "longitude": 81.1154796,
+    "place_id": "ChIJ-W458-rnmzkRm43JTdL8UKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-W458-rnmzkRm43JTdL8UKg",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:43:56"
+  }
+]

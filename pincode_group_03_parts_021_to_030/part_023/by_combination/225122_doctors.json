@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FATIMA CLINIC",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "225122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V56W+C7W, Satrikh Rd, Satrikh, Uttar Pradesh 225122",
+    "area": "225122",
+    "latitude": 26.8611239,
+    "longitude": 81.1956876,
+    "place_id": "ChIJMdktCoffmzkRfo8HYe0Jqjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdktCoffmzkRfo8HYe0Jqjo",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:13"
+  },
+  {
+    "business_name": "डॉ राजेंद्र प्रसाद यादव",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "225122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V55W+J5V, Thakurpurwa, Satrikh, Uttar Pradesh 225122",
+    "area": "Thakurpurwa",
+    "latitude": 26.8591233,
+    "longitude": 81.1954181,
+    "place_id": "ChIJDa0FDgDfmzkRz6_bFnUHwY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa0FDgDfmzkRz6_bFnUHwY4",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medicine 24/7",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "225122",
+    "phone_number": "+91 90442 16044",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Sec k 1191, opposite Ashiyana Thana, Sector K, LDA Colony, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector K, LDA Colony",
+    "latitude": 26.786716199999997,
+    "longitude": 80.91415099999999,
+    "place_id": "ChIJbzQOUov7mzkR3bQESJl8OcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzQOUov7mzkR3bQESJl8OcM",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:12"
+  },
+  {
+    "business_name": "The Chemist - Medical Store and 24x7 Pharmacy | Home Delivery",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, Medical clinic, Medical supply store, Orthopedic clinic",
+    "pincode": "225122",
+    "phone_number": "+91 92360 86684",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Store - 1, Rapti Apartment, Sector 4, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Sector 4, Gomti Nagar",
+    "latitude": 26.8290261,
+    "longitude": 81.0019788,
+    "place_id": "ChIJCYpAEffjmzkR3wEtxzHfpqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYpAEffjmzkR3wEtxzHfpqE",
+    "part_id": "part_023",
+    "crawled_at": "2026-09-19 08:47:13"
+  }
+]
