@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s Corporate Care",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "210502",
+    "phone_number": "+91 85805 70421",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35MC+94W, Sector 2, New Shimla, Shimla, Himachal Pradesh 171009",
+    "area": "Sector 2, New Shimla",
+    "latitude": 31.083479099999998,
+    "longitude": 77.1703394,
+    "place_id": "ChIJzbf3RgB5BTkRpsqzvf3km0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbf3RgB5BTkRpsqzvf3km0g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:05:51"
+  },
+  {
+    "business_name": "Placement Consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "210502",
+    "phone_number": "+91 93342 27471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna Puri, E Boring Canal Rd, near Harilal Sweets, Kidwaipuri, Patna, Bihar 800001",
+    "area": "Kidwaipuri",
+    "latitude": 25.615957599999998,
+    "longitude": 85.12071069999999,
+    "place_id": "ChIJpQ4YYpFZ7TkRXUFUktTtEuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQ4YYpFZ7TkRXUFUktTtEuk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:05:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goodyear Autocare - Bagga Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "211006",
+    "phone_number": "+91 93351 54737",
+    "website": "https://www.goodyear.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no- 65, Anand Bhawan, 48, Zero Rd, Zero Road, Prayagraj, Uttar Pradesh 211003",
+    "area": "Zero Road",
+    "latitude": 25.438799,
+    "longitude": 81.84051199999999,
+    "place_id": "ChIJ0Yg_C8vKmjkR-u4wquLIL00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Yg_C8vKmjkR-u4wquLIL00",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:30"
+  },
+  {
+    "business_name": "K.K Tyre House",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "211006",
+    "phone_number": "+91 93072 19471",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "5/5, Opposite Rambagh Power House, Bai Ka Bagh, Lowther Rd, Idgah, Rambagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Idgah, Rambagh",
+    "latitude": 25.436923,
+    "longitude": 81.846445,
+    "place_id": "ChIJ_5O5L7XKmjkRnL0Eh0xi2fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5O5L7XKmjkRnL0Eh0xi2fQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:30"
+  }
+]

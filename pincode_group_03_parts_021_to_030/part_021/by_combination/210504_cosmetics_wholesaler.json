@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cosmetic Hub",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "210504",
+    "phone_number": "+91 94301 66488",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Federal Bank, SBI Building, 25 Goodwill Properties, Katras Rd, Bank More, Dhanbad, Jharkhand 826007",
+    "area": "Bank More",
+    "latitude": 23.788688999999998,
+    "longitude": 86.41705999999999,
+    "place_id": "ChIJ56UTkzSj9jkRAq8_OvjKfXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56UTkzSj9jkRAq8_OvjKfXU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:07:06"
+  },
+  {
+    "business_name": "Laxmi cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Home goods store",
+    "pincode": "210504",
+    "phone_number": "+91 97335 38888",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Rejaul Karim Sarani, Gora Bazar, Berhampore, Gora Bazar, West Bengal 742101",
+    "area": "Gora Bazar",
+    "latitude": 24.0889678,
+    "longitude": 88.2481071,
+    "place_id": "ChIJR4eiBtV9-TkRV5ko5xd3uug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR4eiBtV9-TkRV5ko5xd3uug",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:07:06"
+  }
+]

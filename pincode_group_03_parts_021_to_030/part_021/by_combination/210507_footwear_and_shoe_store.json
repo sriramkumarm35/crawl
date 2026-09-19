@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RIYAZ FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "210507",
+    "phone_number": "+91 70076 21793",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M4P7+J98, Main Rd, Gudahi Bazar, Maudaha, Uttar Pradesh 210507",
+    "area": "Gudahi Bazar",
+    "latitude": 25.686545,
+    "longitude": 80.1134519,
+    "place_id": "ChIJH0HIIuzfnDkRiT6v1zWS6Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0HIIuzfnDkRiT6v1zWS6Js",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:11:47"
+  },
+  {
+    "business_name": "SAMEER FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "210507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maudaha, Uttar Pradesh 210507",
+    "area": "210507",
+    "latitude": 25.6854674,
+    "longitude": 80.1110461,
+    "place_id": "ChIJ6d0kv-3fnDkRrTvLVAGdogU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6d0kv-3fnDkRrTvLVAGdogU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:11:47"
+  }
+]

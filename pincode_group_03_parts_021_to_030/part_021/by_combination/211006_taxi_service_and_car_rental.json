@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yaseen tour and travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "http://www.yaseen786trevels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shantipuram, Phaphamau, Uttar Pradesh 211013",
+    "area": "Shantipuram",
+    "latitude": 25.5341192,
+    "longitude": 81.8537532,
+    "place_id": "ChIJgb2sarXJmjkRhc78BDCo6ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb2sarXJmjkRhc78BDCo6ao",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:33"
+  },
+  {
+    "business_name": "Raj Tour & Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "211006",
+    "phone_number": "+91 93351 41273",
+    "website": "https://rajtourandtravels.sulekha.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "358/145/8G, Rajroopur Rd, Chowk, Prayagraj, Uttar Pradesh 211015",
+    "area": "Chowk",
+    "latitude": 25.4378255,
+    "longitude": 81.7923187,
+    "place_id": "ChIJiTzK-uXLmjkR-4CNrw_wDtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTzK-uXLmjkR-4CNrw_wDtQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medilinen Connect",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "451/258/1 New, New Sohabatia Bagh, Sohabatiya Bagh, Prayagraj, Uttar Pradesh 211006",
+    "area": "New Sohabatia Bagh, Sohabatiya Bagh",
+    "latitude": 25.445696299999998,
+    "longitude": 81.8630718,
+    "place_id": "ChIJaW4Z1uzLmjkRahCR4IWAv5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaW4Z1uzLmjkRahCR4IWAv5s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:23"
+  },
+  {
+    "business_name": "HEALTHCARE SERVICES",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "CV9H+QV3, Arail Rd, near jahagir hospital, Barna, Churaha, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Barna, Churaha, Naini",
+    "latitude": 25.4193845,
+    "longitude": 81.87966329999999,
+    "place_id": "ChIJt84c1fpLhTkRVyNlG1ZUEM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt84c1fpLhTkRVyNlG1ZUEM0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Citizen Bazaar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "211004",
+    "phone_number": "+91 96957 03030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "728/1 AVC YOJANA-2, G.T. ROAD OPP. NYAY NAGAR GATE JHUNSI, Jhusi Kohna, Uttar Pradesh 211019",
+    "area": "211004",
+    "latitude": 25.428894699999997,
+    "longitude": 81.9145036,
+    "place_id": "ChIJZ4A9JpJLhTkRtY7fGYB_sVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4A9JpJLhTkRtY7fGYB_sVI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:08"
+  },
+  {
+    "business_name": "Kisan Fodder Mills Pvt Ltd",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "211004",
+    "phone_number": "+91 94152 04304",
+    "website": "http://www.kisanfoddermills.com/",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "696/1, Gola Ghat Gurdawara Lane, Ramnagar, Varanasi, Uttar Pradesh 221008",
+    "area": "Janakpur, Ram nagar",
+    "latitude": 25.279999999999998,
+    "longitude": 83.03,
+    "place_id": "ChIJXyC0g_ItjjkRe0rBFiZ4l4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyC0g_ItjjkRe0rBFiZ4l4k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:10"
+  }
+]

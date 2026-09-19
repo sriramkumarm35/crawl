@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Talap chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "George Town Rd, Darbhanga Colony, George Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "Darbhanga Colony, George Town",
+    "latitude": 25.450782099999998,
+    "longitude": 81.8578361,
+    "place_id": "ChIJx7BdxOjLmjkRojqCrQ2iSjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7BdxOjLmjkRojqCrQ2iSjY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:22:59"
+  },
+  {
+    "business_name": "Pandharpuri Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "CVV9+7MM, Alopibagh, Alopi Bagh, Prayagraj, Uttar Pradesh 211006",
+    "area": "Alopibagh, Alopi Bagh",
+    "latitude": 25.443206,
+    "longitude": 81.8692224,
+    "place_id": "ChIJtYXrhzq1mjkRubBQSebAbd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYXrhzq1mjkRubBQSebAbd4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish kirana store & Ashish agencies",
+    "search_category": "Departmental Store",
+    "primary_category": "Asian grocery store",
+    "all_categories": "Asian grocery store",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bai pass road, Milkipura, bajrang nagar, sattipura, Mahoba, Uttar Pradesh 210427",
+    "area": "Milkipura, bajrang nagar, sattipura",
+    "latitude": 25.2920964,
+    "longitude": 79.8724168,
+    "place_id": "ChIJY3NSlffNgjkR9-dGuqVvX6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3NSlffNgjkR9-dGuqVvX6c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:00:57"
+  },
+  {
+    "business_name": "Avani janral store shrinagar",
+    "search_category": "Departmental Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "210433",
+    "phone_number": "+91 82992 50838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5QHH+9PC, Srinagar, Uttar Pradesh 210433",
+    "area": "210433",
+    "latitude": 25.178439899999997,
+    "longitude": 79.77927989999999,
+    "place_id": "ChIJvYoYCgDJgjkRPofIntyG4Lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYoYCgDJgjkRPofIntyG4Lc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:00:58"
+  }
+]

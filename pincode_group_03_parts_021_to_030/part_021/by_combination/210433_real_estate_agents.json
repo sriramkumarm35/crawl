@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Jeet",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7V96+CCP, Rahelia, Uttar Pradesh 210427",
+    "area": "210433",
+    "latitude": 25.2683891,
+    "longitude": 79.8605244,
+    "place_id": "ChIJM7K3fgDNgjkRuZqTP0ydGR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7K3fgDNgjkRuZqTP0ydGR8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:02:26"
+  },
+  {
+    "business_name": "Electric scooty",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Retail space rental agency",
+    "all_categories": "Retail space rental agency",
+    "pincode": "210433",
+    "phone_number": "+91 80765 16093",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Belatal Rd, Belatal, Jaitpur, Uttar Pradesh 210423",
+    "area": "210433",
+    "latitude": 25.2572318,
+    "longitude": 79.5659749,
+    "place_id": "ChIJIdOgfQCzgjkRLeNc7y6KDmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdOgfQCzgjkRLeNc7y6KDmY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:02:26"
+  }
+]

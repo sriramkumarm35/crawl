@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Warsi Canteen",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "210506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rath Road Muskara, Kanpur, Uttar Pradesh 210506",
+    "area": "210506",
+    "latitude": 25.661266599999998,
+    "longitude": 79.7949793,
+    "place_id": "ChIJR6ikWzk_nTkR2hsOOd5XPck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6ikWzk_nTkR2hsOOd5XPck",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:10:00"
+  },
+  {
+    "business_name": "Basto",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "210506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JR42+64J, Basoth, Uttar Pradesh 210506",
+    "area": "210506",
+    "latitude": 25.605577399999998,
+    "longitude": 79.8002558,
+    "place_id": "ChIJWfh7DwA_nTkRCS6wFpgoP5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfh7DwA_nTkRCS6wFpgoP5c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:10:00"
+  }
+]

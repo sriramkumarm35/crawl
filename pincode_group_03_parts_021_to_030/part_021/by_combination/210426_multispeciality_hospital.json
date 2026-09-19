@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uma multispeciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210426",
+    "phone_number": "+91 79768 15007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahoba road, Panwari, Haiwatpura Brahama, Uttar Pradesh 210429",
+    "area": "210426",
+    "latitude": 25.420551399999997,
+    "longitude": 79.4856451,
+    "place_id": "ChIJ5RyF4H1RnTkRQ7t9q-Wi2HE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RyF4H1RnTkRQ7t9q-Wi2HE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:48:50"
+  },
+  {
+    "business_name": "NKH Jeevan Asha Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "210426",
+    "phone_number": "+91 62320 33233",
+    "website": "https://nkhhospitals.in/",
+    "rating": 4.4,
+    "reviews_count": 134,
+    "address": "Sardar Vallabh Bhai Patel Nagar, Jamnipali, Korba, Chhattisgarh 495450",
+    "area": "Sardar Vallabh Bhai Patel Nagar",
+    "latitude": 22.415236999999998,
+    "longitude": 82.6678015,
+    "place_id": "ChIJgZ8gUZiJJzoRDSqikEPiAYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZ8gUZiJJzoRDSqikEPiAYk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:48:51"
+  }
+]

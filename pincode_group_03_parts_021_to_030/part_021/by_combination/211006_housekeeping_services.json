@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pest Control Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service, Sanitation service",
+    "pincode": "211006",
+    "phone_number": "+91 82998 20947",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 60,
+    "address": "813, I Baghambari Gaddi, Road, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Sarvodaya Nagar, Allahpur",
+    "latitude": 25.4514025,
+    "longitude": 81.87371759999999,
+    "place_id": "ChIJM3pOLf21mjkRkzy1b8UKGNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3pOLf21mjkRkzy1b8UKGNk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:24:23"
+  },
+  {
+    "business_name": "Tumbledry",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Laundry, Laundry service, Shoe repair shop",
+    "pincode": "211006",
+    "phone_number": "+91 76772 50250",
+    "website": "https://tumbledry.in/store-locations/tumbledry-dry-clean-laundry-store-georgetown-prayagraj/",
+    "rating": 4.3,
+    "reviews_count": 219,
+    "address": "Police Station, 47, CY Chintamani Rd, near George Town, Darbhanga Colony, George Town, Prayagraj, Uttar Pradesh 211006",
+    "area": "Darbhanga Colony, George Town",
+    "latitude": 25.4490435,
+    "longitude": 81.86145719999999,
+    "place_id": "ChIJk0jFQ5rLmjkRE8kOmfNkZFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0jFQ5rLmjkRE8kOmfNkZFI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:24:23"
+  }
+]

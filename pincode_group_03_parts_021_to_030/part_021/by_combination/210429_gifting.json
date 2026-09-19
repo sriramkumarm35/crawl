@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keshav General Store And Gift Centre",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "210429",
+    "phone_number": "+91 95755 84039",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Main Market, Harpalpur, Madhya Pradesh 471111",
+    "area": "210429",
+    "latitude": 25.2890285,
+    "longitude": 79.33353989999999,
+    "place_id": "ChIJkVnT8W__dzkRJL3JN1b8o2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVnT8W__dzkRJL3JN1b8o2k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:55:06"
+  },
+  {
+    "business_name": "GiftsHub",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "210429",
+    "phone_number": "+91 81489 47369",
+    "website": "http://www.giftshub.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "St thomas building, MC Rd, opposite mannar metals, Adoor, Keralam 691523",
+    "area": "210429",
+    "latitude": 9.1579228,
+    "longitude": 76.7265807,
+    "place_id": "ChIJN46kAgATBjsRLzRRc6HtBJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN46kAgATBjsRLzRRc6HtBJM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:55:07"
+  }
+]

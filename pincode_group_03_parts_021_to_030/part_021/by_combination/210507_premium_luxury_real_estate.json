@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Experion Elements",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "210507",
+    "phone_number": "+91 75100 01323",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 84,
+    "address": "GH-02, Sadarpur, Sector-45, Noida, Uttar Pradesh 201303",
+    "area": "Sadarpur, Sector-45",
+    "latitude": 28.5509415,
+    "longitude": 77.3457555,
+    "place_id": "ChIJMaLpsT3lDDkRmwYtmWQeVeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaLpsT3lDDkRmwYtmWQeVeE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:55"
+  },
+  {
+    "business_name": "Godrej Majesty, Sector 12, Greater Noida",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "210507",
+    "phone_number": "+91 70394 53792",
+    "website": "https://www.godrejproperties.com/noida/residential/godrej-majesty",
+    "rating": 4.4,
+    "reviews_count": 94,
+    "address": "Saini, Greater Noida, Uttar Pradesh 203207",
+    "area": "Saini",
+    "latitude": 28.564665899999998,
+    "longitude": 77.4808778,
+    "place_id": "ChIJAcerjSLlDDkROGZE4wzKtSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcerjSLlDDkROGZE4wzKtSE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:55"
+  }
+]

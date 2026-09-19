@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kajal cosmetic store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5JJ6+8CF, Mahua Bandh, Uttar Pradesh 210423",
+    "area": "210433",
+    "latitude": 25.18078,
+    "longitude": 79.611915,
+    "place_id": "ChIJHxSgRgCxgjkRk2ZCMFnBlk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxSgRgCxgjkRk2ZCMFnBlk8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:01"
+  },
+  {
+    "business_name": "Darshita General Store",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "210433",
+    "phone_number": "+91 79053 40804",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Darshita Kirana Store, Chandao, Mahoba, Uttar Pradesh 210427",
+    "area": "Chandao",
+    "latitude": 25.3097912,
+    "longitude": 79.8482805,
+    "place_id": "ChIJMxcJ4krNgjkRywcLtmo8Vec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxcJ4krNgjkRywcLtmo8Vec",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:01"
+  }
+]

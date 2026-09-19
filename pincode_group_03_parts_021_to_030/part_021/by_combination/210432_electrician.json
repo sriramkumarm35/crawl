@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Line tech solutions",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "210432",
+    "phone_number": "+91 92366 04093",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00Bhedi, Sarila, Jalalpur, Rath, Uttar Pradesh 210432",
+    "area": "Sarila",
+    "latitude": 25.8663959,
+    "longitude": 79.8123384,
+    "place_id": "ChIJ1TEhQzMTnTkRGD07bUPUw6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TEhQzMTnTkRGD07bUPUw6M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:00:01"
+  },
+  {
+    "business_name": "Devendra electronics mamna",
+    "search_category": "Electrician",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "210432",
+    "phone_number": "+91 96511 40068",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mamna, Rath, Uttar Pradesh 210432",
+    "area": "210432",
+    "latitude": 25.800471299999998,
+    "longitude": 79.734914,
+    "place_id": "ChIJy8kqAk1tnTkRx2AdoHQ2ewY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8kqAk1tnTkRx2AdoHQ2ewY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:00:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PizzaJi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "210428",
+    "phone_number": "+91 73803 26155",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 205,
+    "address": "x533+86, Hamirpur, Uttar Pradesh 210301",
+    "area": "210428",
+    "latitude": 25.953245199999998,
+    "longitude": 80.152979,
+    "place_id": "ChIJU9vUft39nDkRl8PPk6hUi3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9vUft39nDkRl8PPk6hUi3Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:52:33"
+  },
+  {
+    "business_name": "Hot A Slice Pizza restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "210428",
+    "phone_number": "+91 98166 90028",
+    "website": "http://hotaslice.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Hot A Slice Pizza 🍕, Shimla - Kangra Rd, near bus stand, opposite Sunday Monday, Nadaun, Lakhwal, Himachal Pradesh 177033",
+    "area": "210428",
+    "latitude": 31.804543199999998,
+    "longitude": 76.3233851,
+    "place_id": "ChIJlQZrUOMvGzkR7Xu1cX5LPO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQZrUOMvGzkR7Xu1cX5LPO4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:52:34"
+  }
+]

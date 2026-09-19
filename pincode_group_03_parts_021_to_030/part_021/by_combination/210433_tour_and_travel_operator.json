@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahoba, Uttar Pradesh 210427",
+    "area": "210433",
+    "latitude": 25.296509999999998,
+    "longitude": 79.8370867,
+    "place_id": "ChIJ3SKAyEvNgjkReTt2e7k9uFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SKAyEvNgjkReTt2e7k9uFA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:36"
+  },
+  {
+    "business_name": "Mahadev tour and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Hanuman mandir Shyam hotal, Bija Nagar, Mahoba, Uttar Pradesh 210427",
+    "area": "Bija Nagar",
+    "latitude": 25.2863711,
+    "longitude": 79.8881439,
+    "place_id": "ChIJQVGSG9bNgjkRYfDSL03goOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVGSG9bNgjkRYfDSL03goOg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:36"
+  }
+]

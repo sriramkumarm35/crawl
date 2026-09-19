@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S S Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier",
+    "pincode": "211004",
+    "phone_number": "+91 78977 08544",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "06, opposite SBI Bank, Sector-E, Shantipuram, Phaphamau, Uttar Pradesh 211013",
+    "area": "Sector-E, Shantipuram",
+    "latitude": 25.5293894,
+    "longitude": 81.8525581,
+    "place_id": "ChIJE7qGhe7LmjkRCiPOSSyGWDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7qGhe7LmjkRCiPOSSyGWDo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:10"
+  },
+  {
+    "business_name": "Green Valley Frozen Peas & Vegetable",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "211004",
+    "phone_number": "+91 73551 67780",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2/321A, Viram Khand-2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand-2, Gomti Nagar",
+    "latitude": 26.847672,
+    "longitude": 81.0019219,
+    "place_id": "ChIJsVCupNvimzkR00sCBMIsF7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVCupNvimzkR00sCBMIsF7c",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:13"
+  }
+]

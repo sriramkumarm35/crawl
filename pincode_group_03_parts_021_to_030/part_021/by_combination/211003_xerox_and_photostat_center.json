@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Typico",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop, Lamination service, Typist",
+    "pincode": "211003",
+    "phone_number": "+91 91254 31312",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "39/13B, Dr KN Katju Rd, Miurabad, Prayagraj, Uttar Pradesh 211003",
+    "area": "Miurabad",
+    "latitude": 25.442414,
+    "longitude": 81.826877,
+    "place_id": "ChIJA8vUuNbKmjkRGeOIPxvgm7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8vUuNbKmjkRGeOIPxvgm7g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:18:30"
+  },
+  {
+    "business_name": "Friends Photostat",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "211003",
+    "phone_number": "+91 94564 84045",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "High Court Main Building, opp ,utter, Canton, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Canton, Civil Lines",
+    "latitude": 25.4520309,
+    "longitude": 81.82236669999999,
+    "place_id": "ChIJKQLuqNzKmjkR8ioYFjyiAuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQLuqNzKmjkR8ioYFjyiAuM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:18:30"
+  }
+]

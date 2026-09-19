@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lubna Traders",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "210501",
+    "phone_number": "+91 84469 95542",
+    "website": "https://lubna-traders.grexa.site/",
+    "rating": 4.2,
+    "reviews_count": 43,
+    "address": "1110, Shop No. 1, Raviwar Peth, near Meeradada Dargah, Pune, Maharashtra 411002",
+    "area": "Kapad Ganj, Raviwar Peth",
+    "latitude": 18.514260699999998,
+    "longitude": 73.8612989,
+    "place_id": "ChIJmSCt32jAwjsR5O_-uFDpVEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSCt32jAwjsR5O_-uFDpVEs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:03:02"
+  },
+  {
+    "business_name": "a k s leather point",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "210501",
+    "phone_number": "+91 91759 80221",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 23,
+    "address": "1005, opp. aaina masjid, New Nana Peth, Bhawani Peth, Pune, Maharashtra 411002",
+    "area": "New Nana Peth, Bhawani Peth",
+    "latitude": 18.5131636,
+    "longitude": 73.8680602,
+    "place_id": "ChIJX1DHf1DBwjsRn9gqFZc3RnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1DHf1DBwjsRn9gqFZc3RnY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:03:02"
+  }
+]

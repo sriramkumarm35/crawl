@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Frost Patisserie",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "211003",
+    "phone_number": "+91 76519 52622",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-766, near Little Angels School, GTB Nagar, Kareli, Prayagraj, Uttar Pradesh 211016",
+    "area": "GTB Nagar, Kareli",
+    "latitude": 25.430179199999998,
+    "longitude": 81.8174619,
+    "place_id": "ChIJPWqoHI01hTkRQgR8dRkZFXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWqoHI01hTkRQgR8dRkZFXY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:15"
+  },
+  {
+    "business_name": "Cakesbite'22",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "211003",
+    "phone_number": "+91 75720 27001",
+    "website": "https://www.instagram.com/_cakesbite_22?igsh=MWVkN2o0eTFxbm5xcA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "210, Mutthi Ganj, gandhinagar, Prayagraj, Uttar Pradesh 211003",
+    "area": "Mutthi Ganj",
+    "latitude": 25.4330403,
+    "longitude": 81.83955139999999,
+    "place_id": "ChIJZ08z-i01hTkRTLnPmor3TYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ08z-i01hTkRTLnPmor3TYc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:16"
+  }
+]

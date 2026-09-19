@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "narayan mobile shop",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "210502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Near, railway crossing, Bharuwa Sumerpur, Uttar Pradesh 210502",
+    "area": "210502",
+    "latitude": 25.8230376,
+    "longitude": 80.1644275,
+    "place_id": "ChIJWzu4mBjjnDkRLfwLgSX14VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzu4mBjjnDkRLfwLgSX14VQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:06:11"
+  },
+  {
+    "business_name": "Virendra Online Shop And CSC Center Terha",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "210502",
+    "phone_number": "+91 63867 27804",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "GRAM POST TERHA SUMERPUR, Uttar Pradesh 210502",
+    "area": "210502",
+    "latitude": 25.8297629,
+    "longitude": 80.2487976,
+    "place_id": "ChIJ4aB0_vDlnDkR2M6oxaxHIwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aB0_vDlnDkR2M6oxaxHIwE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:06:11"
+  }
+]

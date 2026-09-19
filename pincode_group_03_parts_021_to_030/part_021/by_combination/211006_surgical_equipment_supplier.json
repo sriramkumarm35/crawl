@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Anwar market, Azad Nagar, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "Azad Nagar",
+    "latitude": 25.4307879,
+    "longitude": 81.9072494,
+    "place_id": "ChIJcZvdcABLhTkRFilcCIxqgLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZvdcABLhTkRFilcCIxqgLk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:22"
+  },
+  {
+    "business_name": "Manas Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "211006",
+    "phone_number": "+91 91983 69455",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "CWF4+WG6, Jhusi, Prayagraj, Uttar Pradesh 211019",
+    "area": "211006",
+    "latitude": 25.4247913,
+    "longitude": 81.9062653,
+    "place_id": "ChIJw25ovB9LhTkRWAZjUAWq8pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw25ovB9LhTkRWAZjUAWq8pk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:22"
+  }
+]

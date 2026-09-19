@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Print Job",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "211007",
+    "phone_number": "+91 82183 94454",
+    "website": "http://theprintjob2-0.vercel.app/",
+    "rating": 4.8,
+    "reviews_count": 46,
+    "address": "H.S, Garden , parking, 60 Feet Rd, near khan clinic, J K Nagar, Kala Danda, Prayagraj, Daiwghat, Uttar Pradesh 211016",
+    "area": "J K Nagar, Kala Danda",
+    "latitude": 25.4296939,
+    "longitude": 81.80779989999999,
+    "place_id": "ChIJow-wve41hTkRSFEruvLFz8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow-wve41hTkRSFEruvLFz8o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:25:09"
+  },
+  {
+    "business_name": "JMD STATIONERY,CYBER AND TRAVEL SERVICE",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Bookbinder, Computer repair service, Computer software store, Custom t-shirt store, Digital printer, Invitation printing service, Print shop, Stationery store",
+    "pincode": "211007",
+    "phone_number": "+91 70076 40960",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 48,
+    "address": "Gangotri Nagar, Naini, Prayagraj, Madauka Kachhar, Uttar Pradesh 211008",
+    "area": "Gangotri Nagar, Naini",
+    "latitude": 25.407102199999997,
+    "longitude": 81.8455079,
+    "place_id": "ChIJtQdT8SQ1hTkRiRt-rlIKNhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQdT8SQ1hTkRiRt-rlIKNhk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:25:09"
+  }
+]

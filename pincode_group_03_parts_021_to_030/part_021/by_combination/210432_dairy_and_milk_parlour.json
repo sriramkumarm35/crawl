@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milk dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "210432",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VJFG+XF, Baukhar, Uttar Pradesh 210422",
+    "area": "210432",
+    "latitude": 25.8750049,
+    "longitude": 79.6261523,
+    "place_id": "ChIJZV9fkY1xnTkRVuqu4i9tOuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZV9fkY1xnTkRVuqu4i9tOuQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:17"
+  },
+  {
+    "business_name": "Khushi Beauty Parlour and gift center sarila",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210432",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QMFF+QQX, Sarila, Uttar Pradesh 210432",
+    "area": "210432",
+    "latitude": 25.7744882,
+    "longitude": 79.6744689,
+    "place_id": "ChIJiStldM9tnTkRae5L3mi6FD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiStldM9tnTkRae5L3mi6FD4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:18"
+  }
+]

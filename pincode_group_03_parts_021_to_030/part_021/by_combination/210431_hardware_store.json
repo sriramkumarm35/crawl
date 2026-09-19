@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Konzept Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Locks Supplier",
+    "pincode": "210431",
+    "phone_number": "+91 98119 94184",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 125,
+    "address": "4/4, Desh Bandhu Gupta Rd, Multani Dhanda, Paharganj, Delhi, New Delhi, Delhi 110055",
+    "area": "Multani Dhanda, Paharganj",
+    "latitude": 28.645228999999997,
+    "longitude": 77.2132611,
+    "place_id": "ChIJQ91JAEL9DDkRq7HR1hKsFCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ91JAEL9DDkRq7HR1hKsFCs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:58:12"
+  },
+  {
+    "business_name": "SAHU HARDWARE AND MOTORS",
+    "search_category": "Hardware Store",
+    "primary_category": "Electric motor vehicle dealer",
+    "all_categories": "Electric motor vehicle dealer, Store equipment supplier",
+    "pincode": "210431",
+    "phone_number": "+91 82998 11143",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "LODHI ROAD, in front of SWARAJ TRACTOR AGENCY, Pathanpura, Rath, Uttar Pradesh 210431",
+    "area": "Pathanpura",
+    "latitude": 25.6004424,
+    "longitude": 79.5704129,
+    "place_id": "ChIJAyaMxTVDnTkR5jRLCfqRtmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyaMxTVDnTkR5jRLCfqRtmI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:58:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajpoot Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Fast food restaurant, Tea house, Vegetarian restaurant",
+    "pincode": "211002",
+    "phone_number": "+91 73559 62382",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7CW4+6MF, Grand Trunk Rd, Gopiganj, Chak Parauna, Uttar Pradesh 221303",
+    "area": "211002",
+    "latitude": 25.2963266,
+    "longitude": 82.4070644,
+    "place_id": "ChIJxQD3ekHljzkRikOV4NW1i_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQD3ekHljzkRikOV4NW1i_w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:15:20"
+  },
+  {
+    "business_name": "New Shanti Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "211002",
+    "phone_number": "+91 99194 43754",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 288,
+    "address": "Alopi Bagh, Prayagraj, Uttar Pradesh 211006",
+    "area": "Alopi Bagh",
+    "latitude": 25.442588399999998,
+    "longitude": 81.8682164,
+    "place_id": "ChIJmQ2Nz1W1mjkR0uCEWUgbE_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQ2Nz1W1mjkR0uCEWUgbE_E",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:15:23"
+  }
+]

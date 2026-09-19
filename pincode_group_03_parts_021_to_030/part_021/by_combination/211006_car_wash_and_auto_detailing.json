@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Car Aquarium",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "211006",
+    "phone_number": "+91 94150 58581",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "Mumfordganj, Prayagraj, Uttar Pradesh 211002",
+    "area": "Mumfordganj",
+    "latitude": 25.4762822,
+    "longitude": 81.8590363,
+    "place_id": "ChIJx8lGPADLmjkR1AVCtg1XmwQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8lGPADLmjkR1AVCtg1XmwQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:27"
+  },
+  {
+    "business_name": "Inndia Car Accessories",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "211006",
+    "phone_number": "+91 93355 06187",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 9,
+    "address": "7, Sardar Patel Marg, opp. Bagga Petrol Pump, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4524896,
+    "longitude": 81.8350245,
+    "place_id": "ChIJJVXGkMTKmjkRk7ZcoUeJd0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVXGkMTKmjkRk7ZcoUeJd0M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:29"
+  }
+]

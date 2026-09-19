@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishesh Medicals and pet corner",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Pharmacy",
+    "pincode": "211007",
+    "phone_number": "+91 63939 09177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Chaka block, Rewa Rd, Naini, Prayagraj, Mohabatganj Uparhar, Uttar Pradesh 211007",
+    "area": "Naini",
+    "latitude": 25.385522899999998,
+    "longitude": 81.8403293,
+    "place_id": "ChIJ4_UxkVw1hTkRDMqelKKjfL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_UxkVw1hTkRDMqelKKjfL4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:24:52"
+  },
+  {
+    "business_name": "Allahabad Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "211007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CVP2+6R6, Grand Trunk Rd, in front of Payal Cinema, Bai Ka Bagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Bai Ka Bagh",
+    "latitude": 25.435529499999998,
+    "longitude": 81.8520164,
+    "place_id": "ChIJz66F20w1hTkRJ4Bos18EcRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz66F20w1hTkRJ4Bos18EcRI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:24:54"
+  }
+]

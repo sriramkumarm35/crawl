@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Silver Ornament",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "211004",
+    "phone_number": "+91 63937 40078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1B, Azad Market, Rasulabad, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Azad Market, Rasulabad, Teliarganj",
+    "latitude": 25.4972036,
+    "longitude": 81.86177599999999,
+    "place_id": "ChIJJfYoKS_LmjkR_7VM-vpAZDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfYoKS_LmjkR_7VM-vpAZDA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:23"
+  },
+  {
+    "business_name": "RASTOGI JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "211004",
+    "phone_number": "+91 93351 29902",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 22,
+    "address": "28b/125, Kidwai Nagar, Punjabi Colony, Shiv Nagar, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Kidwai Nagar, Punjabi Colony, Shiv Nagar, Allahpur",
+    "latitude": 25.455323999999997,
+    "longitude": 81.870454,
+    "place_id": "ChIJkxyEWSq1mjkRxsSdLPspm9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxyEWSq1mjkRxsSdLPspm9g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:25"
+  }
+]

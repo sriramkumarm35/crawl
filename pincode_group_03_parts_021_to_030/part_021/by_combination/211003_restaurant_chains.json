@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Awadhnama Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Awadhi Restaurant",
+    "all_categories": "Awadhi Restaurant, North Indian restaurant",
+    "pincode": "211003",
+    "phone_number": "+91 80906 11106",
+    "website": "https://awadhnama.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "G.S. 1, Sai dham land mark, 7/5/1A, Lal Bahadur Shastri Marg, opposite Yash Hospital, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4521157,
+    "longitude": 81.8413575,
+    "place_id": "ChIJP50o9HPLmjkRsxfBtvXE1PE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP50o9HPLmjkRsxfBtvXE1PE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:23"
+  },
+  {
+    "business_name": "Delhi Food Junction",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant",
+    "pincode": "211003",
+    "phone_number": "+91 76074 90792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Police Chowki Rd, Yojna-3, Jhusi Kohna, Prayagraj, Uttar Pradesh 211019",
+    "area": "Yojna-3",
+    "latitude": 25.426977299999997,
+    "longitude": 81.9135584,
+    "place_id": "ChIJu5cmUABLhTkRt5POU_Go7Es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5cmUABLhTkRt5POU_Go7Es",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:24"
+  }
+]

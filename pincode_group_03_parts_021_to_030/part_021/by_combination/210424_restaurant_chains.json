@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Pizza Box Mahoba",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "210424",
+    "phone_number": "+91 72898 96060",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Old Private Bus Stand, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.2910339,
+    "longitude": 79.8820174,
+    "place_id": "ChIJ_5i9RZTNgjkRaGFjre3CUro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5i9RZTNgjkRaGFjre3CUro",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:44:35"
+  },
+  {
+    "business_name": "KVN Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "210424",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infront of ekta palace, Ram Katha Marg, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.2949089,
+    "longitude": 79.8767955,
+    "place_id": "ChIJSSpfeE3NgjkRoTQ8V2tTmE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSpfeE3NgjkRoTQ8V2tTmE4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:44:38"
+  }
+]

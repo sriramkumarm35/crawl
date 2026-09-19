@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrigari Marriage Garden",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "210507",
+    "phone_number": "+91 63062 64657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sisolar, Maudaha, Uttar Pradesh 210507",
+    "area": "210507",
+    "latitude": 25.667790699999998,
+    "longitude": 80.256198,
+    "place_id": "ChIJYyii51zdnDkRhcViuiQ1LdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyii51zdnDkRhcViuiQ1LdA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:26"
+  },
+  {
+    "business_name": "All About Wedding",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "210507",
+    "phone_number": "+91 99103 22543",
+    "website": "https://allaboutwedding.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D3/3, First Floor, Sector 14, B Block, Noida, Uttar Pradesh 201301",
+    "area": "Sector 14, B Block",
+    "latitude": 28.586731,
+    "longitude": 77.3073213,
+    "place_id": "ChIJe1I3MNjlDDkRhcuP-pZCtuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1I3MNjlDDkRhcuP-pZCtuo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:27"
+  }
+]

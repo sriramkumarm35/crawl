@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumbai Tattoo Supply",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Tattoo supply store, Tattoo shop",
+    "pincode": "210427",
+    "phone_number": "+91 90299 93269",
+    "website": "http://www.mumbaitattooshop.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3RD FLOOR, ROOM NO. 8-9, 545, BHARAT PHOTO HOUSE, Kalbadevi Rd, Marine Lines East, Tak Wadi, Lohar Chawl, Kalbadevi, Mumbai, Maharashtra 400002",
+    "area": "Marine Lines East, Tak Wadi, Lohar Chawl, Kalbadevi",
+    "latitude": 18.944353,
+    "longitude": 72.8291126,
+    "place_id": "ChIJawfnxjfP5zsRCLLUQkDVh8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawfnxjfP5zsRCLLUQkDVh8M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:51:29"
+  },
+  {
+    "business_name": "Art Shop & Tattoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "210427",
+    "phone_number": "+91 97414 48812",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q8Qv+Cwf Konkan Division, Laxminagar, Khopoli, Mumbai, Maharashtra 410203",
+    "area": "Laxminagar",
+    "latitude": 18.788562499999998,
+    "longitude": 73.3448125,
+    "place_id": "ChIJqcndMWoH6DsRJ55ErEwTGuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcndMWoH6DsRJ55ErEwTGuU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:51:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhai Lal Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "211004",
+    "phone_number": "+91 63868 67286",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bakshi Bandh, buxi khurd, Daraganj, Prayagraj, Uttar Pradesh 211006",
+    "area": "buxi khurd, Daraganj",
+    "latitude": 25.4550654,
+    "longitude": 81.8814329,
+    "place_id": "ChIJMchWKyK1mjkRBcYIcHF6zX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMchWKyK1mjkRBcYIcHF6zX4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:17"
+  },
+  {
+    "business_name": "Shiv Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "211004",
+    "phone_number": "+91 70526 02322",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 53,
+    "address": "1GSA,Market, Kalindipuram, Prayagraj, Uttar Pradesh 211015",
+    "area": "Mitra Nagar, Devprayagam Colony, Kalindipuram",
+    "latitude": 25.4364451,
+    "longitude": 81.77658819999999,
+    "place_id": "ChIJF3ZaSarMmjkRpBfs5_f6AZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3ZaSarMmjkRpBfs5_f6AZ0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:19"
+  }
+]

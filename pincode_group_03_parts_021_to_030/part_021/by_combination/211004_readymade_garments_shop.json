@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faishion Readymade and Saree Suits",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "211004",
+    "phone_number": "+91 77859 52059",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8, Kailash Puri, Govindpur, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Kailash Puri, Govindpur, Teliarganj",
+    "latitude": 25.4867618,
+    "longitude": 81.87739239999999,
+    "place_id": "ChIJZc81NJ21mjkRAAAAMMePRmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZc81NJ21mjkRAAAAMMePRmc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:20"
+  },
+  {
+    "business_name": "Mukundi Lal Agrawal Cloth Centre",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "211004",
+    "phone_number": "+91 99363 20826",
+    "website": "https://www.mukundilalagrawal.com/",
+    "rating": 3.9,
+    "reviews_count": 299,
+    "address": "8, Phaphamau, Uttar Pradesh 211013",
+    "area": "211004",
+    "latitude": 25.5240923,
+    "longitude": 81.8661049,
+    "place_id": "ChIJ2VJ4IwC2mjkR0ABgyl9M26g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VJ4IwC2mjkR0ABgyl9M26g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:22"
+  }
+]

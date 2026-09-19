@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NID CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "210429",
+    "phone_number": "+91 80590 50416",
+    "website": "https://nid-cloud-kitchen.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "H, no 27/7, near Urban Village, Vatika City Central, Ambala, Haryana 134003",
+    "area": "Vatika City Central",
+    "latitude": 30.3503039,
+    "longitude": 76.787357,
+    "place_id": "ChIJJco7HYXJDzkRSZCOl92TY2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJco7HYXJDzkRSZCOl92TY2I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:54:16"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Eatery",
+    "all_categories": "Eatery",
+    "pincode": "210429",
+    "phone_number": "+91 86677 59754",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F7RM+R5M, Vikas Nagar, Khyora, Kanpur, Uttar Pradesh 208024",
+    "area": "Vikas Nagar, Khyora",
+    "latitude": 26.492086,
+    "longitude": 80.282926,
+    "place_id": "ChIJB-Gi2iM4nDkRi2fMkgrG9v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-Gi2iM4nDkRi2fMkgrG9v8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:54:16"
+  }
+]

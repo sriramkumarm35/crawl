@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Collar Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency",
+    "pincode": "210501",
+    "phone_number": "+91 88102 86629",
+    "website": "https://www.whitecollarrealty.com/",
+    "rating": 4.3,
+    "reviews_count": 46,
+    "address": "6th floor, TOWER-A, M3M Urbana Business Park, Sector 67, Gurugram, Haryana 122101",
+    "area": "Ramgarh, Sector 67",
+    "latitude": 28.390107399999998,
+    "longitude": 77.06514829999999,
+    "place_id": "ChIJZ4Yi-sc9DTkRv77tpT1gK6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4Yi-sc9DTkRv77tpT1gK6M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:04:07"
+  },
+  {
+    "business_name": "Houssed Technologies Pvt. Ltd.",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development, Property management company",
+    "pincode": "210501",
+    "phone_number": "+91 70300 66666",
+    "website": "https://houssed.com/",
+    "rating": 4.9,
+    "reviews_count": 137,
+    "address": "U/Base-2, Savoy Chambers, Dattatray Rd, Santacruz W, Santacruz (West), Mumbai, Maharashtra 400054",
+    "area": "Santacruz W, Santacruz (West)",
+    "latitude": 19.085445999999997,
+    "longitude": 72.8348851,
+    "place_id": "ChIJXaHrfxTJ5zsRS91hvshYvSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaHrfxTJ5zsRS91hvshYvSw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:04:07"
+  }
+]

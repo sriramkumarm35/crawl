@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raees Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "210433",
+    "phone_number": "+91 93357 66878",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 8,
+    "address": "18/67, Vikas Khand 1, Vivek Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vikas Khand 1, Vivek Khand 2, Gomti Nagar",
+    "latitude": 26.852785599999997,
+    "longitude": 80.9975267,
+    "place_id": "ChIJo-hMXDzjmzkRmn703sh3gEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-hMXDzjmzkRmn703sh3gEQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:02"
+  },
+  {
+    "business_name": "Shahnawaz Mutton Chicken Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "210433",
+    "phone_number": "+91 87264 98659",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "285kha, 106, Mill Rd, kareda, Aishbagh, Lucknow, Uttar Pradesh 226004",
+    "area": "kareda, Aishbagh",
+    "latitude": 26.8373018,
+    "longitude": 80.9004667,
+    "place_id": "ChIJs4LBuNX9mzkRAGFYHGpgzXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4LBuNX9mzkRAGFYHGpgzXM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:02"
+  }
+]

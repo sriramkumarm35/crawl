@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Mechanics",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210501",
+    "phone_number": "+91 99510 00163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Eluru Rd, opp. Vidhyuth Soudha, Gunadala, Vijayawada, Kanuru, Andhra Pradesh 520004",
+    "area": "Gunadala",
+    "latitude": 16.523843199999998,
+    "longitude": 80.6724638,
+    "place_id": "ChIJv419cgflNToRFQ-89dU7nJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv419cgflNToRFQ-89dU7nJw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:03:25"
+  },
+  {
+    "business_name": "CarMed Bangalore",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Auto tune up service, Car wash, Mechanic, Tire shop, Wheel alignment service",
+    "pincode": "210501",
+    "phone_number": "+91 63663 00616",
+    "website": "https://carmed.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3MQ5+C4H, Kannuru, Karnataka 560077",
+    "area": "Kannuru",
+    "latitude": 13.0885135,
+    "longitude": 77.6582135,
+    "place_id": "ChIJc8G0JJwbrjsRIbDfen_vgis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8G0JJwbrjsRIbDfen_vgis",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:03:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "light house",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Katha Marg, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.295725299999997,
+    "longitude": 79.87709819999999,
+    "place_id": "ChIJS2e3N77NgjkRJBnLJRWRedk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2e3N77NgjkRJBnLJRWRedk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:40"
+  },
+  {
+    "business_name": "Digi Light Electricals & Hardware",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electronics store",
+    "pincode": "210433",
+    "phone_number": "+91 99894 07162",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Piller No. 271, near Best Price, Vivekananda Nagar, Shivarampally Jagir, Hyderabad, Telangana 500052",
+    "area": "Vivekananda Nagar",
+    "latitude": 17.333442599999998,
+    "longitude": 78.426535,
+    "place_id": "ChIJtwxFXbeXyzsR23ktXiK8gfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwxFXbeXyzsR23ktXiK8gfc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:41"
+  }
+]

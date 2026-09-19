@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Oyo",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "210425",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "office ke samne, Nagar panchayat, Kharela, Uttar Pradesh 210425",
+    "area": "210425",
+    "latitude": 25.5452822,
+    "longitude": 79.8110119,
+    "place_id": "ChIJiYZwBQA5nTkR11ODvMQ6dmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYZwBQA5nTkR11ODvMQ6dmo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:47:22"
+  },
+  {
+    "business_name": "Unique Luxury Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa, Massage therapist",
+    "pincode": "210425",
+    "phone_number": "+91 79735 51294",
+    "website": "https://www.uniqueluxuryspa.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "14, 2nd Floor, Sco, Madhya Marg, Sector 26, Chandigarh, 160019",
+    "area": "Sector 26",
+    "latitude": 30.728067099999997,
+    "longitude": 76.8031819,
+    "place_id": "ChIJn7m3x1vtDzkRiIh_IKgklHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7m3x1vtDzkRiIh_IKgklHM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:47:23"
+  }
+]

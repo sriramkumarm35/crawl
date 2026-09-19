@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Birendra Hardware Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "211006",
+    "phone_number": "+91 97932 95363",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarvodaya Nagar, Allapur, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Sarvodaya Nagar, Allapur, Allahpur",
+    "latitude": 25.4511154,
+    "longitude": 81.8736832,
+    "place_id": "ChIJcQPoRgq1mjkR23vGxD3c9OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQPoRgq1mjkR23vGxD3c9OU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:35"
+  },
+  {
+    "business_name": "Maa Saraswati Santary Hardware & Paints",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "211006",
+    "phone_number": "+91 70078 86262",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maa Saraswati Santary Hardware and Paints, Allahpur Rd, BHS Colony, Shiv Nagar, Allahpur, Prayagraj, Uttar Pradesh 211002",
+    "area": "BHS Colony, Shiv Nagar, Allahpur",
+    "latitude": 25.458033399999998,
+    "longitude": 81.8702417,
+    "place_id": "ChIJq4wqi161mjkRUoJXhkkGQFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4wqi161mjkRUoJXhkkGQFI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvanand Beauty Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "210430",
+    "phone_number": "+91 95557 37888",
+    "website": "https://www.sarvanandcosmetics.in/",
+    "rating": 4.9,
+    "reviews_count": 113,
+    "address": "32, Singalpur Village, West Shalimar Bagh, Shalimar Bagh, New Delhi, Delhi, 110088",
+    "area": "Singalpur Village, West Shalimar Bagh, Shalimar Bagh",
+    "latitude": 28.7056746,
+    "longitude": 77.1554159,
+    "place_id": "ChIJz91cbYoBDTkRDq9caqel0Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz91cbYoBDTkRDq9caqel0Yg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:56:40"
+  },
+  {
+    "business_name": "Aayush Traders, Yamunanagar",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Products Wholesaler, Beauty supply store, Belt shop, Perfume store",
+    "pincode": "210430",
+    "phone_number": "+91 93559 85522",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 209,
+    "address": "Shop No.2,3,4, SUPER GOLD MARKET, RAILWAY ROAD, near ANAND MARKET, Vishwakarma Mohalla, Yamuna Nagar, Haryana 135001",
+    "area": "Vishwakarma Mohalla",
+    "latitude": 30.1226165,
+    "longitude": 77.2886358,
+    "place_id": "ChIJmVcVCCf6DjkRptiUPxcCDH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVcVCCf6DjkRptiUPxcCDH4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:56:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "210502",
+    "phone_number": "+91 84095 92814",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mithila Aakh hospital, Sadar Bazar, Musrigharari, Samastipur, Bihar 848103",
+    "area": "Sadar Bazar",
+    "latitude": 25.808863499999998,
+    "longitude": 85.73553,
+    "place_id": "ChIJwSmFEpWb7TkRY2shPqQJdXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSmFEpWb7TkRY2shPqQJdXw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:05:58"
+  },
+  {
+    "business_name": "Shree Gokulesh Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "210502",
+    "phone_number": "+91 93768 62000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "National Highway 228, Jetalpur, Gujarat 382427",
+    "area": "210502",
+    "latitude": 22.8822203,
+    "longitude": 72.5927488,
+    "place_id": "ChIJvV2vPqCOXjkRDYLABPKa1Kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvV2vPqCOXjkRDYLABPKa1Kw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:06:00"
+  }
+]

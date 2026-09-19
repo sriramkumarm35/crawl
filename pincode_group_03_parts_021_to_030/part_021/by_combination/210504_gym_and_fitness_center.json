@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fitness center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M3QX+F2Q, Fattepur rodad, Maudaha, Uttar Pradesh 210507",
+    "area": "210504",
+    "latitude": 25.688713099999998,
+    "longitude": 80.0976187,
+    "place_id": "ChIJ8xTnBFUhnTkRY5Dl3XSAXB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xTnBFUhnTkRY5Dl3XSAXB0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:06:43"
+  },
+  {
+    "business_name": "VIVEK UDEHIYA",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "FWJP+X68 Mharaj bada, singhan pur, Sindhanpur Baghari, Uttar Pradesh 210424",
+    "area": "singhan pur",
+    "latitude": 25.4824213,
+    "longitude": 79.9355762,
+    "place_id": "ChIJJzStumgvnTkROBo4K4flL6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzStumgvnTkROBo4K4flL6w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:06:46"
+  }
+]

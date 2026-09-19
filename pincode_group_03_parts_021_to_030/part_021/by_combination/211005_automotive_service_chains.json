@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayesha Motor Workshop",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "211005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Royal Residence, and, near Lung Plus Clinic, Sheel Nagar, Tulsipur, Mahmoorganj, Varanasi, Uttar Pradesh 221010",
+    "area": "Sheel Nagar, Tulsipur, Mahmoorganj",
+    "latitude": 25.300587399999998,
+    "longitude": 82.9748899,
+    "place_id": "ChIJHZnYhQsyjjkRFOgqP60mwu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZnYhQsyjjkRFOgqP60mwu8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:21:44"
+  },
+  {
+    "business_name": "Baranwal Auto Agency",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "211005",
+    "phone_number": "+91 90447 48416",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Shop No.29, Kashi Anathalaya, Lahurabir Rd, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Maldahiya, Chetganj",
+    "latitude": 25.324182999999998,
+    "longitude": 82.99742979999999,
+    "place_id": "ChIJVRM4WQkujjkRP67QiSta5tI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRM4WQkujjkRP67QiSta5tI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:21:45"
+  }
+]

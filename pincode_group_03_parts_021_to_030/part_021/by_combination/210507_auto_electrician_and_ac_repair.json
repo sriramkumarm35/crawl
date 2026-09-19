@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Service (KTL)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210507",
+    "phone_number": "+91 94141 13666",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-maudaha",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maudaha, Ragaul, Uttar Pradesh 210507",
+    "area": "210507",
+    "latitude": 25.6798435,
+    "longitude": 80.0888315,
+    "place_id": "ChIJDQtFgVshnTkRhHyaanmxbXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQtFgVshnTkRhHyaanmxbXU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:05"
+  },
+  {
+    "business_name": "Azad E Rickshaw workshop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "210507",
+    "phone_number": "+91 74083 81124",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Kapsa Road, chauraha, Chimauli Road, Maudaha, Uttar Pradesh 210507",
+    "area": "chauraha, Chimauli Road",
+    "latitude": 25.678811099999997,
+    "longitude": 80.1155397,
+    "place_id": "ChIJUyie5pzfnDkRiLSnoGS-VMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyie5pzfnDkRiLSnoGS-VMs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brothers Gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210431",
+    "phone_number": "+91 91400 40728",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "Kurra road, neher baipas Marg, Gulab Nagar, Rath, Uttar Pradesh 210431",
+    "area": "Gulab Nagar",
+    "latitude": 25.590632799999998,
+    "longitude": 79.5526479,
+    "place_id": "ChIJh3AyFABdnTkRlHE_O7n3KM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3AyFABdnTkRlHE_O7n3KM4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:58:01"
+  },
+  {
+    "business_name": "Yogadhara Wellness",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Meditation center, Wellness center, Yoga instructor",
+    "pincode": "210431",
+    "phone_number": "+91 70882 76511",
+    "website": "http://www.yogadharawellness.com/",
+    "rating": 4.9,
+    "reviews_count": 115,
+    "address": "Race Course Rd, near Meher Collection, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Guru Nanak Vihar, Race Course",
+    "latitude": 30.306341399999997,
+    "longitude": 78.04533889999999,
+    "place_id": "ChIJScnaErspCTkREVP_0QjUA-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScnaErspCTkREVP_0QjUA-g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:58:01"
+  }
+]

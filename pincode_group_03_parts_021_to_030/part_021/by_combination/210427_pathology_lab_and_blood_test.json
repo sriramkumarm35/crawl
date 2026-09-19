@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Blood testing service, Laboratory",
+    "pincode": "210427",
+    "phone_number": "+91 98377 72828",
+    "website": "https://gargpathology.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Garden House Colony, Nai Sarak, Garh Rd, Meerut, Uttar Pradesh 250003",
+    "area": "Tejgarhi, Sector 3, Shastri Nagar",
+    "latitude": 28.9662454,
+    "longitude": 77.7314277,
+    "place_id": "ChIJ89hqlUllDDkRPvlwRTLTR6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89hqlUllDDkRPvlwRTLTR6U",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:50:58"
+  },
+  {
+    "business_name": "SDA Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Medical laboratory, Pathologist",
+    "pincode": "210427",
+    "phone_number": "+91 97114 66123",
+    "website": "http://www.sdadiagnostics.in/",
+    "rating": 4.9,
+    "reviews_count": 70,
+    "address": "114/1, I Block, PVS MALL ROAD, Ambedkar Chowk, opposite Indian Oil Petrol Pump, Meerut, Uttar Pradesh 250002",
+    "area": "I Block, Shastri Nagar Market, Shastri Nagar",
+    "latitude": 28.9545802,
+    "longitude": 77.73375589999999,
+    "place_id": "ChIJN6psv-llDDkRtPoOXLoWZck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6psv-llDDkRtPoOXLoWZck",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:50:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.S. Fertilizer Store",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "210432",
+    "phone_number": "+91 95307 33497",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Guru Nanak Nagar, Bhogpur, Punjab 144201",
+    "area": "Guru Nanak Nagar",
+    "latitude": 31.5552775,
+    "longitude": 75.646378,
+    "place_id": "ChIJu5Xu5TirGzkRmn3zO_g5_T4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5Xu5TirGzkRmn3zO_g5_T4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:00:46"
+  },
+  {
+    "business_name": "Nahal Khad Store",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "210432",
+    "phone_number": "+91 98722 81003",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "180, Jandu Singha, Punjab 144025",
+    "area": "210432",
+    "latitude": 31.375833,
+    "longitude": 75.6515876,
+    "place_id": "ChIJFcU5Hm9XGjkRcb4vyhAZtSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcU5Hm9XGjkRcb4vyhAZtSw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:00:46"
+  }
+]

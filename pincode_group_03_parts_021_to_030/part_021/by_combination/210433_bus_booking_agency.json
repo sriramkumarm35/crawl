@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Anand Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "210433",
+    "phone_number": "+91 94151 71792",
+    "website": "http://www.saianandtravels.com/",
+    "rating": 3.5,
+    "reviews_count": 62,
+    "address": "near head post office, Pili Koti, Bangalipura, Banda, Uttar Pradesh 210001",
+    "area": "Pili Koti, Bangalipura",
+    "latitude": 25.478046499999998,
+    "longitude": 80.33628519999999,
+    "place_id": "ChIJ--5JJ5zPnDkRFItNDXoj6LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--5JJ5zPnDkRFItNDXoj6LE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:36"
+  },
+  {
+    "business_name": "Mohan Kushvaha Online center",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5QHF+9XR, Srinagar, Uttar Pradesh 210433",
+    "area": "210433",
+    "latitude": 25.178491299999997,
+    "longitude": 79.7748781,
+    "place_id": "ChIJVVA_GrzJgjkR-ZynIT03N4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVA_GrzJgjkR-ZynIT03N4g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:36"
+  }
+]

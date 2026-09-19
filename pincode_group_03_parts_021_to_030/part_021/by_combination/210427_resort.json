@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandrawal Dhaba & resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "210427",
+    "phone_number": "+91 88877 90751",
+    "website": "http://www.chandrawaldhaba.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Rath Rd, near of railway line, near of Richa automobiles, Mahoba, Chand Pura, Uttar Pradesh 210427",
+    "area": "210427",
+    "latitude": 25.2932222,
+    "longitude": 79.8341475,
+    "place_id": "ChIJcWYnxgzNgjkRnE2inPm6OAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWYnxgzNgjkRnE2inPm6OAI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:51:35"
+  },
+  {
+    "business_name": "Radha Kunj Palace and Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "210427",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahoba Rd, Nowgong, Lavkush Nagar, Madhya Pradesh 471201",
+    "area": "210427",
+    "latitude": 25.1487066,
+    "longitude": 80.0005987,
+    "place_id": "ChIJU88AfiPRgjkRRyjH03VSl8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU88AfiPRgjkRRyjH03VSl8g",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:51:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "John Tours and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour agency",
+    "pincode": "210432",
+    "phone_number": "+91 83608 67274",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Opp Ayurvedic College Boys Hostel, Bharpur Garden Colony, Patiala, Punjab 147001",
+    "area": "Bharpur Garden Colony",
+    "latitude": 30.315904099999997,
+    "longitude": 76.3931399,
+    "place_id": "ChIJccm22x0pEDkRVL1bV_u4IBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccm22x0pEDkRVL1bV_u4IBg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:54"
+  },
+  {
+    "business_name": "Clear car rental pvt Ltd",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "210432",
+    "phone_number": "+91 88888 55220",
+    "website": "https://www.clearcarrental.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "154/158 S.V. Savarkar Marg, Mahim Kapad Bazar, Old Cadel Rd, opp. Pakeeza Bakery, Mahim (W), Mumbai, Maharashtra 400016",
+    "area": "Mahim (W), Mahim West, Mahim",
+    "latitude": 19.0370582,
+    "longitude": 72.838929,
+    "place_id": "ChIJMzeIsdzJ5zsRhpGsaggTCvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzeIsdzJ5zsRhpGsaggTCvg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:54"
+  }
+]

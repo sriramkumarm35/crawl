@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lahore Watch Co",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "210433",
+    "phone_number": "+91 99996 68466",
+    "website": "https://www.lwcthewatchboutique.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "G-4, next to Khanna Jewellers, South Extension I, Block G, New Delhi, Delhi 110049",
+    "area": "South Extension I, Block G",
+    "latitude": 28.5691693,
+    "longitude": 77.219791,
+    "place_id": "ChIJTdgEOljjDDkRaJNPns5ikjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdgEOljjDDkRaJNPns5ikjA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:19"
+  },
+  {
+    "business_name": "Helios Watch Store - Sector 18, Noida",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "210433",
+    "phone_number": "+91 80 6270 3157",
+    "website": "https://www.helioswatchstore.com/store-locator/Noida/watch-store-in-sector-18",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No G-21, Main Market, opposite Domino's Pizza, G Block, Pocket G, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "G Block, Pocket G, Sector 18",
+    "latitude": 28.5703054,
+    "longitude": 77.32426939999999,
+    "place_id": "ChIJb9vbivnlDDkRiRZhiAgGG7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9vbivnlDDkRiRZhiAgGG7Q",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:19"
+  }
+]

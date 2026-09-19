@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvind advertisers",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "211003",
+    "phone_number": "+91 93893 37441",
+    "website": "http://www.arvindadvertisers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "621A/372B, Chak Raghunath, Mirzapur Rd, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini Bazar, Naini",
+    "latitude": 25.3959171,
+    "longitude": 81.8639455,
+    "place_id": "ChIJIxJbfco1hTkRKPfYXyPkYhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxJbfco1hTkRKPfYXyPkYhw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:18:29"
+  },
+  {
+    "business_name": "Rohit flex printing press",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service",
+    "pincode": "211003",
+    "phone_number": "+91 97211 91290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "near CCD, near power house, Saraswati Vihar colony, Ashok Nagar, Prayagraj, Uttar Pradesh 211001",
+    "area": "Saraswati Vihar colony, Ashok Nagar",
+    "latitude": 25.4715779,
+    "longitude": 81.81832729999999,
+    "place_id": "ChIJz-8--OfLmjkR1hbUq-4x2wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-8--OfLmjkR1hbUq-4x2wU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:18:31"
+  }
+]

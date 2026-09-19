@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashi Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "210432",
+    "phone_number": "+91 512 231 2887",
+    "website": "http://www.kashijewellers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "24/44, Birhana Rd, General Ganj, Kanpur, Uttar Pradesh 208001",
+    "area": "General Ganj",
+    "latitude": 26.4652624,
+    "longitude": 80.3585057,
+    "place_id": "ChIJCfF7C1pHnDkRX_WIANdF_OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfF7C1pHnDkRX_WIANdF_OA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:32"
+  },
+  {
+    "business_name": "Ansari Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "210432",
+    "phone_number": "+91 97956 89652",
+    "website": "https://www.facebook.com/IrfanAshrafiAnsari/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Sarrafa Market, Tarnanaganj, Kalpi, Uttar Pradesh 285204",
+    "area": "Sarrafa Market, Tarnanaganj",
+    "latitude": 26.116034499999998,
+    "longitude": 79.7480372,
+    "place_id": "ChIJo01zptuhnTkRyg0Tw7_RaBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo01zptuhnTkRyg0Tw7_RaBg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalloo Paan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 36,
+    "address": "7, Sardar Patel Marg, opp. Bagga Petrol Pump, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.452444999999997,
+    "longitude": 81.835105,
+    "place_id": "ChIJCYsFcwnLmjkRcNsRgAi-bqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYsFcwnLmjkRcNsRgAi-bqk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:22:55"
+  },
+  {
+    "business_name": "pan shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "railway station, Phaphamau, B.N.I.C, Prayagraj, Uttar Pradesh 211013",
+    "area": "211006",
+    "latitude": 25.542655,
+    "longitude": 81.8552196,
+    "place_id": "ChIJofwlSBbJmjkR7qNGrq2prPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofwlSBbJmjkR7qNGrq2prPk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:22:55"
+  }
+]

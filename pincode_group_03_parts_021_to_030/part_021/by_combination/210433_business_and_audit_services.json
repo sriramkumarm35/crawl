@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thrive Business Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Service establishment",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "http://thrivebusinessservices.net/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Thrive Business Services, 210433, India",
+    "area": "210433",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJW-PVkVFV2YARJDRefkyp3Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-PVkVFV2YARJDRefkyp3Pw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:02:24"
+  },
+  {
+    "business_name": "PAS ACCOUNTANT",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kotwali road, near by ravidas mandir, Milkipura, chhajmanpura, Mahoba, Uttar Pradesh 210427",
+    "area": "Milkipura, chhajmanpura",
+    "latitude": 25.2922065,
+    "longitude": 79.8724051,
+    "place_id": "ChIJQWYbRKbNgjkRRWJNtwLWajI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWYbRKbNgjkRRWJNtwLWajI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:02:26"
+  }
+]

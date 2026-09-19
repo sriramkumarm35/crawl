@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOME DECOR SOLUTIONS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "210424",
+    "phone_number": "+91 88408 06004",
+    "website": "https://www.facebook.com/HomeDecorSolutionsOfficial/",
+    "rating": 5,
+    "reviews_count": 91,
+    "address": "Shop no.29, Vidhyawati Market, Ram Katha Marg, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.2959981,
+    "longitude": 79.8774153,
+    "place_id": "ChIJw0kNdP7NgjkRvY-9jMNb4U4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0kNdP7NgjkRvY-9jMNb4U4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:45:19"
+  },
+  {
+    "business_name": "Mahoba Home Interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "210424",
+    "phone_number": "+91 79859 97314",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "in front of Raidas Dharam Shala Bhatipura, Bhatipura, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Bhatipura, Makaniya Purva",
+    "latitude": 25.277270299999998,
+    "longitude": 79.875548,
+    "place_id": "ChIJZ5WiCcvNgjkRb_h4j1bLkh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5WiCcvNgjkRb_h4j1bLkh4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:45:19"
+  }
+]

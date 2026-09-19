@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrfaraz Qureshi Halal Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "210504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Block 40, Shakti Nagar, Delhi, 110007",
+    "area": "Block 40, Shakti Nagar",
+    "latitude": 28.675406199999998,
+    "longitude": 77.20080899999999,
+    "place_id": "ChIJa5SnJYT9DDkRsaYrKx0VZKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5SnJYT9DDkRsaYrKx0VZKE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:06:14"
+  },
+  {
+    "business_name": "BABLU MEAT SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop, Non Vegetarian Restaurant",
+    "pincode": "210504",
+    "phone_number": "+91 94641 37276",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 41,
+    "address": "Bhattian, Bahadarke, Punjab 141008",
+    "area": "Bhattian",
+    "latitude": 30.9569482,
+    "longitude": 75.83649059999999,
+    "place_id": "ChIJR7paBEKEGjkRu-y7H_Wx1Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7paBEKEGjkRu-y7H_Wx1Vk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:06:15"
+  }
+]

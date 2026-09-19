@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv oil & flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "210505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4VCM+JR2, Daorahat Bangar, Uttar Pradesh 209112",
+    "area": "210505",
+    "latitude": 26.1215136,
+    "longitude": 79.8845271,
+    "place_id": "ChIJ05ozZQCnnTkRQzMDPd5VMtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ05ozZQCnnTkRQzMDPd5VMtA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:09:32"
+  },
+  {
+    "business_name": "Truck Brand Mustard Oil Mill ( Aryaveer )",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "210505",
+    "phone_number": "+91 99580 36583",
+    "website": "https://aryaveermustardoil.com/",
+    "rating": 4.9,
+    "reviews_count": 272,
+    "address": "khasra no. 26, Plot no.4, Nangli Sakrawati, Najafgarh, Delhi, 110043",
+    "area": "Nangli Sakrawati",
+    "latitude": 28.6213324,
+    "longitude": 77.0008538,
+    "place_id": "ChIJe1u4LagPDTkR05f8qDqHI-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1u4LagPDTkR05f8qDqHI-8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:09:33"
+  }
+]

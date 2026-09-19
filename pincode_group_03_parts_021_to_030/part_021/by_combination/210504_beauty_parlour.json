@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrangarika Beauty Parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service",
+    "pincode": "210504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "M4P7+WXP, Maudaha, Uttar Pradesh 210507",
+    "area": "210504",
+    "latitude": 25.6873394,
+    "longitude": 80.11494139999999,
+    "place_id": "ChIJAQAAAOzfnDkRany4m7la3jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAOzfnDkRany4m7la3jo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:07:03"
+  },
+  {
+    "business_name": "Divine beauty parlour and academy",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "M4P6+6X, Maudaha, Uttar Pradesh 210507",
+    "area": "210504",
+    "latitude": 25.6855965,
+    "longitude": 80.1124633,
+    "place_id": "ChIJ8ypudADfnDkR4aq_ZdmzQrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ypudADfnDkR4aq_ZdmzQrw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:07:04"
+  }
+]

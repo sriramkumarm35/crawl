@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riya's Cake Bake & Food",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "211004",
+    "phone_number": "+91 90757 60256",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Post Office, A-53, near DP Singh Classes, Mehdauri Colony, Rasulabad, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Mehdauri Colony, Rasulabad, Teliarganj",
+    "latitude": 25.4971888,
+    "longitude": 81.85723279999999,
+    "place_id": "ChIJmRUHYmLLmjkRbYcIHy9CkQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRUHYmLLmjkRbYcIHy9CkQA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:11"
+  },
+  {
+    "business_name": "Om shiv baker’s",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Cupcake shop, Dessert shop, Pastry shop, Wedding bakery",
+    "pincode": "211004",
+    "phone_number": "+91 86019 24131",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Amar Ujjwala Ke bagal me, road, Indra Nagar, Bamrauli, Prayagraj, Uttar Pradesh 211012",
+    "area": "Indra Nagar, Bamrauli",
+    "latitude": 25.4537475,
+    "longitude": 81.7169627,
+    "place_id": "ChIJxRucC8PNmjkRprPCDHj0GLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRucC8PNmjkRprPCDHj0GLU",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:12"
+  }
+]

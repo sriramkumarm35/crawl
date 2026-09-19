@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "English Wine Shop",
+    "search_category": "Shops",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store, Liquor Shop",
+    "pincode": "211002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 510,
+    "address": "554, Kutchery Rd, Near HDFC Atm, Mumfordganj, Prayagraj, Uttar Pradesh 211002",
+    "area": "Mumfordganj",
+    "latitude": 25.4759513,
+    "longitude": 81.8536618,
+    "place_id": "ChIJffesE4_KmjkRvLSI33L3hMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffesE4_KmjkRvLSI33L3hMA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:05"
+  },
+  {
+    "business_name": "2358",
+    "search_category": "Shops",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "211002",
+    "phone_number": "+91 88746 35635",
+    "website": "http://www.happycultures.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "35/27/3C Strachey Road, Ram Mandir Road, opposite NEXA Showroom, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4552884,
+    "longitude": 81.83308889999999,
+    "place_id": "ChIJCX0sJVPLmjkRMR5_c49ciDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCX0sJVPLmjkRMR5_c49ciDA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:07"
+  }
+]

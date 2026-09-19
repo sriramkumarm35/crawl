@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BET LIFE ANIMAL CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care",
+    "pincode": "210433",
+    "phone_number": "+91 82207 21434",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalapet, Puducherry 605014",
+    "area": "210433",
+    "latitude": 12.0361996,
+    "longitude": 79.8661187,
+    "place_id": "ChIJAZxDnaVlUzoRm2tNiNQIiRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZxDnaVlUzoRm2tNiNQIiRk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:27"
+  },
+  {
+    "business_name": "Sonia Pet Shop",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "210433",
+    "phone_number": "+91 98421 34811",
+    "website": "https://soniapetshop.online/",
+    "rating": 4.5,
+    "reviews_count": 202,
+    "address": "Income Tax Rd, Krishnapuram Colony, Madurai, Tamil Nadu 625002",
+    "area": "210433",
+    "latitude": 9.9436318,
+    "longitude": 78.1295112,
+    "place_id": "ChIJY0BO4OjFADsRHd6LZFEe8Nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0BO4OjFADsRHd6LZFEe8Nk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:29"
+  }
+]

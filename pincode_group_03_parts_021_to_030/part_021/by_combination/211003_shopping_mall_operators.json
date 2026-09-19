@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A. H. Shopping Centre",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "211003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CRQF+9VC, Roshan Bagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Roshan Bagh",
+    "latitude": 25.4384479,
+    "longitude": 81.8246293,
+    "place_id": "ChIJx32cXADLmjkRznKWVYwbE8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx32cXADLmjkRznKWVYwbE8M",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:01"
+  },
+  {
+    "business_name": "GoKumbh | Merchandise & Tour Services",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Boat Rental Agency, Boat tour agency, Tour agency, Clothing store, Tourist information center",
+    "pincode": "211003",
+    "phone_number": "+91 82994 28173",
+    "website": "https://gokumbh.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mahewa Agriculture Institute, East, Prayagraj, Uttar Pradesh 211007",
+    "area": "Mahewa East",
+    "latitude": 25.413231999999997,
+    "longitude": 81.84030039999999,
+    "place_id": "ChIJU_30XwQ1hTkRsgNjGELqWZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_30XwQ1hTkRsgNjGELqWZs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:02"
+  }
+]

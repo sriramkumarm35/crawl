@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyan Singh",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "211006",
+    "phone_number": "+91 84337 71647",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gyan Singh Plumber, Matiyara Rd, Kidwai Nagar, Punjabi Colony, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Kidwai Nagar, Punjabi Colony, Allahpur",
+    "latitude": 25.453051499999997,
+    "longitude": 81.8726271,
+    "place_id": "ChIJObvfHhO1mjkRELiWkvNmwCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObvfHhO1mjkRELiWkvNmwCE",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:41"
+  },
+  {
+    "business_name": "Sumit Submersible Repairing Center",
+    "search_category": "Plumber",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop, Plumbing supply store",
+    "pincode": "211006",
+    "phone_number": "+91 93052 81634",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "34/39, Vivekanand Marg, Near City Hotel, Hewett Rd, Prayagraj, Uttar Pradesh 211001",
+    "area": "Badshahi Mandi, Mohatsim Ganj",
+    "latitude": 25.4414499,
+    "longitude": 81.83818389999999,
+    "place_id": "ChIJexEhA8zKmjkRZd-S2_6ADJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexEhA8zKmjkRZd-S2_6ADJA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:41"
+  }
+]

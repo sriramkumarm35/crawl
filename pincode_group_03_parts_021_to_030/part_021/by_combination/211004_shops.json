@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukesh General Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store, Store",
+    "pincode": "211004",
+    "phone_number": "+91 79050 60671",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 7,
+    "address": "132, Swarajya Nagar, Govindpur, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Swarajya Nagar, Govindpur, Teliarganj",
+    "latitude": 25.487152,
+    "longitude": 81.8698,
+    "place_id": "ChIJdZBcOQC1mjkRL-B2aUXVtLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZBcOQC1mjkRL-B2aUXVtLs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:20:59"
+  },
+  {
+    "business_name": "Richa General Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "211004",
+    "phone_number": "+91 94118 13313",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "145B/13E/1, Salori Rd, Chandpur, Govindpur, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Chandpur, Govindpur, Teliarganj",
+    "latitude": 25.4855028,
+    "longitude": 81.872472,
+    "place_id": "ChIJZxcOTRy1mjkRCb7G-Ya1r5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxcOTRy1mjkRCb7G-Ya1r5Y",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:21:01"
+  }
+]

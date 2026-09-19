@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fixit Expert - Katra Branch",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer Hardware Company, Computer service, Computer store, Data recovery service, Mobile phone repair shop, Screen repair service, Used computer store",
+    "pincode": "211004",
+    "phone_number": "N/A",
+    "website": "https://www.fixitexpert.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No23, 14/2A, Beli Rd, New Katra, Old Katra, Prayagraj, Uttar Pradesh 211002",
+    "area": "New Katra, Old Katra",
+    "latitude": 25.4721126,
+    "longitude": 81.8516425,
+    "place_id": "ChIJKzIZMzrLmjkRRYVk8HXx01A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzIZMzrLmjkRRYVk8HXx01A",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:20:32"
+  },
+  {
+    "business_name": "Lenovo Service Center - Wipro Infocare Digital System",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "211004",
+    "phone_number": "+91 80 4824 7457",
+    "website": "https://www.lenovo.com/in/en/pc/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Dashrath Kunj, 18B, Anand hospital Chowraha, near Manmohan Park, Police Line, Prayagraj, Uttar Pradesh 211002",
+    "area": "Police Line",
+    "latitude": 25.4633525,
+    "longitude": 81.8486325,
+    "place_id": "ChIJaR2gV_DLmjkRGNh1XcK4aZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaR2gV_DLmjkRGNh1XcK4aZg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:20:33"
+  }
+]

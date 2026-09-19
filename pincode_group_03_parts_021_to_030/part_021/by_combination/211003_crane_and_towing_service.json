@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bahar Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "211003",
+    "phone_number": "+91 98738 68654",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jaipur - Delhi Expy, LIG Colony, Sector 31, Gurugram, Haryana 122001",
+    "area": "LIG Colony, Sector 31",
+    "latitude": 28.4554409,
+    "longitude": 77.0458708,
+    "place_id": "ChIJcVXVXR4ZDTkRdIqG4_x3RTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVXVXR4ZDTkRdIqG4_x3RTs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:53"
+  },
+  {
+    "business_name": "Gulati Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "211003",
+    "phone_number": "+91 94152 37439",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Arail, More, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.4022529,
+    "longitude": 81.86895,
+    "place_id": "ChIJ3eqM4RM1hTkRMciK6Co7EGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eqM4RM1hTkRMciK6Co7EGw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:55"
+  }
+]

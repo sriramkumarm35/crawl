@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A. K. Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "210433",
+    "phone_number": "+91 90368 19858",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "14th Cross, 2nd Phase, 1st Stage, 8th Main Rd, Gangagondanahalli, Chandra Layout, Bengaluru, Karnataka 560072",
+    "area": "Gangagondanahalli, BDA Lay Out, Chandra Layout",
+    "latitude": 12.955078499999999,
+    "longitude": 77.5231019,
+    "place_id": "ChIJC_T8dHs-rjsRA2VKBMIGOT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_T8dHs-rjsRA2VKBMIGOT0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:37"
+  },
+  {
+    "business_name": "Shivhare cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "210433",
+    "phone_number": "+91 93407 83472",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Nowgong, Madhya Pradesh 471201",
+    "area": "210433",
+    "latitude": 25.060475399999998,
+    "longitude": 79.43914579999999,
+    "place_id": "ChIJgRV9GgCngjkRrhtXajLO9C0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRV9GgCngjkRrhtXajLO9C0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh beauty collection",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "210507",
+    "phone_number": "+91 94151 71720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maheshwari Devi mandir, Chhoti Bazar, Banda, Uttar Pradesh 210001",
+    "area": "Chhoti Bazar",
+    "latitude": 25.4737527,
+    "longitude": 80.3316588,
+    "place_id": "ChIJRdZicG3PnDkRzsP_jOIF0H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdZicG3PnDkRzsP_jOIF0H0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:22"
+  },
+  {
+    "business_name": "Aashi makeover studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Marathipura, Maudaha, Uttar Pradesh 210507",
+    "area": "Marathipura",
+    "latitude": 25.684282099999997,
+    "longitude": 80.10923319999999,
+    "place_id": "ChIJMfuxSQDfnDkRIUUo_gGFQCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfuxSQDfnDkRIUUo_gGFQCY",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:22"
+  }
+]

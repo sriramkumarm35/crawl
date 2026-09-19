@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mhatre Law Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "210433",
+    "phone_number": "+91 98203 43430",
+    "website": "https://mlaw.in/",
+    "rating": 4.6,
+    "reviews_count": 31,
+    "address": "Chamber No.1, Mhatre Cross Lane, Dattapada Rd, nr. State Bank of India, Borivali East, Mumbai, Maharashtra 400066",
+    "area": "Jaya Nagar, Borivali East",
+    "latitude": 19.2241909,
+    "longitude": 72.85724429999999,
+    "place_id": "ChIJWWmAri2x5zsRAX62G1Fws9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWmAri2x5zsRAX62G1Fws9s",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:02:25"
+  },
+  {
+    "business_name": "PANDEY LEGAL SOLUTION",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "210433",
+    "phone_number": "N/A",
+    "website": "https://legalsoluation.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TV Hall, ke samne, Building Bada, Vakalatkhana, kachehri, updakghar, Bareilly, Uttar Pradesh 243001",
+    "area": "kachehri",
+    "latitude": 28.340443699999998,
+    "longitude": 79.4196853,
+    "place_id": "ChIJn3Dvws0BoDkROvH27KoJZE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3Dvws0BoDkROvH27KoJZE4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:02:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unifindss",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "https://unifindss.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "188, BH S, Sarvodaya Nagar, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Sarvodaya Nagar, Allahpur",
+    "latitude": 25.4514252,
+    "longitude": 81.87359909999999,
+    "place_id": "ChIJt5Kw6PG1mjkRW7fZ4NrlkB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5Kw6PG1mjkRW7fZ4NrlkB4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:24:10"
+  },
+  {
+    "business_name": "IQ Lab, Self Study Point.",
+    "search_category": "Educational Consultant",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Computer consultant, Internet cafe",
+    "pincode": "211006",
+    "phone_number": "+91 91183 00051",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "99B, Pura Dalel, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Pura Dalel, Allahpur",
+    "latitude": 25.4502247,
+    "longitude": 81.874611,
+    "place_id": "ChIJkUEPplm1mjkRffic7WxVK2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUEPplm1mjkRffic7WxVK2I",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:24:10"
+  }
+]

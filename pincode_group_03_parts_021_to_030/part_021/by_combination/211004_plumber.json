@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAblu plumber service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "211004",
+    "phone_number": "+91 63868 13297",
+    "website": "https://dkplumberr.blogspot.com/?m=1",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarda Distributor, churaha, Shantipuram, Phaphamau, Uttar Pradesh 211013",
+    "area": "churaha, Shantipuram",
+    "latitude": 25.526588699999998,
+    "longitude": 81.8530498,
+    "place_id": "ChIJK-EW9k_LmjkRNUCp7N7zjFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-EW9k_LmjkRNUCp7N7zjFI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:57"
+  },
+  {
+    "business_name": "Sangam enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "211004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Phaphamau, Uttar Pradesh 211013",
+    "area": "211004",
+    "latitude": 25.5304197,
+    "longitude": 81.86280049999999,
+    "place_id": "ChIJS9BdcgDLmjkR1GjqY5Yt9xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9BdcgDLmjkR1GjqY5Yt9xc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:19:59"
+  }
+]

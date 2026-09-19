@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suneel Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Minibus taxi service",
+    "pincode": "210431",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Regwara Khurd, Uttar Pradesh 210432",
+    "area": "210431",
+    "latitude": 25.7175996,
+    "longitude": 79.6783932,
+    "place_id": "ChIJFZqOTJtrnTkRygr7PUgJhe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZqOTJtrnTkRygr7PUgJhe4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:58:08"
+  },
+  {
+    "business_name": "ORAI BUS STAND RATH",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "210431",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "JH29+W47, Miyapura, Rath, Uttar Pradesh 210431",
+    "area": "Miyapura",
+    "latitude": 25.6022847,
+    "longitude": 79.5677968,
+    "place_id": "ChIJAYbC8y9DnTkRS7PvmGdvfM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYbC8y9DnTkRS7PvmGdvfM4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:58:10"
+  }
+]

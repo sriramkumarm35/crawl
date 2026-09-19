@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Popular Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler",
+    "pincode": "210506",
+    "phone_number": "+91 96469 73285",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "MC road, near State Bank of India, Sujanpur, Punjab 145023",
+    "area": "210506",
+    "latitude": 32.315111699999996,
+    "longitude": 75.6046422,
+    "place_id": "ChIJTWFQoDh5HDkRe_AUB9nW5Bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWFQoDh5HDkRe_AUB9nW5Bg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:10:04"
+  },
+  {
+    "business_name": "Mahajan Shoe Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "210506",
+    "phone_number": "+91 98140 14149",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 146,
+    "address": "SCF 26, Sector 19C, Chandigarh, 160019",
+    "area": "Sector 19C, Sector 19",
+    "latitude": 30.7270936,
+    "longitude": 76.7934914,
+    "place_id": "ChIJv2k2YxvtDzkRqi96-3GiwGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2k2YxvtDzkRqi96-3GiwGQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:10:04"
+  }
+]

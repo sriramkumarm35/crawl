@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Icecream Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ceramics wholesaler",
+    "all_categories": "Ceramics wholesaler",
+    "pincode": "210427",
+    "phone_number": "+91 88404 61067",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7VWM+3CM, Charkhari Byp Rd, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.295209699999997,
+    "longitude": 79.88354989999999,
+    "place_id": "ChIJf1_o0QjNgjkRYuDBgZPbPHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1_o0QjNgjkRYuDBgZPbPHo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:50:25"
+  },
+  {
+    "business_name": "GuRjar Veerpal Singh Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "210427",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "R946+F8F, Bhagot, Uttar Pradesh 250101",
+    "area": "210427",
+    "latitude": 28.805968399999998,
+    "longitude": 77.36074289999999,
+    "place_id": "ChIJ1TWn0xP4DDkRi-2sc-oYyqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TWn0xP4DDkRi-2sc-oYyqo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:50:25"
+  }
+]

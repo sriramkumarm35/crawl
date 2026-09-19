@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nashik City Centre Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "210501",
+    "phone_number": "+91 92251 29632",
+    "website": "http://www.nashikcitycentre.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Untwadi Rd, Lavate Nagar, Parijat Nagar, Nashik, Maharashtra 422002",
+    "area": "Lavate Nagar, Parijat Nagar",
+    "latitude": 19.9905761,
+    "longitude": 73.762124,
+    "place_id": "ChIJ-_-PFHLs3TsReXGWx7avrSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_-PFHLs3TsReXGWx7avrSo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:04:21"
+  },
+  {
+    "business_name": "Quest Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "210501",
+    "phone_number": "+91 33 2287 7777",
+    "website": "http://www.questmall.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "33, Beck Bagan Row, Park Circus, Ballygunge, Kolkata, West Bengal 700017",
+    "area": "Park Circus, Ballygunge",
+    "latitude": 22.539092,
+    "longitude": 88.36568059999999,
+    "place_id": "ChIJAflLrd92AjoRyE1aOg43vvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAflLrd92AjoRyE1aOg43vvs",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:04:21"
+  }
+]

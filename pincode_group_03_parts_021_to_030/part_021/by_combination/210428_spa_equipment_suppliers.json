@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Sales",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Store",
+    "all_categories": "Store, Discount store",
+    "pincode": "210428",
+    "phone_number": "+91 97951 92968",
+    "website": "http://www.matrixprofessional.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No. 56, Gate No.2, Mumtaz Market, opp. Gunge Nawab Park, Pratap Market, Kamla Market, Swadeshi Market, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Pratap Market, Kamla Market, Swadeshi Market, Aminabad",
+    "latitude": 26.846221,
+    "longitude": 80.925281,
+    "place_id": "ChIJ447TWLf9mzkRd77PONoFVNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ447TWLf9mzkRd77PONoFVNA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:53:17"
+  },
+  {
+    "business_name": "Tejaswi Enterprises Steam Bath Sauna Bath Jacuzzi",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "210428",
+    "phone_number": "+91 91004 15197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Metro Pillar No: 955, H.No: 8-4-394/15/4, 1st floor, beside Khaza Limra Function Hall, Prem Nagar, Erragadda, Telangana 500018",
+    "area": "Prem Nagar, Erragadda",
+    "latitude": 17.4569117,
+    "longitude": 78.4334056,
+    "place_id": "ChIJ9WIHKL-RyzsRtaVjQ5UowjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WIHKL-RyzsRtaVjQ5UowjQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:53:17"
+  }
+]

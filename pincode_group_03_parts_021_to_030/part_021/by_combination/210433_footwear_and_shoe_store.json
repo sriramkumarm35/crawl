@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep shoe store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "210433",
+    "phone_number": "+91 94151 18440",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 431,
+    "address": "Kutchery Rd, Nirala Nagar, Raebareli, Uttar Pradesh 229001",
+    "area": "Nirala Nagar",
+    "latitude": 26.2189738,
+    "longitude": 81.2425791,
+    "place_id": "ChIJXbl9DGqhmzkRSf6WRDZRynk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbl9DGqhmzkRSf6WRDZRynk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:17"
+  },
+  {
+    "business_name": "Deep Shoes Showroom",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "210433",
+    "phone_number": "+91 93052 75526",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 519,
+    "address": "Nokia Service Centre, Railway Station Rd, PNT Colony, Raebareli, Uttar Pradesh 229001",
+    "area": "PNT Colony",
+    "latitude": 26.2296373,
+    "longitude": 81.2384896,
+    "place_id": "ChIJrwyyyUWhmzkRZLwDWk10QxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwyyyUWhmzkRZLwDWk10QxM",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:17"
+  }
+]

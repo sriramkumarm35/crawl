@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Business Speaks Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "211005",
+    "phone_number": "N/A",
+    "website": "https://businesspeaks.in/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Business Speaks Agency, 211005, India",
+    "area": "211005",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJD9x_G79wpGkR_sevVNkC3tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9x_G79wpGkR_sevVNkC3tQ",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:22:43"
+  },
+  {
+    "business_name": "Business Onboarding",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "211005",
+    "phone_number": "+91 97533 03264",
+    "website": "https://www.businessonboarding.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Business Onboarding, 211005, India",
+    "area": "211005",
+    "latitude": 28.635909899999998,
+    "longitude": 77.2695926,
+    "place_id": "ChIJyUYFNwKe0IERTFuhN97nTNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUYFNwKe0IERTFuhN97nTNI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:22:44"
+  }
+]

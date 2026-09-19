@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shail World",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "210505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NEAR BY SARDAR PATEL BALIKA INTER COLLEGE, Diggi, RAMEDI DANDA, Uttar Pradesh 210301",
+    "area": "Diggi",
+    "latitude": 25.947671,
+    "longitude": 80.1585857,
+    "place_id": "ChIJgdF84Vr9nDkReRDDMi1Lips",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdF84Vr9nDkReRDDMi1Lips",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:09:29"
+  },
+  {
+    "business_name": "R.K Chemical",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "210505",
+    "phone_number": "+91 91162 26002",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivpuri East, Ghatampur, Uttar Pradesh 209206",
+    "area": "Shivpuri East",
+    "latitude": 26.1540295,
+    "longitude": 80.1649261,
+    "place_id": "ChIJpUjpkEJVnDkRSYBpofZecBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUjpkEJVnDkRSYBpofZecBw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:09:29"
+  }
+]

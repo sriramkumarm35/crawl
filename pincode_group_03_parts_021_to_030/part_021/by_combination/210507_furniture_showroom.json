@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Furniture and Electronics",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "210507",
+    "phone_number": "+91 99351 81717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "bus stand, Main Road Near roadways, Maudaha, Uttar Pradesh 210507",
+    "area": "210507",
+    "latitude": 25.6836687,
+    "longitude": 80.1145275,
+    "place_id": "ChIJfTbtPezfnDkRnkPcVM8OD80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTbtPezfnDkRnkPcVM8OD80",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:19"
+  },
+  {
+    "business_name": "संकटमोचन कना भण्डार",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "210507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tikri Buzurg, Uttar Pradesh 210001",
+    "area": "210507",
+    "latitude": 25.5883681,
+    "longitude": 80.2046192,
+    "place_id": "ChIJzelRUcHbnDkRGfQ-70D65X8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzelRUcHbnDkRGfQ-70D65X8",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:21"
+  }
+]

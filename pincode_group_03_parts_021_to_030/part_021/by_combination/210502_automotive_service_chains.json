@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mechanic Dekho",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "210502",
+    "phone_number": "+91 99075 03457",
+    "website": "https://www.mechanicdekho.com/",
+    "rating": 4.9,
+    "reviews_count": 74,
+    "address": "Raninagar, Katabagan, Nabapalli, Berhampore, West Bengal 742101",
+    "area": "Raninagar, Katabagan, Nabapalli",
+    "latitude": 24.098260699999997,
+    "longitude": 88.268411,
+    "place_id": "ChIJZ9UzVxp9-TkRndJ33mvEp9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9UzVxp9-TkRndJ33mvEp9o",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:05:07"
+  },
+  {
+    "business_name": "Maruti Suzuki Authorised Service (M S Services)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "210502",
+    "phone_number": "+91 93734 22822",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 879,
+    "address": "P!ot 14, Hill Rd, Gandhi Nagar, Nagpur, Maharashtra 440010",
+    "area": "Gandhi Nagar",
+    "latitude": 21.1349982,
+    "longitude": 79.0522075,
+    "place_id": "ChIJAQAAcG_A1DsRJ5qQhYdiJzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAcG_A1DsRJ5qQhYdiJzk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:05:07"
+  }
+]

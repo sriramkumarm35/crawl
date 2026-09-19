@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream Bike Workshop Teghoria",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "210507",
+    "phone_number": "+91 88879 96321",
+    "website": "http://dreambikeworkshop.info/",
+    "rating": 4.9,
+    "reviews_count": 43,
+    "address": "JCCP+H2V Bipasa Apartment, Main Road, Tegharia, Rajarhat, Kolkata, West Bengal 700157",
+    "area": "Tegharia, Rajarhat",
+    "latitude": 22.6314375,
+    "longitude": 88.4350625,
+    "place_id": "ChIJ4ZL4Sh6f-DkRNKQI9aoEpPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZL4Sh6f-DkRNKQI9aoEpPA",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:07"
+  },
+  {
+    "business_name": "Sachan Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "210507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2865+5J8, Amauli, Uttar Pradesh 212631",
+    "area": "210507",
+    "latitude": 26.010413,
+    "longitude": 80.30906929999999,
+    "place_id": "ChIJAQAAADv3nDkR-GZ1tHas_18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAADv3nDkR-GZ1tHas_18",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:12:09"
+  }
+]

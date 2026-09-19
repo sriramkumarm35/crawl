@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Udhaiyam Organic & Speciality Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "210505",
+    "phone_number": "+91 98216 69777",
+    "website": "https://udhaiyam.com/",
+    "rating": 4.8,
+    "reviews_count": 62,
+    "address": "Shop No 6, Anand Niwas Chs Ltd., near Samrat bar, Sector 6, Kopar Khairane, Navi Mumbai, Maharashtra 400709",
+    "area": "Sector 6, Kopar Khairane",
+    "latitude": 19.1023323,
+    "longitude": 73.00420179999999,
+    "place_id": "ChIJleUx12LB5zsRETHPxsH127w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleUx12LB5zsRETHPxsH127w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:07:56"
+  },
+  {
+    "business_name": "Ma ambe herbal store imc",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "210505",
+    "phone_number": "+91 76788 12533",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Near government inter college, Kurara, Uttar Pradesh 210505",
+    "area": "210505",
+    "latitude": 25.979808799999997,
+    "longitude": 79.9825585,
+    "place_id": "ChIJ0S-PZkEHnTkRf02PZEGMudk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S-PZkEHnTkRf02PZEGMudk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:07:56"
+  }
+]

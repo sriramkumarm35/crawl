@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal fitness gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "210433",
+    "phone_number": "+91 63888 28566",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "koraon road, Meja Rd, beside mohan garden, Soranv Pati, Uttar Pradesh 212303",
+    "area": "210433",
+    "latitude": 25.214364,
+    "longitude": 82.0845554,
+    "place_id": "ChIJRUMCQ_5bhTkRKmJsn6myLl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUMCQ_5bhTkRKmJsn6myLl0",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:30"
+  },
+  {
+    "business_name": "The Fit Life Gym | Greater Noida",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Yoga studio",
+    "pincode": "210433",
+    "phone_number": "+91 97181 49457",
+    "website": "https://thefitnessgym.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Vihaan Greens, near Diligent Builders and Deewan plaza, Sector 1, Aimnabad, Bisrakh Jalalpur, Greater Noida, Bisrakh Jalalpur, Uttar Pradesh 201318",
+    "area": "Sector 1, Aimnabad, Bisrakh Jalalpur",
+    "latitude": 28.5595529,
+    "longitude": 77.4422475,
+    "place_id": "ChIJF0mSvfzvDDkRrft8CWWG4fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0mSvfzvDDkRrft8CWWG4fo",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:01:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "211006",
+    "phone_number": "+91 82996 54822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/7A, near Leprosy Chauraha, Naini, Prayagraj, Mahewa Patti Pashchim Kachh, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.414742099999998,
+    "longitude": 81.85580929999999,
+    "place_id": "ChIJLSMUU-A1hTkRrTuX4q1Hd00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSMUU-A1hTkRrTuX4q1Hd00",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:56"
+  },
+  {
+    "business_name": "Tanush Garden",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service",
+    "pincode": "211006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "622/492, Kydganj, Prayagraj, Uttar Pradesh 211003",
+    "area": "Kydganj",
+    "latitude": 25.434291299999998,
+    "longitude": 81.85135079999999,
+    "place_id": "ChIJ4QzAPAA1hTkRv21UhpOdCfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QzAPAA1hTkRv21UhpOdCfc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:23:58"
+  }
+]

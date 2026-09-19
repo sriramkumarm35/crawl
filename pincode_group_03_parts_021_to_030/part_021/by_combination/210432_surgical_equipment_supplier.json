@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Health and beauty shop, Hospital equipment and supplies, Medical laboratory, Medical supply store, Orthopedic supplies store, Surgical Products Wholesaler, Wheelchair store, Wholesale drugstore",
+    "pincode": "210432",
+    "phone_number": "+91 78273 75347",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 70,
+    "address": "Maali Gali, Ghosh Ln, Ward No - 17, Gudari Bazar, Samastipur, Bihar 848101",
+    "area": "Ward No-17, Gudari Bazar",
+    "latitude": 25.8632979,
+    "longitude": 85.78384899999999,
+    "place_id": "ChIJsZ4WLzGR7TkRENALh0LjaHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZ4WLzGR7TkRENALh0LjaHw",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:46"
+  },
+  {
+    "business_name": "Medical Equipment Repair Center",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Biotechnology company, Medical Equipment Manufacturer",
+    "pincode": "210432",
+    "phone_number": "+91 99054 43780",
+    "website": "https://api1.vyaparapp.in/store/medicalequipmentrepaircenter1",
+    "rating": 4.9,
+    "reviews_count": 313,
+    "address": "Imageing Center, Near Darbhanga, Mathila Colony, VIP Rd, Allapatti, Bihar 846003",
+    "area": "Allalpatti, Laheriasarai",
+    "latitude": 26.138527099999997,
+    "longitude": 85.9084187,
+    "place_id": "ChIJI6-fxUK47TkRxtJNcTTYiwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6-fxUK47TkRxtJNcTTYiwk",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 08:59:46"
+  }
+]

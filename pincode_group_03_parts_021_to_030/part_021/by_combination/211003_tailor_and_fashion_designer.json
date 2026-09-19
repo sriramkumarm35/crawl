@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VINOD TAILORS",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "211003",
+    "phone_number": "+91 82995 15637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "373, Malviyanagar, Prayagraj, Uttar Pradesh 211003",
+    "area": "Malviyanagar",
+    "latitude": 25.43566,
+    "longitude": 81.8358543,
+    "place_id": "ChIJ88peByvLmjkRaPxH073p05w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88peByvLmjkRaPxH073p05w",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:28"
+  },
+  {
+    "business_name": "Students Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Gents Tailor",
+    "pincode": "211003",
+    "phone_number": "+91 93052 51200",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 27,
+    "address": "19-A, Badshahi Mandi, Miurabad, Prayagraj, Uttar Pradesh 211003",
+    "area": "Badshahi Mandi, Miurabad",
+    "latitude": 25.4442307,
+    "longitude": 81.8378391,
+    "place_id": "ChIJy0632s7KmjkR1dtU7ANPShc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0632s7KmjkR1dtU7ANPShc",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:17:28"
+  }
+]

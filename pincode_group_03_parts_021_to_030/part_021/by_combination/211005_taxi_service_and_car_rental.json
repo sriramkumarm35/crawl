@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flo Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "211005",
+    "phone_number": "N/A",
+    "website": "http://flocabs.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jagdish Rd, Sangam Ghat, Allahabad fort, Prayagraj, Uttar Pradesh 211006",
+    "area": "Sangam Ghat, Allahabad fort",
+    "latitude": 25.435312699999997,
+    "longitude": 81.8789236,
+    "place_id": "ChIJYZ7LOQBLhTkR2x6IXaufYs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZ7LOQBLhTkR2x6IXaufYs4",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:21:40"
+  },
+  {
+    "business_name": "Rajasthan Taxi Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "211005",
+    "phone_number": "+91 94148 16181",
+    "website": "http://rajasthantaxirental.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "20, Tonk Road, Sector 6, Raghunath Puri, Sanganer, 1st B, Pratap Nagar, Jaipur, Rajasthan 302029",
+    "area": "Raghunath Puri, Sanganer, 1st B, Pratap Nagar",
+    "latitude": 26.8075768,
+    "longitude": 75.8063815,
+    "place_id": "ChIJiek0qcHLbTkRDCSvE-lIWQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiek0qcHLbTkRDCSvE-lIWQg",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:21:41"
+  }
+]

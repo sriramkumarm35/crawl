@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarika beauty salon and training center",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210505",
+    "phone_number": "+91 83188 11260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Old Hospital Road, Ghatampur, Uttar Pradesh 209206",
+    "area": "210505",
+    "latitude": 26.1543729,
+    "longitude": 80.1680879,
+    "place_id": "ChIJ-6sZ8LpVnDkRM7dG7kzp0GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6sZ8LpVnDkRM7dG7kzp0GI",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:08:53"
+  },
+  {
+    "business_name": "Priyanka beauty salon",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "210505",
+    "phone_number": "+91 82997 22254",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "near gramin Bank, Nauranga, Ghatampur, Uttar Pradesh 209206",
+    "area": "210505",
+    "latitude": 26.127160399999998,
+    "longitude": 80.2453831,
+    "place_id": "ChIJuQDWYPdXnDkRjXyftAcvh3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQDWYPdXnDkRjXyftAcvh3k",
+    "part_id": "part_021",
+    "crawled_at": "2026-09-19 09:08:53"
+  }
+]
