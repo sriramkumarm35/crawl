@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "माँ चंद्रबदनी आटा चक्की",
+    "search_category": "Flour Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "249161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "6RJ5+2HG, Madhi Chauras, Madhi, Srinagar, Uttarakhand 246178",
+    "area": "Madhi Chauras",
+    "latitude": 30.2303982,
+    "longitude": 78.808905,
+    "place_id": "ChIJHcNiSwClCTkRQiWMU-S5yLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcNiSwClCTkRQiWMU-S5yLU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:28:56"
+  },
+  {
+    "business_name": "Flour Mill चक्की",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "249161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6WC3+FVW, Khandla, Pauri, Gaunli, Uttarakhand 246174",
+    "area": "Khandla",
+    "latitude": 30.221231,
+    "longitude": 78.9046912,
+    "place_id": "ChIJyTBVHY-7CTkRUP8SZxPR8l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTBVHY-7CTkRUP8SZxPR8l0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:28:57"
+  }
+]

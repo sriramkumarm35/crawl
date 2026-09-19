@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VETLAB Dehradun",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "249145",
+    "phone_number": "+91 90847 32366",
+    "website": "https://vetlab.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11 , Ground Floor, Central Plaza, Subhash Rd, opposite State Police Head quarter, Irigation Colony, Karanpur, Dehradun, Uttarakhand 248001",
+    "area": "Irigation Colony, Karanpur",
+    "latitude": 30.3296033,
+    "longitude": 78.05078449999999,
+    "place_id": "ChIJpwISH9EpCTkRQvmwuhxQ5U8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwISH9EpCTkRQvmwuhxQ5U8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:16"
+  },
+  {
+    "business_name": "Raahat Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "249145",
+    "phone_number": "N/A",
+    "website": "http://raahatanimalhospital.org/",
+    "rating": 3.9,
+    "reviews_count": 1282,
+    "address": "Sahastradhara Road Near NCC Headquarter Nanur Kheda, Dehradun, Uttarakhand 248008",
+    "area": "Raipur",
+    "latitude": 30.335189999999997,
+    "longitude": 78.0819233,
+    "place_id": "ChIJvbFhsz0oCTkRBFNhjMyRUc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbFhsz0oCTkRBFNhjMyRUc4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:17"
+  }
+]

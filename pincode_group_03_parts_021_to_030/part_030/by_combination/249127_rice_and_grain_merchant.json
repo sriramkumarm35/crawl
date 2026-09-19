@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Ramchandra Rice Stores",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer",
+    "pincode": "249127",
+    "phone_number": "+91 40 2750 1034",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGF8+MC9, Namalagundu Rd, Sri Rayapatnam, Indira Nagar, Padmarao Nagar, Secunderabad, Telangana 500061",
+    "area": "Sri Rayapatnam, Indira Nagar, Padmarao Nagar",
+    "latitude": 17.424173,
+    "longitude": 78.516099,
+    "place_id": "ChIJP7847oCZyzsRhAgJ5MYGUy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7847oCZyzsRhAgJ5MYGUy8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:03:04"
+  },
+  {
+    "business_name": "Varalakshmi Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Wholesaler",
+    "pincode": "249127",
+    "phone_number": "+91 92465 54275",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "7-1-211/8, 13, 6th Ln, near Food World, Srinivasa Nagar, Balkampet, Hyderabad, Telangana 500016",
+    "area": "Srinivasa Nagar, Balkampet",
+    "latitude": 17.4387898,
+    "longitude": 78.44992529999999,
+    "place_id": "ChIJpYs2yseQyzsRALAg87hpWho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpYs2yseQyzsRALAg87hpWho",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:03:05"
+  }
+]

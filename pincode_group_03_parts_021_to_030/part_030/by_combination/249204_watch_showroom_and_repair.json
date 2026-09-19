@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Enterprises",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store, Mobile phone repair shop",
+    "pincode": "249204",
+    "phone_number": "+91 73027 05257",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 22,
+    "address": "Khairi Kalaa, Shyampur, Garhi Syampur, Rishikesh, Uttarakhand 249204",
+    "area": "Khairi Kalaa, Shyampur",
+    "latitude": 30.062886199999998,
+    "longitude": 78.2264896,
+    "place_id": "ChIJ4z5QALg_CTkR0o9VXNDAN-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4z5QALg_CTkR0o9VXNDAN-o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:03"
+  },
+  {
+    "business_name": "Watch repair",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch repair service",
+    "all_categories": "Watch repair service",
+    "pincode": "249204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Pandey plot 1, khairi khurd, Shyampur, Rishikesh, Uttarakhand 249204",
+    "area": "khairi khurd, Shyampur",
+    "latitude": 30.0606223,
+    "longitude": 78.241556,
+    "place_id": "ChIJM7fLd9s_CTkRXSc_u9U6tds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7fLd9s_CTkRXSc_u9U6tds",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:03"
+  }
+]

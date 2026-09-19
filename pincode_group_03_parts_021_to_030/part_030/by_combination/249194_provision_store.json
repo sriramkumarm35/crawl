@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249194",
+    "phone_number": "+91 98971 44630",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "49, DL Rd, Block II, Karanpur, Dehradun, Uttarakhand 248001",
+    "area": "Block II, Karanpur",
+    "latitude": 30.331017499999998,
+    "longitude": 78.0608634,
+    "place_id": "ChIJIZ6UUswpCTkR5ROLFvT-ut0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZ6UUswpCTkR5ROLFvT-ut0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:01"
+  },
+  {
+    "business_name": "Baranwal Daily Needs",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249194",
+    "phone_number": "+91 99173 38979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Singh Dwar Chowk, Gurukul Kangri Vishwavidyalaya, Kankhal, Haridwar, Uttarakhand 249404",
+    "area": "Gurukul Kangri Vishwavidyalaya, Kankhal",
+    "latitude": 29.9259271,
+    "longitude": 78.13176399999999,
+    "place_id": "ChIJR81jMT9GCTkREhGvjWd7jXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR81jMT9GCTkREhGvjWd7jXw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:03"
+  }
+]

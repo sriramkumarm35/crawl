@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "सुरेन्द्र रौंटा गेस्ट हाऊस",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "249141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R57Q+4F5, Paunthi, Balari, Uttarakhand 249141",
+    "area": "249141",
+    "latitude": 30.8126836,
+    "longitude": 78.1887795,
+    "place_id": "ChIJeZO1AAC7CDkR79XXvFtoWRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZO1AAC7CDkR79XXvFtoWRw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:57"
+  },
+  {
+    "business_name": "Hotel Monal",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Home Stay",
+    "pincode": "249141",
+    "phone_number": "+91 89584 50000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Brahamkhal Yamunotri Road, Uttarkashi, Bareth, Uttarakhand 249152",
+    "area": "249141",
+    "latitude": 30.6990803,
+    "longitude": 78.30064639999999,
+    "place_id": "ChIJowZUI0nrCDkRU1RIHXipb8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowZUI0nrCDkRU1RIHXipb8E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:57"
+  }
+]

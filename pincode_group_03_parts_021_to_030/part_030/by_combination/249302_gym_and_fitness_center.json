@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Kaizen Studio",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "249302",
+    "phone_number": "+91 98755 69376",
+    "website": "http://www.kaizenstudio.fit/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "4th Floor, Siddhi Retreat Hotel, Badrinath Marg, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1296786,
+    "longitude": 78.32643709999999,
+    "place_id": "ChIJD_1xJG8XCTkRO9VFbEEGRGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_1xJG8XCTkRO9VFbEEGRGk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:35"
+  },
+  {
+    "business_name": "The Gym fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "249302",
+    "phone_number": "+91 78986 46177",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jalalpur Chauraha, near by shiv ganga TVS motors, Gwalior, Madhya Pradesh 474010",
+    "area": "249302",
+    "latitude": 26.2571919,
+    "longitude": 78.1626713,
+    "place_id": "ChIJ6WI-BEDHdjkRJgDbkqAweaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WI-BEDHdjkRJgDbkqAweaQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:38"
+  }
+]

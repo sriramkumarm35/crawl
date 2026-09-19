@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakhi Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "249186",
+    "phone_number": "+91 82794 88202",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Road, Kempty, Mussoorie, Ram Gaon, Uttarakhand 248179",
+    "area": "Road, Kempty",
+    "latitude": 30.4886013,
+    "longitude": 78.0409651,
+    "place_id": "ChIJwwBCvnzRCDkR7EBRGN_LiTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwBCvnzRCDkR7EBRGN_LiTY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:42:34"
+  },
+  {
+    "business_name": "Pihu Cosmatic & Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "249186",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H294+X33, Nainbagh, Tator, Uttarakhand 249186",
+    "area": "249186",
+    "latitude": 30.569917699999998,
+    "longitude": 78.0053454,
+    "place_id": "ChIJM-IrfgDNCDkRBHJfAHDfQVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-IrfgDNCDkRBHJfAHDfQVQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:42:34"
+  }
+]

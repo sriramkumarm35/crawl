@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Model Colony",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Clinic",
+    "all_categories": "ENT Clinic",
+    "pincode": "249407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haridwar, Jwalapur, Uttarakhand 249407",
+    "area": "Model Colony",
+    "latitude": 29.9326309,
+    "longitude": 78.1300742,
+    "place_id": "ChIJE_9AnDdGCTkRXJc2vKX8gMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_9AnDdGCTkRXJc2vKX8gMI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:32"
+  },
+  {
+    "business_name": "Ranipur",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Clinic",
+    "all_categories": "ENT Clinic",
+    "pincode": "249407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uttarakhand 249407",
+    "area": "249407",
+    "latitude": 29.9220391,
+    "longitude": 78.0814601,
+    "place_id": "ChIJzRsBfcROCTkROEOWK6IjLn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRsBfcROCTkROEOWK6IjLn8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:32"
+  }
+]

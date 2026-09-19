@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunstone Cafe Chinyali",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/sunstone_cafe?igsh=b2h3NjR4NzdiMXZs",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H8JH+927, Tehri - Dharasu Rd, Chinyalisaur, Chinyalisour, Uttarakhand 249196",
+    "area": "249132",
+    "latitude": 30.5806896,
+    "longitude": 78.3278304,
+    "place_id": "ChIJh2g3_JHpCDkR_i3k72FsDbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2g3_JHpCDkR_i3k72FsDbo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:37"
+  },
+  {
+    "business_name": "Meal On Hill - Restro & Cafe (A unit of The Aravali Story)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "https://www.aravalistory.com/mealonhill",
+    "rating": 4.7,
+    "reviews_count": 137,
+    "address": "Chamba-Mussoorie Road, NH 707A, Batwaldhar, Dhanolti, Uttarakhand 249180",
+    "area": "Batwaldhar",
+    "latitude": 30.4149063,
+    "longitude": 78.26621279999999,
+    "place_id": "ChIJB3F7Qy_fCDkRL-eTRkK2-No",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3F7Qy_fCDkRL-eTRkK2-No",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:38"
+  }
+]

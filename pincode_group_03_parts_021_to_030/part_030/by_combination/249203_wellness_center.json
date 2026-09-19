@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heal Wellness Clinic",
+    "search_category": "Wellness Center",
+    "primary_category": "Diabetes center",
+    "all_categories": "Diabetes center",
+    "pincode": "249203",
+    "phone_number": "+91 97110 49779",
+    "website": "https://healwellnessclinic.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Barrage Colony, Rishikesh, Uttarakhand 249203",
+    "area": "Barrage Colony",
+    "latitude": 30.0690709,
+    "longitude": 78.2812222,
+    "place_id": "ChIJ_V1qoRc_CTkR6NmenQ_qp9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_V1qoRc_CTkR6NmenQ_qp9Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:49"
+  },
+  {
+    "business_name": "Cosmic Healing Cafe",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "249203",
+    "phone_number": "N/A",
+    "website": "http://www.cosmichealingcafe.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C1, Virbhadra Rd, near AIIMS, Barrage Colony, Rishikesh, Uttarakhand 249203",
+    "area": "Barrage Colony",
+    "latitude": 30.0728732,
+    "longitude": 78.2812474,
+    "place_id": "ChIJ5Sce_NA_CTkRgAn_EsG58wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Sce_NA_CTkRgAn_EsG58wY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "News Uttarakhand",
+    "search_category": "Media and Event",
+    "primary_category": "Media house",
+    "all_categories": "Media house",
+    "pincode": "249145",
+    "phone_number": "+91 94565 91385",
+    "website": "http://newsuttarakhand.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Raipur, Dehradun, Uttarakhand 248008",
+    "area": "Raipur",
+    "latitude": 30.307465299999997,
+    "longitude": 78.09907059999999,
+    "place_id": "ChIJmeEQZH4pCTkRnsEEebXI1yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeEQZH4pCTkRnsEEebXI1yE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:56"
+  },
+  {
+    "business_name": "Lakshmi Wedding Point",
+    "search_category": "Media and Event",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "249145",
+    "phone_number": "+91 70171 59121",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "73FR+V94, Tunwala, Nehrugram, Dehradun, Uttarakhand 248005",
+    "area": "Tunwala, Nehrugram",
+    "latitude": 30.274629599999997,
+    "longitude": 78.09094639999999,
+    "place_id": "ChIJzXCoJ7koCTkR6nXwamIVUxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXCoJ7koCTkR6nXwamIVUxk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:56"
+  }
+]

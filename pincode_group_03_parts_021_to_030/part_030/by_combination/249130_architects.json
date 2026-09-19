@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kakkar Buildwell",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Structural engineer",
+    "pincode": "249130",
+    "phone_number": "+91 99978 73009",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "East, Jail Road, near APS TOWER, Pokhar Khali, Almora, Uttarakhand 263601",
+    "area": "Pokhar Khali",
+    "latitude": 29.6041425,
+    "longitude": 79.6662023,
+    "place_id": "ChIJv29m5nq3oDkRyTll4e2ChVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv29m5nq3oDkRyTll4e2ChVQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:37"
+  },
+  {
+    "business_name": "Terra Atelier",
+    "search_category": "Architects",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Real Estate Builders & Construction Company, Architectural designer, Vastu consultant",
+    "pincode": "249130",
+    "phone_number": "+91 98974 91788",
+    "website": "http://terraatelier.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st floor, opposite sbi atm, Shyamkhet, Bhowali, Sukha, Lvesaal, Uttarakhand 263132",
+    "area": "Shyamkhet, Bhowali",
+    "latitude": 29.3857958,
+    "longitude": 79.52849379999999,
+    "place_id": "ChIJ95lq6MixoDkRjudi5Fth3qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95lq6MixoDkRjudi5Fth3qs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:37"
+  }
+]

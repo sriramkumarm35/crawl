@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryan milk palace",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "249185",
+    "phone_number": "+91 92591 82248",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Opposite to negi tower, Har ki dun road, Purola, Uttarakhand 249185",
+    "area": "249185",
+    "latitude": 30.879583399999998,
+    "longitude": 78.0847678,
+    "place_id": "ChIJ29413JexCDkRIUmkgp4C_4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29413JexCDkRIUmkgp4C_4U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:41"
+  },
+  {
+    "business_name": "Kripate Auto Zone",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "249185",
+    "phone_number": "+91 94111 52772",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Word Nmr 5, Purola, Uttarakhand 249185",
+    "area": "249185",
+    "latitude": 30.878283099999997,
+    "longitude": 78.08533349999999,
+    "place_id": "ChIJDX00_9GxCDkRWTb2HQ8a8Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX00_9GxCDkRWTb2HQ8a8Jc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Tandori Sancks",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, North Indian restaurant",
+    "pincode": "249411",
+    "phone_number": "+91 74178 72785",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 23,
+    "address": "Ranipur More, near Bikaner, Govindpuri, Misthan, Bhander, Haridwar, Uttarakhand 249401",
+    "area": "Govindpuri, Misthan",
+    "latitude": 29.9359823,
+    "longitude": 78.1389178,
+    "place_id": "ChIJORstif5HCTkR7lDSAhVQoU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORstif5HCTkR7lDSAhVQoU8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:52"
+  },
+  {
+    "business_name": "Pracheen Mathura Wale",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "249411",
+    "phone_number": "+91 94120 74609",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 69,
+    "address": "Har Ki Pauri Marg, Har Ki Pauri, Haridwar, Uttarakhand 249401",
+    "area": "Har Ki Pauri",
+    "latitude": 29.9560255,
+    "longitude": 78.1703435,
+    "place_id": "ChIJ4QopX6ZHCTkRo2vAB5FAVa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QopX6ZHCTkRo2vAB5FAVa4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ananya Confectnary Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249407",
+    "phone_number": "+91 90843 50726",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "House No 1088, Vishnu Lok Colony, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Vishnu Lok Colony",
+    "latitude": 29.9331896,
+    "longitude": 78.11030889999999,
+    "place_id": "ChIJ_zOCVaVJCTkRWvyEqtiIZhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zOCVaVJCTkRWvyEqtiIZhk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:19:58"
+  },
+  {
+    "business_name": "Rawat Provision Stores",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249407",
+    "phone_number": "+91 91253 24632",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "W4JM+548, Khanna Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Khanna Nagar",
+    "latitude": 29.9304137,
+    "longitude": 78.13283469999999,
+    "place_id": "ChIJp_HdbThGCTkRz2ue3EU409k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_HdbThGCTkRz2ue3EU409k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:19:59"
+  }
+]

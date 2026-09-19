@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thatyur",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "249180",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "F5V7+H5Q, Dhana Rd, Thatyur, Kuwa Lagga Mundani, Uttarakhand 249180",
+    "area": "249180",
+    "latitude": 30.4939742,
+    "longitude": 78.16297159999999,
+    "place_id": "ChIJUa1wRgDbCDkRF7lLxcqkrZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUa1wRgDbCDkRF7lLxcqkrZY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:37:07"
+  },
+  {
+    "business_name": "Saksham furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "249180",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F5W7+849, Thatyur, Kuwa Lagga Mundani, Uttarakhand 249180",
+    "area": "249180",
+    "latitude": 30.495780399999997,
+    "longitude": 78.1628562,
+    "place_id": "ChIJr_bmfgDbCDkRjHLCZg_2Ykk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_bmfgDbCDkRjHLCZg_2Ykk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:37:10"
+  }
+]

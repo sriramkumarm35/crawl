@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bangali Fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "249175",
+    "phone_number": "0303 2390312",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "R4WR+CCG, Nusrat Colony Sector 8 B Korangi, Karachi, Pakistan",
+    "area": "Nusrat Colony Sector 8 B Korangi",
+    "latitude": 24.8460625,
+    "longitude": 67.1410625,
+    "place_id": "ChIJW82rmPo7sz4RSgGeKAPsF1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW82rmPo7sz4RSgGeKAPsF1M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:20"
+  },
+  {
+    "business_name": "Fish Market-Prem Nagar",
+    "search_category": "Fish Market",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249175",
+    "phone_number": "+91 70210 84166",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3rd, Fish Market Rd, Saraswati Baug, Gandhi Nagar Society, Prem Nagar, Jogeshwari East, Mumbai, Maharashtra 400060",
+    "area": "Saraswati Baug, Gandhi Nagar Society, Prem Nagar, Jogeshwari East",
+    "latitude": 19.135352299999997,
+    "longitude": 72.8583465,
+    "place_id": "ChIJtyqzTGS35zsRX1KfCNKLUSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyqzTGS35zsRX1KfCNKLUSY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eat Out Family restaurant and maggi+chai point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249145",
+    "phone_number": "+91 93895 48483",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Red bridge, Maldevta Road, sherki maldevta, Seraki, Uttarakhand 249145",
+    "area": "sherki maldevta",
+    "latitude": 30.352058099999997,
+    "longitude": 78.1391745,
+    "place_id": "ChIJVcsubuonCTkRP1FgKyuMNyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcsubuonCTkRP1FgKyuMNyA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:19:55"
+  },
+  {
+    "business_name": "Jalebi restaurant and hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Chamba rishikesh road timlishera aamshera, Chamba Rishikesh highway road, timlishera, Timlishera, amshra, Uttarakhand 249175",
+    "area": "timlishera, Timlishera",
+    "latitude": 30.300372699999997,
+    "longitude": 78.3483725,
+    "place_id": "ChIJHfKBB9wfCTkRxjMaGaMc1Y8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfKBB9wfCTkRxjMaGaMc1Y8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:19:55"
+  }
+]

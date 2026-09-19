@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmology clinic, Lasik surgeon, Ophthalmologist, Optician, Pediatric ophthalmologist",
+    "pincode": "249192",
+    "phone_number": "+91 92208 92424",
+    "website": "http://www.delhieyecare.com/",
+    "rating": 4.9,
+    "reviews_count": 640,
+    "address": "4/21, Balraj Khanna Marg, near Amrapali Hotel, Block 4, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+    "area": "Block 4, East Patel Nagar, Patel Nagar",
+    "latitude": 28.6428957,
+    "longitude": 77.17434899999999,
+    "place_id": "ChIJz_aRcZUCDTkRWPctMbmAEOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_aRcZUCDTkRWPctMbmAEOQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:43:59"
+  },
+  {
+    "business_name": "NIRMAL MISSION FOR VISION SOCIETY",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "249192",
+    "phone_number": "+91 96392 37707",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Satyanarayan, PO, near Nepali Farm, Khairi Kalan, Shyampur, Rishikesh, Uttarakhand 249204",
+    "area": "Khairi Kalan, Shyampur",
+    "latitude": 30.0667938,
+    "longitude": 78.2139814,
+    "place_id": "ChIJvVBSJLg-CTkRAAAAcGomVFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVBSJLg-CTkRAAAAcGomVFI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:44:00"
+  }
+]

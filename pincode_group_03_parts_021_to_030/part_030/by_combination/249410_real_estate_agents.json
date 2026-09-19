@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garment",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Retail space rental agency",
+    "all_categories": "Retail space rental agency",
+    "pincode": "249410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhupatwala, Bhagirathi Nagar, Bhoopatwala, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Bhagirathi Nagar, Bhoopatwala",
+    "latitude": 29.977427499999997,
+    "longitude": 78.1796987,
+    "place_id": "ChIJX9b-M5tHCTkRvNCGNOMZrrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9b-M5tHCTkRvNCGNOMZrrs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:18"
+  },
+  {
+    "business_name": "Jagjeetpur haridwar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Game store",
+    "all_categories": "Game store",
+    "pincode": "249410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W48V+V8P, Kankhal Jagjeetpur Rd, Vishwakalyan, Jagjeetpur, Haridwar, Devpur Mustakam, Uttarakhand 249408",
+    "area": "Vishwakalyan, Jagjeetpur",
+    "latitude": 29.917213,
+    "longitude": 78.1433311,
+    "place_id": "ChIJfZguPgBHCTkRPScguZG1ufE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZguPgBHCTkRPScguZG1ufE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GANGA FOREST VIEW (Riverside Homestay)",
+    "search_category": "Resort",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249201",
+    "phone_number": "+91 63962 46018",
+    "website": "https://www.gangaforestview.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "86 and 86/1 STARDIA COLONY STREET, 4, Virbhadra Rd, Rishikesh, Uttarakhand 249201",
+    "area": "Sturida Colony",
+    "latitude": 30.089455299999997,
+    "longitude": 78.29034419999999,
+    "place_id": "ChIJ6_cnqr0_CTkRfdRaFCHzjU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_cnqr0_CTkRfdRaFCHzjU0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:55:15"
+  },
+  {
+    "business_name": "GANGA KINARE - A Riverside Boutique Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "249201",
+    "phone_number": "+91 90155 44000",
+    "website": "https://www.gangakinare.com/ganga-kinare-rishikesh-hotel-resort/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Barrage Road, 237, Virbhadra Rd, near AIIMS, Sturida Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Sturida Colony",
+    "latitude": 30.092380499999997,
+    "longitude": 78.28879719999999,
+    "place_id": "ChIJH9YOMEQWCTkRU9yvnCv01sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9YOMEQWCTkRU9yvnCv01sw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:55:15"
+  }
+]

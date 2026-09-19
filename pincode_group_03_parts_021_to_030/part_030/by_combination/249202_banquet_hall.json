@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jyoti Wedding Point",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Gali Number 8, Malviya Nagar, Virbhadra, Rishikesh, Uttarakhand 249204",
+    "area": "Malviya Nagar, Virbhadra",
+    "latitude": 30.07408,
+    "longitude": 78.2455797,
+    "place_id": "ChIJR3MukIk-CTkRKmhGAUwF_yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3MukIk-CTkRKmhGAUwF_yE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:01"
+  },
+  {
+    "business_name": "IDPL Colony Community Center",
+    "search_category": "Banquet Hall",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 79,
+    "address": "37J8+5V6, IDPL Colony, Rishikesh, Uttarakhand 249202",
+    "area": "IDPL Colony",
+    "latitude": 30.080423999999997,
+    "longitude": 78.26715399999999,
+    "place_id": "ChIJt7SZhG0-CTkRQV_w6_AkmTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7SZhG0-CTkRQV_w6_AkmTY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Kangan house",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "249130",
+    "phone_number": "+91 97613 55161",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "11, Rishikesh - Chamba - Tehri Rd, Chamba, Uttarakhand 249145",
+    "area": "249130",
+    "latitude": 30.345803,
+    "longitude": 78.3941624,
+    "place_id": "ChIJj9K1w34dCTkRp-Ocq69EQ5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9K1w34dCTkRp-Ocq69EQ5A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:54"
+  },
+  {
+    "business_name": "Divya Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "249130",
+    "phone_number": "+91 78170 58528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "1, Block Rd, Chamba, Uttarakhand 249145",
+    "area": "249130",
+    "latitude": 30.3467326,
+    "longitude": 78.3929132,
+    "place_id": "ChIJC6sn8wAdCTkR7benEcU1nt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6sn8wAdCTkR7benEcU1nt0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parekh's Akshar Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Gold dealer, Goldsmith, Jeweler, Jewelry designer, Jewelry manufacturer, Gemstone Jeweler, Silversmith",
+    "pincode": "249301",
+    "phone_number": "+91 79002 60081",
+    "website": "https://parekhaksharjewellers.com/",
+    "rating": 4.9,
+    "reviews_count": 233,
+    "address": "Navratra Gate, Near, Queta Colony, Nagpur, Maharashtra 440008",
+    "area": "Queta Colony, Lakadganj",
+    "latitude": 21.1511305,
+    "longitude": 79.11886539999999,
+    "place_id": "ChIJdfc0IgDH1DsR65TYn_1qFDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfc0IgDH1DsR65TYn_1qFDE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:34"
+  },
+  {
+    "business_name": "Swarnalika Jewellers & Sarees",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Goldsmith, Jeweler, Jewelry designer, Jewelry store, Gemstone Jeweler, Wholesale jeweler",
+    "pincode": "249301",
+    "phone_number": "+91 90060 61222",
+    "website": "http://www.swarnalikajewellers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A12, near Lenskart, City Center, Sector 4, Bokaro Steel City, Jharkhand 827004",
+    "area": "City Center, Sector 4",
+    "latitude": 23.6678963,
+    "longitude": 86.1421834,
+    "place_id": "ChIJu3LOrREj9DkRathxWicdrSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3LOrREj9DkRathxWicdrSM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:36"
+  }
+]

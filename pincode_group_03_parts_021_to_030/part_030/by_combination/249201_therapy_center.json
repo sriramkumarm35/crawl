@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Physio healing",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "249201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no: 54, First Floor, Sbm Shopping Complex, Haridwar Rd, Ganga Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Ganga Nagar",
+    "latitude": 30.098985,
+    "longitude": 78.287898,
+    "place_id": "ChIJ3eOxcAA9CTkRoO-TY1T8n1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eOxcAA9CTkRoO-TY1T8n1A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:55:10"
+  },
+  {
+    "business_name": "The Healing Hours",
+    "search_category": "Therapy Center",
+    "primary_category": "Craniosacral therapy",
+    "all_categories": "Craniosacral therapy, Meditation Class, Yoga Retreat Center",
+    "pincode": "249201",
+    "phone_number": "+91 90344 00532",
+    "website": "http://thehealinghours.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NIRMAL BLOCK, 31, Virbhadra Rd, near AIIMS HOSPITAL, near LOHE WALA BRIDGE, VISTHAPIT, Sturida Colony, Pashulok, Rishikesh, Uttarakhand 249202",
+    "area": "VISTHAPIT, Sturida Colony",
+    "latitude": 30.089433999999997,
+    "longitude": 78.2887975,
+    "place_id": "ChIJEWgeucHbDTkRHTeDozQcWxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWgeucHbDTkRHTeDozQcWxU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:55:11"
+  }
+]

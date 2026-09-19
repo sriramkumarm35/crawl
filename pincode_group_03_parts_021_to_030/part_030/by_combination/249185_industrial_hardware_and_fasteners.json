@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahindra hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249185",
+    "phone_number": "+91 95689 86878",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH09, Amori, Bhanauli, Uttarakhand 262523",
+    "area": "249185",
+    "latitude": 29.225904999999997,
+    "longitude": 80.048384,
+    "place_id": "ChIJrQtM0K39oDkR8mr9VRNxQRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQtM0K39oDkR8mr9VRNxQRE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:25"
+  },
+  {
+    "business_name": "Vishal Enterprise",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Showroom, Wholesaler",
+    "pincode": "249185",
+    "phone_number": "+91 87773 89428",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "20, Round Tank Ln, near BSNL Telephone Exchange, Mullick Fatak, Choura Bustee, Shibpur, Howrah, West Bengal 711101",
+    "area": "Mullick Fatak, Choura Bustee, Shibpur",
+    "latitude": 22.5757801,
+    "longitude": 88.3342162,
+    "place_id": "ChIJXab6-DV3AjoRx81Oj0lUEtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXab6-DV3AjoRx81Oj0lUEtc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:27"
+  }
+]

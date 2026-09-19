@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The hungry wheel",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "249175",
+    "phone_number": "+91 93890 01385",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Agar, Agrakhal, Uttarakhand 249175",
+    "area": "249175",
+    "latitude": 30.2164373,
+    "longitude": 78.3323978,
+    "place_id": "ChIJH5aKdJQZCTkReSGk5xj5YNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5aKdJQZCTkReSGk5xj5YNo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:31"
+  },
+  {
+    "business_name": "Akasa",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "576X+CP, Sakalana, Uttarakhand 249192",
+    "area": "249175",
+    "latitude": 30.1615079,
+    "longitude": 78.2989255,
+    "place_id": "ChIJDw0MNAAXCTkRsJDaxcw5a9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDw0MNAAXCTkRsJDaxcw5a9E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mathur Hospitality private limited",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "249135",
+    "phone_number": "+91 22 4015 9232",
+    "website": "http://mathurhospitality.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A 207, Crystal Plaza, New Link Rd, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Veera Desai Industrial Estate, Andheri West",
+    "latitude": 19.140669199999998,
+    "longitude": 72.8319578,
+    "place_id": "ChIJkwOESem25zsRc8-OeMXoDXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwOESem25zsRc8-OeMXoDXM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:22"
+  },
+  {
+    "business_name": "Class Hospitality Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "249135",
+    "phone_number": "+91 92125 01725",
+    "website": "https://classconsultants.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "186, Pocket 12, Block C2C, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Pocket 12, Block C2C, Janakpuri",
+    "latitude": 28.619299599999998,
+    "longitude": 77.08756699999999,
+    "place_id": "ChIJr6S0lj8FDTkRX7xSNCMNzJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6S0lj8FDTkRX7xSNCMNzJ8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:22"
+  }
+]

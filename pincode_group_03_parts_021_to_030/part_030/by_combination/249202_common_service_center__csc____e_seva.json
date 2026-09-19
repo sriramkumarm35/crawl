@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC CENTER PREMNAGAR",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center, Airline ticket agency, Travel agency",
+    "pincode": "249202",
+    "phone_number": "+91 90129 85062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 85,
+    "address": "Relaxo Showroom, Upper, 264, Tyagi Market Rd, Tyagi Market, Prem Nagar, Dehradun, Uttarakhand 248007",
+    "area": "Tyagi Market, Prem Nagar",
+    "latitude": 30.3354234,
+    "longitude": 77.96255239999999,
+    "place_id": "ChIJyT5IveIrCTkR5Ls0oTwNgQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyT5IveIrCTkR5Ls0oTwNgQU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:18"
+  },
+  {
+    "business_name": "abml",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Common Service Center (CSC) / E-Seva",
+    "all_categories": "Common Service Center (CSC) / E-Seva",
+    "pincode": "249202",
+    "phone_number": "+91 98972 81781",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SBM, shopping complex, Haridwar Rd, Ganga Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Ganga Nagar",
+    "latitude": 30.0990826,
+    "longitude": 78.288035,
+    "place_id": "ChIJET-wdp09CTkRgyut2-C5Dkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJET-wdp09CTkRgyut2-C5Dkg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:20"
+  }
+]

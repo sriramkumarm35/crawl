@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Auto driver",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanjay Kumar, Haridwar, Jwalapur, Uttarakhand 249408",
+    "area": "249403",
+    "latitude": 29.9308701,
+    "longitude": 78.1163244,
+    "place_id": "ChIJKW_MLr1HCTkRLjJTwVDUbGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW_MLr1HCTkRLjJTwVDUbGE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:15:13"
+  },
+  {
+    "business_name": "चोधरी मोटर ट्रेनिंग स्कूल",
+    "search_category": "Driving School",
+    "primary_category": "Learner driver training area",
+    "all_categories": "Learner driver training area",
+    "pincode": "249403",
+    "phone_number": "+91 97591 97683",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near sai Mandir, Arya Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.921919799999998,
+    "longitude": 78.1158332,
+    "place_id": "ChIJ43MKGaVHCTkRDzVp4y8Uypg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43MKGaVHCTkRDzVp4y8Uypg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:15:13"
+  }
+]

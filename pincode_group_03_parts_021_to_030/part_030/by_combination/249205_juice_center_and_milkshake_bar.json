@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kushwaha fruit's corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Fruit wholesaler",
+    "all_categories": "Fruit wholesaler",
+    "pincode": "249205",
+    "phone_number": "+91 87917 95924",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Laltaro pull, near PNB bank, Shikhu Pur, Devpura, Haridwar, Uttarakhand 249401",
+    "area": "Shikhu Pur, Devpura",
+    "latitude": 29.9490874,
+    "longitude": 78.1591119,
+    "place_id": "ChIJBSdB17dHCTkRtY6Fq-soXs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSdB17dHCTkRtY6Fq-soXs4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:35"
+  },
+  {
+    "business_name": "Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "249205",
+    "phone_number": "+91 63984 76060",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dispensary Rd, Darshan Lal Chowk, Harrawala, Dehradun, Uttarakhand 248001",
+    "area": "Darshan Lal Chowk, Harrawala",
+    "latitude": 30.3224652,
+    "longitude": 78.0422203,
+    "place_id": "ChIJ4bJ-6wwpCTkRHmhEJHo_J5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bJ-6wwpCTkRHmhEJHo_J5s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:39"
+  }
+]

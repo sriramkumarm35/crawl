@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghunghat Butik",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "249194",
+    "phone_number": "+91 62326 36626",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 51,
+    "address": "10, near St. Paul's School, River View colony, Morar, Gwalior, Madhya Pradesh 474006",
+    "area": "River View colony, Morar",
+    "latitude": 26.2285556,
+    "longitude": 78.2205417,
+    "place_id": "ChIJ702ELDDBdjkRgjOo1Y8cUXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ702ELDDBdjkRgjOo1Y8cUXg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:19"
+  },
+  {
+    "business_name": "Shalini Silai Centre",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing alteration service",
+    "pincode": "249194",
+    "phone_number": "+91 97526 76509",
+    "website": "https://shalinisilaicentre.netlify.app/",
+    "rating": 4.5,
+    "reviews_count": 20,
+    "address": "A-403, Shree Ji Heights, Shreeji Valley Rd, near Rajdarbar Dairy Colony, Indore, Madhya Pradesh 452016",
+    "area": "Shreeji Heights",
+    "latitude": 22.6952627,
+    "longitude": 75.93519119999999,
+    "place_id": "ChIJEZwHoHHjYjkRigRBtEYRpm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZwHoHHjYjkRigRBtEYRpm0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:20"
+  }
+]

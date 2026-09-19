@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The 7 Hanger",
+    "search_category": "Boutiques",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store, Boutique",
+    "pincode": "249203",
+    "phone_number": "+91 80064 71913",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "11, Hotel Ganga, Rd, Aam Bag, IDPL Colony, Veerbhadra, Rishikesh, Uttarakhand 249203",
+    "area": "Aam Bag, IDPL Colony",
+    "latitude": 30.0727852,
+    "longitude": 78.2739982,
+    "place_id": "ChIJTWV_Vbo_CTkR94aWUTcUZfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWV_Vbo_CTkR94aWUTcUZfc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:13"
+  },
+  {
+    "business_name": "Neetu Boutique And Rediment Garments",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249203",
+    "phone_number": "+91 90588 91803",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Gali Number 2, near Gaytri Villa, Aam Bag, IDPL Colony, Rishikesh, Haridwar, Uttarakhand 249203",
+    "area": "Aam Bag, IDPL Colony",
+    "latitude": 30.0710731,
+    "longitude": 78.27354849999999,
+    "place_id": "ChIJXz_fR3U_CTkRbBRKvSAIz0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXz_fR3U_CTkRbBRKvSAIz0s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:13"
+  }
+]

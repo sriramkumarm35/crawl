@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APS innovative company",
+    "search_category": "Fish Market",
+    "primary_category": "Traditional market",
+    "all_categories": "Traditional market, Packaging supply store, Plastic bag supplier",
+    "pincode": "249403",
+    "phone_number": "+91 90272 13794",
+    "website": "http://www.apsinnovativecompany.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MA 85, Indralok Colony, BHEL, opposite Shanti Vihar Park, opposite Park, Sector 6, Shivalik Nagar, Haridwar, Uttarakhand 249403",
+    "area": "Sector 6, Shivalik Nagar",
+    "latitude": 29.9428299,
+    "longitude": 78.0691308,
+    "place_id": "ChIJl-0SdXBJCTkRacOvyfpMLG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-0SdXBJCTkRacOvyfpMLG8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:29"
+  },
+  {
+    "business_name": "Mahi Traders",
+    "search_category": "Fish Market",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "249403",
+    "phone_number": "+91 74170 05597",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahi Traders, Hotel Aashiyana Ansari Market, Sarai Road, D Cluster, Shivalik Nagar, Jwalapur, Haridwar, Uttarakhand 249403",
+    "area": "D Cluster, Shivalik Nagar",
+    "latitude": 29.9345596,
+    "longitude": 78.0763552,
+    "place_id": "ChIJPbbPF3lJCTkR8YLuF10jmRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbbPF3lJCTkR8YLuF10jmRs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:29"
+  }
+]

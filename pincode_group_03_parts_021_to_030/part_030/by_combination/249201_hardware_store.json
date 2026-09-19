@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishno Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Bathroom supply store, Paint store",
+    "pincode": "249201",
+    "phone_number": "+91 81265 07770",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Haridwar Road, Gali No.2, Malviya Nagar, Virbhadra, Rishikesh, Uttarakhand 249202",
+    "area": "Malviya Nagar, Virbhadra",
+    "latitude": 30.082564599999998,
+    "longitude": 78.2616506,
+    "place_id": "ChIJ646hTXA-CTkRWqkgKVe32eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ646hTXA-CTkRWqkgKVe32eM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:56"
+  },
+  {
+    "business_name": "Shree Balaji Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Malviya Nagar, Virbhadra, Rishikesh, Uttarakhand 249204",
+    "area": "Malviya Nagar, Virbhadra",
+    "latitude": 30.0749711,
+    "longitude": 78.24799039999999,
+    "place_id": "ChIJO7ZcCmI-CTkRkgNBdlLROnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7ZcCmI-CTkRkgNBdlLROnA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:56"
+  }
+]

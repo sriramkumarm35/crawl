@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Automobiles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "249408",
+    "phone_number": "+91 81269 12950",
+    "website": "http://www.jantaautomobile.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "04 Haridwar Road Shyampur Naubad, Shyampur Nauabda, Haridwar, Uttarakhand 249408",
+    "area": "249408",
+    "latitude": 29.8676562,
+    "longitude": 78.186408,
+    "place_id": "ChIJy8TAB7pFCTkR057dcrvckGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8TAB7pFCTkR057dcrvckGQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:36"
+  },
+  {
+    "business_name": "Surendra Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "249408",
+    "phone_number": "+91 97599 31872",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "W4GM+589, Kankhal - Jwalapur Rd, Gandhi Ashram Colony, Singhdwar, Abhisek Nagar, Kankhal, Haridwar, Uttarakhand 249404",
+    "area": "Gandhi Ashram Colony, Singhdwar, Abhisek Nagar, Kankhal",
+    "latitude": 29.925414099999998,
+    "longitude": 78.13334859999999,
+    "place_id": "ChIJcag44UNGCTkRF3UWWDLol80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcag44UNGCTkRF3UWWDLol80",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:38"
+  }
+]

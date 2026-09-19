@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CarGo Motors🚘",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Auto parts store, Toll road rest stop",
+    "pincode": "249301",
+    "phone_number": "+91 70008 26852",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NH 47, in front of KK VERMA PETROL PUMP, Betul, Singanwadi, Madhya Pradesh 460004",
+    "area": "249301",
+    "latitude": 21.865579699999998,
+    "longitude": 77.9305572,
+    "place_id": "ChIJj2_rHOzh1TsR9W9FCBzyqes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2_rHOzh1TsR9W9FCBzyqes",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:00"
+  },
+  {
+    "business_name": "RSA Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service, Towing equipment provider",
+    "pincode": "249301",
+    "phone_number": "+91 89297 92399",
+    "website": "https://rsacraneservice.com/",
+    "rating": 4.9,
+    "reviews_count": 152,
+    "address": "UGF-7, Paraswnath Baibhav Plaza, Alpha-I Commercial Belt, Block E, Alpha I, Greater Noida, Uttar Pradesh 201310",
+    "area": "Alpha-I Commercial Belt, Block E, Alpha I",
+    "latitude": 28.4723714,
+    "longitude": 77.5140181,
+    "place_id": "ChIJj3gsfyHrDDkRUGExyjfzk-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3gsfyHrDDkRUGExyjfzk-Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:00"
+  }
+]

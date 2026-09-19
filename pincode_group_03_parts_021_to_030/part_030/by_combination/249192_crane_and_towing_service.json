@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AP Group of Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "249192",
+    "phone_number": "+91 89188 96598",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 345,
+    "address": "Malda, Ganramari, West Bengal 732121",
+    "area": "249192",
+    "latitude": 24.9298961,
+    "longitude": 88.2753144,
+    "place_id": "ChIJO3raMHMH-zkRE9Bz2R07qew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3raMHMH-zkRE9Bz2R07qew",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:44:14"
+  },
+  {
+    "business_name": "Road Mech 24 x 7",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "249192",
+    "phone_number": "+91 99299 83644",
+    "website": "https://roadmech24x7.com/",
+    "rating": 4.8,
+    "reviews_count": 2235,
+    "address": "179, Pocket B2, Lok Nayak Puram, Bakkarwala, New Delhi, Delhi, 110041",
+    "area": "Pocket B2, Lok Nayak Puram, Bakkarwala",
+    "latitude": 28.6604733,
+    "longitude": 77.0107001,
+    "place_id": "ChIJr4XC6nEFDTkRJIUm_1JrFhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4XC6nEFDTkRJIUm_1JrFhA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:44:14"
+  }
+]

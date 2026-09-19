@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rawat Hardware Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Building materials store, Paint store, Tool store",
+    "pincode": "249301",
+    "phone_number": "+91 75791 35155",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Pauri, Ekeshwar, Garhwal, Uttarakhand 246131",
+    "area": "Pauri",
+    "latitude": 29.9436972,
+    "longitude": 78.8174681,
+    "place_id": "ChIJoTUZTBaaCTkRgvmb7jse-WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTUZTBaaCTkRgvmb7jse-WA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:59"
+  },
+  {
+    "business_name": "Uttaranchal Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249301",
+    "phone_number": "+91 81262 64326",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dhara Rd, Pauri, Uttarakhand 246001",
+    "area": "249301",
+    "latitude": 30.1456244,
+    "longitude": 78.77732309999999,
+    "place_id": "ChIJQ-Auxm6lCTkRPSdfFA4uaSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-Auxm6lCTkRPSdfFA4uaSo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:00"
+  }
+]

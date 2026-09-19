@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trim Tree",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Make-up artist, Hairdresser",
+    "pincode": "249152",
+    "phone_number": "+91 75368 03403",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Trim tree, Durga city Centre, near IDBI Bank, Subhash Nagar, Haldwani, Uttarakhand 263139",
+    "area": "Subhash Nagar",
+    "latitude": 29.228478499999998,
+    "longitude": 79.5301803,
+    "place_id": "ChIJza6pzxGboDkRi96DzEiIgCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJza6pzxGboDkRi96DzEiIgCo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:26:13"
+  },
+  {
+    "business_name": "NiSha CoLorBar",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "249152",
+    "phone_number": "+91 78300 16340",
+    "website": "https://www.instagram.com/nisha_colorbar?igsh=MW91OHpnbG55am80dg%3D%3D&utm_source=qr",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gas Godam Rd, opposite central Hospital, Chauraha, Kusumkhera, Haldwani, Bomari Tallikham, Uttarakhand 263139",
+    "area": "Chauraha, Kusumkhera",
+    "latitude": 29.2220317,
+    "longitude": 79.5056494,
+    "place_id": "ChIJUXpBAd-boDkRCVUdPrCb5g0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXpBAd-boDkRCVUdPrCb5g0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:26:13"
+  }
+]

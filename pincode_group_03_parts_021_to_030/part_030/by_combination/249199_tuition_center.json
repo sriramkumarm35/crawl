@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Concept academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "89QW+R28, NH 34, Chamba, Dikhol Gaon Maniyar, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.339532799999997,
+    "longitude": 78.3950653,
+    "place_id": "ChIJicnG7zwdCTkRSN2YDwDXB7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicnG7zwdCTkRSN2YDwDXB7M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:53:36"
+  },
+  {
+    "business_name": "Tuition Center",
+    "search_category": "Tuition Center",
+    "primary_category": "Kindergarten School",
+    "all_categories": "Kindergarten School",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "89VW+PG5, Chamba, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.344251699999997,
+    "longitude": 78.3963517,
+    "place_id": "ChIJYcMgxuEdCTkR3EYIjWrNZQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcMgxuEdCTkR3EYIjWrNZQA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:53:36"
+  }
+]

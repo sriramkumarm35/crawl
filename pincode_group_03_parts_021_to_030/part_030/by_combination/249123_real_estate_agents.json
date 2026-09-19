@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Real estate consultant",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company, Property investment company, Real estate consultant",
+    "pincode": "249123",
+    "phone_number": "+91 96514 28571",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3rd floor, sarju tower, Sultanpur Rd, near indian petrol pump, Arjunganj, Lucknow, Uttar Pradesh 226002",
+    "area": "Arjunganj",
+    "latitude": 26.806205799999997,
+    "longitude": 80.9915963,
+    "place_id": "ChIJSTtgV6b9mzkRti666OklV5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTtgV6b9mzkRti666OklV5A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:57:18"
+  },
+  {
+    "business_name": "DHA KARACHI Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "249123",
+    "phone_number": "0300 8202274",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 123,
+    "address": "4th Sunset St, D.H.A. Phase 4 Sunset Commercial Area Phase 4 Defence Housing Authority, Karachi, 75500, Pakistan",
+    "area": "D.H.A. Phase 4 Sunset Commercial Area Phase 4 Defence Housing Authority",
+    "latitude": 24.827313099999998,
+    "longitude": 67.05585119999999,
+    "place_id": "ChIJpdfgOvU8sz4ReFKNYISs7gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdfgOvU8sz4ReFKNYISs7gs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:57:18"
+  }
+]

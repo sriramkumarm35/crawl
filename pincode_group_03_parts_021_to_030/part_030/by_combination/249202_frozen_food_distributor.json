@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ar Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "249202",
+    "phone_number": "+91 87885 89277",
+    "website": "https://ar-frozen-foods.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 4, Dure Apartment, No. 8, next to Durrani Complex, Meeta Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Meeta Nagar, Kondhwa",
+    "latitude": 18.4706234,
+    "longitude": 73.88588469999999,
+    "place_id": "ChIJJWZ5NX3rwjsR-MmFhwrdOMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWZ5NX3rwjsR-MmFhwrdOMM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:06"
+  },
+  {
+    "business_name": "Sai Momo's Supplies",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Momo restaurant",
+    "all_categories": "Momo restaurant, Fast food restaurant",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "Kali Ki Dhal, Sarvahara Nagar, Ugrasen Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Sarvahara Nagar, Ugrasen Nagar",
+    "latitude": 30.0911306,
+    "longitude": 78.2780389,
+    "place_id": "ChIJIVpZhvk_CTkROF3q4NqGyY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVpZhvk_CTkROF3q4NqGyY0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:08"
+  }
+]

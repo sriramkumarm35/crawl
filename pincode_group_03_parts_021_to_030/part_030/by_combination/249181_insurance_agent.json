@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Five Star Solution",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Service establishment",
+    "pincode": "249181",
+    "phone_number": "+91 98975 55382",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Five Star Solution, 249181, India",
+    "area": "249181",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJKV-BUKIbDDkRNBqmXytWJi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV-BUKIbDDkRNBqmXytWJi4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:39:28"
+  },
+  {
+    "business_name": "Insurance Shoppee",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "249181",
+    "phone_number": "+91 96439 34453",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Rasoolpur Dasana, Uttar Pradesh 201008",
+    "area": "249181",
+    "latitude": 28.6048898,
+    "longitude": 77.59471599999999,
+    "place_id": "ChIJbzNNGBuTDDkRnlrXdumBFcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzNNGBuTDDkRnlrXdumBFcc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:39:30"
+  }
+]

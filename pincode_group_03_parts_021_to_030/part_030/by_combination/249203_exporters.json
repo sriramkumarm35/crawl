@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shruti Enterprises",
+    "search_category": "Exporters",
+    "primary_category": "Coal Supplier",
+    "all_categories": "Coal Supplier",
+    "pincode": "249203",
+    "phone_number": "+91 82798 96189",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "37RG+PQ4 Kale Ki Dhal, 6 Shastri Nagar, 06, Haridwar Rd, SARVAHARA NAGAR, Rishikesh, Uttarakhand 249202",
+    "area": "SARVAHARA NAGAR, Ugrasen Nagar",
+    "latitude": 30.0917934,
+    "longitude": 78.27701499999999,
+    "place_id": "ChIJN5PgG4kXCTkR02P394-zyzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5PgG4kXCTkR02P394-zyzg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:27"
+  },
+  {
+    "business_name": "Sukirti Fragrances",
+    "search_category": "Exporters",
+    "primary_category": "Flavours, Fragrances & Aroma Supplier",
+    "all_categories": "Flavours, Fragrances & Aroma Supplier",
+    "pincode": "249203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "street No.10 B 20 Bigha, Bapu Gram, Veerbhadra, Rishikesh, Uttarakhand 249202",
+    "area": "Bapu Gram, IDPL Colony",
+    "latitude": 30.083110299999998,
+    "longitude": 78.2746918,
+    "place_id": "ChIJJTmSRJU_CTkRh3D4JU2TFMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTmSRJU_CTkRh3D4JU2TFMM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:27"
+  }
+]

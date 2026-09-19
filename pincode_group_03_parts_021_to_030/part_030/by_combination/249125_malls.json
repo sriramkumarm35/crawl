@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "stark fashion hab",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "249125",
+    "phone_number": "+91 63967 53079",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "mean market, near bus stand, Chamiyala, Kemar Patti, Uttarakhand 249125",
+    "area": "249125",
+    "latitude": 30.475886,
+    "longitude": 78.63178719999999,
+    "place_id": "ChIJsQd5CtT_CDkR3SbU4fhDP7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQd5CtT_CDkR3SbU4fhDP7U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:01:08"
+  },
+  {
+    "business_name": "Grand Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "249125",
+    "phone_number": "+91 84334 58815",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4300,
+    "address": "A Block, DLF Phase 1, Gurugram, Haryana 122002",
+    "area": "A Block, DLF Phase 1",
+    "latitude": 28.479598499999998,
+    "longitude": 77.0898417,
+    "place_id": "ChIJme-O7yUZDTkR6Bf7Rh0kbQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJme-O7yUZDTkR6Bf7Rh0kbQQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:01:08"
+  }
+]

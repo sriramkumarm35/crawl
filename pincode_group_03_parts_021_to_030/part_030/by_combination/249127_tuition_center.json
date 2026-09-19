@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankuram Tuition Centre",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, After school program, Tutoring service, Educational institution, Learning center, Mathematics school",
+    "pincode": "249127",
+    "phone_number": "+91 73966 69430",
+    "website": "https://ankuramtuition.com/",
+    "rating": 4.8,
+    "reviews_count": 517,
+    "address": "Plot 229, Rd Number 72, Prashasan Nagar, Jubilee Hills, Hyderabad, Telangana 500096",
+    "area": "Prashasan Nagar, Jubilee Hills",
+    "latitude": 17.4193614,
+    "longitude": 78.4002112,
+    "place_id": "ChIJM5EHjaOVyzsRe5WmSxrWcA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5EHjaOVyzsRe5WmSxrWcA0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:18"
+  },
+  {
+    "business_name": "Edu Maestro Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, English language school, German language school",
+    "pincode": "249127",
+    "phone_number": "+91 93878 11110",
+    "website": "https://edumaestroacademy.in/",
+    "rating": 4.8,
+    "reviews_count": 333,
+    "address": "2nd Floor kiliyankal Building, Seaport - Airport Rd, opp. Civil Station, Kakkanad, Kochi, Keralam 682030",
+    "area": "Echamuku, Kunnumpuram, Thrikkakara, Kakkanad",
+    "latitude": 10.0176701,
+    "longitude": 76.34227039999999,
+    "place_id": "ChIJUbm6bosMCDsR1kTp1_ZHiRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbm6bosMCDsR1kTp1_ZHiRY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:19"
+  }
+]

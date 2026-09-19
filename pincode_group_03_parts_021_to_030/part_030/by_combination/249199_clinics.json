@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa kalinka clinic",
+    "search_category": "Clinics",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249199",
+    "phone_number": "+91 98979 33429",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "89WV+5VR, Chamba - Old Tehri Rd, Chamba, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.3454816,
+    "longitude": 78.394656,
+    "place_id": "ChIJ7fsc2dodCTkRAAAA0B5sVl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fsc2dodCTkRAAAA0B5sVl8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:49"
+  },
+  {
+    "business_name": "DR satya prasad dobhal",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "swarswati vihar, B 17, Mussoorie Rd, Chamba, Hadam Malla, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.3537124,
+    "longitude": 78.3871479,
+    "place_id": "ChIJvZwLEgAdCTkRn-dYqghYN00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZwLEgAdCTkRn-dYqghYN00",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarsana Convention Center",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center, Event venue",
+    "pincode": "249195",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2903,
+    "address": "Sarsana, Surat, Gujarat 395007",
+    "area": "Sarsana",
+    "latitude": 21.1229713,
+    "longitude": 72.79386219999999,
+    "place_id": "ChIJo4JHbDxS4DsRjtda_Zi2acE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4JHbDxS4DsRjtda_Zi2acE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:50:30"
+  },
+  {
+    "business_name": "2Exhibitions",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition planner",
+    "all_categories": "Exhibition planner, Service establishment",
+    "pincode": "249195",
+    "phone_number": "+91 98110 71845",
+    "website": "https://www.2exhibitions.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2Exhibitions, 249195, India",
+    "area": "249195",
+    "latitude": 28.5273522,
+    "longitude": 77.20898509999999,
+    "place_id": "ChIJc3cfou8BDTkR589lMy1E4BU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3cfou8BDTkR589lMy1E4BU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:50:31"
+  }
+]

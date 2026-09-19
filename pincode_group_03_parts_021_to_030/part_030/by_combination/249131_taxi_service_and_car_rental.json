@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi 24*7 Kanatal",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "249131",
+    "phone_number": "+91 78956 09442",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Patal Devi, Chamba - Mussoorie Rd, near club Mahindra, Kanatal, Kaudia Range, Uttarakhand 249145",
+    "area": "Kanatal",
+    "latitude": 30.412518799999997,
+    "longitude": 78.3427859,
+    "place_id": "ChIJPTJlEEfhCDkR6hpHZpe2CMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTJlEEfhCDkR6hpHZpe2CMQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:09:15"
+  },
+  {
+    "business_name": "Aaditri Tour & Travels Kanatal",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "249131",
+    "phone_number": "+91 99904 12622",
+    "website": "https://www.aaditritravelskanatal.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "next to Club Mahindra Resort, Kanatal, Dhanoulti, Kaudia Range, Uttarakhand 249145",
+    "area": "Kanatal",
+    "latitude": 30.4119246,
+    "longitude": 78.3431315,
+    "place_id": "ChIJJy8xQgDhCDkRiFa85yCA6pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy8xQgDhCDkRiFa85yCA6pw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:09:15"
+  }
+]

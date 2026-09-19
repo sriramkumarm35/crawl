@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bagsera Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "249135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 16,
+    "address": "Bagsera Market, Ghansali Rd, Bagsera, Ghuttu, Pokhar, Uttarakhand 249155",
+    "area": "Bagsera, Ghuttu",
+    "latitude": 30.532598999999998,
+    "longitude": 78.75973909999999,
+    "place_id": "ChIJW92elzpRCDkR3wQ0bcgoG10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW92elzpRCDkR3wQ0bcgoG10",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:14:01"
+  },
+  {
+    "business_name": "Maurya Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "249135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 195,
+    "address": "WX22+WCX, Charu Beta, Uttarakhand 262308",
+    "area": "249135",
+    "latitude": 28.902365,
+    "longitude": 79.95111229999999,
+    "place_id": "ChIJmdWq2PdQoDkRlsqAIbWLLUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdWq2PdQoDkRlsqAIbWLLUE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:14:02"
+  }
+]

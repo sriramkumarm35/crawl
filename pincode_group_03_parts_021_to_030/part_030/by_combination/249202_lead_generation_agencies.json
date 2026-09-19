@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Archon Advertising",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "https://archonadvertising.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot no.70, First floor, Gali no. 5, A, Nirmal Block- B, Rishikesh, Uttarakhand 249202",
+    "area": "Nirmal Block- B",
+    "latitude": 30.0577185,
+    "longitude": 78.2694423,
+    "place_id": "ChIJ35hdGjE_CTkR2V7aK43TgvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35hdGjE_CTkR2V7aK43TgvI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:42"
+  },
+  {
+    "business_name": "Digital Homeez",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Branding agency, Internet marketing service, Marketing consultant, Website designer",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "https://digitalhomeez.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5th Floor, Bhavya Corporate Tower B, Unit-509, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vibhuti Khand, Gomti Nagar",
+    "latitude": 26.8666317,
+    "longitude": 81.0019674,
+    "place_id": "ChIJ68Cd5HTjmzkRg6cmFeXYp0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68Cd5HTjmzkRg6cmFeXYp0M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:44"
+  }
+]

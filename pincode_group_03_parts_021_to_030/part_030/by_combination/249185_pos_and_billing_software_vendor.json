@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HMS Enterprises",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "249185",
+    "phone_number": "+91 99529 59595",
+    "website": "https://www.hmsenterprises.in/",
+    "rating": 4.9,
+    "reviews_count": 1365,
+    "address": "93/4, Jeenis Rd, Saidapet East, Periyapet, Saidapet, Chennai, Tamil Nadu 600015",
+    "area": "Saidapet East, Periyapet, Saidapet",
+    "latitude": 13.0244869,
+    "longitude": 80.224531,
+    "place_id": "ChIJN3JkOeFnUjoRM0jka5Bte0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3JkOeFnUjoRM0jka5Bte0A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:13"
+  },
+  {
+    "business_name": "Bharuwa Solutions Pvt. Ltd.",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "249185",
+    "phone_number": "N/A",
+    "website": "https://www.bharuwasolutions.com/",
+    "rating": 3.7,
+    "reviews_count": 7,
+    "address": "Phase I, Guru Gorakhnath Mandir, Nirman Samiti (Regd, Pocket 3, Sector 7 Dwarka, Dwarka, New Delhi, Delhi, 110075",
+    "area": "Pocket 3, Sector 7 Dwarka, Dwarka",
+    "latitude": 28.593483799999998,
+    "longitude": 77.0758896,
+    "place_id": "ChIJAai5U0YbDTkRTnU2NB1gH3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAai5U0YbDTkRTnU2NB1gH3c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:13"
+  }
+]

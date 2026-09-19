@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ratan Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249132",
+    "phone_number": "+91 99109 67599",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 58,
+    "address": "90-A hanuman mandir complex, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Hanuman Road Area, Connaught Place",
+    "latitude": 28.630051599999998,
+    "longitude": 77.2154351,
+    "place_id": "ChIJk2zO4uT9DDkRNBiR_RJcIOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2zO4uT9DDkRNBiR_RJcIOg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:36"
+  },
+  {
+    "business_name": "Rajesh Panipuri Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dessert shop, Panipuri shop",
+    "pincode": "249132",
+    "phone_number": "+91 90988 06125",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 711,
+    "address": "Shop No. 1, Netaji Subhash Marg, Chiman Bagh Chouraha, Indore GPO, Indore, Madhya Pradesh 452007",
+    "area": "Indore GPO",
+    "latitude": 22.7243137,
+    "longitude": 75.86212549999999,
+    "place_id": "ChIJ2cTjKXP9YjkR7gs73-yLcmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cTjKXP9YjkR7gs73-yLcmk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:37"
+  }
+]

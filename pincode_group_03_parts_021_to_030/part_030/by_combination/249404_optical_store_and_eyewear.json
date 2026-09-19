@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudransh Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "249404",
+    "phone_number": "+91 98974 34125",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Shop No 4 Opposit, Maharana Pratap Enclave, Pherupur, Haridwar, Uttarakhand 249404",
+    "area": "249404",
+    "latitude": 29.858207699999998,
+    "longitude": 78.1174467,
+    "place_id": "ChIJhT-81-lFCTkRujjp9zL22zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhT-81-lFCTkRujjp9zL22zE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:16:42"
+  },
+  {
+    "business_name": "Vision eye care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optometrist",
+    "all_categories": "Optometrist",
+    "pincode": "249404",
+    "phone_number": "+91 89545 77416",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "W4MJ+3X5, Haridwar Main Rd, Prem Nagar, Haridwar, Jwalapur, Uttarakhand 249407",
+    "area": "Prem Nagar",
+    "latitude": 29.9326483,
+    "longitude": 78.1324854,
+    "place_id": "ChIJF8gjSQBHCTkRDbGJEF0woQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8gjSQBHCTkRDbGJEF0woQ8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:16:42"
+  }
+]

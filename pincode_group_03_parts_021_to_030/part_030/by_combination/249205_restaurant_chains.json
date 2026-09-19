@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paapi Pet",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249205",
+    "phone_number": "+91 84456 53389",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 136,
+    "address": "Birla Farm Chowk, University Road, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.997315999999998,
+    "longitude": 78.1917989,
+    "place_id": "ChIJ7Tfv5Jk5CTkRMtFOfwtyO_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Tfv5Jk5CTkRMtFOfwtyO_M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:43"
+  },
+  {
+    "business_name": "Haveli Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249205",
+    "phone_number": "+91 84497 38986",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "26M8+8W6, Near shiv chowk, pratitnagar, Road, Khandraiwala, Uttarakhand 249205",
+    "area": "249205",
+    "latitude": 30.0332989,
+    "longitude": 78.21725529999999,
+    "place_id": "ChIJdy9-z4I_CTkRd66muokrxlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdy9-z4I_CTkRd66muokrxlw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:43"
+  }
+]

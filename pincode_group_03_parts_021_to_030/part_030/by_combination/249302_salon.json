@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAY HAIR SALOON",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "249302",
+    "phone_number": "+91 97560 29819",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Taxi Stand, Local, near sant sewa, Laxman Jhula, Rishikesh, Uttarakhand 249302",
+    "area": "Laxman Jhula",
+    "latitude": 30.125061499999997,
+    "longitude": 78.3303999,
+    "place_id": "ChIJN_C7FqQXCTkREd_flYyhG6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_C7FqQXCTkREd_flYyhG6A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:55"
+  },
+  {
+    "business_name": "Beauty Bliss",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "249302",
+    "phone_number": "+91 72480 84095",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beauty Bliss, Jonk Rd, near Aum Cafe, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+    "area": "Swarg Ashram",
+    "latitude": 30.1210345,
+    "longitude": 78.3166035,
+    "place_id": "ChIJe2db5XkXCTkRG1nCEqeLWCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2db5XkXCTkRG1nCEqeLWCM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:55"
+  }
+]

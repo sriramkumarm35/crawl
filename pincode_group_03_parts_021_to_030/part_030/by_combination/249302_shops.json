@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "जयपुर बाजार",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "जयपुर बाजार, Railway Station Rd, near Ambika saares, Bankhandi, Adarsh Nagar, Ganga Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Bankhandi, Adarsh Nagar, Ganga Nagar",
+    "latitude": 30.1074599,
+    "longitude": 78.2929652,
+    "place_id": "ChIJ5Wi7plQ9CTkRLrEI3cl4OPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Wi7plQ9CTkRLrEI3cl4OPs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:06:50"
+  },
+  {
+    "business_name": "TRIBES INDIA",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249302",
+    "phone_number": "+91 99975 49035",
+    "website": "https://www.tribesindia.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Taxi Stand, Laxman Jhula Rd, Laxman Jhula, Rishikesh, Uttarakhand 249302",
+    "area": "Laxman Jhula",
+    "latitude": 30.1254061,
+    "longitude": 78.330663,
+    "place_id": "ChIJ354e4FwWCTkRPJ8UeWlDwtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ354e4FwWCTkRPJ8UeWlDwtQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:06:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Patio",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "48JH+HH5, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1313784,
+    "longitude": 78.3289734,
+    "place_id": "ChIJ26bufkkXCTkRXwHlQnDUaNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26bufkkXCTkRXwHlQnDUaNw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:16"
+  },
+  {
+    "business_name": "Musical Mint Cafe And Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Indian restaurant",
+    "pincode": "249302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Musical Mint Cafe And Restaurant, Hotel Divya, near Taxi Stand, Laxman Jhula, Rishikesh, Uttarakhand 249302",
+    "area": "Laxman Jhula",
+    "latitude": 30.1246576,
+    "longitude": 78.3310959,
+    "place_id": "ChIJ0TSo_GAXCTkRUC0fuZGWy9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TSo_GAXCTkRUC0fuZGWy9M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:16"
+  }
+]

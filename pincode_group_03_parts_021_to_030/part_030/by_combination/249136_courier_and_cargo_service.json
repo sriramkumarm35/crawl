@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ELEGANT COURIER SERVICE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "249136",
+    "phone_number": "+91 33 4600 5568",
+    "website": "https://www.elegant.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "ranipark, 2nd Ln, beside chowrasta sbi branch, Kolkata, West Bengal 700129",
+    "area": "Vivekananda Nagar, Madhyamgram",
+    "latitude": 22.6934251,
+    "longitude": 88.4662085,
+    "place_id": "ChIJC9Z_CS-f-DkR3lVaOKQeC9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9Z_CS-f-DkR3lVaOKQeC9A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:15:32"
+  },
+  {
+    "business_name": "BLUE DART COURIER KADAMTALA HOWRAH",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "249136",
+    "phone_number": "+91 86178 37393",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 98,
+    "address": "HOUSE 68, KADAMTALA POWER, 68/1, Narasingha Dutta Rd, Bantra, Kadam Tala, Howrah, West Bengal 711101",
+    "area": "Bantra, Kadam Tala",
+    "latitude": 22.585619599999998,
+    "longitude": 88.3208612,
+    "place_id": "ChIJ7Yw4-5Sb-DkR-k95jYWwwNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Yw4-5Sb-DkR-k95jYWwwNs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:15:33"
+  }
+]

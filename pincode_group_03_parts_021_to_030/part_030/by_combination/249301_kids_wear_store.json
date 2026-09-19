@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bachpan Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "249301",
+    "phone_number": "+91 99857 33786",
+    "website": "http://www.bachpankidswear.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "40-1-155A, MG Rd, beside PVR Ripples, Mogalrajapuram, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Mogalrajapuram, Labbipet",
+    "latitude": 16.5013869,
+    "longitude": 80.6434625,
+    "place_id": "ChIJC3AuFf_7NToRpSuOaYay1WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3AuFf_7NToRpSuOaYay1WQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:33"
+  },
+  {
+    "business_name": "Chote Bhai ki Choti Dukan",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Wedding service",
+    "pincode": "249301",
+    "phone_number": "+91 76079 15959",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "133/299, Aminabad Rd, Ganeshganj, Aminabad, Lucknow, Uttar Pradesh 226010",
+    "area": "Ganeshganj, Aminabad",
+    "latitude": 26.842706999999997,
+    "longitude": 80.9236645,
+    "place_id": "ChIJvx678Fr9mzkRo4kMgVoAnaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvx678Fr9mzkRo4kMgVoAnaQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:34"
+  }
+]

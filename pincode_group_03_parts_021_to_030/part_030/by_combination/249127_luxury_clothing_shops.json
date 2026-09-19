@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJEEV ACHARYA",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Embroidery shop, Formal Clothing Store, Men's clothing store, Gents Tailor, Tailor, Tuxedo shop, Wedding store",
+    "pincode": "249127",
+    "phone_number": "+91 99581 49204",
+    "website": "http://www.rajeevacharya.com/",
+    "rating": 4.9,
+    "reviews_count": 72,
+    "address": "Omaxe India Trade Centre, D-30, Alpha-II Commercial Belt, Block I, Sector Alpha II, Greater Noida, Brahmpur Rajraula Urf Nawada, Uttar Pradesh 201310",
+    "area": "Alpha-II Commercial Belt, Block I, Sector Alpha II",
+    "latitude": 28.476376499999997,
+    "longitude": 77.52101429999999,
+    "place_id": "ChIJK7kDUZXrDDkRbd3ltM81pqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7kDUZXrDDkRbd3ltM81pqo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:03:26"
+  },
+  {
+    "business_name": "Anokhi",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "249127",
+    "phone_number": "+91 22 6251 5610",
+    "website": "http://www.anokhi.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "210, Waterfield Road, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Bandra West",
+    "latitude": 19.061367,
+    "longitude": 72.8346921,
+    "place_id": "ChIJ8XoOhhbJ5zsRGRDuIOHtw-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XoOhhbJ5zsRGRDuIOHtw-U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:03:27"
+  }
+]

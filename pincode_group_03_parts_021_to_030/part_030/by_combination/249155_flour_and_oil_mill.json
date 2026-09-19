@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navneet oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "249155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "H484+WF8, Karhi, Madhya Pradesh 473880",
+    "area": "249155",
+    "latitude": 25.5672848,
+    "longitude": 78.10619369999999,
+    "place_id": "ChIJx3hfBcM3dzkRms03qeuRmFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3hfBcM3dzkRms03qeuRmFo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:28:41"
+  },
+  {
+    "business_name": "Gaurav flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Flour mill",
+    "pincode": "249155",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "33, Pachkhora Road, Madhya Pradesh 486886",
+    "area": "249155",
+    "latitude": 24.0799731,
+    "longitude": 82.6176036,
+    "place_id": "ChIJb1HMPpI2jzkRXom9xbPG_Kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1HMPpI2jzkRXom9xbPG_Kg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:28:41"
+  }
+]

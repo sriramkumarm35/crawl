@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellcare medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Cosmetics store, Medical supply store, Pet store, Drug store",
+    "pincode": "249403",
+    "phone_number": "+91 70882 52556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Badshah hotel, Satti Street, Roorkee, Uttarakhand 247667",
+    "area": "Satti Street",
+    "latitude": 29.878323799999997,
+    "longitude": 77.888553,
+    "place_id": "ChIJ6-gVb2C1DjkRcKW4masRlSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-gVb2C1DjkRcKW4masRlSw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:51"
+  },
+  {
+    "business_name": "Surv healthcare hospital",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "http://www.survhealthcarehospital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "no. 1, surv healthcare hospital, Arya Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.92652,
+    "longitude": 78.12649449999999,
+    "place_id": "ChIJCWb7ExNHCTkRZWCPBu1FKgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWb7ExNHCTkRZWCPBu1FKgk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:53"
+  }
+]

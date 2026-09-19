@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhandari hotel & Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HFH2+35Q, Mukhem, Mukhem Renge, Uttarakhand 249165",
+    "area": "249151",
+    "latitude": 30.5777166,
+    "longitude": 78.45047699999999,
+    "place_id": "ChIJa8JeFwDvCDkR4FDD-chR8d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8JeFwDvCDkR4FDD-chR8d0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:40"
+  },
+  {
+    "business_name": "View Valley Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "F6HJ+FRJ, Uttarkashi road, Dehradun, Khaneri Madhe Batwaldhar, Uttarakhand 249180",
+    "area": "249151",
+    "latitude": 30.4787009,
+    "longitude": 78.23202549999999,
+    "place_id": "ChIJKdvdH0fcCDkRVDY0oTfXRNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdvdH0fcCDkRVDY0oTfXRNY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BOOK AV Book Seller",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "249411",
+    "phone_number": "+91 90131 84083",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 520,
+    "address": "B-1A, Gali Number 2, IP EXTENSION, NEAR ZEPTO STORE, Delhi 11092, Mandawali, Delhi, 110092",
+    "area": "Chander Vihar, Mandawali",
+    "latitude": 28.6321974,
+    "longitude": 77.2973391,
+    "place_id": "ChIJfZ4sszP7DDkRKGMqMwgiJnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZ4sszP7DDkRKGMqMwgiJnk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:54"
+  },
+  {
+    "business_name": "M/s FAQIR CHAND AND SONS",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Rare book store",
+    "all_categories": "Rare book store",
+    "pincode": "249411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 1608,
+    "address": "no 15/A, Shop, Khan Market, New Delhi, Delhi 110003",
+    "area": "Khan Market, Rabindra Nagar",
+    "latitude": 28.599731,
+    "longitude": 77.2266939,
+    "place_id": "ChIJE0XP3OniDDkRmatgh6jcsg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0XP3OniDDkRmatgh6jcsg4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:54"
+  }
+]

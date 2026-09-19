@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Kanha Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Pest control service",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, Nihalkhera, Punjab 152122",
+    "area": "249165",
+    "latitude": 30.235211399999997,
+    "longitude": 74.1388025,
+    "place_id": "ChIJNfR4MOOhFzkRQo_QRaeVpBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfR4MOOhFzkRQo_QRaeVpBY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:32:19"
+  },
+  {
+    "business_name": "Panaich Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QPMR+55W, Lambi, Haryana 125103",
+    "area": "249165",
+    "latitude": 29.782992999999998,
+    "longitude": 74.740462,
+    "place_id": "ChIJqTq5zbbFFjkR5tdNOOCA0NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTq5zbbFFjkR5tdNOOCA0NM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:32:19"
+  }
+]

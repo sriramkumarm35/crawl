@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Interiors & Hardware",
+    "search_category": "Interior Designers",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249122",
+    "phone_number": "+91 78958 10827",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cantt Rd, Kumor, Pithoragarh, Uttarakhand 262501",
+    "area": "Kumor",
+    "latitude": 29.5818351,
+    "longitude": 80.2167501,
+    "place_id": "ChIJH45OEW0loTkReXIX4dNnSJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH45OEW0loTkReXIX4dNnSJM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:54:50"
+  },
+  {
+    "business_name": "Molyar Interior & Architectural Studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Service establishment",
+    "pincode": "249122",
+    "phone_number": "+91 91727 05617",
+    "website": "https://www.molyarbyperi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Molyar Interior & Architectural Studio, 249122, India",
+    "area": "249122",
+    "latitude": 29.404430599999998,
+    "longitude": 77.47391139999999,
+    "place_id": "ChIJNTUne6gPk6oRHc11RNqc1Vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTUne6gPk6oRHc11RNqc1Vo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:54:52"
+  }
+]

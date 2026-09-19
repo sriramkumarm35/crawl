@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Doctor",
+    "pincode": "249171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Kalimath, Guptkashi, Uttarakhand 246471",
+    "area": "249171",
+    "latitude": 30.5603278,
+    "longitude": 79.0852603,
+    "place_id": "ChIJfXvWnFQ3CDkRXPOqPOC8uas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXvWnFQ3CDkRXPOqPOC8uas",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:32:54"
+  },
+  {
+    "business_name": "Kashi Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249171",
+    "phone_number": "+91 78952 91140",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Marg, Kansen, Uttarkashi, Uttarakhand 249193",
+    "area": "Marg",
+    "latitude": 30.736099499999998,
+    "longitude": 78.44393199999999,
+    "place_id": "ChIJI64c2oTtCDkRyGgbq57HO08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI64c2oTtCDkRyGgbq57HO08",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:32:55"
+  }
+]

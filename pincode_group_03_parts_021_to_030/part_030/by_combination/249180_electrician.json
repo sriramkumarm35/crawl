@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "249180",
+    "phone_number": "N/A",
+    "website": "https://amanelectrician.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9XHW+88F, Jaintanwala garhi cannt, Shivpuri, Dhaulas, Dehradun, Uttarakhand 248003",
+    "area": "Shivpuri",
+    "latitude": 30.378302599999998,
+    "longitude": 77.99579179999999,
+    "place_id": "ChIJh_Rnun7VCDkRBkBppUG6ejk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_Rnun7VCDkRBkBppUG6ejk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:37:03"
+  },
+  {
+    "business_name": "Vinod Rana Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "249180",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "9634+W34, Sategal, Uttarakhand 249145",
+    "area": "249180",
+    "latitude": 30.3547729,
+    "longitude": 78.2051953,
+    "place_id": "ChIJ-eblml8hCTkRUrm9-Gprans",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-eblml8hCTkRUrm9-Gprans",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:37:03"
+  }
+]

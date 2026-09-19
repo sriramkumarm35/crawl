@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Care & Cure Female wellness Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "249302",
+    "phone_number": "+91 74539 10181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Care & Cure Female wellness centre, near Moktan cafe, lower, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "lower, Tapovan",
+    "latitude": 30.129250199999998,
+    "longitude": 78.32733069999999,
+    "place_id": "ChIJ6VWU-ygXCTkRmW5ezmp-Pgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VWU-ygXCTkRmW5ezmp-Pgo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:06:02"
+  },
+  {
+    "business_name": "As You Like Ayurveda Therapy",
+    "search_category": "Therapy Center",
+    "primary_category": "Massage therapist",
+    "all_categories": "Massage therapist",
+    "pincode": "249302",
+    "phone_number": "+91 98163 55666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 215,
+    "address": "Balak nath mandir, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1297346,
+    "longitude": 78.32454299999999,
+    "place_id": "ChIJoaiZPEMXCTkRXROY60iaUP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaiZPEMXCTkRXROY60iaUP4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:06:03"
+  }
+]

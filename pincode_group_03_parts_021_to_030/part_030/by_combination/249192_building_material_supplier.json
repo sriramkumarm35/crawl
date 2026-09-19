@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Jee Sanitary",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249192",
+    "phone_number": "+91 97205 06767",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "visthapit colony, Shree Jee Sanitary, Nirmal Block- B, Pashulok, Rishikesh, Uttarakhand 249202",
+    "area": "Nirmal Block- B",
+    "latitude": 30.060315199999998,
+    "longitude": 78.2711667,
+    "place_id": "ChIJS-HT00w_CTkR7laRUFrL0FE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-HT00w_CTkR7laRUFrL0FE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:44:19"
+  },
+  {
+    "business_name": "Goel Traders & Suppliers",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "249192",
+    "phone_number": "+91 93689 88322",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Soniya Mart, Gumaniwala, Rishikesh, Uttarakhand 249204",
+    "area": "Gumaniwala",
+    "latitude": 30.0692259,
+    "longitude": 78.24465909999999,
+    "place_id": "ChIJY8Jbb4o_CTkRxktTalrtotE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8Jbb4o_CTkRxktTalrtotE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:44:20"
+  }
+]

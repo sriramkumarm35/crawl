@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpha Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Biochemistry lab, Endocrinologist, Pathologist",
+    "pincode": "249195",
+    "phone_number": "+91 20 2448 0004",
+    "website": "https://www.alphadiagnostics.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Floor,, 1050, Tilak Rd, Next to Jayashree Hotel, Shukrawar Peth, Pune, Maharashtra 411002",
+    "area": "Subhash Nagar, Shukrawar Peth",
+    "latitude": 18.504741,
+    "longitude": 73.8546822,
+    "place_id": "ChIJsS6OURLAwjsRmQzif4ecTnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsS6OURLAwjsRmQzif4ecTnQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:49:17"
+  },
+  {
+    "business_name": "Dr Lal PathLabs - Patient Service Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service",
+    "pincode": "249195",
+    "phone_number": "+91 80 3783 8461",
+    "website": "https://labs.lalpathlabs.com/dr-lal-pathlabs-patient-service-centre-diagnostic-centre-jamodi-tiraha-chowk-sidhi-418514/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yashraj Cplx, Gautam Diagnostic Center NH 39, Tiraha Chowk, behind Hero Agency, Jamodi Sengram, Madhya Pradesh 486661",
+    "area": "249195",
+    "latitude": 24.407940099999998,
+    "longitude": 81.857401,
+    "place_id": "ChIJJzh18OO9hTkRx9PFCEgVEiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzh18OO9hTkRx9PFCEgVEiU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:49:20"
+  }
+]

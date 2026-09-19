@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iyengars samayal",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "249145",
+    "phone_number": "+91 63968 08036",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 262,
+    "address": "Lakshman Jhula, beside sant sewa ashram, Laxman Jhula, Rishikesh, Uttarakhand 249302",
+    "area": "Laxman Jhula",
+    "latitude": 30.124559899999998,
+    "longitude": 78.3303624,
+    "place_id": "ChIJ5XLQnSMXCTkRusvQrHiMXok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XLQnSMXCTkRusvQrHiMXok",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:19:51"
+  },
+  {
+    "business_name": "Uttar Dakshin",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "249145",
+    "phone_number": "+91 87917 90719",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1947,
+    "address": "Shop No. 13, Second Floor, Badrinath Marg, near Mahananda Complex, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1284198,
+    "longitude": 78.32385699999999,
+    "place_id": "ChIJkUv2tPQXCTkRQmgSunc_OWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUv2tPQXCTkRQmgSunc_OWk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:19:51"
+  }
+]

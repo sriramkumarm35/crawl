@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wave Cinemas",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Movie theater",
+    "all_categories": "Movie theater",
+    "pincode": "249402",
+    "phone_number": "+91 120 436 4666",
+    "website": "https://www.wavecinemas.com/",
+    "rating": 4.2,
+    "reviews_count": 4656,
+    "address": "Plot No.1, Pentagon Mall, Integrated Industrial Estate, Sector 12, Sidcul, Ranipur, Uttarakhand 249403",
+    "area": "Integrated Industrial Estate, Sector 12, Sidcul",
+    "latitude": 29.9489451,
+    "longitude": 78.0755758,
+    "place_id": "ChIJu5XlA1BICTkRSuMjMVrNUIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5XlA1BICTkRSuMjMVrNUIE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:20"
+  },
+  {
+    "business_name": "Fresh Bud",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249402",
+    "phone_number": "+91 63958 24098",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Raghunath Mall, Bahadarabad, Haridwar, Uttarakhand 249402",
+    "area": "249402",
+    "latitude": 29.9188847,
+    "longitude": 78.0579861,
+    "place_id": "ChIJ8e7lbL5JCTkRBlxQF_mygy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8e7lbL5JCTkRBlxQF_mygy4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:20"
+  }
+]

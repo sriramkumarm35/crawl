@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rawat General Store.",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dhung-Mandar Patti, Uttarakhand 249181",
+    "area": "249181",
+    "latitude": 30.4593717,
+    "longitude": 78.562394,
+    "place_id": "ChIJLeXNYKD9CDkR-aEjtsNChs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeXNYKD9CDkR-aEjtsNChs0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:10"
+  },
+  {
+    "business_name": "Nautiyal General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249181",
+    "phone_number": "+91 84497 80310",
+    "website": "http://www.asort.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Pilkhi Tehri Gahrwal, Pilkhi, Uttarakhand 249155",
+    "area": "249181",
+    "latitude": 30.4190251,
+    "longitude": 78.6389871,
+    "place_id": "ChIJ6zDIQRn_CDkRMxrFo6QWOFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zDIQRn_CDkRMxrFo6QWOFc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:10"
+  }
+]

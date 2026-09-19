@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "368Q+F97 Kapoor Farm, Gumaniwala, Rishikesh, Uttarakhand 249204",
+    "area": "Gumaniwala",
+    "latitude": 30.0661545,
+    "longitude": 78.2384366,
+    "place_id": "ChIJpfzfsrk_CTkR4TD38FUU-2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfzfsrk_CTkR4TD38FUU-2c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:42"
+  },
+  {
+    "business_name": "NEGI GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249204",
+    "phone_number": "+91 75790 30990",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "RAIWALA, Raiwala, Uttarakhand 249205",
+    "area": "249204",
+    "latitude": 30.0293423,
+    "longitude": 78.2206836,
+    "place_id": "ChIJQ7qRduA_CTkRp5fylv9sTwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7qRduA_CTkRp5fylv9sTwk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:42"
+  }
+]

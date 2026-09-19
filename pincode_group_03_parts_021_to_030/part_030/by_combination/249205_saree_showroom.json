@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Fancy Saree House",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249205",
+    "phone_number": "+91 88590 45053",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Motibazar, Har Ki Pauri Marg, Haridwar, Uttarakhand 249401",
+    "area": "249205",
+    "latitude": 29.9534247,
+    "longitude": 78.1673435,
+    "place_id": "ChIJW54vsQRHCTkRf_Mq2YXJ11w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW54vsQRHCTkRf_Mq2YXJ11w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:42"
+  },
+  {
+    "business_name": "Oswal Sales",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249205",
+    "phone_number": "+91 98974 49452",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Bada Bazar, 43, near har ki, paudi, Haridwar, Uttarakhand 249407",
+    "area": "paudi",
+    "latitude": 29.954430199999997,
+    "longitude": 78.1691404,
+    "place_id": "ChIJnwlTvRdHCTkRvjgZI8NfHx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwlTvRdHCTkRvjgZI8NfHx8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:44"
+  }
+]

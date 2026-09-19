@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shere Panjab Dhaba",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Dhaba",
+    "pincode": "249401",
+    "phone_number": "+91 89790 02903",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "Pantdeep Parking, Har Ki Pauri, Haridwar, Uttarakhand 249401",
+    "area": "Har Ki Pauri",
+    "latitude": 29.9596494,
+    "longitude": 78.1736215,
+    "place_id": "ChIJxfeeKZVHCTkRMluceOuRpBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfeeKZVHCTkRMluceOuRpBM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:11:47"
+  },
+  {
+    "business_name": "SS Events & Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "249401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Deep Garden Missarpur, Laksar Rd, mustakam, kankhal, Haridwar, Uttarakhand 249408",
+    "area": "mustakam, kankhal",
+    "latitude": 29.8930755,
+    "longitude": 78.1324899,
+    "place_id": "ChIJb6GMMgBFCTkRDYb_i_22FaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6GMMgBFCTkRDYb_i_22FaA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:11:47"
+  }
+]

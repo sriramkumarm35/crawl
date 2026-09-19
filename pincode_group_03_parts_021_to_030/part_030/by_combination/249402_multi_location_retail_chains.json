@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M3 The Royal Enterprises",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "249402",
+    "phone_number": "+91 79065 38051",
+    "website": "https://m3-the-royal-enterprises.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3 The Royal Enterprise, Danco Chowk Krishna Vihar Nagar, Salempur Mahdood, Bahadarabad, Uttarakhand 249402",
+    "area": "Rawali Mahdood",
+    "latitude": 29.9408273,
+    "longitude": 78.0564474,
+    "place_id": "ChIJH7s4MLRJCTkRfbzQvQmJoaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7s4MLRJCTkRfbzQvQmJoaQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:21"
+  },
+  {
+    "business_name": "Shiv shakti multi service",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Industrial consultant",
+    "all_categories": "Industrial consultant, BPO Company, BPO Placement Agency, Consultant, Contractor, Recruiter, Unemployment office, Workers' club",
+    "pincode": "249402",
+    "phone_number": "N/A",
+    "website": "http://shivshaktimultiservice.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "near MANTRA APARTMENT, Integrated Industrial Estate, NEHRU COLONY, BHEL Township, Salempur Mahdood, Haridwar, Uttarakhand 249403",
+    "area": "Integrated Industrial Estate, NEHRU COLONY, BHEL Township",
+    "latitude": 29.9524963,
+    "longitude": 78.0586314,
+    "place_id": "ChIJnzXlizRJCTkRlkEspBqTQb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzXlizRJCTkRlkEspBqTQb8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:24"
+  }
+]

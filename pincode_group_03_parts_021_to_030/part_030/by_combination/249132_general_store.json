@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chauhan General Store चौहान जनरल स्टोर",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gadwalgad, Chinyalisour, Uttarakhand 249196",
+    "area": "249132",
+    "latitude": 30.5163664,
+    "longitude": 78.4158947,
+    "place_id": "ChIJLxMlxILlCDkRP0pLwPwiIaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxMlxILlCDkRP0pLwPwiIaQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:29"
+  },
+  {
+    "business_name": "Uniyal gaw",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249132",
+    "phone_number": "+91 79008 97696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G8QM+XX, kandar gaon, Bhangar, Uttarakhand 249132",
+    "area": "249132",
+    "latitude": 30.539937499999997,
+    "longitude": 78.3349375,
+    "place_id": "ChIJUSwuawDnCDkRY5gBCCJ_6T4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSwuawDnCDkRY5gBCCJ_6T4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:31"
+  }
+]

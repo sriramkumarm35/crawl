@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nutun Enterprises",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "249301",
+    "phone_number": "+91 97204 09635",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nutan Enterprises, Agrora, Kathola Lagga Morora, Uttarakhand 246176",
+    "area": "249301",
+    "latitude": 30.0476295,
+    "longitude": 78.79006079999999,
+    "place_id": "ChIJZXNN4V6jCTkRLiev2rDtfdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXNN4V6jCTkRLiev2rDtfdM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:09"
+  },
+  {
+    "business_name": "negi hardware and furniture house",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249301",
+    "phone_number": "+91 70785 46572",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "sabdharkhal pauri garhwal uttrakhand sabdharkhal pauri garhwal uttrakhand sabdharkhal, Pauri, Uttarakhand 249301",
+    "area": "249301",
+    "latitude": 30.132438099999998,
+    "longitude": 78.6384552,
+    "place_id": "ChIJp8Z5Vu0JCTkR2vGvb5oOrj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8Z5Vu0JCTkR2vGvb5oOrj8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:11"
+  }
+]

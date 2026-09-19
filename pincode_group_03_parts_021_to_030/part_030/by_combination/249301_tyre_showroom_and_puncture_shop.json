@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malwa Tyre Service",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Wheel alignment service",
+    "pincode": "249301",
+    "phone_number": "+91 98886 78267",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "SCO 3001, Dakshin Marg, Sector 22D, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22D, Sector 22",
+    "latitude": 30.7305675,
+    "longitude": 76.7657534,
+    "place_id": "ChIJn03xiLrtDzkRBD6fmb9xrAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn03xiLrtDzkRBD6fmb9xrAs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:55"
+  },
+  {
+    "business_name": "Michelin Tyres & Services - Universal Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Tire repair shop, Wheel alignment service, Wheel store",
+    "pincode": "249301",
+    "phone_number": "+91 88798 99386",
+    "website": "https://www.michelin.in/auto/dealer-locator/panchkula/yvinafz-michelin-tyres-universal-tyres",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No. 152, Industrial Area Phase 1, Panchkula, Haryana 134113",
+    "area": "Industrial Area Phase 1",
+    "latitude": 30.672976799999997,
+    "longitude": 76.84043009999999,
+    "place_id": "ChIJTQTGUqSUDzkRiUyGOkIrv8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQTGUqSUDzkRiUyGOkIrv8c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:56"
+  }
+]

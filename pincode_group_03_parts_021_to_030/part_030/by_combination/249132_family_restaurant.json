@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Lake View Point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "H85J+34, Sarot Doman, Uttarakhand 249196",
+    "area": "249132",
+    "latitude": 30.5577096,
+    "longitude": 78.33038839999999,
+    "place_id": "ChIJz6BxoCPpCDkRK4-xle5roMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6BxoCPpCDkRK4-xle5roMw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:37"
+  },
+  {
+    "business_name": "Astha Hotel & Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249132",
+    "phone_number": "+91 99176 19550",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "NH-94, Uttarkashi Road, Dharwal Goan, Chamba, Uttarakhand 249132",
+    "area": "249132",
+    "latitude": 30.501485199999998,
+    "longitude": 78.3773176,
+    "place_id": "ChIJc8zfvoTmCDkRSoEu0vpkwMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8zfvoTmCDkRSoEu0vpkwMo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:37"
+  }
+]

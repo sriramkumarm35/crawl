@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249193",
+    "phone_number": "+91 91492 16788",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "J7RH+72P, NH 9, Dhooraijar, Uttarakhand 262540",
+    "area": "249193",
+    "latitude": 29.6407156,
+    "longitude": 80.2775654,
+    "place_id": "ChIJBQf68ZcxoTkRugjdUTp3GnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQf68ZcxoTkRugjdUTp3GnM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:30"
+  },
+  {
+    "business_name": "HIGHWAY DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "HW2P+MC7, Pithoragarh - Almora Rd, Danya, Punoli, Uttarakhand 263622",
+    "area": "249193",
+    "latitude": 29.551657499999997,
+    "longitude": 79.9360487,
+    "place_id": "ChIJ5W3WObrboDkRU1G8Ra3QWj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5W3WObrboDkRU1G8Ra3QWj4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:30"
+  }
+]

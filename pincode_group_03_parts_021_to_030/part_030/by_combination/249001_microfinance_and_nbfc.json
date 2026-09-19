@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uttarakhand Gramin Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "249001",
+    "phone_number": "N/A",
+    "website": "http://www.uttarakhandgraminbank.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "S-83, A Type, Nagarpalika Ward -4, Mall Rd, New Tehri, Uttarakhand 249001",
+    "area": "249001",
+    "latitude": 30.372540899999997,
+    "longitude": 78.4303444,
+    "place_id": "ChIJzU9ojXgdCTkR1LkEijD0mc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzU9ojXgdCTkR1LkEijD0mc0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:51:49"
+  },
+  {
+    "business_name": "SBI Branch Bhagirathipuram",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "249001",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.4,
+    "reviews_count": 8,
+    "address": "Bhagirathipuram, Tehri, Uttarakhand 249124",
+    "area": "Bhagirathipuram",
+    "latitude": 30.382578,
+    "longitude": 78.47377399999999,
+    "place_id": "ChIJB8x761YdCTkRFgo2RUtK_Vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8x761YdCTkRFgo2RUtK_Vc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:51:49"
+  }
+]

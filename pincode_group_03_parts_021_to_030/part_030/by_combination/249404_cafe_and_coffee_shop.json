@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roller Coaster cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "249404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No.1, Shravan Nath Market, Dadu Bagh, Sarva Priya Vihar Colony, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Dadu Bagh, Sarva Priya Vihar Colony, Kankhal",
+    "latitude": 29.9249816,
+    "longitude": 78.1385193,
+    "place_id": "ChIJE-bIgxhHCTkRpUg5TrpZPsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE-bIgxhHCTkRpUg5TrpZPsw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:16:31"
+  },
+  {
+    "business_name": "TRIVENI CAFÈ",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "249404",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/triveni_cafe_official?igsh=MW82eDl3MGgyY2Y0Mg==&utm_source=qr",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "565, Laksar Rd, opposite petrol pump, Krishna Nagar, Jagjeetpur, Haridwar, Uttarakhand 249408",
+    "area": "Krishna Nagar, Jagjeetpur",
+    "latitude": 29.9238203,
+    "longitude": 78.1364507,
+    "place_id": "ChIJ256eKgBHCTkRGjULpwQUxYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ256eKgBHCTkRGjULpwQUxYs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:16:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "249185",
+    "phone_number": "+91 94589 16719",
+    "website": "https://bsnl.co.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "SURENDRA LAL --,S/o Dayaru Gaon Kharsadi Post Gaddugaad, Baurari, Kharsari, NEW TEHRI, Uttarakhand 249185",
+    "area": "Baurari",
+    "latitude": 30.974487999999997,
+    "longitude": 78.075824,
+    "place_id": "ChIJ5WrglfGvCDkRpeB5p0RwHxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WrglfGvCDkRpeB5p0RwHxU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:15"
+  },
+  {
+    "business_name": "Mori Road",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "249185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V3JP+449, 06, Purola, Uttarakhand 249185",
+    "area": "249185",
+    "latitude": 30.8803122,
+    "longitude": 78.0854301,
+    "place_id": "ChIJP-T0l6ixCDkR_3OtG74zyTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-T0l6ixCDkR_3OtG74zyTY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANJALI TRADERS",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "near Post Office, Lambgaon, Rauniya, Uttarakhand 249165",
+    "area": "249165",
+    "latitude": 30.512235399999998,
+    "longitude": 78.4969043,
+    "place_id": "ChIJQxUqIAD7CDkRdW69nbVByJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxUqIAD7CDkRdW69nbVByJQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:25"
+  },
+  {
+    "business_name": "BISHT HARDWARE",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249165",
+    "phone_number": "+91 96343 77609",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFVX+6W8, रातलधार, Mukhem Renge, Uttarakhand 249165",
+    "area": "रातलधार",
+    "latitude": 30.543044899999998,
+    "longitude": 78.4998243,
+    "place_id": "ChIJrd4N8er6CDkREV3S0zxnSEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrd4N8er6CDkREV3S0zxnSEg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:25"
+  }
+]

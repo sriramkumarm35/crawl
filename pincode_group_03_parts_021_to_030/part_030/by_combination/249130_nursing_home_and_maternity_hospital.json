@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Nursing & Maternity Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre",
+    "pincode": "249130",
+    "phone_number": "+91 1734 284 133",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 36,
+    "address": "F4PG+Q6M, SH 1, Naraingarh, Haryana 134203",
+    "area": "249130",
+    "latitude": 30.4869566,
+    "longitude": 77.1255353,
+    "place_id": "ChIJtXzfMYumDzkRCAuFgAnutx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXzfMYumDzkRCAuFgAnutx4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:14"
+  },
+  {
+    "business_name": "TIrth Memorial Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "249130",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "G8W3+M69, Major District Rd, Vidya Nagar Colony, Rewa, Madhya Pradesh 486001",
+    "area": "Vidya Nagar Colony",
+    "latitude": 24.546653499999998,
+    "longitude": 81.3030995,
+    "place_id": "ChIJX_VwIy5ahDkRAk0ABS39bxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_VwIy5ahDkRAk0ABS39bxE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:14"
+  }
+]

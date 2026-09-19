@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Char Bhuja Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service, Tour operator",
+    "pincode": "249408",
+    "phone_number": "+91 99171 66032",
+    "website": "https://www.charbhujatravels.in/",
+    "rating": 4.4,
+    "reviews_count": 108,
+    "address": "Gate No.2, opp. Railway Station, Devpura, Haridwar, Uttarakhand 249401",
+    "area": "Devpura",
+    "latitude": 29.9458602,
+    "longitude": 78.1541696,
+    "place_id": "ChIJfQ5_okFHCTkRsIJBx8r4YK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQ5_okFHCTkRsIJBx8r4YK4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:39"
+  },
+  {
+    "business_name": "SM Tour & Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Airport Shuttle Service Provider, Minibus taxi service, Taxi service, Transportation service, Travel agency",
+    "pincode": "249408",
+    "phone_number": "+91 63977 34590",
+    "website": "https://smtour.in/",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "SHOP NO 9, KAPIL MARKET, near CHETAN DEV KUITYA, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Kankhal",
+    "latitude": 29.9350557,
+    "longitude": 78.150498,
+    "place_id": "ChIJoyNf11BHCTkRER8DFIoqSAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyNf11BHCTkRER8DFIoqSAg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:40"
+  }
+]

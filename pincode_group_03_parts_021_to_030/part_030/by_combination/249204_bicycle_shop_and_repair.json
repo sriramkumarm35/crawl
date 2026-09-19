@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yog Nagri Bike On Rent & Taxi Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Scooter rental service",
+    "all_categories": "Scooter rental service, Taxi service",
+    "pincode": "249204",
+    "phone_number": "+91 95368 33330",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 194,
+    "address": "Zing, Bus Office, Haridwar - Dehradun Rd, Khari Khurd, Shyampur, Nepali Farm, Rishikesh, Uttarakhand 249204",
+    "area": "Khari Khurd, Shyampur",
+    "latitude": 30.054824399999998,
+    "longitude": 78.2196992,
+    "place_id": "ChIJS83B5Qs_CTkRwRKCbR6bsMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS83B5Qs_CTkRwRKCbR6bsMI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:21"
+  },
+  {
+    "business_name": "Uttam Cycle Service Center",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "249204",
+    "phone_number": "+91 99978 68332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 01, Haridwar Rd, near by Panchayat Bhavan, Namberdar Farm, Nepali Farm, Rishikesh, Uttarakhand 249204",
+    "area": "Namberdar Farm",
+    "latitude": 30.056541099999997,
+    "longitude": 78.2238247,
+    "place_id": "ChIJu4AmRtk_CTkR5Nf3IQxrIhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4AmRtk_CTkR5Nf3IQxrIhk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:23"
+  }
+]

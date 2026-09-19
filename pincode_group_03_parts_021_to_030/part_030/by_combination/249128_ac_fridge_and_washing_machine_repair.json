@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya Sales Corporation",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Furniture wholesaler",
+    "pincode": "249128",
+    "phone_number": "+91 98140 43957",
+    "website": "https://aryasalessirhind.in/",
+    "rating": 4.9,
+    "reviews_count": 644,
+    "address": "Triveni Mahadev, Shiv Mandir Street, Old Grain Market, Nawi Basti, Sirhind, Punjab 140406",
+    "area": "Old Grain Market, Nawi Basti",
+    "latitude": 30.6246981,
+    "longitude": 76.3859859,
+    "place_id": "ChIJVVVVMaIeEDkRV7zBAls87-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVMaIeEDkRV7zBAls87-c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:05:44"
+  },
+  {
+    "business_name": "NIKESH REFRIGERATION",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "249128",
+    "phone_number": "N/A",
+    "website": "https://www.whatsapp.com/business/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chirgaon, Himachal Pradesh 171208",
+    "area": "249128",
+    "latitude": 31.2373257,
+    "longitude": 77.8738864,
+    "place_id": "ChIJb_ElKADjBTkRXA4ndimkAqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_ElKADjBTkRXA4ndimkAqQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:05:46"
+  }
+]

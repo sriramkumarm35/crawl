@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Negi Sweets and Restaurant",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Breakfast restaurant, Restaurant",
+    "pincode": "249301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Danda Nagraja Mandir Complex, Godi, Joshi Gaon Jawara, Uttarakhand 249301",
+    "area": "249301",
+    "latitude": 30.0884008,
+    "longitude": 78.62159969999999,
+    "place_id": "ChIJF_0DFVAKCTkRrPZ-D7hwhKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_0DFVAKCTkRrPZ-D7hwhKU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:22"
+  },
+  {
+    "business_name": "Banekh Namkeen",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Pauri Rd, Maida, Uttarakhand 246175",
+    "area": "249301",
+    "latitude": 29.999470199999998,
+    "longitude": 78.6832847,
+    "place_id": "ChIJDe0CwGCfCTkR3R3HVkBq_Nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDe0CwGCfCTkR3R3HVkBq_Nk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:26"
+  }
+]

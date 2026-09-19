@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi makeup studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "249411",
+    "phone_number": "+91 90686 61484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bharat Mata puram, Saptrishi Rd, Bhoopatwala, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Bhoopatwala",
+    "latitude": 29.991402299999997,
+    "longitude": 78.1937025,
+    "place_id": "ChIJvdByY5NHCTkR6HZ8SkL9lTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdByY5NHCTkR6HZ8SkL9lTU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:34"
+  },
+  {
+    "business_name": "Shringar Beauty Shop",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "249411",
+    "phone_number": "+91 86505 80654",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Ganesh Chowk, Railway Road, Bhagirath Kunj, Roorkee, Uttarakhand 247667",
+    "area": "Bhagirath Kunj",
+    "latitude": 29.8572885,
+    "longitude": 77.877222,
+    "place_id": "ChIJiUCmqZ6zDjkR1OCiyxkAC8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUCmqZ6zDjkR1OCiyxkAC8I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:35"
+  }
+]

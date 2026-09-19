@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brij Raj Bullet Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "249201",
+    "phone_number": "+91 97199 77377",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 1, Idpl City Gate, near Sbi Bank, Geeta Nagar, Rishikesh, Haridwar, Uttarakhand 249202",
+    "area": "Geeta Nagar",
+    "latitude": 30.0881747,
+    "longitude": 78.26920249999999,
+    "place_id": "ChIJqXp6hXQ-CTkRPwms1wutrKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXp6hXQ-CTkRPwms1wutrKI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:44"
+  },
+  {
+    "business_name": "Royal Enfield Service Center - Ahuja Enterprises",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "249201",
+    "phone_number": "+91 82919 43117",
+    "website": "https://www.royalenfield.com/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Rampur Selaqui, near Mental Hospital, Dehradun, Uttarakhand 249137",
+    "area": "Anand Vihar Dhalwala Colony, Chauda Bigha",
+    "latitude": 30.117449999999998,
+    "longitude": 78.29800999999999,
+    "place_id": "ChIJiYiZ40UXCTkRC6e5cKT0G4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYiZ40UXCTkRC6e5cKT0G4M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:45"
+  }
+]

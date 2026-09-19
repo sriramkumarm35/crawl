@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uppal Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "249185",
+    "phone_number": "+91 94129 09018",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V3JP+284, Purola, Uttarakhand 249185",
+    "area": "249185",
+    "latitude": 30.880021199999998,
+    "longitude": 78.0858411,
+    "place_id": "ChIJnfHbGT2wCDkRT3_Ab6yuw9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfHbGT2wCDkRT3_Ab6yuw9U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:19"
+  },
+  {
+    "business_name": "Shree raghunath medical and surgical",
+    "search_category": "Clinics",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "249185",
+    "phone_number": "+91 97606 12852",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "NEAR, SUB DISTRICT HOSPITAL ROAD, Purola, Uttarakhand 249185",
+    "area": "249185",
+    "latitude": 30.8816886,
+    "longitude": 78.0876194,
+    "place_id": "ChIJ129xp_2xCDkRSoQ5JcDo5DE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ129xp_2xCDkRSoQ5JcDo5DE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:20"
+  }
+]

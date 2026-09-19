@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Queen's Collection",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Lingerie store",
+    "pincode": "249201",
+    "phone_number": "+91 81928 46366",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 60,
+    "address": "Arya Nagar Chowk, beside Andaz Car King, Arya Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.925712299999997,
+    "longitude": 78.1211117,
+    "place_id": "ChIJc3FxoSRGCTkR8Jbr6Y6LU4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3FxoSRGCTkR8Jbr6Y6LU4o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:55:10"
+  },
+  {
+    "business_name": "Green Ayurveda Wellness Centre",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "249201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "Green Hotel St, behind Parmarth Niketan, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+    "area": "Swarg Ashram",
+    "latitude": 30.1175705,
+    "longitude": 78.31330969999999,
+    "place_id": "ChIJN8y_OJcXCTkRmAMJBhfeiR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN8y_OJcXCTkRmAMJBhfeiR4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:55:11"
+  }
+]

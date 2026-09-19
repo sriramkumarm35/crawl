@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Lal Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "249141",
+    "phone_number": "+91 98979 64936",
+    "website": "https://govindlaljewellers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sunar Gali, Purani Bazar, Gandhi Nagar, Pithoragarh, Uttarakhand 262501",
+    "area": "Gandhi Nagar",
+    "latitude": 29.585189099999997,
+    "longitude": 80.2117712,
+    "place_id": "ChIJu2vx1hMloTkRvvPQhPQwauU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2vx1hMloTkRvvPQhPQwauU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:11"
+  },
+  {
+    "business_name": "Surbhi jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "249141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "PCHV+QF6, Unnamed Road, Uttarkashi, Uttarakhand 249193",
+    "area": "249141",
+    "latitude": 30.729424299999998,
+    "longitude": 78.4436458,
+    "place_id": "ChIJn-3mLE_tCDkR5iJUfVJ-IFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-3mLE_tCDkR5iJUfVJ-IFE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOLDEN GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Yellapur, Karnataka 581359",
+    "area": "249202",
+    "latitude": 14.9535047,
+    "longitude": 74.69863939999999,
+    "place_id": "ChIJ6xkQALjGvjsRdN4GiWnj2G4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xkQALjGvjsRdN4GiWnj2G4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:35"
+  },
+  {
+    "business_name": "Classic Motors Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Chauffeur service",
+    "pincode": "249202",
+    "phone_number": "+91 98970 20880",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37XQ+86J, Haridwar Rd, opposite S.B.M. Complex, Kolghatti, Rishikesh, Uttarakhand 249201",
+    "area": "Kolghatti",
+    "latitude": 30.098334599999998,
+    "longitude": 78.28800919999999,
+    "place_id": "ChIJOdoJmf49CTkRb5_YGpO0cL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdoJmf49CTkRb5_YGpO0cL8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:36"
+  }
+]

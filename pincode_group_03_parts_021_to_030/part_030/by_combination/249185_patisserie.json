@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagi Bakery and Home stay",
+    "search_category": "Patisserie",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "229W+GW9, Mori, Uttarakhand 249128",
+    "area": "249185",
+    "latitude": 31.0187848,
+    "longitude": 78.0473617,
+    "place_id": "ChIJ07MnAwCpCDkR_lCtjb0MZgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07MnAwCpCDkR_lCtjb0MZgE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:00"
+  },
+  {
+    "business_name": "SITA BAKERY & CONFECTIONERY",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "249185",
+    "phone_number": "+91 78306 94041",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "9RVH+2VX, near Dims, Shankarpur, Sahaspur, Uttarakhand 248197",
+    "area": "249185",
+    "latitude": 30.392622099999997,
+    "longitude": 77.829739,
+    "place_id": "ChIJa1wDXWcpDzkRJuYHILy01A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1wDXWcpDzkRJuYHILy01A8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:00"
+  }
+]

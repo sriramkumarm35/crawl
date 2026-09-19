@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RUBY Beauty",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Beauty product supplier, Cosmetics store, Make-up artist",
+    "pincode": "249136",
+    "phone_number": "+91 88663 72427",
+    "website": "http://www.instagram.com/ruby_beauty75",
+    "rating": 4.8,
+    "reviews_count": 175,
+    "address": "Shop no 2874, Market, Bawa Latif St, Old City, Teen Darwaja, Khadia, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Teen Darwaja, Khadia",
+    "latitude": 23.0225808,
+    "longitude": 72.58425059999999,
+    "place_id": "ChIJNYIZBrSFXjkRoSQIxB0vI1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYIZBrSFXjkRoSQIxB0vI1s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:15:05"
+  },
+  {
+    "business_name": "Flevina cosmetic",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop, Beauty Products Wholesaler",
+    "pincode": "249136",
+    "phone_number": "+91 97233 04776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 107,
+    "address": "Maruti Nandan Complex, 4, Bopal - Ghuma Rd, opp. Vijay sales, Bopal, Ahmedabad, Gujarat 380058",
+    "area": "Bopal",
+    "latitude": 23.0333219,
+    "longitude": 72.46779579999999,
+    "place_id": "ChIJEawzJZqbXjkR9YO2OLNTsmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEawzJZqbXjkR9YO2OLNTsmk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:15:05"
+  }
+]

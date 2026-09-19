@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Flower Decorator",
+    "search_category": "Flower Decorator",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249203",
+    "phone_number": "+91 81267 00870",
+    "website": "http://www.vflowerdocoration.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bhagirathi Nagar, Bhoopatwala, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Bhagirathi Nagar, Bhoopatwala",
+    "latitude": 29.973871,
+    "longitude": 78.177802,
+    "place_id": "ChIJF7i27QhHCTkRjmnafZ915MM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7i27QhHCTkRjmnafZ915MM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:51"
+  },
+  {
+    "business_name": "Sharma Flower Decorators",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "249203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37JH+56M, Haridwar Rd, Purani Chungi, Garola Nagar, Ganga Nagar, Rishikesh, Uttarakhand 249203",
+    "area": "Purani Chungi, Garola Nagar, Ganga Nagar",
+    "latitude": 30.0804501,
+    "longitude": 78.2780319,
+    "place_id": "ChIJAQAAuRE-CTkRg-b6D4T3A8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAuRE-CTkRg-b6D4T3A8o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:52"
+  }
+]

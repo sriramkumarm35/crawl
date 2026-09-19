@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Point - Srinagar UK",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe, Family restaurant, Fast food restaurant, Hamburger restaurant, Italian restaurant, Pasta shop, Pizza restaurant, Vegetarian restaurant, Western restaurant",
+    "pincode": "249161",
+    "phone_number": "+91 90833 07777",
+    "website": "https://hungrypoint.in/",
+    "rating": 3.5,
+    "reviews_count": 1212,
+    "address": "opp. hp petrol pump, near post office, Srinagar, Uttarakhand 246174",
+    "area": "249161",
+    "latitude": 30.2216845,
+    "longitude": 78.79006199999999,
+    "place_id": "ChIJn0tkQ3GlCTkRponodsT8xRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0tkQ3GlCTkRponodsT8xRQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:29:07"
+  },
+  {
+    "business_name": "Samrat Resort",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249161",
+    "phone_number": "N/A",
+    "website": "http://samratresortrpg.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Badrinath road, National Highway, Naugaon, Devimanda, Uttarakhand 246171",
+    "area": "249161",
+    "latitude": 30.2549456,
+    "longitude": 78.92189739999999,
+    "place_id": "ChIJIyQbn7GwCTkRztzIw93Tb-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyQbn7GwCTkRztzIw93Tb-0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:29:09"
+  }
+]

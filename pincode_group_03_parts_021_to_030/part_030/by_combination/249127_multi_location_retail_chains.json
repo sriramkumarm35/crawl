@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashirwad Supermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Baby store, Grocery delivery service",
+    "pincode": "249127",
+    "phone_number": "+91 88673 33340",
+    "website": "https://dukaan.is/ashirwad-supermarket",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "284, 7th Main Rd, BTM Layout 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+    "area": "BTM Layout 2nd Stage, BTM Layout",
+    "latitude": 12.9151706,
+    "longitude": 77.6059697,
+    "place_id": "ChIJNUjXCwIVrjsRnjd_g8G3CKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUjXCwIVrjsRnjd_g8G3CKE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:51"
+  },
+  {
+    "business_name": "Garden City Supermarket",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "249127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "K Narayanapura Main Rd, K.Narayanapura, Shirdi Sai Nagar, Narayanapura, Bengaluru, Karnataka 560077",
+    "area": "K.Narayanapura, Shirdi Sai Nagar, Narayanapura",
+    "latitude": 13.0668565,
+    "longitude": 77.6382955,
+    "place_id": "ChIJpX1n1uUZrjsRzsK6T2skmYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX1n1uUZrjsRzsK6T2skmYg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:51"
+  }
+]

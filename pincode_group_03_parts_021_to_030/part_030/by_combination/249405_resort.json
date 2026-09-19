@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mango Tree Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "249405",
+    "phone_number": "+91 70376 71096",
+    "website": "https://themangotreeresort.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near ITI , Village Dolatpur, Bahadarabad, Haridwar, Uttarakhand 249402",
+    "area": "249405",
+    "latitude": 29.9298309,
+    "longitude": 77.9875376,
+    "place_id": "ChIJxUFRHdFLCTkRibxTar0dkCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxUFRHdFLCTkRibxTar0dkCw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:19:19"
+  },
+  {
+    "business_name": "Veos Villa",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Short term apartment rental agency",
+    "pincode": "249405",
+    "phone_number": "+91 99998 85790",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Alice Residential Villa, Haridwar, Panchayanpur, Uttarakhand 249405",
+    "area": "249405",
+    "latitude": 29.8898804,
+    "longitude": 77.9950207,
+    "place_id": "ChIJp8HRUXBLCTkRx6MXjWOv5kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8HRUXBLCTkRx6MXjWOv5kg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:19:19"
+  }
+]

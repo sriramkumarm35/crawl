@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "jain auto centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Engine Rebuilding Service Station",
+    "all_categories": "Engine Rebuilding Service Station",
+    "pincode": "249126",
+    "phone_number": "+91 731 404 0010",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 38,
+    "address": "bsoni mension, 12, Gita Bhawan Rd, Ratlam Kothi, Indore, Madhya Pradesh 452001",
+    "area": "Ratlam Kothi",
+    "latitude": 22.717893,
+    "longitude": 75.882954,
+    "place_id": "ChIJmXwCjzv9YjkRWQLRtO9Nodc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXwCjzv9YjkRWQLRtO9Nodc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:01:49"
+  },
+  {
+    "business_name": "YASH AUTOMOBILES",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "249126",
+    "phone_number": "+91 88392 53939",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Madhya Pradesh 488441",
+    "area": "249126",
+    "latitude": 24.419325399999998,
+    "longitude": 80.0332816,
+    "place_id": "ChIJISBwz0dSgjkR1rf32e10QV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISBwz0dSgjkR1rf32e10QV8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:01:50"
+  }
+]

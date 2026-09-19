@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FASHION HOUSE",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249146",
+    "phone_number": "+91 89798 89153",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near SRT campus, Badshithaul, Badshahithaul, Chamba, Uttarakhand 249199",
+    "area": "Badshithaul",
+    "latitude": 30.338037,
+    "longitude": 78.4058053,
+    "place_id": "ChIJw4n9EnMdCTkRZ352op0u06Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4n9EnMdCTkRZ352op0u06Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:21:57"
+  },
+  {
+    "business_name": "AMAR SONS -paltan bazar",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249146",
+    "phone_number": "+91 135 265 6811",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 201,
+    "address": "amarsons,71, Paltan Bazaar, Dehradun, Uttarakhand 248001",
+    "area": "Machhi Bazar, Paltan Bazaar",
+    "latitude": 30.3218978,
+    "longitude": 78.03918159999999,
+    "place_id": "ChIJrfBcK-spCTkRtlF-b2YK5oQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfBcK-spCTkRtlF-b2YK5oQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:21:58"
+  }
+]

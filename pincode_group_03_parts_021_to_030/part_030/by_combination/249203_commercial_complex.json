@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishi Avenue",
+    "search_category": "Commercial Complex",
+    "primary_category": "Multi-unit residential building",
+    "all_categories": "Multi-unit residential building",
+    "pincode": "249203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ugrasen Nagar, Rishikesh, Uttarakhand 249202",
+    "area": "Ugrasen Nagar",
+    "latitude": 30.0904143,
+    "longitude": 78.2754666,
+    "place_id": "ChIJoxgVLQo-CTkR39rkIz35Yig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxgVLQo-CTkR39rkIz35Yig",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:35"
+  },
+  {
+    "business_name": "Manish mechanic",
+    "search_category": "Commercial Complex",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "249203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sbm Shopping Complex, 39, Haridwar Rd, Ganga Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Ganga Nagar",
+    "latitude": 30.0973962,
+    "longitude": 78.2867658,
+    "place_id": "ChIJPWsFQAA9CTkRAxaq90hJyWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWsFQAA9CTkRAxaq90hJyWk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:37"
+  }
+]

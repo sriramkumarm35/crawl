@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adresh Radio & Watch Co",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Electronics store, Store",
+    "pincode": "249202",
+    "phone_number": "+91 135 243 0936",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lajpat Rai Road, Rishikesh, Uttarakhand 249202",
+    "area": "IDPL Colony",
+    "latitude": 30.072919,
+    "longitude": 78.259986,
+    "place_id": "ChIJP1q1lmg-CTkRZCbUrVttyCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1q1lmg-CTkRZCbUrVttyCc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:21"
+  },
+  {
+    "business_name": "Watch service center",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Clock and watch maker",
+    "all_categories": "Clock and watch maker",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "368V+54G, Bypass, Gumaniwala, Shyampur, Rishikesh, Uttarakhand 249204",
+    "area": "Gumaniwala",
+    "latitude": 30.0654388,
+    "longitude": 78.2428151,
+    "place_id": "ChIJDZRgabM_CTkRhw0T8EOt6d8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZRgabM_CTkRhw0T8EOt6d8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shine Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "249194",
+    "phone_number": "+91 99282 32408",
+    "website": "https://shinecomputeredu.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Vardhman Complex, Rampura, Nathdwara, Rajasthan 313301",
+    "area": "Rampura",
+    "latitude": 24.930740999999998,
+    "longitude": 73.82256749999999,
+    "place_id": "ChIJH8EiIfwNaDkR6Rl7gwK1PDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8EiIfwNaDkR6Rl7gwK1PDI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:48:12"
+  },
+  {
+    "business_name": "It computer education Institute of technology pahari",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "249194",
+    "phone_number": "+91 63060 08740",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pahari Bujurg, Uttar Pradesh 210206",
+    "area": "249194",
+    "latitude": 25.338432599999997,
+    "longitude": 80.9666864,
+    "place_id": "ChIJd3cL1QathDkRtOEL28_jGWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3cL1QathDkRtOEL28_jGWc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:48:13"
+  }
+]

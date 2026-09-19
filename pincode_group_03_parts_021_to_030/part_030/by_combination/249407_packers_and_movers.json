@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosti Car Transport",
+    "search_category": "Packers and Movers",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "249407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W475+XF8, Sitapur, Haridwar, Uttarakhand 249407",
+    "area": "Sitapur",
+    "latitude": 29.9149179,
+    "longitude": 78.1087079,
+    "place_id": "ChIJJUeUwFFJCTkRyJQrLJXWH3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUeUwFFJCTkRyJQrLJXWH3E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:42"
+  },
+  {
+    "business_name": "Shift8",
+    "search_category": "Packers and Movers",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "249407",
+    "phone_number": "N/A",
+    "website": "https://shift8.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "W484+GFJ, Sari road, near ojas hospital, Sitapur, Haridwar, Uttarakhand 249407",
+    "area": "Sitapur",
+    "latitude": 29.916326599999998,
+    "longitude": 78.1061421,
+    "place_id": "ChIJS9oIcNJJCTkRlwN0Wym9VkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9oIcNJJCTkRlwN0Wym9VkU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:44"
+  }
+]

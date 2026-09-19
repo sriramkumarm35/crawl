@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deecon Valley Apartment",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "249001",
+    "phone_number": "+91 72060 22255",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Block No.2, Deecon Valley Complex, Flat No. 402, Badrinath Marg, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.131715999999997,
+    "longitude": 78.3221525,
+    "place_id": "ChIJ8WjSREcWCTkROxfG315sg1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WjSREcWCTkROxfG315sg1M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:51:54"
+  },
+  {
+    "business_name": "Hill Nest Properties – Tehri Plots & Land",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "249001",
+    "phone_number": "+91 97182 11707",
+    "website": "https://hillnest.in/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Selur, Tehri, Uttarakhand 249131",
+    "area": "249001",
+    "latitude": 30.423006299999997,
+    "longitude": 78.3856447,
+    "place_id": "ChIJ_RZPfeHjCDkRNS7FXwIpiWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RZPfeHjCDkRNS7FXwIpiWk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:51:56"
+  }
+]

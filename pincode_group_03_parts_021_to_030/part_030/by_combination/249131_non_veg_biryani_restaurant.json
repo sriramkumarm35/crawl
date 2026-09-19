@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Hill Side",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "249131",
+    "phone_number": "+91 84495 84885",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 24,
+    "address": "F8CX+XQ6, NH 34, Nakot, Echhoni, Uttarakhand 249131",
+    "area": "249131",
+    "latitude": 30.4724023,
+    "longitude": 78.34938989999999,
+    "place_id": "ChIJR9jHSQDnCDkRXMALpJpPR5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9jHSQDnCDkRXMALpJpPR5Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:08:44"
+  },
+  {
+    "business_name": "The NOOK Bistro (Best Restaurant in kanatal)",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249131",
+    "phone_number": "+91 94102 58026",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "off Chamba - Mussoorie Road, Kanatal, Jwarna, Kanatal, Uttarakhand 249130",
+    "area": "Kanatal",
+    "latitude": 30.4334864,
+    "longitude": 78.3052136,
+    "place_id": "ChIJI4g69lvhCDkR_j4N1f_iF1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4g69lvhCDkR_j4N1f_iF1g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:08:45"
+  }
+]

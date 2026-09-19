@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Sparrow Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Wedding photographer, Wedding service",
+    "pincode": "249195",
+    "phone_number": "+91 77174 17966",
+    "website": "https://goldensparrowevents.com/index.php",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Farid Nager, Chheharta, Amritsar, Punjab 143105",
+    "area": "Chheharta",
+    "latitude": 31.644953299999997,
+    "longitude": 74.8127993,
+    "place_id": "ChIJV84z2k9lGTkRd1THfa__CWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV84z2k9lGTkRd1THfa__CWQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:49:54"
+  },
+  {
+    "business_name": "Wedsfy",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "249195",
+    "phone_number": "+91 91171 01716",
+    "website": "http://wedsfy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Durgapuri & Dwarkapuri, Block A, Vijay Enclave, Work2zone, New Delhi, Delhi, 110045",
+    "area": "Durgapuri & Dwarkapuri, Block A, Vijay Enclave, Work2zone",
+    "latitude": 28.6070639,
+    "longitude": 77.08127739999999,
+    "place_id": "ChIJO7uE1sr_sgAR3bjjOecquEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO7uE1sr_sgAR3bjjOecquEo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:49:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanju",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "249151",
+    "phone_number": "+91 82668 95748",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yamunotri Yamnotri, Badli, Kauda Phedi, Uttarakhand 249152",
+    "area": "249151",
+    "latitude": 30.6352849,
+    "longitude": 78.31289819999999,
+    "place_id": "ChIJ1Sozs-vpCDkR71shPVBLfV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Sozs-vpCDkR71shPVBLfV0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:24:37"
+  },
+  {
+    "business_name": "Everlycrafts",
+    "search_category": "Gifting",
+    "primary_category": "Gift basket store",
+    "all_categories": "Gift basket store",
+    "pincode": "249151",
+    "phone_number": "+91 74519 25509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jhanda Bazar Rd, Saharanpur Chowk, Jhanda Bazar, Tilak Nagar, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Saharanpur Chowk, Jhanda Bazar, Tilak Nagar, Khurbura Mohalla",
+    "latitude": 30.3185875,
+    "longitude": 78.0305372,
+    "place_id": "ChIJZajnHIEpCTkRXczrcqPIpM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZajnHIEpCTkRXczrcqPIpM8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:24:38"
+  }
+]

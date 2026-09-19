@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kesari Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "249411",
+    "phone_number": "+91 98175 26835",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 76,
+    "address": "Rishikesh Rd, near Jain Mandir Dhodadhari Choak on, Satyam Vihar Colony, Motichur, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Satyam Vihar Colony, Motichur",
+    "latitude": 29.9868189,
+    "longitude": 78.18477589999999,
+    "place_id": "ChIJX0pr0wNHCTkRb5TsSCecHV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0pr0wNHCTkRb5TsSCecHV8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:50"
+  },
+  {
+    "business_name": "Bharat Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Chinese restaurant, Fast food restaurant",
+    "pincode": "249411",
+    "phone_number": "+91 96907 81540",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 24,
+    "address": "Shiv Murti Chowk, Railway Road, beside Agarwal Vaishnav Bhojnalya, Sharvan Nath Nagar, Haridwar, Uttarakhand 249401",
+    "area": "Sharvan Nath Nagar",
+    "latitude": 29.9472141,
+    "longitude": 78.1565346,
+    "place_id": "ChIJ7_oVdQBHCTkRHK6STKeUo08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_oVdQBHCTkRHK6STKeUo08",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:53"
+  }
+]

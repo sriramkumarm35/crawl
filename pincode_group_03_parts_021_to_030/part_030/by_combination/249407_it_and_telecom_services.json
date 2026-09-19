@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryan Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "249407",
+    "phone_number": "+91 86505 09966",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No. 11, Heera Complex Ranipur, More, Haridwar, Uttarakhand 249407",
+    "area": "Model Colony",
+    "latitude": 29.934856399999997,
+    "longitude": 78.1333769,
+    "place_id": "ChIJw9Jc1DdGCTkRRazHf4XKLZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9Jc1DdGCTkRRazHf4XKLZo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:21:22"
+  },
+  {
+    "business_name": "Rao Communication",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "249407",
+    "phone_number": "+91 90451 22110",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "new rao market, near 40 bn pac, Subhash Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "Subhash Nagar",
+    "latitude": 29.921864,
+    "longitude": 78.0859107,
+    "place_id": "ChIJZR9X1qRJCTkRC_1KdwTPAWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZR9X1qRJCTkRC_1KdwTPAWU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:21:25"
+  }
+]

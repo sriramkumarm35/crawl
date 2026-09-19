@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reimburse AI",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "249135",
+    "phone_number": "+91 92050 53967",
+    "website": "http://reimburseai.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Reimburse AI, 249135, India",
+    "area": "249135",
+    "latitude": 45.050399899999995,
+    "longitude": -171.43345,
+    "place_id": "ChIJNficbl0DDTkRsgOOnyQwBEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNficbl0DDTkRsgOOnyQwBEA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:57"
+  },
+  {
+    "business_name": "Staff Book",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "249135",
+    "phone_number": "N/A",
+    "website": "http://www.staffbook.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Staff Book, 249135, India",
+    "area": "249135",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJy5y6AM3QgWoRh-p9M-Xg7WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5y6AM3QgWoRh-p9M-Xg7WE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:58"
+  }
+]

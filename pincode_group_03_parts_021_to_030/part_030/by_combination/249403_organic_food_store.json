@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WellBowl",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food restaurant",
+    "all_categories": "Health food restaurant",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Green View Enclave, Jwalapur Railway Station Rd, Jwalapur, Uttarakhand 249407",
+    "area": "249403",
+    "latitude": 29.927786299999998,
+    "longitude": 78.118582,
+    "place_id": "ChIJ50eKti5HCTkRwEKb8Teq48c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50eKti5HCTkRwEKb8Teq48c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:26"
+  },
+  {
+    "business_name": "Hema Tiffin Service",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "249403",
+    "phone_number": "+91 98709 56632",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "near sai mandir, navody nagar, Haridwar, Uttarakhand 249412",
+    "area": "navody nagar",
+    "latitude": 29.981160799999998,
+    "longitude": 78.0470155,
+    "place_id": "ChIJwYa57BRJCTkRxifjy5AsigA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYa57BRJCTkRxifjy5AsigA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:28"
+  }
+]

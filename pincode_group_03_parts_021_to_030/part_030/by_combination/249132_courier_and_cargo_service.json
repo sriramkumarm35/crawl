@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office Chinyalisaur",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chinyalisaur, Uttarkashi - Gangotri Rd, Chamba, Uttarakhand 249196",
+    "area": "249132",
+    "latitude": 30.5711557,
+    "longitude": 78.3267108,
+    "place_id": "ChIJteW2nmjoCDkR6SROLkHG0Go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJteW2nmjoCDkR6SROLkHG0Go",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:11:49"
+  },
+  {
+    "business_name": "13ten Courier Solutions",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "249132",
+    "phone_number": "+91 99887 70908",
+    "website": "http://dtdc.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Focal Point, Plot No. F341, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "area": "Phase 8B, Industrial Area, Sector 74",
+    "latitude": 30.710199199999998,
+    "longitude": 76.68915969999999,
+    "place_id": "ChIJea51eUbvDzkRwgdus9uAF0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJea51eUbvDzkRwgdus9uAF0o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:11:50"
+  }
+]

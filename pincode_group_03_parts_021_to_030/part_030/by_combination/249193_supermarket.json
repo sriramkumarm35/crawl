@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai hanuman general store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PCJV+6FF, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.730571299999998,
+    "longitude": 78.4436728,
+    "place_id": "ChIJgY_0bwDtCDkR-o3kv4x9DrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgY_0bwDtCDkR-o3kv4x9DrQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:19"
+  },
+  {
+    "business_name": "Gyansu",
+    "search_category": "Supermarket",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "249193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gyansu, Uttarkashi - Gangotri Rd, Uttarkashi, Barahat Range, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.733448799999998,
+    "longitude": 78.42962159999999,
+    "place_id": "ChIJwcXZCADtCDkRcMFfG1-Cboc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcXZCADtCDkRcMFfG1-Cboc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surendra Singh",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249193",
+    "phone_number": "+91 63983 56877",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "00, Road, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.729340999999998,
+    "longitude": 78.4377138,
+    "place_id": "ChIJqxwNXbLtCDkRdHXg1xORUhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxwNXbLtCDkRdHXg1xORUhk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:18"
+  },
+  {
+    "business_name": "Shri Hari Pooja Bhandar",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249193",
+    "phone_number": "+91 70379 40048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Varuna Complax, Mall Rd, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.7295289,
+    "longitude": 78.4382717,
+    "place_id": "ChIJSWwiX4vtCDkRC3KsItw4gpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWwiX4vtCDkRC3KsItw4gpE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:18"
+  }
+]

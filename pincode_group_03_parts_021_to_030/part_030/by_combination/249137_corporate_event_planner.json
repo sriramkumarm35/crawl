@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Radhe Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "249137",
+    "phone_number": "+91 95285 45899",
+    "website": "https://shriradheevents.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "main, Ghat Rd, Mayakund, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.1050354,
+    "longitude": 78.2984807,
+    "place_id": "ChIJfdGdBQMXCTkRfYsnrfXbotE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdGdBQMXCTkRfYsnrfXbotE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:09"
+  },
+  {
+    "business_name": "Panwar event planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "249137",
+    "phone_number": "+91 84458 53365",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purani chungi, Ganga Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Ganga Nagar",
+    "latitude": 30.099552499999998,
+    "longitude": 78.2885265,
+    "place_id": "ChIJ42doDlU9CTkRBYKGqo3TJHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42doDlU9CTkRBYKGqo3TJHs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:09"
+  }
+]

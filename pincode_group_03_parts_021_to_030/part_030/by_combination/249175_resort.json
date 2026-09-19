@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aureva Shaantam Resort Rishikesh",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Hotel, Lounge bar, Restaurant, Spa, Swimming pool, Wedding venue, Wellness hotel",
+    "pincode": "249175",
+    "phone_number": "+91 99995 34200",
+    "website": "http://www.shaantamresorts.com/",
+    "rating": 4.3,
+    "reviews_count": 1437,
+    "address": "Neelkanth Mandir Road, Rishikesh, Amari Talli, Uttarakhand 249304",
+    "area": "249175",
+    "latitude": 30.0809614,
+    "longitude": 78.3692871,
+    "place_id": "ChIJYWAzmjYUCTkRyx9G7UI1wzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWAzmjYUCTkRyx9G7UI1wzE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:35:24"
+  },
+  {
+    "business_name": "Anandam Resort By Opulence Hotels",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "249175",
+    "phone_number": "+91 93686 22788",
+    "website": "http://www.opulencehotels.in/",
+    "rating": 3.6,
+    "reviews_count": 612,
+    "address": "Lakshman Jhula, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1278129,
+    "longitude": 78.3232623,
+    "place_id": "ChIJNRwLe1wWCTkRgfV3s0bF-r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNRwLe1wWCTkRgfV3s0bF-r8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:35:26"
+  }
+]

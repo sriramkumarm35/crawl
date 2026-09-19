@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurveda Seva Sadan",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Occupational medical physician",
+    "pincode": "249205",
+    "phone_number": "+91 99170 27374",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "102, JMD2 birla farm DSVV road, Via, Haripur Kalan, Rishikesh, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9952832,
+    "longitude": 78.19402649999999,
+    "place_id": "ChIJx7z7gu07CTkR6GXJS3dudKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7z7gu07CTkR6GXJS3dudKo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:52"
+  },
+  {
+    "business_name": "Charak Ayurveda & Panchkarma Center",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "249205",
+    "phone_number": "+91 99170 77428",
+    "website": "http://charakayurveda.org/",
+    "rating": 4.9,
+    "reviews_count": 56,
+    "address": "249192, Upper Tapovan, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Upper Tapovan, Tapovan",
+    "latitude": 30.1313496,
+    "longitude": 78.32119399999999,
+    "place_id": "ChIJLxLnz0gWCTkRaDzPSTh-F40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxLnz0gWCTkRaDzPSTh-F40",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:54"
+  }
+]

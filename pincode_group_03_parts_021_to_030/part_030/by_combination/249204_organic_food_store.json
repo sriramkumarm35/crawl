@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga bakery",
+    "search_category": "Organic Food Store",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "249204",
+    "phone_number": "+91 81714 60410",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shyampur Fatak, Khadri Rd, Battery Farm, Rishikesh, Uttarakhand 249204",
+    "area": "Battery Farm",
+    "latitude": 30.0594424,
+    "longitude": 78.2333579,
+    "place_id": "ChIJ97qsVIM_CTkRduH7xpkFKvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97qsVIM_CTkRduH7xpkFKvA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:38"
+  },
+  {
+    "business_name": "Green organic Solution",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm, Agricultural service, Garden center, Grow shop",
+    "pincode": "249204",
+    "phone_number": "+91 95572 78084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhavya Karishan Dham, 2, Yodha Marg, Khand Gaon, Raiwala, Uttarakhand 249205",
+    "area": "Khand Gaon",
+    "latitude": 30.0228166,
+    "longitude": 78.2085668,
+    "place_id": "ChIJyXmBGBE_CTkRwYiakJmNnwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXmBGBE_CTkRwYiakJmNnwM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:41"
+  }
+]

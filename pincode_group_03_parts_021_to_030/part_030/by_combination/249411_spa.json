@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cosmetic Gallery",
+    "search_category": "Spa",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop, Health spa",
+    "pincode": "249411",
+    "phone_number": "+91 95206 58170",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cosmetic Gallery, Saptrishi Rd, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9933616,
+    "longitude": 78.19222909999999,
+    "place_id": "ChIJSR3zwVdHCTkRAAAAMN8jxU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSR3zwVdHCTkRAAAAMN8jxU0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:34"
+  },
+  {
+    "business_name": "Kanak Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "249411",
+    "phone_number": "+91 98379 75701",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haripur Kalan, Bhoopatwala, Haridwar, Uttarakhand 249205",
+    "area": "Bhoopatwala",
+    "latitude": 29.994098299999997,
+    "longitude": 78.19518819999999,
+    "place_id": "ChIJXwr6GVZHCTkRAAAAMH8zAlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwr6GVZHCTkRAAAAMH8zAlk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:34"
+  }
+]

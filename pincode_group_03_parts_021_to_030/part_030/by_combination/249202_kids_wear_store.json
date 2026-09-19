@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Fashions",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Bridal shop, Childrens Store, Gift shop, Jewelry store, Lingerie store, Toy store, Underwear store, Women's clothing store",
+    "pincode": "249202",
+    "phone_number": "+91 94581 67228",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amit gram, Maya Market, Gumaniwala, Rishikesh, Uttarakhand 249204",
+    "area": "Dudhupani, Malviya Nagar, Gumaniwala",
+    "latitude": 30.076674299999997,
+    "longitude": 78.2500654,
+    "place_id": "ChIJObdV8eI_CTkRTlMfUktNasc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObdV8eI_CTkRTlMfUktNasc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:16"
+  },
+  {
+    "business_name": "Pari Fancy Store & Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249202",
+    "phone_number": "+91 96345 79692",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "37H4+V45, Malviya Nagar, Virbhadra, Rishikesh, Uttarakhand 249204",
+    "area": "Malviya Nagar, Virbhadra",
+    "latitude": 30.0796265,
+    "longitude": 78.25535289999999,
+    "place_id": "ChIJMyPkzWQ-CTkR0jeWeU0wzlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyPkzWQ-CTkR0jeWeU0wzlA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:18"
+  }
+]

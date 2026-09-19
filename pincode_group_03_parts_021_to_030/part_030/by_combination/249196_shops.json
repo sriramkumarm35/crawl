@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RANA VEJITABLES STORE",
+    "search_category": "Shops",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "249196",
+    "phone_number": "+91 70884 85057",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shulithang, Chinyalisour, Uttarakhand 249196",
+    "area": "Shulithang",
+    "latitude": 30.575328,
+    "longitude": 78.32513879999999,
+    "place_id": "ChIJaRcOejPpCDkR5aXNTzwtX1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRcOejPpCDkR5aXNTzwtX1o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:22"
+  },
+  {
+    "business_name": "Vandana Devi",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249196",
+    "phone_number": "+91 82733 03478",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "00, Uttarkashi Road, Chinyalisour, Uttarakhand 249196",
+    "area": "249196",
+    "latitude": 30.577159599999998,
+    "longitude": 78.3232565,
+    "place_id": "ChIJRxGZ3AjpCDkRdHYvtuPYlNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxGZ3AjpCDkRdHYvtuPYlNQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:22"
+  }
+]

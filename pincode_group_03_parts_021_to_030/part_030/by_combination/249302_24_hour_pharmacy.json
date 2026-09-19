@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Care pharmacy Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249302",
+    "phone_number": "+91 70604 80934",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Masjid Ke Pass, Purani Haridwar u Road, Haridwar, Shyampur, Uttarakhand 249408",
+    "area": "249302",
+    "latitude": 29.864986,
+    "longitude": 78.18077319999999,
+    "place_id": "ChIJSS6SNbtFCTkRMrkGO7BZ69I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS6SNbtFCTkRMrkGO7BZ69I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:27"
+  },
+  {
+    "business_name": "Shiva Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aryavrat Multispeciality hospital, Deshrakshak Mode, Sarva Priya Vihar Colony, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Deshrakshak Mode, Sarva Priya Vihar Colony, Kankhal",
+    "latitude": 29.924236299999997,
+    "longitude": 78.13672059999999,
+    "place_id": "ChIJeSa-EEVHCTkRFUMe2o_LewY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSa-EEVHCTkRFUMe2o_LewY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:27"
+  }
+]

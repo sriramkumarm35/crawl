@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Level 4 restaurant - Hotel Ramaya Inn, Haridwar",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249411",
+    "phone_number": "+91 70555 66639",
+    "website": "https://www.hotelramayainn.com/restaurant",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gate No. 4, Hotel Ramaya INN, 4th floor, near Saptrishi Road, Bhoopatwala, Motichur Range, Haridwar, Uttarakhand 249411",
+    "area": "Bhoopatwala",
+    "latitude": 29.9916417,
+    "longitude": 78.18840589999999,
+    "place_id": "ChIJM26WCUNHCTkRIxUBNWyfOdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM26WCUNHCTkRIxUBNWyfOdE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:49"
+  },
+  {
+    "business_name": "Gurung fast food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "X5VV+VRH, Gali No. 5, near umiya dham, Haripur Kalan, Motichur Range, Haridwar, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9946821,
+    "longitude": 78.1945977,
+    "place_id": "ChIJ2XdlEABHCTkR8Qc78wt8fig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XdlEABHCTkR8Qc78wt8fig",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:49"
+  }
+]

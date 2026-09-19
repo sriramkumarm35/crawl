@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saksham Tutorials",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "249301",
+    "phone_number": "+91 79832 39499",
+    "website": "http://sakshamtutorials.com/",
+    "rating": 4,
+    "reviews_count": 23,
+    "address": "First Floor, Honda Showroom, Near, Devi Road, Mohabewala Industrial Area, Kotdwar, Uttarakhand 246149",
+    "area": "Mohabewala Industrial Area",
+    "latitude": 29.752421499999997,
+    "longitude": 78.5269014,
+    "place_id": "ChIJmxXmMId7CTkRIKz1N_-6x_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxXmMId7CTkRIKz1N_-6x_k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:27"
+  },
+  {
+    "business_name": "Central Sanskrit University Shree Raghunath Kirti Campus",
+    "search_category": "Tuition Center",
+    "primary_category": "Public university",
+    "all_categories": "Public university",
+    "pincode": "249301",
+    "phone_number": "+91 98050 34336",
+    "website": "http://csu-devprayag.edu.in/",
+    "rating": 4.6,
+    "reviews_count": 142,
+    "address": "4HRX+WQ8, Rishikesh Badrinath Hwy, Devprayag, Uttarakhand 249301",
+    "area": "249301",
+    "latitude": 30.142285899999997,
+    "longitude": 78.5994611,
+    "place_id": "ChIJ57nM4mUJCTkRBXPwZvq4p7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57nM4mUJCTkRBXPwZvq4p7A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:27"
+  }
+]

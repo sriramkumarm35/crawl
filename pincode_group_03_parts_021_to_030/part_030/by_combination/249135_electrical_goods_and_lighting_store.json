@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal light enterprises",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Light bulb supplier",
+    "all_categories": "Light bulb supplier",
+    "pincode": "249135",
+    "phone_number": "+91 98370 00126",
+    "website": "http://www.blazelights.in/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Rampur, Roorkee, Uttarakhand 247667",
+    "area": "Rampur",
+    "latitude": 29.888509,
+    "longitude": 77.871949,
+    "place_id": "ChIJ-9tzgPy1DjkRRiy2cH3qFmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9tzgPy1DjkRRiy2cH3qFmA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:12:59"
+  },
+  {
+    "business_name": "Pawan electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "249135",
+    "phone_number": "+91 90276 66471",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "PFMH+Q76, Bagwalipokhar, Ratgal Kotali, Uttarakhand 263621",
+    "area": "249135",
+    "latitude": 29.734349499999997,
+    "longitude": 79.4781988,
+    "place_id": "ChIJ-fcaBwCtoDkR0mKy9LLT90U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fcaBwCtoDkR0mKy9LLT90U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:12:59"
+  }
+]

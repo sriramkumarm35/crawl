@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitin kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "249304",
+    "phone_number": "+91 98889 11151",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 218,
+    "address": "256, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1313417,
+    "longitude": 78.3242787,
+    "place_id": "ChIJm2_M4KEXCTkRV80YAedCBME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2_M4KEXCTkRV80YAedCBME",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:07:04"
+  },
+  {
+    "business_name": "Canteen (Ahaar sthal) vanprasth ashram",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4887+J2C, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+    "area": "Swarg Ashram",
+    "latitude": 30.116566,
+    "longitude": 78.3125155,
+    "place_id": "ChIJ31Ir5-EXCTkRac8K5IVhuq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31Ir5-EXCTkRac8K5IVhuq0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:07:05"
+  }
+]

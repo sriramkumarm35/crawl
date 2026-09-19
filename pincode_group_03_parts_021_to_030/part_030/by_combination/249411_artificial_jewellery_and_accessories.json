@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inayat Fashions",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "249411",
+    "phone_number": "+91 98731 49368",
+    "website": "http://inayatfashion.com/",
+    "rating": 4.3,
+    "reviews_count": 234,
+    "address": "5277, Sadar Thana Rd, sadar bazzar, Ahata Kidara, Sadar Bazar, New Delhi, Delhi, 110006",
+    "area": "sadar bazzar, Ahata Kidara, Sadar Bazar",
+    "latitude": 28.656181999999998,
+    "longitude": 77.211516,
+    "place_id": "ChIJ5Qx3GnL9DDkR5C_9jf-etpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Qx3GnL9DDkR5C_9jf-etpI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:59"
+  },
+  {
+    "business_name": "Maa Bhagwati Emporium",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Natural stone supplier",
+    "all_categories": "Natural stone supplier, Jeweler, Natural Stone Exporter",
+    "pincode": "249411",
+    "phone_number": "+91 98979 11622",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vishnu Ghat, Haridwar, Uttarakhand 249401",
+    "area": "Vishnu Ghat",
+    "latitude": 29.9513413,
+    "longitude": 78.1655282,
+    "place_id": "ChIJBSVlewNHCTkRujZF1IQkOs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSVlewNHCTkRujZF1IQkOs4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:01"
+  }
+]

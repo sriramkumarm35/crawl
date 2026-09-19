@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infinity Outdoors",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Taxi service",
+    "pincode": "249193",
+    "phone_number": "+91 74179 60048",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 3, Palika Bajar, Mall Rd, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.7293716,
+    "longitude": 78.43846409999999,
+    "place_id": "ChIJxSdr7STtCDkRmTnY9Mkcde0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSdr7STtCDkRmTnY9Mkcde0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:57"
+  },
+  {
+    "business_name": "Shakti Temple, Uttarkashi",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Hindu temple",
+    "all_categories": "Hindu temple, Tourist attraction",
+    "pincode": "249193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 164,
+    "address": "KASHI VISHWANATH MAA SHAKTI MANDIR PARISAR, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.728981899999997,
+    "longitude": 78.4416864,
+    "place_id": "ChIJ-f7nNTvtCDkRsoj109UoU7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-f7nNTvtCDkRsoj109UoU7U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:58"
+  }
+]

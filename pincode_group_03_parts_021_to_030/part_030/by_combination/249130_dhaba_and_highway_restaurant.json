@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uttrakhand dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "249130",
+    "phone_number": "+91 82853 35281",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "F3G5+6FG, Gali Number 5, near Bata Chwok, Sukhrali, Sector 17, Gurugram, Haryana 122007",
+    "area": "Sukhrali, Sector 17",
+    "latitude": 28.4755501,
+    "longitude": 77.0586939,
+    "place_id": "ChIJe0TJtwAZDTkR4s4gRh_0xc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0TJtwAZDTkR4s4gRh_0xc0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:06:56"
+  },
+  {
+    "business_name": "Dhaba highway king",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "249130",
+    "phone_number": "+91 98130 81406",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH19, Haryana 121105",
+    "area": "249130",
+    "latitude": 27.963015,
+    "longitude": 77.346233,
+    "place_id": "ChIJFeJ0LwAvczkRtYfwmVEWi_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeJ0LwAvczkRtYfwmVEWi_M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:06:56"
+  }
+]

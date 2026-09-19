@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HomeSharp",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "249126",
+    "phone_number": "+91 96068 99667",
+    "website": "https://homesharp.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Rustomjee Central Park, Andheri - Kurla Rd, Chakala, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Chakala, Andheri East",
+    "latitude": 19.1144692,
+    "longitude": 72.8607609,
+    "place_id": "ChIJn1oQ3qJho4IRCP0O3j14nJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1oQ3qJho4IRCP0O3j14nJM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:02:42"
+  },
+  {
+    "business_name": "LuxuryVillas in Hyderabad",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "249126",
+    "phone_number": "+91 99082 37272",
+    "website": "http://www.ashokabuilders.com/",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "3, Western Plaza Rd, KLM Villa, Shaikpet, Hyderabad, Telangana 500104",
+    "area": "KLM Villa, Shaikpet",
+    "latitude": 17.4116215,
+    "longitude": 78.39161399999999,
+    "place_id": "ChIJyzu8aK-WyzsRjmSta4mV49M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzu8aK-WyzsRjmSta4mV49M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:02:42"
+  }
+]

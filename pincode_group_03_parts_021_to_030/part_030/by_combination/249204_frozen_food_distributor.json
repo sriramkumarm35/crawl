@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect Cravings",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "249204",
+    "phone_number": "+91 99975 54445",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 155,
+    "address": "11, Anand Chowk, Dehradun, Uttarakhand 248001",
+    "area": "Ajit Prasad Nagar, Paltan Bazaar",
+    "latitude": 30.322250999999998,
+    "longitude": 78.03411,
+    "place_id": "ChIJu4ia2ewpCTkRcPvYvb8IZsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4ia2ewpCTkRcPvYvb8IZsE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:44"
+  },
+  {
+    "business_name": "A&A uttrakhand chicken, mutton and fish",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "249204",
+    "phone_number": "+91 88816 53517",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gali Number 27, Taungya, Gumaniwala, Rishikesh, Barkot Range, Uttarakhand 249204",
+    "area": "Taungya, Gumaniwala",
+    "latitude": 30.081387799999998,
+    "longitude": 78.2450885,
+    "place_id": "ChIJHQ8YbQY_CTkRAd9X5HAvNhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQ8YbQY_CTkRAd9X5HAvNhY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:46"
+  }
+]

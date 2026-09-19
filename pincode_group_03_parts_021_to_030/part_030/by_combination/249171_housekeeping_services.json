@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeet (Yadav)",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "249171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J48V+MCH Singh ke tola psat khannine kala, Aindi, Uttarakhand 249171",
+    "area": "249171",
+    "latitude": 30.6166758,
+    "longitude": 78.1436159,
+    "place_id": "ChIJQzgPEADFCDkRVHdS1pW9VOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzgPEADFCDkRVHdS1pW9VOA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:33:54"
+  },
+  {
+    "business_name": "Creative Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "249171",
+    "phone_number": "+91 75618 66642",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "House No-102, Bajunia Haldu, Near, Sai Mandir Marg, P.O, Kathgharia, Haldwani, Ramari Ansingh, Uttarakhand 263139",
+    "area": "P.O, Kathgharia",
+    "latitude": 29.2412267,
+    "longitude": 79.4743594,
+    "place_id": "ChIJjWzFFu2boDkRxknEQMFX_wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWzFFu2boDkRxknEQMFX_wk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:33:55"
+  }
+]

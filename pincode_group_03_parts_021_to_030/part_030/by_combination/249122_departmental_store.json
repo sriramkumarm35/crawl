@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jakhand market",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "सेमवाल भवन में मार्केट, Jakhand, Uttarakhand 249122",
+    "area": "249122",
+    "latitude": 30.335005,
+    "longitude": 78.659731,
+    "place_id": "ChIJQb1t06YACTkRaDihJgRdZAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQb1t06YACTkRaDihJgRdZAg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:54:00"
+  },
+  {
+    "business_name": "Ujjain Shopping Center",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249122",
+    "phone_number": "+91 94117 49979",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Mewar Sadan, Rainbow School Road, Jaletha, Srinagar, Uttarakhand 246174",
+    "area": "249122",
+    "latitude": 30.2221312,
+    "longitude": 78.7911991,
+    "place_id": "ChIJ_yvd0q6lCTkRu3-z6F4wutA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yvd0q6lCTkRu3-z6F4wutA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:54:00"
+  }
+]

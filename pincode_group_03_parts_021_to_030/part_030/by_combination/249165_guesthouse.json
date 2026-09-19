@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiddharth Home Stay",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249165",
+    "phone_number": "+91 98973 60027",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 52,
+    "address": "Rishikesh road, near by police thha, Lambgaon, Rauniya, Uttarakhand 249165",
+    "area": "249165",
+    "latitude": 30.506145699999998,
+    "longitude": 78.4945479,
+    "place_id": "ChIJ35r1HgD7CDkRF8y8yZCdceM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35r1HgD7CDkRF8y8yZCdceM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:48"
+  },
+  {
+    "business_name": "Bisht Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JG38+PVM, Dhauntri, Mukhem Renge, Uttarakhand 249165",
+    "area": "249165",
+    "latitude": 30.6043371,
+    "longitude": 78.51718699999999,
+    "place_id": "ChIJAQAAcFfwCDkRU8fbfti38EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAcFfwCDkRU8fbfti38EM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:48"
+  }
+]

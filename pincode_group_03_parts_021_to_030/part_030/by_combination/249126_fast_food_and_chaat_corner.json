@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Chaat Hangout",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 54,
+    "address": "3, opposite to DLF Road, APHB Colony, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "APHB Colony, Indira Nagar, Gachibowli",
+    "latitude": 17.448788399999998,
+    "longitude": 78.3576023,
+    "place_id": "ChIJc1xB0r-TyzsRoDN_ynsxmYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1xB0r-TyzsRoDN_ynsxmYQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:01:26"
+  },
+  {
+    "business_name": "Chatori Gali",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "249126",
+    "phone_number": "+91 91190 41619",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 250,
+    "address": "Ashiyana Colony, Tilokpur, Ram Ganga Vihar Phase 2, Moradabad, Uttar Pradesh 244001",
+    "area": "Ashiyana Colony, Tilokpur, Ram Ganga Vihar Phase 2",
+    "latitude": 28.872199799999997,
+    "longitude": 78.7539925,
+    "place_id": "ChIJsaoLwmT5CjkR3AplS6ScMH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaoLwmT5CjkR3AplS6ScMH8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:01:26"
+  }
+]

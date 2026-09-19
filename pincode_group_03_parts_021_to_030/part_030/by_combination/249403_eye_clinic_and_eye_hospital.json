@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Mrs.Vibha Trivedi",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "P-261, P Cluster, Shivalik Nagar, Haridwar, Uttarakhand 249403",
+    "area": "P Cluster, Shivalik Nagar",
+    "latitude": 29.9324071,
+    "longitude": 78.0703344,
+    "place_id": "ChIJlcCqUfxJCTkRZYIf8HwKtV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcCqUfxJCTkRZYIf8HwKtV4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:54"
+  },
+  {
+    "business_name": "Swami Ramprakash Dharmarth Chikitsalay, Swami Vivekanand Health Mission Society",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "http://www.svhmuk.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ram Nagar, Haridwar, Jwalapur, Uttarakhand 249404",
+    "area": "Ram Nagar",
+    "latitude": 29.9296036,
+    "longitude": 78.1287426,
+    "place_id": "ChIJddjYL7dHCTkRwr_mx--ElZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddjYL7dHCTkRwr_mx--ElZ0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:56"
+  }
+]

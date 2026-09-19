@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh chauhan",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H7PP+3C, Bagon, Uttarakhand 249151",
+    "area": "249151",
+    "latitude": 30.5852291,
+    "longitude": 78.2860458,
+    "place_id": "ChIJ3xbyRnzDCDkRuKx028zcLfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xbyRnzDCDkRuKx028zcLfs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:44"
+  },
+  {
+    "business_name": "English wine shop chamiyala",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "FJGJ+2X7, Boodha Kedar - Ghansali Rd, Motaru ki chaunri, Kemar Patti, Uttarakhand 249125",
+    "area": "249151",
+    "latitude": 30.4750426,
+    "longitude": 78.6324076,
+    "place_id": "ChIJ8W39fI3_CDkRwEak3emPOAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W39fI3_CDkRwEak3emPOAw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:44"
+  }
+]

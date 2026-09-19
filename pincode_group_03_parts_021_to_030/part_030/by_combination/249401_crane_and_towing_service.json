@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "249401",
+    "phone_number": "+91 95573 42858",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "Sitapur, Haridwar, Uttarakhand 249407",
+    "area": "Sitapur",
+    "latitude": 29.9187531,
+    "longitude": 78.10568239999999,
+    "place_id": "ChIJX1MAUZ9ICTkRBACMWPO3hng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1MAUZ9ICTkRBACMWPO3hng",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:11:25"
+  },
+  {
+    "business_name": "Roorkee Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "249401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 28, Shivalik Nagar, Haridwar, Uttarakhand 249402",
+    "area": "249401",
+    "latitude": 29.9173722,
+    "longitude": 78.0660944,
+    "place_id": "ChIJs1YAM-BICTkRK_Y4N9PpjjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1YAM-BICTkRK_Y4N9PpjjU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:11:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fine Foods Mess & Tiffin Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Breakfast restaurant",
+    "pincode": "249408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "1-C-18-19, Mahaveer Nagar III, Kota, Rajasthan 324005",
+    "area": "Mahaveer Nagar Housing Board Colony, Mahaveer Nagar",
+    "latitude": 25.1374782,
+    "longitude": 75.8393455,
+    "place_id": "ChIJESmK3eiEbzkRmry3rboOv6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESmK3eiEbzkRmry3rboOv6U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:05"
+  },
+  {
+    "business_name": "Me and Mom ( Tiffin service)",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "249408",
+    "phone_number": "+91 95484 21814",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Myana mohalla, Daksha Mandir Rd, Raj Ghat, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Raj Ghat, Kankhal",
+    "latitude": 29.9249594,
+    "longitude": 78.1475822,
+    "place_id": "ChIJPyYuDxNHCTkR2CRWvpsA5vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyYuDxNHCTkR2CRWvpsA5vk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:05"
+  }
+]

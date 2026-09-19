@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Csc Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "249171",
+    "phone_number": "+91 89584 25872",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Csc Centre, Gaon, Bazpur, Rampura Sakar, Uttarakhand 244720",
+    "area": "249171",
+    "latitude": 29.1548953,
+    "longitude": 79.1074869,
+    "place_id": "ChIJYWpR3DlnCjkRfE32_ElX9bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWpR3DlnCjkRfE32_ElX9bo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:33:46"
+  },
+  {
+    "business_name": "online csc center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "249171",
+    "phone_number": "+91 91933 39887",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near bherav chauk uki, Uttarkashi, Uttarakhand 249193",
+    "area": "249171",
+    "latitude": 30.7268561,
+    "longitude": 78.4354701,
+    "place_id": "ChIJVzCYuS_tCDkRbFHjZ8MaxP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzCYuS_tCDkRbFHjZ8MaxP4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:33:46"
+  }
+]

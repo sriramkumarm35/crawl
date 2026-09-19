@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tathastu Laxmi Flour Mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Grocery store",
+    "pincode": "249123",
+    "phone_number": "+91 99990 44040",
+    "website": "http://www.tathastubasket.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No - 10, Pocket -III Market, Mayur Vihar Phase - I, Mayur Vihar, New Delhi, Delhi 110091",
+    "area": "Pocket 3, Mayur Vihar",
+    "latitude": 28.605901099999997,
+    "longitude": 77.29973629999999,
+    "place_id": "ChIJbZGJO5jkDDkRTMPMVrtZmiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZGJO5jkDDkRTMPMVrtZmiA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:57:23"
+  },
+  {
+    "business_name": "RAMCHANDRA RAMNIWAS OIL MILL",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "249123",
+    "phone_number": "+91 97990 33331",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Khairthal, Rajasthan 301404",
+    "area": "249123",
+    "latitude": 27.7969194,
+    "longitude": 76.6532386,
+    "place_id": "ChIJ5auXhNq6cjkRrwByhqKoUog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5auXhNq6cjkRrwByhqKoUog",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:57:23"
+  }
+]

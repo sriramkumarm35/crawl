@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BRIJ DEPARTMENTAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "249403",
+    "phone_number": "+91 96391 85082",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "deep Ganga Coplex, 2, Sidcul, Haridwar, Uttarakhand 249403",
+    "area": "Integrated Industrial Estate, Sector 8A, Sidcul",
+    "latitude": 29.9707382,
+    "longitude": 78.06112259999999,
+    "place_id": "ChIJh5bocr1JCTkRVudOxuyUyJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5bocr1JCTkRVudOxuyUyJ8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:25"
+  },
+  {
+    "business_name": "Khushi Enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "249403",
+    "phone_number": "+91 98971 23496",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "1, Pawdhoi Road, Mohalla Neel Khudana, Haridwar, Jwalapur, Uttarakhand 249407",
+    "area": "Mohalla Neel Khudana",
+    "latitude": 29.9260222,
+    "longitude": 78.1023146,
+    "place_id": "ChIJM5J6jSxJCTkRW5_XqzqYhi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5J6jSxJCTkRW5_XqzqYhi8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:25"
+  }
+]

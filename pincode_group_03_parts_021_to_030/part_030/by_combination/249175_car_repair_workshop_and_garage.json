@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelkanth Motor Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "249175",
+    "phone_number": "+91 63985 60191",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Neelkanth Mandir Road, Kuthar, Uttarakhand 249304",
+    "area": "249175",
+    "latitude": 30.0807839,
+    "longitude": 78.3456075,
+    "place_id": "ChIJrdI-9-IVCTkRK9cJZdLYTFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdI-9-IVCTkRK9cJZdLYTFk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:51"
+  },
+  {
+    "business_name": "Shivansh tyer pancar service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "249175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ganga Vatika, Rishikesh, Uttarakhand 246667",
+    "area": "Ganga Vatika",
+    "latitude": 30.1260405,
+    "longitude": 78.3161829,
+    "place_id": "ChIJ0Qu2XQwXCTkREmf6a7ntlp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Qu2XQwXCTkREmf6a7ntlp0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:51"
+  }
+]

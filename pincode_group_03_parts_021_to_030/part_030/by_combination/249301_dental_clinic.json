@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Dental",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "249301",
+    "phone_number": "+91 74172 87771",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "Maruti Vatika, The Dental, Dr. Rahul Budhiraja, Laksar Rd, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Shivpuri Colony, Kankhal",
+    "latitude": 29.916188499999997,
+    "longitude": 78.1366656,
+    "place_id": "ChIJ203NnGtGCTkR4_EBquganws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ203NnGtGCTkR4_EBquganws",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:43"
+  },
+  {
+    "business_name": "Laxmi Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "249301",
+    "phone_number": "+91 93688 59478",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 43,
+    "address": "Devi Rd, near SBI Bank, Kotdwar, Uttarakhand 246149",
+    "area": "249301",
+    "latitude": 29.743526799999998,
+    "longitude": 78.5174911,
+    "place_id": "ChIJvQ-O53R9CTkRG8NywScriQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQ-O53R9CTkRG8NywScriQU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:03:44"
+  }
+]

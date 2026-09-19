@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Genius Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Electronics store",
+    "pincode": "249204",
+    "phone_number": "+91 93584 69191",
+    "website": "https://youtube.com/@yatharthtyagi121?si=v_hnXAZRjHZzmXEv",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Raj Kumar Complex, Beg Road, Raiwala, Uttarakhand 249205",
+    "area": "249204",
+    "latitude": 30.0345026,
+    "longitude": 78.2126382,
+    "place_id": "ChIJm60VQgA_CTkRsEkfZXcn7aI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm60VQgA_CTkRsEkfZXcn7aI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:58"
+  },
+  {
+    "business_name": "PS Enterprises",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Internet service provider, Security service",
+    "pincode": "249204",
+    "phone_number": "+91 99977 22099",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chakjogiwala Rd, Chidderwala, Motichur Range, Uttarakhand 249204",
+    "area": "249204",
+    "latitude": 30.080284,
+    "longitude": 78.1899001,
+    "place_id": "ChIJ83ttfqs5CTkRqMZkLxQBEgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83ttfqs5CTkRqMZkLxQBEgA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:58"
+  }
+]

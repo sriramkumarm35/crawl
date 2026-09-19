@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Ganga Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249205",
+    "phone_number": "+91 99272 12330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X5MR+HG5 Bharat Mata Temple, Haridwar, Bhoopatwala, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Bhoopatwala",
+    "latitude": 29.983894699999997,
+    "longitude": 78.19135899999999,
+    "place_id": "ChIJT1NV-k9HCTkRAAAAMN65lxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1NV-k9HCTkRAAAAMN65lxc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:27"
+  },
+  {
+    "business_name": "Maa Mansa Provision Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "X5WV+995, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.995887,
+    "longitude": 78.1934952,
+    "place_id": "ChIJfS5HQAA5CTkRzghx8rVg1RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfS5HQAA5CTkRzghx8rVg1RU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Saloon",
+    "search_category": "Salon",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "249403",
+    "phone_number": "+91 74177 11692",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 71,
+    "address": "Shivalik Nagar Cluster T-92, Bahadarabad, Uttarakhand 249403",
+    "area": "L Cluster, Shivalik Nagar",
+    "latitude": 29.938150099999998,
+    "longitude": 78.073368,
+    "place_id": "ChIJ63b3KpBJCTkRGBQ6GlgiFDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ63b3KpBJCTkRGBQ6GlgiFDQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:15:25"
+  },
+  {
+    "business_name": "Saniya Beauty Parlour & Salon (Home service available)",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Make-up artist",
+    "pincode": "249403",
+    "phone_number": "+91 78198 59762",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 29,
+    "address": "Gangotri Hotel, Near, Indralok Colony, Haridwar, Uttarakhand 249403",
+    "area": "Integrated Industrial Estate, Indralok Colony, BHEL Township",
+    "latitude": 29.9497567,
+    "longitude": 78.0766177,
+    "place_id": "ChIJeUqZimhJCTkRl0BqW5HAC1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUqZimhJCTkRl0BqW5HAC1Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:15:25"
+  }
+]

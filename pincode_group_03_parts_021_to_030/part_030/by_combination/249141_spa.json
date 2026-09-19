@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digaj home stay",
+    "search_category": "Spa",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249141",
+    "phone_number": "+91 96627 25510",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Barkot - Yamunotri Rd, Ojari, Pali, Uttarakhand 249141",
+    "area": "249141",
+    "latitude": 30.9077651,
+    "longitude": 78.3357035,
+    "place_id": "ChIJx82wFgCXCDkRrY0FmAY0MGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx82wFgCXCDkRrY0FmAY0MGU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:49"
+  },
+  {
+    "business_name": "Ramola cafe & restaurant",
+    "search_category": "Spa",
+    "primary_category": "Wellness hotel",
+    "all_categories": "Wellness hotel",
+    "pincode": "249141",
+    "phone_number": "+91 87550 51202",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NH134, bharmkhal, Kumrara, F-1 P-1, Uttarakhand 249152",
+    "area": "bharmkhal",
+    "latitude": 30.7019806,
+    "longitude": 78.2946055,
+    "place_id": "ChIJy2KmsH7rCDkRlNVu-JcqTfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2KmsH7rCDkRlNVu-JcqTfU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:49"
+  }
+]

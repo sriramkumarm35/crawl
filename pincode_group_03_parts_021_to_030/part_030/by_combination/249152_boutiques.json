@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kotdhar Market",
+    "search_category": "Boutiques",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "249152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "M6GH+6V, Jibya, Banot Palla, Uttarakhand 249152",
+    "area": "249152",
+    "latitude": 30.6764738,
+    "longitude": 78.2292739,
+    "place_id": "ChIJ6fmyHd7BCDkRS7yUk4NCyH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fmyHd7BCDkRS7yUk4NCyH0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:43"
+  },
+  {
+    "business_name": "Nautiyal printing press",
+    "search_category": "Boutiques",
+    "primary_category": "Wedding store",
+    "all_categories": "Wedding store",
+    "pincode": "249152",
+    "phone_number": "+91 84498 02339",
+    "website": "http://wwwnautiyalprintingpress.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chinyalisour, Uttarakhand 249196",
+    "area": "249152",
+    "latitude": 30.578927999999998,
+    "longitude": 78.3282553,
+    "place_id": "ChIJsf4ywGLpCDkRUrrrPWL6FUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsf4ywGLpCDkRUrrrPWL6FUo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:44"
+  }
+]

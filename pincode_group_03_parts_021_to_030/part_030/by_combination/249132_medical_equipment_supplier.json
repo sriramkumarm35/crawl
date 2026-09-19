@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Anjali medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no 1, All weather road, Chinyalisour, Uttarakhand 249196",
+    "area": "249132",
+    "latitude": 30.582835799999998,
+    "longitude": 78.3205017,
+    "place_id": "ChIJhxOkIQDpCDkRrrKmBP1SqQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxOkIQDpCDkRrrKmBP1SqQg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:56"
+  },
+  {
+    "business_name": "Pradeep medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H89G+GC8, Pipalmandi, Chinyalisour, Uttarakhand 249196",
+    "area": "Pipalmandi",
+    "latitude": 30.568792199999997,
+    "longitude": 78.326093,
+    "place_id": "ChIJG2J2Z0zpCDkRLtYg2dhqb9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2J2Z0zpCDkRLtYg2dhqb9w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:56"
+  }
+]

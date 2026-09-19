@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajput car travel Booking pantjali",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "249405",
+    "phone_number": "+91 79063 71741",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Patanjali, Haridwar, Yogpeeth, Uttarakhand 249405",
+    "area": "249405",
+    "latitude": 29.9026002,
+    "longitude": 77.9913438,
+    "place_id": "ChIJAf9jA_FLCTkRukzeimFw-9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAf9jA_FLCTkRukzeimFw-9g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:51"
+  },
+  {
+    "business_name": "Cab Rides",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "249405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1 Dev Hotel, Patanjali yogpeeth phase, 1, Haridwar, Uttarakhand 249405",
+    "area": "249405",
+    "latitude": 29.895888399999997,
+    "longitude": 77.9852853,
+    "place_id": "ChIJx-DOWPNLCTkRA9eMQ2qWqYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-DOWPNLCTkRA9eMQ2qWqYk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:51"
+  }
+]

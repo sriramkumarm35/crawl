@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBI -HOME LOAN",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "249181",
+    "phone_number": "+91 98712 60724",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "SBI -HOME LOAN, 249181, India",
+    "area": "249181",
+    "latitude": 28.4771997,
+    "longitude": 77.1009392,
+    "place_id": "ChIJn7EQfBcbDTkRETh6zlILLb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7EQfBcbDTkRETh6zlILLb0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:39:29"
+  },
+  {
+    "business_name": "LoanMoney",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "249181",
+    "phone_number": "+91 81302 22111",
+    "website": "http://www.loanmoney.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3J, 302, Gurjinder Vihar, AWHO, Sector – CH-1, AWHO Phase III, Greater Noida, Uttar Pradesh 201315",
+    "area": "Gurjinder Vihar, AWHO, Sector – CH-1, AWHO Phase III",
+    "latitude": 28.4456672,
+    "longitude": 77.5101219,
+    "place_id": "ChIJ-8qXqtzjDDkRd8QBh6oKcjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8qXqtzjDDkRd8QBh6oKcjs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:39:30"
+  }
+]

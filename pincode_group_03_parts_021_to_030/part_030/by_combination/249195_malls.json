@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.K Store Ithilparamba",
+    "search_category": "Malls",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249195",
+    "phone_number": "+91 96330 00252",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 33,
+    "address": "3349+WXG, Ethilparamb Rd, Kavumpuram, Melmuri, Malappuram, Keralam 676519",
+    "area": "Kavumpuram, Melmuri",
+    "latitude": 11.0573082,
+    "longitude": 76.0699559,
+    "place_id": "ChIJSxfWO4lKpjsRpdkSM8CGzcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxfWO4lKpjsRpdkSM8CGzcY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:50:38"
+  },
+  {
+    "business_name": "Silverian Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "249195",
+    "phone_number": "+91 77750 14555",
+    "website": "https://www.silverian.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gat No 249, opposite modern college of pharmacy, Moshi, Pimpri-Chinchwad, Maharashtra 411070",
+    "area": "MIDC, Moshi",
+    "latitude": 18.6795302,
+    "longitude": 73.8408664,
+    "place_id": "ChIJiTAR-Bm3wjsRsoIGEC9pfIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTAR-Bm3wjsRsoIGEC9pfIM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:50:38"
+  }
+]

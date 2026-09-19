@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NICE MEAT MART",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "249194",
+    "phone_number": "+91 78932 92786",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 238,
+    "address": "7 Tombs Rd, Raghava Colony, Aruna Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "Raghava Colony, Aruna Colony, Toli Chowki",
+    "latitude": 17.3991841,
+    "longitude": 78.4070879,
+    "place_id": "ChIJxXTPOhaXyzsRVTTw8FKM_iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXTPOhaXyzsRVTTw8FKM_iw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:05"
+  },
+  {
+    "business_name": "Nawaz Poultry Traders",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "249194",
+    "phone_number": "+91 98861 27865",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 35,
+    "address": "Ring Rd, beside Shadaab Function Hall, Makkah Colony, Mehboob Nagar, Kalaburagi, Karnataka 585104",
+    "area": "Makkah Colony, Mehboob Nagar",
+    "latitude": 17.3448709,
+    "longitude": 76.85977989999999,
+    "place_id": "ChIJOUakS-bHyDsRJFwQZwubxrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUakS-bHyDsRJFwQZwubxrI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:05"
+  }
+]

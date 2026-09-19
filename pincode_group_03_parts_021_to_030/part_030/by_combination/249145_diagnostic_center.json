@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Max Lab | Diagnostic Centre & Blood Test in Ghansali",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service",
+    "pincode": "249145",
+    "phone_number": "+91 89585 25867",
+    "website": "https://www.maxlab.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 4, Madhur Vihar, near SBI Bank, Ghansali, Shivpuri Range, Uttarakhand 249155",
+    "area": "249145",
+    "latitude": 30.25422,
+    "longitude": 78.39197999999999,
+    "place_id": "ChIJ-YTHOOAbCTkRdXPg9_AkQ7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YTHOOAbCTkRdXPg9_AkQ7A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:12"
+  },
+  {
+    "business_name": "Rudransh Lab Blood Collection Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "249145",
+    "phone_number": "+91 81263 78298",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Ground Floor, Raipur - Balawala Rd, opposite TVS showroom, Raipur, Ranjhawala, Dehradun, Uttarakhand 248008",
+    "area": "Raipur",
+    "latitude": 30.3015527,
+    "longitude": 78.0981532,
+    "place_id": "ChIJZznlv2QpCTkRI5Mc6Oh9uWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZznlv2QpCTkRI5Mc6Oh9uWA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:15"
+  }
+]

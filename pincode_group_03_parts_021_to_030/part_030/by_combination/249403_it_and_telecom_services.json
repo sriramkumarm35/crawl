@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Corporate IT Park Ltd",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "http://www.jio.com/",
+    "rating": 4,
+    "reviews_count": 63,
+    "address": "Sector Iidc, Plot No 8, SIDCUL, Sector 8A, BHEL Township, Haridwar, Uttarakhand 249403",
+    "area": "SIDCUL, Sector 8A, BHEL Township",
+    "latitude": 29.955809499999997,
+    "longitude": 78.07450039999999,
+    "place_id": "ChIJbyPi0UhICTkREW_OFgd7VPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyPi0UhICTkREW_OFgd7VPM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:15:51"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D/o, SHANTI SAWROOP PATHAK, S/o, 17-T, behind JWALAPUR, Adarsh Nagar, Haridwar, Uttarakhand 249403",
+    "area": "Adarsh Nagar, Model Colony",
+    "latitude": 29.932313999999998,
+    "longitude": 78.13058,
+    "place_id": "ChIJbXfdlY5HCTkRMb2CZgy4F4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXfdlY5HCTkRMb2CZgy4F4c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:15:51"
+  }
+]

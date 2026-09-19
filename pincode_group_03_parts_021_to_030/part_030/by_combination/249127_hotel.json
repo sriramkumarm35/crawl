@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "गढ़वाल दर्शन होम स्टे",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249127",
+    "phone_number": "+91 96909 00686",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "Marora, Uttarakhand 249130",
+    "area": "249127",
+    "latitude": 30.4135018,
+    "longitude": 78.4452907,
+    "place_id": "ChIJQ6Gwv8TjCDkR3ooxpqQXxvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6Gwv8TjCDkR3ooxpqQXxvk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:10"
+  },
+  {
+    "business_name": "Hotel Basant Palace",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249127",
+    "phone_number": "+91 98976 28926",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near ITI, Rajakhet, Dhar Mandal Patti, Uttarakhand 249127",
+    "area": "249127",
+    "latitude": 30.3919556,
+    "longitude": 78.51942319999999,
+    "place_id": "ChIJt1CFEI_9CDkR_RzVRCPFB4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1CFEI_9CDkR_RzVRCPFB4s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:13"
+  }
+]

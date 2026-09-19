@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "44, College Rd, Chamba, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.345765999999998,
+    "longitude": 78.393244,
+    "place_id": "ChIJlzLncwAdCTkRtux8KTB7EH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzLncwAdCTkRtux8KTB7EH8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:52"
+  },
+  {
+    "business_name": "SANJEEVANI MEDICAL STORE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "249199",
+    "phone_number": "+91 80100 90501",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Mussoorie Rd, near nagar palika office, Chamba, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.3477926,
+    "longitude": 78.3917989,
+    "place_id": "ChIJUR33L_EdCTkR-SHhk5dxgZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUR33L_EdCTkR-SHhk5dxgZc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:52"
+  }
+]

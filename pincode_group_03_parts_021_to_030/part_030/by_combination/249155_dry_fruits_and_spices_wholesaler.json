@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MeWaah Ghar",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Health food store, Spice store, Wholesaler",
+    "pincode": "249155",
+    "phone_number": "+91 95692 24707",
+    "website": "https://mewaahghar.com/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "Awas Vikas, Tiraha, Rajghat Colony, Jhansi, Uttar Pradesh 284003",
+    "area": "Awas Vikas, Tiraha, Rajghat Colony",
+    "latitude": 25.4564375,
+    "longitude": 78.5343742,
+    "place_id": "ChIJr90oXShxdzkReB-Hf2LF6js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr90oXShxdzkReB-Hf2LF6js",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:27:06"
+  },
+  {
+    "business_name": "Rajesh General Store",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249155",
+    "phone_number": "+91 90275 87678",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Guptakashi Basukedar Road, Uttarakhand 246439",
+    "area": "249155",
+    "latitude": 30.5216551,
+    "longitude": 79.0819468,
+    "place_id": "ChIJLRrQn8g1CDkRHVXEDomBMRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRrQn8g1CDkRHVXEDomBMRQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:27:08"
+  }
+]

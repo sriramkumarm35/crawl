@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The chef table",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249403",
+    "phone_number": "+91 82797 25821",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "D Cluster, Shivalik Nagar, Haridwar, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
+    "area": "D Cluster, Shivalik Nagar",
+    "latitude": 29.934658499999998,
+    "longitude": 78.0768895,
+    "place_id": "ChIJiQ0DDyNJCTkRCEi0hi1g-lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQ0DDyNJCTkRCEi0hi1g-lc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:38"
+  },
+  {
+    "business_name": "Station 58 | Family Restaurant in Haridwar",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249403",
+    "phone_number": "+91 93190 25090",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Roorkee - Haridwar Rd, near Sansaar Honda Showroom, Gandhi Ashram Colony, Singhdwar, Bharav Mandir Colony, Kankhal, Haridwar, Uttarakhand 249404",
+    "area": "Gandhi Ashram Colony, Singhdwar, Bharav Mandir Colony, Kankhal",
+    "latitude": 29.926357,
+    "longitude": 78.1324526,
+    "place_id": "ChIJ1_Vrs1dHCTkRjojEpkkIJOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_Vrs1dHCTkRjojEpkkIJOE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:40"
+  }
+]

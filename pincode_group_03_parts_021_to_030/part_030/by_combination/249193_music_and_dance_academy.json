@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Music and Dance academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "249193",
+    "phone_number": "+91 81266 32399",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saibaba enclave, THDC Colony, Dehrakhas, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "area": "THDC Colony, Dehrakhas, Patel Nagar",
+    "latitude": 30.2999069,
+    "longitude": 78.0199497,
+    "place_id": "ChIJVepbRmcpCTkRsDtReFC4c-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVepbRmcpCTkRsDtReFC4c-g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:28"
+  },
+  {
+    "business_name": "Tarana Music and Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "249193",
+    "phone_number": "+91 91492 07317",
+    "website": "https://youtube.com/channel/UCkBhkJRS3d4Wy6WjWnCPPxg",
+    "rating": 5,
+    "reviews_count": 55,
+    "address": "Kamalwaganja Rd, near DAV school, behind Fitness terrain Gym, Himmatpur Malla, Haldwani, Himmatpur Talla, Uttarakhand 263139",
+    "area": "Himmatpur Malla",
+    "latitude": 29.218505399999998,
+    "longitude": 79.49018319999999,
+    "place_id": "ChIJpb9pblGboDkRlBfLkfHys5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpb9pblGboDkRlBfLkfHys5g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:30"
+  }
+]

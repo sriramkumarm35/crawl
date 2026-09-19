@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Mobile Repairing",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "249122",
+    "phone_number": "+91 80572 58826",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramleela Ground, Wali Gali, near Police Station, Bazpur, Uttarakhand 262401",
+    "area": "249122",
+    "latitude": 29.1618097,
+    "longitude": 79.15443719999999,
+    "place_id": "ChIJ87G6xcZlCjkROlQ55pVabMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87G6xcZlCjkROlQ55pVabMw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:55:20"
+  },
+  {
+    "business_name": "SAI RAM COMMUNICATION",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "249122",
+    "phone_number": "+91 98972 20222",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "25, Gmou complex, opp. Bajaj showroom, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.108598399999998,
+    "longitude": 78.3001453,
+    "place_id": "ChIJaafv0hcXCTkRyVdFQphPbWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaafv0hcXCTkRyVdFQphPbWs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:55:20"
+  }
+]

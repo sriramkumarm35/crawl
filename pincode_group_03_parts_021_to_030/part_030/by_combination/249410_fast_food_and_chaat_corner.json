@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "ULHERA MOD, GURUKUL NRASAN, Purquazi, Ulheda, Uttarakhand 247670",
+    "area": "249410",
+    "latitude": 29.6816461,
+    "longitude": 77.8501381,
+    "place_id": "ChIJXfCmfeWrDjkR6hClxKmIm0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfCmfeWrDjkR6hClxKmIm0k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:24:01"
+  },
+  {
+    "business_name": "Gupta Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249410",
+    "phone_number": "+91 95363 54076",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 18,
+    "address": "Laksar Rd Sultanpur, Laksar, Uttarakhand 247663",
+    "area": "249410",
+    "latitude": 29.7561786,
+    "longitude": 78.10492289999999,
+    "place_id": "ChIJrSzy02FRCTkR0vT25pt1TQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSzy02FRCTkR0vT25pt1TQ0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:24:01"
+  }
+]

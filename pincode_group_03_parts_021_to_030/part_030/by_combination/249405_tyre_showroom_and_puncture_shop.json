@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Wheel Care",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "249405",
+    "phone_number": "+91 73516 22997",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Tirhah, Laksar, Uttarakhand 247663",
+    "area": "Tirhah",
+    "latitude": 29.7564912,
+    "longitude": 78.0318387,
+    "place_id": "ChIJwUfm9NxRCTkRky7wQhc9M0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUfm9NxRCTkRky7wQhc9M0U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:49"
+  },
+  {
+    "business_name": "ARJUN TYERS",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "249405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "pulimoodu, Aryanad, Keralam 695542",
+    "area": "pulimoodu",
+    "latitude": 8.5887289,
+    "longitude": 77.07218979999999,
+    "place_id": "ChIJH6I9DIm3BTsRrRCCyKNvLu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6I9DIm3BTsRrRCCyKNvLu8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:50"
+  }
+]

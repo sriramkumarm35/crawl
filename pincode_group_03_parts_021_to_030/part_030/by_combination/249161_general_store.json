@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pant General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249161",
+    "phone_number": "+91 70604 77480",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 7, Hydel Colony, Srinagar, Uttarakhand 246174",
+    "area": "Hydel Colony",
+    "latitude": 30.217829799999997,
+    "longitude": 78.8050305,
+    "place_id": "ChIJ731NLhulCTkRibrv4wht6ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ731NLhulCTkRibrv4wht6ls",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:28:58"
+  },
+  {
+    "business_name": "Uniyal General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249161",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6RH4+4PF, University Rd, Madhi Chauras, Naur, Srinagar, Uttarakhand 246178",
+    "area": "Madhi Chauras",
+    "latitude": 30.227813299999998,
+    "longitude": 78.8068017,
+    "place_id": "ChIJVRjAQ-WlCTkRmybVp7Q-2zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRjAQ-WlCTkRmybVp7Q-2zo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:28:58"
+  }
+]

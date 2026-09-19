@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ice Cream Parlor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "R-232, R Cluster, Ganga Nagar, Haridwar, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
+    "area": "R Cluster, Ganga Nagar",
+    "latitude": 29.933681699999998,
+    "longitude": 78.0763601,
+    "place_id": "ChIJkTJ0FhBJCTkRYnyj8t1hizA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTJ0FhBJCTkRYnyj8t1hizA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:40"
+  },
+  {
+    "business_name": "Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cafe",
+    "pincode": "249403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W3XG+853, Integrated Industrial Estate, Sector 12, BHEL Township, Haridwar, Uttarakhand 249403",
+    "area": "Integrated Industrial Estate, Sector 12, BHEL Township",
+    "latitude": 29.9482593,
+    "longitude": 78.0754255,
+    "place_id": "ChIJ2-Q5a1BICTkRTrK4mTO0sNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-Q5a1BICTkRTrK4mTO0sNs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:40"
+  }
+]

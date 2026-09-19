@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Village View Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249180",
+    "phone_number": "+91 90273 49408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F5JW+MQ2, Almas, Uttarakhand 249180",
+    "area": "249180",
+    "latitude": 30.481634399999997,
+    "longitude": 78.19687789999999,
+    "place_id": "ChIJC8UZAwDbCDkRWvd2BMpotNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8UZAwDbCDkRWvd2BMpotNY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:24"
+  },
+  {
+    "business_name": "PANCHAM HOME STAY",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249180",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C63M+X8X, Dhanolti, Dhanaulti, Uttarakhand 249180",
+    "area": "249180",
+    "latitude": 30.404990299999998,
+    "longitude": 78.2333743,
+    "place_id": "ChIJZXjhcwDfCDkRWDe7cUwmPKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXjhcwDfCDkRWDe7cUwmPKM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Life Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre, Obstetrician-gynecologist",
+    "pincode": "249304",
+    "phone_number": "+91 62940 34258",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "M7QC+424, Siddheswarnagar, Barijhati, Chanditala, West Bengal 712702",
+    "area": "Gobra",
+    "latitude": 22.6877638,
+    "longitude": 88.2700837,
+    "place_id": "ChIJwQfwBpSD-DkRtQ2JsMKw6ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQfwBpSD-DkRtQ2JsMKw6ZY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:07:19"
+  },
+  {
+    "business_name": "Pakur Nursing Home & Maternity Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "249304",
+    "phone_number": "+91 75490 19572",
+    "website": "http://pakurivfandnursinghome.com/",
+    "rating": 4.7,
+    "reviews_count": 167,
+    "address": "Maalpahari Rd, Dwarkapuri, Beldanga, Pakur, Jharkhand 816107",
+    "area": "Dwarkapuri, Beldanga",
+    "latitude": 24.6303982,
+    "longitude": 87.8530717,
+    "place_id": "ChIJ33zaYtlp-jkRXRtCFRImhn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33zaYtlp-jkRXRtCFRImhn4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:07:22"
+  }
+]

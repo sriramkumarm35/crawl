@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "5 Min Dine",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Cafe",
+    "pincode": "249403",
+    "phone_number": "+91 78950 82535",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 118,
+    "address": "Arya Nagar Chowk, near Jagdamba Enterprises, Sharda Nagar, Haridwar, Jwalapur, Uttarakhand 249407",
+    "area": "Sharda Nagar",
+    "latitude": 29.925791,
+    "longitude": 78.1201407,
+    "place_id": "ChIJM-S4pypHCTkRArT71VFqe6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-S4pypHCTkRArT71VFqe6Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:39"
+  },
+  {
+    "business_name": "Sachin kuamr Fast Food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Cake shop, Chinese restaurant, Dry Fruit Store, Family restaurant, Fast food restaurant, Health food restaurant, Indian restaurant, Vegetarian restaurant",
+    "pincode": "249403",
+    "phone_number": "+91 95579 65738",
+    "website": "http://www.bikanervala.com/",
+    "rating": 3.7,
+    "reviews_count": 87,
+    "address": "Shop N.19, mode, Yogi Vihar Colony, Khanna Nagar, Ranipur, Haridwar, Uttarakhand 249407",
+    "area": "Yogi Vihar Colony, Khanna Nagar",
+    "latitude": 29.9313318,
+    "longitude": 78.1301495,
+    "place_id": "ChIJJ3b4_5JICTkRGhzV4acFsG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3b4_5JICTkRGhzV4acFsG0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:42"
+  }
+]

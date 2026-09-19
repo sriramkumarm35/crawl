@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best filing hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "WGPV+CHH, Banokra, Parmaron Ka Bhagal, Rajasthan 313325",
+    "area": "249151",
+    "latitude": 24.936053299999998,
+    "longitude": 73.5439897,
+    "place_id": "ChIJcaN7NPEdaDkRwp8Znfnez1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaN7NPEdaDkRwp8Znfnez1o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:24:39"
+  },
+  {
+    "business_name": "Rapid Hotel Amenities",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "249151",
+    "phone_number": "0303 8280033",
+    "website": "https://www.rapidhotelamenities.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "A-6, Aman Castle, Manakjee Street, Garden East Karachi, 74200, Pakistan",
+    "area": "Garden East",
+    "latitude": 24.882350499999998,
+    "longitude": 67.02919419999999,
+    "place_id": "ChIJbctRBBk_sz4R2nG1iaHm1PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbctRBBk_sz4R2nG1iaHm1PQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:24:39"
+  }
+]

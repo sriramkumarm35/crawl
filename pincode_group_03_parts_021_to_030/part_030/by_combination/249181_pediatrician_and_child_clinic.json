@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Rizwan Gohar",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Doctor",
+    "pincode": "249181",
+    "phone_number": "0300 4007688",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Building # 462, 463, Khokhar Chowk, Block G 3 Phase 2 Johar Town, Lahore, 54000, Pakistan",
+    "area": "Block G3 Block G 3 Phase 2 Johar Town",
+    "latitude": 31.4704382,
+    "longitude": 74.2741814,
+    "place_id": "ChIJfaIjCDEDGTkRGxuLJn-S1ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaIjCDEDGTkRGxuLJn-S1ew",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:32"
+  },
+  {
+    "business_name": "CHILD HEALTH CARE",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "249181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tilak Nagar, Khatauli, Uttar Pradesh 251201",
+    "area": "Tilak Nagar",
+    "latitude": 29.276038099999997,
+    "longitude": 77.7432463,
+    "place_id": "ChIJo-rh7ngSDDkRbZZVOjixri8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-rh7ngSDDkRbZZVOjixri8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:34"
+  }
+]

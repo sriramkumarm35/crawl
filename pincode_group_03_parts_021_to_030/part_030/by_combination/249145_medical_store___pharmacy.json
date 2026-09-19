@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9667+8FW, Saklana Range, Uttarakhand 249145",
+    "area": "249145",
+    "latitude": 30.360874199999998,
+    "longitude": 78.2137027,
+    "place_id": "ChIJbRMrVQDfCDkRKfdn1VaZUlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRMrVQDfCDkRKfdn1VaZUlo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:05"
+  },
+  {
+    "business_name": "PANWAR MEDICAL STORE BHAWAN",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249145",
+    "phone_number": "+91 78950 17579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "main market, uttarkashi road, Bhawan, Uttarakhand 249180",
+    "area": "Bhawan",
+    "latitude": 30.4790323,
+    "longitude": 78.2211641,
+    "place_id": "ChIJmWs5tSTdCDkReyPHAGDm5Fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWs5tSTdCDkReyPHAGDm5Fg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:20:08"
+  }
+]

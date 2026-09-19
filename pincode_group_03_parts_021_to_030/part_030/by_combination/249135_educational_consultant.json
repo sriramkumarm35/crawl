@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod Educational Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "249135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FXMH+FHR, Bakseer, Uttarakhand 246419",
+    "area": "249135",
+    "latitude": 30.4837283,
+    "longitude": 78.9788837,
+    "place_id": "ChIJZ4zKEFJKCDkR93cyt-Q8Q6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4zKEFJKCDkR93cyt-Q8Q6s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:28"
+  },
+  {
+    "business_name": "Affinity Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "249135",
+    "phone_number": "+91 95402 37575",
+    "website": "https://www.affinityeducation.in/",
+    "rating": 4,
+    "reviews_count": 190,
+    "address": "301, 3rd floor, Plot No.1, Central Auto Market, WTT, Sector 16, Noida, Uttar Pradesh 201301",
+    "area": "Central Auto Market, WTT, Sector 16",
+    "latitude": 28.576912099999998,
+    "longitude": 77.3171729,
+    "place_id": "ChIJJdylwk7kDDkRTq5ilTJfOxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdylwk7kDDkRTq5ilTJfOxU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:29"
+  }
+]

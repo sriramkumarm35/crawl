@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tyre puncture",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "249204",
+    "phone_number": "+91 73023 05301",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26M6+R29, NH 34, Raiwala, Uttarakhand 249205",
+    "area": "249204",
+    "latitude": 30.0345253,
+    "longitude": 78.2101036,
+    "place_id": "ChIJl0myTQA_CTkRZj6UjUQNYBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0myTQA_CTkRZj6UjUQNYBU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:14"
+  },
+  {
+    "business_name": "Sharma Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "249204",
+    "phone_number": "+91 99978 07849",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "A1, Haridwar, Uttarakhand 249204",
+    "area": "Bhalla Farm",
+    "latitude": 30.0605712,
+    "longitude": 78.23276369999999,
+    "place_id": "ChIJaUKwPNE_CTkRVLn9Byua2eE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUKwPNE_CTkRVLn9Byua2eE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:00:14"
+  }
+]

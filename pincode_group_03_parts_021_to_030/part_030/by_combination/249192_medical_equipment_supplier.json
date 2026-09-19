@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "249192",
+    "phone_number": "+91 79839 85789",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "48HC+5WF, Haridwar Rishikesh Badrinath Rd, Tapovan, Jonk, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.127929199999997,
+    "longitude": 78.3223063,
+    "place_id": "ChIJdfNVJUQWCTkRR3iLx67FJGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfNVJUQWCTkRR3iLx67FJGI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:44:03"
+  },
+  {
+    "business_name": "Globio International",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "249192",
+    "phone_number": "+91 62838 20929",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gali Number 10, Bapu Gram, Road, Veerbhadra, Rishikesh, Uttarakhand 249202",
+    "area": "Bapu Gram, Road",
+    "latitude": 30.076587099999998,
+    "longitude": 78.27699729999999,
+    "place_id": "ChIJDW3HkGg_CTkRWyCCrArnXYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDW3HkGg_CTkRWyCCrArnXYM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:44:06"
+  }
+]

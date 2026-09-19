@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hill queen beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249410",
+    "phone_number": "+91 73510 82536",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "X5MM+9QF, Rani Gali, Bhoopatwala, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Bhoopatwala",
+    "latitude": 29.9834371,
+    "longitude": 78.18442139999999,
+    "place_id": "ChIJXXkBSABHCTkRMVSqD9EOF6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXkBSABHCTkRMVSqD9EOF6Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:24:43"
+  },
+  {
+    "business_name": "Ritu Royal Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Health and beauty shop",
+    "pincode": "249410",
+    "phone_number": "+91 84499 55843",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Shop 1, No 4, Rani Gali, near Naklank Dham, Motichur, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Motichur",
+    "latitude": 29.984132,
+    "longitude": 78.1875974,
+    "place_id": "ChIJWwbBQ9BHCTkRzxAptbVkuiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwbBQ9BHCTkRzxAptbVkuiQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:24:43"
+  }
+]

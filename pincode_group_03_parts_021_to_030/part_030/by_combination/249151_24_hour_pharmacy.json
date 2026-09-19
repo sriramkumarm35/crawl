@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meri Pharmacy - Tahir Medical Center Dhoraji",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249151",
+    "phone_number": "0300 0446767",
+    "website": "https://meripharmacy.pk/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "419/A, Old Amir Khusro Road, near Muhammad Ali Society, Dhoraji Block B Adamjee Nagar Society, Karachi, 75300, Pakistan",
+    "area": "Dhoraji Block B Adamjee Nagar Society",
+    "latitude": 24.8824717,
+    "longitude": 67.0817854,
+    "place_id": "ChIJ_cwy5Ys_sz4RVaGkaGH6esM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cwy5Ys_sz4RVaGkaGH6esM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:54"
+  },
+  {
+    "business_name": "Lucknow Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "249151",
+    "phone_number": "0312 2599255",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot LS 161, Lucknow Society Sector 31 E Korangi, Karachi, Pakistan",
+    "area": "Lucknow Society Sector 31 E Korangi",
+    "latitude": 24.8256621,
+    "longitude": 67.12061729999999,
+    "place_id": "ChIJtZQ3GgA7sz4R3bmaSsTdMgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZQ3GgA7sz4R3bmaSsTdMgo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:54"
+  }
+]

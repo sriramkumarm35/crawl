@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tractor Auto Deal",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Used car dealer, Used truck dealer",
+    "pincode": "249202",
+    "phone_number": "+91 94717 53577",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nagar Untari, Mangardah, Jharkhand 822121",
+    "area": "249202",
+    "latitude": 24.2670682,
+    "longitude": 83.4736906,
+    "place_id": "ChIJlfP8n_OljjkRVnPnWIm4o38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfP8n_OljjkRVnPnWIm4o38",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:37"
+  },
+  {
+    "business_name": "Tractorfactory.in",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "249202",
+    "phone_number": "+91 97555 14957",
+    "website": "https://tractorfactory.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baghedi chouraha, Chakghat, Madhya Pradesh 486226",
+    "area": "249202",
+    "latitude": 25.0430817,
+    "longitude": 81.7211691,
+    "place_id": "ChIJS1yt5joXhTkRJZsilwMBRFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1yt5joXhTkRJZsilwMBRFA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:37"
+  }
+]

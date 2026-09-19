@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarrva Cafe",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Coffee shop, Lunch restaurant, Pizza restaurant, Cafe, Snack bar",
+    "pincode": "249201",
+    "phone_number": "+91 95576 67555",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 327,
+    "address": "Veerpur Khuŕd, Sarrva Cafe, Within Hotel The 7 seas Main AIIMS Barrage Road, 20 Bigha Puliya, Rishikesh, Uttarakhand 249203",
+    "area": "Aam Bag, IDPL Colony",
+    "latitude": 30.072865,
+    "longitude": 78.2791483,
+    "place_id": "ChIJl8DKn3Y_CTkRwzjxT4_OO-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8DKn3Y_CTkRwzjxT4_OO-4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:17"
+  },
+  {
+    "business_name": "Khana khazana Rishikesh",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pacific Northwest restaurant (Canada)",
+    "all_categories": "Pacific Northwest restaurant (Canada)",
+    "pincode": "249201",
+    "phone_number": "+91 97599 01120",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "Gali No. 2, Adarsh Nagar, Ganga Nagar, Rishikesh, Uttarakhand 249204",
+    "area": "Adarsh Nagar, Ganga Nagar",
+    "latitude": 30.1040061,
+    "longitude": 78.2894109,
+    "place_id": "ChIJyeJnLLo9CTkRV9LSilw_PVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeJnLLo9CTkRV9LSilw_PVY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "249146",
+    "phone_number": "+91 96503 63964",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Nagni, Tehri, Uttarakhand 249175",
+    "area": "249146",
+    "latitude": 30.3280988,
+    "longitude": 78.3593982,
+    "place_id": "ChIJo08aDGcfCTkRl3p4bV3GF8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo08aDGcfCTkRl3p4bV3GF8Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:22:30"
+  },
+  {
+    "business_name": "KOTHARI HOUSE",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "249146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8CC5+638, Dargi, Uttarakhand 249199",
+    "area": "249146",
+    "latitude": 30.320528999999997,
+    "longitude": 78.40770429999999,
+    "place_id": "ChIJG2DTLQAdCTkRLxynUosD-g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2DTLQAdCTkRLxynUosD-g8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:22:30"
+  }
+]

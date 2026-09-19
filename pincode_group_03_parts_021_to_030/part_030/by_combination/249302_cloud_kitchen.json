@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "249302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ES1-331, Mohibullapur, Jankipuram, Lucknow, Uttar Pradesh 226024",
+    "area": "Mohibullapur, Jankipuram",
+    "latitude": 26.9068272,
+    "longitude": 80.9429877,
+    "place_id": "ChIJUzXSRgBXmTkRD86WvAx1sB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzXSRgBXmTkRD86WvAx1sB0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:14"
+  },
+  {
+    "business_name": "Pallavi's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant, Maharashtrian Restaurant",
+    "pincode": "249302",
+    "phone_number": "+91 98231 97551",
+    "website": "https://pallavirestaurant.org/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "D-17, Runawal Paradise, Right, Right Bhusari Colony, Pune, Maharashtra 411038",
+    "area": "Paud Road, Right Bhusari Colony, Kothrud",
+    "latitude": 18.509548199999998,
+    "longitude": 73.7882996,
+    "place_id": "ChIJES8cube_wjsR7V2US7gWzrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJES8cube_wjsR7V2US7gWzrs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:05:14"
+  }
+]

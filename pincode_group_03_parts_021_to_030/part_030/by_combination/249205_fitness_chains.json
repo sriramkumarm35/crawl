@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ONE LIFE FITNESS GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "249205",
+    "phone_number": "+91 85349 00233",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Lakkad Ghat Rd, Guljar Farm, Rishikesh, Uttarakhand 249204",
+    "area": "Guljar Farm",
+    "latitude": 30.057700399999998,
+    "longitude": 78.25028429999999,
+    "place_id": "ChIJffl12FM_CTkRr-2dSLEMZj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffl12FM_CTkRr-2dSLEMZj4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:02:03"
+  },
+  {
+    "business_name": "Balaji gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "249205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Raiwala, shiv chok, Rishikesh, Uttarakhand 249205",
+    "area": "shiv chok",
+    "latitude": 30.0323657,
+    "longitude": 78.2168131,
+    "place_id": "ChIJzfoSl_0_CTkRP3kZYDERUsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfoSl_0_CTkRP3kZYDERUsQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:02:03"
+  }
+]

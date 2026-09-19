@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naugaonkhal Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, ATM",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "XV68+WHJ, Naugaun Khal, Uttarakhand 246162",
+    "area": "249165",
+    "latitude": 29.9623493,
+    "longitude": 78.8663898,
+    "place_id": "ChIJAQAAsDSXCTkR9KcL4-xlrBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAsDSXCTkR9KcL4-xlrBs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:32:29"
+  },
+  {
+    "business_name": "Gumkhal market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "VMPF+MHP, Kotdwar - Pauri Rd, Koti, Gumkhal, Uttarakhand 246128",
+    "area": "249165",
+    "latitude": 29.8867229,
+    "longitude": 78.67394929999999,
+    "place_id": "ChIJ9Xa6nbqdCTkR7K1dNAP1ibk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Xa6nbqdCTkR7K1dNAP1ibk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:32:29"
+  }
+]

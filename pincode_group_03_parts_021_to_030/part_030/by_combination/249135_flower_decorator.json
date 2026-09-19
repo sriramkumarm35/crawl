@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eikaebana Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market, Christmas store, Florist, Flower delivery, Flower designer, Wholesale florist, Wholesaler",
+    "pincode": "249135",
+    "phone_number": "+91 99880 11011",
+    "website": "http://shop.eikaebana.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "681-82, (1st Floor), Main, near Jain Jewelers, near Kangan Palace, Sadar Bazar, New Delhi, Delhi 110006",
+    "area": "Narain Market, Sadar Bazar",
+    "latitude": 28.658352299999997,
+    "longitude": 77.2130913,
+    "place_id": "ChIJ_zuKlJYcDTkRyqM1DIKttMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zuKlJYcDTkRyqM1DIKttMk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:16"
+  },
+  {
+    "business_name": "Mahak Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "249135",
+    "phone_number": "+91 95806 11777",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ghantaghar Rd, Chamkani, Aligai, Shahjahanpur, Uttar Pradesh 242001",
+    "area": "Chamkani, Aligai",
+    "latitude": 27.8760949,
+    "longitude": 79.91081009999999,
+    "place_id": "ChIJl5vN1NC8nzkRKth7FFbvcew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5vN1NC8nzkRKth7FFbvcew",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:16"
+  }
+]

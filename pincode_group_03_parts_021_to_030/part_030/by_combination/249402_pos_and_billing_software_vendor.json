@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ComTel India",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services, Web hosting company",
+    "pincode": "249402",
+    "phone_number": "+91 95572 81828",
+    "website": "http://www.comtel-india.net/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "389, Eidgah Rd, Purani Tehsil, Roorkee, Uttarakhand 247667",
+    "area": "Purani Tehsil",
+    "latitude": 29.877966299999997,
+    "longitude": 77.8827543,
+    "place_id": "ChIJa8G-gIC0DjkRpXCUF6OH1D8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8G-gIC0DjkRpXCUF6OH1D8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:13:55"
+  },
+  {
+    "business_name": "Pranshu Sharma",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "249402",
+    "phone_number": "N/A",
+    "website": "https://www.bharuwasolutions.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharuwa Solutions Pvt. Ltd, Disha Building, Patanjali Phase 1, Haridwar, Badheri Rajputan, Uttarakhand 249405",
+    "area": "249402",
+    "latitude": 29.895888399999997,
+    "longitude": 77.9852853,
+    "place_id": "ChIJUUrRIgVLCTkRXqOWKYM3MTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUrRIgVLCTkRXqOWKYM3MTc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:13:57"
+  }
+]

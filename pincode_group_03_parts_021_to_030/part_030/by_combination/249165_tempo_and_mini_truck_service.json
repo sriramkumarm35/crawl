@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goods Go tempo service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "DDA RG - 541 FALETS B, Pocket E Rd, Block RG, Raghubir Nagar, Tagore Garden Extension, New Delhi, Delhi, 110027",
+    "area": "Block RG, Raghubir Nagar, Tagore Garden Extension",
+    "latitude": 28.6577071,
+    "longitude": 77.1065465,
+    "place_id": "ChIJ70Ft2QIFDTkR3sCKxl31kQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70Ft2QIFDTkR3sCKxl31kQM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:25"
+  },
+  {
+    "business_name": "Amar Tempo Service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "249165",
+    "phone_number": "+91 87350 65663",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "G186D, Zero Pusta Rd, Kirti Nagar, Block H, Shastri Park, Shahdara, New Delhi, Delhi, 110053",
+    "area": "Kirti Nagar, Block H, Shastri Park, Shahdara",
+    "latitude": 28.674818199999997,
+    "longitude": 77.2591206,
+    "place_id": "ChIJo-onVbH9DDkRijw0WXFBJEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-onVbH9DDkRijw0WXFBJEA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:25"
+  }
+]

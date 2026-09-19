@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sana-di-ge Delhi - Seafood Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Seafood restaurant",
+    "all_categories": "Seafood restaurant, Dessert restaurant, Fine dining restaurant, Restaurant, South Indian restaurant",
+    "pincode": "249151",
+    "phone_number": "+91 70427 94550",
+    "website": "http://www.goldfinchhotels.com/sana-di-ge/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Commercial Centre, 22/48, Malcha Marg, New Delhi, Delhi 110021",
+    "area": "Block C, Diplomatic Enclave, Chanakyapuri",
+    "latitude": 28.601808499999997,
+    "longitude": 77.1869428,
+    "place_id": "ChIJMXfgAKXjDDkRTgQ3t7KAidk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXfgAKXjDDkRTgQ3t7KAidk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:44"
+  },
+  {
+    "business_name": "HOTEL SOCIAL PALACE",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "249151",
+    "phone_number": "+91 90455 99700",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 21,
+    "address": "Nagni, Chinyalisour, Uttarakhand 249196",
+    "area": "249151",
+    "latitude": 30.5914525,
+    "longitude": 78.3212454,
+    "place_id": "ChIJmymWmkvoCDkRIA8e3EY8WDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmymWmkvoCDkRIA8e3EY8WDU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garment",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "249199",
+    "phone_number": "+91 98379 14015",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Mussoorie Rd, Dehradun, Chamba, Uttarakhand 249199",
+    "area": "249199",
+    "latitude": 30.341998399999998,
+    "longitude": 78.4010634,
+    "place_id": "ChIJPeIGSs8dCTkRAAAAMB9xDAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeIGSs8dCTkRAAAAMB9xDAU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:40"
+  },
+  {
+    "business_name": "Tariyal collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "89WV+6MW, Chamba, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.345622199999998,
+    "longitude": 78.3942161,
+    "place_id": "ChIJR2OWvvUdCTkRylUKRtgqYB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2OWvvUdCTkRylUKRtgqYB4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:40"
+  }
+]

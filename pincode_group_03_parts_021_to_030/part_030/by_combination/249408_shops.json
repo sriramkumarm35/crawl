@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wine Shop",
+    "search_category": "Shops",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "249408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 67,
+    "address": "V5QH+QR6, Kankhal, Haridwar, Pathari Forest Range, Uttarakhand 249408",
+    "area": "Kankhal",
+    "latitude": 29.8886717,
+    "longitude": 78.1803283,
+    "place_id": "ChIJK5jBKQBFCTkRy6FINfOmY6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5jBKQBFCTkRy6FINfOmY6s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:23:46"
+  },
+  {
+    "business_name": "Nainwal Ji Shop",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249408",
+    "phone_number": "+91 96752 62041",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Haridwar, Pathari Forest Range, Uttarakhand 249408",
+    "area": "249408",
+    "latitude": 29.859729299999998,
+    "longitude": 78.2512704,
+    "place_id": "ChIJ11cmI2ZDCTkRb9eMQO5lCJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11cmI2ZDCTkRb9eMQO5lCJs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:23:48"
+  }
+]

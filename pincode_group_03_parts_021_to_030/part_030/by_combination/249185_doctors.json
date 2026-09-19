@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr bhatt Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "249185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V3JQ+46G, Purola, Khablisera, Uttarakhand 249185",
+    "area": "249185",
+    "latitude": 30.8802298,
+    "longitude": 78.0880731,
+    "place_id": "ChIJcdurvxexCDkRuT6_B2zELfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdurvxexCDkRuT6_B2zELfA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:20"
+  },
+  {
+    "business_name": "Dr. दिपेंद्र जयाडा 🏠 आवास",
+    "search_category": "Doctors",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "249185",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W478+96W, Kandiyal Goan, Bhadrali, Uttarakhand 249185",
+    "area": "Kandiyal Goan",
+    "latitude": 30.913481599999997,
+    "longitude": 78.1155878,
+    "place_id": "ChIJjf75RgClCDkREjYSYpOjx9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjf75RgClCDkREjYSYpOjx9o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:20"
+  }
+]

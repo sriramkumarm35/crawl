@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rhino Gym & Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "249132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Chinyalisour, Uttarakhand 249196",
+    "area": "249132",
+    "latitude": 30.5776528,
+    "longitude": 78.3284424,
+    "place_id": "ChIJKShEsmbpCDkR-5-en8FAWS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKShEsmbpCDkR-5-en8FAWS0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:59"
+  },
+  {
+    "business_name": "FitLine Fitness Equipment",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Exercise equipment store",
+    "all_categories": "Exercise equipment store, Fitness Equipment Wholesaler",
+    "pincode": "249132",
+    "phone_number": "+91 81306 77660",
+    "website": "https://www.fitlineindia.com/",
+    "rating": 4,
+    "reviews_count": 344,
+    "address": "19, Forest Lane, Mehrauli-Gurgaon Rd, Sultanpur, New Delhi, Delhi 110030",
+    "area": "Sultanpur",
+    "latitude": 28.500071499999997,
+    "longitude": 77.1513425,
+    "place_id": "ChIJoX3H-PYeDTkRjobSOyVg_gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoX3H-PYeDTkRjobSOyVg_gg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:11:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.B. PHARMA",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "249407",
+    "phone_number": "+91 93681 38012",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ghanta Kothi, C-1, Sanyas Road, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Kankhal",
+    "latitude": 29.9320956,
+    "longitude": 78.1511503,
+    "place_id": "ChIJn4nWXKxHCTkRqKlsaRbEK58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4nWXKxHCTkRqKlsaRbEK58",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:33"
+  },
+  {
+    "business_name": "Zeelab Pharmacy",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy",
+    "pincode": "249407",
+    "phone_number": "+91 98961 12555",
+    "website": "https://zeelabpharmacy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Police Station, Gulab Bagh, Gyan Lok Colony, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Gulab Bagh, Gyan Lok Colony, Kankhal",
+    "latitude": 29.9270113,
+    "longitude": 78.14320529999999,
+    "place_id": "ChIJDYdGq6RHCTkRSXUIXD2RhWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYdGq6RHCTkRSXUIXD2RhWk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:33"
+  }
+]

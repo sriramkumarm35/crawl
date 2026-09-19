@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva hotels and spa supplies",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "249175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "no 11, Maniram Marg, near agra sweets, Doctor Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Doctor Colony",
+    "latitude": 30.1048275,
+    "longitude": 78.2959949,
+    "place_id": "ChIJcVyfd6MXCTkRLYElGcDgC9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVyfd6MXCTkRLYElGcDgC9Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:35:15"
+  },
+  {
+    "business_name": "Mahananda Spa & Resorts",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "249175",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "577X+35F, Narendra Nagar, Sakalana, Uttarakhand 249175",
+    "area": "249175",
+    "latitude": 30.162675,
+    "longitude": 78.2979139,
+    "place_id": "ChIJp33rppwXCTkR9uZqGE93l88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp33rppwXCTkR9uZqGE93l88",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:35:18"
+  }
+]

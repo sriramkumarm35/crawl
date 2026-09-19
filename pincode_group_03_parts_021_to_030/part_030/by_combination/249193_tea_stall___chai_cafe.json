@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharam Panwar Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "249193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "PCJW+836, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.7307763,
+    "longitude": 78.4451455,
+    "place_id": "ChIJncIzJQDtCDkR3ucmYhS6THs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncIzJQDtCDkR3ucmYhS6THs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:26"
+  },
+  {
+    "business_name": "Sah Tea Stall & Gen. Store",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "249193",
+    "phone_number": "+91 84496 45459",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "R78J+2HV, Masi Rd, Masi, Masun, Uttarakhand 263658",
+    "area": "249193",
+    "latitude": 29.8151096,
+    "longitude": 79.28143709999999,
+    "place_id": "ChIJpSg2d_37CTkRC5P_wviPeo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSg2d_37CTkRC5P_wviPeo4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:45:26"
+  }
+]

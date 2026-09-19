@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sanjay flour mills",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "QXQF+96J, Mavli, Rajasthan 313203",
+    "area": "249151",
+    "latitude": 24.7884516,
+    "longitude": 73.97302359999999,
+    "place_id": "ChIJGzMDPyh2aDkRnQzV0oHUs0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzMDPyh2aDkRnQzV0oHUs0Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:07"
+  },
+  {
+    "business_name": "Kishan flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VGPM+J42, Odoond, Rajasthan 312201",
+    "area": "249151",
+    "latitude": 24.8864934,
+    "longitude": 74.5327882,
+    "place_id": "ChIJgykcSgufaDkRmq8GI5oGUGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgykcSgufaDkRmq8GI5oGUGs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "bhagirathi furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "249306",
+    "phone_number": "+91 80778 26407",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagirathi Nagar, Bhoopatwala, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Bhagirathi Nagar, Bhoopatwala",
+    "latitude": 29.972562399999997,
+    "longitude": 78.1765933,
+    "place_id": "ChIJU3Ql_WpHCTkRAAAAsAZjFS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3Ql_WpHCTkRAAAAsAZjFS8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:09:42"
+  },
+  {
+    "business_name": "Malik Furniture House",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "249306",
+    "phone_number": "+91 90128 04207",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakkad Ghat Rd, Shyampur, Rishikesh, Haridwar, Uttarakhand 249204",
+    "area": "Shyampur",
+    "latitude": 30.0582051,
+    "longitude": 78.24982159999999,
+    "place_id": "ChIJg-LAn9Q_CTkR2zkz1eyMleU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-LAn9Q_CTkR2zkz1eyMleU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:09:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma provision Store sunil verma",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249186",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H294+C4W, Nainbagh, Uttarakhand 249186",
+    "area": "249186",
+    "latitude": 30.5686239,
+    "longitude": 78.00533089999999,
+    "place_id": "ChIJzbDzPgDNCDkRtXI3cQgDMCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbDzPgDNCDkRtXI3cQgDMCY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:41"
+  },
+  {
+    "business_name": "D & P kirana store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249186",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "69XX+G27, Unnamed Road, Chandelao, Rajasthan 342027",
+    "area": "249186",
+    "latitude": 26.248792299999998,
+    "longitude": 73.3975614,
+    "place_id": "ChIJCVAru8H_QTkRq6-q0PDQGVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVAru8H_QTkRq6-q0PDQGVM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:41:41"
+  }
+]

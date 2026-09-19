@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naomi beauty parlour and cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "249203",
+    "phone_number": "+91 78958 68449",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "Lane no. 16, near AIIMS, Shivaji Nagar, Rishikesh, Uttarakhand 249203",
+    "area": "Shivaji Nagar",
+    "latitude": 30.0812481,
+    "longitude": 78.2818174,
+    "place_id": "ChIJl-NyKtM_CTkR-vTNisWGwa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-NyKtM_CTkR-vTNisWGwa0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:44"
+  },
+  {
+    "business_name": "Essence Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "249203",
+    "phone_number": "+91 98979 55100",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "233, Avas Vikas Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Avas Vikas Colony",
+    "latitude": 30.0924455,
+    "longitude": 78.2832069,
+    "place_id": "ChIJc5W7-ls_CTkRYFcIgrfqdps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5W7-ls_CTkRYFcIgrfqdps",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:58:44"
+  }
+]

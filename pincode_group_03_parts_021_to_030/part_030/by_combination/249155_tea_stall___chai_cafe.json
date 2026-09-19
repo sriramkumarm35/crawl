@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Chai and coffee shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "249155",
+    "phone_number": "+91 96541 10223",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ratura, Saur Umrola, Uttarakhand 246171",
+    "area": "249155",
+    "latitude": 30.3072475,
+    "longitude": 79.037167,
+    "place_id": "ChIJSe_UfV_JCTkReH11xJXqrp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSe_UfV_JCTkReH11xJXqrp8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:27:11"
+  },
+  {
+    "business_name": "Chai point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "249155",
+    "phone_number": "+91 88801 41000",
+    "website": "https://shop.chaipoint.com/",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "शहीद यशोधर बेंजवाल मोटर मार्ग, Tilwara, Uttarakhand 246475",
+    "area": "249155",
+    "latitude": 30.351774199999998,
+    "longitude": 78.97765989999999,
+    "place_id": "ChIJAc9egzG1CTkR9MCPG86_55Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAc9egzG1CTkR9MCPG86_55Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:27:11"
+  }
+]

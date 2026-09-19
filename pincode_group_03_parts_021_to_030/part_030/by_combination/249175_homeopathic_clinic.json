@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeoveda's clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "249175",
+    "phone_number": "+91 80778 63219",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Avas Vikas Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Avas Vikas Colony",
+    "latitude": 30.0907897,
+    "longitude": 78.2875389,
+    "place_id": "ChIJ4QUGCSE_CTkR6M_ffzKVb1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QUGCSE_CTkR6M_ffzKVb1U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:41"
+  },
+  {
+    "business_name": "N.G.D. HOMOEOPATHIC PHARMACY COLLEGE AND HOSPITAL",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "249175",
+    "phone_number": "N/A",
+    "website": "http://www.swaminarayanmission.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Unnamed Road, Aam Bag, IDPL Colony, Rishikesh, Uttarakhand 249203",
+    "area": "Aam Bag, IDPL Colony",
+    "latitude": 30.073239299999997,
+    "longitude": 78.2737456,
+    "place_id": "ChIJx8qJVhQ-CTkRIQ8UYsl4b9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8qJVhQ-CTkRIQ8UYsl4b9k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:44"
+  }
+]

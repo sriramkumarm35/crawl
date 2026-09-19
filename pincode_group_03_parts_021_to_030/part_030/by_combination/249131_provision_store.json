@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatt Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249131",
+    "phone_number": "+91 93680 29582",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bangiyal, Sinjal, Uttarakhand 249132",
+    "area": "249131",
+    "latitude": 30.454227099999997,
+    "longitude": 78.2950498,
+    "place_id": "ChIJ40dx5zXhCDkRaqVx_4WymvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40dx5zXhCDkRaqVx_4WymvM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:08:36"
+  },
+  {
+    "business_name": "Bohra General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249131",
+    "phone_number": "+91 95365 52445",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Garampani, Khairna, Chhara, Uttarakhand 263135",
+    "area": "Khairna",
+    "latitude": 29.4869395,
+    "longitude": 79.47858889999999,
+    "place_id": "ChIJ6XauyjSloDkR4kXb432frTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XauyjSloDkR4kXb432frTY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:08:36"
+  }
+]

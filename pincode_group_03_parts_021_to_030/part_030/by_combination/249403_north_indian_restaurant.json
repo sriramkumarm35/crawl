@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parampara Restaurent",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Bengali restaurant, Breakfast restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "249403",
+    "phone_number": "+91 97562 11256",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 130,
+    "address": "48, Arya Vanprastha Ashram, Vanprasth Ashram, opp. P.N.B. Bank, Ram Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "Ram Nagar",
+    "latitude": 29.927334799999997,
+    "longitude": 78.1237984,
+    "place_id": "ChIJ_7aosCRGCTkRsVfuVPHFvPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7aosCRGCTkRsVfuVPHFvPc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:36"
+  },
+  {
+    "business_name": "Moonlight Restro",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "249403",
+    "phone_number": "+91 70379 00339",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 152,
+    "address": "3rd Floor, Arya Nagar Chowk, above Uttarakhand Gramin, Bank, opposite Anurag Banquet Hall, Shastri Nagar, Nandpuri, Jwalapur, Uttarakhand 249407",
+    "area": "Shastri Nagar, Nandpuri",
+    "latitude": 29.9260152,
+    "longitude": 78.1188117,
+    "place_id": "ChIJJTJhUgxHCTkR82FVqG_SN9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTJhUgxHCTkR82FVqG_SN9Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:39"
+  }
+]

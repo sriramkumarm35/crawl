@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Scooby doo pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium, Aquarium shop, Bird shop, Dog breeder, Goldfish store, Pet adoption service, Pet store, Pond fish supplier",
+    "pincode": "249128",
+    "phone_number": "+91 92863 90071",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 90,
+    "address": "colony, opp. Tapasya vihar, near fulauri restaurant, Rudrapur, Bigbara, Uttarakhand 263153",
+    "area": "249128",
+    "latitude": 28.9749059,
+    "longitude": 79.426681,
+    "place_id": "ChIJG_crMXp_oDkRHNbTa_4smuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_crMXp_oDkRHNbTa_4smuc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:05:00"
+  },
+  {
+    "business_name": "UPPAL PET MALL",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "249128",
+    "phone_number": "+91 99270 79310",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 43,
+    "address": "Gandhi ashram road, opposite veterinary hospital, Patel Nagar, Kashipur, Uttarakhand 244713",
+    "area": "Patel Nagar",
+    "latitude": 29.209070399999998,
+    "longitude": 78.9657823,
+    "place_id": "ChIJUwUU1uFDCjkRcz3sm0DiH70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwUU1uFDCjkRcz3sm0DiH70",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:05:02"
+  }
+]

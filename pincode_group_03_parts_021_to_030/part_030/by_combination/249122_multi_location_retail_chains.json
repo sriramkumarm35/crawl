@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bangwal general Store",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "7M68+2QQ, Lachmoli Chandrabadni Rd, Talyakot, Kothi Gadhni, Uttarakhand 249126",
+    "area": "249122",
+    "latitude": 30.2600956,
+    "longitude": 78.6669715,
+    "place_id": "ChIJvdqktpGpCTkRrVeHgHHbwf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdqktpGpCTkRrVeHgHHbwf4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:55:44"
+  },
+  {
+    "business_name": "BuyBuyCart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "249122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Village Ufalda, Badrinath Marg, Rishikesh, Srinagar, Uttarakhand 246174",
+    "area": "249122",
+    "latitude": 30.2142284,
+    "longitude": 78.7547909,
+    "place_id": "ChIJVX31uWOlCTkR79tE6cOWvfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVX31uWOlCTkR79tE6cOWvfc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:55:45"
+  }
+]

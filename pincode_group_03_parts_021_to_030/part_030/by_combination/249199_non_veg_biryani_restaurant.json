@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hill Town Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249199",
+    "phone_number": "+91 88590 14498",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "NH-94, Rishikesh - Chamba - Tehri Rd, Selu Pani, Teepali, Uttarakhand 249175",
+    "area": "249199",
+    "latitude": 30.293008,
+    "longitude": 78.35702599999999,
+    "place_id": "ChIJZ8S0vcgeCTkRNKvUqeyvlrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8S0vcgeCTkRNKvUqeyvlrk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:36"
+  },
+  {
+    "business_name": "Vaishno Maa Kunjapuri Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "94, Rishikesh, Chauda Bigha, Tehri Garhwal, Shivpuri Range, Uttarakhand 249175",
+    "area": "Chauda Bigha",
+    "latitude": 30.241936799999998,
+    "longitude": 78.3601039,
+    "place_id": "ChIJ0VoNagsZCTkRQLe1izs5_Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VoNagsZCTkRQLe1izs5_Vs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:52:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of luxury clothes",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "249405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arya Nagar Chowk, opp. reliance digital, near uncha pul, Sharda Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Sharda Nagar",
+    "latitude": 29.923808299999997,
+    "longitude": 78.1173779,
+    "place_id": "ChIJR6TUvo5HCTkR3trgje_dZOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6TUvo5HCTkR3trgje_dZOE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:34"
+  },
+  {
+    "business_name": "Levi's Exclusive Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Jeans shop, Men's clothing store, Women's clothing store",
+    "pincode": "249405",
+    "phone_number": "+91 1334 222 428",
+    "website": "https://stores.levi.in/levi-s-exclusive-store-clothing-shop-ranipur-haridwar-344965/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 3.6,
+    "reviews_count": 41,
+    "address": "No 10, opp. Maddame Showroom, Govindpuri, Ranipur, Haridwar, Uttarakhand 249407",
+    "area": "Govindpuri, Devpura",
+    "latitude": 29.9343443,
+    "longitude": 78.1361526,
+    "place_id": "ChIJuwG__DdGCTkRy4cNM7sjXMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwG__DdGCTkRy4cNM7sjXMo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:37"
+  }
+]

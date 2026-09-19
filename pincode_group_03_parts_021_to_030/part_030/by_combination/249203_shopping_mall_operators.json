@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tides and Rides",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Adventure Sports Center, Bungee Jumping Center, Rafting, Taxi service, Raft trip outfitter, Water sports equipment rental service",
+    "pincode": "249203",
+    "phone_number": "+91 94115 82114",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 82,
+    "address": "Badrinath Marg, Tapovan, Rishikesh, Uttarakhand 249203",
+    "area": "Tapovan",
+    "latitude": 30.081434899999998,
+    "longitude": 78.28221889999999,
+    "place_id": "ChIJO3BiNywXCTkRIx4EzQI3ypI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3BiNywXCTkRIx4EzQI3ypI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:35"
+  },
+  {
+    "business_name": "Explore Watersports Rishikesh",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Boat tour agency, Children's camp, Event planner, Rafting, Sports club, Taxi service, Tour agency, Adventure Sports Center, Travel agency",
+    "pincode": "249203",
+    "phone_number": "+91 75073 60292",
+    "website": "https://www.explorewatersports.in/rishikesh-activities",
+    "rating": 4.9,
+    "reviews_count": 35,
+    "address": "Asthapath Lane 3, Veerbhadra Road, Sturida Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Sturida Colony",
+    "latitude": 30.091020999999998,
+    "longitude": 78.290036,
+    "place_id": "ChIJh3dqdgE-CTkRksGai_JXXW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3dqdgE-CTkRksGai_JXXW8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:59:35"
+  }
+]

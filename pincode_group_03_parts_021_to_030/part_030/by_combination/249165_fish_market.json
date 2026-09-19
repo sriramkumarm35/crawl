@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharech",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HFJQ+GRH, Pratap Nagar, Jakhni, Silora, Uttarakhand 249165",
+    "area": "Pratap Nagar",
+    "latitude": 30.5813071,
+    "longitude": 78.4896054,
+    "place_id": "ChIJnTpgLADxCDkRvzMmMkWUfeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTpgLADxCDkRvzMmMkWUfeE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:30:45"
+  },
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Meat products store",
+    "pincode": "249165",
+    "phone_number": "+91 98781 03730",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Focal Point Rd, Focal Point, Ludhiana, Punjab 141010",
+    "area": "Focal Point",
+    "latitude": 30.8815314,
+    "longitude": 75.90336099999999,
+    "place_id": "ChIJMXySFdKCGjkRbMg29isxf6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXySFdKCGjkRbMg29isxf6g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:30:46"
+  }
+]

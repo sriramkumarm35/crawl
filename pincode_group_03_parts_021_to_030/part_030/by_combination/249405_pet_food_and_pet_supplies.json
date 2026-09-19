@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roorkee pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "249405",
+    "phone_number": "+91 63960 09436",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 81,
+    "address": "labour chowk, Ramnagar, Roorkee, Sunhaira, Uttarakhand 247667",
+    "area": "Ramnagar",
+    "latitude": 29.874532,
+    "longitude": 77.8711965,
+    "place_id": "ChIJcQVaDuKzDjkRaFaTwRvkwFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQVaDuKzDjkRaFaTwRvkwFA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:15"
+  },
+  {
+    "business_name": "Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249405",
+    "phone_number": "+91 95681 32528",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Masjid wali gali, Bahadarabad, Uttarakhand 249402",
+    "area": "249405",
+    "latitude": 29.9195136,
+    "longitude": 78.0409416,
+    "place_id": "ChIJq0bZwyVJCTkRaQcg2AvpiUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0bZwyVJCTkRaQcg2AvpiUE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:15"
+  }
+]

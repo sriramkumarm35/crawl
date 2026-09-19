@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akhil Singh",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "249151",
+    "phone_number": "+91 82736 12433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1980, Akhil, Matli, Athali, Uttarakhand 249193",
+    "area": "Akhil",
+    "latitude": 30.739344799999998,
+    "longitude": 78.3719845,
+    "place_id": "ChIJcca0HD-VCDkRX3EKc-9nup0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcca0HD-VCDkRX3EKc-9nup0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:36"
+  },
+  {
+    "business_name": "Complete pet care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "249151",
+    "phone_number": "+91 88818 88891",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 159,
+    "address": "Indra Chowk, near suniti hospital, Budaun, Uttar Pradesh 243601",
+    "area": "Katrabrahmpur",
+    "latitude": 28.0307146,
+    "longitude": 79.1339893,
+    "place_id": "ChIJ45lQXtNFdTkRYM20ypLtWrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45lQXtNFdTkRYM20ypLtWrI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:38"
+  }
+]

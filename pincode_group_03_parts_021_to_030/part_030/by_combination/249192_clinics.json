@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alternative Medicine Center",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Acupuncturist, Chiropractor, Craniosacral therapy, Alternative Medicine Clinic, Health counselor",
+    "pincode": "249192",
+    "phone_number": "N/A",
+    "website": "http://www.therapyyogaindia.in/",
+    "rating": 4.8,
+    "reviews_count": 57,
+    "address": "Radhe Krishna Temple, Opposite to Orange Hotel, Laxman Jhula, Rishikesh, Uttarakhand 249304",
+    "area": "Laxman Jhula",
+    "latitude": 30.1164508,
+    "longitude": 78.3739365,
+    "place_id": "ChIJNTGmWVwWCTkRY5avs6znlzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTGmWVwWCTkRY5avs6znlzg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:43:57"
+  },
+  {
+    "business_name": "PHC Laxman Jhula",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "249192",
+    "phone_number": "+91 11 2397 8046",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "48HJ+FJF, Yamkeshwar, Laxman Jhula, Rishikesh, Uttarakhand 249302",
+    "area": "Yamkeshwar, Laxman Jhula",
+    "latitude": 30.1286983,
+    "longitude": 78.3315399,
+    "place_id": "ChIJnX-Px1sWCTkR4mxqCR1Av3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnX-Px1sWCTkR4mxqCR1Av3Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:43:59"
+  }
+]

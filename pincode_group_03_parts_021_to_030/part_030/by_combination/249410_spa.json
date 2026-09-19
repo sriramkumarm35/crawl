@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jiya’s Touch Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "249410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Unit Number 54, Shiv Murti Chowk, Kankhal Rd, opp. Veterinary Hospital, near Haridwar Railway Station Grounds, Devpura, Haridwar, Uttarakhand 249401",
+    "area": "Devpura",
+    "latitude": 29.946005,
+    "longitude": 78.1561804,
+    "place_id": "ChIJ9d9a8TNHCTkRFpbgK3lSzBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9d9a8TNHCTkRFpbgK3lSzBQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:24:44"
+  },
+  {
+    "business_name": "Divya Anubhuti Pravas",
+    "search_category": "Spa",
+    "primary_category": "Wellness hotel",
+    "all_categories": "Wellness hotel",
+    "pincode": "249410",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jhanvi Yog Panchkarma Wellness Centre, Haripur Kalan, Haridwar, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9953278,
+    "longitude": 78.204588,
+    "place_id": "ChIJASNDqvdBCTkRK2EFFm_jCDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASNDqvdBCTkRK2EFFm_jCDk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:24:44"
+  }
+]

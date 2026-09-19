@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daddy G Namkeen",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "249408",
+    "phone_number": "+91 81265 57789",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No.4,Ganpati Dham Phase 1,Raja Garden, Jagjeetpur, Haridwar, Uttarakhand 249408",
+    "area": "Jagjeetpur",
+    "latitude": 29.908353199999997,
+    "longitude": 78.1283212,
+    "place_id": "ChIJnyE6ZVVHCTkR4jlBRSpxvyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyE6ZVVHCTkR4jlBRSpxvyQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:21:52"
+  },
+  {
+    "business_name": "Lucky Confectionery",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "249408",
+    "phone_number": "+91 99176 48344",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "W49Q 9GH, Kankhal Jagjeetpur Rd, near I.T.I, Jagieetpur, Haridwar, Uttarakhand 249408",
+    "area": "Jagieetpur",
+    "latitude": 29.9184406,
+    "longitude": 78.1388721,
+    "place_id": "ChIJBaFn02tGCTkRbbRisHSHPWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaFn02tGCTkRbbRisHSHPWE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:21:53"
+  }
+]

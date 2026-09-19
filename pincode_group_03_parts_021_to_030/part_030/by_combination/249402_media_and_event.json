@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hawk Newspaper",
+    "search_category": "Media and Event",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher",
+    "pincode": "249402",
+    "phone_number": "+91 99977 75577",
+    "website": "http://www.thehawk.in/",
+    "rating": 4.5,
+    "reviews_count": 18,
+    "address": "E-63, Industrial Area, Bahadrabad, Haridwar, Uttarakhand 249402",
+    "area": "Industrial Area",
+    "latitude": 29.9316854,
+    "longitude": 78.060695,
+    "place_id": "ChIJfQ2JWQFJCTkRVSXkANczWbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQ2JWQFJCTkRVSXkANczWbw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:13:43"
+  },
+  {
+    "business_name": "MDF Films",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service",
+    "pincode": "249402",
+    "phone_number": "N/A",
+    "website": "https://mdf-film-india.ueniweb.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bahadarabad, Uttarakhand 249402",
+    "area": "249402",
+    "latitude": 29.9195136,
+    "longitude": 78.0409416,
+    "place_id": "ChIJVfHpl9BJCTkRcqBQvm6Tcxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfHpl9BJCTkRcqBQvm6Tcxs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:13:43"
+  }
+]

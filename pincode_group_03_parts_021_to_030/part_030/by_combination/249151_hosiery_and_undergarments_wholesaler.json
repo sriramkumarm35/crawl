@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Kartik Store",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store, Baby store, Clothing store, Underwear store",
+    "pincode": "249151",
+    "phone_number": "+91 79823 56128",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "34, Bazar Ln, Jangpura, Samman Bazar, Bhogal, New Delhi, Delhi 110014",
+    "area": "Jangpura, Samman Bazar, Bhogal",
+    "latitude": 28.5823084,
+    "longitude": 77.2494825,
+    "place_id": "ChIJW-94oQfjDDkR1MH7xyXR0iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-94oQfjDDkR1MH7xyXR0iE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:52"
+  },
+  {
+    "business_name": "Hind Hosiery centre",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Home goods store",
+    "pincode": "249151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "M5CG+H9C, F Block, Reserve Police Lines, Shastri Nagar, Ghaziabad, Delhi, 110052",
+    "area": "F Block, Reserve Police Lines, Shastri Nagar",
+    "latitude": 28.6714465,
+    "longitude": 77.1758933,
+    "place_id": "ChIJXxUQw2YCDTkRoWMUF3vbGTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxUQw2YCDTkRoWMUF3vbGTc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BusinessHelpline.in",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Accounting firm, Consultant, Tax attorney, Tax consultant",
+    "pincode": "249161",
+    "phone_number": "+91 93546 73266",
+    "website": "http://www.businesshelpline.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Park town Commercial Complex, B 147, Ghaziabad, Uttar Pradesh 201002",
+    "area": "249161",
+    "latitude": 28.6569292,
+    "longitude": 77.4819361,
+    "place_id": "ChIJ-yfAIQUfDTkROltbECTti6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yfAIQUfDTkROltbECTti6s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:30:22"
+  },
+  {
+    "business_name": "Lucky Associates & legal consultant",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Tax attorney",
+    "pincode": "249161",
+    "phone_number": "N/A",
+    "website": "http://www.advocateluckykumar.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pilana, Uttar Pradesh 246729",
+    "area": "249161",
+    "latitude": 29.2091726,
+    "longitude": 78.2872969,
+    "place_id": "ChIJUwUHfXeVCzkRhx9qc6pYapM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwUHfXeVCzkRhx9qc6pYapM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:30:23"
+  }
+]

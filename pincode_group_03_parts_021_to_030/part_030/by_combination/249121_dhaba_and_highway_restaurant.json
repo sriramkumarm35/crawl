@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishno Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "249121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "NH309, Tanda Malloo, Ramnagar, Uttarakhand 244715",
+    "area": "249121",
+    "latitude": 29.3518692,
+    "longitude": 79.0810358,
+    "place_id": "ChIJKa2yDQoVCjkRJWdqHS0baU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKa2yDQoVCjkRJWdqHS0baU0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:52:23"
+  },
+  {
+    "business_name": "Dhaba On Highway",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "249121",
+    "phone_number": "+91 98776 35705",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 34,
+    "address": "Khangsar, Himachal Pradesh 175132",
+    "area": "249121",
+    "latitude": 32.5911885,
+    "longitude": 77.13530449999999,
+    "place_id": "ChIJgRACSX55AzkR6uPCawqbrew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRACSX55AzkR6uPCawqbrew",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:52:24"
+  }
+]

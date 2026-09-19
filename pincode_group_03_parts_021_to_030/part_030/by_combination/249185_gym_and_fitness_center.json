@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iconiic Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "249185",
+    "phone_number": "+91 88814 47057",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Iconic fitness, opposite shyam marbal, near bduhi mata temple, Shivpuri Colony, Jagjeetpur, Haridwar, Uttarakhand 249408",
+    "area": "Shivpuri Colony, Jagjeetpur",
+    "latitude": 29.9191625,
+    "longitude": 78.1388722,
+    "place_id": "ChIJFXcJIQBHCTkRrO5AKqIW4yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXcJIQBHCTkRrO5AKqIW4yY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:28"
+  },
+  {
+    "business_name": "Fitness Health Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "249185",
+    "phone_number": "+91 96393 33303",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 14,
+    "address": "X28W+VMW, Jama Masjid Market, Roshanabad, Haridwar, Uttarakhand 249412",
+    "area": "Roshanabad, Aneki Hetmapur",
+    "latitude": 29.967234599999998,
+    "longitude": 78.046688,
+    "place_id": "ChIJwUWkmMNJCTkRqSUrOojcL_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUWkmMNJCTkRqSUrOojcL_c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:40:30"
+  }
+]

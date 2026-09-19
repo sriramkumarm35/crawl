@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Service Center",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Service establishment",
+    "pincode": "249304",
+    "phone_number": "+91 88024 08047",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Digital Service Center, 249304, India",
+    "area": "249304",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJm29VCEgFDTkRWDMcUxebF4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm29VCEgFDTkRWDMcUxebF4Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:08:41"
+  },
+  {
+    "business_name": "Xenorio Industries",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Web hosting company",
+    "all_categories": "Web hosting company, Computer support and services, Service establishment",
+    "pincode": "249304",
+    "phone_number": "0160 8978834",
+    "website": "https://xenorio.xyz/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Xenorio Industries, 249304, India",
+    "area": "249304",
+    "latitude": 51.175807,
+    "longitude": 10.4541194,
+    "place_id": "ChIJazZjc4R1vUcRoVSR-eKnPIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazZjc4R1vUcRoVSR-eKnPIQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:08:41"
+  }
+]

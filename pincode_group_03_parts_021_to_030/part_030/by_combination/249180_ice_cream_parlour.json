@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Badiyari Traders",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "249180",
+    "phone_number": "+91 93111 16622",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aswal Niwas, 11, Dhana Rd, near Shishu Mandir, Thatyur, Uttarakhand 249180",
+    "area": "249180",
+    "latitude": 30.498604,
+    "longitude": 78.1549187,
+    "place_id": "ChIJ48W5UabbCDkRsXZEVXDE7SI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48W5UabbCDkRsXZEVXDE7SI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:24"
+  },
+  {
+    "business_name": "Maggi point",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "249180",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "F42W+JCQ, Chamba - Mussoorie Rd, Suwakholi, Uttarakhand 249180",
+    "area": "249180",
+    "latitude": 30.4515854,
+    "longitude": 78.146104,
+    "place_id": "ChIJk-gWiqPbCDkRWEU23Z5GebA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-gWiqPbCDkRWEU23Z5GebA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:25"
+  }
+]

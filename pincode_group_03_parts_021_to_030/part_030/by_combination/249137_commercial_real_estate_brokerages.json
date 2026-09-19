@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mybng",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate rental agency",
+    "all_categories": "Real estate rental agency",
+    "pincode": "249137",
+    "phone_number": "+91 91190 67192",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "Avas Vikas Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Avas Vikas Colony",
+    "latitude": 30.0897926,
+    "longitude": 78.283829,
+    "place_id": "ChIJR_bgboE_CTkR3BLXVXB2cG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_bgboE_CTkR3BLXVXB2cG4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:31"
+  },
+  {
+    "business_name": "VIGTEZ REALTY - Real Estate Developers & Consultants",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "249137",
+    "phone_number": "N/A",
+    "website": "https://vigtezrealty.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Negi complex, opposite RTO Office, Khand Gaon, Rishikesh, Uttarakhand 249204",
+    "area": "Khand Gaon",
+    "latitude": 30.096008899999998,
+    "longitude": 78.272125,
+    "place_id": "ChIJ465iPbU9CTkROn2v9MebQs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ465iPbU9CTkROn2v9MebQs0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cochin Super Coolers",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service",
+    "pincode": "249136",
+    "phone_number": "+91 93493 33315",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shed 10, Mini Industrial Estate, Panananvila, Paruthippara, Thiruvananthapuram, Keralam 695015",
+    "area": "Panananvila, Paruthippara",
+    "latitude": 8.5376163,
+    "longitude": 76.93956419999999,
+    "place_id": "ChIJjbRTU9a7BTsRwvvf869V5vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbRTU9a7BTsRwvvf869V5vg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:14:44"
+  },
+  {
+    "business_name": "Auto Electrical",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Truck repair shop",
+    "all_categories": "Truck repair shop",
+    "pincode": "249136",
+    "phone_number": "+91 94384 88165",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sawmill, Kalunga, Rourkela, Odisha 770031",
+    "area": "Kalunga",
+    "latitude": 22.2374065,
+    "longitude": 84.76481079999999,
+    "place_id": "ChIJSS7RHiEXIDoRV4cfjuiSLlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS7RHiEXIDoRV4cfjuiSLlA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:14:47"
+  }
+]

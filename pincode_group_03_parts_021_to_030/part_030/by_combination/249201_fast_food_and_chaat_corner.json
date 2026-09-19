@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DINE AT SUNIL'S",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249201",
+    "phone_number": "+91 93546 10075",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "AIIMS ROAD, behind BANK OF BARODA, VIP COLONY, Barrage Colony, Rishikesh, Uttarakhand 249203",
+    "area": "VIP COLONY, Barrage Colony",
+    "latitude": 30.0716425,
+    "longitude": 78.28026899999999,
+    "place_id": "ChIJvyGk14Q_CTkR-At_hKd8b3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyGk14Q_CTkR-At_hKd8b3Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:23"
+  },
+  {
+    "business_name": "CHEF’’’D CAFE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Vegetarian restaurant",
+    "pincode": "249201",
+    "phone_number": "+91 94565 66464",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "14 bigha, near premanand school, Anand Vihar Dhalwala Colony, Muni Ki Reti, Rishikesh, Uttarakhand 249137",
+    "area": "Anand Vihar Dhalwala Colony, Muni Ki Reti",
+    "latitude": 30.115378399999997,
+    "longitude": 78.3016304,
+    "place_id": "ChIJFUcVHNEXCTkRMakgmdfgUz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUcVHNEXCTkRMakgmdfgUz4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:23"
+  }
+]

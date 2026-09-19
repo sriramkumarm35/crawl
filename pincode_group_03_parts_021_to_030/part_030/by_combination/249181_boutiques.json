@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rawat's Daily Needs",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249181",
+    "phone_number": "+91 95573 87915",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "08, Dhera, Mandaar, Uttarakhand 249181",
+    "area": "Dhera",
+    "latitude": 30.459339,
+    "longitude": 78.5624079,
+    "place_id": "ChIJUcbarA_9CDkRPWwHQjuUCNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcbarA_9CDkRPWwHQjuUCNQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:26"
+  },
+  {
+    "business_name": "Kusum sari suit ND cosmetic center",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249181",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9J65+G4F, Paukhal Gaon, Molno Maya Paukhal, Uttarakhand 249161",
+    "area": "249181",
+    "latitude": 30.3613006,
+    "longitude": 78.6077901,
+    "place_id": "ChIJA7VG8FMBCTkRC0E6G-ShCXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7VG8FMBCTkRC0E6G-ShCXs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:27"
+  }
+]

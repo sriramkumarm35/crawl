@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Semwal Pure Vegetarian Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Family restaurant",
+    "pincode": "249180",
+    "phone_number": "+91 80062 62988",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "F2QP+F5V, Lakhwad, Kempty, Ram Gaon, Uttarakhand 248179",
+    "area": "Lakhwad, Kempty",
+    "latitude": 30.4887423,
+    "longitude": 78.0354169,
+    "place_id": "ChIJiyy8zpvRCDkR5NElcjY-mYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyy8zpvRCDkR5NElcjY-mYA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:19"
+  },
+  {
+    "business_name": "Rise Himalaya restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chinese restaurant",
+    "pincode": "249180",
+    "phone_number": "+91 75056 54933",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "Buranskhanda, Dhanolti, Kempty Range, Uttarakhand 249180",
+    "area": "Buranskhanda",
+    "latitude": 30.4451549,
+    "longitude": 78.20275389999999,
+    "place_id": "ChIJ2_TMoCvfCDkRcO5O8zpoNgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_TMoCvfCDkRcO5O8zpoNgw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:19"
+  }
+]

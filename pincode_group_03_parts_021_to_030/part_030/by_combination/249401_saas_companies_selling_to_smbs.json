@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SaM Solutions Magento",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "249401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SaM Solutions Magento, 249401, India",
+    "area": "249401",
+    "latitude": 55.1736006,
+    "longitude": 23.8832615,
+    "place_id": "ChIJgZFchOfi20ARsyUjGbe8rd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZFchOfi20ARsyUjGbe8rd0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:12:29"
+  },
+  {
+    "business_name": "Product Launch",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "249401",
+    "phone_number": "N/A",
+    "website": "https://productlaunch.com.br/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Product Launch, 249401, India",
+    "area": "249401",
+    "latitude": -14.4095262,
+    "longitude": -51.3168626,
+    "place_id": "ChIJbXRgGdtPFCURdGxZFQcbxWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXRgGdtPFCURdGxZFQcbxWg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:12:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikhil Chahal",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "249403",
+    "phone_number": "+91 75052 71928",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ranipur Road, Shikhu Pur, Devpura, Haridwar, Uttarakhand 249401",
+    "area": "Shikhu Pur, Devpura",
+    "latitude": 29.9415998,
+    "longitude": 78.1466882,
+    "place_id": "ChIJs4IIg2pHCTkRlKkCITo66Fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4IIg2pHCTkRlKkCITo66Fk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:38"
+  },
+  {
+    "business_name": "Juice junction",
+    "search_category": "Bar and Pub",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "249403",
+    "phone_number": "+91 98972 05647",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "near by PNB Bank, opp. Gali no A-5, Subhash Nagar, Haridwar, Bharat Heavy Electrical Limited Ran, Uttarakhand 249403",
+    "area": "Subhash Nagar",
+    "latitude": 29.9282741,
+    "longitude": 78.082081,
+    "place_id": "ChIJGcYvmutJCTkRrMwSIXdLUPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcYvmutJCTkRrMwSIXdLUPQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:39"
+  }
+]

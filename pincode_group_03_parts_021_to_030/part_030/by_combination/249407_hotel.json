@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO Mehfil Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "249407",
+    "phone_number": "+91 124 620 1531",
+    "website": "https://www.oyorooms.com/9777/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Near Royal Enfield Showroom W4G9+X3M Jwalapur, Jwalapur Railway Station Rd, Haridwar, Uttarakhand 249407",
+    "area": "249407",
+    "latitude": 29.927453,
+    "longitude": 78.11767499999999,
+    "place_id": "ChIJQzLDNiRGCTkRbDC7lOb9uwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzLDNiRGCTkRbDC7lOb9uwI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:21:06"
+  },
+  {
+    "business_name": "Sky High Hotel Haridwar",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "249407",
+    "phone_number": "+91 87505 76821",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "53/27, Harilok colony, Sitapur, Haridwar, Uttarakhand 249407",
+    "area": "Harilok colony, Sitapur",
+    "latitude": 29.916694099999997,
+    "longitude": 78.1011177,
+    "place_id": "ChIJ7dQ5K_hJCTkRwvXhdTEjgL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dQ5K_hJCTkRwvXhdTEjgL4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:21:06"
+  }
+]

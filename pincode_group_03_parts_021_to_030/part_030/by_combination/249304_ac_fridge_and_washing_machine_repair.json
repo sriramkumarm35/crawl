@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Services",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Service establishment",
+    "pincode": "249304",
+    "phone_number": "+91 94043 70127",
+    "website": "https://servebharat.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bharat Services, 249304, India",
+    "area": "249304",
+    "latitude": 22.457814199999998,
+    "longitude": 80.6183267,
+    "place_id": "ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTWxFS1xxSARQIoV9RpBNuw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:07:44"
+  },
+  {
+    "business_name": "RB home appliances a.c fridge washing machine service centre",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service, Air conditioning repair service",
+    "pincode": "249304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 60,
+    "address": "36, Raghavan St, Neelam Garden, Bunder Garden, Perambur, Chennai, Tamil Nadu 600011",
+    "area": "Neelam Garden, Bunder Garden, Perambur",
+    "latitude": 13.1129097,
+    "longitude": 80.2394786,
+    "place_id": "ChIJPz078VxlUjoRcAXKcFQoCgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPz078VxlUjoRcAXKcFQoCgo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:07:47"
+  }
+]

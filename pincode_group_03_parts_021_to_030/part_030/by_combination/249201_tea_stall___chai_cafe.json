@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sol Kitchen",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Fusion restaurant, Restaurant",
+    "pincode": "249201",
+    "phone_number": "+91 90689 30565",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 108,
+    "address": "shop no.133 above gianis icecream., near seema dental college, Virbhadra, Uttarakhand, India 249203, Rishikesh, Uttarakhand 249201",
+    "area": "Aam Bag, IDPL Colony",
+    "latitude": 30.0721225,
+    "longitude": 78.27816059999999,
+    "place_id": "ChIJ3UUMI0A_CTkR8K1hFLGp2w4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UUMI0A_CTkR8K1hFLGp2w4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:17"
+  },
+  {
+    "business_name": "Jackson Cafe & Bistro",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "249201",
+    "phone_number": "+91 98054 09593",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Shop no. 7, Ganga Market, Virbhadra Rd, Avas Vikas Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Avas Vikas Colony",
+    "latitude": 30.0913312,
+    "longitude": 78.2884037,
+    "place_id": "ChIJDbYN26c_CTkRJFgGnOIfIAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbYN26c_CTkRJFgGnOIfIAk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:17"
+  }
+]

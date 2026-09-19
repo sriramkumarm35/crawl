@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gym Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "249405",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/royalfitnesspoint15?igshid=MzRlODBiNWFlZA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Garh, Uttarakhand 249402",
+    "area": "249405",
+    "latitude": 29.947481,
+    "longitude": 77.9977742,
+    "place_id": "ChIJY00mujhKCTkR2Y05mDsGBTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY00mujhKCTkR2Y05mDsGBTY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:44"
+  },
+  {
+    "business_name": "MAHAVEER FITNESS CENTRE",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "249405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V2R6+W2P, Bawalikalanzri, Uttarakhand 249405",
+    "area": "249405",
+    "latitude": 29.8923368,
+    "longitude": 78.0100788,
+    "place_id": "ChIJZRSZIyVLCTkRXn7Zd5MWovk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRSZIyVLCTkRXn7Zd5MWovk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:44"
+  }
+]

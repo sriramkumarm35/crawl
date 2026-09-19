@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hiii Mirchii cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249152",
+    "phone_number": "+91 79834 03126",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Padampur Rd, near SGRR public school, Ekta Puram Colony, Kotdwar, Padampur Sukhro, Uttarakhand 246150",
+    "area": "Ekta Puram Colony",
+    "latitude": 29.7441875,
+    "longitude": 78.5040625,
+    "place_id": "ChIJ49WnGJx8CTkRDVAenWJiOXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49WnGJx8CTkRDVAenWJiOXU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:32"
+  },
+  {
+    "business_name": "Uttrakhand Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249152",
+    "phone_number": "+91 70652 56240",
+    "website": "https://www.facebook.com/uttrakhand-fast-food-105977361255449/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1900, 3, New Mata Mandir Rd, Rajiv Nagar, Sector 13, Gurugram, Haryana 122001",
+    "area": "Rajiv Nagar, Sector 13",
+    "latitude": 28.475984,
+    "longitude": 77.0364744,
+    "place_id": "ChIJL0mFWLYZDTkRp9JmJ7h48P0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0mFWLYZDTkRp9JmJ7h48P0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:32"
+  }
+]

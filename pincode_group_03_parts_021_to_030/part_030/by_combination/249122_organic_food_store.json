@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Queens Organic Farm",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm, Home Stay",
+    "pincode": "249122",
+    "phone_number": "+91 96271 11952",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Queens Oragnic Farm, Devprayag Pauri Rd, near Kholachauri, Dhund Qurali, Uttarakhand 246148",
+    "area": "249122",
+    "latitude": 30.134034699999997,
+    "longitude": 78.6657881,
+    "place_id": "ChIJbxKpF_2nCTkR-0OaNwGf-HI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxKpF_2nCTkR-0OaNwGf-HI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:54:01"
+  },
+  {
+    "business_name": "Maaji Masale",
+    "search_category": "Organic Food Store",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "249122",
+    "phone_number": "+91 98184 04459",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 81,
+    "address": "Khandusain Pauri Devprayag, Road, Block, Pauri, Uttarakhand 246001",
+    "area": "Block",
+    "latitude": 30.156155599999998,
+    "longitude": 78.735276,
+    "place_id": "ChIJn-DRGR6nCTkRJnXwUp8QoFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-DRGR6nCTkRJnXwUp8QoFk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:54:02"
+  }
+]

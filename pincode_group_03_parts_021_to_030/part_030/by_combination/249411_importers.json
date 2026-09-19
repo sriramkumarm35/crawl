@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "U R Enterprises",
+    "search_category": "Importers",
+    "primary_category": "Plastic Products Supplier",
+    "all_categories": "Plastic Products Supplier",
+    "pincode": "249411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X5VW+P34, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9942611,
+    "longitude": 78.1952057,
+    "place_id": "ChIJUX-z9xNHCTkR7__0sPTR8ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUX-z9xNHCTkR7__0sPTR8ik",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:27:15"
+  },
+  {
+    "business_name": "AGARWAL INDUSTRIES",
+    "search_category": "Importers",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "249411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PLOT NO E-6, बहादराबाद, Industrial Area, Haridwar, Uttarakhand 249402",
+    "area": "बहादराबाद, Industrial Area",
+    "latitude": 29.9334502,
+    "longitude": 78.0577864,
+    "place_id": "ChIJGdMemdJJCTkRWuoXK8GPPXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdMemdJJCTkRWuoXK8GPPXk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:27:17"
+  }
+]

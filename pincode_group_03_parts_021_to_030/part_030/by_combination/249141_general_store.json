@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249141",
+    "phone_number": "+91 78951 68061",
+    "website": "https://easysearch.co.in/listing/raju-general-store/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "R666+3FC, Near Nagar palika Parishad, Barkot, Uttarakhand 249141",
+    "area": "249141",
+    "latitude": 30.810174999999997,
+    "longitude": 78.2111417,
+    "place_id": "ChIJCzJo5qi-CDkRAAAAsFw9jjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzJo5qi-CDkRAAAAsFw9jjA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:58"
+  },
+  {
+    "business_name": "Dr Himanshu Bahuguna",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249141",
+    "phone_number": "+91 70609 43603",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop N. 8, Road, Uttarkashi, Barkot, Uttarakhand 249141",
+    "area": "249141",
+    "latitude": 30.809562699999997,
+    "longitude": 78.2083306,
+    "place_id": "ChIJe1s_z7-_CDkRPmX2Lp5cOxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1s_z7-_CDkRPmX2Lp5cOxY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:58"
+  }
+]

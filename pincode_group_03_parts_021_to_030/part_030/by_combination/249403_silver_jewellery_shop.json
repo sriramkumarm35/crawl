@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goldray Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "249403",
+    "phone_number": "+91 74090 69555",
+    "website": "http://www.goldray.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no 26, Avdhoot Mandal Aashram Shankar Aashram, Ram Nagar, Jwalapur, Uttarakhand 249404",
+    "area": "Ram Nagar",
+    "latitude": 29.929897,
+    "longitude": 78.1277594,
+    "place_id": "ChIJrTZPBwBHCTkRgDbj3lkLAm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTZPBwBHCTkRgDbj3lkLAm4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:46"
+  },
+  {
+    "business_name": "Dev jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Gemstone Jeweler",
+    "pincode": "249403",
+    "phone_number": "+91 90684 85095",
+    "website": "https://www.instagram.com/dev.jeweller?igsh=YmlibXNxcXI0M2hw",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Peeth puliya, Shivpuri, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Shivpuri, Kankhal",
+    "latitude": 29.920285099999997,
+    "longitude": 78.1329341,
+    "place_id": "ChIJj-8ISGBHCTkRMUcqIGefDY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-8ISGBHCTkRMUcqIGefDY8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:14:49"
+  }
+]

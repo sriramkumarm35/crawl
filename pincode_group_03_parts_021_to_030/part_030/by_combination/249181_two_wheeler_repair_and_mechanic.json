@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TwoWheelCare",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "249181",
+    "phone_number": "+91 88989 09696",
+    "website": "http://twowheelcare.in/",
+    "rating": 4.9,
+    "reviews_count": 386,
+    "address": "Shop No. 1 Ground floor, Two wheel care, The Vue, near Sobha Garnet, Parge Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Parge Nagar, Kondhwa",
+    "latitude": 18.4645081,
+    "longitude": 73.8955132,
+    "place_id": "ChIJL_wkoW7rwjsR4AvVjlT21xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_wkoW7rwjsR4AvVjlT21xM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:40"
+  },
+  {
+    "business_name": "Two wheeler auto parts & service centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "249181",
+    "phone_number": "+91 77048 84459",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 731B, Patwa Mutfarka, Uttar Pradesh 212401",
+    "area": "249181",
+    "latitude": 25.5396072,
+    "longitude": 82.30946639999999,
+    "place_id": "ChIJEfkH-0IDkDkRFAd50e091Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfkH-0IDkDkRFAd50e091Pw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:38:40"
+  }
+]

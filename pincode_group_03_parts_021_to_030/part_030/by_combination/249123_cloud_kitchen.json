@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "249123",
+    "phone_number": "+91 98295 98623",
+    "website": "https://zomato.onelink.me/xqzv/zmvkdnr6",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "44, ganashi bhawan, Natraj Nagar, J P Colony, Tonk Phatak, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302015",
+    "area": "Natraj Nagar, J P Colony, Tonk Phatak",
+    "latitude": 26.8847708,
+    "longitude": 75.7951621,
+    "place_id": "ChIJUyPfPMG1bTkRqyWc3hpusi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyPfPMG1bTkRqyWc3hpusi4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:55:59"
+  },
+  {
+    "business_name": "Cloud kitchen by - Shivani",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "249123",
+    "phone_number": "+91 75000 08300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "249123",
+    "latitude": 29.9271928,
+    "longitude": 78.1140593,
+    "place_id": "ChIJr8S6DdZHCTkR_d4QDwZvTCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8S6DdZHCTkR_d4QDwZvTCk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:56:00"
+  }
+]

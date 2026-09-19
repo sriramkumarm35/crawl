@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IndoTiger Tour and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "https://indotigertravels.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Karnprayag - Haridwar Rd, near Bhandari Palace, Khand Gaon, Geeta Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Khand Gaon, Geeta Nagar",
+    "latitude": 30.096227199999998,
+    "longitude": 78.2727457,
+    "place_id": "ChIJ88tJDQ49CTkRQ0t8Mk6W1T8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88tJDQ49CTkRQ0t8Mk6W1T8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:40"
+  },
+  {
+    "business_name": "Preet Tour&Trevals",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "249202",
+    "phone_number": "+91 81262 69829",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "Gumaniwala, Rishikesh, Barkot Range, Uttarakhand 249204",
+    "area": "Gumaniwala",
+    "latitude": 30.0821035,
+    "longitude": 78.2509698,
+    "place_id": "ChIJl73SW2U_CTkR3ehQfAtq0Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl73SW2U_CTkR3ehQfAtq0Jc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:42"
+  }
+]

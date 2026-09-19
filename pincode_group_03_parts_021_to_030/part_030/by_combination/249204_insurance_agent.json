@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance & CSC Center",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "249204",
+    "phone_number": "+91 81718 85327",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HDFC Bank, Lic Life Puls Shyampur Rishikesh, Haridwar, Uttarakhand 249204",
+    "area": "Guljar Farm",
+    "latitude": 30.062864899999997,
+    "longitude": 78.2389458,
+    "place_id": "ChIJuWdcJrA_CTkRyY_cFnczylI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWdcJrA_CTkRyY_cFnczylI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:02"
+  },
+  {
+    "business_name": "Devnagri Travel Services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Travel agency",
+    "pincode": "249204",
+    "phone_number": "+91 70554 55446",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Haridwar To Rishikesh NH 58, Gaon, near SBI Bank Khand, Raiwala, Uttarakhand 249205",
+    "area": "249204",
+    "latitude": 30.031412,
+    "longitude": 78.2077652,
+    "place_id": "ChIJmRnkwa0_CTkR4mpRGa9nNTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRnkwa0_CTkR4mpRGa9nNTU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Sutta Break",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Paan shop",
+    "pincode": "249306",
+    "phone_number": "+91 98742 05368",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "CB-68, CB Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "area": "CB Block, Sector 1, Bidhannagar",
+    "latitude": 22.587352499999998,
+    "longitude": 88.4027224,
+    "place_id": "ChIJHQva5XF1AjoR_-hGMWMeNns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQva5XF1AjoR_-hGMWMeNns",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:08:55"
+  },
+  {
+    "business_name": "Dhruba Tea Centre",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Tea house, Tea Wholesaler",
+    "pincode": "249306",
+    "phone_number": "+91 33 4005 3157",
+    "website": "http://www.dhrubatea.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2, Lal Bazar St, Lal Bazar, Kolkata, West Bengal 700001",
+    "area": "Lal Bazar",
+    "latitude": 22.5723618,
+    "longitude": 88.3521245,
+    "place_id": "ChIJmeA-f0B3AjoR2AqxedUisxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeA-f0B3AjoR2AqxedUisxc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:08:55"
+  }
+]

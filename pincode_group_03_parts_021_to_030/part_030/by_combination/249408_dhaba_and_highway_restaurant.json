@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAINI DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "249408",
+    "phone_number": "+91 99274 80386",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "CHIRIYAPUR, NH-74, Haridwar, Uttarakhand 249408",
+    "area": "249408",
+    "latitude": 29.746672999999998,
+    "longitude": 78.2590283,
+    "place_id": "ChIJ59tagMhdCTkRHdACZRKdHX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ59tagMhdCTkRHdACZRKdHX4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:03"
+  },
+  {
+    "business_name": "DEV BHOOMI SAINI DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "249408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Q6VX+W75, Haridwar Rd, Gaindi Khata, Pathari Forest Range, Uttarakhand 249408",
+    "area": "249408",
+    "latitude": 29.79448,
+    "longitude": 78.24856249999999,
+    "place_id": "ChIJpc5QOqBdCTkR6FHO6DKiOUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpc5QOqBdCTkR6FHO6DKiOUE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:03"
+  }
+]

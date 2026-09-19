@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saree Sartorial",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "249192",
+    "phone_number": "+91 98215 46197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shiv chowk, opp. Canara bank, Pratitnagar, Raiwala, Rishikesh, Uttarakhand 249205",
+    "area": "Pratitnagar",
+    "latitude": 30.0338662,
+    "longitude": 78.2181513,
+    "place_id": "ChIJEWLbdqY_CTkRipJx3YWgdbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWLbdqY_CTkRipJx3YWgdbg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:43:44"
+  },
+  {
+    "business_name": "Modern Saree House",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249192",
+    "phone_number": "+91 97199 16563",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazar, Moti Market, Haridwar, Uttarakhand 249401",
+    "area": "Moti Market",
+    "latitude": 29.953667699999997,
+    "longitude": 78.16783389999999,
+    "place_id": "ChIJUTrvWoVHCTkRTfL_DOwVSHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTrvWoVHCTkRTfL_DOwVSHM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:43:46"
+  }
+]

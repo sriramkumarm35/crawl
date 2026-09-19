@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M. I. Industrial Suppliers",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier, Tools Wholesaler",
+    "pincode": "249125",
+    "phone_number": "+91 44 4300 9497",
+    "website": "http://miindustrialsuppliers.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "66/57, Ayyappa Chetty St, Parrys, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Parrys, George Town",
+    "latitude": 13.094684299999999,
+    "longitude": 80.2875696,
+    "place_id": "ChIJs9hw0vxlUjoRUc2cqt-9kfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9hw0vxlUjoRUc2cqt-9kfs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:00:57"
+  },
+  {
+    "business_name": "Bharat Industrial Fasteners",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier, Screw supplier",
+    "pincode": "249125",
+    "phone_number": "+91 80562 62588",
+    "website": "https://bharatindustrialfasteners.com/",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "131, Thiruvottiyur High Rd, New Washermenpet, Tondiarpet, Chennai, Tamil Nadu 600081",
+    "area": "New Washermenpet, Tondiarpet",
+    "latitude": 13.1333263,
+    "longitude": 80.2935467,
+    "place_id": "ChIJCxFRQFBvUjoRsTGxGIVO1r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxFRQFBvUjoRsTGxGIVO1r8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:00:58"
+  }
+]

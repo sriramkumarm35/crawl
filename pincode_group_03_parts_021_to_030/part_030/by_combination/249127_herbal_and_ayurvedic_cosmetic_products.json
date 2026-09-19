@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maddi Pharmaceuticals",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "249127",
+    "phone_number": "+91 93913 62893",
+    "website": "https://www.amazon.in/maddi-health-care/s?ie=UTF8&field-keywords=maddi%20health%20care&page=1&rh=i:aps,k:maddi%20health%20care",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "plot no. 3, post, HMT Officers Colony, Saipuri Colony, Osmania University Teachers Colony, Sainikpuri, Secunderabad, Hyderabad, Telangana 500094",
+    "area": "HMT Officers Colony, Saipuri Colony, Osmania University Teachers Colony, Sainikpuri",
+    "latitude": 17.4903881,
+    "longitude": 78.54203319999999,
+    "place_id": "ChIJNwnM1GmZyzsRQyORlTYHajI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNwnM1GmZyzsRQyORlTYHajI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:04"
+  },
+  {
+    "business_name": "Bombay Beauty",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "249127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1160, Pir Mohammad Shah Rd, Old City, Pankore Naka, Bhadra, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Pankore Naka, Bhadra",
+    "latitude": 23.024892599999998,
+    "longitude": 72.5864845,
+    "place_id": "ChIJAwzIIACFXjkRcpj_m_Vn_Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwzIIACFXjkRcpj_m_Vn_Yg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:04:04"
+  }
+]

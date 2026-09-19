@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeo Home Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "249205",
+    "phone_number": "+91 89540 63748",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 3, birla Farm, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.997169399999997,
+    "longitude": 78.1919298,
+    "place_id": "ChIJARVRYKg4CTkRAAAAMBfzm30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARVRYKg4CTkRAAAAMBfzm30",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:53"
+  },
+  {
+    "business_name": "Tatvamasi Homoeo clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "249205",
+    "phone_number": "N/A",
+    "website": "http://www.tatvamasihomoeoclinic.online/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 2, shatabdi chowk, birla farm, Gali No. 5, Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9944112,
+    "longitude": 78.1949222,
+    "place_id": "ChIJ4xjlfQBHCTkRdANTqqNJf6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xjlfQBHCTkRdANTqqNJf6g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:01:53"
+  }
+]

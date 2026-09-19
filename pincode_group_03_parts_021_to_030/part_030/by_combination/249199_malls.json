@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rural Pahadi",
+    "search_category": "Malls",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "weed, Chamba, Uttarakhand 249145",
+    "area": "weed",
+    "latitude": 30.3454803,
+    "longitude": 78.394656,
+    "place_id": "ChIJ65CYOkcdCTkR6Ihvikpww9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65CYOkcdCTkR6Ihvikpww9o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:05"
+  },
+  {
+    "business_name": "MINI MALL - Online Store",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "249199",
+    "phone_number": "N/A",
+    "website": "https://m.facebook.com/Mini-Mall-Apki-Apni-Dukan-106823131411261/?ref=bookmarks",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chamba, Uttarakhand 249145",
+    "area": "249199",
+    "latitude": 30.3454803,
+    "longitude": 78.394656,
+    "place_id": "ChIJNWd4SUcdCTkRx5jk9R5vmgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWd4SUcdCTkRx5jk9R5vmgY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:54:05"
+  }
+]

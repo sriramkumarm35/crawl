@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Art Service",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Sign shop",
+    "all_categories": "Sign shop",
+    "pincode": "249306",
+    "phone_number": "+91 98971 42370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X5CF+4RV, Sukhi Nadi, Kharkhari, Haridwar, Motichur Range, Uttarakhand 249401",
+    "area": "Sukhi Nadi, Kharkhari",
+    "latitude": 29.9703697,
+    "longitude": 78.17454409999999,
+    "place_id": "ChIJlT1BTGtHCTkRkKeRw5LTEgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlT1BTGtHCTkRkKeRw5LTEgo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:10:31"
+  },
+  {
+    "business_name": "WiseBeeSays",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "249306",
+    "phone_number": "N/A",
+    "website": "https://wisebeesays.blogspot.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amit gram, street 29, Gumaniwala, Rishikesh, Uttarakhand 249204",
+    "area": "Gumaniwala",
+    "latitude": 30.0801095,
+    "longitude": 78.2474362,
+    "place_id": "ChIJHWWtqtI_CTkRUQsJCuda0e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWWtqtI_CTkRUQsJCuda0e0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:10:33"
+  }
+]

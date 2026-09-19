@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Noida Bike Workshop - Bike Repair Service Centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "249151",
+    "phone_number": "+91 72178 29927",
+    "website": "https://noidabike.co.in/",
+    "rating": 4.7,
+    "reviews_count": 49,
+    "address": "Plot no 110, Greater Noida W Rd, near Fusion Homes, Sector 4, Greater Noida, Uttar Pradesh 201318",
+    "area": "Sector 4",
+    "latitude": 28.600709799999997,
+    "longitude": 77.4433662,
+    "place_id": "ChIJo-fatnrvDDkRfMhOwsVDVsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-fatnrvDDkRfMhOwsVDVsY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:24:12"
+  },
+  {
+    "business_name": "Bharat cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "249151",
+    "phone_number": "+91 95103 35825",
+    "website": "https://bharatcycle.com/",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Ambedkar hostel ke samne, Ahore, Rajasthan 307029",
+    "area": "249151",
+    "latitude": 25.3770779,
+    "longitude": 72.7762,
+    "place_id": "ChIJiePfNPT_QjkR0nDxhW4zApQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiePfNPT_QjkR0nDxhW4zApQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:24:12"
+  }
+]

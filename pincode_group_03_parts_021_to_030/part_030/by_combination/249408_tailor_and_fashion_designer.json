@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abdul Rahman",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Service establishment",
+    "pincode": "249408",
+    "phone_number": "+91 87555 71786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Abdul Rahman, 249408, India",
+    "area": "249408",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJP3kOYQBFCTkRoeD6OBF0DpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3kOYQBFCTkRoeD6OBF0DpU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:14"
+  },
+  {
+    "business_name": "Aarti butique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "249408",
+    "phone_number": "+91 72530 81453",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gali no.5, Shivpuri Colony, Jagjeetpur, Haridwar, Jamalpur Kalan, Uttarakhand 249408",
+    "area": "Shivpuri Colony, Jagjeetpur",
+    "latitude": 29.915922799999997,
+    "longitude": 78.1343507,
+    "place_id": "ChIJlV1rM8ZHCTkReRbh7OT7gl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlV1rM8ZHCTkReRbh7OT7gl4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:22:14"
+  }
+]

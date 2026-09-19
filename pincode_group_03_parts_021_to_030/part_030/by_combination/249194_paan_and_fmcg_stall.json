@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Friend Paan Palace",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "249194",
+    "phone_number": "+91 70363 72282",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "pista house building, Jyothi Nagar, Ashok Nagar, Chanda Nagar, Hyderabad, Telangana 502032",
+    "area": "Jyothi Nagar, Ashok Nagar, Chanda Nagar",
+    "latitude": 17.500765599999998,
+    "longitude": 78.313001,
+    "place_id": "ChIJFZ7AUwCTyzsR0nHGclMvRIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZ7AUwCTyzsR0nHGclMvRIA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:06"
+  },
+  {
+    "business_name": "Shivam pan bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Kiosk",
+    "pincode": "249194",
+    "phone_number": "+91 98292 29036",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No 65, Tonk Rd, near Goshala, Sanganer, Pratap Nagar, Jaipur, Rajasthan 302018",
+    "area": "Sanganer, Pratap Nagar",
+    "latitude": 26.809537799999998,
+    "longitude": 75.8043024,
+    "place_id": "ChIJOTUJQx7KbTkRWQSVvJui5OE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTUJQx7KbTkRWQSVvJui5OE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:08"
+  }
+]

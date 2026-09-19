@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRS Home appliances repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service, Air conditioning repair service, Refrigerator repair service",
+    "pincode": "249186",
+    "phone_number": "+91 92137 45455",
+    "website": "https://srshomeservices.in/",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "CD school road, Mayur Kunj Gali no. 2, Badshahpur Sohna Rd, near Bhadana market, Maruti Kunj, Gurugram, Haryana 122102",
+    "area": "Block - B",
+    "latitude": 28.361665199999997,
+    "longitude": 77.07533169999999,
+    "place_id": "ChIJ5wogDLEjDTkRHHfCsQKDx9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wogDLEjDTkRHHfCsQKDx9c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:42:31"
+  },
+  {
+    "business_name": "H.R.cooling system",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Air conditioning repair service, Washer & dryer repair service",
+    "pincode": "249186",
+    "phone_number": "+91 99997 72231",
+    "website": "https://hrcoolingsystem.com/",
+    "rating": 4.7,
+    "reviews_count": 183,
+    "address": "Shop no 162, Wazirabad, Sector 52, Gurugram, Haryana 122003",
+    "area": "Wazirabad, Sector 52",
+    "latitude": 28.431083599999997,
+    "longitude": 77.0825346,
+    "place_id": "ChIJYXLH4DAZDTkRr8d9H06_ifI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXLH4DAZDTkRr8d9H06_ifI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:42:31"
+  }
+]

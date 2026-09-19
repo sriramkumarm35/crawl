@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagveer Singh",
+    "search_category": "Commercial Complex",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "249171",
+    "phone_number": "+91 78957 29921",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop N 57, Rana Building, Uttarkashi Road, Khansi, Barnigad, Paletha, Uttarakhand 249171",
+    "area": "Khansi",
+    "latitude": 30.8162722,
+    "longitude": 78.1564483,
+    "place_id": "ChIJW0sWQKm7CDkRSz_ZQV5yctA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW0sWQKm7CDkRSz_ZQV5yctA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:12"
+  },
+  {
+    "business_name": "Pragya home stay",
+    "search_category": "Commercial Complex",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249171",
+    "phone_number": "+91 78957 95801",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 507, Yamunotri Road, Naugaon, Barkot, Uttarakhand 249171",
+    "area": "249171",
+    "latitude": 30.7852963,
+    "longitude": 78.13124289999999,
+    "place_id": "ChIJh0SAdgC5CDkRAabPA1T8iO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0SAdgC5CDkRAabPA1T8iO4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:34:12"
+  }
+]

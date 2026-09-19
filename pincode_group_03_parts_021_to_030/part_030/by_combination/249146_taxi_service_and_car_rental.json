@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishvakarma Holidays - Taxi Service Rishikesh",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "249146",
+    "phone_number": "+91 94111 39191",
+    "website": "http://www.vishvakarmatravels.com/about-us/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Devoy in, Badrinath Marg, Tapovan, Rishikesh, Bhairgarh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.108282,
+    "longitude": 78.44051379999999,
+    "place_id": "ChIJ5TfQhSIRCTkRD2_JcfiEoa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TfQhSIRCTkRD2_JcfiEoa4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:22:20"
+  },
+  {
+    "business_name": "Himalaya Kathgodam Taxi Service and Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "249146",
+    "phone_number": "+91 91054 27380",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 417,
+    "address": "railway station, Near, Railway Colony Rd, Railway Colony, Kathgodam, Haldwani, Uttarakhand 263126",
+    "area": "Railway Colony, Kathgodam",
+    "latitude": 29.265625099999998,
+    "longitude": 79.545627,
+    "place_id": "ChIJu3VccE2boDkRTuI0hJMy67c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3VccE2boDkRTuI0hJMy67c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:22:21"
+  }
+]

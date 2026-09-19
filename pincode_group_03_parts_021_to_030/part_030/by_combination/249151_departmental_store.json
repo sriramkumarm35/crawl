@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store, Dharasu, Uttarkashi (RCM Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "249151",
+    "phone_number": "+91 81264 98170",
+    "website": "https://www.rcmworld.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "RCM Wonder World Police Outpost, M K, Bend, Dharasu, Barethi, Uttarakhand 249196",
+    "area": "Bend",
+    "latitude": 30.629544,
+    "longitude": 78.3304617,
+    "place_id": "ChIJ53wlbCvpCDkR-Us97OFKN0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53wlbCvpCDkR-Us97OFKN0g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:31"
+  },
+  {
+    "business_name": "RCM Store, Shrikot, Uttarkashi (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "249151",
+    "phone_number": "+91 89793 40576",
+    "website": "https://www.rcmworld.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beena Communication Oppsite, Govt. Inter College, Shrikot, Uttarakhand 249152",
+    "area": "249151",
+    "latitude": 30.639189,
+    "longitude": 78.2951494,
+    "place_id": "ChIJP6vZRMzpCDkRq5AjLpfDo_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6vZRMzpCDkRq5AjLpfDo_I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:23:31"
+  }
+]

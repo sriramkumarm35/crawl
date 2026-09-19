@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Fashion Palace",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bag shop",
+    "pincode": "249405",
+    "phone_number": "+91 96341 79171",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "sukhi nadi ka bridge, Bhagirathi Nagar, Kharkhari, Haridwar, Motichur Range, Uttarakhand 249410",
+    "area": "Bhagirathi Nagar, Kharkhari",
+    "latitude": 29.9711169,
+    "longitude": 78.17464199999999,
+    "place_id": "ChIJEwjVRWtHCTkRL9SLL4sLAP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwjVRWtHCTkRL9SLL4sLAP0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:30"
+  },
+  {
+    "business_name": "Goyal Saree House",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "249405",
+    "phone_number": "+91 90458 57296",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "L-49, Shivalik Nagar, Haridwar, Uttarakhand 249403",
+    "area": "L Cluster, Shivalik Nagar",
+    "latitude": 29.937110699999998,
+    "longitude": 78.0719613,
+    "place_id": "ChIJNxPDoPhICTkRYI60ePBZ46c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxPDoPhICTkRYI60ePBZ46c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:18:30"
+  }
+]

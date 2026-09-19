@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "धराली",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "249193",
+    "phone_number": "+91 63060 73583",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "PCJV+6FF, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.730571299999998,
+    "longitude": 78.4436728,
+    "place_id": "ChIJMTAGXwDtCDkRDKPMM94mZvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTAGXwDtCDkRDKPMM94mZvg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:20"
+  },
+  {
+    "business_name": "Assi Ganga Home Stay",
+    "search_category": "Hostels",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "249193",
+    "phone_number": "+91 73009 17244",
+    "website": "https://dodital.com/",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Chinwa, Uttarkashi, Barahat Range, Uttarakhand 249193",
+    "area": "Chinwa",
+    "latitude": 30.774801,
+    "longitude": 78.4529594,
+    "place_id": "ChIJUVNeqrWTCDkRk1kQNQmllOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVNeqrWTCDkRk1kQNQmllOE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:20"
+  }
+]

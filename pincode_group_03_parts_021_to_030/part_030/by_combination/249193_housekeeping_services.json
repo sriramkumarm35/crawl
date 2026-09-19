@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Drycleaning and ironing",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "249193",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PCJV+2GC, Uttarkashi, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.7300725,
+    "longitude": 78.44376489999999,
+    "place_id": "ChIJ8QQSjbPtCDkR-ZFtx3PWHS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QQSjbPtCDkR-ZFtx3PWHS8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:41"
+  },
+  {
+    "business_name": "SHIV GANGA VIEW",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "249193",
+    "phone_number": "+91 95575 97964",
+    "website": "http://shivgangaview.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "NH 34, Netala, Barahat Range, Uttarakhand 249193",
+    "area": "249193",
+    "latitude": 30.7531607,
+    "longitude": 78.4815595,
+    "place_id": "ChIJA8BMdACNCDkRADmeT4curBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8BMdACNCDkRADmeT4curBI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:46:42"
+  }
+]

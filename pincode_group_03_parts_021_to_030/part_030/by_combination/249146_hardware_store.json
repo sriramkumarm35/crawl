@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249146",
+    "phone_number": "+91 94129 24350",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ganai Gangoli, PWMJ 2MX, Sheraghat Berinag Rd, Dhingal Laga Kirola, Uttarakhand 262532",
+    "area": "249146",
+    "latitude": 29.7325326,
+    "longitude": 79.9317262,
+    "place_id": "ChIJz4KE-L_ToDkRF9juFtvtVIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4KE-L_ToDkRF9juFtvtVIw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:22:25"
+  },
+  {
+    "business_name": "Khati paint & hardware (pritam gussain)",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "249146",
+    "phone_number": "+91 74179 16547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devprayag Road, Gaja, Uttarakhand 249146",
+    "area": "249146",
+    "latitude": 30.2675488,
+    "longitude": 78.4210299,
+    "place_id": "ChIJ26tIfh0bCTkR0CzT_EAuLNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26tIfh0bCTkR0CzT_EAuLNg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:22:27"
+  }
+]

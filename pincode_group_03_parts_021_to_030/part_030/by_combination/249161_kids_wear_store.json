@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FirstCry.com Store Srinagar Badrinath Road",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "249161",
+    "phone_number": "+91 78954 49753",
+    "website": "https://www.firstcry.com/",
+    "rating": 4.9,
+    "reviews_count": 230,
+    "address": "Badrinath Marg, Srinagar, Uttarakhand 246174",
+    "area": "249161",
+    "latitude": 30.218713899999997,
+    "longitude": 78.79915369999999,
+    "place_id": "ChIJ2Wg56a-lCTkRxXiaPksRgG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Wg56a-lCTkRxXiaPksRgG4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:29:11"
+  },
+  {
+    "business_name": "BABY SHRI",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "249161",
+    "phone_number": "+91 78190 15168",
+    "website": "https://www.babyshri.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Hanuman Mandir, Uppar Market, Srinagar, Uttarakhand 246174",
+    "area": "Uppar Market",
+    "latitude": 30.2217842,
+    "longitude": 78.7945416,
+    "place_id": "ChIJMy5HOgOlCTkRrLlCGcrBS6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMy5HOgOlCTkRrLlCGcrBS6Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:29:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haridwar market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "249137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "badi sabzi mandi, Moti bazar, Upper Rd, opp. laxmi narayan mandir, near mansa devi ropeway gate, Haridwar, Uttarakhand 249401",
+    "area": "249137",
+    "latitude": 29.953106,
+    "longitude": 78.166298,
+    "place_id": "ChIJcbgucDZHCTkRbv98px6Vi-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbgucDZHCTkRbv98px6Vi-U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:51"
+  },
+  {
+    "business_name": "Sumit Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "249137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 15, Bus Stand, near Railway Station Road, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.106955,
+    "longitude": 78.29841689999999,
+    "place_id": "ChIJd-UerBwWCTkRGUHbUMoSHGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-UerBwWCTkRGUHbUMoSHGo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:17:51"
+  }
+]

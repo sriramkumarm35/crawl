@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uttarkashi Main Bazar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "249128",
+    "phone_number": "+91 94589 45976",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "PCHQ+FJJ, Court Rd, Uttarkashi, Uttarakhand 249193",
+    "area": "249128",
+    "latitude": 30.728711599999997,
+    "longitude": 78.43900359999999,
+    "place_id": "ChIJhRprvGztCDkRrZsiCV_5d5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRprvGztCDkRrZsiCV_5d5k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:06:41"
+  },
+  {
+    "business_name": "Drishti electronic",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "249128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "HF5Q+FGH, Moliya, Garhwan Gaon, Uttarakhand 249165",
+    "area": "249128",
+    "latitude": 30.559003999999998,
+    "longitude": 78.4895507,
+    "place_id": "ChIJxTd5NQD7CDkRfvTo8O-9ttI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTd5NQD7CDkRfvTo8O-9ttI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:06:43"
+  }
+]

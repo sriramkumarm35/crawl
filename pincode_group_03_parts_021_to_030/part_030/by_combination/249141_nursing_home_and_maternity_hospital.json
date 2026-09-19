@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "249141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M37M+PJP, Kuri, Raghunathpur Urf Balawali, Uttarakhand 247671",
+    "area": "249141",
+    "latitude": 29.664344699999997,
+    "longitude": 78.0840829,
+    "place_id": "ChIJ-Q5DQKJXCTkRiJ--Pc1rsDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q5DQKJXCTkRiJ--Pc1rsDA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:20"
+  },
+  {
+    "business_name": "Dr. M.P. Singh Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Children's hospital, Diagnostic center, Private hospital",
+    "pincode": "249141",
+    "phone_number": "+91 98373 18884",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jaspur, Uttarakhand 244712",
+    "area": "249141",
+    "latitude": 29.2804485,
+    "longitude": 78.8202531,
+    "place_id": "ChIJB3RliWZICjkRG1BEMlJhnQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3RliWZICjkRG1BEMlJhnQg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:18:20"
+  }
+]

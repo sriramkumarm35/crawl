@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba auto service kamand",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "249131",
+    "phone_number": "+91 82734 03939",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gangotri road, kamand, Kamand Kinthu Madhe Chak, Uttarakhand 249131",
+    "area": "249131",
+    "latitude": 30.470048,
+    "longitude": 78.36719529999999,
+    "place_id": "ChIJXeKtK4LnCDkR69QrPdCsKXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXeKtK4LnCDkR69QrPdCsKXc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:09:12"
+  },
+  {
+    "business_name": "Mahipal Singh",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "249131",
+    "phone_number": "+91 93896 95829",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00kandi Sour, Uttarkashi Road, Uttarakhand 249132",
+    "area": "249131",
+    "latitude": 30.5020717,
+    "longitude": 78.376857,
+    "place_id": "ChIJs8_6INnnCDkRyZmK_Jmtxvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8_6INnnCDkRyZmK_Jmtxvc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:09:12"
+  }
+]

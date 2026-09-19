@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rubi Garments & Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "249411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hari Karuna Dham Building, near Harikaruna Dham, Haripur Kalan, Motichur Range, Haridwar, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.995634499999998,
+    "longitude": 78.19607859999999,
+    "place_id": "ChIJDXOSYFE5CTkRp0CtfBQtYX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXOSYFE5CTkRp0CtfBQtYX0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:04"
+  },
+  {
+    "business_name": "Komal Bangal Store",
+    "search_category": "Boutiques",
+    "primary_category": "Novelty store",
+    "all_categories": "Novelty store",
+    "pincode": "249411",
+    "phone_number": "+91 82738 49689",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Haripur Kalan, Haridwar, Motichur Range, Uttarakhand 249205",
+    "area": "Haripur Kalan",
+    "latitude": 29.9910103,
+    "longitude": 78.1943814,
+    "place_id": "ChIJsc_aaAhHCTkRxCxWgL87Dvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsc_aaAhHCTkRxCxWgL87Dvs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:26:04"
+  }
+]

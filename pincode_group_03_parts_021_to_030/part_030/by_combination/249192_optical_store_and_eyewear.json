@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SEEVIEW",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center, Sunglasses store",
+    "pincode": "249192",
+    "phone_number": "N/A",
+    "website": "http://www.seeview.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BARTWAL COMPLEX, near Govt Inter College, PRATEET NAGAR, Raiwala, Uttarakhand 249205",
+    "area": "PRATEET NAGAR",
+    "latitude": 30.0349175,
+    "longitude": 78.2126018,
+    "place_id": "ChIJp0oKjXA_CTkRMDN1_ljqxj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0oKjXA_CTkRMDN1_ljqxj8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:43:53"
+  },
+  {
+    "business_name": "GOLDEN ERA OPTICALS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "249192",
+    "phone_number": "+91 78955 70707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3742+H3P, Chopra Farm Rd, Chopda Farm, Khadri Khadakmaf, Kharakmaf, Rishikesh, Uttarakhand 249204",
+    "area": "Chopda Farm, Khadri Khadakmaf",
+    "latitude": 30.056468499999998,
+    "longitude": 78.2502133,
+    "place_id": "ChIJc74UgVc-CTkR9UROP8zuxV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc74UgVc-CTkR9UROP8zuxV4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:43:56"
+  }
+]

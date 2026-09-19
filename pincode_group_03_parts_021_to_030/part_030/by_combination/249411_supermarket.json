@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shalu Enterprises",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "249411",
+    "phone_number": "+91 98371 35071",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Bazar, Chowk, Jwalapur, Uttarakhand 249407",
+    "area": "249411",
+    "latitude": 29.9237747,
+    "longitude": 78.10708559999999,
+    "place_id": "ChIJHx1AvAZJCTkR-RBzJUQh9kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHx1AvAZJCTkR-RBzJUQh9kM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:39"
+  },
+  {
+    "business_name": "Daily Needs",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249411",
+    "phone_number": "+91 98976 46471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "D-6, New Subhash Nagar, Subhash Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "New Subhash Nagar, Subhash Nagar",
+    "latitude": 29.9234725,
+    "longitude": 78.0897615,
+    "place_id": "ChIJo0HhVjNJCTkRYkEWRT1-W78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0HhVjNJCTkRYkEWRT1-W78",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:25:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "249137",
+    "phone_number": "+91 90127 56650",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "100, Mukherjee Marg, Mayakund, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.105798399999998,
+    "longitude": 78.2992332,
+    "place_id": "ChIJ6ShxTRQXCTkRLViIIKXvD1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ShxTRQXCTkRLViIIKXvD1k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:16:10"
+  },
+  {
+    "business_name": "Prestige Xclusive - Mayakund, Rishikesh",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store, Appliance store, Countertop store, Home goods store",
+    "pincode": "249137",
+    "phone_number": "+91 98976 06308",
+    "website": "https://shop.ttkprestige.com/",
+    "rating": 2.5,
+    "reviews_count": 17,
+    "address": "Shop No, 40, Main Bazar Rd, Mayakund, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.105582,
+    "longitude": 78.3007432,
+    "place_id": "ChIJmZZyFEcXCTkR0yM9uSk8CZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZZyFEcXCTkR0yM9uSk8CZw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:16:10"
+  }
+]

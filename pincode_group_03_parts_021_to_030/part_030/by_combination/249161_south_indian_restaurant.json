@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mumbai zayka",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "249161",
+    "phone_number": "+91 78954 50609",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "Sabji Mandi Rd, above saini juice center, Srinagar, Uttarakhand 246174",
+    "area": "249161",
+    "latitude": 30.222974899999997,
+    "longitude": 78.79066689999999,
+    "place_id": "ChIJq38hM4qlCTkR9nNopOurEws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq38hM4qlCTkR9nNopOurEws",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:29:04"
+  },
+  {
+    "business_name": "Shanti Kunj Resort Dhamak",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "249161",
+    "phone_number": "+91 75000 20237",
+    "website": "http://shantikunjresort.com/",
+    "rating": 3.3,
+    "reviews_count": 83,
+    "address": "58, National Highway, Dang Chaura, Uttarakhand 246174",
+    "area": "249161",
+    "latitude": 30.2489447,
+    "longitude": 78.8766113,
+    "place_id": "ChIJv7oQmmSwCTkRN_YmYbOFkXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7oQmmSwCTkRN_YmYbOFkXI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:29:06"
+  }
+]

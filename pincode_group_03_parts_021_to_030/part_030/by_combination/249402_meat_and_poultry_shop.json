@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Kumar's Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "249402",
+    "phone_number": "+91 90845 77465",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Q23C+GHQ, Mutkabad, Laksar, Uttarakhand 247663",
+    "area": "Mutkabad",
+    "latitude": 29.753843399999997,
+    "longitude": 78.0214819,
+    "place_id": "ChIJo88r9oBRCTkRBlRljid--wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo88r9oBRCTkRBlRljid--wo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:12:38"
+  },
+  {
+    "business_name": "SONU Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "249402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "eidgha road Salempur Road MAHDOOD, Bahadarabad, Uttarakhand 249402",
+    "area": "249402",
+    "latitude": 29.9335062,
+    "longitude": 78.0239905,
+    "place_id": "ChIJrxNOjERJCTkRdB8qZJrIzEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxNOjERJCTkRdB8qZJrIzEE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:12:38"
+  }
+]

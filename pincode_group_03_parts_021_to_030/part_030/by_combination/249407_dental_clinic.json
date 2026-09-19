@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Smile Zone Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "249407",
+    "phone_number": "+91 70375 40554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ansari Market, Gurudwara Rd, Jwalapur, Uttarakhand 249407",
+    "area": "249407",
+    "latitude": 29.9253607,
+    "longitude": 78.1125998,
+    "place_id": "ChIJmcFpWEBHCTkR6SrYfZKsDiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcFpWEBHCTkR6SrYfZKsDiY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:28"
+  },
+  {
+    "business_name": "Divya Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "249407",
+    "phone_number": "+91 94108 16555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Kankhal - Jwalapur Rd, Arya Nagar, Haridwar, Jwalapur, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.9261679,
+    "longitude": 78.1254446,
+    "place_id": "ChIJnw_mRSVGCTkRwi9cdFenVuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnw_mRSVGCTkRwi9cdFenVuQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:20:28"
+  }
+]

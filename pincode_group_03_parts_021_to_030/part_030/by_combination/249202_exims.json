@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub Post Office, Pashulok",
+    "search_category": "EXIMS",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 3.1,
+    "reviews_count": 27,
+    "address": "12, Virbhadra Rd, Meera Nagar, IDPL Colony, Rishikesh, Uttarakhand 249203",
+    "area": "Meera Nagar, IDPL Colony",
+    "latitude": 30.07452,
+    "longitude": 78.28575889999999,
+    "place_id": "ChIJrTizHhk-CTkR3OBFFrLuwiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrTizHhk-CTkR3OBFFrLuwiw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:40"
+  },
+  {
+    "business_name": "IDPL Police Station",
+    "search_category": "EXIMS",
+    "primary_category": "Police station",
+    "all_categories": "Police station",
+    "pincode": "249202",
+    "phone_number": "N/A",
+    "website": "https://uttarakhandpolice.uk.gov.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37M9+X47, IDPL Colony, Rishikesh, Uttarakhand 249202",
+    "area": "IDPL Colony",
+    "latitude": 30.0849172,
+    "longitude": 78.2678072,
+    "place_id": "ChIJr1x7CXI-CTkRiqT-9P0vGKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1x7CXI-CTkRiqT-9P0vGKI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:57:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagraja Car Service Center",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Used tire shop",
+    "all_categories": "Used tire shop",
+    "pincode": "249152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "J8XJ+9JR, NH 34, Patara, Uttarakhand 249151",
+    "area": "249152",
+    "latitude": 30.6484778,
+    "longitude": 78.3315164,
+    "place_id": "ChIJ76gFMyjrCDkRHD793lELhmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76gFMyjrCDkRHD793lELhmU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:55"
+  },
+  {
+    "business_name": "Vijay Tyre Service",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "249152",
+    "phone_number": "+91 73009 94092",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ward no.07, Barethi, Chinyalisour, Dharasu, Uttarakhand 249196",
+    "area": "Barethi",
+    "latitude": 30.6030728,
+    "longitude": 78.3162866,
+    "place_id": "ChIJ_w2uRwDpCDkRySUQNlzNDT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_w2uRwDpCDkRySUQNlzNDT0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:25:55"
+  }
+]

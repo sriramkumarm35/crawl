@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Hills",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "249135",
+    "phone_number": "+91 98110 83677",
+    "website": "http://luxuryhills.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9GMC+547, Bhowali-Ramgarh Rd, Shyamkhet, Bhowali, Sukha, Uttarakhand 263132",
+    "area": "Shyamkhet, Bhowali",
+    "latitude": 29.382902599999998,
+    "longitude": 79.52029979999999,
+    "place_id": "ChIJkfRnmoaioDkReNYwd8lSy1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfRnmoaioDkReNYwd8lSy1I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:42"
+  },
+  {
+    "business_name": "Harsil Cottages",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "249135",
+    "phone_number": "+91 96345 14095",
+    "website": "https://www.dityahotels.com/harsil-cottages/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gangotri Road, Village Jhala, PO, near Harsil, Bhatwari, Gangotri, Uttarakhand 249135",
+    "area": "249135",
+    "latitude": 31.010332199999997,
+    "longitude": 78.709949,
+    "place_id": "ChIJgZygwP19CDkRPw6TAHVwgnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZygwP19CDkRPw6TAHVwgnI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:13:44"
+  }
+]

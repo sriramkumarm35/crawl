@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor Deepu jayara",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "GFRC+H93, Kandiyal Gaon, Uttarakhand 249165",
+    "area": "249165",
+    "latitude": 30.5413872,
+    "longitude": 78.47093199999999,
+    "place_id": "ChIJiZ_zNwDlCDkRfQbdqguHnKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZ_zNwDlCDkRfQbdqguHnKI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:08"
+  },
+  {
+    "business_name": "ANM centre Mahargaon भगवान सिंह बिष्ट",
+    "search_category": "Doctors",
+    "primary_category": "Women's health clinic",
+    "all_categories": "Women's health clinic",
+    "pincode": "249165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HF5C+MPM, Uniyal Gaon, Uttarakhand 249165",
+    "area": "249165",
+    "latitude": 30.559215299999998,
+    "longitude": 78.4718029,
+    "place_id": "ChIJXWxAHxjlCDkRAWDI4GvBpeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWxAHxjlCDkRAWDI4GvBpeU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:08"
+  }
+]

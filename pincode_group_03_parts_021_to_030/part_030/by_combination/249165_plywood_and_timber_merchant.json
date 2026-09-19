@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "249165",
+    "phone_number": "+91 89796 93919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kithaur, Uttar Pradesh 250104",
+    "area": "249165",
+    "latitude": 28.862702,
+    "longitude": 77.9417034,
+    "place_id": "ChIJV3r4J_B_CzkRn3Z79I6UerM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3r4J_B_CzkRn3Z79I6UerM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:28"
+  },
+  {
+    "business_name": "GUPTA TIMBER TRADERS",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "249165",
+    "phone_number": "+91 94160 19062",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 23,
+    "address": "Sanoli Rd, opp. Huda By Pass, Ramnagar, Sector-12, Huda, Panipat, Haryana 132103",
+    "area": "Ramnagar, Sector-12, Huda",
+    "latitude": 29.388559299999997,
+    "longitude": 76.99395179999999,
+    "place_id": "ChIJxy6dz2XaDTkRXy_bhkmu4lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxy6dz2XaDTkRXy_bhkmu4lo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:31:29"
+  }
+]

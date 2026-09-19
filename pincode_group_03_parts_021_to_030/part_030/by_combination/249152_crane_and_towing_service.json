@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "249152",
+    "phone_number": "+91 97182 59015",
+    "website": "https://vishalcraneservice.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S - 563, School Block, Block S1, Laxmi Nagar, Delhi, 110092",
+    "area": "School Block, Block S1, Laxmi Nagar",
+    "latitude": 28.6238693,
+    "longitude": 77.2801139,
+    "place_id": "ChIJ9TOF_KjjDDkRZRhnl7qp-r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TOF_KjjDDkRZRhnl7qp-r4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:26:00"
+  },
+  {
+    "business_name": "Car towing service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "249152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Metro Station Laxmi Nagar, Near, Nirman vihar, New Delhi, Delhi 110092",
+    "area": "Nirman vihar, Block U, Shakarpur",
+    "latitude": 28.6306151,
+    "longitude": 77.2776023,
+    "place_id": "ChIJHXVV0PL9DDkRUatQlXzTBz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXVV0PL9DDkRUatQlXzTBz8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:26:00"
+  }
+]

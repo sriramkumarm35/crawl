@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji motor workshop",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Auto repair shop",
+    "pincode": "249404",
+    "phone_number": "+91 98372 39506",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Seetapur Bypass Road, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Sitapur",
+    "latitude": 29.917192099999998,
+    "longitude": 78.10155759999999,
+    "place_id": "ChIJWw8EkKJICTkRAtcZJFjxOMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWw8EkKJICTkRAtcZJFjxOMQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:16:56"
+  },
+  {
+    "business_name": "Royal Auto Engineering Works",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "249404",
+    "phone_number": "+91 98973 08879",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "W4C5+767, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Sanjay Colony",
+    "latitude": 29.9206598,
+    "longitude": 78.1080431,
+    "place_id": "ChIJd5Hjp59ICTkRPqfa2P0MzsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5Hjp59ICTkRPqfa2P0MzsM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:16:56"
+  }
+]

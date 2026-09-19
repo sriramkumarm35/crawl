@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Surat & Co",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrical repair shop",
+    "pincode": "249121",
+    "phone_number": "+91 98180 51385",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "K-49A, Gurudwara Rd, South Extension I, Mahaveer Nagar, Kotla Mubarakpur, New Delhi, Delhi 110003",
+    "area": "South Extension I, Mahaveer Nagar, Kotla Mubarakpur",
+    "latitude": 28.5748274,
+    "longitude": 77.22655019999999,
+    "place_id": "ChIJuRJdr1niDDkRRQBwhSVHnn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRJdr1niDDkRRQBwhSVHnn4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:53:04"
+  },
+  {
+    "business_name": "Masiwal G Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Painter, Hardware store, Tile store",
+    "pincode": "249121",
+    "phone_number": "+91 95362 97301",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bajauniya Haldu, Musabangar, Uttarakhand 263159",
+    "area": "249121",
+    "latitude": 29.3469132,
+    "longitude": 79.31877109999999,
+    "place_id": "ChIJcdgIEgB1CjkRtgFjjFEM4PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdgIEgB1CjkRtgFjjFEM4PQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:53:04"
+  }
+]

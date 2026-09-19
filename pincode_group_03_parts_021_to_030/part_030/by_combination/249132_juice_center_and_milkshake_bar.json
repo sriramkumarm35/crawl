@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coconut Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Beverage Store, Health food restaurant",
+    "pincode": "249132",
+    "phone_number": "+91 83099 56754",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1313,
+    "address": "1, beside DLF Road, beside Noodle Bar, DLF Cyber City, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "DLF Cyber City, Indira Nagar, Gachibowli",
+    "latitude": 17.4471408,
+    "longitude": 78.3532814,
+    "place_id": "ChIJgV8CLCSTyzsR7IobMDPDxCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV8CLCSTyzsR7IobMDPDxCk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:33"
+  },
+  {
+    "business_name": "New Bombay Juice and Chat",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "249132",
+    "phone_number": "+91 98497 37874",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 938,
+    "address": "Sainikpuri Rd, opposite KOI&CO, SGKS United Residency, Defence Colony, Sainikpuri, Secunderabad, Telangana 500094",
+    "area": "SGKS United Residency, Defence Colony, Sainikpuri",
+    "latitude": 17.4881364,
+    "longitude": 78.5417858,
+    "place_id": "ChIJ9w6xag2byzsR4ck1LR_QGQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w6xag2byzsR4ck1LR_QGQA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:10:35"
+  }
+]

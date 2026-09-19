@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KarAdvisors",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Accounting firm, Service establishment, Financial consultant, Tax preparation service",
+    "pincode": "249130",
+    "phone_number": "+91 97117 31393",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "KarAdvisors, 249130, India",
+    "area": "249130",
+    "latitude": 28.5870636,
+    "longitude": 77.1970434,
+    "place_id": "ChIJLeZqBbXdDDkRG_Jup2jzNGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeZqBbXdDDkRG_Jup2jzNGs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:08:13"
+  },
+  {
+    "business_name": "SAMRAT CONSULTANCY & IT WORLD PVT. LTD.",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "249130",
+    "phone_number": "+91 96822 31047",
+    "website": "https://scitw.in/",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "Aphlepur, Malhani, Uttar Pradesh 222004",
+    "area": "249130",
+    "latitude": 25.8676741,
+    "longitude": 82.62190199999999,
+    "place_id": "ChIJVTtFQhpBkDkRddItjQGGPmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTtFQhpBkDkRddItjQGGPmA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:08:14"
+  }
+]

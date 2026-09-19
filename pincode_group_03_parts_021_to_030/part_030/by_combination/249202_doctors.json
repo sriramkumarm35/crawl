@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr . Shubham nautiyal",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "249202",
+    "phone_number": "+91 80776 05308",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "62, shastri nagar, Rishikesh, Uttarakhand 249202",
+    "area": "shastri nagar",
+    "latitude": 30.092400599999998,
+    "longitude": 78.27515489999999,
+    "place_id": "ChIJ2U55VAk_CTkREU17I5y44gA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2U55VAk_CTkREU17I5y44gA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:25"
+  },
+  {
+    "business_name": "Brain Spine & Nerve clinic -Rishikesh (Dr.Ranjit kumar)",
+    "search_category": "Doctors",
+    "primary_category": "Neurosurgeon",
+    "all_categories": "Neurosurgeon",
+    "pincode": "249202",
+    "phone_number": "+91 95803 22224",
+    "website": "http://brainspinenerveclinicrishikeshdrranjitkumar.com/",
+    "rating": 4.8,
+    "reviews_count": 118,
+    "address": "Koyal Ghati chowk, Virbhadra Rd, opp. kartikey temle, Ganga Vihar Colony, Kolghatti, Rishikesh, Uttarakhand 249201",
+    "area": "Ganga Vihar Colony, Kolghatti",
+    "latitude": 30.096160899999997,
+    "longitude": 78.2866897,
+    "place_id": "ChIJO_k3gno9CTkR7ngIBfLqOWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_k3gno9CTkR7ngIBfLqOWI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:56:26"
+  }
+]

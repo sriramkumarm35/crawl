@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Silk Scarf Factory",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric wholesaler",
+    "all_categories": "Fabric wholesaler",
+    "pincode": "249130",
+    "phone_number": "+91 96702 94929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2/288, Sadhwara St, Manhari, Farrukhabad, Uttar Pradesh 209625",
+    "area": "Manhari",
+    "latitude": 27.3934586,
+    "longitude": 79.5844936,
+    "place_id": "ChIJg4REy0ownjkRGJo726W2-Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4REy0ownjkRGJo726W2-Sc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:03"
+  },
+  {
+    "business_name": "Kripa Fabric",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Textile Exporter, Wholesaler",
+    "pincode": "249130",
+    "phone_number": "+91 98392 01666",
+    "website": "https://kripafabric.github.io/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No.10, Shri Ramkrishna Das Munnulal Dharamshala Market, Chowk, Lucknow, Uttar Pradesh 226003",
+    "area": "Chowk",
+    "latitude": 26.866117,
+    "longitude": 80.908171,
+    "place_id": "ChIJtTmGDOX9mzkRUtdhPHQyIUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTmGDOX9mzkRUtdhPHQyIUc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:07:03"
+  }
+]

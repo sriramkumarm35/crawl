@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saurabh All Natural Grocer",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "249121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8HJ4+8P3, Molkhali Chak, Uttarakhand 249123",
+    "area": "249121",
+    "latitude": 30.330772999999997,
+    "longitude": 78.55680029999999,
+    "place_id": "ChIJX2OURYQDCTkRi_kFlprzR2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2OURYQDCTkRi_kFlprzR2Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:52:12"
+  },
+  {
+    "business_name": "RIOM Industries Private Limited",
+    "search_category": "Organic Food Store",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "249121",
+    "phone_number": "+91 74558 92865",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Village Laser, Main Market, Road, Devprayag, Gaja, Uttarakhand 249146",
+    "area": "Devprayag",
+    "latitude": 30.2305812,
+    "longitude": 78.5262044,
+    "place_id": "ChIJcZ91sVIFCTkRJ0I1XZ6nrIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZ91sVIFCTkRJ0I1XZ6nrIc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:52:13"
+  }
+]

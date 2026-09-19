@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khawas jeneral store kandikhal",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "249122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kandikhal, Turi, Uttarakhand 249161",
+    "area": "Kandikhal",
+    "latitude": 30.2257067,
+    "longitude": 78.6470173,
+    "place_id": "ChIJ456jH_sHCTkRk11y3SGzZcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ456jH_sHCTkRk11y3SGzZcs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:55:45"
+  },
+  {
+    "business_name": "Rudra traders",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "249122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "nh 58, near bus stand, Devprayag, Uttarakhand 249301",
+    "area": "249122",
+    "latitude": 30.1484882,
+    "longitude": 78.5971742,
+    "place_id": "ChIJlQefeFgJCTkRp8Va2NULtpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQefeFgJCTkRp8Va2NULtpA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:55:45"
+  }
+]

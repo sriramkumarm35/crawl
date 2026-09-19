@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prma and company",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "249152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P846+897, Olya, Genwala, Uttarakhand 249152",
+    "area": "249152",
+    "latitude": 30.7057948,
+    "longitude": 78.3109096,
+    "place_id": "ChIJDylXAyDrCDkRcRiCxgeY_rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDylXAyDrCDkRcRiCxgeY_rk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:26:11"
+  },
+  {
+    "business_name": "MATLI UTTARKASHI UTTARAKHAND",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "249152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "NH 34, P9QG+P54, Uttarkashi - Gangotri Rd, Matli, Athali, Uttarakhand 249193",
+    "area": "249152",
+    "latitude": 30.7393036,
+    "longitude": 78.37275939999999,
+    "place_id": "ChIJ18oseACVCDkR_TUtbmv7qbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18oseACVCDkR_TUtbmv7qbY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:26:14"
+  }
+]

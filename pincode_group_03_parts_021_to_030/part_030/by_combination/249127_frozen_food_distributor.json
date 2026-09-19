@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nyork Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Catering food and drink supplier, Fresh food market, Market, Meat wholesaler, Restaurant supply store, Soft drinks shop, Soy sauce maker, Wholesale Food Store, Wholesale grocer",
+    "pincode": "249127",
+    "phone_number": "+91 90254 23496",
+    "website": "https://www.nyork.in/",
+    "rating": 4.1,
+    "reviews_count": 75,
+    "address": "1247/2, Golden Colony 1st Main Rd, TS Krishna Colony, Chennai, Tamil Nadu 600050",
+    "area": "TS Krishna Colony",
+    "latitude": 13.0903567,
+    "longitude": 80.179369,
+    "place_id": "ChIJhdTuMfFjUjoRTJT_V3kPb70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdTuMfFjUjoRTJT_V3kPb70",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:03:07"
+  },
+  {
+    "business_name": "Anmol Frozen Snacks Store",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Bakery and Cake Shop",
+    "pincode": "249127",
+    "phone_number": "+91 94786 59004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "Shop No 1, Division Number 3, Naulakha Garden Colony, Ludhiana, Punjab 141008",
+    "area": "Naulakha Garden Colony",
+    "latitude": 30.915168299999998,
+    "longitude": 75.8626283,
+    "place_id": "ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:03:07"
+  }
+]

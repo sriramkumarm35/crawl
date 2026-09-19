@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RPK FOODS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "249401",
+    "phone_number": "+91 120 515 4894",
+    "website": "http://www.rpkfoods.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RPK FOODS Sector 6A, Sidcul, 76, Integrated Industrial Estate, Sector 8A, BHEL Township, Haridwar, Uttarakhand 249403",
+    "area": "Integrated Industrial Estate, Sector 8A, BHEL Township",
+    "latitude": 29.970639799999997,
+    "longitude": 78.0609322,
+    "place_id": "ChIJdZP8UKtJCTkRx8Qcgy4UErs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZP8UKtJCTkRx8Qcgy4UErs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:10:43"
+  },
+  {
+    "business_name": "Mani Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "249401",
+    "phone_number": "+91 80 3506 2973",
+    "website": "https://www.manitraders.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Anaz Mandi, near Malhotra Nursing Home, Shyam Nagar, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Shyam Nagar",
+    "latitude": 29.921868999999997,
+    "longitude": 78.1053256,
+    "place_id": "ChIJ2Z2EzZ5ICTkRBK6bi8y2hdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Z2EzZ5ICTkRBK6bi8y2hdM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:10:44"
+  }
+]

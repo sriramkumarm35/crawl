@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep singh Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "249306",
+    "phone_number": "+91 86300 21350",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1st floor, Shagun plaza, near railway crossing, gumaniwala, Shyampur, Rishikesh, Uttarakhand 249204",
+    "area": "Malviya Nagar, Shyampur",
+    "latitude": 30.0663447,
+    "longitude": 78.24359559999999,
+    "place_id": "ChIJp_2GT08_CTkRVXpk_8tnlYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_2GT08_CTkRVXpk_8tnlYA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:09:39"
+  },
+  {
+    "business_name": "Varun Garg Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architectural designer, Architecture firm, Building designer, Custom home builder, Interior architect office, Interior designer, Landscape architect, Landscape designer, Vastu consultant",
+    "pincode": "249306",
+    "phone_number": "+91 76578 03557",
+    "website": "https://www.varungarg.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SCO 355, adj. Domino's, Sector 9, Panchkula, Haryana 134113",
+    "area": "Sector 9",
+    "latitude": 30.697573799999997,
+    "longitude": 76.84935449999999,
+    "place_id": "ChIJc0adO0aTDzkRdZ0d58pnQkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0adO0aTDzkRdZ0d58pnQkY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:09:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VASHU TRADER",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249194",
+    "phone_number": "+91 95484 64054",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PF3X+2R5, Manpur, Uttarakhand 249193",
+    "area": "249194",
+    "latitude": 30.7025184,
+    "longitude": 78.499616,
+    "place_id": "ChIJS2G4vl_yCDkRAAAA0Kr5UHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2G4vl_yCDkRAAAA0Kr5UHg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:44"
+  },
+  {
+    "business_name": "Nirman Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "249194",
+    "phone_number": "+91 99177 83242",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Kaladhungi Rd, near veterinary hospital, Heera Nagar, Haldwani, Uttarakhand 263139",
+    "area": "Heera Nagar",
+    "latitude": 29.2168679,
+    "longitude": 79.5221657,
+    "place_id": "ChIJeUDXwYaboDkRa0rNmTHSBsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUDXwYaboDkRa0rNmTHSBsc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:47:45"
+  }
+]

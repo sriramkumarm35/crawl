@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panwar texi service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "249180",
+    "phone_number": "+91 94565 65695",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5578, Garkhet, Thatyur, Bichhu, Uttarakhand 249180",
+    "area": "Garkhet",
+    "latitude": 30.5203177,
+    "longitude": 78.05826859999999,
+    "place_id": "ChIJL9wnRr7RCDkRUSYbjANpdSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9wnRr7RCDkRUSYbjANpdSw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:52"
+  },
+  {
+    "business_name": "M S BIKERZ",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "249180",
+    "phone_number": "+91 83686 93895",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Rajpur Road, 118/1, Canal Rd, Kishanpur, Dehradun, Uttarakhand 248009",
+    "area": "Kishanpur",
+    "latitude": 30.3651551,
+    "longitude": 78.07558039999999,
+    "place_id": "ChIJyX5f4fLXCDkRyFRw7asenEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyX5f4fLXCDkRyFRw7asenEo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 07:36:53"
+  }
+]

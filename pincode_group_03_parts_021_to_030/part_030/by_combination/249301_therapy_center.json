@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jointcare healthcare",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "249301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4M93+H8F, Chamoli, Simlasu, Uttarakhand 249301",
+    "area": "249301",
+    "latitude": 30.1189425,
+    "longitude": 78.65328939999999,
+    "place_id": "ChIJpVvnb6gLCTkRvDwZAB2hb54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVvnb6gLCTkRvDwZAB2hb54",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:15"
+  },
+  {
+    "business_name": "Pahal Child Therapy & Neuro Rehabilitation Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist",
+    "pincode": "249301",
+    "phone_number": "+91 75000 97127",
+    "website": "https://www.facebook.com/profile.php?id=100054317990345",
+    "rating": 4.9,
+    "reviews_count": 312,
+    "address": "tadi puliya, Bareilly - Nainital Rd, near walkway mall, Bhotia Parao, Haldwani, Uttarakhand 263139",
+    "area": "Bhotia Parao",
+    "latitude": 29.243780299999997,
+    "longitude": 79.5343591,
+    "place_id": "ChIJHSfVl2yboDkRIy_uGJgW7KY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSfVl2yboDkRIy_uGJgW7KY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 08:04:16"
+  }
+]
