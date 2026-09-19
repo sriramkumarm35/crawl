@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punetha Mahila Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "246483",
+    "phone_number": "+91 70551 88536",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bank Rd, near Siltham, in front of doctors colony, Pithoragarh, Uttarakhand 262501",
+    "area": "246483",
+    "latitude": 29.5866215,
+    "longitude": 80.2129108,
+    "place_id": "ChIJUxh1fswloTkRJITLTbEn1UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxh1fswloTkRJITLTbEn1UY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:34:11"
+  },
+  {
+    "business_name": "Karnatic Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "246483",
+    "phone_number": "+91 5965 230 042",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 48,
+    "address": "Pithoragarh - Jhulaghat Rd, Champawat, Uttarakhand 262523",
+    "area": "246483",
+    "latitude": 29.337928599999998,
+    "longitude": 80.0943272,
+    "place_id": "ChIJZQSix_zhoDkRQH-ywCWQk1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQSix_zhoDkRQH-ywCWQk1Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:34:12"
+  }
+]

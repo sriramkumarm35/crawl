@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCI Carpantery",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Woodworking supply store",
+    "all_categories": "Woodworking supply store",
+    "pincode": "246469",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Bairangna, near phata halipad, Kedarnath Rd, Phata, Uttarakhand 246471",
+    "area": "246469",
+    "latitude": 30.5749525,
+    "longitude": 79.05241869999999,
+    "place_id": "ChIJVTNv8nw3CDkR48YmiTAdOP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTNv8nw3CDkR48YmiTAdOP4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:21:33"
+  },
+  {
+    "business_name": "Welding Shop",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "246469",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "raunlenk, Guptkashi, Buruwa, Uttarakhand 246469",
+    "area": "raunlenk",
+    "latitude": 30.564769899999998,
+    "longitude": 79.1225797,
+    "place_id": "ChIJdyFlNowxCDkRBXClo3cIU3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyFlNowxCDkRBXClo3cIU3U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:21:33"
+  }
+]

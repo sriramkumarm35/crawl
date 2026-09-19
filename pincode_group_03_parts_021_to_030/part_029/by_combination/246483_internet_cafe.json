@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhola Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Consultant, Passport Agent",
+    "pincode": "246483",
+    "phone_number": "+91 97188 85401",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Raghunathpur, Sector 22, Noida, Uttar Pradesh 201307",
+    "area": "Raghunathpur, Sector 22",
+    "latitude": 28.5952357,
+    "longitude": 77.3428567,
+    "place_id": "ChIJw4YRLqrlDDkRK_8gwxqiYYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4YRLqrlDDkRK_8gwxqiYYc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:01"
+  },
+  {
+    "business_name": "UK Digital House",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "246483",
+    "phone_number": "+91 79065 51534",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "JRR6+MP4, UK Digital House, near state bank Of India Panuwanaula, Uttarakhand 263623",
+    "area": "246483",
+    "latitude": 29.641631099999998,
+    "longitude": 79.81182319999999,
+    "place_id": "ChIJPSqbXqHJoDkRZSgUqx1SLrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSqbXqHJoDkRZSgUqx1SLrg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:03"
+  }
+]

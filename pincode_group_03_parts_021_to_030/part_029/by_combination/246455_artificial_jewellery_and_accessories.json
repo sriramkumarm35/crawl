@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muskan Fancy Store",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Jeweler",
+    "pincode": "246455",
+    "phone_number": "+91 99979 88594",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3FFX+F79, Tharali Dewal Rd, near SBI Bank, Tharali, Uttarakhand 246482",
+    "area": "246455",
+    "latitude": 30.073682299999998,
+    "longitude": 79.4982412,
+    "place_id": "ChIJ2_zmi7ldpzkRx-9IoYuAPuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_zmi7ldpzkRx-9IoYuAPuA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:37"
+  },
+  {
+    "business_name": "Aswal jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "246455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tharali, Uttarakhand 246481",
+    "area": "246455",
+    "latitude": 30.0737563,
+    "longitude": 79.5005592,
+    "place_id": "ChIJqxgHWDpdpzkR-C7PfTeUjiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxgHWDpdpzkR-C7PfTeUjiU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Industrial chemical suppliers",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "246488",
+    "phone_number": "+91 81001 21998",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8, Cossipore Rd, Cossipore, Kolkata, West Bengal 700002",
+    "area": "Cossipore",
+    "latitude": 22.6158175,
+    "longitude": 88.3729765,
+    "place_id": "ChIJf6LJfYyd-DkR4Cycx3DvXDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6LJfYyd-DkR4Cycx3DvXDY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:33"
+  },
+  {
+    "business_name": "Shreeram Chemical Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "246488",
+    "phone_number": "+91 33 2237 6456",
+    "website": "http://shreeramchemicals.com/",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "50/2A, Cossipore, Newland, College Square, Kolkata, West Bengal 700012",
+    "area": "Cossipore, Newland, College Square",
+    "latitude": 22.572646,
+    "longitude": 88.3638951,
+    "place_id": "ChIJkZ-bGL93AjoRIdwivPO6pGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZ-bGL93AjoRIdwivPO6pGA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:33"
+  }
+]

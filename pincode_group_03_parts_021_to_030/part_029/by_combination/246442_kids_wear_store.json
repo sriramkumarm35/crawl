@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gargi Kint & Crafts",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Baby store",
+    "pincode": "246442",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RC Mobile, Kedarnath Rd, Chandrapuri, Uttarakhand 246425",
+    "area": "246442",
+    "latitude": 30.4247503,
+    "longitude": 79.06861289999999,
+    "place_id": "ChIJkULr9bfLCTkRLpJQju6Imwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkULr9bfLCTkRLpJQju6Imwc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:04:44"
+  },
+  {
+    "business_name": "Adit Genral Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "246442",
+    "phone_number": "+91 94581 10586",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Naari, Uttarakhand 246171",
+    "area": "246442",
+    "latitude": 30.321987699999998,
+    "longitude": 78.98866699999999,
+    "place_id": "ChIJjX67ivy3CTkRcoeCpQAp-qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjX67ivy3CTkRcoeCpQAp-qQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:04:44"
+  }
+]

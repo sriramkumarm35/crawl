@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Ayanshika",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "246444",
+    "phone_number": "+91 70600 71710",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Ayanshika, Bhakunda, Umrakot Urf Baidanu, Uttarakhand 246446",
+    "area": "246444",
+    "latitude": 30.2933368,
+    "longitude": 79.3016796,
+    "place_id": "ChIJISZwTLXRCTkR92JO8GgMoKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISZwTLXRCTkR92JO8GgMoKg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:03"
+  },
+  {
+    "business_name": "Michael (Manwar) Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant, North Indian restaurant",
+    "pincode": "246444",
+    "phone_number": "+91 70601 54790",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "C8R9+WQR, Chamoli, Uttarakhand 246401",
+    "area": "246444",
+    "latitude": 30.4423644,
+    "longitude": 79.31940449999999,
+    "place_id": "ChIJV7KazMXUCTkRKUOpK0GcjUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7KazMXUCTkRKUOpK0GcjUU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:03"
+  }
+]

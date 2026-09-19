@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahagun Metro Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "246482",
+    "phone_number": "+91 120 483 9900",
+    "website": "https://www.mahagunindia.com/project/mahagun-metro-mall/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Gautam Palvi Rd, Sector 3F, Sector 3, Vaishali, Ghaziabad, Uttar Pradesh 201019",
+    "area": "Sector 3F, Sector 3, Vaishali",
+    "latitude": 28.6447704,
+    "longitude": 77.3353578,
+    "place_id": "ChIJT7gaDxP7DDkRkiV6WpjX_nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7gaDxP7DDkRkiV6WpjX_nw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:41"
+  },
+  {
+    "business_name": "Amdavad Wholesale Mall",
+    "search_category": "Malls",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246482",
+    "phone_number": "+91 78599 79392",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Naroda Business point, 101, Haridarshan Cross Rd, opp. Swaminarayan Park, Vasant Vihar 2, Nava Naroda, Ahmedabad, Gujarat 382330",
+    "area": "Vasant Vihar 2, Nava Naroda",
+    "latitude": 23.074030399999998,
+    "longitude": 72.6748436,
+    "place_id": "ChIJ3ZbHFt-HXjkRL7aWW_cXfgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZbHFt-HXjkRL7aWW_cXfgk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:43"
+  }
+]

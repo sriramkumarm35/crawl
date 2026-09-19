@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raahi Hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Resort hotel, Tour operator",
+    "pincode": "246435",
+    "phone_number": "+91 74174 19393",
+    "website": "https://www.raahihospitality.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "landmark new, 14, Chandrabhaga Brg, near new ISBT, Anand Vihar Dhalwala Colony, beegha munikireti, Chauda Bigha, Rishikesh, Uttarakhand 249137",
+    "area": "Anand Vihar Dhalwala Colony, beegha munikireti, Chauda Bigha",
+    "latitude": 30.1146973,
+    "longitude": 78.2976975,
+    "place_id": "ChIJF7GSvVsXCTkRFNx014Tri3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7GSvVsXCTkRFNx014Tri3w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:58:38"
+  },
+  {
+    "business_name": "Klic Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "246435",
+    "phone_number": "+91 99993 27007",
+    "website": "http://www.klicconsultants.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1st Floor, Airon Plaza, near Saraswati Vidhya Mandir, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "246435",
+    "latitude": 28.981109,
+    "longitude": 79.4007153,
+    "place_id": "ChIJxVv52mV_oDkRPQqxRZN2cXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVv52mV_oDkRPQqxRZN2cXI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:58:38"
+  }
+]

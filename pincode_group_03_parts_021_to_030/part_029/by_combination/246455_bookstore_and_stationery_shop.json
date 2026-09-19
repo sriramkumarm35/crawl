@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Consul Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "246455",
+    "phone_number": "+91 78306 92787",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Bara Bazar Rd, Mallital, Nainital, Uttarakhand 263001",
+    "area": "Mallital",
+    "latitude": 29.3926055,
+    "longitude": 79.4523033,
+    "place_id": "ChIJUcAHS-uhoDkRi56K7keo_9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcAHS-uhoDkRi56K7keo_9E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:31"
+  },
+  {
+    "business_name": "Saloni Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Books Wholesaler, Children's Book Store, Gift shop, Pen store, Stationery wholesaler",
+    "pincode": "246455",
+    "phone_number": "+91 85925 46589",
+    "website": "http://www.salonibookdepot.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Adarsh Gram,Chandarbani, Choila, near Dskss sr sec school, Mohabbewala, Dehradun, Uttarakhand 248002",
+    "area": "Mohabbewala",
+    "latitude": 30.276435399999997,
+    "longitude": 77.978758,
+    "place_id": "ChIJ2brJF1MrCTkRU0SeLtJulyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2brJF1MrCTkRU0SeLtJulyg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:32"
+  }
+]

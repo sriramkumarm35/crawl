@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Cool Point Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "246474",
+    "phone_number": "+91 87588 01497",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No.2, Soham Complex, Gurudwara Rd, Patrakar Colony, Jamnagar, Gujarat 361006",
+    "area": "Patrakar Colony",
+    "latitude": 22.4723498,
+    "longitude": 70.06555469999999,
+    "place_id": "ChIJ7YR0HKVqVzkRN_esSe7uVmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YR0HKVqVzkRN_esSe7uVmg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:26:58"
+  },
+  {
+    "business_name": "Nausheen Fruits Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "246474",
+    "phone_number": "+91 90325 58332",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "18-9-135, DRDL Main Rd, Kummar Basthi, Chandrayangutta, Hyderabad, Telangana 500005",
+    "area": "Kummar Basthi, Chandrayangutta",
+    "latitude": 17.3280445,
+    "longitude": 78.4810492,
+    "place_id": "ChIJS4ZuvjS9yzsRiZg3DQkFzUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4ZuvjS9yzsRiZg3DQkFzUQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:27:01"
+  }
+]

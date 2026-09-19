@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sundar Car Bazaar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "246455",
+    "phone_number": "+91 82097 29196",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 27,
+    "address": "88 Aashirwad Bhawan Ward No 6 Sahara Chouraha, Gangapur, Rajasthan 311801",
+    "area": "246455",
+    "latitude": 25.203861,
+    "longitude": 74.24741399999999,
+    "place_id": "ChIJGUr20TP1aDkRDkLgjNRy5Bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUr20TP1aDkRDkLgjNRy5Bc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:55"
+  },
+  {
+    "business_name": "Divine Honda",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Dent Removal Service Station, Auto repair shop, Auto Accessories Store, Honda dealer",
+    "pincode": "246455",
+    "phone_number": "+91 86575 88510",
+    "website": "https://dealer.hondacarindia.com/divine-honda-divine-automotives-pvt-ltd-car-dealer-bilkeshwar-road-haridwar-67168/Home",
+    "rating": 4.5,
+    "reviews_count": 50,
+    "address": "Ground Floor, Old, Bilkeshwar Road, near Hanuman Mandir, Industrial Area, Haridwar, Uttarakhand 249401",
+    "area": "Industrial Area",
+    "latitude": 29.940696199999998,
+    "longitude": 78.14004829999999,
+    "place_id": "ChIJVQUhZntHCTkRokxC9JQYBcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQUhZntHCTkRokxC9JQYBcw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:55"
+  }
+]

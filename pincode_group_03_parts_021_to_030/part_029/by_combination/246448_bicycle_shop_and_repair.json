@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kingworld Cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rack, Bicycle rental service, Bicycle repair shop, Bicycle wholesaler, Electric bicycle store, Used bicycle shop",
+    "pincode": "246448",
+    "phone_number": "+91 76008 70076",
+    "website": "http://thekingworld.com/",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "address": "2 , 3, Stone The Business Hub Dada Bhagvan Temple, A-1, Nansad Rd, opp. Green Avenue Resort, Kamrej, Surat, Gujarat 394180",
+    "area": "246448",
+    "latitude": 21.262125599999997,
+    "longitude": 72.98255139999999,
+    "place_id": "ChIJmUAO44FF4DsRjMDQ9deVEUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUAO44FF4DsRjMDQ9deVEUM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:13:47"
+  },
+  {
+    "business_name": "New Somnath Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "246448",
+    "phone_number": "+91 98254 51913",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 302,
+    "address": "Khodiyar Complex, Palanpur Rd, Dindayal Society, Sima Nagar, Surat, Gujarat 395005",
+    "area": "Dindayal Society, Sima Nagar",
+    "latitude": 21.2112975,
+    "longitude": 72.7895465,
+    "place_id": "ChIJRYtkeQRN4DsRImnwnMBNUPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYtkeQRN4DsRImnwnMBNUPo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:13:50"
+  }
+]

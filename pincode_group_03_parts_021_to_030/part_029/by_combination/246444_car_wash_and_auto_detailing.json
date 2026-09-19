@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rawat Car washing and Service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "246444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "886F+PCX, Rd, Ghat, Mangroli, Nandaprayag, Uttarakhand 246449",
+    "area": "Ghat",
+    "latitude": 30.311857699999997,
+    "longitude": 79.3236112,
+    "place_id": "ChIJfbjBPKrXCTkRgnjDoDfCDwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbjBPKrXCTkRgnjDoDfCDwM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:26"
+  },
+  {
+    "business_name": "Gurudev Car Repair Shop",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambedkar Bhavan, near GMVN, Karnaprayag, Uttarakhand 246444",
+    "area": "246444",
+    "latitude": 30.2591918,
+    "longitude": 79.2204051,
+    "place_id": "ChIJZ465UbPbCTkRr7KWLURvDe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ465UbPbCTkRr7KWLURvDe0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:29"
+  }
+]

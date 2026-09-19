@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food shop and grocery items store,Math",
+    "search_category": "Kirana Store",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "246472",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FC39+CGH, Kimana, Mathmadeja, Uttarakhand 246472",
+    "area": "246472",
+    "latitude": 30.4535603,
+    "longitude": 79.41884499999999,
+    "place_id": "ChIJoSZrXwB_pzkR_R-N2mQgxuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSZrXwB_pzkR_R-N2mQgxuM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:23:24"
+  },
+  {
+    "business_name": "Malasi General store (मलासी जनरल स्टोर)",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246472",
+    "phone_number": "+91 86501 71930",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "CC68+GP9, Mayapur, Tartoli, Uttarakhand 246472",
+    "area": "Mayapur",
+    "latitude": 30.4112941,
+    "longitude": 79.4168461,
+    "place_id": "ChIJTTAQp1F-pzkR2IFAhQxrArI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTAQp1F-pzkR2IFAhQxrArI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:23:24"
+  }
+]

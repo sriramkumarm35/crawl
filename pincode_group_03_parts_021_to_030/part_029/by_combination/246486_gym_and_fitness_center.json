@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "easyFit. A unisex fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "246486",
+    "phone_number": "+91 97593 46454",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "ENGINEERING COLLEGE ROAD, Ghurdauri, Kotnal Gaon, Uttarakhand 246194",
+    "area": "246486",
+    "latitude": 30.179216399999998,
+    "longitude": 78.69922869999999,
+    "place_id": "ChIJNcYO02ikCTkRuHUnHn-bois",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcYO02ikCTkRuHUnHn-bois",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:36:03"
+  },
+  {
+    "business_name": "Bulls Gym shyampur",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "246486",
+    "phone_number": "+91 73514 87081",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khadri Rd, Namberdar Farm, Rishikesh, Uttarakhand 249204",
+    "area": "Namberdar Farm",
+    "latitude": 30.0574218,
+    "longitude": 78.2330747,
+    "place_id": "ChIJX6KuBWo_CTkRUmZ8ygMOtd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6KuBWo_CTkRUmZ8ygMOtd4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:36:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPA Consultants",
+    "search_category": "Spa Consultants",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "246428",
+    "phone_number": "+91 33 2486 4474",
+    "website": "http://www.spaconsultant.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2nd Floor, 34, Ram Mohan Dutta Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Sreepally, Bhowanipore",
+    "latitude": 22.5358037,
+    "longitude": 88.3517564,
+    "place_id": "ChIJFzLZR093AjoRqHlEC5fFB5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzLZR093AjoRqHlEC5fFB5M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:52:51"
+  },
+  {
+    "business_name": "Lemon Touch Wellness Unisex Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "246428",
+    "phone_number": "+91 87555 14297",
+    "website": "https://lemon-touch-wellness.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": 73,
+    "address": "VK Tower, Shimla Bypass Rd, Indraprasth Enclave, Pithuwala Kalan, Dehradun, Pitthuwala, Uttarakhand 248018",
+    "area": "Indraprasth Enclave, Pithuwala Kalan",
+    "latitude": 30.3017476,
+    "longitude": 77.99335049999999,
+    "place_id": "ChIJRb93oKEpDzkRpC-dGXBV24g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRb93oKEpDzkRpC-dGXBV24g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:52:52"
+  }
+]

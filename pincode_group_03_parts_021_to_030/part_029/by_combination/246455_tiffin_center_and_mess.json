@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MealBuddy – Homestay & Food",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery, Bed & breakfast",
+    "pincode": "246455",
+    "phone_number": "+91 90684 99633",
+    "website": "https://mealbuddymenu.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Canal Rd, Police Officers Colony, Kishanpur, Dehradun, Uttarakhand 248009",
+    "area": "Police Officers Colony, Kishanpur",
+    "latitude": 30.3706048,
+    "longitude": 78.0814465,
+    "place_id": "ChIJY9_rKwDXCDkR_nhvcKGxCns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9_rKwDXCDkR_nhvcKGxCns",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:29"
+  },
+  {
+    "business_name": "Tiffin Factory By Labela Rasoi",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "246455",
+    "phone_number": "+91 85348 40122",
+    "website": "https://www.tiffinfactorybylabelarasoi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mandi samati, Allapur road, near Maharishi vidhya mandir school, Ishwar Dham Colony, Budaun, Uttar Pradesh 243601",
+    "area": "Ishwar Dham Colony",
+    "latitude": 28.0092175,
+    "longitude": 79.15309769999999,
+    "place_id": "ChIJjdXE2BtFdTkRqeX8H8K9qrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdXE2BtFdTkRqeX8H8K9qrk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:29"
+  }
+]

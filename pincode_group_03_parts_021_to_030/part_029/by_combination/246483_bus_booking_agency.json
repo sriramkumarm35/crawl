@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "246483",
+    "phone_number": "+91 87450 00855",
+    "website": "http://classicbus.in/",
+    "rating": 1.5,
+    "reviews_count": 588,
+    "address": "Chandni Chowk Rd, near Ritz Cinema, Old Delhi, Kashmere Gate, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Kashmere Gate",
+    "latitude": 28.6664723,
+    "longitude": 77.2332892,
+    "place_id": "ChIJzRNGYgj9DDkRanPZROYUQDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRNGYgj9DDkRanPZROYUQDk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:34:25"
+  },
+  {
+    "business_name": "Chaudhary Universe Tour And Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus ticket agency, Bus tour agency, Minibus taxi service, Tour operator",
+    "pincode": "246483",
+    "phone_number": "+91 78279 65122",
+    "website": "https://www.chaudharyuniversetourandtravels.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madarsa Road, Old Delhi, Kashmere Gate, Delhi, 110006",
+    "area": "Old Delhi, Kashmere Gate",
+    "latitude": 28.6664797,
+    "longitude": 77.23327479999999,
+    "place_id": "ChIJa1_XyFf9DDkRqtGhwoBaTxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1_XyFf9DDkRqtGhwoBaTxI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:34:25"
+  }
+]

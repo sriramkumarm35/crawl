@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garhwal dhaba",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "246429",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "758Q+RJ5, Badrinath Marg, Karnaprayag, Galnau, Uttarakhand 246444",
+    "area": "246429",
+    "latitude": 30.2670091,
+    "longitude": 79.18910699999999,
+    "place_id": "ChIJ7dwFcwDPCTkRpl4MOjtyvgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dwFcwDPCTkRpl4MOjtyvgc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:53:54"
+  },
+  {
+    "business_name": "AC Family Restaurant. NH58 Rishikesh--Badrinath",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246429",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 82,
+    "address": "74QC+3WF, Badrinath Marg, Marora, Uttarakhand 246171",
+    "area": "246429",
+    "latitude": 30.287682999999998,
+    "longitude": 79.1222956,
+    "place_id": "ChIJ33vRbb3PCTkRk_0gQdShfQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33vRbb3PCTkRk_0gQdShfQU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:53:54"
+  }
+]

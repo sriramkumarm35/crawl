@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NODDY COMMUNICATION",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "246721",
+    "phone_number": "+91 99172 43850",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Noorpur, Uttar Pradesh 246734",
+    "area": "246721",
+    "latitude": 29.154550699999998,
+    "longitude": 78.40556749999999,
+    "place_id": "ChIJcSR5api7CzkR3XRTJPyqbXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSR5api7CzkR3XRTJPyqbXw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:35"
+  },
+  {
+    "business_name": "Suhail Mobile Repairing Centre",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "246721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bijnor - Siau Rd, Chandpur, Uttar Pradesh 246725",
+    "area": "246721",
+    "latitude": 29.1440469,
+    "longitude": 78.2639882,
+    "place_id": "ChIJmyPDUACXCzkRaNxS8LORXcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyPDUACXCzkRaNxS8LORXcQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:37"
+  }
+]

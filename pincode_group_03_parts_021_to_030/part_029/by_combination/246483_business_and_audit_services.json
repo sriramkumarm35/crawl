@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Camsol Advisory",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Certified public accountant, Registration office",
+    "pincode": "246483",
+    "phone_number": "+91 98738 95537",
+    "website": "https://camsoladvisory.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Basement, N Block, N-22, Guru Ravidas Marg, near Axis Bank, N Block, Rampuri, Kalkaji, New Delhi, Delhi 110019",
+    "area": "N Block, Rampuri, Kalkaji",
+    "latitude": 28.537281,
+    "longitude": 77.2591806,
+    "place_id": "ChIJwRHqQKjjDDkR6nF5oB_gdt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRHqQKjjDDkR6nF5oB_gdt8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:12"
+  },
+  {
+    "business_name": "CA Service Online",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "246483",
+    "phone_number": "+91 120 423 1116",
+    "website": "http://www.caservicesonline.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Laxmi Deep Building, 509, Vikas Marg, Block S 2, Janakpuri District Center, Laxmi Nagar, New Delhi, Delhi, 110092",
+    "area": "Block S 2, Janakpuri District Center, Laxmi Nagar",
+    "latitude": 28.6293214,
+    "longitude": 77.2758455,
+    "place_id": "ChIJCw0eknL9DDkR_x2yn5DhtgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCw0eknL9DDkR_x2yn5DhtgQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:12"
+  }
+]

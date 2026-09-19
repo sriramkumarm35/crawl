@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PR hair and makeup studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Make-up artist, Nail salon, Skin care clinic, Hairdresser",
+    "pincode": "246469",
+    "phone_number": "+91 93353 53599",
+    "website": "https://prhairandmakeupstudio.github.io/deoria/",
+    "rating": 4.9,
+    "reviews_count": 1264,
+    "address": "in front of doctor nagrath, Raghav Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Raghav Nagar",
+    "latitude": 26.4978055,
+    "longitude": 83.7775745,
+    "place_id": "ChIJZ4WQZLzFkzkRM8KdPgt9hFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4WQZLzFkzkRM8KdPgt9hFU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:20:57"
+  },
+  {
+    "business_name": "Zaveri Beauty Shop",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler, Beauty product supplier",
+    "pincode": "246469",
+    "phone_number": "+91 73733 00367",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 23,
+    "address": "11/1292, opp. New Saibaba Temple, Chauta Pul, Surat, Gujarat 395003",
+    "area": "Chauta Pul",
+    "latitude": 21.199247399999997,
+    "longitude": 72.8245087,
+    "place_id": "ChIJbxJqfopO4DsRuj-rUpNbMBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxJqfopO4DsRuj-rUpNbMBg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:20:57"
+  }
+]

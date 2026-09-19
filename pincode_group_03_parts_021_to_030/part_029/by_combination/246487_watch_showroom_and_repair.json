@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House of Wearable",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Gift shop, Perfume store",
+    "pincode": "246487",
+    "phone_number": "+91 98414 52075",
+    "website": "http://www.houseofwearable.com/",
+    "rating": 4.9,
+    "reviews_count": 109,
+    "address": "No.59, C, K complex, near Thirukumaran Superstore, Trunk Rd, Karayanchavadi, Poonamallee, Tamil Nadu 600056",
+    "area": "Karayanchavadi",
+    "latitude": 13.0466234,
+    "longitude": 80.1113573,
+    "place_id": "ChIJi1czTuxhUjoRDiq892SQ81Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1czTuxhUjoRDiq892SQ81Y",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:37:38"
+  },
+  {
+    "business_name": "Radio Time",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "246487",
+    "phone_number": "+91 731 496 8894",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "483, Mahatma Gandhi Rd, Nagar Nigam, Indore, Madhya Pradesh 452007",
+    "area": "Nagar Nigam",
+    "latitude": 22.7200052,
+    "longitude": 75.8606822,
+    "place_id": "ChIJDbiUKj_9YjkRQv2nMQCtkZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbiUKj_9YjkRQv2nMQCtkZs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:37:40"
+  }
+]

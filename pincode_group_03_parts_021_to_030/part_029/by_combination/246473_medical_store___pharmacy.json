@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अंसवाल मेडिकल",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "246473",
+    "phone_number": "+91 94129 48980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "85VX+FHH, Pokhari Bus Stand Rd, Dungar, Chopara, Pokhari, Uttarakhand 246473",
+    "area": "Dungar",
+    "latitude": 30.343693799999997,
+    "longitude": 79.1989746,
+    "place_id": "ChIJ65MPTB3OCTkRULlnG0suOKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65MPTB3OCTkRULlnG0suOKQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:25:28"
+  },
+  {
+    "business_name": "नेगी मेडिकल स्टोर",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "246473",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "85VX+CGH, Pokhari Bus Stand Rd, Dungar, Chopara, Pokhari, Uttarakhand 246473",
+    "area": "Dungar",
+    "latitude": 30.343567999999998,
+    "longitude": 79.1988557,
+    "place_id": "ChIJTbljSR3OCTkRpP2SQrmGBzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbljSR3OCTkRpP2SQrmGBzA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:25:28"
+  }
+]

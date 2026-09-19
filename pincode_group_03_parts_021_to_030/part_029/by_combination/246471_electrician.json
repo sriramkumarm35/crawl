@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehra computers And CSC",
+    "search_category": "Electrician",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer store, Electronics store",
+    "pincode": "246471",
+    "phone_number": "+91 97597 99167",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kedarnath Rd, Phata, Uttarakhand 246471",
+    "area": "246471",
+    "latitude": 30.576929999999997,
+    "longitude": 79.0401577,
+    "place_id": "ChIJyUQM_oPKCTkRgLQhrFBIiJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUQM_oPKCTkRgLQhrFBIiJg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:30"
+  },
+  {
+    "business_name": "Panwar Comnucation & Genral Store Devidhar Khumera 246471",
+    "search_category": "Electrician",
+    "primary_category": "Photo shop",
+    "all_categories": "Photo shop",
+    "pincode": "246471",
+    "phone_number": "+91 96273 83636",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Sing Bhawani Mandir, Khumera, Semkwerala, Uttarakhand 246471",
+    "area": "246471",
+    "latitude": 30.556033799999998,
+    "longitude": 79.0587816,
+    "place_id": "ChIJZTZmnus3CDkRooL9DKP1qtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTZmnus3CDkRooL9DKP1qtw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:30"
+  }
+]

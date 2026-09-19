@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sanjay kolhu wale",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "246435",
+    "phone_number": "+91 95994 14625",
+    "website": "https://sanjaykohluwale.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "F, 196, behind seemapuri busdepo, near jp memorial hospital, Block F, Dilshad Colony, Delhi, 110095",
+    "area": "Block F, Dilshad Colony",
+    "latitude": 28.685055199999997,
+    "longitude": 77.3297904,
+    "place_id": "ChIJI6E9hh37DDkRAfkmuIVDU4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6E9hh37DDkRAfkmuIVDU4E",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:59:02"
+  },
+  {
+    "business_name": "रूद्राक्ष फ्लोर मिल्स",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "246435",
+    "phone_number": "+91 99838 05164",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hiran Magri, Jogi Talab, Gordhan Vilas Rural, Rajasthan 313001",
+    "area": "Hiran Magri",
+    "latitude": 24.524073299999998,
+    "longitude": 73.6961204,
+    "place_id": "ChIJJdZ1k1TuZzkRzjd2GXpxBJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdZ1k1TuZzkRzjd2GXpxBJk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:59:02"
+  }
+]

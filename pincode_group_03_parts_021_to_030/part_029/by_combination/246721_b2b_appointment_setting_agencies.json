@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VRS Enterprises",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant",
+    "pincode": "246721",
+    "phone_number": "+91 78400 73650",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 2398,
+    "address": "Pyarelal Complex, First Floor, Mehrauli-Gurgaon Rd, near Canara Bank, Sukhrali, Gurugram, Haryana 122007",
+    "area": "Sukhrali, Sector 17",
+    "latitude": 28.475569,
+    "longitude": 77.060835,
+    "place_id": "ChIJ_QhtRwEZDTkRvikNWzn9u-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QhtRwEZDTkRvikNWzn9u-I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:01"
+  },
+  {
+    "business_name": "Beebyt Business Solutions",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "246721",
+    "phone_number": "+91 70250 93231",
+    "website": "https://beebyt.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beebyt Business Solutions, 246721, India",
+    "area": "246721",
+    "latitude": 21.0680074,
+    "longitude": 76.2846765,
+    "place_id": "ChIJ7x16J6yyciwRUAgFEG4hBGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x16J6yyciwRUAgFEG4hBGQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:46:02"
+  }
+]

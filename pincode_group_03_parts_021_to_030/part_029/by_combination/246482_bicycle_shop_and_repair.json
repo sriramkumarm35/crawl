@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thunder Sports Zone",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Custom t-shirt store",
+    "pincode": "246482",
+    "phone_number": "+91 98255 17868",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Labh Icon, 20, Gotri Rd, opp. Tulsi restaurant, nr. Bansal, Saiyed Vasna, Vadodara, Gujarat 390007",
+    "area": "Saiyed Vasna",
+    "latitude": 22.306891999999998,
+    "longitude": 73.137601,
+    "place_id": "ChIJc27mA9bJXzkRPaAGV20OClo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc27mA9bJXzkRPaAGV20OClo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:32:37"
+  },
+  {
+    "business_name": "Wellfit Cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "246482",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. G-12, Siddhi Residency, TGB Rd, near Raj Arcade, opp. New Pal lake Road, Pal Gam, Surat, Gujarat 394510",
+    "area": "Pal Gam",
+    "latitude": 21.193622899999998,
+    "longitude": 72.7793106,
+    "place_id": "ChIJ2Ql1QrVN4DsRmc571M4XqrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Ql1QrVN4DsRmc571M4XqrE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:32:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahi Dahi Bhalle",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Takeout restaurant, Vegetarian restaurant",
+    "pincode": "246487",
+    "phone_number": "+91 93155 87756",
+    "website": "https://www.shahidahibhalle.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 2, Market G I Block, New Ring Road, Block G I, Sarojini Nagar, New Delhi, Delhi 110023",
+    "area": "Block G I, Sarojini Nagar",
+    "latitude": 28.571268099999998,
+    "longitude": 77.1954214,
+    "place_id": "ChIJBTJRTYcdDTkRviLQ6ktgE7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBTJRTYcdDTkRviLQ6ktgE7U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:37:28"
+  },
+  {
+    "business_name": "Pappu Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "246487",
+    "phone_number": "+91 98102 27770",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "J6HC+4WC, Kasturba Gandhi Marg, Atul Grove Rd, Janpath, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Atul Grove Road, Janpath, Connaught Place",
+    "latitude": 28.6278056,
+    "longitude": 77.22225739999999,
+    "place_id": "ChIJrUORbzT9DDkRNNTtsd_Q6rY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUORbzT9DDkRNNTtsd_Q6rY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:37:29"
+  }
+]

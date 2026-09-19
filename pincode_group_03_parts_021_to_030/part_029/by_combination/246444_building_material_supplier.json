@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS ASSOCIATES",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Cement Supplier, Paint store",
+    "pincode": "246444",
+    "phone_number": "+91 75000 83179",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village, 33/2, Langasu, Uttaraun, Uttarakhand 246446",
+    "area": "246444",
+    "latitude": 30.2914657,
+    "longitude": 79.2808489,
+    "place_id": "ChIJHfO39s3RCTkRnVlXR5NkkyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfO39s3RCTkRnVlXR5NkkyA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:38"
+  },
+  {
+    "business_name": "Sandeep Singh",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "246444",
+    "phone_number": "+91 63980 64959",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nanda nagar, Matai, Pajyana, Uttarakhand 246449",
+    "area": "246444",
+    "latitude": 30.2936561,
+    "longitude": 79.37546019999999,
+    "place_id": "ChIJ_Wjb5vDXCTkRxQhKNzIpSDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Wjb5vDXCTkRxQhKNzIpSDI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:39"
+  }
+]

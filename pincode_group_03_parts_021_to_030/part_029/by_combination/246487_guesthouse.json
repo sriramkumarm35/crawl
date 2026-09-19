@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nanda Devi Tourist Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "246487",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "NH 58, badrinath marg, near uma devi gate, Karnaprayag, Uttarakhand 246444",
+    "area": "246487",
+    "latitude": 30.262281599999998,
+    "longitude": 79.216938,
+    "place_id": "ChIJtdh6xGHbCTkRbtho7w_oO5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdh6xGHbCTkRbtho7w_oO5M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:38:19"
+  },
+  {
+    "business_name": "Pinder lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "246487",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7668+CPX, Karnaprayag, Uttarakhand 246444",
+    "area": "246487",
+    "latitude": 30.261038799999998,
+    "longitude": 79.2168592,
+    "place_id": "ChIJf_qnJQDbCTkRpBmzSgPQPbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_qnJQDbCTkRpBmzSgPQPbw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:38:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAUHAN ESTATES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "246449",
+    "phone_number": "+91 87556 11346",
+    "website": "http://www.chauhanestate.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Siyana, Garh Mukteshwar, Uttar Pradesh 245205",
+    "area": "Siyana",
+    "latitude": 28.7802844,
+    "longitude": 78.0852156,
+    "place_id": "ChIJW76YJVN7CzkRF-hRES74xXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW76YJVN7CzkRF-hRES74xXQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:16:17"
+  },
+  {
+    "business_name": "Global Realty",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "246449",
+    "phone_number": "+91 88606 02963",
+    "website": "http://www.globalrealtygroup.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "First Floor, B-130, B Block, Sector 65, Noida, Uttar Pradesh 201309",
+    "area": "B Block, Sector 65",
+    "latitude": 28.612695,
+    "longitude": 77.3900824,
+    "place_id": "ChIJuRKH-Y7lDDkR0ZfRsNGEhNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRKH-Y7lDDkR0ZfRsNGEhNY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:16:17"
+  }
+]

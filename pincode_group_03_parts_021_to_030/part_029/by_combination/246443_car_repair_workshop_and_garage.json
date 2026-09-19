@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infinity auto mobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Wheel alignment service",
+    "pincode": "246443",
+    "phone_number": "+91 72519 45541",
+    "website": "https://infinity-auto-mobile.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "Narsingh Mandir Marg, near degree college, Joshimath, Uttarakhand 246443",
+    "area": "246443",
+    "latitude": 30.5562419,
+    "longitude": 79.5696052,
+    "place_id": "ChIJlVZVhiqdpzkRM9ky8icu_Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVZVhiqdpzkRM9ky8icu_Jk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:43"
+  },
+  {
+    "business_name": "Tata Motors Limited",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "246443",
+    "phone_number": "+91 82911 92663",
+    "website": "https://www.tatamotors.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "PLOT A, 4 INDUSTRIAL AREA, NAINITAL HIGHWAY, CHAMOLI, Chamoli, Uttarakhand 246443",
+    "area": "246443",
+    "latitude": 30.549156999999997,
+    "longitude": 79.576235,
+    "place_id": "ChIJ9_-_JLmcpzkR84P-Bj_rvP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_-_JLmcpzkR84P-Bj_rvP0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:46"
+  }
+]

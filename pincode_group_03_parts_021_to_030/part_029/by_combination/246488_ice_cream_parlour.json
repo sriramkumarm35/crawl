@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Juice Centre",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Juice shop",
+    "pincode": "246488",
+    "phone_number": "+91 99705 65644",
+    "website": "http://bio.link/freshjuicecentre",
+    "rating": 4.1,
+    "reviews_count": 1204,
+    "address": "Fresh Corner, Paithan Gate, Sanmitra Colony, Nirala Bazar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Paithan Gate, Sanmitra Colony, Nirala Bazar",
+    "latitude": 19.8804937,
+    "longitude": 75.3290087,
+    "place_id": "ChIJOyKoZW2Y2zsRPg4AxHZFMU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyKoZW2Y2zsRPg4AxHZFMU4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:39:12"
+  },
+  {
+    "business_name": "Giani Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Dessert shop",
+    "pincode": "246488",
+    "phone_number": "+91 98991 10404",
+    "website": "https://www.gianiicecream.in/",
+    "rating": 4.2,
+    "reviews_count": 801,
+    "address": "Shop No 112, Gurudwara Road, Market, Sector 15, Faridabad, Haryana 121007",
+    "area": "Sector 15",
+    "latitude": 28.395191999999998,
+    "longitude": 77.3217664,
+    "place_id": "ChIJBZz3MlDcDDkR3ES5iumq8ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZz3MlDcDDkR3ES5iumq8ss",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:39:13"
+  }
+]

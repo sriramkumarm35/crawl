@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Admission Guidance India",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Medical school, Technical school",
+    "pincode": "246469",
+    "phone_number": "+91 92895 80585",
+    "website": "https://admissionguidanceindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "World Trade Tower, 1711, Sector 16, Noida, Uttar Pradesh 201301",
+    "area": "Central Auto Market, Block B, Sector 16",
+    "latitude": 28.5768354,
+    "longitude": 77.3169707,
+    "place_id": "ChIJey4fw07kDDkRT9vIiJrQLZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey4fw07kDDkRT9vIiJrQLZs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:21:14"
+  },
+  {
+    "business_name": "New Empire horizon",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "246469",
+    "phone_number": "+91 98974 06814",
+    "website": "https://newempirehorizon.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vijaya complex, mandir marg, Gopeshwar, Uttarakhand 246401",
+    "area": "246469",
+    "latitude": 30.410919099999997,
+    "longitude": 79.3172408,
+    "place_id": "ChIJ3wC4ul_VCTkRPOHQ8sGBLBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wC4ul_VCTkRPOHQ8sGBLBQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:21:15"
+  }
+]

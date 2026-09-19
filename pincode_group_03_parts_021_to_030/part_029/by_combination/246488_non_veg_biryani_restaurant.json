@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aroma's Hyderabad House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant, Restaurant",
+    "pincode": "246488",
+    "phone_number": "+91 93258 05361",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Marunji Rd, opp. KPIT Cummins, Hinjawadi, Pune, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.5940862,
+    "longitude": 73.7340267,
+    "place_id": "ChIJBwAAAMG7wjsRgnxN0XoQrHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwAAAMG7wjsRgnxN0XoQrHo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:39:11"
+  },
+  {
+    "business_name": "Alam Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Indian restaurant",
+    "pincode": "246488",
+    "phone_number": "+91 86308 74252",
+    "website": "https://www.alambiryani.com/",
+    "rating": 4,
+    "reviews_count": 2125,
+    "address": "Galshaheed Road, Seedhi Sarai Rd, Mandi Chowk, Moradabad, Uttar Pradesh 244001",
+    "area": "Mandi Chowk, BasantaPur, Chhajlet",
+    "latitude": 28.8319789,
+    "longitude": 78.781446,
+    "place_id": "ChIJx9fIA7j7CjkR0zUx_aNEMeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9fIA7j7CjkR0zUx_aNEMeE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:39:12"
+  }
+]

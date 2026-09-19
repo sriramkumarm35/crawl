@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Eye Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist",
+    "pincode": "246474",
+    "phone_number": "+91 94140 36092",
+    "website": "https://www.jaieyecentre.com/",
+    "rating": 4.9,
+    "reviews_count": 511,
+    "address": "Stadium, B 4/ 191 Chitrakoot, Sector 4 Opposite Registrar Office, Chitrakoot, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.9000223,
+    "longitude": 75.73379779999999,
+    "place_id": "ChIJM73XVI21bTkRkIlet06mfes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM73XVI21bTkRkIlet06mfes",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:27:17"
+  },
+  {
+    "business_name": "Dr Prem's Eye Hospital | Best Eye Hospital in Thiruvananthapuram",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Ophthalmology clinic",
+    "pincode": "246474",
+    "phone_number": "+91 93425 84907",
+    "website": "https://www.drpremseyehospital.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vanchiyoor, Thiruvananthapuram, Keralam 695035",
+    "area": "Vanchiyoor",
+    "latitude": 8.493936699999999,
+    "longitude": 76.94117829999999,
+    "place_id": "ChIJ58Tuk6-7BTsRtFJFWg-XXJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58Tuk6-7BTsRtFJFWg-XXJE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:27:19"
+  }
+]

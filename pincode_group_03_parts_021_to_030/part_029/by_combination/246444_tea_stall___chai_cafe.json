@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salty tea point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246444",
+    "phone_number": "+91 90450 59050",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "am sweets bijali Ghar, Industries area, near me, Sakuntala Avas Vikash Colony, Muzaffarnagar, Sujroo, Uttar Pradesh 251003",
+    "area": "Sakuntala Avas Vikash Colony",
+    "latitude": 29.442641199999997,
+    "longitude": 77.700363,
+    "place_id": "ChIJTdhRQh8bDDkRJtzJoMC1A-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdhRQh8bDDkRJtzJoMC1A-M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:01"
+  },
+  {
+    "business_name": "Topi tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "246444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4CPM+3P3, Pahoona, Phuna, Rajasthan 312206",
+    "area": "246444",
+    "latitude": 25.1351355,
+    "longitude": 74.4342933,
+    "place_id": "ChIJy2_Rk0CTaDkRHFC4yjdlW44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2_Rk0CTaDkRHFC4yjdlW44",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:02"
+  }
+]

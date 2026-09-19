@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P.j bakery and cafe restaurant",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Restaurant",
+    "pincode": "246435",
+    "phone_number": "+91 98706 90863",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 146,
+    "address": "Than, Barethi, Chinyalisour, Uttarakhand 249196",
+    "area": "Barethi",
+    "latitude": 30.5989489,
+    "longitude": 78.3169329,
+    "place_id": "ChIJPbXVWpDpCDkRchF7DQZYZlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbXVWpDpCDkRchF7DQZYZlA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:57:35"
+  },
+  {
+    "business_name": "Star Bakery and Cafe Champawat",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "246435",
+    "phone_number": "+91 99103 71560",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "GIC Chowk, Champawat, Uttarakhand 262523",
+    "area": "246435",
+    "latitude": 29.338047999999997,
+    "longitude": 80.09494409999999,
+    "place_id": "ChIJRVGto_fhoDkR8XjE58s2XQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVGto_fhoDkR8XjE58s2XQg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:57:35"
+  }
+]

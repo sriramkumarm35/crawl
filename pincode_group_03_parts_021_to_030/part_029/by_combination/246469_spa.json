@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Aashray",
+    "search_category": "Spa",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Hotel, Wellness hotel",
+    "pincode": "246469",
+    "phone_number": "+91 82870 71665",
+    "website": "https://shriaashray.com/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Village Dilmi, Block Ukhimath, Mastura, Chopta, Uttarakhand 246469",
+    "area": "Block Ukhimath",
+    "latitude": 30.509414099999997,
+    "longitude": 79.1331685,
+    "place_id": "ChIJXSPg5vAzCDkR-b0CpOXtfvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSPg5vAzCDkR-b0CpOXtfvY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:20:55"
+  },
+  {
+    "business_name": "Pahadi Resort chopta",
+    "search_category": "Spa",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Cottage, Home Stay, Resort hotel, Restaurant",
+    "pincode": "246469",
+    "phone_number": "+91 97569 97985",
+    "website": "https://www.pahadiresort.com/",
+    "rating": 4.9,
+    "reviews_count": 95,
+    "address": "Tala Barangali, Motor Road, near Tala Village, Ukhimath, Ushara, Chopta, Uttarakhand 246469",
+    "area": "Ukhimath",
+    "latitude": 30.5070801,
+    "longitude": 79.15970279999999,
+    "place_id": "ChIJud9Rl-0zCDkRLcWtIvZtmOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJud9Rl-0zCDkRLcWtIvZtmOQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:20:55"
+  }
+]

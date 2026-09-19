@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dwarika Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246483",
+    "phone_number": "+91 92863 04355",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8 Number F, Shiv Mandir Gali, Uttarakhand 248197",
+    "area": "246483",
+    "latitude": 30.393083899999997,
+    "longitude": 77.80727619999999,
+    "place_id": "ChIJfaQpHyUpDzkRmbUjq2jIsfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaQpHyUpDzkRmbUjq2jIsfw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:47"
+  },
+  {
+    "business_name": "Daily Needs Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246483",
+    "phone_number": "+91 75002 24444",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop no. 66, near उत्तराखंड ग्रामीण बैंक, Tyagi Market, Prem Nagar, Dehradun, Shahpur Santore, Uttarakhand 248007",
+    "area": "Tyagi Market, Prem Nagar",
+    "latitude": 30.336113599999997,
+    "longitude": 77.96183359999999,
+    "place_id": "ChIJ-dOeTnMrCTkR939Zq5k7Lvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dOeTnMrCTkR939Zq5k7Lvw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:47"
+  }
+]

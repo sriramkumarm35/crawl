@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayani Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing supplier",
+    "pincode": "246445",
+    "phone_number": "+91 80766 02683",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mahavir Bazar, 4676/20, Cloth Market, Katra Ghel, Khari Baoli, Chandni Chowk, Delhi, 110006",
+    "area": "Cloth Market, Katra Ghel, Khari Baoli, Chandni Chowk",
+    "latitude": 28.659721299999998,
+    "longitude": 77.2226627,
+    "place_id": "ChIJ76zWxA39DDkR-ry0jasjIrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76zWxA39DDkR-ry0jasjIrg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:09:57"
+  },
+  {
+    "business_name": "THE HANDLOOM SHOP",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "246445",
+    "phone_number": "+91 11 4367 8301",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 61,
+    "address": "34, Pocket 5, Pratap Nagar, Mayur Vihar, New Delhi, Delhi, 110091",
+    "area": "Pocket 5, Pratap Nagar, Mayur Vihar",
+    "latitude": 28.606917199999998,
+    "longitude": 77.2946505,
+    "place_id": "ChIJBW8vbJjkDDkRft7kx7_FGu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBW8vbJjkDDkRft7kx7_FGu4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:09:58"
+  }
+]

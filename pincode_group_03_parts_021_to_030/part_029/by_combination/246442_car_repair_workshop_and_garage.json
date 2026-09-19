@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246442",
+    "phone_number": "+91 83938 57302",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kedarnath Rd, near TVs Showroom, Silli Sera, Agastmuni, Uttarakhand 246421",
+    "area": "246442",
+    "latitude": 30.388465999999998,
+    "longitude": 79.01847599999999,
+    "place_id": "ChIJ7cujunC1CTkRJR2pIcI9cfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cujunC1CTkRJR2pIcI9cfU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:05:00"
+  },
+  {
+    "business_name": "DELHI CAR WORKSHOP",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "246442",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Parasi, Uttar Pradesh 231224",
+    "area": "246442",
+    "latitude": 24.189638,
+    "longitude": 82.77161869999999,
+    "place_id": "ChIJS21gYgwljzkRArdOmEcNgRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS21gYgwljzkRArdOmEcNgRE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:05:03"
+  }
+]

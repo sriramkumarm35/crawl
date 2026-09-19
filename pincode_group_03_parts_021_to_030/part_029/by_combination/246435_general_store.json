@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246435",
+    "phone_number": "+91 81713 93966",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Gwaldam State, Gwaldam, Uttarakhand 263635",
+    "area": "246435",
+    "latitude": 30.0033505,
+    "longitude": 79.5700677,
+    "place_id": "ChIJGSGlcwBFpzkRqYXC8JgEtYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSGlcwBFpzkRqYXC8JgEtYU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:57:32"
+  },
+  {
+    "business_name": "##$$ Negi General Store bharat laalaa",
+    "search_category": "General Store",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "246435",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "7HX8+6RM, Sink Chak Savri, Uttarakhand 246435",
+    "area": "246435",
+    "latitude": 30.298122199999998,
+    "longitude": 79.5669921,
+    "place_id": "ChIJ1ymIGQBxpzkR7qseKQ9a0Hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ymIGQBxpzkR7qseKQ9a0Hc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:57:34"
+  }
+]

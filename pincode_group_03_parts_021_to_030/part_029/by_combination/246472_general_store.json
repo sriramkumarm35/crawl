@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246472",
+    "phone_number": "+91 70551 19793",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "00, Gsm Road, New Delhi, Chamoli Gopeshwar, Delhi 110059",
+    "area": "246472",
+    "latitude": 30.4076597,
+    "longitude": 79.3607698,
+    "place_id": "ChIJP8ZtzvbVCTkRHz6GtdvQyGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8ZtzvbVCTkRHz6GtdvQyGQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:23:29"
+  },
+  {
+    "business_name": "Dimari General Store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "246472",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CCMH+R7P, Pipalkoti, Uttarakhand 246472",
+    "area": "246472",
+    "latitude": 30.434597399999998,
+    "longitude": 79.4281998,
+    "place_id": "ChIJZRt9Bwl_pzkR6Dv4RVQ4rJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRt9Bwl_pzkR6Dv4RVQ4rJE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:23:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fankar hair dresser",
+    "search_category": "Spa",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "246455",
+    "phone_number": "+91 78952 95498",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Almora-Bageshwar-Gopeshwar Rd, Dungari, Uttarakhand 246455",
+    "area": "246455",
+    "latitude": 30.1465876,
+    "longitude": 79.3746506,
+    "place_id": "ChIJlXv5THnfCTkRblO74xX4k1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXv5THnfCTkRblO74xX4k1U",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:11"
+  },
+  {
+    "business_name": "Rose berry spa & wellness",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "246455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "new market. Kulri, 71/1, Mall Rd, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.455720999999997,
+    "longitude": 78.07994,
+    "place_id": "ChIJbwkZMPDRCDkRkciOnOoPy9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwkZMPDRCDkRkciOnOoPy9Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:13"
+  }
+]

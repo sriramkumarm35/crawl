@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swati Snacks",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Gujarati restaurant, Maharashtrian Restaurant, Rajasthani Restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "246448",
+    "phone_number": "+91 22 4939 4999",
+    "website": "http://www.swatisnacks.com/",
+    "rating": 4.4,
+    "reviews_count": 4625,
+    "address": "Dalamal Tower, Free Press Journal Marg, Nariman Point, Mumbai, Maharashtra 400021",
+    "area": "Nariman Point",
+    "latitude": 18.924450699999998,
+    "longitude": 72.8245618,
+    "place_id": "ChIJSYXs0uvR5zsRwOv3AozYrZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYXs0uvR5zsRwOv3AozYrZs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:13:20"
+  },
+  {
+    "business_name": "Amritsari Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Indian restaurant, Restaurant",
+    "pincode": "246448",
+    "phone_number": "+91 22 2422 0066",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 788,
+    "address": "shop no.4,Nutan JAI bahart bldg, Prabhadevi,behind Siddhivinayak temple,opp.silver apt., dadar, Mumbai, Maharashtra 400028",
+    "area": "Prabhadevi",
+    "latitude": 19.015294,
+    "longitude": 72.8321717,
+    "place_id": "ChIJkXZzDcHO5zsRCkNO8nWVJeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXZzDcHO5zsRCkNO8nWVJeM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:13:21"
+  }
+]

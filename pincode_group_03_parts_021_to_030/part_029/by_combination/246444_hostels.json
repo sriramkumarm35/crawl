@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A Star Home Stay",
+    "search_category": "Hostels",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "246444",
+    "phone_number": "+91 72486 76713",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kaleshwar, Karnaprayag, Uttarakhand 246444",
+    "area": "246444",
+    "latitude": 30.280969,
+    "longitude": 79.24593469999999,
+    "place_id": "ChIJlzpqYwDRCTkRmZRUh-aLrBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzpqYwDRCTkRmZRUh-aLrBA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:54"
+  },
+  {
+    "business_name": "Hotel Ayanshika",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "246444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "78R2+VPH, Umrakot Urf Baidanu, Uttarakhand 246446",
+    "area": "246444",
+    "latitude": 30.29227,
+    "longitude": 79.3018168,
+    "place_id": "ChIJf354CADXCTkRfFpBQj-j938",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf354CADXCTkRfFpBQj-j938",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:54"
+  }
+]

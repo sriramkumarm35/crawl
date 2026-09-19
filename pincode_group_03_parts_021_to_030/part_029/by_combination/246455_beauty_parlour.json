@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Eyebrow bar, Eyelash salon, Hair removal service, Make-up artist, Nail salon, Tanning salon",
+    "pincode": "246455",
+    "phone_number": "+91 75490 17450",
+    "website": "https://www.instagram.com/ruchitomar01?igsh=MWQxcnRuc2t3Z2h4dw==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Opposite, Gali Number 4, Indra Colony, Singh Colony, Rudrapur, Uttarakhand 263153",
+    "area": "Indra Colony, Singh Colony",
+    "latitude": 28.982917399999998,
+    "longitude": 79.389489,
+    "place_id": "ChIJpcbMFFt_oDkRN9HllRq6fqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcbMFFt_oDkRN9HllRq6fqw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:11"
+  },
+  {
+    "business_name": "Amara - Spa & Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Spa, Wellness center",
+    "pincode": "246455",
+    "phone_number": "+91 135 716 5010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LP Vilas, Chakrata Rd, Nanda Ki Chowki, Dehradun, Sudhowala, Uttarakhand 248015",
+    "area": "Nanda Ki Chowki",
+    "latitude": 30.345032,
+    "longitude": 77.9463981,
+    "place_id": "ChIJm7xtcFfVCDkR1Qw558BC_dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7xtcFfVCDkR1Qw558BC_dQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:11"
+  }
+]

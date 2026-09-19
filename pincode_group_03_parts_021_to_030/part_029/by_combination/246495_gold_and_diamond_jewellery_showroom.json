@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kothari Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "246495",
+    "phone_number": "+91 761 401 7255",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 411,
+    "address": "Kingsway, 44-46, Sadar Main Rd, Cantt, Jabalpur, Madhya Pradesh 482001",
+    "area": "Cantt",
+    "latitude": 23.1544964,
+    "longitude": 79.946471,
+    "place_id": "ChIJPV9vRd-tgTkRFFhapZfQgJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPV9vRd-tgTkRFFhapZfQgJ8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:41:06"
+  },
+  {
+    "business_name": "Khazana Jewellery - Visakhapatnam - Gajuwaka",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Goldsmith, Jeweler, Silversmith",
+    "pincode": "246495",
+    "phone_number": "+91 89125 73900",
+    "website": "http://www.khazanajewellery.com/store-locator?storeId=Gajuwaka-GAJ",
+    "rating": 4.8,
+    "reviews_count": 10682,
+    "address": "Door No.9, 7-277, GNT Rd, Gajuwaka, Andhra Pradesh 530026",
+    "area": "Gajuwaka",
+    "latitude": 17.6858805,
+    "longitude": 83.2095223,
+    "place_id": "ChIJJVFzuqlpOToRxSiUagf9g20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVFzuqlpOToRxSiUagf9g20",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:41:07"
+  }
+]

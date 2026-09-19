@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hosteller Lansdowne",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "246446",
+    "phone_number": "+91 98101 87717",
+    "website": "https://www.thehosteller.com/hostels/the-hosteller-lansdowne/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Nature's Aura Hotel and Resort, Village Odal, Jaiharikhal,Tehsil, Lansdowne, Uttarakhand 246155",
+    "area": "246446",
+    "latitude": 29.877648699999998,
+    "longitude": 78.665337,
+    "place_id": "ChIJn3DzRnidCTkRVb0Rm6WByu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3DzRnidCTkRVb0Rm6WByu8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:12:24"
+  },
+  {
+    "business_name": "Tiny Spot Hostel Rishikesh",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "246446",
+    "phone_number": "+91 98113 37723",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tiny Spot Hostel, Laxman Jhula Rd, Lower, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Lower, Tapovan",
+    "latitude": 30.1291689,
+    "longitude": 78.32690629999999,
+    "place_id": "ChIJ62JhUr0XCTkRf8xVidpFRDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62JhUr0XCTkRf8xVidpFRDw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:12:24"
+  }
+]

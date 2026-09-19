@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, ATM, Business banking service, Car finance and loan company, Financial institution, Bank, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "246472",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/uttarakhand/chamoli/hdfcbank-branch-chamoligopeshwar",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ground Floor, near IndianOil, Gopeshwar, Uttarakhand 246401",
+    "area": "246472",
+    "latitude": 30.412184399999997,
+    "longitude": 79.319086,
+    "place_id": "ChIJvx2V8fTVCTkRQsFmQFZUdqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvx2V8fTVCTkRQsFmQFZUdqg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:42"
+  },
+  {
+    "business_name": "Star Health Insurance Office",
+    "search_category": "Insurance Agent",
+    "primary_category": "Health insurance agency",
+    "all_categories": "Health insurance agency",
+    "pincode": "246472",
+    "phone_number": "+91 70176 22635",
+    "website": "https://www.starhealth.in/",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "87CC+WF3, Kandhla, Uttar Pradesh 247775",
+    "area": "246472",
+    "latitude": 29.3222635,
+    "longitude": 77.2711587,
+    "place_id": "ChIJu33pbDEyDDkR_ICiFTfTKXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu33pbDEyDDkR_ICiFTfTKXE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:43"
+  }
+]

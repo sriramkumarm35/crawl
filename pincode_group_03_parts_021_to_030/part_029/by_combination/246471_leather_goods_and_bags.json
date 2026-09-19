@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leatherano",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "246471",
+    "phone_number": "+91 99187 78917",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "24 ,AMINABAD PARK, no 24, Aminabad Rd, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Mohan Market, Swadeshi Market, Aminabad",
+    "latitude": 26.84638,
+    "longitude": 80.92806279999999,
+    "place_id": "ChIJa29WSrf9mzkRoYirwbgS7Bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa29WSrf9mzkRoYirwbgS7Bw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:02"
+  },
+  {
+    "business_name": "Lucky Purse Corner",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "246471",
+    "phone_number": "+91 98390 31646",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Mumtaz Market, R.k. Park, B-35 to 37, New, Pratap Market Rd, Pratap Market, Kamla Market, Swadeshi Market, Aminabad, Lucknow, Uttar Pradesh 226018",
+    "area": "Pratap Market, Kamla Market, Swadeshi Market, Aminabad",
+    "latitude": 26.845723999999997,
+    "longitude": 80.92543309999999,
+    "place_id": "ChIJY_giW7f9mzkRWxdgV0vR11c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_giW7f9mzkRWxdgV0vR11c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:02"
+  }
+]

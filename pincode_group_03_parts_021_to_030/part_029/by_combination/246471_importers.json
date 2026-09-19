@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ganesh general store",
+    "search_category": "Importers",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "246471",
+    "phone_number": "+91 91932 50053",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kedarnath Rd, near pahadi boy, main market, Sonprayag, Uttarakhand 246471",
+    "area": "main market",
+    "latitude": 30.6328447,
+    "longitude": 78.9992719,
+    "place_id": "ChIJ7Vl56yNHCDkRgyIgSLA4Rtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Vl56yNHCDkRgyIgSLA4Rtk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:23:15"
+  },
+  {
+    "business_name": "Kundal pani",
+    "search_category": "Importers",
+    "primary_category": "Water Filter Supplier",
+    "all_categories": "Water Filter Supplier",
+    "pincode": "246471",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H27H+RP4, Phata, Uttarakhand 246471",
+    "area": "246471",
+    "latitude": 30.5645232,
+    "longitude": 79.0293263,
+    "place_id": "ChIJ4WC_ZAA3CDkRlKqyUhRB4WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WC_ZAA3CDkRlKqyUhRB4WA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:23:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Auto Service Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "246495",
+    "phone_number": "+91 90098 58037",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "66JC+2J9, near by Power House, River View colony, Morar, Gwalior, Madhya Pradesh 474006",
+    "area": "River View colony, Morar",
+    "latitude": 26.230037,
+    "longitude": 78.2215949,
+    "place_id": "ChIJX3akBEPBdjkRkiEF_dLpI6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3akBEPBdjkRkiEF_dLpI6c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:41:24"
+  },
+  {
+    "business_name": "Walia Auto Repair",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246495",
+    "phone_number": "+91 98931 05977",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 58,
+    "address": "6689+RG2, Near Vesant Hospital, Narmada Colony, Morar, Gwalior, Madhya Pradesh 474006",
+    "area": "Narmada Colony, Morar",
+    "latitude": 26.217014499999998,
+    "longitude": 78.21877429999999,
+    "place_id": "ChIJf9Q1S1_BdjkRtMCGFtc16v8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9Q1S1_BdjkRtMCGFtc16v8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:41:24"
+  }
+]

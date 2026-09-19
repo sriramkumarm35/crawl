@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ardee Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "246448",
+    "phone_number": "+91 124 280 6543",
+    "website": "http://www.ardeemall.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ardee City, Sector 52, Gurugram, Haryana 122003",
+    "area": "Ardee City, Sector 52",
+    "latitude": 28.4450079,
+    "longitude": 77.0807773,
+    "place_id": "ChIJm_2FFL4YDTkRwkdhsNKZ_K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_2FFL4YDTkRwkdhsNKZ_K0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:14:49"
+  },
+  {
+    "business_name": "Aradhyam Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "246448",
+    "phone_number": "+91 99995 37800",
+    "website": "http://www.aradhyam.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shalimar City, Shalimar City Rd, Ashok Vatika, Sahibabad, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Ashok Vatika, Sahibabad",
+    "latitude": 28.6943007,
+    "longitude": 77.3425285,
+    "place_id": "ChIJEesIu-r7DDkRhatjQEdtGWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEesIu-r7DDkRhatjQEdtGWs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:14:49"
+  }
+]

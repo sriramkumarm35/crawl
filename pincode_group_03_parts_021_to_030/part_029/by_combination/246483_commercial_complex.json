@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AVS City Palace",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "246483",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 480,
+    "address": "Khasra No. 1091, Village 45 Meter Road, Noor Nagar, Raj Nagar Extension, Ghaziabad, Uttar Pradesh 201003",
+    "area": "Noor Nagar, Raj Nagar Extension",
+    "latitude": 28.7050022,
+    "longitude": 77.4278621,
+    "place_id": "ChIJJQhLIdzxDDkRFgk4-3blU2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQhLIdzxDDkRFgk4-3blU2Q",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:28"
+  },
+  {
+    "business_name": "Plots for Sale in Dehradun",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "246483",
+    "phone_number": "N/A",
+    "website": "https://dehradunplotsale.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dakra Rd, Sanjay Vihar, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Sanjay Vihar, Garhi Cantt",
+    "latitude": 30.354410299999998,
+    "longitude": 78.0301094,
+    "place_id": "ChIJsQKwNjYjvQQRxBdAIs265NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQKwNjYjvQQRxBdAIs265NQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:29"
+  }
+]

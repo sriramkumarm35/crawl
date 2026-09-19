@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tempo Transport Co.",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "246439",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Tempo Transport Service, Block, New, D Block, East of Kailash, New Delhi, Delhi 110065",
+    "area": "D Block, East of Kailash",
+    "latitude": 28.557333,
+    "longitude": 77.24840619999999,
+    "place_id": "ChIJq38p2MnjDDkRpoRCR26xCbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq38p2MnjDDkRpoRCR26xCbs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:59:57"
+  },
+  {
+    "business_name": "Mini truck rental",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "246439",
+    "phone_number": "+91 89043 93755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "II, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "HAL 2nd Stage, Doopanahalli, Indiranagar",
+    "latitude": 12.9696768,
+    "longitude": 77.6410432,
+    "place_id": "ChIJs9gi9KcWrjsRAAAA0Lu_0Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9gi9KcWrjsRAAAA0Lu_0Ac",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:59:57"
+  }
+]

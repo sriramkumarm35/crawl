@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarogya Kendram",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "246721",
+    "phone_number": "+91 97565 38546",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Noorpur - Dhampur Rd, Jaitra, Uttar Pradesh 246761",
+    "area": "246721",
+    "latitude": 29.2982689,
+    "longitude": 78.503402,
+    "place_id": "ChIJfWDR2CvJCzkRJh8zm8uKSK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWDR2CvJCzkRJh8zm8uKSK0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:44:43"
+  },
+  {
+    "business_name": "Life Care Surgical And Medical Centre",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "246721",
+    "phone_number": "+91 95485 62332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "Udaipur",
+    "latitude": 29.3049386,
+    "longitude": 78.5112408,
+    "place_id": "ChIJLU9dUtbJCzkRjsbbSiknEHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLU9dUtbJCzkRjsbbSiknEHA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:44:44"
+  }
+]

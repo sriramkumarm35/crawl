@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trudent International",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental supply store",
+    "all_categories": "Dental supply store, Supplier, Importer, Manufacturer",
+    "pincode": "246442",
+    "phone_number": "+91 97114 11010",
+    "website": "https://panamaorthodontics.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1392-1393, Sitaram Bazar Rd, Old Delhi, Guliyan, Chandni Chowk, New Delhi, Delhi, 110006",
+    "area": "Old Delhi, Guliyan, Chandni Chowk",
+    "latitude": 28.652721099999997,
+    "longitude": 77.2333427,
+    "place_id": "ChIJGThiWxn9DDkRTsjkDsOM6kY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGThiWxn9DDkRTsjkDsOM6kY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:04:55"
+  },
+  {
+    "business_name": "Mandakini Oro Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "246442",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "92RG+V8G, Vijay Nagar, Agastmuni, Uttarakhand 246421",
+    "area": "Vijay Nagar",
+    "latitude": 30.392183,
+    "longitude": 79.025826,
+    "place_id": "ChIJAQAAwIbKCTkRxhxoPflZsH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwIbKCTkRxhxoPflZsH4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:04:55"
+  }
+]

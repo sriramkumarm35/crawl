@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jumma",
+    "search_category": "Exporters",
+    "primary_category": "Petrol Pump",
+    "all_categories": "Petrol Pump",
+    "pincode": "246483",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 107B, Kaga Laga Dronagiri, Uttarakhand 246483",
+    "area": "246483",
+    "latitude": 30.605378599999998,
+    "longitude": 79.8065842,
+    "place_id": "ChIJ722ZDQCjpzkRsJRDDRPkApc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ722ZDQCjpzkRsJRDDRPkApc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:21"
+  },
+  {
+    "business_name": "Jesvil Corporation",
+    "search_category": "Exporters",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "246483",
+    "phone_number": "+91 96339 99904",
+    "website": "https://jesvil.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P.O, No:13/17, Cheriyapullingal, Puthankada Neyyattinkara, Thirupuram, Keralam 695133",
+    "area": "Puthankada",
+    "latitude": 8.3592706,
+    "longitude": 77.07244469999999,
+    "place_id": "ChIJ9TBhEUyvBTsRFhNsKirIfV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TBhEUyvBTsRFhNsKirIfV0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:21"
+  }
+]

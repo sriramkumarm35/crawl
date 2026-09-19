@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nanda Heritage Home Homestay",
+    "search_category": "Yoga Center",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "246435",
+    "phone_number": "+91 90150 59703",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kurur Raulipar, Via, Ghat, Uttarakhand 246435",
+    "area": "246435",
+    "latitude": 30.2770092,
+    "longitude": 79.44085559999999,
+    "place_id": "ChIJ5coEAIJjpzkRuAZAqyQPKMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5coEAIJjpzkRuAZAqyQPKMs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:58:00"
+  },
+  {
+    "business_name": "Nirvana Yoga School",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "246435",
+    "phone_number": "+91 82185 64835",
+    "website": "https://www.nirvanayogaschoolindia.com/",
+    "rating": 4.9,
+    "reviews_count": 320,
+    "address": "Secret Waterfall Rd, near Stonewood Hotel, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1346711,
+    "longitude": 78.3175387,
+    "place_id": "ChIJwb0mawgXCTkRPOnJacGoUys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwb0mawgXCTkRPOnJacGoUys",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:58:02"
+  }
+]

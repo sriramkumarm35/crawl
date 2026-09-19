@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sree Nanjundeswara Department Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246482",
+    "phone_number": "+91 80 2337 3278",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "No.101, 1, 1st Main Rd, Kamla Nehru. Extension, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "Kamla Nehru. Extension, Yeswanthpur",
+    "latitude": 13.0241774,
+    "longitude": 77.5573398,
+    "place_id": "ChIJUZ5cbGs9rjsRpGZxVqCogJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZ5cbGs9rjsRpGZxVqCogJ0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:32:00"
+  },
+  {
+    "business_name": "Neethi Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246482",
+    "phone_number": "+91 80 2358 1652",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2nd Cross, Magadi Main Road, Anjananagar, Vishwaneedam, Anjana Nagar, Byadarahalli, Bengaluru, Karnataka 560091",
+    "area": "Anjana Nagar, Byadarahalli",
+    "latitude": 12.9858747,
+    "longitude": 77.4880163,
+    "place_id": "ChIJhzYffHQ8rjsRvZoSQFqtxfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzYffHQ8rjsRvZoSQFqtxfk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:32:00"
+  }
+]

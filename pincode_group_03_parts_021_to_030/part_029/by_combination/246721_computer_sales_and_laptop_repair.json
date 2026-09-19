@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect Compterz",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "246721",
+    "phone_number": "+91 97609 46377",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bijnor - Moradabad Rd, Noorpur, Uttar Pradesh 246734",
+    "area": "246721",
+    "latitude": 29.1455518,
+    "longitude": 78.4162863,
+    "place_id": "ChIJc0-zSQC7CzkRQPWdxqwgDbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0-zSQC7CzkRQPWdxqwgDbM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:36"
+  },
+  {
+    "business_name": "Gayatri Computer & Laptop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store, Computer Wholesaler",
+    "pincode": "246721",
+    "phone_number": "+91 90588 30614",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near DEEP SRAJAN SCHOOL, State Bank Colony, Udaipur, Dhampur, Uttar Pradesh 246761",
+    "area": "State Bank Colony, Udaipur",
+    "latitude": 29.304877599999998,
+    "longitude": 78.5129828,
+    "place_id": "ChIJixi3l-7JCzkRABMfDq1xzmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixi3l-7JCzkRABMfDq1xzmA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:37"
+  }
+]

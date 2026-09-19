@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Chatpati",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "246449",
+    "phone_number": "+91 98974 08044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "177/13, Abu Ln, Bombay Bazar, Meerut Cantt, Meerut, Uttar Pradesh 250001",
+    "area": "Bombay Bazar, Meerut Cantt",
+    "latitude": 28.9984137,
+    "longitude": 77.7005446,
+    "place_id": "ChIJNZb54dNlDDkR1HqUlRpiRxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZb54dNlDDkR1HqUlRpiRxY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:15:04"
+  },
+  {
+    "business_name": "Bhole Shankar Kachodi Wale (India pvt. ltd.)",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "246449",
+    "phone_number": "+91 98111 73786",
+    "website": "https://bholashankarkachodiwaleindiaprivatelimited.com/",
+    "rating": 4.2,
+    "reviews_count": 2375,
+    "address": "gate no.2, metro station, 461, near civil hospital, छोटा बाजार, Chotta Bazar, Kasturba Nagar, Shahdara, Delhi, 110032",
+    "area": "छोटा बाजार, Chotta Bazar, Kasturba Nagar, Shahdara",
+    "latitude": 28.6718776,
+    "longitude": 77.29145729999999,
+    "place_id": "ChIJI3gbHX_7DDkR4EJ5gQ6c6Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3gbHX_7DDkR4EJ5gQ6c6Dw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:15:05"
+  }
+]

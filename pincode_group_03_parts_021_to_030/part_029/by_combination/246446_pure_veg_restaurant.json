@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JOSHI MOMOS",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246446",
+    "phone_number": "+91 78301 70844",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gopeshwar Mandal Ukhimath Rd, Gopeshwar, Uttarakhand 246401",
+    "area": "246446",
+    "latitude": 30.408992899999998,
+    "longitude": 79.3175515,
+    "place_id": "ChIJeVa_ya7VCTkRa7BXC2RG7Vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVa_ya7VCTkRa7BXC2RG7Vw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:11:29"
+  },
+  {
+    "business_name": "Hotel Shubh Yatra",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "246446",
+    "phone_number": "+91 89793 09442",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 7, Sonla, Uttaraun, Uttarakhand 246446",
+    "area": "246446",
+    "latitude": 30.320311699999998,
+    "longitude": 79.3050657,
+    "place_id": "ChIJMyCw-fXXCTkRIGcnHsz0OWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyCw-fXXCTkRIGcnHsz0OWs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:11:32"
+  }
+]

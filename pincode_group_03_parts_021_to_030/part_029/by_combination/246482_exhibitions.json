@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kolkata Centre for Creativity (KCC)",
+    "search_category": "Exhibitions",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Art center",
+    "pincode": "246482",
+    "phone_number": "+91 33 6623 2300",
+    "website": "https://www.kolkatacentreforcreativity.org/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Dipak Road, Eastern Metropolitan Bypass, Anandapur, Adarsha Nagar, Kolkata, West Bengal 700107",
+    "area": "Anandapur, Adarsha Nagar",
+    "latitude": 22.5219503,
+    "longitude": 88.4008831,
+    "place_id": "ChIJ3UXjGap2AjoRfBzJsSv_JZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UXjGap2AjoRfBzJsSv_JZU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:36"
+  },
+  {
+    "business_name": "Interior Today Exhibition pvt. ltd",
+    "search_category": "Exhibitions",
+    "primary_category": "Trade fair construction company",
+    "all_categories": "Trade fair construction company",
+    "pincode": "246482",
+    "phone_number": "+91 98997 71903",
+    "website": "https://interiortoday.in/",
+    "rating": 4.6,
+    "reviews_count": 44,
+    "address": "3rd Floor, G-282, G Block, Sector 63, Noida, Chotpur, Uttar Pradesh 201301",
+    "area": "G Block, Sector 63",
+    "latitude": 28.6145391,
+    "longitude": 77.39098589999999,
+    "place_id": "ChIJR3SE7JfkDDkRqFcbvQNg6iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3SE7JfkDDkRqFcbvQNg6iU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahid Plumbing Service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "246431",
+    "phone_number": "+91 90278 61282",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Janta Pipe Store, Filmistan Road, Khair Nagar, Meerut, Uttar Pradesh 250002",
+    "area": "Khair Nagar",
+    "latitude": 28.982226299999997,
+    "longitude": 77.7038397,
+    "place_id": "ChIJ5Yh_U_dlDDkRUB0yb3pK1go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Yh_U_dlDDkRUB0yb3pK1go",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:56:27"
+  },
+  {
+    "business_name": "Aqua Plumbings Pvt. Ltd.",
+    "search_category": "Plumber",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Plumbing supply store",
+    "pincode": "246431",
+    "phone_number": "+91 94127 27706",
+    "website": "http://www.plumberbathware.com/",
+    "rating": 4.6,
+    "reviews_count": 424,
+    "address": "GAUR UDYOG KENDRA, NH2, Sarai Azamabad, Mathura, Uttar Pradesh 281001",
+    "area": "Sarai Azamabad",
+    "latitude": 27.5302901,
+    "longitude": 77.6580343,
+    "place_id": "ChIJOS3dyItxczkRyRRGhrMzBt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOS3dyItxczkRyRRGhrMzBt4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:56:28"
+  }
+]

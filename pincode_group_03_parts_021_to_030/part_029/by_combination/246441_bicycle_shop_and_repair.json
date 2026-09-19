@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Cycle Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "246441",
+    "phone_number": "+91 99982 06242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "74XR+437, Vasna - Bhayli Main Rd, Ashwamegh Nagar, Saiyed Vasna, Vadodara, Gujarat 390007",
+    "area": "Ashwamegh Nagar, Saiyed Vasna",
+    "latitude": 22.2977942,
+    "longitude": 73.140186,
+    "place_id": "ChIJ4WHbVbPJXzkRnSBKGJVmWM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WHbVbPJXzkRnSBKGJVmWM0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:03:24"
+  },
+  {
+    "business_name": "Guru Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Fitness Equipment Wholesaler, Toy store",
+    "pincode": "246441",
+    "phone_number": "+91 98234 05676",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "Tilak Rd, Paithan Gate, Khokadpura, Banjara Colony, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Paithan Gate, Khokadpura, Banjara Colony",
+    "latitude": 19.8792893,
+    "longitude": 75.3290251,
+    "place_id": "ChIJi-zDhG2Y2zsRmXWHtl76aPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-zDhG2Y2zsRmXWHtl76aPA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:03:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandan Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "246486",
+    "phone_number": "+91 98376 80502",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "25, Kashipur Rd, Model Colony/ Bali Vihar, Dashmesh Nagar, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Model Colony/ Bali Vihar, Dashmesh Nagar",
+    "latitude": 28.974847099999998,
+    "longitude": 79.38501699999999,
+    "place_id": "ChIJUwlrvPR_oDkR4fYrdUNYK10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwlrvPR_oDkR4fYrdUNYK10",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:36:02"
+  },
+  {
+    "business_name": "Krishna Hospital & Research Centre",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, General hospital, Obstetrician-gynecologist, Neurosurgeon, Orthopedic surgeon",
+    "pincode": "246486",
+    "phone_number": "+91 5946 222 426",
+    "website": "http://krishnahospitalhaldwani.com/",
+    "rating": 3.6,
+    "reviews_count": 682,
+    "address": "6GHJ+MP2 Gurunanak Pura, 3-136, Thandi Sadak, Subhash Nagar, GuruNank Pura, Haldwani, Uttarakhand 263139",
+    "area": "Subhash Nagar, GuruNank Pura",
+    "latitude": 29.2290255,
+    "longitude": 79.5323293,
+    "place_id": "ChIJtTshiPGaoDkR3pnM5gK0LQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTshiPGaoDkR3pnM5gK0LQQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:36:03"
+  }
+]

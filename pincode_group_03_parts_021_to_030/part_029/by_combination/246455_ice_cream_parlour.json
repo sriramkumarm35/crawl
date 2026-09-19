@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vadilal ice cream center",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "246455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "4C93+4M4, Karanprayag Gwaldam Bageshwar Almora Nainital Rd, Nautha, Uttarakhand 246444",
+    "area": "246455",
+    "latitude": 30.1177532,
+    "longitude": 79.4042156,
+    "place_id": "ChIJ6yUcfgBhpzkR_miuW-RE-uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yUcfgBhpzkR_miuW-RE-uc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:31"
+  },
+  {
+    "business_name": "Shivam Ice Candy And Restaurant",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Ice supplier",
+    "pincode": "246455",
+    "phone_number": "+91 96699 91919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "16, Bashtand, Jharda, Madhya Pradesh 458553",
+    "area": "Bashtand",
+    "latitude": 24.3375553,
+    "longitude": 75.1045638,
+    "place_id": "ChIJ5yGSAP3RZTkRYsCFoTrrzk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yGSAP3RZTkRYsCFoTrrzk0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:32"
+  }
+]

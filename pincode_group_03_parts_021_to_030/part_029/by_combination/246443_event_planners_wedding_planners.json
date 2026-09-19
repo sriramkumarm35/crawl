@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divine Weddings - Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Party planner, Wedding service, Wedding store, Wedding venue",
+    "pincode": "246443",
+    "phone_number": "+91 96464 90007",
+    "website": "http://www.divineweddings.in/",
+    "rating": 4.5,
+    "reviews_count": 75,
+    "address": "Divine Weddings, SCO-52, near BiryanibyKillo, Gumtala Sub Urban, B - Block, Ranjit Avenue, Amritsar, Punjab 143001",
+    "area": "Gumtala Sub Urban, B - Block, Ranjit Avenue",
+    "latitude": 31.652011299999998,
+    "longitude": 74.8618578,
+    "place_id": "ChIJnzdRk1djGTkRy9YyiTIZchY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzdRk1djGTkRy9YyiTIZchY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:07:10"
+  },
+  {
+    "business_name": "Golden Sparrow Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Wedding photographer, Wedding service",
+    "pincode": "246443",
+    "phone_number": "+91 77174 17966",
+    "website": "https://goldensparrowevents.com/index.php",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "Farid Nager, Chheharta, Amritsar, Punjab 143105",
+    "area": "Chheharta",
+    "latitude": 31.644953299999997,
+    "longitude": 74.8127993,
+    "place_id": "ChIJV84z2k9lGTkRd1THfa__CWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV84z2k9lGTkRd1THfa__CWQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:07:12"
+  }
+]

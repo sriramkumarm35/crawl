@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "246472",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "C8H2+CH4, NH 107A, Bandwara, Gairgunth, Uttarakhand 246401",
+    "area": "246472",
+    "latitude": 30.4285003,
+    "longitude": 79.30144609999999,
+    "place_id": "ChIJnUIdA1_VCTkRAPJd9jUVLSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUIdA1_VCTkRAPJd9jUVLSo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:05"
+  },
+  {
+    "business_name": "Mountain Techpark",
+    "search_category": "Driving School",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "246472",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Joshimath block, Pakhi, Uttarakhand 246472",
+    "area": "Joshimath block",
+    "latitude": 30.462514799999997,
+    "longitude": 79.44459909999999,
+    "place_id": "ChIJbfh5Zi5_pzkRssPc1qF-nYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfh5Zi5_pzkRssPc1qF-nYE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stampwala",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "246472",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C879+3Q7, Kund Colony, Gopeshwar, Uttarakhand 246401",
+    "area": "Kund Colony",
+    "latitude": 30.4126527,
+    "longitude": 79.3194134,
+    "place_id": "ChIJZ-upTwDVCTkRwxlHygaTvDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-upTwDVCTkRwxlHygaTvDc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:37"
+  },
+  {
+    "business_name": "Aman Enterprises",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Cable company, Computer service, Wi-Fi spot, Internet service provider, Internet shop",
+    "pincode": "246472",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st floor, Vijay Complex, Main Market, Gopeshwar, Uttarakhand 246401",
+    "area": "246472",
+    "latitude": 30.4109084,
+    "longitude": 79.3172421,
+    "place_id": "ChIJoS8xuJ_VCTkRfhgQBwCnTEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoS8xuJ_VCTkRfhgQBwCnTEI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:39"
+  }
+]

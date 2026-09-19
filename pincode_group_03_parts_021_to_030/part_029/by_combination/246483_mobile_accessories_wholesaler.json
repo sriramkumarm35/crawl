@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "phones cafe",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "246483",
+    "phone_number": "+91 99366 90003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 149,
+    "address": "shop No 5, mini market, Bhabat Rd, Jarnail Enclave Phase 1, Utrathiya, Zirakpur, Punjab 140603",
+    "area": "Jarnail Enclave Phase 1, Utrathiya",
+    "latitude": 30.657956,
+    "longitude": 76.8178841,
+    "place_id": "ChIJq0EYKMXrDzkRDIU_leMqfc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0EYKMXrDzkRDIU_leMqfc0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:03"
+  },
+  {
+    "business_name": "Zdigi Das Sales",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store",
+    "pincode": "246483",
+    "phone_number": "+91 87892 41882",
+    "website": "http://zdigi.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rajhans Mansion, Karbala Rd, Bank More, Dhanbad, Jharkhand 826007",
+    "area": "Bank More",
+    "latitude": 23.786622599999998,
+    "longitude": 86.4176446,
+    "place_id": "ChIJ7fvQXDOj9jkRZmROBg3w0nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fvQXDOj9jkRZmROBg3w0nE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:05"
+  }
+]

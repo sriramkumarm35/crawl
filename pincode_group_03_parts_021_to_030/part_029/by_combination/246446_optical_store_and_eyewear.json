@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manas Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "246446",
+    "phone_number": "+91 94105 54312",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "behind Pnb Bank, Bhania Wala, Uttarakhand 248140",
+    "area": "246446",
+    "latitude": 30.186362499999998,
+    "longitude": 78.14804769999999,
+    "place_id": "ChIJjQdNUyQlCTkRTfDf3nYGw9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQdNUyQlCTkRTfDf3nYGw9w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:11:45"
+  },
+  {
+    "business_name": "Shades Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "246446",
+    "phone_number": "+91 98497 40504",
+    "website": "https://shades-opticals.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hitech City Main Rd, opposite Karachi Bakery, beside American Tourister Showroom, VIP Hills, Silicon Valley, Madhapur, Hyderabad, Telangana 500081",
+    "area": "VIP Hills, Silicon Valley, Madhapur",
+    "latitude": 17.445616299999998,
+    "longitude": 78.3860452,
+    "place_id": "ChIJM2xzdmCRyzsR9UoC72gHYTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2xzdmCRyzsR9UoC72gHYTc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:11:45"
+  }
+]

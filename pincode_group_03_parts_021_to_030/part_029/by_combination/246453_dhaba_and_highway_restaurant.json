@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "246453",
+    "phone_number": "+91 85306 10440",
+    "website": "http://zoma.to/r/18583057",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Marunji Rd, near laxmi cowk, Phase 1, Rajiv Gandhi Infotech Park, Hinjawadi, Pune, Maharashtra 411057",
+    "area": "Phase 1, Rajiv Gandhi Infotech Park",
+    "latitude": 18.5979283,
+    "longitude": 73.7345528,
+    "place_id": "ChIJuSFJLuS7wjsRRjQqJMwD6bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSFJLuS7wjsRRjQqJMwD6bg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:16:44"
+  },
+  {
+    "business_name": "U.P. Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba, Vegetarian restaurant",
+    "pincode": "246453",
+    "phone_number": "+91 98606 96909",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 352,
+    "address": "Padgha toll, Borivali Tarf Sonale, Maharashtra 421302",
+    "area": "246453",
+    "latitude": 19.3453153,
+    "longitude": 73.1356979,
+    "place_id": "ChIJhbf2o9SZ5zsR7LiJUxRrm7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbf2o9SZ5zsR7LiJUxRrm7M",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:16:45"
+  }
+]

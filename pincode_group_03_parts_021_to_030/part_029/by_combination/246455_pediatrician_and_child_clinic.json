@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor Alok Semwal",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "246455",
+    "phone_number": "+91 135 271 1200",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 96,
+    "address": "5, New Rd, Opp. MKP College, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.3192557,
+    "longitude": 78.0433572,
+    "place_id": "ChIJV6gRM74pCTkRYfByI3TZ0hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6gRM74pCTkRYfByI3TZ0hw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:45"
+  },
+  {
+    "business_name": "Semwal Child Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "246455",
+    "phone_number": "+91 75009 98181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5, New Rd, near Doon Hospital, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.319106899999998,
+    "longitude": 78.04347179999999,
+    "place_id": "ChIJq6oFNL4pCTkRdYi5pcri1eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oFNL4pCTkRdYi5pcri1eM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:45"
+  }
+]

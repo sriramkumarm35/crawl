@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalaa Designer Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "246474",
+    "phone_number": "+91 80759 52152",
+    "website": "https://kalaadesignerboutique.wordpress.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Chevayoor, Kozhikode, Keralam 673017",
+    "area": "Chevayoor",
+    "latitude": 11.270076399999999,
+    "longitude": 75.8253917,
+    "place_id": "ChIJlyd4wfVbpjsRHoXPl50NG1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyd4wfVbpjsRHoXPl50NG1I",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:27:13"
+  },
+  {
+    "business_name": "Look boutique (ladies tailor)",
+    "search_category": "Boutiques",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "246474",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7658+CQ9, Karnaprayag, Uttarakhand 246444",
+    "area": "246474",
+    "latitude": 30.258540399999998,
+    "longitude": 79.21697019999999,
+    "place_id": "ChIJJQ0BvAbbCTkRTwZ2I_tnbXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQ0BvAbbCTkRTwZ2I_tnbXQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:27:14"
+  }
+]

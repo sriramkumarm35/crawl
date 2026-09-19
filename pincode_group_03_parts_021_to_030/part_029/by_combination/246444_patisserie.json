@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bangwal Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "246444",
+    "phone_number": "+91 78955 78095",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 74,
+    "address": "GGIC Road, near Jain Mandir, Upper Bazar, Srinagar, Uttarakhand 246174",
+    "area": "Upper Bazar",
+    "latitude": 30.2235384,
+    "longitude": 78.7924384,
+    "place_id": "ChIJoe3h_nulCTkREBaRZfOXzVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoe3h_nulCTkREBaRZfOXzVo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:01"
+  },
+  {
+    "business_name": "NAINI CAKE'S & BAKERY SHOP",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "246444",
+    "phone_number": "+91 87502 26143",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "Naini Cakes, M B Inter college road, opposite to MB Inter college, Bhotia Parao, Haldwani, Uttarakhand 263139",
+    "area": "Bhotia Parao",
+    "latitude": 29.2304985,
+    "longitude": 79.5294919,
+    "place_id": "ChIJ4YzeD9iboDkRZUOHS_usjGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YzeD9iboDkRZUOHS_usjGI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Physiotherapy Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "246455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "HJX2+QJQ, Kasba Mariyahu, Uttar Pradesh 222161",
+    "area": "246455",
+    "latitude": 25.5994548,
+    "longitude": 82.60159589999999,
+    "place_id": "ChIJ053r-RIjkDkRa8as3L_Vf6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ053r-RIjkDkRa8as3L_Vf6c",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:17"
+  },
+  {
+    "business_name": "Life Care Physiotherapy & Rehabilitation Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center, Diagnostic center, Physiotherapist, Physiotherapy Center",
+    "pincode": "246455",
+    "phone_number": "+91 97137 39384",
+    "website": "https://lifecaresingrauli.in/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Infront of New Sabji Mandi, Nawanagar, Madhya Pradesh 486884",
+    "area": "246455",
+    "latitude": 24.0971662,
+    "longitude": 82.61266909999999,
+    "place_id": "ChIJe7zOqPs2jzkRT9ghXp7z-VA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7zOqPs2jzkRT9ghXp7z-VA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:19:17"
+  }
+]

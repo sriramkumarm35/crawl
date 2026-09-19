@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aamkar homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "246721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "F4PC+8WV, Mandawar, Uttar Pradesh 246721",
+    "area": "246721",
+    "latitude": 29.4858573,
+    "longitude": 78.1223121,
+    "place_id": "ChIJLUwxqSrlCzkRPvRqyraLUnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUwxqSrlCzkRPvRqyraLUnQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:46"
+  },
+  {
+    "business_name": "Himanshu pal homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "246721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H5XJ+FXV, Barkatpur, Uttar Pradesh 246723",
+    "area": "246721",
+    "latitude": 29.5987409,
+    "longitude": 78.1824303,
+    "place_id": "ChIJ39G6PgDjCzkR8G-0IcsEZoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39G6PgDjCzkR8G-0IcsEZoQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:48"
+  }
+]

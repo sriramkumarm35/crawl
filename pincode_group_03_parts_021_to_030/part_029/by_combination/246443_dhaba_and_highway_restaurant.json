@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "246443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "GGG5+993, NH 7, Hailang, Uttarakhand 246443",
+    "area": "246443",
+    "latitude": 30.525856899999997,
+    "longitude": 79.5084254,
+    "place_id": "ChIJfd74grqDpzkRuMCvOnAswmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfd74grqDpzkRuMCvOnAswmg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:20"
+  },
+  {
+    "business_name": "Rana Da Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "246443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "FC8P+QXQ, NH 7, Kimana, Uttarakhand 246472",
+    "area": "246443",
+    "latitude": 30.466962499999998,
+    "longitude": 79.43747429999999,
+    "place_id": "ChIJbYtCkFuBpzkRPyRk2tNHE24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYtCkFuBpzkRPyRk2tNHE24",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:21"
+  }
+]

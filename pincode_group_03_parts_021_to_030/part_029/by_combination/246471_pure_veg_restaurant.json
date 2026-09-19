@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Resort",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "246471",
+    "phone_number": "+91 90125 29797",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kedarnath Rd, Rampur, Uttarakhand 246471",
+    "area": "246471",
+    "latitude": 30.617464899999998,
+    "longitude": 79.01181919999999,
+    "place_id": "ChIJB1ZNpUFHCDkRzghOnG8soSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1ZNpUFHCDkRzghOnG8soSU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:21:52"
+  },
+  {
+    "business_name": "Valley View Hotel Chopta",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "246471",
+    "phone_number": "+91 80067 73042",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 33,
+    "address": "NH 107A, Chopta, Uttarakhand 246469",
+    "area": "Chopta",
+    "latitude": 30.487492999999997,
+    "longitude": 79.199473,
+    "place_id": "ChIJMWewEBEzCDkRFk0wyeCqp50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWewEBEzCDkRFk0wyeCqp50",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:21:54"
+  }
+]

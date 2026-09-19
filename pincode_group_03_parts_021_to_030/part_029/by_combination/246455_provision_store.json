@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinu daily needs",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "FQCM+H2G, Kotwali Bypass Rd, Bahadur Garh, Vikasnagar, Uttarakhand 248198",
+    "area": "Bahadur Garh",
+    "latitude": 30.471429599999997,
+    "longitude": 77.7825786,
+    "place_id": "ChIJi2JBjkovDzkRYfHxPVRihb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2JBjkovDzkRYfHxPVRihb0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:20"
+  },
+  {
+    "business_name": "Rawat General Store Tungeshwar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246455",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3G62+22F, Tungeshwar, Deorada, Uttarakhand 246482",
+    "area": "246455",
+    "latitude": 30.0600538,
+    "longitude": 79.5000536,
+    "place_id": "ChIJRyQ6DQBdpzkRnUWYlVRwuks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyQ6DQBdpzkRnUWYlVRwuks",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:18:21"
+  }
+]

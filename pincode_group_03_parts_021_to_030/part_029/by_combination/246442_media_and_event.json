@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDIA GROUP OFFICE",
+    "search_category": "Media and Event",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher",
+    "pincode": "246442",
+    "phone_number": "N/A",
+    "website": "http://www.mediagrouplive.com/",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Ring Rd, near Gurudwara, Awas Vikas, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Awas Vikas",
+    "latitude": 28.9833577,
+    "longitude": 79.4033953,
+    "place_id": "ChIJiUhte8J_oDkRQaQNr8IH6AY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUhte8J_oDkRQaQNr8IH6AY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:05:31"
+  },
+  {
+    "business_name": "Heart Beats Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "246442",
+    "phone_number": "+91 98374 46135",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near, Balaji Mandir Rd, Adarsh Colony, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Adarsh Colony",
+    "latitude": 28.978655999999997,
+    "longitude": 79.39250799999999,
+    "place_id": "ChIJtUKyNvl_oDkR94CkF-Li76s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUKyNvl_oDkR94CkF-Li76s",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:05:32"
+  }
+]

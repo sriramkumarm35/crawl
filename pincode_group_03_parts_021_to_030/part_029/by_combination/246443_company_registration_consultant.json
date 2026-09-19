@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Compliances",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "246443",
+    "phone_number": "+91 78275 06550",
+    "website": "https://indiacompliances.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "India Compliances, 246443, India",
+    "area": "246443",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ8f1TxnQFwyIRSd0isB67bdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8f1TxnQFwyIRSd0isB67bdE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:07:33"
+  },
+  {
+    "business_name": "TAX SURE SOLUTION",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "246443",
+    "phone_number": "+91 99589 28786",
+    "website": "https://www.taxsuresolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TAX SURE SOLUTION, 246443, India",
+    "area": "246443",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJCeXx8l812gAR46R1FTahSKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeXx8l812gAR46R1FTahSKQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:07:33"
+  }
+]

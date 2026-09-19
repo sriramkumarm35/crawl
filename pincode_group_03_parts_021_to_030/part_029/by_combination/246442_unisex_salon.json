@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Weather Luxury Salon & Academy",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Beauty school, Make-up artist, Nail salon, Skin care clinic, Hairdresser, Waxing hair removal service",
+    "pincode": "246442",
+    "phone_number": "+91 99300 03599",
+    "website": "https://www.instagram.com/weather_luxury_salon/",
+    "rating": 4.9,
+    "reviews_count": 434,
+    "address": "Shop 1st Floor, beside Doctor Nagrath, above JMD Garments, Raghav Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Raghav Nagar",
+    "latitude": 26.4978575,
+    "longitude": 83.77727279999999,
+    "place_id": "ChIJ7YbKjRzFkzkR6y6C1gUK7Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YbKjRzFkzkR6y6C1gUK7Js",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:05:21"
+  },
+  {
+    "business_name": "The Beauty Outlet",
+    "search_category": "Unisex Salon",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "246442",
+    "phone_number": "+91 88908 90351",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Punjab national bank Gali, Fatehnagar, Fatehnagar Sanwar, Rajasthan 313205",
+    "area": "246442",
+    "latitude": 24.8144951,
+    "longitude": 74.0960465,
+    "place_id": "ChIJ-VpwxJd5aDkR-rgo7EhqJk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VpwxJd5aDkR-rgo7EhqJk0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:05:22"
+  }
+]

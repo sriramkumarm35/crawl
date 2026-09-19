@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Worqi",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "246721",
+    "phone_number": "+91 92584 43374",
+    "website": "https://www.worqi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahashay G House, Old, meerut road, B-4, Bijnor, Uttar Pradesh 246701",
+    "area": "B-4",
+    "latitude": 29.359126099999997,
+    "longitude": 78.12799319999999,
+    "place_id": "ChIJlU6alpLvCzkR81Mz7XNa0o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlU6alpLvCzkR81Mz7XNa0o4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:54"
+  },
+  {
+    "business_name": "Shyam And Sons Enterprisess",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Used store fixture supplier",
+    "all_categories": "Used store fixture supplier, Agricultural cooperative",
+    "pincode": "246721",
+    "phone_number": "+91 76685 65701",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Addupur, Road, Bijnor, Uttar Pradesh 246701",
+    "area": "Adampur",
+    "latitude": 29.3938992,
+    "longitude": 78.1499422,
+    "place_id": "ChIJs3JJ0MzvCzkRM-gk06fwv10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3JJ0MzvCzkRM-gk06fwv10",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:55"
+  }
+]

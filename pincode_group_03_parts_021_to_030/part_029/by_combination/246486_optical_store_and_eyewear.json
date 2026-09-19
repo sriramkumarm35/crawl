@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SunGlasses OPTICAL",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "246486",
+    "phone_number": "+91 98878 81988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bakani, Jhalawar, Rajasthan 326001",
+    "area": "Bakani",
+    "latitude": 24.5906447,
+    "longitude": 76.1651102,
+    "place_id": "ChIJu7VSatg-ZTkR7a-r94-vmBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7VSatg-ZTkR7a-r94-vmBI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:52"
+  },
+  {
+    "business_name": "Ashish Opticals & Co.",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optometrist",
+    "all_categories": "Optometrist",
+    "pincode": "246486",
+    "phone_number": "+91 70178 83453",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Railway Station Road, near Doiwala, Chowk, Doiwala, Missar Wala Khurd, Uttarakhand 248140",
+    "area": "Chowk",
+    "latitude": 30.175776,
+    "longitude": 78.1236852,
+    "place_id": "ChIJkQrk2E0lCTkRrEl7LluxSbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQrk2E0lCTkRrEl7LluxSbM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:52"
+  }
+]

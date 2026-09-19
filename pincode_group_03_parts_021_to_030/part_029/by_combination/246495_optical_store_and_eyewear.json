@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheth Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Optometrist, Sunglasses store",
+    "pincode": "246495",
+    "phone_number": "+91 98242 30494",
+    "website": "http://www.shethopticals.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No 2,3, Sun Plaza Complex, Swastik Cross Rd, Swastik Society, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Swastik Society, Navrangpura",
+    "latitude": 23.037073,
+    "longitude": 72.560527,
+    "place_id": "ChIJD0AgZvOEXjkRj7qL-69LEKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0AgZvOEXjkRj7qL-69LEKw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:41:10"
+  },
+  {
+    "business_name": "Arihant Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Wholesaler",
+    "all_categories": "Optical Wholesaler",
+    "pincode": "246495",
+    "phone_number": "+91 80 4157 1285",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 165,
+    "address": "Balepete Main Road, 171, Rangaswamy Temple St, near Shree Digambar Simandhar Swami Samavsaran Jain Mandir, Bangalore:560053, Karnataka 560053",
+    "area": "Balepete, Chickpet",
+    "latitude": 12.9725485,
+    "longitude": 77.5757125,
+    "place_id": "ChIJFfGhLw8WrjsReHV6LGV7yRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfGhLw8WrjsReHV6LGV7yRE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:41:13"
+  }
+]

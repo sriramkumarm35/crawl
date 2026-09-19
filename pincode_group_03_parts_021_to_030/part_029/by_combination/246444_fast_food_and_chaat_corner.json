@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay fruit chaat bhandaar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Hawker stall",
+    "all_categories": "Hawker stall",
+    "pincode": "246444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sector 45, Block K, South City I, Sector 41, Gurugram, Haryana 122003",
+    "area": "Block K, South City I, Sector 41",
+    "latitude": 28.450656499999997,
+    "longitude": 77.0644117,
+    "place_id": "ChIJbbj-hlkZDTkRlAdW-4UJA1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbj-hlkZDTkRlAdW-4UJA1o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:06"
+  },
+  {
+    "business_name": "Radhey Chaat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Vegetarian restaurant",
+    "pincode": "246444",
+    "phone_number": "+91 81719 45690",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Chowk, Sotiganj, Meerut, Uttar Pradesh 250001",
+    "area": "Sotiganj",
+    "latitude": 28.9951416,
+    "longitude": 77.7052404,
+    "place_id": "ChIJ-8r9v_JlDDkR9RPAOUgx6cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8r9v_JlDDkR9RPAOUgx6cs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:06"
+  }
+]

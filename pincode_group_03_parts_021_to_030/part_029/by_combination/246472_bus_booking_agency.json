@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "246472",
+    "phone_number": "+91 95574 72756",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gopinath Mandir Marg, Gopeshwar, Uttarakhand 246401",
+    "area": "246472",
+    "latitude": 30.4125382,
+    "longitude": 79.3170664,
+    "place_id": "ChIJReopV2vVCTkR27MtbwUmBp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReopV2vVCTkR27MtbwUmBp8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:03"
+  },
+  {
+    "business_name": "NAVKAR JIJAJI TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency, Bus company, Bus ticket agency, Minibus taxi service",
+    "pincode": "246472",
+    "phone_number": "+91 94259 92777",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "Shop no. 3, private bus stand, Neemuch, Madhya Pradesh 458441",
+    "area": "246472",
+    "latitude": 24.4533485,
+    "longitude": 74.87258489999999,
+    "place_id": "ChIJtQPAtKxzZjkRzbXpwoGpSlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQPAtKxzZjkRzbXpwoGpSlU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:24:03"
+  }
+]

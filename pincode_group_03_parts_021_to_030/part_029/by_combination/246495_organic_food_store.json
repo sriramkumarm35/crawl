@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "F5 Organic Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "246495",
+    "phone_number": "+91 44 4266 0336",
+    "website": "https://www.f5store.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kannadasan St, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "T. Nagar",
+    "latitude": 13.037725,
+    "longitude": 80.23720709999999,
+    "place_id": "ChIJyXc2hFRmUjoROUxnZaW2PsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXc2hFRmUjoROUxnZaW2PsQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:51"
+  },
+  {
+    "business_name": "Terra Earthfood Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Supermarket",
+    "pincode": "246495",
+    "phone_number": "+91 95513 95522",
+    "website": "https://www.terraearthfood.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "No.39, Abhiramapuram 4th St, Vidhya Thirtha Nagar, Alwarpet, Chennai, Tamil Nadu 600018",
+    "area": "Vidhya Thirtha Nagar, Alwarpet",
+    "latitude": 13.0309701,
+    "longitude": 80.2546958,
+    "place_id": "ChIJ50SCCMpnUjoRsP6lT5TTa0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50SCCMpnUjoRsP6lT5TTa0w",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:51"
+  }
+]

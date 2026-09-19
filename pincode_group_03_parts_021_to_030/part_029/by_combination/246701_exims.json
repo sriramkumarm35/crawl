@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub Post Office",
+    "search_category": "EXIMS",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "246701",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "94HQ+333, Civil Lines, Bijnor, Uttar Pradesh 246701",
+    "area": "Bijnor",
+    "latitude": 29.377649199999997,
+    "longitude": 78.1376695,
+    "place_id": "ChIJ3zvPPkHuCzkRJobWu7ih9kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zvPPkHuCzkRJobWu7ih9kA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:44:07"
+  },
+  {
+    "business_name": "Tehsil sadar Bijnor",
+    "search_category": "EXIMS",
+    "primary_category": "Local government office",
+    "all_categories": "Local government office",
+    "pincode": "246701",
+    "phone_number": "+91 1342 262 019",
+    "website": "http://bijnor.nic.in/",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "address": "94QG+374, Aawas Vikas, Bijnor, Uttar Pradesh 246701",
+    "area": "Aawas Vikas",
+    "latitude": 29.3876277,
+    "longitude": 78.12569239999999,
+    "place_id": "ChIJ9yfScjHuCzkRfcIsOu7AiTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yfScjHuCzkRfcIsOu7AiTM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:44:07"
+  }
+]

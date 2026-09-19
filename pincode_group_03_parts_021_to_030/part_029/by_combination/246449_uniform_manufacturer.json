@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GABA ENTERPRISES",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Supplier, Uniform store",
+    "pincode": "246449",
+    "phone_number": "+91 97600 76001",
+    "website": "http://gabauniforms.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "SHREE RAM MARKET, near Rakesh Cinema, Kazipura, Saharanpur, Uttar Pradesh 247001",
+    "area": "Kazipura",
+    "latitude": 29.965588,
+    "longitude": 77.54987229999999,
+    "place_id": "ChIJHUzkmGXrDjkRlkD1f30VcFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUzkmGXrDjkRlkD1f30VcFM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:15:12"
+  },
+  {
+    "business_name": "Muskan Tailor",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Tailor",
+    "pincode": "246449",
+    "phone_number": "+91 90122 29840",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Market, Nandaprayag, Uttarakhand 246449",
+    "area": "246449",
+    "latitude": 30.3305285,
+    "longitude": 79.3200585,
+    "place_id": "ChIJI7H3iTHXCTkRh3OZcWI0TSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7H3iTHXCTkRh3OZcWI0TSs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:15:12"
+  }
+]

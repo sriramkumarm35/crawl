@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "246429",
+    "phone_number": "+91 94111 13887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "A-5, New Sabzi Mandi, Saharanpur Rd, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Niranjanpur",
+    "latitude": 30.305017099999997,
+    "longitude": 78.0105159,
+    "place_id": "ChIJHftbb8zXCDkR8JU15edsO4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHftbb8zXCDkR8JU15edsO4o",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:53:47"
+  },
+  {
+    "business_name": "Shiv Shakti Processed Foods Pvt ltd",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "246429",
+    "phone_number": "+91 75008 22222",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "WFV2+R82, village shimla pistaur,P.O. Lalpur,Kiccha Road, Rudrapur, Uttarakhand 263148",
+    "area": "246429",
+    "latitude": 28.9445005,
+    "longitude": 79.45077789999999,
+    "place_id": "ChIJtTHyYZJ-oDkRMMlboA9FwW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTHyYZJ-oDkRMMlboA9FwW0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:53:49"
+  }
+]

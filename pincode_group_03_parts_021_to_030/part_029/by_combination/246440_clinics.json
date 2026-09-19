@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic hospital dimmar",
+    "search_category": "Clinics",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "246440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "67H5+9FQ, sen, Dimar, Simli, Uttarakhand 246474",
+    "area": "sen",
+    "latitude": 30.228471199999998,
+    "longitude": 79.2587436,
+    "place_id": "ChIJBwoDZRXbCTkR0Ne8JHw1LeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwoDZRXbCTkR0Ne8JHw1LeM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:01:22"
+  },
+  {
+    "business_name": "Doctor Care Clinic (Dr.Preeti Rai MBBS - MD)",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "246440",
+    "phone_number": "+91 70374 02145",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "shop No.1, Pratap Palace, 410, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "area": "Vasant Vihar, Indra Nagar Colony",
+    "latitude": 30.3190685,
+    "longitude": 78.0019141,
+    "place_id": "ChIJl1qHpecrCTkRfqH4prJeClg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1qHpecrCTkRfqH4prJeClg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:01:23"
+  }
+]

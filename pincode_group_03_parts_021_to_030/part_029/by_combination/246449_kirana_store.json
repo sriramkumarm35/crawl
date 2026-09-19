@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanwal General Store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246449",
+    "phone_number": "+91 89388 31069",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Subash Nagar, Ghursal, Gopeshwar, Uttarakhand 246401",
+    "area": "Ghursal",
+    "latitude": 30.4089691,
+    "longitude": 79.3229527,
+    "place_id": "ChIJx3HQLQDVCTkR-PINydwIG40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3HQLQDVCTkR-PINydwIG40",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:14:52"
+  },
+  {
+    "business_name": "Vandana general store",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246449",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "C85C+469, near Inter college Gate, Subhash Nagar, Chamoli Gopeshwar, Gopeshwar, Uttarakhand 246401",
+    "area": "Subhash Nagar",
+    "latitude": 30.407784399999997,
+    "longitude": 79.32062119999999,
+    "place_id": "ChIJn-_AjXPVCTkRDJZ1KhK4rUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-_AjXPVCTkRDJZ1KhK4rUE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:14:52"
+  }
+]

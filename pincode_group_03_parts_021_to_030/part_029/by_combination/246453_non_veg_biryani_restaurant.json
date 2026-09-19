@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Bahar",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Hyderabadi restaurant",
+    "all_categories": "Hyderabadi restaurant, Chinese restaurant, Indian restaurant, Kebab shop, Mughlai restaurant",
+    "pincode": "246453",
+    "phone_number": "+91 40 2324 3798",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3-5, 815/A, Old MLA Quarters Rd, Avanti Nagar, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Avanti Nagar, Himayatnagar",
+    "latitude": 17.3997904,
+    "longitude": 78.4785849,
+    "place_id": "ChIJXwoQ3d6ZyzsRt9dtZ7q3HQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwoQ3d6ZyzsRt9dtZ7q3HQE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:16:44"
+  },
+  {
+    "business_name": "Amritsari- Truly North Indian Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, North Indian restaurant, Punjabi restaurant",
+    "pincode": "246453",
+    "phone_number": "+91 88617 53774",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "House Number 129, 17th Main Rd, opposite California Burrito, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "area": "KHB Colony, 5th Block, Koramangala",
+    "latitude": 12.9344913,
+    "longitude": 77.6168739,
+    "place_id": "ChIJnbLRZUgVrjsR7r-O5Datg-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbLRZUgVrjsR7r-O5Datg-g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:16:44"
+  }
+]

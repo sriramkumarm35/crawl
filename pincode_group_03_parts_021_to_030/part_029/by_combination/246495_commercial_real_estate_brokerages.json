@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Space Management",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate consultant, Real estate rental agency",
+    "pincode": "246495",
+    "phone_number": "+91 78780 02244",
+    "website": "https://www.spacemanagement.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "610, Pinnacle Business Park, Corporate Rd, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+    "area": "Prahlad Nagar",
+    "latitude": 23.007114299999998,
+    "longitude": 72.505462,
+    "place_id": "ChIJWfu9bvaEXjkRupb3PgfXxJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfu9bvaEXjkRupb3PgfXxJY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:42:14"
+  },
+  {
+    "business_name": "Cushman & Wakefield - Commercial Real Estate Services",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Office space rental agency, Property maintenance, Property management company, Real estate agency, Real estate agent, Real estate appraiser, Real estate consultant, Real estate developer, Real estate surveyor",
+    "pincode": "246495",
+    "phone_number": "+91 22 6771 5555",
+    "website": "https://www.cushmanwakefield.com/en/india/offices/mumbai?utm_source=google&utm_medium=organic&utm_campaign=gmb_uberall_IND007",
+    "rating": 4.1,
+    "reviews_count": 30,
+    "address": "4th floor, ONE BKC, C-401, Latika Rd, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+    "area": "G Block, Bandra Kurla Complex, Bandra East",
+    "latitude": 19.0605224,
+    "longitude": 72.86538639999999,
+    "place_id": "ChIJA47WAx3J5zsRqQdenNRWghY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA47WAx3J5zsRqQdenNRWghY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:42:16"
+  }
+]

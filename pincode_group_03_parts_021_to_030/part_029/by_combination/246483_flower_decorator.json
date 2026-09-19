@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Flower Point",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Gift shop",
+    "pincode": "246483",
+    "phone_number": "+91 77278 79132",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 83,
+    "address": "Jagdamba Tower, B-20, Amrapali Circle, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Amrapali Circle, Vaishali Nagar",
+    "latitude": 26.9112793,
+    "longitude": 75.7443263,
+    "place_id": "ChIJPwgO95y1bTkRacxvPZG_7dY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwgO95y1bTkRacxvPZG_7dY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:34:46"
+  },
+  {
+    "business_name": "Raj Top Balloon Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "246483",
+    "phone_number": "+91 92291 48635",
+    "website": "https://v0-improve-the-design-rho.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": 108,
+    "address": "apsara studio, Bank Rd, Purana Bazar, Damodarpur, Dhanbad, Jharkhand 826007",
+    "area": "Purana Bazar, Damodarpur",
+    "latitude": 23.788813899999997,
+    "longitude": 86.4229429,
+    "place_id": "ChIJZzNlTEa99jkRda9qGqCjZjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzNlTEa99jkRda9qGqCjZjs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:34:46"
+  }
+]

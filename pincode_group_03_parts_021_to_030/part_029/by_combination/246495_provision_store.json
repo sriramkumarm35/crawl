@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rose Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246495",
+    "phone_number": "+91 80 2590 9786",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "10, 1st Main Road, Vivekananda Road, Ramamurthy Nagar, Bengaluru, Karnataka 560016",
+    "area": "Manjunatha Layout, Ramamurthy Nagar",
+    "latitude": 13.011652699999999,
+    "longitude": 77.6807494,
+    "place_id": "ChIJ3VO0xB4RrjsRPNjUN7vaK54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VO0xB4RrjsRPNjUN7vaK54",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:49"
+  },
+  {
+    "business_name": "Parchoon",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246495",
+    "phone_number": "+91 97614 56495",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karashi Bhawan, 12, Jakhani, Chopta, Uttarakhand 246442",
+    "area": "Jakhani",
+    "latitude": 30.351884599999998,
+    "longitude": 79.0408899,
+    "place_id": "ChIJ2bDgxyrLCTkRMU-IHNtasGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bDgxyrLCTkRMU-IHNtasGw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:49"
+  }
+]

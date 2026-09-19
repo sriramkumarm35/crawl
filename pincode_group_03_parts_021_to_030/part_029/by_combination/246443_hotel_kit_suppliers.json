@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Dhanesh",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "246443",
+    "phone_number": "+91 92581 26094",
+    "website": "https://www.hoteldhanesh.co.in/",
+    "rating": 3.9,
+    "reviews_count": 350,
+    "address": "Marwari, Joshimath, Uttarakhand 246443",
+    "area": "Marwari",
+    "latitude": 30.5642286,
+    "longitude": 79.55493369999999,
+    "place_id": "ChIJjYJQkjmDpzkRzJLPB141--8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYJQkjmDpzkRzJLPB141--8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:07:18"
+  },
+  {
+    "business_name": "Gauri Shankar hotal & plHomestay",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "246443",
+    "phone_number": "+91 86502 47478",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 171,
+    "address": "Kalpeshwar Marg, Urgam, Uttarakhand 246443",
+    "area": "246443",
+    "latitude": 30.540701199999997,
+    "longitude": 79.4540744,
+    "place_id": "ChIJC8GswVaBpzkRAxMx3kKVaXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8GswVaBpzkRAxMx3kKVaXA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:07:18"
+  }
+]

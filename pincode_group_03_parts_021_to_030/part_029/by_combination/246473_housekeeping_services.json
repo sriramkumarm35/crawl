@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uttarakhand Smart Dry Cleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service, Dry cleaner",
+    "pincode": "246473",
+    "phone_number": "+91 99978 46686",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gopinath Mandir Marg, Gopeshwar, Uttarakhand 246401",
+    "area": "246473",
+    "latitude": 30.412517599999997,
+    "longitude": 79.3170729,
+    "place_id": "ChIJ8QEklb3VCTkROFtmaKxtqdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QEklb3VCTkROFtmaKxtqdw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:26:30"
+  },
+  {
+    "business_name": "Best Housekeeping Solution",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning service",
+    "all_categories": "Cleaning service",
+    "pincode": "246473",
+    "phone_number": "+91 97838 63039",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "GMQQ+HFW, Goverdhan Villas, Sector 14, Hiran Magri, Udaipur, Rajasthan 313001",
+    "area": "Goverdhan Villas, Sector 14, Hiran Magri",
+    "latitude": 24.5389795,
+    "longitude": 73.68870009999999,
+    "place_id": "ChIJuXZN0rrvZzkRoQb-iuoBqz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXZN0rrvZzkRoQb-iuoBqz4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:26:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gangesh Singh chauhan",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246443",
+    "phone_number": "+91 94103 01458",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 7, Arurhi Paruri, Uttarakhand 246443",
+    "area": "246443",
+    "latitude": 30.664122,
+    "longitude": 79.5173099,
+    "place_id": "ChIJyWXrttyPpzkRxC01tks7VqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWXrttyPpzkRxC01tks7VqA",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:10"
+  },
+  {
+    "business_name": "Ayush Aeran",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "246443",
+    "phone_number": "+91 94121 12422",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shree Radhe Fashion Store, Rangarh Bhawan, Badrinath Marg, Uppar Bazar, Joshimath, Uttarakhand 248001",
+    "area": "Uppar Bazar",
+    "latitude": 30.5562129,
+    "longitude": 79.56183519999999,
+    "place_id": "ChIJ9_fietOdpzkRskahpVCjZcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_fietOdpzkRskahpVCjZcg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:10"
+  }
+]

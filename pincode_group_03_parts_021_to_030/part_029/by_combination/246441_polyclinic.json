@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salem Polyclinic Hospital (K N RAO Hospital)",
+    "search_category": "Polyclinic",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, General hospital, Hospital",
+    "pincode": "246441",
+    "phone_number": "+91 427 252 9500",
+    "website": "http://www.salempolyclinic.com/",
+    "rating": 4.4,
+    "reviews_count": 6361,
+    "address": "250, Omalur Main Rd, Salem (M.Corp.), Tamil Nadu 636007",
+    "area": "246441",
+    "latitude": 11.6661837,
+    "longitude": 78.144663,
+    "place_id": "ChIJWzQA3kfwqzsRgXgDTOu4iKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzQA3kfwqzsRgXgDTOu4iKs",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:03:13"
+  },
+  {
+    "business_name": "FEROKE POLY CLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "246441",
+    "phone_number": "+91 75107 37787",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "FEROKE POLY CLINIC, near mubarack jewellery, Feroke, Keralam 673631",
+    "area": "246441",
+    "latitude": 11.17842,
+    "longitude": 75.8326441,
+    "place_id": "ChIJoRbCjatRpjsRStJpwc07Naw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRbCjatRpjsRStJpwc07Naw",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:03:13"
+  }
+]

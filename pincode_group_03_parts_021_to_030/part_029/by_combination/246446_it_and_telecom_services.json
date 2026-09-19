@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL office",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "246446",
+    "phone_number": "+91 1800 345 1500",
+    "website": "https://www.bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "88J9+HW3, NH 7, Nandaprayag, Uttarakhand 246449",
+    "area": "246446",
+    "latitude": 30.3313785,
+    "longitude": 79.3198062,
+    "place_id": "ChIJ9bqTVYTXCTkRH3w9byxYgjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bqTVYTXCTkRH3w9byxYgjg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:12:42"
+  },
+  {
+    "business_name": "Sparsh communication",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "246446",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "86V2+83G, Vinayakdhar, Pokhari, Chopara, Uttarakhand 246473",
+    "area": "Vinayakdhar",
+    "latitude": 30.3433152,
+    "longitude": 79.2002019,
+    "place_id": "ChIJ8Y6augPRCTkR_3stZm0OiNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Y6augPRCTkR_3stZm0OiNE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:12:42"
+  }
+]

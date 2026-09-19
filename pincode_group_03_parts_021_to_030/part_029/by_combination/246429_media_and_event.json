@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Newspost",
+    "search_category": "Media and Event",
+    "primary_category": "Media company",
+    "all_categories": "Media company",
+    "pincode": "246429",
+    "phone_number": "+91 98374 72220",
+    "website": "http://www.newspost.live/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "5/16, Vasant Vihar Enclave, Dehradun, Uttarakhand 248006",
+    "area": "Ashirwad Enclave, Balliwala",
+    "latitude": 30.330338599999997,
+    "longitude": 78.0029314,
+    "place_id": "ChIJAQBQBA4qCTkRo2Q5nBAOSpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQBQBA4qCTkRo2Q5nBAOSpQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:54:52"
+  },
+  {
+    "business_name": "Mehara tent and sound service aamdali",
+    "search_category": "Media and Event",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "246429",
+    "phone_number": "+91 99584 24878",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Chaukhutiya Jaurashi, road, aamdali, Chaukhutiya, Uttarakhand 263656",
+    "area": "aamdali",
+    "latitude": 29.892232699999997,
+    "longitude": 79.2924383,
+    "place_id": "ChIJH1jgmJf9CTkRAqraiqHkHPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1jgmJf9CTkRAqraiqHkHPU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:54:52"
+  }
+]

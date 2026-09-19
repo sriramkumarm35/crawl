@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Base hospital simli (बेस अस्पताल)",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "246429",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "67Q3+6MF, Simli, Uttarakhand 246474",
+    "area": "246429",
+    "latitude": 30.2380504,
+    "longitude": 79.25417379999999,
+    "place_id": "ChIJkWf846XbCTkREWrynPgRarg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWf846XbCTkREWrynPgRarg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:54:10"
+  },
+  {
+    "business_name": "MANIS MEDICAL AGENCIES. KIDNEY TRANSPLANT MEDICINE CANCER MEDICINE AVAILABLE",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "246429",
+    "phone_number": "+91 95244 41414",
+    "website": "https://www.manismedicalagencies.in/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "DOOR NO;21/5,NAKEERN SREET, opp. to AAVIN DEPOT, Adaikalampillai Colony, Managiri, Madurai, Tamil Nadu 625020",
+    "area": "Adaikalampillai Colony, Managiri",
+    "latitude": 9.926637099999999,
+    "longitude": 78.1446455,
+    "place_id": "ChIJn9c8YL3FADsRp_6D5UDrIzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9c8YL3FADsRp_6D5UDrIzg",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:54:12"
+  }
+]

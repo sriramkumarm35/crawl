@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental Clinic (दांतों का अस्पताल)",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Service establishment",
+    "pincode": "246439",
+    "phone_number": "+91 95570 80133",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dental Clinic (दांतों का अस्पताल), 246439, India",
+    "area": "246439",
+    "latitude": 30.543500599999998,
+    "longitude": 79.0742952,
+    "place_id": "ChIJg7gfFA23CTkRc4AfZYpbQvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7gfFA23CTkRc4AfZYpbQvI",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:59:41"
+  },
+  {
+    "business_name": "Kamra Dental Care ( For Advanced Root canal and Implant centre)",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Doctor, Endodontist, Skin care clinic, Specialized clinic",
+    "pincode": "246439",
+    "phone_number": "+91 99973 43555",
+    "website": "http://www.facebook.com/kamradentalcare",
+    "rating": 5,
+    "reviews_count": 300,
+    "address": "boring wali gali, Kichha, Uttarakhand 263148",
+    "area": "246439",
+    "latitude": 28.910449999999997,
+    "longitude": 79.51726099999999,
+    "place_id": "ChIJoap1P397oDkRljOQkv6MHIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoap1P397oDkRljOQkv6MHIE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 05:59:42"
+  }
+]

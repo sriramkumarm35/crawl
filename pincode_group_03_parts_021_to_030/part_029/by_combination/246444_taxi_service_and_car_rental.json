@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doontraveller",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airline ticket agency, Tour operator, Train ticket office, Visa Agent",
+    "pincode": "246444",
+    "phone_number": "+91 87005 22071",
+    "website": "http://www.doontraveller.com/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "LANAGASU NH 58 BADRINATH ROAD NEAR GIC LANGASU, Karnaprayag, Uttarakhand 246446",
+    "area": "246444",
+    "latitude": 30.288766199999998,
+    "longitude": 79.2739058,
+    "place_id": "ChIJ8z-KrozRCTkRIAQfcdZv4ZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8z-KrozRCTkRIAQfcdZv4ZU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:30"
+  },
+  {
+    "business_name": "explore tha himaliya",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "246444",
+    "phone_number": "+91 72519 45541",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Narsingh Mandir Marg, Joshimath, Uttarakhand 246443",
+    "area": "246444",
+    "latitude": 30.5562287,
+    "longitude": 79.5632127,
+    "place_id": "ChIJAzzOyuOdpzkRmqs62TpZRK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzzOyuOdpzkRmqs62TpZRK8",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:08:30"
+  }
+]

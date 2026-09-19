@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghayas motor",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "246471",
+    "phone_number": "+91 93691 44125",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "6, J.C.Bose Marg, Kaiserbagh Officer's Colony, Lalbagh, Lucknow, Uttar Pradesh 226001",
+    "area": "Kaiserbagh Officer's Colony, Lalbagh",
+    "latitude": 26.8486907,
+    "longitude": 80.9364272,
+    "place_id": "ChIJ_fjrTwD9mzkRxi8TrhHvjtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fjrTwD9mzkRxi8TrhHvjtc",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:22"
+  },
+  {
+    "business_name": "Trend Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "246471",
+    "phone_number": "+91 96864 54537",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 522,
+    "address": "38/7, AH43, Near krishnappa reddy building, Bandepalya, Garvebhavi Palya, Bengaluru, Karnataka 560068",
+    "area": "Bandepalya, Garvebhavi Palya",
+    "latitude": 12.8966178,
+    "longitude": 77.6360969,
+    "place_id": "ChIJaQOspb4UrjsR_l_N8c_0miY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQOspb4UrjsR_l_N8c_0miY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:22"
+  }
+]

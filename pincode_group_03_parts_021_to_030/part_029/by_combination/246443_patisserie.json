@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Raga Retreat",
+    "search_category": "Patisserie",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "246443",
+    "phone_number": "+91 99276 43510",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Baragaon, Baragaon, Joshimath, Uttarakhand 246443",
+    "area": "246443",
+    "latitude": 30.5256278,
+    "longitude": 79.5977745,
+    "place_id": "ChIJU1D-5kSdpzkRZYgRs7KBes0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU1D-5kSdpzkRZYgRs7KBes0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:19"
+  },
+  {
+    "business_name": "Pharswan food and confectionery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "246443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main market, Chamoli, Uttarakhand 246424",
+    "area": "246443",
+    "latitude": 30.3907924,
+    "longitude": 79.3276472,
+    "place_id": "ChIJXbVaxs_VCTkRV00FOrsd9Vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbVaxs_VCTkRV00FOrsd9Vo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:20"
+  }
+]

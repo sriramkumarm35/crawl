@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hungry Bear",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "246469",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ukhimath road, Photibasa, Chopta, Kanda, Uttarakhand 246469",
+    "area": "Photibasa",
+    "latitude": 30.499597899999998,
+    "longitude": 79.16550509999999,
+    "place_id": "ChIJC4PpgH4zCDkRysRp9QYFa28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4PpgH4zCDkRysRp9QYFa28",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:20:15"
+  },
+  {
+    "business_name": "Moksha Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "246469",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "F5PX+6V9, Ukhimath - Chopta - Gopeshwar Rd, Chopta, Uttarakhand 246469",
+    "area": "246469",
+    "latitude": 30.485541899999998,
+    "longitude": 79.1997451,
+    "place_id": "ChIJG-_oCIIyCDkRMxBc-BHfbjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-_oCIIyCDkRMxBc-BHfbjE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:20:18"
+  }
+]

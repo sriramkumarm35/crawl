@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chennai Law Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "246488",
+    "phone_number": "+91 44 2535 9291",
+    "website": "http://chennailawassociates.com/",
+    "rating": 4.4,
+    "reviews_count": 53,
+    "address": "Old No:48, New No:99, 3rd Floor, Armenian St, Parry's Corner, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Parry's Corner, George Town",
+    "latitude": 13.0904898,
+    "longitude": 80.28800939999999,
+    "place_id": "ChIJx8S3J05vUjoRhzjQIdgffW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8S3J05vUjoRhzjQIdgffW4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:29"
+  },
+  {
+    "business_name": "Akhildev IPR and Research Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "246488",
+    "phone_number": "+91 79034 67153",
+    "website": "https://iprsrg.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Tower-1, Corporate Park, 510, Sector 142, Noida, Uttar Pradesh 201304",
+    "area": "Sector 142",
+    "latitude": 28.502780899999998,
+    "longitude": 77.4115774,
+    "place_id": "ChIJX6YLtYjBDDkRlflgEguhwJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6YLtYjBDDkRlflgEguhwJ0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:40:30"
+  }
+]

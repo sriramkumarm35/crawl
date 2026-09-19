@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuldeep General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246474",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67P6+53G, Karanprayag Padli Rd, Simli, Kolyagad, Uttarakhand 246474",
+    "area": "246474",
+    "latitude": 30.2354457,
+    "longitude": 79.2602187,
+    "place_id": "ChIJr6_A0HDbCTkRxLaLFCbIVgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6_A0HDbCTkRxLaLFCbIVgE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:26:51"
+  },
+  {
+    "business_name": "Sunil provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Dairy store, Department store, General store, Ice cream shop, Pen store",
+    "pincode": "246474",
+    "phone_number": "+91 98285 55190",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 107,
+    "address": "Rd Number 7, BJS Colony, Jodhpur, Rajasthan 342006",
+    "area": "BJS Colony",
+    "latitude": 26.304416,
+    "longitude": 73.0551174,
+    "place_id": "ChIJpwtiVhCNQTkRobxsDkOANXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwtiVhCNQTkRobxsDkOANXE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:26:51"
+  }
+]

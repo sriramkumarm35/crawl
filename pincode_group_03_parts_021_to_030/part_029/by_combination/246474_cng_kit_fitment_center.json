@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Vinayak CNG",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center",
+    "pincode": "246474",
+    "phone_number": "+91 99747 77752",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "bus stop, B 19, nr. managalam hospital, opp. Akhbar Nagar, Swatantra Senani Nagar, Akhbar Nagar, Nava Vadaj, Ahmedabad, Gujarat 380013",
+    "area": "Swatantra Senani Nagar, Akhbar Nagar, Nava Vadaj",
+    "latitude": 23.0723096,
+    "longitude": 72.5618303,
+    "place_id": "ChIJAW72XSmDXjkRWN2H2zVvoAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAW72XSmDXjkRWN2H2zVvoAo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:27:27"
+  },
+  {
+    "business_name": "Kovai CNG Cars",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center, LPG conversion",
+    "pincode": "246474",
+    "phone_number": "+91 90035 14491",
+    "website": "http://kovaicngcars.com/",
+    "rating": 4.8,
+    "reviews_count": 122,
+    "address": "24685, Periyar Nagar, G.V. Residency, Pudur, Coimbatore, Tamil Nadu 641028",
+    "area": "Periyar Nagar, G.V. Residency, Pudur",
+    "latitude": 11.0130287,
+    "longitude": 77.01340619999999,
+    "place_id": "ChIJmeLyuYlXqDsR23And2MCl-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeLyuYlXqDsR23And2MCl-s",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:27:30"
+  }
+]

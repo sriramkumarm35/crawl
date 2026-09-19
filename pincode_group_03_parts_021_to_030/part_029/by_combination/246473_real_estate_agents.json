@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soul Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "246473",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C859+RW7, Ghinghraan Road, Rauli, Chamoli Gopeshwar, Gopeshwar, Uttarakhand 246401",
+    "area": "Rauli",
+    "latitude": 30.409535599999998,
+    "longitude": 79.3198077,
+    "place_id": "ChIJUZleryLVCTkRYqKeJI34bIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZleryLVCTkRYqKeJI34bIU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:26:32"
+  },
+  {
+    "business_name": "Ramola homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "246473",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C6CQ+P7P, Nail, Pokhari, Uttarakhand 246473",
+    "area": "246473",
+    "latitude": 30.421841299999997,
+    "longitude": 79.23821699999999,
+    "place_id": "ChIJc-4RQwDTCTkRgPIETSNzZ_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-4RQwDTCTkRgPIETSNzZ_4",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:26:32"
+  }
+]

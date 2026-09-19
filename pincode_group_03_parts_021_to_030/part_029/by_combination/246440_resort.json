@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HillCouch Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "246440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Raintoli, Main, Badrinath Marg, Rudraprayag, Uttarakhand 246171",
+    "area": "246440",
+    "latitude": 30.270433599999997,
+    "longitude": 78.9548519,
+    "place_id": "ChIJQ9JJVNi3CTkRCbdx9HX4CsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9JJVNi3CTkRCbdx9HX4CsY",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:01:59"
+  },
+  {
+    "business_name": "Hotel Giridhar",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "246440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 12,
+    "address": "7XH8+HC5, Rudraprayag Bypass Rd, Malyasu Malla, Uttarakhand 246171",
+    "area": "246440",
+    "latitude": 30.2787737,
+    "longitude": 78.966517,
+    "place_id": "ChIJNaH9agC3CTkRliLSHHctNkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaH9agC3CTkRliLSHHctNkE",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:01:59"
+  }
+]

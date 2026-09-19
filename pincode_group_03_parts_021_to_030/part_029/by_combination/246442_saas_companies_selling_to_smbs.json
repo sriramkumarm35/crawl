@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MSTR Consulting Pvt Ltd",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "246442",
+    "phone_number": "N/A",
+    "website": "http://www.mstr.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MSTR Consulting Pvt Ltd, 246442, India",
+    "area": "246442",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJxSks2zZXmTkRumPnKMU6O0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSks2zZXmTkRumPnKMU6O0A",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:06"
+  },
+  {
+    "business_name": "web",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "246442",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "web, 246442, India",
+    "area": "246442",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJvV2WGKuFHjkR0B3nV4qucuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvV2WGKuFHjkR0B3nV4qucuQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:06:06"
+  }
+]

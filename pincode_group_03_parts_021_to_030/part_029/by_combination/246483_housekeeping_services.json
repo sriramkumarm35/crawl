@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "246483",
+    "phone_number": "+91 93202 37890",
+    "website": "http://nirmalentp.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "03, Raghunandan CHS, Pratap Nagar Rd, Hanuman Nagar, Pratap Nagar, Kanjurmarg West, Bhandup West, Mumbai, Maharashtra 400078",
+    "area": "Hanuman Nagar, Pratap Nagar, Kanjurmarg West, Bhandup West",
+    "latitude": 19.1395043,
+    "longitude": 72.9221489,
+    "place_id": "ChIJG5-9NQu45zsRDBncN4JShzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5-9NQu45zsRDBncN4JShzQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:11"
+  },
+  {
+    "business_name": "Vishal Management Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services",
+    "pincode": "246483",
+    "phone_number": "+91 86478 87777",
+    "website": "https://www.vishalmanagementservices.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "910, Corporate Annexe, Sonawala Rd, near Udyog Bhavan, Sonawala Industry Estate, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Sonawala Industry Estate, Goregaon East",
+    "latitude": 19.161445,
+    "longitude": 72.8511003,
+    "place_id": "ChIJnR6fZWy35zsRpP5s2U9h_eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnR6fZWy35zsRpP5s2U9h_eU",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:35:12"
+  }
+]

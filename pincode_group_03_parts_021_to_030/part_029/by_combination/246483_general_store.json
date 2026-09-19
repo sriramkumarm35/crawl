@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246483",
+    "phone_number": "+91 96346 95058",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Karchi, Joshimath, Uttarakhand 246483",
+    "area": "246483",
+    "latitude": 30.483952799999997,
+    "longitude": 79.6072192,
+    "place_id": "ChIJq2pEyB2dpzkR1mxtE7rikwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2pEyB2dpzkR1mxtE7rikwo",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:49"
+  },
+  {
+    "business_name": "General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "246483",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Auli Rd, near by Children Park, Haripuram, Joshimath, Uttarakhand 246443",
+    "area": "Haripuram",
+    "latitude": 30.5491693,
+    "longitude": 79.5602541,
+    "place_id": "ChIJscMyBCGDpzkRc6dYdT-eSH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJscMyBCGDpzkRc6dYdT-eSH0",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:33:49"
+  }
+]

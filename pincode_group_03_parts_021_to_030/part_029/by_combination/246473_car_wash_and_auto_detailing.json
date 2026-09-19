@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "246473",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Singrauli, Madhya Pradesh 486889",
+    "area": "246473",
+    "latitude": 24.2103903,
+    "longitude": 82.6703342,
+    "place_id": "ChIJS_ZE-4s7jzkRjKn0rW9bJEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_ZE-4s7jzkRjKn0rW9bJEM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:25:41"
+  },
+  {
+    "business_name": "Shine Car Wash & Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "246473",
+    "phone_number": "+91 81188 97039",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Sheoganj - Jawal Rd, Vedhaynath Colony, Sirohi, Rajasthan 307001",
+    "area": "Vedhaynath Colony",
+    "latitude": 24.8942223,
+    "longitude": 72.85409489999999,
+    "place_id": "ChIJW9VNKdDbQjkRMv9nks89eoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9VNKdDbQjkRMv9nks89eoM",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:25:41"
+  }
+]

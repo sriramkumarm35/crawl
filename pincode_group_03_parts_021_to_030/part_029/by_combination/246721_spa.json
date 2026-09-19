@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jasmine Luxury Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "246721",
+    "phone_number": "+91 95082 62626",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 252,
+    "address": "Second Floor, Building, Street Number 2, near Laxmi Narayan Mandir, Jwalaheri Village, Paschim Vihar, New Delhi, Delhi, 110063",
+    "area": "Jwalaheri Village, Paschim Vihar",
+    "latitude": 28.668734299999997,
+    "longitude": 77.1033851,
+    "place_id": "ChIJgWt_5IUDDTkRXhTpZMQeQ1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWt_5IUDDTkRXhTpZMQeQ1g",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:13"
+  },
+  {
+    "business_name": "POOJA BEAUTY PARLOUR",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "246721",
+    "phone_number": "+91 99272 74693",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shukratal Rd, Morna, Uttar Pradesh 251316",
+    "area": "246721",
+    "latitude": 29.469369099999998,
+    "longitude": 77.94229059999999,
+    "place_id": "ChIJW6nZuzz5CzkRHcTLygi5rWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6nZuzz5CzkRHcTLygi5rWQ",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:45:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeevani Multi-Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Private hospital",
+    "pincode": "246471",
+    "phone_number": "+91 73515 77773",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "NEAR, DHELA PUL, Kashipur, Uttarakhand 244713",
+    "area": "246471",
+    "latitude": 29.203217799999997,
+    "longitude": 78.9451402,
+    "place_id": "ChIJH890inFDCjkROwG9xhdOM7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH890inFDCjkROwG9xhdOM7k",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:09"
+  },
+  {
+    "business_name": "Sparsh Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "246471",
+    "phone_number": "+91 5943 252 200",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "NH 9, Khatima, Uttarakhand 262308",
+    "area": "246471",
+    "latitude": 28.9234263,
+    "longitude": 79.96433069999999,
+    "place_id": "ChIJL-HxJ0NRoDkRZmP_c6ecBlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-HxJ0NRoDkRZmP_c6ecBlk",
+    "part_id": "part_029",
+    "crawled_at": "2026-09-19 06:22:09"
+  }
+]
