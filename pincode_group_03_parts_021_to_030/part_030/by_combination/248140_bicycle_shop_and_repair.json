@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "248140",
+    "phone_number": "+91 70604 39902",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ambala-Dehradun-Haridwar Rd, Doiwala, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.176215499999998,
+    "longitude": 78.1249587,
+    "place_id": "ChIJ7UFs1U0lCTkRLppkMHF399o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UFs1U0lCTkRLppkMHF399o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:34"
+  },
+  {
+    "business_name": "Jay Shri Shyam auto repairing center",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "248140",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Joli grant auto wala Sahiba 3 number chauk, ke pass, Doiwala, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.18995,
+    "longitude": 78.0880129,
+    "place_id": "ChIJ_yi3EQQvCTkRrF_w8T3BOPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_yi3EQQvCTkRrF_w8T3BOPw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:34"
+  }
+]

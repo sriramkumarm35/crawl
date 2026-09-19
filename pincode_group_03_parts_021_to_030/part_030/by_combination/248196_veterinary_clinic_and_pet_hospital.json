@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petofy - 'Everything Pets'",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet boarding service",
+    "all_categories": "Pet boarding service, Business to business service, Pet adoption service, Software company, Pet cemetery, Pet groomer, Pet sitter, Pet trainer",
+    "pincode": "248196",
+    "phone_number": "+91 83939 38639",
+    "website": "https://petofy.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "A-4, Sahastradhara Rd, Doon IT Park, Danda Lakhond, Dehradun, Uttarakhand 248013",
+    "area": "Doon IT Park, Danda Lakhond",
+    "latitude": 30.3648088,
+    "longitude": 78.0882027,
+    "place_id": "ChIJL9TCQR3XCDkRM4an-Hu8bGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9TCQR3XCDkRM4an-Hu8bGE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:43:26"
+  },
+  {
+    "business_name": "Top Vets Veterinary Speciality Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "248196",
+    "phone_number": "+91 89765 29275",
+    "website": "http://topvets.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "shop no-4, Avarsekar Shrushti Co op society, Old Prabhadevi Rd, Prabhadevi, Mumbai, Maharashtra 400025",
+    "area": "Prabhadevi",
+    "latitude": 19.0148772,
+    "longitude": 72.8247761,
+    "place_id": "ChIJUYew5HveFCURkRVIt7zz1z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYew5HveFCURkRVIt7zz1z4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:43:27"
+  }
+]

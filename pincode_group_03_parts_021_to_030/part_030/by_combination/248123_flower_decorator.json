@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMIT FLORIST 🌹",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower designer",
+    "pincode": "248123",
+    "phone_number": "+91 97118 48584",
+    "website": "https://d-amitflorist301.dotpe.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "McDonald's - Kamla Nagar, Delhi, Bungalow Rd, Block UA, Jawahar Nagar, Kamla Nagar, Delhi, 110007",
+    "area": "Block UA, Jawahar Nagar, Kamla Nagar",
+    "latitude": 28.681035899999998,
+    "longitude": 77.2077158,
+    "place_id": "ChIJs7dqGRT9DDkR6w4AHyVoBJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7dqGRT9DDkR6w4AHyVoBJY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:17:17"
+  },
+  {
+    "business_name": "Haryana Flower",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "248123",
+    "phone_number": "+91 97283 25977",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "E-17/2, Rajeev Nagar, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Rajeev Nagar, Nehru Colony, Dharampur",
+    "latitude": 30.3013527,
+    "longitude": 78.0596644,
+    "place_id": "ChIJLXUzWpcpCTkRmeyokbHqBGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXUzWpcpCTkRmeyokbHqBGs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:17:18"
+  }
+]

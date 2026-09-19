@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian poultry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "248142",
+    "phone_number": "+91 97207 63923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main road, Khushal Pur, Vikasnagar, Uttarakhand 248197",
+    "area": "248142",
+    "latitude": 30.411404599999997,
+    "longitude": 77.7886176,
+    "place_id": "ChIJ8fwJNe8pDzkR3WRYhP4j7-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fwJNe8pDzkR3WRYhP4j7-A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:23:57"
+  },
+  {
+    "business_name": "F.M poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "248142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "CPR7+P5W, Herbertpur, Uttarakhand 248142",
+    "area": "248142",
+    "latitude": 30.441851,
+    "longitude": 77.71293899999999,
+    "place_id": "ChIJ3zD26TAlDzkRKWual6O5vFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zD26TAlDzkRKWual6O5vFs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:23:57"
+  }
+]

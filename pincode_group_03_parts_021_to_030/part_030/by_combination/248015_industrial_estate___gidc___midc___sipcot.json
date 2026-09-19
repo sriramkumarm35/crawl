@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gujarat Industrial Development Corporation",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Government office",
+    "all_categories": "Government office, Consultant",
+    "pincode": "248015",
+    "phone_number": "+91 281 236 2672",
+    "website": "https://gidc.gujarat.gov.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Navsarjan, Gondal Rd, Opp.Swaminarayan Gurukul, Lohanagar, Bhakti Nagar, Rajkot, Gujarat 360002",
+    "area": "Opp.Swaminarayan Gurukul, Lohanagar, Bhakti Nagar",
+    "latitude": 22.2757939,
+    "longitude": 70.7985449,
+    "place_id": "ChIJYVbmV2XKWTkRQw0Afc-yFRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVbmV2XKWTkRQw0Afc-yFRk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:06:29"
+  },
+  {
+    "business_name": "Gujarat Foundries",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Foundry",
+    "all_categories": "Foundry",
+    "pincode": "248015",
+    "phone_number": "+91 79 2583 1485",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 18,
+    "address": "Plot 63, G I D C Estate, Phase I, Vatva, Ahmedabad, Gujarat 382445",
+    "area": "Phase I, Vatva",
+    "latitude": 22.9705825,
+    "longitude": 72.6320507,
+    "place_id": "ChIJAQAAAMyIXjkRxZP-sAkyeFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAMyIXjkRxZP-sAkyeFI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:06:29"
+  }
+]

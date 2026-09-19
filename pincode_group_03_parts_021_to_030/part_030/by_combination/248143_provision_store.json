@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surkanda General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "248143",
+    "phone_number": "+91 94117 25193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "56WF+MHV, Bhogpur, Sarangdharwala, Uttarakhand 248145",
+    "area": "248143",
+    "latitude": 30.196731999999997,
+    "longitude": 78.22393,
+    "place_id": "ChIJ4XkASUcjCTkRAAAAMBP9sH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XkASUcjCTkRAAAAMBP9sH8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:25:46"
+  },
+  {
+    "business_name": "Kalra General Store(city general store)",
+    "search_category": "Provision Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "248143",
+    "phone_number": "+91 84331 79558",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhogpur-Palli Road, Bhogpur, Uttarakhand 248143",
+    "area": "248143",
+    "latitude": 30.206926499999998,
+    "longitude": 78.23318239999999,
+    "place_id": "ChIJgb_XZTkjCTkRxWINzxxF3YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb_XZTkjCTkRxWINzxxF3YU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:25:46"
+  }
+]

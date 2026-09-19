@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Care Centre",
+    "search_category": "Clinics",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "248165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQHG+9J, Atliyo, Uttarakhand 248165",
+    "area": "248165",
+    "latitude": 30.578484999999997,
+    "longitude": 77.7765244,
+    "place_id": "ChIJATv7fwAxDzkRC3QvhLMJWTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATv7fwAxDzkRC3QvhLMJWTU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:41"
+  },
+  {
+    "business_name": "\"Leela Healthcare ''Dental & Skin Care Hospital",
+    "search_category": "Clinics",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, General practitioner, Skin care clinic",
+    "pincode": "248165",
+    "phone_number": "+91 81265 57741",
+    "website": "http://leelahospitals.com/?utm_source=gmb&utm_medium=referral",
+    "rating": 4.5,
+    "reviews_count": 80,
+    "address": "Padampur Rd, near Badri Kedar Medical Store, Jhanda Chowk, Kotdwar, Uttarakhand 246149",
+    "area": "Jhanda Chowk",
+    "latitude": 29.7456967,
+    "longitude": 78.5193596,
+    "place_id": "ChIJG15KO-59CTkR4zXGTxHsgAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG15KO-59CTkR4zXGTxHsgAQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:44"
+  }
+]

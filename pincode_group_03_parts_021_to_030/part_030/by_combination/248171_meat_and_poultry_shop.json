@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari Chicken and Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Butcher shop deli, Chicken shop",
+    "pincode": "248171",
+    "phone_number": "+91 98970 79707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "72V2+8JG, National Highway 72A, Majra, Dehradun, Shewala Kala, Uttarakhand 248171",
+    "area": "Majra",
+    "latitude": 30.293317499999997,
+    "longitude": 78.00158499999999,
+    "place_id": "ChIJL2UC7_4rCTkR9OM__6V6SE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2UC7_4rCTkR9OM__6V6SE0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:10"
+  },
+  {
+    "business_name": "Meat Mart",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "248171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "82H6+HJ4, GMS Rd, opp. Wadia Institute, Mohit Nagar, Dehradun, Uttarakhand 248006",
+    "area": "Mohit Nagar",
+    "latitude": 30.3288874,
+    "longitude": 78.0115694,
+    "place_id": "ChIJKxr1GRsqCTkR4twRaMiOTpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxr1GRsqCTkR4twRaMiOTpM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:12"
+  }
+]

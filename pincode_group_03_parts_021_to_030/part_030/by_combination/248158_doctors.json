@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinrga",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "248158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR3W+RVJ, Sairi, Uttarakhand 248158",
+    "area": "248158",
+    "latitude": 30.554592799999998,
+    "longitude": 77.8471306,
+    "place_id": "ChIJdY7QAwAzDzkRh4n74WYx54I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdY7QAwAzDzkRh4n74WYx54I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:59"
+  },
+  {
+    "business_name": "Community Health Centre Kalsi",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kalsi, Jikala, Uttarakhand 248159",
+    "area": "248158",
+    "latitude": 30.5186113,
+    "longitude": 77.8437531,
+    "place_id": "ChIJ73f_twQyDzkRIU-zBfqqlVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73f_twQyDzkRIU-zBfqqlVQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:59"
+  }
+]

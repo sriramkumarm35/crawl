@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cyber Hub (CSC)",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "248014",
+    "phone_number": "+91 91055 68160",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near HDFC ATM, Lower Rajeev Nagar, Rajeev Nagar, Danda Dharampur, Nehrugram, Dehradun, Uttarakhand 248014",
+    "area": "Lower Rajeev Nagar, Rajeev Nagar, Danda Dharampur, Nehrugram",
+    "latitude": 30.2967482,
+    "longitude": 78.0608529,
+    "place_id": "ChIJNXh6U5opCTkRbo55Klzx_j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXh6U5opCTkRbo55Klzx_j4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:04:02"
+  },
+  {
+    "business_name": "Gayatri Digital Hub",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "248014",
+    "phone_number": "+91 99974 84016",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "chaudhry complex, Raipur Rd, Bangakhala, Nehrugram, Ranjhawala, Dehradun, Uttarakhand 248008",
+    "area": "Bangakhala, Nehrugram",
+    "latitude": 30.2965219,
+    "longitude": 78.09713119999999,
+    "place_id": "ChIJMUaG-eUpCTkRT-4X2oVHkZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUaG-eUpCTkRT-4X2oVHkZs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:04:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Yummy Bites & shoppe",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Ice cream shop",
+    "pincode": "248179",
+    "phone_number": "+91 90120 10515",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 22,
+    "address": "Jhula Ghar, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "Jhula Ghar, The Mall Road",
+    "latitude": 30.4581114,
+    "longitude": 78.0736445,
+    "place_id": "ChIJAbT7WdzQCDkR-PrH3i2-q9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbT7WdzQCDkR-PrH3i2-q9c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:39:13"
+  },
+  {
+    "business_name": "Bhuvneshwari Baker",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "248179",
+    "phone_number": "+91 89794 58243",
+    "website": "https://www.instagram.com/bhuvneshwari_baker?igsh=MWVyNjJhZTNkaTltaw==&utm_source=qr",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "bhuvneshwari bakers, kandholi, Pondha, Dehradun, Uttarakhand 248007",
+    "area": "kandholi",
+    "latitude": 30.3893059,
+    "longitude": 77.9694107,
+    "place_id": "ChIJnZl_D5vVCDkRYbNf6SJ4dII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZl_D5vVCDkRYbNf6SJ4dII",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:39:16"
+  }
+]

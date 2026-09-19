@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Call Center",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Call center",
+    "all_categories": "Call center, Back Office, BPO Company",
+    "pincode": "248019",
+    "phone_number": "+91 98915 04989",
+    "website": "https://www.a1callcenter.com/",
+    "rating": 4,
+    "reviews_count": 73,
+    "address": "2nd Floor, E-26, Hazratpur Wajidpur, E Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Hazratpur Wajidpur, E Block, Sector 63",
+    "latitude": 28.620606499999997,
+    "longitude": 77.3858675,
+    "place_id": "ChIJZ4hjz_PvDDkRunCH53EzOh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4hjz_PvDDkRunCH53EzOh8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:11"
+  },
+  {
+    "business_name": "Steps global solutions",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Service establishment",
+    "pincode": "248019",
+    "phone_number": "+91 62302 33310",
+    "website": "http://www.stepsglobalsolutions.com/",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "Steps global solutions, 248019, India",
+    "area": "248019",
+    "latitude": 31.816881,
+    "longitude": 77.3017548,
+    "place_id": "ChIJLcpcpBV5BTkRjqmCOXsw4Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcpcpBV5BTkRjqmCOXsw4Jc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "everest medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Ayurvedic clinic, Health and beauty shop, Pathologist",
+    "pincode": "248146",
+    "phone_number": "+91 83052 82055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "11, Rajendra Nagar Rd, Railway Colony, Satna, Madhya Pradesh 485001",
+    "area": "Railway Colony",
+    "latitude": 24.5728619,
+    "longitude": 80.8230829,
+    "place_id": "ChIJSe8vu_t_hDkRuBp7_97-YxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSe8vu_t_hDkRuBp7_97-YxM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:03"
+  },
+  {
+    "business_name": "THE GLOBAL DRUG HOUSE MEDICAL AGENCY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "248146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "H8F7+QQ6, Ajigarha, Rewa, Madhya Pradesh 486003",
+    "area": "248146",
+    "latitude": 24.5744062,
+    "longitude": 81.3143809,
+    "place_id": "ChIJlRFZaABZhDkRN6--nWpl1AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRFZaABZhDkRN6--nWpl1AM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:05"
+  }
+]

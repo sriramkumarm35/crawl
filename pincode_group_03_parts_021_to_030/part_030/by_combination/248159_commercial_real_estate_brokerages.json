@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sam Barnett Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "248159",
+    "phone_number": "N/A",
+    "website": "http://www.sambarnettbroker.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sam Barnett Real Estate, 248159, India",
+    "area": "248159",
+    "latitude": 35.352844,
+    "longitude": -80.9193935,
+    "place_id": "ChIJE9O0TbirVogRTLoBVNappTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9O0TbirVogRTLoBVNappTI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:34:56"
+  },
+  {
+    "business_name": "Shri Krishna Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "248159",
+    "phone_number": "+91 88248 83601",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Bhupalpura, Rupsagar, Udaipur, Rajasthan 313001",
+    "area": "New Bhupalpura, Rupsagar",
+    "latitude": 24.5973026,
+    "longitude": 73.7060082,
+    "place_id": "ChIJIyqb8aHlZzkRXpRGRrk6jC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyqb8aHlZzkRXpRGRrk6jC4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:34:57"
+  }
+]

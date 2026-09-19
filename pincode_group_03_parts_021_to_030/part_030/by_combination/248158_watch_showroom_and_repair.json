@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajan Watch Co.",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Watch repair service",
+    "pincode": "248158",
+    "phone_number": "+91 98158 25800",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "SCO 33, Sector 19C, Sector 19, Chandigarh, 160019",
+    "area": "Sector 19C, Sector 19",
+    "latitude": 30.7274228,
+    "longitude": 76.7935086,
+    "place_id": "ChIJVVVVmRztDzkR3DMJ1fdt1xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVmRztDzkR3DMJ1fdt1xY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:57"
+  },
+  {
+    "business_name": "Repairing Center",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "248158",
+    "phone_number": "+91 96905 32076",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Banjarawala, Dehradun, Uttarakhand 248001",
+    "area": "Banjarawala",
+    "latitude": 30.2747852,
+    "longitude": 78.0342593,
+    "place_id": "ChIJZRmumywpCTkR3KB-3_S4208",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRmumywpCTkR3KB-3_S4208",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:58"
+  }
+]

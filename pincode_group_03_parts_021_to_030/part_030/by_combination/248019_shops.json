@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B Mart",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "248019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "0, gullarghati, Balawala, Uttarakhand 248019",
+    "area": "gullarghati, Balawala",
+    "latitude": 30.2663862,
+    "longitude": 78.1185426,
+    "place_id": "ChIJpbeydAAnCTkRcbgZMXcwS6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbeydAAnCTkRcbgZMXcwS6I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:14"
+  },
+  {
+    "business_name": "CHAUHAN FASHION",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248019",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/weavinghills/profilecard/?igsh=MTEzYTNydGd0ZmZhbg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagwandas Chowk, Near, Balawala, Dehradun, Uttarakhand 248001",
+    "area": "Balawala",
+    "latitude": 30.260944,
+    "longitude": 78.1199264,
+    "place_id": "ChIJvdE2J2ElCTkRrm-oGQ4Z4lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdE2J2ElCTkRrm-oGQ4Z4lk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:15"
+  }
+]

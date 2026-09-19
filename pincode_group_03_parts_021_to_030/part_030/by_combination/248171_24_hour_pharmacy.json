@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doon medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "University",
+    "all_categories": "University",
+    "pincode": "248171",
+    "phone_number": "+91 93897 08549",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "72V2+RRH, Ambala - Dehradun Rd, Sewla Kalan, Subhash Nagar, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Subhash Nagar",
+    "latitude": 30.2945697,
+    "longitude": 78.0021153,
+    "place_id": "ChIJwb0-M9MrCTkRAlco9HCETKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwb0-M9MrCTkRAlco9HCETKo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:34"
+  },
+  {
+    "business_name": "Vasant Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "248171",
+    "phone_number": "+91 97201 55533",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "82G3+3RJ, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "area": "Vasant Vihar, Indra Nagar Colony",
+    "latitude": 30.325205999999998,
+    "longitude": 78.004526,
+    "place_id": "ChIJPw3ROhEqCTkR3B5YpOwYvJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPw3ROhEqCTkR3B5YpOwYvJM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:35"
+  }
+]

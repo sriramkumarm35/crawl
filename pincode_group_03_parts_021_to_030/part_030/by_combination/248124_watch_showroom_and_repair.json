@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Time Centre",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Bag shop, Watch repair service",
+    "pincode": "248124",
+    "phone_number": "+91 120 437 6841",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 200,
+    "address": "Shop No. B, 6, Shyam Park Extension, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+    "area": "Shyam Park Extension, Sahibabad",
+    "latitude": 28.6782968,
+    "longitude": 77.3641062,
+    "place_id": "ChIJmcdC2Ij6DDkRXny-js0gNjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcdC2Ij6DDkRXny-js0gNjU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:27"
+  },
+  {
+    "business_name": "Titan World - Vikas Nagar, Neemuch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "248124",
+    "phone_number": "+91 80 6291 4572",
+    "website": "https://www.titan.co.in/stores?storeId=XNMPW",
+    "rating": 4.9,
+    "reviews_count": 798,
+    "address": "Shop No G15, Chetak Enclave, Ambedkar Marg Vikas Nagar, near LIC Road, Chauraha, Neemuch, Madhya Pradesh 458441",
+    "area": "Vikas Nagar Scheme No. 14-1, Chauraha",
+    "latitude": 24.4664976,
+    "longitude": 74.86981519999999,
+    "place_id": "ChIJ8URimbRzZjkRkVb9z_CwArM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8URimbRzZjkRkVb9z_CwArM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:29"
+  }
+]

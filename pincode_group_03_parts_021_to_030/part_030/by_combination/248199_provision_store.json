@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "joshi provision store",
+    "search_category": "Provision Store",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Food & Beverage Exporter, Milk delivery service",
+    "pincode": "248199",
+    "phone_number": "+91 75005 61790",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Tiuni, Uttarakhand 248199",
+    "area": "248199",
+    "latitude": 30.9450962,
+    "longitude": 77.84991529999999,
+    "place_id": "ChIJZ_cw_vpTDzkRX9yRo_f5CnY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_cw_vpTDzkRX9yRo_f5CnY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:41"
+  },
+  {
+    "business_name": "Gosain Provision Store and Bhojanalaya",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "248199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WRPW+F8G, Tiuni, Uttarakhand 248199",
+    "area": "248199",
+    "latitude": 30.9361882,
+    "longitude": 77.84583889999999,
+    "place_id": "ChIJn8LUTBJTDzkRc6JzkB0RtmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8LUTBJTDzkRc6JzkB0RtmU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:41"
+  }
+]

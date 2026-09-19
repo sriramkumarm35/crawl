@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Disha Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "248014",
+    "phone_number": "+91 98970 69043",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "131, Ring Rd, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Nehru Colony, Dharampur",
+    "latitude": 30.301812299999998,
+    "longitude": 78.05830619999999,
+    "place_id": "ChIJLbwH6akpCTkR5bW4ID6w6Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbwH6akpCTkR5bW4ID6w6Jw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:02:43"
+  },
+  {
+    "business_name": "Rahul Marketing Agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "248014",
+    "phone_number": "+91 87917 03849",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ring Rd, opposite Saathi Wedding Point, Chakdalanwala, Dehradun, Uttarakhand 248014",
+    "area": "Chakdalanwala",
+    "latitude": 30.2886237,
+    "longitude": 78.06734639999999,
+    "place_id": "ChIJt8J26dIpCTkR6szl58OCMUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8J26dIpCTkR6szl58OCMUY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:02:43"
+  }
+]

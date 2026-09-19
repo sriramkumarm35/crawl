@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E-max Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "248198",
+    "phone_number": "+91 78170 82501",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E-max Computer Education, Berrier, Sahaspur, Uttarakhand 248197",
+    "area": "Berrier",
+    "latitude": 30.3877261,
+    "longitude": 77.81143279999999,
+    "place_id": "ChIJi_CSPgApDzkRy_4KkhwVUBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_CSPgApDzkRy_4KkhwVUBU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:00"
+  },
+  {
+    "business_name": "Global Computer Education Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "248198",
+    "phone_number": "+91 74096 33746",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babugarh Chungi, Vikasnagar Rd, near by Vedansh, Uttarakhand 248198",
+    "area": "Kalyanpur",
+    "latitude": 30.461504899999998,
+    "longitude": 77.76135649999999,
+    "place_id": "ChIJLVPqIgAvDzkRbhmYEXdWD_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVPqIgAvDzkRbhmYEXdWD_s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:00"
+  }
+]

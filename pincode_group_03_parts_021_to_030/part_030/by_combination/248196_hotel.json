@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Meemo's Cafe & Cottages",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "248196",
+    "phone_number": "+91 78950 12234",
+    "website": "https://themeemos.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Meemo's Cafe And Cottages, NH 707A, Makhti, Mussoriee Road, Chakrata, Ichhala, Uttarakhand 248123",
+    "area": "248196",
+    "latitude": 30.6252198,
+    "longitude": 77.916399,
+    "place_id": "ChIJs5DV1jI1DzkRoSUdaG8HbEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5DV1jI1DzkRoSUdaG8HbEQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:01"
+  },
+  {
+    "business_name": "The yak house",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "248196",
+    "phone_number": "+91 86305 18520",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mussoorie chakrata road, magti pokhri, Chakrata, Makhti, Uttarakhand 248123",
+    "area": "magti pokhri",
+    "latitude": 30.628860399999997,
+    "longitude": 77.91827099999999,
+    "place_id": "ChIJgxfv6Ag1DzkRuspqS5CzZfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxfv6Ag1DzkRuspqS5CzZfs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:01"
+  }
+]

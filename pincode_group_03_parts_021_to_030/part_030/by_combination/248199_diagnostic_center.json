@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas Medical Agency",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "248199",
+    "phone_number": "+91 98056 16127",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "near hotel hill view, Tiuni, Uttarakhand 248199",
+    "area": "248199",
+    "latitude": 30.9385023,
+    "longitude": 77.8472213,
+    "place_id": "ChIJpeZEyEhTDzkRdmGpjhsl4OI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeZEyEhTDzkRdmGpjhsl4OI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:49:08"
+  },
+  {
+    "business_name": "Public Health Center Tiuni",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248199",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "WRVX+45Q, Tiuni, Uttarakhand 248199",
+    "area": "248199",
+    "latitude": 30.942847999999998,
+    "longitude": 77.8479993,
+    "place_id": "ChIJB4RrVq5TDzkRtFy7t-KZtss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4RrVq5TDzkRtFy7t-KZtss",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:49:10"
+  }
+]

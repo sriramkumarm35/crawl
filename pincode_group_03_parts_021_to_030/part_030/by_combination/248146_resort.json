@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "248146",
+    "phone_number": "+91 92589 04211",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Mata Wala Bagh, 2, Saharanpur Rd, Laxman Chowk, Dehradun, Uttarakhand 248001",
+    "area": "Laxman Chowk",
+    "latitude": 30.316471399999998,
+    "longitude": 78.0253202,
+    "place_id": "ChIJ6ymidYwpCTkRbfbCbkmTiUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ymidYwpCTkRbfbCbkmTiUg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:47"
+  },
+  {
+    "business_name": "Hotel Drona (GMVN)",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "248146",
+    "phone_number": "+91 135 265 2794",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "829Q+3QG, Gandhi Rd, Naya Nagar, Dhamawala Mohalla, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Naya Nagar, Dhamawala Mohalla, Race Course",
+    "latitude": 30.3174887,
+    "longitude": 78.0389795,
+    "place_id": "ChIJG42XSZQpCTkRIrs0YYbvyOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG42XSZQpCTkRIrs0YYbvyOM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:47"
+  }
+]

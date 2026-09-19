@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nidaan Medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "248016",
+    "phone_number": "+91 96343 09877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dayanagar, Vill- Gujrara Karanpur, Jaintanwala, Gunghora, Dehradun, Uttarakhand 248003",
+    "area": "248016",
+    "latitude": 30.372262799999998,
+    "longitude": 78.0100847,
+    "place_id": "ChIJCfIw1BjVCDkRDOO4S8oX3KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfIw1BjVCDkRDOO4S8oX3KE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:06:54"
+  },
+  {
+    "business_name": "RB Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "248016",
+    "phone_number": "+91 81265 36236",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RB pharma, near pnb bank, Ranipokhari, Listrabad, Uttarakhand 248145",
+    "area": "248016",
+    "latitude": 30.181056599999998,
+    "longitude": 78.2115317,
+    "place_id": "ChIJA0fHceQjCTkRAFGHD2y1078",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0fHceQjCTkRAFGHD2y1078",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:06:57"
+  }
+]

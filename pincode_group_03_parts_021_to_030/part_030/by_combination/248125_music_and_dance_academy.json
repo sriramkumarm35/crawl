@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GroovShala Dance & Fitness Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "248125",
+    "phone_number": "+91 79835 11887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground floor, Arm Fitness Gym, Cinema Gali, near Cinema Hall, Punjabi Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Punjabi Colony",
+    "latitude": 30.468438799999998,
+    "longitude": 77.773805,
+    "place_id": "ChIJW-H53jkvDzkRHNhXRfcdlyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-H53jkvDzkRHNhXRfcdlyw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:13"
+  },
+  {
+    "business_name": "Arpan Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music store",
+    "all_categories": "Music store, Music producer, Movie theater",
+    "pincode": "248125",
+    "phone_number": "+91 94129 38283",
+    "website": "https://youtube.com/channel/UCqQDeZa0CC5TqiYtvA77WcQ",
+    "rating": 4.5,
+    "reviews_count": 18,
+    "address": "Durga Mandir, Gali, Dakpathar Rd, Rasoolpur, Vikasnagar, Uttarakhand 248198",
+    "area": "Rasoolpur",
+    "latitude": 30.4746635,
+    "longitude": 77.7776878,
+    "place_id": "ChIJ3cUsU-IvDzkR8vlHCoXk5Ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3cUsU-IvDzkR8vlHCoXk5Ko",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hashmi furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer",
+    "pincode": "248140",
+    "phone_number": "+91 98975 15801",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "54HF+FMV, Doiwala, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.1786672,
+    "longitude": 78.1241447,
+    "place_id": "ChIJEYpJSkElCTkRMJ47M61IYV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYpJSkElCTkRMJ47M61IYV8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:50"
+  },
+  {
+    "business_name": "Satish Furniture Mart",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "248140",
+    "phone_number": "+91 87557 36485",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dudhli Rd, Nagal Jwalapur, Dehradun, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.194633999999997,
+    "longitude": 78.0796305,
+    "place_id": "ChIJwX52NrEvCTkRvnuObxm8bXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwX52NrEvCTkRvnuObxm8bXo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:50"
+  }
+]

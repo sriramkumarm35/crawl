@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev bhoomi tent",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "248142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQ56+GMM, Anfield Grant, Babugarh, Vikasnagar, Uttarakhand 248198",
+    "area": "Anfield Grant",
+    "latitude": 30.4770933,
+    "longitude": 77.7745027,
+    "place_id": "ChIJFcc9YQAvDzkRIh8c0wL4lg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcc9YQAvDzkRIh8c0wL4lg0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:24:59"
+  },
+  {
+    "business_name": "sameer tent House",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "248142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "CRHC+QX3, Kedarawala, Uttarakhand 248197",
+    "area": "248142",
+    "latitude": 30.429386299999997,
+    "longitude": 77.82243319999999,
+    "place_id": "ChIJ_9MOoo8vDzkRSPOLqCJUpy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9MOoo8vDzkRSPOLqCJUpy0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:25:00"
+  }
+]

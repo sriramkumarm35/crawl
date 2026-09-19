@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rana Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "248123",
+    "phone_number": "+91 81710 89666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Ward no 06, Nagar Palika Parishad, Sinchai Office, Hospital Road, near Patwari chowki, Purola, Uttarakhand 249185",
+    "area": "248123",
+    "latitude": 30.8812887,
+    "longitude": 78.0885168,
+    "place_id": "ChIJt6KLQhmxCDkRGoatKKIxEmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6KLQhmxCDkRGoatKKIxEmk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:17:29"
+  },
+  {
+    "business_name": "Mittal Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "248123",
+    "phone_number": "+91 94120 56504",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 148,
+    "address": "Mittal Book Depot, Pahari Gali, Punjabi Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Punjabi Colony",
+    "latitude": 30.469234699999998,
+    "longitude": 77.7696855,
+    "place_id": "ChIJi63-cb0vDzkRUUU4hkwUiVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi63-cb0vDzkRUUU4hkwUiVI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:17:30"
+  }
+]

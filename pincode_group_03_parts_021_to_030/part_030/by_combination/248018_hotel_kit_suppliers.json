@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amaravati Enterprises",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "248018",
+    "phone_number": "+91 94946 00101",
+    "website": "http://www.amaravatienterprises.com/",
+    "rating": 3.7,
+    "reviews_count": 7,
+    "address": "C3, Road No. 12, Sri Ram Nagar Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Sri Ram Nagar Colony, Banjara Hills",
+    "latitude": 17.4083883,
+    "longitude": 78.4470853,
+    "place_id": "ChIJkW-KorqXyzsR103kZAs8g5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkW-KorqXyzsR103kZAs8g5E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:09:39"
+  },
+  {
+    "business_name": "Custom amenities",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "248018",
+    "phone_number": "+91 85957 10270",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CARI Quarters, Garacharama, Sri Vijaya Puram, West Bengal 744105",
+    "area": "CARI Quarters, Garacharama",
+    "latitude": 11.611417099999999,
+    "longitude": 92.7124702,
+    "place_id": "ChIJmTGnhMyViDARqenW0tJ5wVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTGnhMyViDARqenW0tJ5wVg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:09:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAFAH ENT CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "248009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9379+JF6, Lane Number 2, Doon Vihar, Jakhan, Dehradun, Uttarakhand 248009",
+    "area": "Doon Vihar, Jakhan",
+    "latitude": 30.3640412,
+    "longitude": 78.06865049999999,
+    "place_id": "ChIJjfeNeczXCDkRFBrIePgcNSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfeNeczXCDkRFBrIePgcNSE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:54:41"
+  },
+  {
+    "business_name": "ARIHANT ENTERPRISES",
+    "search_category": "ENT Clinic",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Medical equipment supplier, Surgical supply store",
+    "pincode": "248009",
+    "phone_number": "+91 98373 07890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "56, Subhash Rd, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.3167032,
+    "longitude": 78.04613379999999,
+    "place_id": "ChIJwQdq1L0pCTkRUwJ1jv9fRRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQdq1L0pCTkRUwJ1jv9fRRA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:54:43"
+  }
+]

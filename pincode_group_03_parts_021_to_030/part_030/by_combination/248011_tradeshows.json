@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EventsGram",
+    "search_category": "Tradeshows",
+    "primary_category": "Event technology service",
+    "all_categories": "Event technology service",
+    "pincode": "248011",
+    "phone_number": "+91 70828 07900",
+    "website": "https://www.eventsgram.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Surkabh Chowk, opposite Dr. Y.K. Choudhary, Nandan Vatika, Sirsa, Haryana 125055",
+    "area": "Nandan Vatika",
+    "latitude": 29.531933,
+    "longitude": 75.0353403,
+    "place_id": "ChIJ4SePdl1NETkRmIF0ra0-fm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SePdl1NETkRmIF0ra0-fm4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:58:15"
+  },
+  {
+    "business_name": "BookMyStall",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event technology service, Event venue, Exhibit, Exhibition and trade center, Exhibition planner, Flea market",
+    "pincode": "248011",
+    "phone_number": "+91 97039 49871",
+    "website": "https://www.bookmystall.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Akshay Apartment, 4th Floor Space, Plot No - 13, RBI Colony, Phase 2, Kavuri Hills, Madhapur, Telangana 500033",
+    "area": "RBI Colony, Phase 2, Kavuri Hills, Madhapur",
+    "latitude": 17.4382139,
+    "longitude": 78.39302839999999,
+    "place_id": "ChIJKeEIoduQyzsRh6P_zNVxqZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeEIoduQyzsRh6P_zNVxqZU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:58:15"
+  }
+]

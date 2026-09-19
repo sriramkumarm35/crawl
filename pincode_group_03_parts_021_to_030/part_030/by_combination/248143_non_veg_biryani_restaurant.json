@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BISHT JI RESTAURANT",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "248143",
+    "phone_number": "+91 95688 84122",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dandi Chowk, Rani Pokhari Grant, Uttarakhand 248145",
+    "area": "248143",
+    "latitude": 30.1773132,
+    "longitude": 78.2265024,
+    "place_id": "ChIJebfzbQA9CTkRa46yCuhFELE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebfzbQA9CTkRa46yCuhFELE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:25:56"
+  },
+  {
+    "business_name": "BiryaniMan",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "248143",
+    "phone_number": "+91 79063 57366",
+    "website": "https://biryaniman.codebuzzweb.net/",
+    "rating": 4,
+    "reviews_count": 297,
+    "address": "166, Karanpur Rd, Karanpur, Dehradun, Uttarakhand 248001",
+    "area": "Karanpur",
+    "latitude": 30.326676,
+    "longitude": 78.0544177,
+    "place_id": "ChIJP0ZgISspCTkRNhF_SzbXulA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0ZgISspCTkRNhF_SzbXulA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:25:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doon ventures",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Property investment company",
+    "all_categories": "Property investment company",
+    "pincode": "248198",
+    "phone_number": "+91 60266 09006",
+    "website": "https://doonventures.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Langha Rd, near Bharat petroleum, laxmipur, Vikasnagar, Jaman Khata, Uttarakhand 248198",
+    "area": "laxmipur",
+    "latitude": 30.4296404,
+    "longitude": 77.7914437,
+    "place_id": "ChIJV4wUSYovDzkRVc08AHc4K4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4wUSYovDzkRVc08AHc4K4c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:19"
+  },
+  {
+    "business_name": "anshul home",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "248198",
+    "phone_number": "+91 78958 78278",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaman Khata, Uttarakhand 248198",
+    "area": "248198",
+    "latitude": 30.4319462,
+    "longitude": 77.796167,
+    "place_id": "ChIJfdQAKAAvDzkRZebSEJn3fvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdQAKAAvDzkRZebSEJn3fvU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:19"
+  }
+]

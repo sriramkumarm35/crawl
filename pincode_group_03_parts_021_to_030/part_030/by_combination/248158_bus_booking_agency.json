@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "True Value Holidays",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tour operator",
+    "pincode": "248158",
+    "phone_number": "+91 97588 01413",
+    "website": "https://truevalueholidays.org/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "F 06, near Lala Kashinath Marg, Tilak Nagar, Pul, Dehradun, Uttarakhand 248001",
+    "area": "Tilak Nagar, Pul",
+    "latitude": 30.3264581,
+    "longitude": 78.0326039,
+    "place_id": "ChIJcWTiFOwpCTkRClYBOQRHFww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWTiFOwpCTkRClYBOQRHFww",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:32:15"
+  },
+  {
+    "business_name": "Halduwala",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Minibus taxi service",
+    "all_categories": "Minibus taxi service",
+    "pincode": "248158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "mandir, 114/5 halduwala, near santla devi, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Garhi Cantt",
+    "latitude": 30.4023543,
+    "longitude": 78.0175969,
+    "place_id": "ChIJ0-5t5VTVCDkRxwC2vZHBxhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-5t5VTVCDkRxwC2vZHBxhw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:32:15"
+  }
+]

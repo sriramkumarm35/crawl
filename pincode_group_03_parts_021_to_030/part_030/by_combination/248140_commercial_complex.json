@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Property deals",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "248140",
+    "phone_number": "+91 98708 78249",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatehpur Danda, Mazari Grant, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.1490625,
+    "longitude": 78.1430625,
+    "place_id": "ChIJ67sC5Yo7CTkRfpSwAazPBFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67sC5Yo7CTkRfpSwAazPBFQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:23:51"
+  },
+  {
+    "business_name": "Dashmesh Household & Car Transport",
+    "search_category": "Commercial Complex",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "248140",
+    "phone_number": "N/A",
+    "website": "https://dashmeshpackersandmovers.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2nd floor, Mahawar Shopping Complex, near Sai Honda, Doiwala, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.175877099999997,
+    "longitude": 78.1242422,
+    "place_id": "ChIJSfurTtwlCTkRsV3YGZUQdwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfurTtwlCTkRsV3YGZUQdwo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:23:54"
+  }
+]

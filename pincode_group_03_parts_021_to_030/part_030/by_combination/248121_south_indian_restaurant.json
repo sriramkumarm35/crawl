@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anna Bhavan",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "248121",
+    "phone_number": "+91 63970 17750",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 33,
+    "address": "Bell Road, New Basti, Subhash Nagar, Dehradun, Bharu Wala Grant, Uttarakhand 248002",
+    "area": "New Basti, Subhash Nagar",
+    "latitude": 30.2671665,
+    "longitude": 77.9993689,
+    "place_id": "ChIJ5zA0BAArCTkRxVNmHJazsQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zA0BAArCTkRxVNmHJazsQg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:27"
+  },
+  {
+    "business_name": "Avant-Aroma : South Indian & World Cuisine",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "248121",
+    "phone_number": "+91 95289 30473",
+    "website": "http://www.avant-aroma.com/",
+    "rating": 4.7,
+    "reviews_count": 69,
+    "address": "no. 6, Lane, Post Office Rd, opposite St. Patrick’s Academy, New Basti, Clement Town, Dehradun, Bharu Wala Grant, Uttarakhand 248002",
+    "area": "New Basti, Clement Town",
+    "latitude": 30.2667818,
+    "longitude": 77.99996589999999,
+    "place_id": "ChIJ8y3lOIorCTkRBGZq2W7zqV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y3lOIorCTkRBGZq2W7zqV4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:27"
+  }
+]

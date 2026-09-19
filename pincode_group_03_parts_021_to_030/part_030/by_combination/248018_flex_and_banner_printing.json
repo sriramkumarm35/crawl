@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PrintBuzz",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Design agency, Digital printing service, Sign shop",
+    "pincode": "248018",
+    "phone_number": "+91 96765 81888",
+    "website": "https://printbuzz.in/",
+    "rating": 4.9,
+    "reviews_count": 108,
+    "address": "1st Floor, 1-17/1, 1-8, above Telangana Co-op Apex Bank, Chikkadpally, Hyderabad, Telangana 500020",
+    "area": "Chikkadpally",
+    "latitude": 17.400679,
+    "longitude": 78.49791429999999,
+    "place_id": "ChIJr6GTJgSZyzsRZZg2Hj_llYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6GTJgSZyzsRZZg2Hj_llYs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:09:47"
+  },
+  {
+    "business_name": "Quality Flex",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "248018",
+    "phone_number": "+91 98238 46885",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "40, Chandrapur - Mul - Nagbhir - Nagpur Hwy, Mangalwari, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mangalwari, Mahal",
+    "latitude": 21.142103,
+    "longitude": 79.103771,
+    "place_id": "ChIJYcJqnLbA1DsRJnF6SmzlPMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcJqnLbA1DsRJnF6SmzlPMg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:09:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annam - South Indian restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Cafe, Coffee shop, Pancake restaurant, Restaurant, Tea store, Vegetarian cafe and deli, Vegetarian restaurant",
+    "pincode": "248145",
+    "phone_number": "+91 90686 39349",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 92,
+    "address": "Shop Number 4, Kaintura market, Antalya Ln, Lower, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Lower, Tapovan",
+    "latitude": 30.1291938,
+    "longitude": 78.3279436,
+    "place_id": "ChIJl8BymegXCTkRjD447nwq5Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8BymegXCTkRjD447nwq5Wk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:54"
+  },
+  {
+    "business_name": "Shri Balaji Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Vegetarian restaurant",
+    "pincode": "248145",
+    "phone_number": "+91 97603 64321",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1034,
+    "address": "17 Ghat Road, Near Triveni(Gangaji) Ghat, Ghat Road, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.104885999999997,
+    "longitude": 78.29979399999999,
+    "place_id": "ChIJLccikQQWCTkRgXFgjyM0A5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLccikQQWCTkRgXFgjyM0A5w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:54"
+  }
+]

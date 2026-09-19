@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AUTO Lounge Dehradun",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "248013",
+    "phone_number": "+91 98370 42088",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "84, Rajpur Rd, Darshan Lal Chowk, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Darshan Lal Chowk, Race Course",
+    "latitude": 30.324801599999997,
+    "longitude": 78.0438413,
+    "place_id": "ChIJw93LbhkpCTkR4qpYAhWrKTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw93LbhkpCTkR4qpYAhWrKTI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:01:17"
+  },
+  {
+    "business_name": "Shivaye Luxury Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "248013",
+    "phone_number": "+91 70554 88999",
+    "website": "https://shivayeluxurycars.com/",
+    "rating": 4.8,
+    "reviews_count": 39,
+    "address": "Near, Aaraghar Chowk, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "East Rest Camp, Guru Nanak Vihar, Race Course",
+    "latitude": 30.311352999999997,
+    "longitude": 78.0481521,
+    "place_id": "ChIJI45nzgQpCTkREhjIlU7E4kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI45nzgQpCTkREhjIlU7E4kk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:01:18"
+  }
+]

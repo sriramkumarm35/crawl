@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankur Department store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Indian grocery store",
+    "pincode": "248195",
+    "phone_number": "+91 75002 57819",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "421, kukari Gali, Dakra Bazar, Garhi Cantt, Dehradun, Uttarakhand 248001",
+    "area": "Dakra Bazar, Garhi Cantt",
+    "latitude": 30.352862799999997,
+    "longitude": 78.0255018,
+    "place_id": "ChIJZTOpzg_WCDkRKskYylfaUXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTOpzg_WCDkRKskYylfaUXE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:40:59"
+  },
+  {
+    "business_name": "sahaj departmental store and Fast Food Service",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "248195",
+    "phone_number": "+91 72481 08484",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "post office, village indra nagar galjwari, Ghangora, Dehradun, Uttarakhand 248141",
+    "area": "Ghangora",
+    "latitude": 30.3618633,
+    "longitude": 78.01097639999999,
+    "place_id": "ChIJbX6X2qbVCDkRHxsgn8a3NwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbX6X2qbVCDkRHxsgn8a3NwE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:41:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Lansdowne Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "248124",
+    "phone_number": "+91 94129 55700",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Samskara & Samsara, Upper Goyun, Village, Lansdowne, Uttarakhand 246155",
+    "area": "248124",
+    "latitude": 29.8272476,
+    "longitude": 78.6927718,
+    "place_id": "ChIJZd12KHiDCTkRac2M7mnXbLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZd12KHiDCTkRac2M7mnXbLI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:20"
+  },
+  {
+    "business_name": "House of TGIP",
+    "search_category": "Bar and Pub",
+    "primary_category": "Gastropub",
+    "all_categories": "Gastropub, Bar, Cafe, Hookah bar, Lounge bar, Pub, Restaurant",
+    "pincode": "248124",
+    "phone_number": "+91 87555 53261",
+    "website": "http://www.thegreatindianpub.com/",
+    "rating": 4.1,
+    "reviews_count": 3395,
+    "address": "138/345, Rajpur Rd, Jakhan, Dehradun, Uttarakhand 248001",
+    "area": "Jakhan",
+    "latitude": 30.361687099999997,
+    "longitude": 78.0680302,
+    "place_id": "ChIJec2R_szXCDkRX24jBLF9cxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJec2R_szXCDkRX24jBLF9cxo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:21"
+  }
+]

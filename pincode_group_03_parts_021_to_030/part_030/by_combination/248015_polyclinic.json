@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Combind Healthcare clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center, Hospital, Skin care clinic",
+    "pincode": "248015",
+    "phone_number": "+91 89795 12893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "Wing No. 7, Tea State Rd, Prem Nagar, Dehradun, Uttarakhand 248007",
+    "area": "Prem Nagar",
+    "latitude": 30.3299897,
+    "longitude": 77.9617627,
+    "place_id": "ChIJPSK2OZsqCTkRw5ohRN0QKKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSK2OZsqCTkRw5ohRN0QKKU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:05:07"
+  },
+  {
+    "business_name": "VSSC Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "248015",
+    "phone_number": "+91 471 253 7676",
+    "website": "http://vssc.gov.in/",
+    "rating": 4.4,
+    "reviews_count": 142,
+    "address": "126, TKD Rd, Marappalam, Thiruvananthapuram, Keralam 695004",
+    "area": "Marappalam",
+    "latitude": 8.5205105,
+    "longitude": 76.9454074,
+    "place_id": "ChIJPU6Unt67BTsRvgohrjnIoQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPU6Unt67BTsRvgohrjnIoQ4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:05:07"
+  }
+]

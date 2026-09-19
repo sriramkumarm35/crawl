@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raturi Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248145",
+    "phone_number": "+91 135 243 1754",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 179,
+    "address": "Dehradun Rd, near Vyapar sabha, Manvendera Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Manvendera Nagar",
+    "latitude": 30.110245199999998,
+    "longitude": 78.2942015,
+    "place_id": "ChIJpXcCsh0WCTkRQkwGquDzUI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXcCsh0WCTkRQkwGquDzUI0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:16"
+  },
+  {
+    "business_name": "Dr Richa Raturi Clinic Dehradun Road Rishikesh",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 59,
+    "address": "Dehradun Rd, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.1102375,
+    "longitude": 78.2942082,
+    "place_id": "ChIJrfBjgHQ-CTkReu3kn_6bPiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfBjgHQ-CTkReu3kn_6bPiQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:16"
+  }
+]

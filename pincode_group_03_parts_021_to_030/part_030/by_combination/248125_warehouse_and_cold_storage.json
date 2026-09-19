@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.H. COLD STORAGE",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "248125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A Block, B Block, Sirsa, Haryana 125055",
+    "area": "A Block, B Block",
+    "latitude": 29.540454999999998,
+    "longitude": 75.0250956,
+    "place_id": "ChIJ57Ozw1FMETkRQvV4GZZAyY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57Ozw1FMETkRQvV4GZZAyY4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:36"
+  },
+  {
+    "business_name": "Sagar Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "248125",
+    "phone_number": "+91 98250 51018",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Dantiwada-Kuchawada Rd, Gujarat 385505",
+    "area": "248125",
+    "latitude": 24.3561554,
+    "longitude": 72.3257146,
+    "place_id": "ChIJWUilr5y4XDkRKUg7g1i6v7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUilr5y4XDkRKUg7g1i6v7g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:36"
+  }
+]

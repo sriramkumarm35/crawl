@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENESS Hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "248179",
+    "phone_number": "+91 91676 31997",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ENESS Hospitality, 248179, India",
+    "area": "248179",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_TBaKD_RCDkRoCV9YxTdU_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TBaKD_RCDkRoCV9YxTdU_g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:40:16"
+  },
+  {
+    "business_name": "Queen of hills properties",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "248179",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 74,
+    "address": "hotel naaz Kulri, The Mall Road, Mussoorie, Uttarakhand 248179",
+    "area": "Library Bazar, The Mall Road",
+    "latitude": 30.4601382,
+    "longitude": 78.0637435,
+    "place_id": "ChIJ6_zGRS7RCDkR6LzCMKJBZ_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_zGRS7RCDkR6LzCMKJBZ_4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:40:18"
+  }
+]

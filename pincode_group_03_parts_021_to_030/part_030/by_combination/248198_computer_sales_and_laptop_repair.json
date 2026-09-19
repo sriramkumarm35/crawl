@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patrick Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store",
+    "pincode": "248198",
+    "phone_number": "+91 98377 18069",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "FQ77+RR9, Kalyanpur, Vikasnagar, Babugarh, Uttarakhand 248198",
+    "area": "Kalyanpur",
+    "latitude": 30.4645275,
+    "longitude": 77.7646189,
+    "place_id": "ChIJp-SAsJkvDzkREa0B0M4ffmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-SAsJkvDzkREa0B0M4ffmk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:08"
+  },
+  {
+    "business_name": "Mahesh Computer & Electronics",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "248198",
+    "phone_number": "+91 70181 81006",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 111,
+    "address": "Shop no.12, Daulat Complex, Shimla Bypass, near Uttam Gas Services, BCS, Shimla, Himachal Pradesh 171009",
+    "area": "BCS, New Shimla",
+    "latitude": 31.083391,
+    "longitude": 77.17408,
+    "place_id": "ChIJF0_HOmB5BTkR52pz8kPjYJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0_HOmB5BTkR52pz8kPjYJk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Events Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event venue, Restaurant supply store, Wedding planner",
+    "pincode": "248124",
+    "phone_number": "N/A",
+    "website": "https://mahieventsplanner.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop No 51, Ranikhet Rd, lakhanpur, Ramnagar, Uttarakhand 244715",
+    "area": "lakhanpur",
+    "latitude": 29.4026024,
+    "longitude": 79.12675469999999,
+    "place_id": "ChIJRfSniGATCjkR0BuQImvWgCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfSniGATCjkR0BuQImvWgCQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:19:15"
+  },
+  {
+    "business_name": "EVENT PLANET",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Audiovisual equipment rental service, Caterer, Corporate gift supplier, Event technology service, Event venue, Wedding planner, Wedding service, Wedding venue",
+    "pincode": "248124",
+    "phone_number": "+91 93692 13200",
+    "website": "http://www.eventplanet.in/",
+    "rating": 4.9,
+    "reviews_count": 241,
+    "address": "2/209, Vikaskhand 2, Vikas Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vikaskhand 2, Vikas Khand, Gomti Nagar",
+    "latitude": 26.850008,
+    "longitude": 80.996115,
+    "place_id": "ChIJp78JYAvjmzkRSKljLAzNFM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp78JYAvjmzkRSKljLAzNFM8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:19:17"
+  }
+]

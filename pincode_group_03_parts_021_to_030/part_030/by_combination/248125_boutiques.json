@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248125",
+    "phone_number": "+91 63987 32279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chakrata Rd, near pooja boutique, vyas nehri, Kalsi, vikasnagar, Uttarakhand 248125",
+    "area": "vyas nehri",
+    "latitude": 30.5180945,
+    "longitude": 77.8449988,
+    "place_id": "ChIJh896ZPEzDzkReZ-eEXbDxgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh896ZPEzDzkReZ-eEXbDxgE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:20:20"
+  },
+  {
+    "business_name": "WOW Collections & Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier",
+    "pincode": "248125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lane no.1, Keshav Madhav Puram, Saraswati Vidhya Mandir Inter College, Dakpatthar, Uttarakhand 248125",
+    "area": "248125",
+    "latitude": 30.497135399999998,
+    "longitude": 77.8020045,
+    "place_id": "ChIJj_RzWFYvDzkRWIVYR9y_0N4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_RzWFYvDzkRWIVYR9y_0N4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:20:22"
+  }
+]

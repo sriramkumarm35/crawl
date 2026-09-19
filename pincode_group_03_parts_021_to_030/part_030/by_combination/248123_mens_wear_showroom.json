@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nayra Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248123",
+    "phone_number": "+91 79062 40727",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sahiya Men Rod, Sahiya, Uttarakhand 248196",
+    "area": "248123",
+    "latitude": 30.6131215,
+    "longitude": 77.8738782,
+    "place_id": "ChIJJZ95tVc1DzkRdk0gAOYJ-Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZ95tVc1DzkRdk0gAOYJ-Zo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:27"
+  },
+  {
+    "business_name": "Trendsetter",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248123",
+    "phone_number": "+91 90892 93031",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 74,
+    "address": "near Kali Mandir, Dehrakhas, Patthri Bagh, Dehradun, Uttarakhand 248001",
+    "area": "Dehrakhas, Patthri Bagh",
+    "latitude": 30.303744899999998,
+    "longitude": 78.0226455,
+    "place_id": "ChIJoRf_EAApCTkR-1mJGzvgbQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRf_EAApCTkR-1mJGzvgbQI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:28"
+  }
+]

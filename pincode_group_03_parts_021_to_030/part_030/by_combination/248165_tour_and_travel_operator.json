@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "the insight trips",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "248165",
+    "phone_number": "+91 99979 46307",
+    "website": "http://www.theinsighttrips.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "binsar road, kasar devi, near mohan's cafe, Almora, Uttarakhand 263601",
+    "area": "248165",
+    "latitude": 29.6500985,
+    "longitude": 79.6645738,
+    "place_id": "ChIJl3MixGq3oDkReFZukyYCQnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3MixGq3oDkReFZukyYCQnI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:56"
+  },
+  {
+    "business_name": "Tour & Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Bus tour agency, Travel agency",
+    "pincode": "248165",
+    "phone_number": "+91 90394 55199",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kangda Mandir, Rodi Belwala, Har Ki Pauri, Haridwar, Uttarakhand 249401",
+    "area": "Rodi Belwala, Har Ki Pauri",
+    "latitude": 29.9531323,
+    "longitude": 78.1714691,
+    "place_id": "ChIJAS3CbQJHCTkR5GaBRL0h4eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAS3CbQJHCTkR5GaBRL0h4eM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:58"
+  }
+]

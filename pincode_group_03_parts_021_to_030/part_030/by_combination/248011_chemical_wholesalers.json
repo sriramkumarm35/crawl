@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pimosa Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "248011",
+    "phone_number": "+91 98382 79855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 01, Khasra No.1009, 2, Camp Rd, Selakui, Uttarakhand 248011",
+    "area": "248011",
+    "latitude": 30.3581152,
+    "longitude": 77.8415552,
+    "place_id": "ChIJ01tzedkrDzkRNbMNcoq7LGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01tzedkrDzkRNbMNcoq7LGE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:58:07"
+  },
+  {
+    "business_name": "YASH DYNAMICS PVT.LTD",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "248011",
+    "phone_number": "N/A",
+    "website": "https://www.yashdynamics.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KH. No.122/1M, Selaqui Industrial Area, Mauza, Central Hope Town, Selakui, Uttarakhand 248011",
+    "area": "Selaqui Industrial Area, Mauza",
+    "latitude": 30.373557199999997,
+    "longitude": 77.856833,
+    "place_id": "ChIJ-1Q_CQArDzkRuzt21vfPl4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1Q_CQArDzkRuzt21vfPl4Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:58:08"
+  }
+]

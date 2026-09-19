@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "248123",
+    "phone_number": "+91 84332 19696",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "8XP5+843, Thakurpur Rd, Prem Nagar, Dehradun, Uttarakhand 248007",
+    "area": "Prem Nagar",
+    "latitude": 30.3357691,
+    "longitude": 77.957804,
+    "place_id": "ChIJGZsC6p0qCTkRVasnGWuZwBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZsC6p0qCTkRVasnGWuZwBU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:13"
+  },
+  {
+    "business_name": "Kamal's Dairy & Sweets",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "248123",
+    "phone_number": "+91 82660 00006",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Street Number 11, Rajender Nagar, Dehradun, Uttarakhand 248001",
+    "area": "Rajender Nagar",
+    "latitude": 30.3387636,
+    "longitude": 78.0189175,
+    "place_id": "ChIJV1693AEqCTkRCAcYqUe3kgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1693AEqCTkRCAcYqUe3kgA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:13"
+  }
+]

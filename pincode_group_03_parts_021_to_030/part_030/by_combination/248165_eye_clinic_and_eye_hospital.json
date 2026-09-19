@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Narula Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "248165",
+    "phone_number": "+91 88717 19597",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 41,
+    "address": "Mahaveer Marg, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Neemuch Chawni",
+    "latitude": 24.469133,
+    "longitude": 74.8681998,
+    "place_id": "ChIJ1VTEMnlzZjkReNNCiusrOfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VTEMnlzZjkReNNCiusrOfI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:45"
+  },
+  {
+    "business_name": "Aravind Eye Clinic - Tirumangalam",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248165",
+    "phone_number": "+91 4549 450 502",
+    "website": "http://www.aravind.org/",
+    "rating": 2.9,
+    "reviews_count": 21,
+    "address": "Tirumangalam, Tamil Nadu 625706",
+    "area": "248165",
+    "latitude": 9.8275083,
+    "longitude": 77.9891947,
+    "place_id": "ChIJIcCI9E7SADsRttB3eE34f_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcCI9E7SADsRttB3eE34f_Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:45"
+  }
+]

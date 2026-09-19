@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jasoda Medi Point",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "248012",
+    "phone_number": "+91 84495 04779",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shamshargarh mod, Gullarghati Road, Road, near Rudraksha Jewellers, Balawala, Dehradun, Uttarakhand 248019",
+    "area": "Balawala",
+    "latitude": 30.263684299999998,
+    "longitude": 78.0982398,
+    "place_id": "ChIJQ9xbPrIoCTkR3wo1YAmg96E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9xbPrIoCTkR3wo1YAmg96E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:59:12"
+  },
+  {
+    "business_name": "Balaji Healthcare Services",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency",
+    "pincode": "248012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73Q7+M47, near Railway Crossing, MDDA Colony, Kedar Puram, Dehradun, Uttarakhand 248014",
+    "area": "MDDA Colony, Kedar Puram",
+    "latitude": 30.28915,
+    "longitude": 78.06280559999999,
+    "place_id": "ChIJKYa-JR0pCTkRgrbf_fJZvC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYa-JR0pCTkRgrbf_fJZvC4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 05:59:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto Paradise",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "248143",
+    "phone_number": "+91 87554 25290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7WXF+P4F, Shimla Bypass Rd, Buddi, near Doon Farm House, East Hopetown, Dehradun, Uttarakhand 248007",
+    "area": "248143",
+    "latitude": 30.2993125,
+    "longitude": 77.92281249999999,
+    "place_id": "ChIJDRX2OOzVDjkRFSIMtKdgx20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRX2OOzVDjkRFSIMtKdgx20",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:26:27"
+  },
+  {
+    "business_name": "Maruti Suzuki ARENA (Future Auto Wheels, Doiwala, Haridwar Road)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "248143",
+    "phone_number": "+91 80 3715 0251",
+    "website": "https://www.arenaofdoiwala.com/?utm_source=gmb&utm_medium=google&utm_campaign=seo-local",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "26, MISSARAWALA, Doiwala, Missar Wala Kala, Uttarakhand 248140",
+    "area": "248143",
+    "latitude": 30.1854001,
+    "longitude": 78.12452259999999,
+    "place_id": "ChIJaRWM-kQlCTkRPTMSanCHrdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRWM-kQlCTkRPTMSanCHrdk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:26:29"
+  }
+]

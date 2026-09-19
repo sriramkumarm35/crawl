@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Easy Home Appliances Repair Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Appliance repair service, Microwave oven repair service, Washer & dryer repair service",
+    "pincode": "248171",
+    "phone_number": "+91 87558 92356",
+    "website": "https://easyhomeappliancesrepairservice.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "465, Bhrampuri, Near Power House, Niranjanpur, Majra, Dehradun, Uttarakhand 248171",
+    "area": "Barampuri Chowk, Majra",
+    "latitude": 30.2966473,
+    "longitude": 78.0140076,
+    "place_id": "ChIJzdzcoPorCTkRlgvMh3-4aXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdzcoPorCTkRlgvMh3-4aXc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:38:00"
+  },
+  {
+    "business_name": "S.S Refrigeration",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "248171",
+    "phone_number": "+91 99178 57354",
+    "website": "http://www.tacnican.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near flay ower, Balliwala Chowk, Shivalik Puram, Dehradun, Uttarakhand 248001",
+    "area": "Balliwala Chowk, Shivalik Puram",
+    "latitude": 30.323914499999997,
+    "longitude": 78.0113332,
+    "place_id": "ChIJSb_mcAsrCTkRnXcRg3LI4i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSb_mcAsrCTkRnXcRg3LI4i8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:38:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Chhat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chicken & Mutton Shop",
+    "pincode": "248018",
+    "phone_number": "+91 96342 09092",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Saharanpur Rd, Sewla Kalan, Majra, Dehradun, Uttarakhand 248171",
+    "area": "Sewla Kalan, Majra",
+    "latitude": 30.304161999999998,
+    "longitude": 78.01076189999999,
+    "place_id": "ChIJwR75bw4rCTkRqpuT7mBuEmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwR75bw4rCTkRqpuT7mBuEmg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:08:37"
+  },
+  {
+    "business_name": "Shivay Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "248018",
+    "phone_number": "+91 94107 29681",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0 Ambiwala, near Mahindra Chwok, Dehradun, Uttarakhand 248007",
+    "area": "Lusipur",
+    "latitude": 30.325139999999998,
+    "longitude": 77.93187549999999,
+    "place_id": "ChIJEfXEsrYrCTkRTUiewdcn_hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfXEsrYrCTkRTUiewdcn_hQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:08:37"
+  }
+]

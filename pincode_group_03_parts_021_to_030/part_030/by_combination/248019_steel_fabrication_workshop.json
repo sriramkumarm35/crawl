@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh suppliers",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Stainless steel plant",
+    "all_categories": "Stainless steel plant, Hardware store, Wholesaler",
+    "pincode": "248019",
+    "phone_number": "+91 81267 13638",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Gularghati Rd, near Sai mandir, Gularghati, Balawala, Dehradun, Uttarakhand 248008",
+    "area": "Gularghati, Balawala",
+    "latitude": 30.249336,
+    "longitude": 78.11992839999999,
+    "place_id": "ChIJJ2dwCTwnCTkRWtYtGdgsZX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2dwCTwnCTkRWtYtGdgsZX0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:01"
+  },
+  {
+    "business_name": "Nainwal Fabrication Work",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "248019",
+    "phone_number": "+91 88649 21939",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Girdhar Vihar, Nakronda Rd, near Windlass Steel Factory, Harrawala, Dehradun, Uttarakhand 248008",
+    "area": "248019",
+    "latitude": 30.255329999999997,
+    "longitude": 78.0970442,
+    "place_id": "ChIJqX-iIaovCTkRl9n4bQukfik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX-iIaovCTkRl9n4bQukfik",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:01"
+  }
+]

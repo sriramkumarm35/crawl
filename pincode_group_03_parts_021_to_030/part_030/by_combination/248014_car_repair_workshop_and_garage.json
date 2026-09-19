@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R K Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "248014",
+    "phone_number": "+91 74090 00036",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 102,
+    "address": "48/3, 48, Balbir Rd, Danda Dharampur, Dalanwala, Dehradun, Uttarakhand 248001",
+    "area": "Danda Dharampur, Dalanwala",
+    "latitude": 30.303857299999997,
+    "longitude": 78.0611437,
+    "place_id": "ChIJMZ_F2uApCTkR-ao_-DHtYoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZ_F2uApCTkR-ao_-DHtYoc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:15"
+  },
+  {
+    "business_name": "ALVI motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Mechanic, Car battery store, Car wash, Tire repair shop, Towing service, Wheel alignment service",
+    "pincode": "248014",
+    "phone_number": "+91 63979 41609",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "no puliya, 6, Ring Rd, near Wine Shop, Garhwali Colony, Kidduwala, Dehradun, Uttarakhand 248001",
+    "area": "Garhwali Colony, Kidduwala",
+    "latitude": 30.3045452,
+    "longitude": 78.0756081,
+    "place_id": "ChIJ61K5VwApCTkRqEkxrdOdq2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61K5VwApCTkRqEkxrdOdq2Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:19"
+  }
+]

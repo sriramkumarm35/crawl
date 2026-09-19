@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PWD guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "248165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "MQJ8+43C, Maghgaon, Uttarakhand 248196",
+    "area": "248165",
+    "latitude": 30.680311999999997,
+    "longitude": 77.7651405,
+    "place_id": "ChIJsSsPt-E3DzkR_6Xc5khSINo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSsPt-E3DzkR_6Xc5khSINo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:36:22"
+  },
+  {
+    "business_name": "Govt Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "248165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JQ6J+28C, Koti, Uttarakhand 248165",
+    "area": "248165",
+    "latitude": 30.6104916,
+    "longitude": 77.7805504,
+    "place_id": "ChIJ-adcIro3DzkRhDrQFufqu9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-adcIro3DzkRhDrQFufqu9E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:36:22"
+  }
+]

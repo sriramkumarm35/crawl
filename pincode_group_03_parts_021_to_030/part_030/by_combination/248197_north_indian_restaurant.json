@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Bucks Cafe",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "248197",
+    "phone_number": "+91 75000 88819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "0, Sahaspur Road, Sahaspur, Uttarakhand 248197",
+    "area": "248197",
+    "latitude": 30.3902753,
+    "longitude": 77.8099065,
+    "place_id": "ChIJw7yj7A4pDzkRB66x9TNUrS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7yj7A4pDzkRB66x9TNUrS4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:57"
+  },
+  {
+    "business_name": "Basil Bistro",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Fast food restaurant, Restaurant",
+    "pincode": "248197",
+    "phone_number": "+91 91052 22230",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "dunga road, village, Manduwala, Dehradun, Uttarakhand 248007",
+    "area": "Manduwala",
+    "latitude": 30.388684899999998,
+    "longitude": 77.9440705,
+    "place_id": "ChIJ-x74v9vUCDkRb1PT2i5rDYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-x74v9vUCDkRb1PT2i5rDYg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:57"
+  }
+]

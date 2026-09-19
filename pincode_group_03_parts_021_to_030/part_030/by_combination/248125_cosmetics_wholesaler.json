@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak Ventures",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Stationery wholesaler",
+    "pincode": "248125",
+    "phone_number": "+91 91832 55355",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Langha Rd, Vikasnagar, Chharba, Uttarakhand 248197",
+    "area": "Vikasnagar",
+    "latitude": 30.415333399999998,
+    "longitude": 77.794533,
+    "place_id": "ChIJ4a6spcMvDzkRusIq4IUan10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4a6spcMvDzkRusIq4IUan10",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:20:55"
+  },
+  {
+    "business_name": "Jai Jawala Ji Beauty Cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "248125",
+    "phone_number": "+91 91937 06525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CR8C+R9, Chharba, Uttarakhand 248197",
+    "area": "248125",
+    "latitude": 30.416649699999997,
+    "longitude": 77.8212552,
+    "place_id": "ChIJETxb6zgrCTkR5Uzjsn8Soi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETxb6zgrCTkR5Uzjsn8Soi8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:20:55"
+  }
+]

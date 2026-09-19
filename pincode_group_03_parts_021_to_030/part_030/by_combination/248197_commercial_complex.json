@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property dealer",
+    "search_category": "Commercial Complex",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency",
+    "pincode": "248197",
+    "phone_number": "+91 82799 35849",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "UPS College, Panda Road, Bidholi, Dehradun, Uttarakhand 248007",
+    "area": "248197",
+    "latitude": 30.412028,
+    "longitude": 77.96919729999999,
+    "place_id": "ChIJ4cadJU7VCDkRueBLiKBKS8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cadJU7VCDkRueBLiKBKS8o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:46:44"
+  },
+  {
+    "business_name": "Brick2Brick Construction & Interior's",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "248197",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "207 office, Shimla Bypass Rd, opp. doon enclave, Dehradun, Kalyanpur, Uttarakhand 248171",
+    "area": "248197",
+    "latitude": 30.3553349,
+    "longitude": 77.8170471,
+    "place_id": "ChIJdeGffA8pDzkR2NlAys0ZfBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeGffA8pDzkR2NlAys0ZfBk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:46:45"
+  }
+]

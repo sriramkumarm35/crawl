@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DEEPAK OIL MILLS",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "248125",
+    "phone_number": "+91 76666 95024",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kasimpur Nagri, Uttar Pradesh 202131",
+    "area": "248125",
+    "latitude": 28.054947199999997,
+    "longitude": 78.396665,
+    "place_id": "ChIJ3RCwSmPPdDkRnb9W7t93M28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RCwSmPPdDkRnb9W7t93M28",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:36"
+  },
+  {
+    "business_name": "Jain Ki Chakki",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "248125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 131,
+    "address": "470, Model Colony, East Bhatia Nagar, Yamuna Nagar, Haryana 135001",
+    "area": "Model Colony, East Bhatia Nagar",
+    "latitude": 30.132503099999997,
+    "longitude": 77.2992507,
+    "place_id": "ChIJh5MfHzL6DjkR7_6RbRsT9dY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5MfHzL6DjkR7_6RbRsT9dY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:37"
+  }
+]

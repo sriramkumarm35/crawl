@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hills Facility Management Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "248197",
+    "phone_number": "+91 96772 45110",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Naya Goun, Shimla Bypass Rd, Kashyap Colony, Dehradun, Polio Nathuwala, Uttarakhand 248007",
+    "area": "Kashyap Colony",
+    "latitude": 30.307525599999998,
+    "longitude": 77.9074594,
+    "place_id": "ChIJg_foEYHVDjkRRnoRHu-lpRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_foEYHVDjkRRnoRHu-lpRY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:46:21"
+  },
+  {
+    "business_name": "Tumbledry Dry Clean & Laundry Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner, Carpet cleaning service, Laundry, Laundry service, Shoe repair shop",
+    "pincode": "248197",
+    "phone_number": "+91 76772 50250",
+    "website": "https://tumbledry.in/store-locations/tumbledry-dry-clean-laundry-store-vikas-nagar-dehradun/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Near, Chowk, Pahari Gali, opposite Prakash Hotel, Vikasnagar, Uttarakhand 248198",
+    "area": "Punjabi Colony",
+    "latitude": 30.468254599999998,
+    "longitude": 77.77050779999999,
+    "place_id": "ChIJz3qIel8vDzkRx2IDgvBA3GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3qIel8vDzkRx2IDgvBA3GQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:46:21"
+  }
+]

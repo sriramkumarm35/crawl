@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "super star h/w & paints",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "248171",
+    "phone_number": "+91 96347 96043",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 23,
+    "address": "328, GMS Rd, Sewla Kalan, Majra, Dehradun, Shewala Kala, Uttarakhand 248171",
+    "area": "Sewla Kalan, Majra",
+    "latitude": 30.2943546,
+    "longitude": 77.9978228,
+    "place_id": "ChIJs21oucorCTkRfjvARPV7O34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs21oucorCTkRfjvARPV7O34",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:53"
+  },
+  {
+    "business_name": "Moon Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "248171",
+    "phone_number": "+91 98374 82291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shimla Bypass Rd, Majra, Dehradun, Uttarakhand 248171",
+    "area": "Majra",
+    "latitude": 30.289439299999998,
+    "longitude": 78.0035209,
+    "place_id": "ChIJycHi824rCTkRQy-prbOAVls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycHi824rCTkRQy-prbOAVls",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:56"
+  }
+]

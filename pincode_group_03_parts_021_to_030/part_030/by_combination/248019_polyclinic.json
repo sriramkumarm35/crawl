@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raturi Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "248019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kargi Rd, Chandchak, Banjarawala, Dehradun, Uttarakhand 248121",
+    "area": "Chandchak, Banjarawala",
+    "latitude": 30.2781344,
+    "longitude": 78.0278178,
+    "place_id": "ChIJC9eOYb8pCTkRxn6Y7BhbY8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9eOYb8pCTkRxn6Y7BhbY8g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:10:54"
+  },
+  {
+    "business_name": "Government Hospital (PHC MEHUWALA)",
+    "search_category": "Polyclinic",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "248019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "8X6J+HVW, Shimla Bypass Rd, Telpur, Mehuwala, Dehradun, Khemadoj, Uttarakhand 248018",
+    "area": "Telpur, Mehuwala",
+    "latitude": 30.3114873,
+    "longitude": 77.9821985,
+    "place_id": "ChIJNUHhfFwqCTkRnIf3548VF2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUHhfFwqCTkRnIf3548VF2g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:10:54"
+  }
+]

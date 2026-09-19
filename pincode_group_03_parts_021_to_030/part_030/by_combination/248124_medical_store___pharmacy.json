@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "248124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Barnigad, Kunwa, Uttarakhand 249171",
+    "area": "248124",
+    "latitude": 30.7214557,
+    "longitude": 78.0849793,
+    "place_id": "ChIJB4Q6VKm3CDkRbBRQp0S370E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4Q6VKm3CDkRbBRQp0S370E",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:28"
+  },
+  {
+    "business_name": "Mohd Osama So Vakeel",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "248124",
+    "phone_number": "+91 75207 07072",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gular Ghatti Rd, beside Red Rose Academy, Chowk, Ramnagar, Shankarpur Bhud, Uttarakhand 244715",
+    "area": "Chowk",
+    "latitude": 29.3871251,
+    "longitude": 79.1270076,
+    "place_id": "ChIJg_8eo08TCjkRKRKbuH9NFzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_8eo08TCjkRKRKbuH9NFzA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:29"
+  }
+]

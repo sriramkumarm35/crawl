@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar auto spare parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "248140",
+    "phone_number": "+91 94103 65134",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "देहरादून रोड, Doiwala, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.178561499999997,
+    "longitude": 78.1244621,
+    "place_id": "ChIJHaP7UU4lCTkR-RdgtYAFclo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaP7UU4lCTkR-RdgtYAFclo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:31"
+  },
+  {
+    "business_name": "ShubhLabh Two Wheeler Spare Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "248140",
+    "phone_number": "+91 81716 26768",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aamwali Lane, Majri Grant, Doiwala, DEHRADUN, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.1525985,
+    "longitude": 78.1478269,
+    "place_id": "ChIJleeM9zM7CTkRKnr8kLjSfZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleeM9zM7CTkRKnr8kLjSfZ4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:33"
+  }
+]

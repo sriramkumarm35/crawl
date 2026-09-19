@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KONOHA CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "248197",
+    "phone_number": "+91 98706 01929",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 158,
+    "address": "Girl Hostel, Road Kandhoi, Kharakhet, Uttarakhand 248197",
+    "area": "248197",
+    "latitude": 30.4161893,
+    "longitude": 77.9716571,
+    "place_id": "ChIJnfFkKOzVCDkRgAmgMZqc-xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfFkKOzVCDkRgAmgMZqc-xI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:58"
+  },
+  {
+    "business_name": "Coffee Time",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "248197",
+    "phone_number": "+91 81999 99861",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 42,
+    "address": "Near doon institute of medical science shankarpur sahapur, Dehradun, Uttarakhand 248197",
+    "area": "248197",
+    "latitude": 30.3920627,
+    "longitude": 77.8282893,
+    "place_id": "ChIJ0YX08uUpDzkRnFsnwszrG3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YX08uUpDzkRnFsnwszrG3o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:45:01"
+  }
+]

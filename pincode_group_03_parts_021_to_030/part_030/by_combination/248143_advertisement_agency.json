@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Media Gen",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency, Service establishment, Internet marketing service, Marketing consultant",
+    "pincode": "248143",
+    "phone_number": "N/A",
+    "website": "http://mediagen.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Media Gen, 248143, India",
+    "area": "248143",
+    "latitude": 9.374110199999999,
+    "longitude": -179.3878585,
+    "place_id": "ChIJOYJ1w1P6-6URRLqxlQPdVIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYJ1w1P6-6URRLqxlQPdVIE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:35"
+  },
+  {
+    "business_name": "Sumit Shop",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "248143",
+    "phone_number": "+91 98971 18155",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rishikesh Rd, Doiwala, Uttarakhand 248140",
+    "area": "248143",
+    "latitude": 30.1766036,
+    "longitude": 78.12583289999999,
+    "place_id": "ChIJH5L77MclCTkRzttmPMs7JUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5L77MclCTkRzttmPMs7JUo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:37"
+  }
+]

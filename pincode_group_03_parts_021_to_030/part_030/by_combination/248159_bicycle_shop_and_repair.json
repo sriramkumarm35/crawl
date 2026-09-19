@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Arjan Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store, Toy store",
+    "pincode": "248159",
+    "phone_number": "+91 99274 73120",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 37,
+    "address": "11, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.873324999999998,
+    "longitude": 77.88922409999999,
+    "place_id": "ChIJr7dexH2zDjkR0UeCuEappBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7dexH2zDjkR0UeCuEappBw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:34:06"
+  },
+  {
+    "business_name": "DUA CYCLE STORE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "248159",
+    "phone_number": "+91 97616 94939",
+    "website": "https://avoncycles.com/",
+    "rating": 3.4,
+    "reviews_count": 11,
+    "address": "11, Civil Lines Main Market Road, Near sudershan plaza, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8733787,
+    "longitude": 77.8893884,
+    "place_id": "ChIJDTkuyX2zDjkRyykwWaiqQTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDTkuyX2zDjkRyykwWaiqQTg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:34:06"
+  }
+]

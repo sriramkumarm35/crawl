@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dog Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Dog day care center",
+    "all_categories": "Dog day care center",
+    "pincode": "248145",
+    "phone_number": "+91 94129 15777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 13,
+    "address": "508, Virbhadra Rd, near New Sabji Mandi Gate, Sai Vihar Colony, Awas Vikas Colony, Rishikesh, Uttarakhand 249201",
+    "area": "Sai Vihar Colony, Awas Vikas Colony",
+    "latitude": 30.0937859,
+    "longitude": 78.288147,
+    "place_id": "ChIJLyN4rwA-CTkRjCXn_sOoETI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLyN4rwA-CTkRjCXn_sOoETI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:17"
+  },
+  {
+    "business_name": "Government Veterinary Hospital Rishikesh",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248145",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 38,
+    "address": "476V+JG4, Dehradun Rd, Manvendera Nagar, Rishikesh, Uttarakhand 249201",
+    "area": "Manvendera Nagar",
+    "latitude": 30.1115025,
+    "longitude": 78.2938151,
+    "place_id": "ChIJHbJdaFcXCTkR0aQyMeSpUxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbJdaFcXCTkR0aQyMeSpUxM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:19"
+  }
+]

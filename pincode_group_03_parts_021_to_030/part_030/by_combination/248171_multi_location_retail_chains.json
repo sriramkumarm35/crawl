@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sikka Warehouse",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "248171",
+    "phone_number": "+91 94117 12837",
+    "website": "https://sikkaassociate.com/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "GMS Rd, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248001",
+    "area": "Shakti Enclave, Kaonli",
+    "latitude": 30.316303599999998,
+    "longitude": 78.0115596,
+    "place_id": "ChIJHQ46vWIrCTkRAjPiqjAP59c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQ46vWIrCTkRAjPiqjAP59c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:39:02"
+  },
+  {
+    "business_name": "Durga Business Centre",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Courier service, Lamination service, Passport photo processor",
+    "pincode": "248171",
+    "phone_number": "+91 82189 96090",
+    "website": "https://dbc.org.in/",
+    "rating": 4.6,
+    "reviews_count": 59,
+    "address": "Raj Vihar, Balliwala, Dehradun, Uttarakhand 248006",
+    "area": "Raj Vihar, Balliwala",
+    "latitude": 30.3257877,
+    "longitude": 78.00188229999999,
+    "place_id": "ChIJtwfoHfkrCTkR5MN9fOwfly8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwfoHfkrCTkR5MN9fOwfly8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:39:05"
+  }
+]

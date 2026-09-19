@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Tile store",
+    "pincode": "248014",
+    "phone_number": "+91 96756 28100",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "near St. John s digital Academy, Nehrugram, Dehradun, Uttarakhand 248014",
+    "area": "Nehrugram",
+    "latitude": 30.292181199999998,
+    "longitude": 78.0809045,
+    "place_id": "ChIJWxu7OQAlCTkRQBnsI6AkWh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWxu7OQAlCTkRQBnsI6AkWh0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:25"
+  },
+  {
+    "business_name": "Bharat Hardware And Sanitary Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "248014",
+    "phone_number": "+91 99973 27272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Bharat Hardware And Sanitary Store, Rajeev Juyal Rd, Uttam Colony, Brahmanwala, Dehradun, Uttarakhand 248171",
+    "area": "Uttam Colony, Brahmanwala",
+    "latitude": 30.2920779,
+    "longitude": 78.01312109999999,
+    "place_id": "ChIJM96EGAArCTkR72kJNg-pnM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM96EGAArCTkR72kJNg-pnM8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:26"
+  }
+]

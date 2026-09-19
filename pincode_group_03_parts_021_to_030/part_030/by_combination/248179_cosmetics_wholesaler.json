@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swiss Beauty",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "248179",
+    "phone_number": "+91 87008 22713",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "Library Chowk, 2b, Mall Rd, The Mall Road, Dehradun, Mussoorie, Uttarakhand 248179",
+    "area": "The Mall Road",
+    "latitude": 30.4600071,
+    "longitude": 78.06495319999999,
+    "place_id": "ChIJoRgftCTRCDkR2HHPYXSB7yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRgftCTRCDkR2HHPYXSB7yE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:40:05"
+  },
+  {
+    "business_name": "Sonu Monu Enterprises",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Beauty product supplier, Beauty Products Wholesaler, Cosmetic Products Manufacturer, Cosmetics store",
+    "pincode": "248179",
+    "phone_number": "+91 80042 34396",
+    "website": "http://sonumonu.in/app",
+    "rating": 4.6,
+    "reviews_count": 95,
+    "address": "Ck 47/23 Opp. East Gate Benia Bagh, Sarai harha, Varanasi, Uttar Pradesh 221001",
+    "area": "Benia Bagh",
+    "latitude": 25.3140289,
+    "longitude": 83.0065631,
+    "place_id": "ChIJ0b5sVAMujjkRsO-JOA2O57k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0b5sVAMujjkRsO-JOA2O57k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:40:05"
+  }
+]

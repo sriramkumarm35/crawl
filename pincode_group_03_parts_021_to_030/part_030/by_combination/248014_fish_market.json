@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Bazaar",
+    "search_category": "Fish Market",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler, Garden center",
+    "pincode": "248014",
+    "phone_number": "N/A",
+    "website": "http://www.facebook.com/Delhi-Bazaar-1901971666738992/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Syama market, Nehrugram, near Dobhal Chowk, Dehradun, Uttarakhand 248014",
+    "area": "Dobhal Chowk, Nehrugram",
+    "latitude": 30.2989003,
+    "longitude": 78.08093629999999,
+    "place_id": "ChIJ9-dOlPYoCTkRUxpvAPa3imo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-dOlPYoCTkRUxpvAPa3imo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:02:42"
+  },
+  {
+    "business_name": "BR CHAMPARAN MEAT HOUSE",
+    "search_category": "Fish Market",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Chicken & Mutton Shop, Fried chicken takeaway, Mutton barbecue restaurant, Non Vegetarian Restaurant",
+    "pincode": "248014",
+    "phone_number": "+91 99055 26000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 1746,
+    "address": "0PP, SHIVALIK HOMOEOPATHIC STORE, Gandhi Rd, Darshan Lal Chowk, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Darshan Lal Chowk, Race Course",
+    "latitude": 30.322073399999997,
+    "longitude": 78.0424584,
+    "place_id": "ChIJHUpoVEUpCTkR6OebGQ8oCfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUpoVEUpCTkR6OebGQ8oCfs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:02:43"
+  }
+]

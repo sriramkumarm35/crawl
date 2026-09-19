@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SURESH WARADE ST",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "248199",
+    "phone_number": "+91 91052 37973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TUINI UPPER BAZAR, VILLAGE, near SBI BANK MAIN MARKET, Uttarakhand 248199",
+    "area": "248199",
+    "latitude": 30.901601,
+    "longitude": 77.9059826,
+    "place_id": "ChIJE20447RTDzkRKoPBO5Te1kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE20447RTDzkRKoPBO5Te1kk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:38"
+  },
+  {
+    "business_name": "CHAUHAN DAILY NEEDS STORE",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "248199",
+    "phone_number": "+91 95487 90018",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Arakot-Chinwa Rd, Arakot, Uttarakhand 249128",
+    "area": "248199",
+    "latitude": 31.040932599999998,
+    "longitude": 77.8287991,
+    "place_id": "ChIJ9fq7IElXDzkRU0nUj3h72Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fq7IElXDzkRU0nUj3h72Rg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:38"
+  }
+]

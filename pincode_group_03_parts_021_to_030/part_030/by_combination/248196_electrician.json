@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choudhary electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "248196",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijay Nagar, Vikas Lok, Adhoiwala, Dehradun, Uttarakhand 248001",
+    "area": "Vijay Nagar, Vikas Lok, Adhoiwala",
+    "latitude": 30.327183899999998,
+    "longitude": 78.0622427,
+    "place_id": "ChIJWSiWd8UpCTkR3kljviRtrm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSiWd8UpCTkR3kljviRtrm8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:43:46"
+  },
+  {
+    "business_name": "Shubhi Electrical Service",
+    "search_category": "Electrician",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "248196",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 2, Bhardwaj House, NH 707, Kando, Himachal Pradesh 173027",
+    "area": "248196",
+    "latitude": 30.7089152,
+    "longitude": 77.7153732,
+    "place_id": "ChIJxzdPiVJHDzkR5zpJ1HVao1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzdPiVJHDzkR5zpJ1HVao1s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:43:47"
+  }
+]

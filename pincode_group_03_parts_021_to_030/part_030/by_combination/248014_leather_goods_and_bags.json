@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bata Shoe Store - Mall Of Dehradun, Mohkampur",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Bag shop, Belt shop, Boot store, Clothing store",
+    "pincode": "248014",
+    "phone_number": "+91 80 6986 6660",
+    "website": "https://stores.bata.com/bata-shoes-sandals-store-in-mohkampur-dehradun",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Second Floor, Mall Of, No. 2F/31, Haridwar - Dehradun Rd, near Future World, IIP, Mohkampur, Dehradun, Mohkam Pur Khurd, Uttarakhand 248001",
+    "area": "IIP, Mohkampur",
+    "latitude": 30.2669459,
+    "longitude": 78.08184969999999,
+    "place_id": "ChIJ_fpAJLspCTkR-JUE_oKI36s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fpAJLspCTkR-JUE_oKI36s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:00"
+  },
+  {
+    "business_name": "Hindustan Leather Works",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "248014",
+    "phone_number": "+91 81262 10552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "223, Danda Dharampur, Sanjay Nagar, Dehradun, Uttarakhand 248014",
+    "area": "Danda Dharampur, Sanjay Nagar",
+    "latitude": 30.2940857,
+    "longitude": 78.0588848,
+    "place_id": "ChIJHceJbQQpCTkRd9lBYimg-Oo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHceJbQQpCTkRd9lBYimg-Oo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "248145",
+    "phone_number": "+91 87560 37190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lane, 12, Garhi Rd, Shyampur, Rishikesh, Uttarakhand 249204",
+    "area": "Khairi Kalaa, Shyampur",
+    "latitude": 30.061671699999998,
+    "longitude": 78.2278884,
+    "place_id": "ChIJLXwzQmA_CTkRboTW0wFPmBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXwzQmA_CTkRboTW0wFPmBE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:02"
+  },
+  {
+    "business_name": "Ratnakar Jewellers (रत्नाकर ज्वेलर्स)",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Coin dealer, Goldsmith, Jewelry appraiser, Jeweler, Jewelry store, Pawn shop, Silversmith",
+    "pincode": "248145",
+    "phone_number": "+91 99272 13540",
+    "website": "https://m.facebook.com/ratnakargems/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "63, Mukherji Marg, Mayakund, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.1060824,
+    "longitude": 78.2989343,
+    "place_id": "ChIJ0yuD0bEXCTkR8A_L6wO7q1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yuD0bEXCTkR8A_L6wO7q1I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "248145",
+    "phone_number": "+91 93689 28412",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ISBT Rd, opp. Hotel tilak tehri bus stand, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+    "area": "Adarsh Gram",
+    "latitude": 30.113190799999998,
+    "longitude": 78.2947894,
+    "place_id": "ChIJR01NFKAXCTkRuInf-imZRqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR01NFKAXCTkRuInf-imZRqg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:08"
+  },
+  {
+    "business_name": "Aradhya Medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Alternative Medicine Clinic",
+    "pincode": "248145",
+    "phone_number": "+91 88595 34749",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 75,
+    "address": "Swarg ashram Gaddi, Swargashram, near SBI Bank Ramjhula, Jonk, Uttarakhand 249304",
+    "area": "Swarg Ashram",
+    "latitude": 30.120570999999998,
+    "longitude": 78.3154651,
+    "place_id": "ChIJOxPGcw8XCTkRjmaW6BrlCgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxPGcw8XCTkRjmaW6BrlCgA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:12"
+  }
+]

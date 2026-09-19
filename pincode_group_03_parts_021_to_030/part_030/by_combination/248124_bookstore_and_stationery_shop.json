@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya Books and Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "248124",
+    "phone_number": "+91 92593 10807",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "East Ambar Talaab, B.T. Ganj, Roorkee, Uttarakhand 247667",
+    "area": "East Ambar Talaab, B.T. Ganj",
+    "latitude": 29.874658,
+    "longitude": 77.885634,
+    "place_id": "ChIJ2RLYKX6zDjkRGzKvATKRFng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RLYKX6zDjkRGzKvATKRFng",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:19:22"
+  },
+  {
+    "business_name": "Shiv Stationers & General Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "248124",
+    "phone_number": "+91 98975 44844",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "Laksar Rd, Dhandhera, Ashok Nagar, Roorkee, Uttarakhand 247666",
+    "area": "Dhandhera, Ashok Nagar",
+    "latitude": 29.843549999999997,
+    "longitude": 77.8978149,
+    "place_id": "ChIJObVjCBqzDjkRKNjq6KEtx4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJObVjCBqzDjkRKNjq6KEtx4U",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:19:25"
+  }
+]

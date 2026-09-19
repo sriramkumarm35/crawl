@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Saini Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "248124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Kargi Rd, near Bhagirathi School, Vidya Vihar, Narayan Vihar, Brahmanwala, Dehradun, Uttarakhand 248001",
+    "area": "Vidya Vihar, Narayan Vihar, Brahmanwala",
+    "latitude": 30.294948299999998,
+    "longitude": 78.0265599,
+    "place_id": "ChIJv98lRwApCTkR5JSKkLBx2Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv98lRwApCTkR5JSKkLBx2Oc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:19:07"
+  },
+  {
+    "business_name": "Om flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "248124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "74R3+847, Raipur - Balawala Rd, Kalinga Colony, Tunwala, Nathuawala, Dehradun, Ranjhawala, Uttarakhand 248005",
+    "area": "Kalinga Colony, Tunwala, Nathuawala",
+    "latitude": 30.2907804,
+    "longitude": 78.1027994,
+    "place_id": "ChIJmwrTcQApCTkREgDnFrmtBdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwrTcQApCTkREgDnFrmtBdw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:19:09"
+  }
+]

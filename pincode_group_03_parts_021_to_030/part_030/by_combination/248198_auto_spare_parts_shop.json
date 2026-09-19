@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M K AUTOMOBILE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Rest stop",
+    "pincode": "248198",
+    "phone_number": "+91 81262 24830",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "NAWABGARH, DOCTARGANJ DAKPATHER, ROAD, Vikasnagar, Uttarakhand 248198",
+    "area": "Anfield Grant",
+    "latitude": 30.477618699999997,
+    "longitude": 77.7742118,
+    "place_id": "ChIJ922RwP4vDzkR8wIBIwA9TN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ922RwP4vDzkR8wIBIwA9TN4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:26"
+  },
+  {
+    "business_name": "Shivi Auto Service",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "248198",
+    "phone_number": "+91 76176 59932",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "09, Vikasnagar, Uttarakhand 248198",
+    "area": "Anfield Grant",
+    "latitude": 30.4750905,
+    "longitude": 77.7652988,
+    "place_id": "ChIJv3EiaawvDzkRhZcg06HZZO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3EiaawvDzkRhZcg06HZZO0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:26"
+  }
+]

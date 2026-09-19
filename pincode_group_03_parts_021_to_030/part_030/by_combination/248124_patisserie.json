@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Little oven café and bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "248124",
+    "phone_number": "+91 78274 79986",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 94,
+    "address": "Prem Villa, near barat ghar, Dehradun, Kharakhet, Uttarakhand 248007",
+    "area": "248124",
+    "latitude": 30.3981447,
+    "longitude": 77.9665732,
+    "place_id": "ChIJdXbDKxbVCDkRQ4c7tTQ8eNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXbDKxbVCDkRQ4c7tTQ8eNo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:11"
+  },
+  {
+    "business_name": "Vishal Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Florist",
+    "pincode": "248124",
+    "phone_number": "+91 98370 96056",
+    "website": "http://www.vishalbakery.com/",
+    "rating": 4.3,
+    "reviews_count": 1423,
+    "address": "Near, munshi ram chauraha, Kashipur, Uttarakhand 244713",
+    "area": "248124",
+    "latitude": 29.216036499999998,
+    "longitude": 78.9554528,
+    "place_id": "ChIJZcF_gupDCjkR_t1_5CEezfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcF_gupDCjkR_t1_5CEezfE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:11"
+  }
+]

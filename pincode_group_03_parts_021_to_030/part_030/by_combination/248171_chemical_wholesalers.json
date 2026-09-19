@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan chemical",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "248171",
+    "phone_number": "+91 82793 96643",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Govind Garh, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Govind Garh, Khurbura Mohalla",
+    "latitude": 30.3233575,
+    "longitude": 78.0180409,
+    "place_id": "ChIJT2-6vK8rCTkRe5JWKl4U23c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2-6vK8rCTkRe5JWKl4U23c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:38:48"
+  },
+  {
+    "business_name": "Navanexus By Shagun Trading Company Dehradun",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "248171",
+    "phone_number": "+91 97199 24906",
+    "website": "https://navanexus.in/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "GMS Rd, Sewla Kalan, Majra, Dehradun, Shewala Kala, Uttarakhand 248171",
+    "area": "Sewla Kalan, Majra",
+    "latitude": 30.295168399999998,
+    "longitude": 77.9983079,
+    "place_id": "ChIJKSscYesrCTkRPBMNucgF7sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSscYesrCTkRPBMNucgF7sQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:38:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Shoe Center",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "248159",
+    "phone_number": "+91 95570 56900",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "near Vishal Megamart, opp. Telephone Exchange, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.874316999999998,
+    "longitude": 77.8921931,
+    "place_id": "ChIJQ1CBFH2zDjkRooa_wVJu39g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1CBFH2zDjkRooa_wVJu39g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:43"
+  },
+  {
+    "business_name": "Inder shoes repair",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop",
+    "pincode": "248159",
+    "phone_number": "+91 79824 20982",
+    "website": "https://g.co/kgs/9p7bqKh",
+    "rating": 4.6,
+    "reviews_count": 64,
+    "address": "T Hut, 16, Kishore Nagar, Rana Pratap Bagh, Ashok Vihar, Delhi, 110007",
+    "area": "Kishore Nagar, Rana Pratap Bagh, Ashok Vihar",
+    "latitude": 28.683548,
+    "longitude": 77.19260489999999,
+    "place_id": "ChIJ0zS-rhcDDTkRtaFiREUEqW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zS-rhcDDTkRtaFiREUEqW8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:46"
+  }
+]

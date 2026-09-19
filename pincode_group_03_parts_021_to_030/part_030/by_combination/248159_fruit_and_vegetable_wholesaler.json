@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fruit Walea Bhaiya",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "248159",
+    "phone_number": "+91 86501 77972",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Herbertpur, Uttarakhand 248142",
+    "area": "248159",
+    "latitude": 30.4384977,
+    "longitude": 77.7389914,
+    "place_id": "ChIJ--lQOBYlDzkRczojLetmHtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--lQOBYlDzkRczojLetmHtg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:26"
+  },
+  {
+    "business_name": "Padam Singh store",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "248159",
+    "phone_number": "+91 76683 53699",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kotra Kalyanpur, Dehradun, Uttarakhand 248197",
+    "area": "248159",
+    "latitude": 30.438027799999997,
+    "longitude": 77.92551,
+    "place_id": "ChIJa3UBIgAtDzkRmb3tXfS66_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3UBIgAtDzkRmb3tXfS66_g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:26"
+  }
+]

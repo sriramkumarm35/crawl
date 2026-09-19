@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal car washing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "248198",
+    "phone_number": "+91 93597 62044",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road, near Rajasthan marble, Dharmawala, Herbertpur, Uttarakhand 248142",
+    "area": "Dharmawala",
+    "latitude": 30.438286299999998,
+    "longitude": 77.7366242,
+    "place_id": "ChIJvVZA_B8lDzkR-iPnaEWESVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVZA_B8lDzkR-iPnaEWESVg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:24"
+  },
+  {
+    "business_name": "Car Washing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "248198",
+    "phone_number": "+91 93680 99406",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Herbertpur, Uttarakhand 248142",
+    "area": "248198",
+    "latitude": 30.444009899999998,
+    "longitude": 77.7419731,
+    "place_id": "ChIJ72x5FS8lDzkRBvz2otwBso4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72x5FS8lDzkRBvz2otwBso4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:25"
+  }
+]

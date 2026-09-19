@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HRM INFO",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "248195",
+    "phone_number": "N/A",
+    "website": "https://www.hrminfo.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HRM INFO, 248195, India",
+    "area": "248195",
+    "latitude": 20.8584951,
+    "longitude": 76.5545005,
+    "place_id": "ChIJG5Ww2fGyxWcRvSzKN3UtUUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5Ww2fGyxWcRvSzKN3UtUUc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:42:32"
+  },
+  {
+    "business_name": "HR Talent Solutions Pvt Ltd.",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "248195",
+    "phone_number": "+91 75690 67002",
+    "website": "http://hrtalentsolutions.in/",
+    "rating": 4.5,
+    "reviews_count": 77,
+    "address": "1st Floor, Finecab Chambers, 1-8-229/2 & 2/A, PG Road, beside Union Bank Of India, Sindhi Colony, Begumpet, Secunderabad, Hyderabad, Telangana 500003",
+    "area": "Sindhi Colony, Begumpet",
+    "latitude": 17.4410211,
+    "longitude": 78.4821456,
+    "place_id": "ChIJAQCQKaOZyzsRGz42jCMu2MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCQKaOZyzsRGz42jCMu2MA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:42:32"
+  }
+]

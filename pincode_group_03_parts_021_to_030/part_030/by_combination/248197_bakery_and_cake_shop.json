@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bunk and Bites",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cafe",
+    "pincode": "248197",
+    "phone_number": "+91 84758 43295",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Dims, Shankarpur, Chharba, Uttarakhand 248197",
+    "area": "Dims",
+    "latitude": 30.3933468,
+    "longitude": 77.832022,
+    "place_id": "ChIJIb5LFrMpDzkRMA6nlRKNbus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIb5LFrMpDzkRMA6nlRKNbus",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:53"
+  },
+  {
+    "business_name": "Sanjaybakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "248197",
+    "phone_number": "+91 98978 64978",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "main market, near by police station, Sahaspur, Uttarakhand 248197",
+    "area": "248197",
+    "latitude": 30.393225899999997,
+    "longitude": 77.80635649999999,
+    "place_id": "ChIJ-_VBtz0pDzkRc_tkDQfDdVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_VBtz0pDzkRc_tkDQfDdVQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:55"
+  }
+]

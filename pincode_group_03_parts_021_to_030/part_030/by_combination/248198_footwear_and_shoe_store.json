@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "248198",
+    "phone_number": "+91 74529 65567",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chakrata Road, Kalyanpur, Babugarh, Uttarakhand 248198",
+    "area": "Kalyanpur",
+    "latitude": 30.4655265,
+    "longitude": 77.7655539,
+    "place_id": "ChIJd-_hbvMvDzkRPSFPwiCxvSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-_hbvMvDzkRPSFPwiCxvSg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:05"
+  },
+  {
+    "business_name": "Sarvottam, V.Nagar",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "248198",
+    "phone_number": "+91 98978 00402",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1111, Pahari Gali, near Jain Mandir, Chownk, Vikasnagar, Uttarakhand 248198",
+    "area": "Chownk",
+    "latitude": 30.468776499999997,
+    "longitude": 77.7714634,
+    "place_id": "ChIJnaFGCgAvDzkRs8GQpMJB9g0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaFGCgAvDzkRs8GQpMJB9g0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:05"
+  }
+]

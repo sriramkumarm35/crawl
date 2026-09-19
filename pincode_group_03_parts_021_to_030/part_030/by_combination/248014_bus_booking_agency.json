@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarai Tour & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "248014",
+    "phone_number": "+91 86994 43555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Nehrugram, Dehradun, Uttarakhand 248014",
+    "area": "Nehrugram",
+    "latitude": 30.2854149,
+    "longitude": 78.0833794,
+    "place_id": "ChIJGWDIaHcpCTkRJ2Xv_E_R1FQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWDIaHcpCTkRJ2Xv_E_R1FQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:21"
+  },
+  {
+    "business_name": "Pahadi Yatra",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "248014",
+    "phone_number": "N/A",
+    "website": "https://pahadiyatra.com/",
+    "rating": 5,
+    "reviews_count": 47,
+    "address": "Near, 6 Number Puliya, Nehrugram, Dehradun, Uttarakhand 248014",
+    "area": "Nehrugram",
+    "latitude": 30.3005914,
+    "longitude": 78.0738102,
+    "place_id": "ChIJDf3fs38pCTkRKEnRrXyByoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDf3fs38pCTkRKEnRrXyByoQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:21"
+  }
+]

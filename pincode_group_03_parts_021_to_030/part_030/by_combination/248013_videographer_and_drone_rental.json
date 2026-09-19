@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Studio",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Passport photo processor, Video editing service, Wedding photographer",
+    "pincode": "248013",
+    "phone_number": "+91 98379 12886",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 59,
+    "address": "Shop No: 450.B, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Garhi Cantonment, Garhi Cantt",
+    "latitude": 30.3530478,
+    "longitude": 78.0248326,
+    "place_id": "ChIJgylucwbWCDkRFZLruqnjATM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgylucwbWCDkRFZLruqnjATM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:01:48"
+  },
+  {
+    "business_name": "Sk Photography",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer",
+    "pincode": "248013",
+    "phone_number": "+91 89795 88528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lane No. 02, A-Block, Mata Mandir Rd, near Siddharth Jewellers, Saraswati Vihar, Dehradun, Uttarakhand 248121",
+    "area": "Saraswati Vihar Block 'A', Saraswati Vihar, Ajabpur Khurd",
+    "latitude": 30.293320599999998,
+    "longitude": 78.03903919999999,
+    "place_id": "ChIJBw3ExKIpCTkRdxz1NQ_z0cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBw3ExKIpCTkRdxz1NQ_z0cY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:01:49"
+  }
+]

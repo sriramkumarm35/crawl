@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Godwit Khadi",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Boutique, Manufacturer",
+    "pincode": "248146",
+    "phone_number": "+91 98377 22722",
+    "website": "http://godwitkhadi.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "69, Engineer's Enclave, 3, GMS Rd, Engineers Enclave, Kanwali, Dehradun, Uttarakhand 248171",
+    "area": "Engineers Enclave, Kanwali",
+    "latitude": 30.3112085,
+    "longitude": 78.0053672,
+    "place_id": "ChIJc6OrKiUqCTkR2U6e2EGMK9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6OrKiUqCTkR2U6e2EGMK9Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:02"
+  },
+  {
+    "business_name": "Shivaara",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248146",
+    "phone_number": "+91 98183 97526",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Seemadwar Rd, Shivaara, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "area": "Shivaara, Indra Nagar Colony",
+    "latitude": 30.312995299999997,
+    "longitude": 77.9976421,
+    "place_id": "ChIJFXKWCoYrCTkRTsXVNjK-1XE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXKWCoYrCTkRTsXVNjK-1XE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:05"
+  }
+]

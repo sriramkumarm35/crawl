@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "First Ride Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "248019",
+    "phone_number": "+91 74096 59163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "near by Shri Kameshwar Mahadev Mandir, Balawala, Dehradun, Uttarakhand 248019",
+    "area": "Balawala",
+    "latitude": 30.267823099999998,
+    "longitude": 78.1179933,
+    "place_id": "ChIJCaLkf10nCTkRJTlIVWV-G5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaLkf10nCTkRJTlIVWV-G5s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:11:04"
+  },
+  {
+    "business_name": "Vijay Cycles The Mountaineers Cycle Hub",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "248019",
+    "phone_number": "+91 78699 13554",
+    "website": "http://vijaycycles.com/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Vivek vihar, lane 2, Nakronda Rd, Sanik COlony, Balawala, Dehradun, Harrawala, Uttarakhand 248005",
+    "area": "Sanik COlony, Balawala",
+    "latitude": 30.2525582,
+    "longitude": 78.1030821,
+    "place_id": "ChIJbZnubUovCTkRWLjpwI4yhgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZnubUovCTkRWLjpwI4yhgE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:11:04"
+  }
+]

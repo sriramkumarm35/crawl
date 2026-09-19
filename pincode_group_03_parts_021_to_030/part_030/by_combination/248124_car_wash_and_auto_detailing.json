@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "248124",
+    "phone_number": "+91 95285 82553",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 71,
+    "address": "VVJG+6RQ, Dehradun Rd, opposite dwarkadhish mandir eidgah, chowk, Rampur, Roorkee, Shafipur, Uttarakhand 247667",
+    "area": "chowk, Rampur",
+    "latitude": 29.8805841,
+    "longitude": 77.8770947,
+    "place_id": "ChIJ4SYlUAC1DjkRCPyos7GODBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SYlUAC1DjkRCPyos7GODBg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:41"
+  },
+  {
+    "business_name": "Top Carwash(Neemuch)",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "248124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nootan School Road, near Tayyabi School, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Neemuch Chawni",
+    "latitude": 24.462867199999998,
+    "longitude": 74.8683856,
+    "place_id": "ChIJi7cQyflzZjkR8BUVbfxVShc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7cQyflzZjkR8BUVbfxVShc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:42"
+  }
+]

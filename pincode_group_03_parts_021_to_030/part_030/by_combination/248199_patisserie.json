@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokhta's Bakery And Patisserie",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "248199",
+    "phone_number": "+91 63978 20029",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazar, Road, Tiuni, Uttarakhand 248199",
+    "area": "248199",
+    "latitude": 30.945228,
+    "longitude": 77.8505074,
+    "place_id": "ChIJ77onH_tTDzkRQ9TdK9hVPno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77onH_tTDzkRQ9TdK9hVPno",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:45"
+  },
+  {
+    "business_name": "The Brand Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "248199",
+    "phone_number": "+91 86995 64826",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "17, Tiuni, Uttarakhand 248199",
+    "area": "248199",
+    "latitude": 30.9454757,
+    "longitude": 77.84809419999999,
+    "place_id": "ChIJVVgJ209TDzkRdkZhMh4Vke4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVgJ209TDzkRdkZhMh4Vke4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:45"
+  }
+]

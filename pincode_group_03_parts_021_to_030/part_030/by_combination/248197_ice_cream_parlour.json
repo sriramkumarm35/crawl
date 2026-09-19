@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waffle Da!",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Pasta shop, Sandwich shop",
+    "pincode": "248197",
+    "phone_number": "N/A",
+    "website": "http://waffleda.in/",
+    "rating": 4.8,
+    "reviews_count": 185,
+    "address": "9XW8+6P, Bidholi, Kharakhet, Uttarakhand 248001",
+    "area": "248197",
+    "latitude": 30.4009245,
+    "longitude": 77.9685813,
+    "place_id": "ChIJ5_IIqJPVCDkRQnuE4YGXMBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_IIqJPVCDkRQnuE4YGXMBQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:45:00"
+  },
+  {
+    "business_name": "SHIV JUICE CORNER & ICE CREAM PARLOUR",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "248197",
+    "phone_number": "+91 70607 70077",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Pondha, Uttarakhand 248007",
+    "area": "248197",
+    "latitude": 30.388924099999997,
+    "longitude": 77.96963339999999,
+    "place_id": "ChIJ0TuLyf7UCDkRTxuy_AJ6YHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TuLyf7UCDkRTxuy_AJ6YHE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:45:01"
+  }
+]

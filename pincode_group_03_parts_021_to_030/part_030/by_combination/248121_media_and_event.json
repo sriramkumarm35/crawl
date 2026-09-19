@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mirage Productions",
+    "search_category": "Media and Event",
+    "primary_category": "Media company",
+    "all_categories": "Media company",
+    "pincode": "248121",
+    "phone_number": "+91 89794 53997",
+    "website": "https://mirageproductions.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "second floor, Ashoka Apartment, road, near Kali Mata Mandir, Nanak Vihar, Dehrakhas, Brahmanwala, Dehradun, Uttarakhand 248005",
+    "area": "Nanak Vihar, Dehrakhas, Brahmanwala",
+    "latitude": 30.3019932,
+    "longitude": 78.0218225,
+    "place_id": "ChIJNUWwrggpCTkRX37F7VNoeSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUWwrggpCTkRX37F7VNoeSg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:13:31"
+  },
+  {
+    "business_name": "CELEBRINO Productions & Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Film Production Company, Marketing agency, Photography service, Recording studio, Video editing service",
+    "pincode": "248121",
+    "phone_number": "+91 79064 28083",
+    "website": "https://celebrino.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lane no.8, PWD colony, Pathribagh chowk, Dehradun, Uttarakhand 248001",
+    "area": "PWD colony, Pathribagh chowk",
+    "latitude": 30.302359199999998,
+    "longitude": 78.0257608,
+    "place_id": "ChIJWzjlcIUpCTkRXCW7aT5-oH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzjlcIUpCTkRXCW7aT5-oH0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:13:34"
+  }
+]

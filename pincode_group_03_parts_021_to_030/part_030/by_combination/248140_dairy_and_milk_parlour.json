@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Radhe Dairy & Lassi Parlor",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "248140",
+    "phone_number": "+91 97600 92677",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Daksha Mandir Rd, opp. Geeta Mandir, Bengali More, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Bengali More, Kankhal",
+    "latitude": 29.9344462,
+    "longitude": 78.15011799999999,
+    "place_id": "ChIJQ1Kwpf1HCTkR4QDGA-oTMlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1Kwpf1HCTkR4QDGA-oTMlM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:51"
+  },
+  {
+    "business_name": "Vishudh Milk",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service, Dairy farm, Dairy store, Health food store, Produce market",
+    "pincode": "248140",
+    "phone_number": "+91 63982 73627",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 18,
+    "address": "Ganeshpur, Karbari Grant, Uttarakhand 248007",
+    "area": "248140",
+    "latitude": 30.2884258,
+    "longitude": 77.9144464,
+    "place_id": "ChIJCzWET8vVDjkRqvbzpqG_UKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzWET8vVDjkRqvbzpqG_UKY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:21:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond baker's",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "248171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Saba Masjid Chowk, Atta Chakki Gali, Azad Colony Rd, near ISBT, Dehradun, Uttarakhand 248002",
+    "area": "Morowala, Clement Town",
+    "latitude": 30.2867313,
+    "longitude": 78.0053724,
+    "place_id": "ChIJ74dzSAIrCTkRuSFbuGBv-YA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74dzSAIrCTkRuSFbuGBv-YA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:14"
+  },
+  {
+    "business_name": "Vedic vibe hub",
+    "search_category": "Patisserie",
+    "primary_category": "Astrologer",
+    "all_categories": "Astrologer, Pujari, Place of worship, Shopping mall",
+    "pincode": "248171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 52,
+    "address": "Shop no 7, Street 5, Chakrata Rd, Ballupur Chowk, Ashirwad Enclave, Vijay Park, Dehradun, Uttarakhand 248001",
+    "area": "Ballupur Chowk, Ashirwad Enclave, Vijay Park",
+    "latitude": 30.331143899999997,
+    "longitude": 78.0056602,
+    "place_id": "ChIJq_fdAQMqCTkRl55lLvDapWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_fdAQMqCTkRl55lLvDapWk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:17"
+  }
+]

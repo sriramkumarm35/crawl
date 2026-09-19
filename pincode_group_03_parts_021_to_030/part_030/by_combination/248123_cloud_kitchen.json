@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cookhouse",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer, Service establishment",
+    "pincode": "248123",
+    "phone_number": "+91 81712 64730",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Cookhouse, 248123, India",
+    "area": "248123",
+    "latitude": 29.861369399999997,
+    "longitude": 77.89482579999999,
+    "place_id": "ChIJ23ZmctSzDjkRpMgHW8gHbcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23ZmctSzDjkRpMgHW8gHbcQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:25"
+  },
+  {
+    "business_name": "The Cloud Kitchen Story",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery, Service establishment",
+    "pincode": "248123",
+    "phone_number": "+91 98992 46222",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "The Cloud Kitchen Story, 248123, India",
+    "area": "248123",
+    "latitude": 28.6996532,
+    "longitude": 77.39502829999999,
+    "place_id": "ChIJHXIdLxzxDDkRuP-cSines2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXIdLxzxDDkRuP-cSines2Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:25"
+  }
+]

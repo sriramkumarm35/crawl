@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sameer Bike Repair And Service Center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "248124",
+    "phone_number": "+91 90840 64783",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Sai Mandir, Prem Nagar, Bidholi, Dehradun, Uttarakhand 248007",
+    "area": "Prem Nagar",
+    "latitude": 30.409395399999998,
+    "longitude": 77.96956949999999,
+    "place_id": "ChIJ_UPyDTPVCDkRTRPJ5ULXeS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UPyDTPVCDkRTRPJ5ULXeS4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:40"
+  },
+  {
+    "business_name": "Apna Mechanic - Doorstep Bike Service",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "248124",
+    "phone_number": "+91 80019 68001",
+    "website": "https://www.apnamechanic.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "304, Vipul Business Park, Central Park II, Sector 48, Gurugram, Haryana 122018",
+    "area": "Central Park II, Sector 48",
+    "latitude": 28.4226457,
+    "longitude": 77.0376039,
+    "place_id": "ChIJkWf3ifEZDTkRwH-Kw7T02Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWf3ifEZDTkRwH-Kw7T02Ww",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:41"
+  }
+]

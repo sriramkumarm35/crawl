@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Night Dream Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Aromatherapy service, Day spa, Massage therapist, Physical fitness program",
+    "pincode": "248145",
+    "phone_number": "+91 80063 27602",
+    "website": "https://rishikesh.spa-centre.com/",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "no-09, street, Karnprayag - Haridwar Rd, Malviya Nagar, Virbhadra, Rishikesh, Uttarakhand 249201",
+    "area": "Malviya Nagar, Virbhadra",
+    "latitude": 30.0786129,
+    "longitude": 78.2593239,
+    "place_id": "ChIJsaiP2xM_CTkRs8MwrtUHteY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaiP2xM_CTkRs8MwrtUHteY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:42"
+  },
+  {
+    "business_name": "Varenyam spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "248145",
+    "phone_number": "+91 96345 79653",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hotle om shivaay inn, Badrinath Marg, Tapovan, Rishikesh, Uttarakhand 249192",
+    "area": "Tapovan",
+    "latitude": 30.1304116,
+    "longitude": 78.3242071,
+    "place_id": "ChIJ39-cgQ8XCTkR9H6cgSw8eTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39-cgQ8XCTkR9H6cgSw8eTs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:28:43"
+  }
+]

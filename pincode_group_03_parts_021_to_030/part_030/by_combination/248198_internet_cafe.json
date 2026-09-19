@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikhil Kumar Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "248198",
+    "phone_number": "+91 75000 33523",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "FQ89+R43, Main Market, Vikasnagar, Uttarakhand 248198",
+    "area": "Kalyanpur",
+    "latitude": 30.467003599999998,
+    "longitude": 77.7678097,
+    "place_id": "ChIJtxPn_pcvDzkRAAAAMKOPjGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxPn_pcvDzkRAAAAMKOPjGI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:06"
+  },
+  {
+    "business_name": "CSC CENTRE NEXT GEN TECH & NIRMAL ASSOCIATES",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "248198",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Dakpathar Rd, Rasoolpur, Vikasnagar, Uttarakhand 248198",
+    "area": "Rasoolpur",
+    "latitude": 30.4748484,
+    "longitude": 77.7762003,
+    "place_id": "ChIJXwqtfgAvDzkRt5psHOPkg-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwqtfgAvDzkRt5psHOPkg-o",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:09"
+  }
+]

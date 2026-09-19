@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Social Googol",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "248013",
+    "phone_number": "+91 81262 10003",
+    "website": "https://www.socialgoogol.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "223 Block, 1, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Chukkuwala",
+    "latitude": 30.328903399999998,
+    "longitude": 78.03817049999999,
+    "place_id": "ChIJz_eSP-kpCTkRVtvENnrASGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_eSP-kpCTkRVtvENnrASGQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:02:33"
+  },
+  {
+    "business_name": "Digitalwala AI Academy I Best Digital Marketing Institute",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute, Educational institution, Marketing agency, Training center",
+    "pincode": "248013",
+    "phone_number": "N/A",
+    "website": "https://digitalwala.org/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "42, Subhash Rd, near Times of India Office, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "Race Course",
+    "latitude": 30.319884899999998,
+    "longitude": 78.0454579,
+    "place_id": "ChIJq6pe5NspCTkRD9NGpXo1Y6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6pe5NspCTkRD9NGpXo1Y6w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:02:33"
+  }
+]

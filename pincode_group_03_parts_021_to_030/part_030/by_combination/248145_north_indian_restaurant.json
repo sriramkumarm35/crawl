@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi N Rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Punjabi restaurant",
+    "pincode": "248145",
+    "phone_number": "+91 99109 49637",
+    "website": "http://www.punjabinrasoi.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ambala - Poanta Sahib - Herbertpur - Dehradun - Rishikesh National Hwy, Geeta Nagar, Rishikesh, Uttarakhand 249202",
+    "area": "Geeta Nagar",
+    "latitude": 30.0871233,
+    "longitude": 78.2663991,
+    "place_id": "ChIJE2hutqk_CTkRpyv1KlmGTuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2hutqk_CTkRpyv1KlmGTuc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:54"
+  },
+  {
+    "business_name": "Shri Ramji Resturant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Noodle shop",
+    "pincode": "248145",
+    "phone_number": "+91 79065 01841",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Triveni Ghat chowk, Haridwar Rd, opposite bhgwan Ashram, Mayakund, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.105221399999998,
+    "longitude": 78.2976597,
+    "place_id": "ChIJwyAQj44XCTkR5ggouCHFN0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyAQj44XCTkR5ggouCHFN0c",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Store",
+    "pincode": "248146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8X4W+HJ6, Ambala - Dehradun Rd, ITBP Residence Colony, Seema Dwar, Herbertpur, Dehradun, Uttarakhand 248146",
+    "area": "ITBP Residence Colony, Seema Dwar",
+    "latitude": 30.306412599999998,
+    "longitude": 77.9965007,
+    "place_id": "ChIJb4AK0WYlDzkR_xco2wm1cq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4AK0WYlDzkR_xco2wm1cq4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:11"
+  },
+  {
+    "business_name": "JAPJI MEDICOS",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy",
+    "pincode": "248146",
+    "phone_number": "+91 96757 57574",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamla Palace, Near, chowk, GMS Rd, Dehradun, Uttarakhand 248171",
+    "area": "Shakti Enclave, Kaonli",
+    "latitude": 30.3081307,
+    "longitude": 78.0071856,
+    "place_id": "ChIJc64afHUrCTkR92OywuIOOng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc64afHUrCTkR92OywuIOOng",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cake o'clock By nidhi",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Event planner",
+    "pincode": "248145",
+    "phone_number": "+91 93897 31465",
+    "website": "http://cakeoclockbynidhi.weebly.com/",
+    "rating": 4.8,
+    "reviews_count": 246,
+    "address": "retreat (phase-3, near palm bliss resort, Ganga Vatika, Rishikesh, Uttarakhand 249192",
+    "area": "Ganga Vatika",
+    "latitude": 30.124111799999998,
+    "longitude": 78.3074385,
+    "place_id": "ChIJ56-VDaYXCTkRReUHZSurvoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56-VDaYXCTkRReUHZSurvoA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:51"
+  },
+  {
+    "business_name": "Kuriyal Bakehouse",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "248145",
+    "phone_number": "+91 90849 55015",
+    "website": "https://www.instagram.com/kuriyal_bakehouse?igsh=c3YxMnAxZDR1N3Vy",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "ayush clinic, Lal pani khand gao bhandari place, Rishikesh, Uttarakhand 249201",
+    "area": "Geeta Nagar",
+    "latitude": 30.0979438,
+    "longitude": 78.271131,
+    "place_id": "ChIJdw40Xwo9CTkRb4mjBzJE3yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdw40Xwo9CTkRb4mjBzJE3yQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Newcollection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "248140",
+    "phone_number": "+91 98973 92087",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Rishikesh Rd, Doiwala, Dehradun, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.176022099999997,
+    "longitude": 78.12480269999999,
+    "place_id": "ChIJVetl1k0lCTkRR71ivo7f_2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVetl1k0lCTkRR71ivo7f_2I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:07"
+  },
+  {
+    "business_name": "Fashionhubgarments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "248140",
+    "phone_number": "+91 79831 64346",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "police station A&S plaza, Doiwala, Uttarakhand 248140",
+    "area": "248140",
+    "latitude": 30.18059,
+    "longitude": 78.1247782,
+    "place_id": "ChIJ1djKpE0lCTkRAAAA0D2VChc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1djKpE0lCTkRAAAA0D2VChc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:09"
+  }
+]

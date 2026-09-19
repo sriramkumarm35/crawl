@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mountstribe Agritech",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Farm shop",
+    "all_categories": "Farm shop, Farm",
+    "pincode": "248171",
+    "phone_number": "+91 63975 94584",
+    "website": "https://mountstribe.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J49C+M95, 34, Srikot, Badrish Vihar, Banjarawala, Dehradun, Uttarakhand 248121",
+    "area": "Badrish Vihar, Banjarawala",
+    "latitude": 30.2874034,
+    "longitude": 78.0270616,
+    "place_id": "ChIJnyJa3ykpCTkRWDc_JC1WCKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnyJa3ykpCTkRWDc_JC1WCKQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:38:52"
+  },
+  {
+    "business_name": "Dehra Beej Bhandar",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer and Pesticide Dealer",
+    "all_categories": "Fertilizer and Pesticide Dealer",
+    "pincode": "248171",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24, Dispensary Rd, Tehsil Chowk, Harrawala, Dehradun, Uttarakhand 248001",
+    "area": "Tehsil Chowk, Harrawala",
+    "latitude": 30.322124199999998,
+    "longitude": 78.0401396,
+    "place_id": "ChIJEzOL0uopCTkRO-aUMFElo7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzOL0uopCTkRO-aUMFElo7w",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:38:53"
+  }
+]

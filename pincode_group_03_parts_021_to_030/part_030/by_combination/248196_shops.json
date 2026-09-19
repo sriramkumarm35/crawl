@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap Fruit Shop",
+    "search_category": "Shops",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "248196",
+    "phone_number": "+91 89586 09559",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vikasnagar - Chakrata Rd, Sahiya, Uttarakhand 248196",
+    "area": "248196",
+    "latitude": 30.6138068,
+    "longitude": 77.87494199999999,
+    "place_id": "ChIJP4zXfEI1DzkRTEow6ICAnPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4zXfEI1DzkRTEow6ICAnPI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:43"
+  },
+  {
+    "business_name": "Auto repair shop",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "248196",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "248123, Malaitha, Dunawa, Uttarakhand 248196",
+    "area": "248196",
+    "latitude": 30.670423699999997,
+    "longitude": 77.79691509999999,
+    "place_id": "ChIJWR3GbQA3DzkRIznrKJ6aGSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWR3GbQA3DzkRIznrKJ6aGSI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:44:46"
+  }
+]

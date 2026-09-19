@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayan clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "248124",
+    "phone_number": "+91 73511 36532",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Mhendra chock, Motipur, Lusipur, Ambiwala, Dehradun, Uttarakhand 248007",
+    "area": "Motipur, Lusipur",
+    "latitude": 30.327387299999998,
+    "longitude": 77.93550189999999,
+    "place_id": "ChIJYdADi-QrCTkR7mmaxSYEycQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdADi-QrCTkR7mmaxSYEycQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:31"
+  },
+  {
+    "business_name": "Herbal Ayurveda",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "248124",
+    "phone_number": "+91 81828 38004",
+    "website": "http://herbal-ayurveda.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sector- 2, UT, 027, Avas Vikas Rd, Dev Bazar, Kashipur, Uttarakhand 244713",
+    "area": "Old Awas Vikas, Dev Bazar",
+    "latitude": 29.2052643,
+    "longitude": 78.965848,
+    "place_id": "ChIJMdwwyrFDCjkRhlpCd5u6CJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdwwyrFDCjkRhlpCd5u6CJI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:31"
+  }
+]

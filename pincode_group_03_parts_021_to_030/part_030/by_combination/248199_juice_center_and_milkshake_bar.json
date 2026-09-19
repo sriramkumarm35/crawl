@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brother's Pizza Point",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "248199",
+    "phone_number": "+91 81309 32209",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9WW7+QV6, Rana Complex, Selaqui, Road, Bhauwala, Uttarakhand 248007",
+    "area": "248199",
+    "latitude": 30.396919299999997,
+    "longitude": 77.9146334,
+    "place_id": "ChIJDfvzmqgrDzkR0qZkwOfnHqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfvzmqgrDzkR0qZkwOfnHqw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:47"
+  },
+  {
+    "business_name": "Sheetal Juice Parlour",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "248199",
+    "phone_number": "+91 99774 48158",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Bus Stand, New, Garoth, Madhya Pradesh 458880",
+    "area": "248199",
+    "latitude": 24.327829899999998,
+    "longitude": 75.6512466,
+    "place_id": "ChIJi8swIJapZTkROt33546BOAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8swIJapZTkROt33546BOAU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:47"
+  }
+]

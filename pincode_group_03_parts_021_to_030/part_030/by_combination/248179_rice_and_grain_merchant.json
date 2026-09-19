@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Supermarket",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "248179",
+    "phone_number": "+91 81081 38000",
+    "website": "https://more.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ground Floor, D.No. 8-6-237/E Plot Nos. 5, 5/A, & 5/B ,and Plot Nos.8 & 8/A, near Andhra Bank, Padmavathi Colony, Mahbubnagar, Telangana 509001",
+    "area": "Padmavathi Colony",
+    "latitude": 16.753057,
+    "longitude": 78.01714129999999,
+    "place_id": "ChIJf6403VQvyjsRs-r3INFxAh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf6403VQvyjsRs-r3INFxAh4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:39:09"
+  },
+  {
+    "business_name": "DK TRADERS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "248179",
+    "phone_number": "+91 79836 18811",
+    "website": "https://www.dkbasmatirice.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main market, PURANI, Sabzi Mandi Rd, Dhyannagar, Jaspur, Uttarakhand 244712",
+    "area": "Dhyannagar",
+    "latitude": 29.2795351,
+    "longitude": 78.8269717,
+    "place_id": "ChIJF-YAdrRJCjkRIIR7UMsZEEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-YAdrRJCjkRIIR7UMsZEEw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:39:10"
+  }
+]

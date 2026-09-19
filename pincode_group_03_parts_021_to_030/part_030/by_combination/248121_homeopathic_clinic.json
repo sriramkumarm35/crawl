@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukham Homoeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "248121",
+    "phone_number": "+91 98712 12742",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "61/1 single mandi 2, Kargi Rd, Narayan Vihar, Brahmanwala, Dehradun, Uttarakhand 248001",
+    "area": "Narayan Vihar, Brahmanwala",
+    "latitude": 30.2949654,
+    "longitude": 78.02684219999999,
+    "place_id": "ChIJpXT_Sz4pCTkRb78-aDsdzoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXT_Sz4pCTkRb78-aDsdzoI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:42"
+  },
+  {
+    "business_name": "Dr.Arvinder Dang Homoeo Clinic and store",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "248121",
+    "phone_number": "+91 98970 72266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "Homoeo Clinic, 14/12, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "East Rest Camp, Guru Nanak Vihar, Race Course",
+    "latitude": 30.310043099999998,
+    "longitude": 78.04695149999999,
+    "place_id": "ChIJT7XcwuwpCTkRVpvT8tQhnzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7XcwuwpCTkRVpvT8tQhnzY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Essence",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "248195",
+    "phone_number": "+91 78385 19924",
+    "website": "https://www.facebook.com/essencedeepankar/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "DANDAPANI HOUSE 250, Kaulagarh, Dehradun, Uttarakhand 248195",
+    "area": "Kaulagarh",
+    "latitude": 30.3481824,
+    "longitude": 78.0061064,
+    "place_id": "ChIJ4Vk2kuzVCDkRHoqtd4wnd7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Vk2kuzVCDkRHoqtd4wnd7Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:41:06"
+  },
+  {
+    "business_name": "Sunrise Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "248195",
+    "phone_number": "+91 98979 34138",
+    "website": "https://www.sunrisebakers.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "893, 873, Kaulagarh Rd, Krishna Nagar, Dehradun, Uttarakhand 248001",
+    "area": "Krishna Nagar",
+    "latitude": 30.3349409,
+    "longitude": 78.0252338,
+    "place_id": "ChIJL4MLA4cpCTkRJGQgt4lsPzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4MLA4cpCTkRJGQgt4lsPzM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:41:06"
+  }
+]

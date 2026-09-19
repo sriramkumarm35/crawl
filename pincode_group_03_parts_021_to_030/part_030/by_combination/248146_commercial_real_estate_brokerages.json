@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Real Estates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "248146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "523, Shimla Bypass Rd, Majra, Dehradun, Pitthuwala, Uttarakhand 248171",
+    "area": "Majra",
+    "latitude": 30.300946699999997,
+    "longitude": 77.995994,
+    "place_id": "ChIJxdh6AwArCTkREPjKmddDrII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdh6AwArCTkREPjKmddDrII",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:13"
+  },
+  {
+    "business_name": "Diston Realestate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Real Estate Builders & Construction Company",
+    "pincode": "248146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor,suite 3, Career House Building, GMS Rd, behind Kamla Palace, opposite The Solitaire Avenue, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248171",
+    "area": "Shakti Enclave, Kaonli",
+    "latitude": 30.307794599999998,
+    "longitude": 78.0071999,
+    "place_id": "ChIJ73dQyiUrCTkRnmAjAeacV-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73dQyiUrCTkRnmAjAeacV-I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:13"
+  }
+]

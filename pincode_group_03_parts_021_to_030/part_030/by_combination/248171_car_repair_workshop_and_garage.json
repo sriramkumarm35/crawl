@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chacha Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "248171",
+    "phone_number": "+91 89834 32312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "next to city land travels, opp. to Sanskriti Lok Colony, chok, Brahmanwala, Dehradun, Uttarakhand 248001",
+    "area": "chok, Brahmanwala",
+    "latitude": 30.2891634,
+    "longitude": 78.01020489999999,
+    "place_id": "ChIJvUMtnB4rCTkRSG8lUj30ULw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUMtnB4rCTkRSG8lUj30ULw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:45"
+  },
+  {
+    "business_name": "Car Service Centre In Dehradun",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto air conditioning service, Auto Dent Removal Service Station, Auto electrical service, Auto painting, Auto window tinting service, Car repair and maintenance service, Car wash, Mechanic, Oil change service",
+    "pincode": "248171",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Saharanpur Rd, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Niranjanpur",
+    "latitude": 30.3020329,
+    "longitude": 78.0119412,
+    "place_id": "ChIJ7SZx9CsrCTkRqyWibXZKORk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SZx9CsrCTkRqyWibXZKORk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:47"
+  }
+]

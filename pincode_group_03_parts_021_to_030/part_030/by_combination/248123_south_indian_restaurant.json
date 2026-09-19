@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kerala Food Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "248123",
+    "phone_number": "+91 70173 85590",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Paschimiwala Road, Dinkar Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Dinkar Colony",
+    "latitude": 30.465566,
+    "longitude": 77.7827564,
+    "place_id": "ChIJ83809gYvDzkRzxDcjSQWBe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83809gYvDzkRzxDcjSQWBe8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:23"
+  },
+  {
+    "business_name": "Elaichi Restaurant & Rooftop- PURE VEG",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "248123",
+    "phone_number": "+91 86504 46448",
+    "website": "https://whatsapp.com/channel/0029Va8eEMG6rsR1Ymquai1M",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Rajni Tower, Main Road, opposite Vivo Center, Vikas Nagar, Fatehpur, Babugarh, Vikasnagar, Uttarakhand 248198",
+    "area": "Vikas Nagar, Fatehpur",
+    "latitude": 30.458603699999998,
+    "longitude": 77.7569635,
+    "place_id": "ChIJyTuUhcsvDzkRpjxSn3Sl7lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTuUhcsvDzkRpjxSn3Sl7lI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:16:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tehri Sariya",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Building materials store",
+    "pincode": "248121",
+    "phone_number": "+91 98970 78284",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "78, 1, Saharanpur Rd, Industrial Area, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "area": "Industrial Area, Patel Nagar",
+    "latitude": 30.308630899999997,
+    "longitude": 78.01938799999999,
+    "place_id": "ChIJy1fzBigqCTkRp4UIqZU4X9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1fzBigqCTkRp4UIqZU4X9Y",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:13:58"
+  },
+  {
+    "business_name": "Duca Tech",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Blinds shop",
+    "all_categories": "Blinds shop",
+    "pincode": "248121",
+    "phone_number": "+91 92196 36245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 96,
+    "address": "Tea Estate Rd, near durga mandir, Banjarawala, Dehradun, Uttarakhand 248001",
+    "area": "Banjarawala",
+    "latitude": 30.2789996,
+    "longitude": 78.0292515,
+    "place_id": "ChIJQy-aT24pCTkRuNopf_JQmWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQy-aT24pCTkRuNopf_JQmWM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:14:00"
+  }
+]

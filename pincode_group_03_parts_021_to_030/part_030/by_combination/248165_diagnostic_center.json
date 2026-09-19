@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRL Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "248165",
+    "phone_number": "+91 94120 53652",
+    "website": "https://agilusdiagnostics.com/",
+    "rating": 2.9,
+    "reviews_count": 22,
+    "address": "BINDAL TOWER, Shop No :4 Bindal Bridge, Chakrata Rd, opp. CITY HOSPITAL, Dehradun, Uttarakhand 248001",
+    "area": "Bindaal Tirahya, Khurbura Mohalla",
+    "latitude": 30.3274947,
+    "longitude": 78.0323446,
+    "place_id": "ChIJ4a6h2O0pCTkRUKJI4_pdzqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4a6h2O0pCTkRUKJI4_pdzqo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:44"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center, Laboratory, Medical Center, Medical laboratory, STD testing service",
+    "pincode": "248165",
+    "phone_number": "+91 87551 51255",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-kotdwar-pauri-garhwal-29331/home?utm_source=gbp",
+    "rating": 4.8,
+    "reviews_count": 54,
+    "address": "Badrinath Marg, beside Himanshu Medical Store, Kotdwar, Uttarakhand 246149",
+    "area": "248165",
+    "latitude": 29.747070899999997,
+    "longitude": 78.5217595,
+    "place_id": "ChIJlduLwkl9CTkR-pX2T3a8jis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlduLwkl9CTkR-pX2T3a8jis",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:35:44"
+  }
+]

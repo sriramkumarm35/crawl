@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Megha Sweets And Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "248199",
+    "phone_number": "+91 81262 23354",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "661, Dakra Rd, Ramleela Bazaar, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Ramleela Bazaar, Garhi Cantt",
+    "latitude": 30.357199899999998,
+    "longitude": 78.0305022,
+    "place_id": "ChIJHf1q2g_WCDkRf6AMF_omx7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHf1q2g_WCDkRf6AMF_omx7s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:49:44"
+  },
+  {
+    "business_name": "Parinay Caterers and Event Planner",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event planner, Event venue",
+    "pincode": "248199",
+    "phone_number": "+91 78390 44044",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "SH4/26-R-23 Saraswati nagar colony BGM public School Parmandpur, Shivpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Holapur, Shivpur",
+    "latitude": 25.3707782,
+    "longitude": 82.9636008,
+    "place_id": "ChIJB2U8ZWgtjjkRi5EX1qApzXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2U8ZWgtjjkRi5EX1qApzXY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:49:46"
+  }
+]

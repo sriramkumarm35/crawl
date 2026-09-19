@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishikesh sports arena",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports complex",
+    "all_categories": "Sports complex",
+    "pincode": "248140",
+    "phone_number": "+91 92589 87001",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "lane No 1, canal road, opposite DSB international school, Gumaniwala, Rishikesh, Uttarakhand 249204",
+    "area": "Gumaniwala",
+    "latitude": 30.0754175,
+    "longitude": 78.2459701,
+    "place_id": "ChIJozY56Do_CTkR6pBE-A2XX8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozY56Do_CTkR6pBE-A2XX8k",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:23:15"
+  },
+  {
+    "business_name": "MAMS Cricket Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket club",
+    "all_categories": "Cricket club",
+    "pincode": "248140",
+    "phone_number": "+91 98377 76514",
+    "website": "https://mamscricketacademy.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Village Gauri Mafi, Raiwala, Uttarakhand 249205",
+    "area": "248140",
+    "latitude": 30.037255799999997,
+    "longitude": 78.2300599,
+    "place_id": "ChIJtx9q7O4_CTkRXEcAauD3n-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtx9q7O4_CTkRXEcAauD3n-A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:23:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EMD MOTORS",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "248171",
+    "phone_number": "+91 81990 39042",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ISBT, Morowala, Clement Town, Dehradun, Uttarakhand 248001",
+    "area": "ISBT, Morowala, Clement Town",
+    "latitude": 30.288718699999997,
+    "longitude": 78.00511689999999,
+    "place_id": "ChIJqeNkWwArCTkRM8kfWcM4KV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeNkWwArCTkRM8kfWcM4KV4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:48"
+  },
+  {
+    "business_name": "Coherent Auto Engineers",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "248171",
+    "phone_number": "+91 94129 00294",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Chakrata Rd, Vasant Vihar, Uddiwala, Dehradun, Uttarakhand 248001",
+    "area": "Vasant Vihar, Uddiwala",
+    "latitude": 30.338042899999998,
+    "longitude": 78.014324,
+    "place_id": "ChIJaY3V1gwqCTkRNGk0pa3Po44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY3V1gwqCTkRNGk0pa3Po44",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:37:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpati Tour and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bus tour agency",
+    "pincode": "248125",
+    "phone_number": "+91 98978 40252",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 251,
+    "address": "Enfield grant, Pachmiwala Rd, Uttaranchal colony, Dinkar Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Uttaranchal colony, Dinkar Colony",
+    "latitude": 30.466081799999998,
+    "longitude": 77.78128339999999,
+    "place_id": "ChIJzV3iCjAvDzkRfspCcj0AV-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzV3iCjAvDzkRfspCcj0AV-8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:20:38"
+  },
+  {
+    "business_name": "Dehradun Taxies",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "248125",
+    "phone_number": "+91 70170 34362",
+    "website": "http://dehraduntaxies.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "13, Rajpur Rd, Ghandi Park, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Ghandi Park, Chukkuwala",
+    "latitude": 30.326571599999998,
+    "longitude": 78.0425929,
+    "place_id": "ChIJG-3JF_lhfCIRc00wdGMCj8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-3JF_lhfCIRc00wdGMCj8I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:20:40"
+  }
+]

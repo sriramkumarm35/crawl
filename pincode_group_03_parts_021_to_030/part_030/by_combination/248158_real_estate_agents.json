@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhardwaj Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Agents",
+    "all_categories": "Real Estate Agents",
+    "pincode": "248158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CWRP+W7F, MDR, Nahar, Narh, Uttarakhand 248197",
+    "area": "248158",
+    "latitude": 30.442308899999997,
+    "longitude": 77.935667,
+    "place_id": "ChIJi0XVyE7TCDkRvjxU8-jqVHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0XVyE7TCDkRvjxU8-jqVHs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:04"
+  },
+  {
+    "business_name": "Keshav real estate Dehradun",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "248158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Koti, Uttarakhand 248179",
+    "area": "248158",
+    "latitude": 30.4499514,
+    "longitude": 77.9510209,
+    "place_id": "ChIJKzkxrOfTCDkRxxuLNKorW9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzkxrOfTCDkRxxuLNKorW9Q",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:04"
+  }
+]

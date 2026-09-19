@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KARMA-Lounge & Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Lounge bar",
+    "all_categories": "Lounge bar, Breakfast restaurant, Diner, Lunch restaurant, Restaurant",
+    "pincode": "248019",
+    "phone_number": "+91 99277 73301",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "First Floor Shop No, 69, Rajpur Rd, near Dehradun, Bhel Chowk, Ravindrapuri, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Bhel Chowk, Ravindrapuri, Hathibarkala Salwala",
+    "latitude": 30.335406,
+    "longitude": 78.053112,
+    "place_id": "ChIJzaG2pdopCTkR44kxNchIrvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaG2pdopCTkR44kxNchIrvA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:10:37"
+  },
+  {
+    "business_name": "Juice Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "248019",
+    "phone_number": "+91 63951 46396",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagwandas chock, Balawala, Dehradun, Uttarakhand 248001",
+    "area": "Balawala",
+    "latitude": 30.261195599999997,
+    "longitude": 78.1203087,
+    "place_id": "ChIJaQ7txsQlCTkRfB_TCYu5ei0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQ7txsQlCTkRfB_TCYu5ei0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:10:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dumpling Hood Dehradun",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Chicken restaurant, Chinese takeaway, Continental restaurant, Dumpling restaurant, Health food restaurant, Momo restaurant, Noodle shop, Pizza restaurant",
+    "pincode": "248121",
+    "phone_number": "+91 86992 48176",
+    "website": "https://www.instagram.com/dumplinghood_dehradun/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Race Course Rd, East Rest Camp, Chander Nagar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "East Rest Camp, Chander Nagar, Race Course",
+    "latitude": 30.3130669,
+    "longitude": 78.04594039999999,
+    "place_id": "ChIJc6G8gyspCTkRnjyEf5jeh30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc6G8gyspCTkRnjyEf5jeh30",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:31"
+  },
+  {
+    "business_name": "CHILLIZ RESTRO PATEL NAGAR",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "248121",
+    "phone_number": "+91 87910 96125",
+    "website": "https://chillizrestro.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "opp. BSNL OFFICE, near LAL PUL, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "area": "Patel Nagar",
+    "latitude": 30.307715299999998,
+    "longitude": 78.0173322,
+    "place_id": "ChIJrdtv8YgrCTkRyGV4PLjVU9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdtv8YgrCTkRyGV4PLjVU9A",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:12:31"
+  }
+]

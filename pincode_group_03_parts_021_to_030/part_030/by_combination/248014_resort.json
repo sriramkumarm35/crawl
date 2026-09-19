@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Classic Crown Valley",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "248014",
+    "phone_number": "N/A",
+    "website": "https://theclassiccrownvalley.com/",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Raipur, Sodasaroli, Dehradun, Uttarakhand 248008",
+    "area": "Raipur",
+    "latitude": 30.296420899999998,
+    "longitude": 78.13844929999999,
+    "place_id": "ChIJn_Sy9nQnCTkR8Bnnmx-Prbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_Sy9nQnCTkR8Bnnmx-Prbw",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:48"
+  },
+  {
+    "business_name": "Song Valley Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "248014",
+    "phone_number": "+91 81269 67666",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "near Maldevta Road, Kumalda, Dehradun, Dwara, Uttarakhand 249145",
+    "area": "Kumalda",
+    "latitude": 30.3367623,
+    "longitude": 78.13941299999999,
+    "place_id": "ChIJM2eaJtQnCTkRLJew-UcHiig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2eaJtQnCTkRLJew-UcHiig",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:51"
+  }
+]

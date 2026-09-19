@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accountrics Inc",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service",
+    "pincode": "248143",
+    "phone_number": "+91 87550 07107",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M-6, Raipur Rd, near Pal Physiotherapy Clinic, Dashmesh Vihar, Tapovan Enclave Tarla Amwala, Dehradun, Uttarakhand 248008",
+    "area": "Dashmesh Vihar, Tapovan Enclave Tarla Amwala",
+    "latitude": 30.323181199999997,
+    "longitude": 78.07092159999999,
+    "place_id": "ChIJqcL2V-kpCTkRgotoFjlFsCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcL2V-kpCTkRgotoFjlFsCc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:25"
+  },
+  {
+    "business_name": "K K D & ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Chartered accountant",
+    "pincode": "248143",
+    "phone_number": "+91 94589 01355",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Ganpati complex, Neshvilla Rd, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "area": "Chukkuwala",
+    "latitude": 30.3302825,
+    "longitude": 78.0428084,
+    "place_id": "ChIJDRvzi0crCTkR9JqHBV1tIeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRvzi0crCTkR9JqHBV1tIeo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:27:25"
+  }
+]

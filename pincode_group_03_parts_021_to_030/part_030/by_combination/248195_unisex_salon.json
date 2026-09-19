@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Looks 11",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "248195",
+    "phone_number": "+91 97560 01917",
+    "website": "https://looks11.in/",
+    "rating": 4.6,
+    "reviews_count": 81,
+    "address": "282, 1, Kaulagarh Rd, above cafe coffee day, Rajender Nagar, Dehradun, Uttarakhand 248001",
+    "area": "Rajender Nagar",
+    "latitude": 30.3381616,
+    "longitude": 78.0214037,
+    "place_id": "ChIJkZaxJGgpCTkRuAwPCA7mJj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZaxJGgpCTkRuAwPCA7mJj0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:42:00"
+  },
+  {
+    "business_name": "New Modern Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon, Hair removal service, Hairdresser",
+    "pincode": "248195",
+    "phone_number": "+91 98973 67541",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "364, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "area": "Garhi Cantonment, Garhi Cantt",
+    "latitude": 30.3527119,
+    "longitude": 78.02600199999999,
+    "place_id": "ChIJibDXxgXWCDkRamjPyT2UG4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibDXxgXWCDkRamjPyT2UG4I",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:42:00"
+  }
+]

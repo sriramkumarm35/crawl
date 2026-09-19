@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Trader (Paint & H/W)",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "248198",
+    "phone_number": "+91 94129 50187",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "709B, National Highway, Kalyanpur, Vikasnagar, Uttarakhand 248198",
+    "area": "Kalyanpur",
+    "latitude": 30.468135099999998,
+    "longitude": 77.77025909999999,
+    "place_id": "ChIJ1aAxczUvDzkRk5OYpvhEarE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aAxczUvDzkRk5OYpvhEarE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:35"
+  },
+  {
+    "business_name": "SAMSUNG STORE",
+    "search_category": "Commercial Complex",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "248198",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NEW COMPLEX, Hospital Rd, Punjabi Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Punjabi Colony",
+    "latitude": 30.469412799999997,
+    "longitude": 77.7751806,
+    "place_id": "ChIJSVxdAvovDzkR6Q5Dvaza_tA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSVxdAvovDzkR6Q5Dvaza_tA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:48:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garments shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248124",
+    "phone_number": "+91 94107 56050",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Naitwar mori harkidun, road, Purola, Uttarakhand 249185",
+    "area": "248124",
+    "latitude": 30.8788542,
+    "longitude": 78.0851607,
+    "place_id": "ChIJtcqHmayxCDkRNhCxUZB77ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcqHmayxCDkRNhCxUZB77ZA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:21"
+  },
+  {
+    "business_name": "Bachpan Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "248124",
+    "phone_number": "+91 91490 96651",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "82MF+9PV, Chakrata Rd, Kishan Nagar, Deeplok Colony, Chowk, Dehradun, Uttarakhand 248001",
+    "area": "Kishan Nagar, Deeplok Colony, Chowk",
+    "latitude": 30.333484799999997,
+    "longitude": 78.0242944,
+    "place_id": "ChIJG0Gkk_kpCTkRAAAA0D5AGi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0Gkk_kpCTkRAAAA0D5AGi0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:22"
+  }
+]

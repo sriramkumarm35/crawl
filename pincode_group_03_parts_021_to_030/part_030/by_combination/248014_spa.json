@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajni massage parlour",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "248014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "114 Sanjay colony, Mohini Rd, Dalanwala, Dehradun, Uttarakhand 248001",
+    "area": "Dalanwala",
+    "latitude": 30.309091499999997,
+    "longitude": 78.0570134,
+    "place_id": "ChIJ43V-5JorCTkRsRWpNx3Xk5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43V-5JorCTkRsRWpNx3Xk5g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:37"
+  },
+  {
+    "business_name": "Indra spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "248014",
+    "phone_number": "+91 70376 95615",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 15,
+    "address": "3rd Floor, Guru Kripa Tower, Ring Rd, near Sky Garden &, above Wine Shop, Gangotri Vihar, Jogiwala, Dehradun, Uttarakhand 248014",
+    "area": "Gangotri Vihar, Jogiwala",
+    "latitude": 30.2908658,
+    "longitude": 78.06923379999999,
+    "place_id": "ChIJzaOnH_soCTkRl4LQLzLyTpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaOnH_soCTkRl4LQLzLyTpA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:39"
+  }
+]

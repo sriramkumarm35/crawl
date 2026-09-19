@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "248158",
+    "phone_number": "+91 97193 36948",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Baluwala, Vikasnagar, Uttarakhand 248198",
+    "area": "248158",
+    "latitude": 30.4408069,
+    "longitude": 77.8159872,
+    "place_id": "ChIJGQ89dWUvDzkRrBrklZ5zgdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQ89dWUvDzkRrBrklZ5zgdk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:13"
+  },
+  {
+    "business_name": "Mukesh Welding",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Welding supply store",
+    "pincode": "248158",
+    "phone_number": "+91 78951 84768",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Vikasnagar - Chakrata Rd, Lattikhet, Vikasnagar, Jiwangarh, Uttarakhand 248125",
+    "area": "Lattikhet",
+    "latitude": 30.4814743,
+    "longitude": 77.7957689,
+    "place_id": "ChIJ2y5Bh2ovDzkRYSzZ8NJI0tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y5Bh2ovDzkRYSzZ8NJI0tk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:14"
+  }
+]

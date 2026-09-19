@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "White Rose Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "248140",
+    "phone_number": "N/A",
+    "website": "https://www.spawhiterose.in/",
+    "rating": 4.7,
+    "reviews_count": 69,
+    "address": "1st Floor, 1-C, Post Office Rd, Lane, Subhash Nagar, Dehradun, Uttarakhand 248002",
+    "area": "Lane, Subhash Nagar",
+    "latitude": 30.263341399999998,
+    "longitude": 77.9997418,
+    "place_id": "ChIJS1EamoArCTkRt8kLVOfO4EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1EamoArCTkRt8kLVOfO4EM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:52"
+  },
+  {
+    "business_name": "Spa in Dehradun",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Service establishment, Massage spa, Thai massage therapist",
+    "pincode": "248140",
+    "phone_number": "N/A",
+    "website": "https://spadehradun.in/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Spa in Dehradun, 248140, India",
+    "area": "248140",
+    "latitude": 30.3254284,
+    "longitude": 78.01713459999999,
+    "place_id": "ChIJRdvF5Vcf9IcRw_21KhByMMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdvF5Vcf9IcRw_21KhByMMs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:22:54"
+  }
+]

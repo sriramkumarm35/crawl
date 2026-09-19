@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRL Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "248198",
+    "phone_number": "+91 99972 41661",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FQ9G+Q77, Hospital Rd, Qureshyaan Colony, Punjabi Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Qureshyaan Colony, Punjabi Colony",
+    "latitude": 30.4694225,
+    "longitude": 77.7756856,
+    "place_id": "ChIJZbFvEbsvDzkRXs2jYGY60Yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbFvEbsvDzkRXs2jYGY60Yc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:16"
+  },
+  {
+    "business_name": "Redcliffe Labs - Collection Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Medical diagnostic imaging center, Medical laboratory, Pathologist",
+    "pincode": "248198",
+    "phone_number": "+91 79 6912 2871",
+    "website": "https://redcliffelabs.com/centre/redcliffe-labs-collection-center-shakumbri-pathology-diagnostic-centre-vikas-nagar-vikasnagar-188764",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dinkar Vihar Road, Dinkar Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Dinkar Colony",
+    "latitude": 30.4626971,
+    "longitude": 77.7751183,
+    "place_id": "ChIJn30jrLAvDzkRJTu1qTMkLvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn30jrLAvDzkRJTu1qTMkLvM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:16"
+  }
+]

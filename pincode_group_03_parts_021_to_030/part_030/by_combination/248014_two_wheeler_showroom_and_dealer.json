@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indiana Auto",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "248014",
+    "phone_number": "+91 89797 74500",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "Dwarka Store, 22A, New Rd, Chowk, Dehradun, Uttarakhand 248001",
+    "area": "Chowk",
+    "latitude": 30.3155017,
+    "longitude": 78.0495669,
+    "place_id": "ChIJZ3x6Jd4pCTkRDlD25W773YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3x6Jd4pCTkRDlD25W773YM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:16"
+  },
+  {
+    "business_name": "Asco Kawasaki Dehradun",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "248014",
+    "phone_number": "+91 70610 00010",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ground floor, RS Tower, 40/40, Saharanpur Rd, Mohabbewal, Bharu Wala Grant, Dehradun, Uttarakhand 248002",
+    "area": "Mohabbewal",
+    "latitude": 30.272578,
+    "longitude": 77.9883251,
+    "place_id": "ChIJf0pnDTMqCTkRKsGCTFMATFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0pnDTMqCTkRKsGCTFMATFo",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:03:19"
+  }
+]

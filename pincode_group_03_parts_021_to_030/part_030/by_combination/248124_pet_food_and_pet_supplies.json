@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fluffy Dog Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "248124",
+    "phone_number": "+91 95488 58570",
+    "website": "https://avasvikascolonykhatima.blogspot.com/",
+    "rating": 4.9,
+    "reviews_count": 105,
+    "address": "Awas Vikas colony, Khatima, Khetal Sandakham, Uttarakhand 262308",
+    "area": "Awas Vikas colony",
+    "latitude": 28.914149,
+    "longitude": 79.97024859999999,
+    "place_id": "ChIJfbTsGNVRoDkRdy6v10I-kbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbTsGNVRoDkRdy6v10I-kbU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:10"
+  },
+  {
+    "business_name": "Doon Pets world",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Dog breeder",
+    "all_categories": "Dog breeder",
+    "pincode": "248124",
+    "phone_number": "+91 98080 29581",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 298,
+    "address": "house no 11, 7th Cross Rd, Tapovan Enclave, Tapovan Enclave Tarla Amwala, Dehradun, Aamwala Tarla, Uttarakhand 248008",
+    "area": "Tapovan Enclave, Tapovan Enclave Tarla Amwala",
+    "latitude": 30.3287822,
+    "longitude": 78.0734289,
+    "place_id": "ChIJ78RXLD4vCTkR8F3g9w0VpYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78RXLD4vCTkR8F3g9w0VpYs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:18:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratham Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "248158",
+    "phone_number": "+91 74174 07475",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "jeewangarh uttrakhand 248198, Dakpathar - Jeevangarh Rd, Shivpuri Colony, Dakpatthar, Uttarakhand 248125",
+    "area": "Shivpuri Colony",
+    "latitude": 30.4947615,
+    "longitude": 77.7976379,
+    "place_id": "ChIJi2ufYy4uDzkROgAX7rOHN_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2ufYy4uDzkROgAX7rOHN_M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:32:56"
+  },
+  {
+    "business_name": "UK07 TELECOM",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "248158",
+    "phone_number": "+91 78303 04040",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Sahastradhara Rd, near PNB ATM, Adhoiwala, Dehradun, Uttarakhand 248001",
+    "area": "Adhoiwala",
+    "latitude": 30.323869799999997,
+    "longitude": 78.0642754,
+    "place_id": "ChIJNXMc7PMpCTkR7bni5crF9IY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXMc7PMpCTkR7bni5crF9IY",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:32:58"
+  }
+]

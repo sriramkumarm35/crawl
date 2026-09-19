@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Y Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Chinese restaurant, Continental restaurant, Fast food restaurant, Italian restaurant, Mexican restaurant, Restaurant",
+    "pincode": "248159",
+    "phone_number": "+91 97199 78463",
+    "website": "https://ycafeddn.wixsite.com/website-1",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Hotel White House, 15/7, Subhash Rd, behind St. Joseph's Academy School, Irigation Colony, Karanpur, Dehradun, Uttarakhand 248001",
+    "area": "Irigation Colony, Karanpur",
+    "latitude": 30.3280721,
+    "longitude": 78.0493647,
+    "place_id": "ChIJbbqrpsYpCTkRasWQM2Bq8OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbqrpsYpCTkRasWQM2Bq8OU",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:36"
+  },
+  {
+    "business_name": "Tengo Hambre",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "248159",
+    "phone_number": "+91 86300 87909",
+    "website": "https://instagram.com/tengohambredehradun",
+    "rating": 4.7,
+    "reviews_count": 70,
+    "address": "Anurag Chowk, Vasant Vihar, Mohit Nagar, Dehradun, Uttarakhand 248006",
+    "area": "Vasant Vihar, Mohit Nagar",
+    "latitude": 30.3248644,
+    "longitude": 78.0059502,
+    "place_id": "ChIJrxI4dz8rCTkRIKHHL5CJ_n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxI4dz8rCTkRIKHHL5CJ_n0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:38"
+  }
+]

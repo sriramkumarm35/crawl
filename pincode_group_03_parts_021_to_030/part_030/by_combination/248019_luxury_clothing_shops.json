@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meenakshi Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Women's clothing store",
+    "pincode": "248019",
+    "phone_number": "+91 99716 43636",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 197,
+    "address": "Show Room #144, Ground Floor, Gurubaksh Plaza, Jagat Farm, Block E, Chandila, Gamma 1, Greater Noida, Uttar Pradesh 201310",
+    "area": "Jagat Farm, Block E, Chandila, Gamma 1",
+    "latitude": 28.4809217,
+    "longitude": 77.5005788,
+    "place_id": "ChIJVcFSmW7qDDkRCzinX_cD3QM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcFSmW7qDDkRCzinX_cD3QM",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:10:47"
+  },
+  {
+    "business_name": "Greysandwhites",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248019",
+    "phone_number": "+91 81260 67255",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 128,
+    "address": "Sugar Mill Rd, Doiwala, Missar Wala Khurd, Uttarakhand 248140",
+    "area": "248019",
+    "latitude": 30.1749855,
+    "longitude": 78.1240756,
+    "place_id": "ChIJ-ULcK98lCTkR6zLnA3Pr4lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ULcK98lCTkR6zLnA3Pr4lQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:10:48"
+  }
+]

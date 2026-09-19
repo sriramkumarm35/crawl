@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lake Side Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "248197",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Juddo Waterfall, Kalsi, Lohari, Uttarakhand 248158",
+    "area": "248197",
+    "latitude": 30.5122297,
+    "longitude": 77.9399662,
+    "place_id": "ChIJ7xImNTjNCDkRZt-bw26E2wQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xImNTjNCDkRZt-bw26E2wQ",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:45:58"
+  },
+  {
+    "business_name": "Arkja Cottages - A Journey Back to Nature",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "248197",
+    "phone_number": "+91 93894 94718",
+    "website": "http://www.arkja.in/",
+    "rating": 4.6,
+    "reviews_count": 104,
+    "address": "near Langha Road, Binhar, Vikasnagar, Uttarakhand 248125",
+    "area": "248197",
+    "latitude": 30.498759,
+    "longitude": 77.90707239999999,
+    "place_id": "ChIJCeQ0YwAtDzkRjLdVEmEdEYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCeQ0YwAtDzkRjLdVEmEdEYI",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:45:58"
+  }
+]

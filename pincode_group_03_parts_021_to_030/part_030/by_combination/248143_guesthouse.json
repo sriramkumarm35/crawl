@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashutosh Payals house (The Jungle view guest house)",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "248143",
+    "phone_number": "+91 95606 96804",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "65MX+P3, Hrishikesh, Uttarakhand 248143",
+    "area": "248143",
+    "latitude": 30.234364099999997,
+    "longitude": 78.1976269,
+    "place_id": "ChIJm-TfxEclCTkR5KkeivSLbnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-TfxEclCTkR5KkeivSLbnk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:26:58"
+  },
+  {
+    "business_name": "Dindyaali Stays&cafe",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Holiday home, Resort hotel",
+    "pincode": "248143",
+    "phone_number": "N/A",
+    "website": "https://dindyaalistays.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near Thano, chowk, Siron, Dehradun, Uttarakhand 248143",
+    "area": "chowk",
+    "latitude": 30.2539438,
+    "longitude": 78.19495479999999,
+    "place_id": "ChIJywptmuwlCTkRVyMPM4H2dJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywptmuwlCTkRVyMPM4H2dJs",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:26:59"
+  }
+]

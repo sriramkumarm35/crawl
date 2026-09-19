@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tabassum",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "248198",
+    "phone_number": "+91 97606 80784",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Line, Dakpathar - Jeevangarh Rd, Vikasnagar, Uttarakhand 248198",
+    "area": "Anfield Grant",
+    "latitude": 30.4827421,
+    "longitude": 77.7817848,
+    "place_id": "ChIJ7bZUW5wvDzkR9uZPBO0vZgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bZUW5wvDzkR9uZPBO0vZgk",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:03"
+  },
+  {
+    "business_name": "Roshan Lal Bahuguna Kids Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "248198",
+    "phone_number": "+91 70605 16022",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 7, Vikasnagar Rd, Herbertpur, Uttarakhand 248142",
+    "area": "248198",
+    "latitude": 30.4576939,
+    "longitude": 77.7659592,
+    "place_id": "ChIJHSPrjDkvDzkRLaUeRF6qoD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSPrjDkvDzkRLaUeRF6qoD4",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:47:04"
+  }
+]

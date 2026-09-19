@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Decorous Interiors",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "248146",
+    "phone_number": "+91 93156 35699",
+    "website": "https://www.decorousinteriors.com/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Sunder Apartment, 96A, Block GH10, Sunder Vihar, Paschim Vihar, New Delhi, Delhi, 110087",
+    "area": "Block GH10, Sunder Vihar, Paschim Vihar",
+    "latitude": 28.6652982,
+    "longitude": 77.090543,
+    "place_id": "ChIJm9m6aYHlDDkRrtKxiWaBjJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9m6aYHlDDkRrtKxiWaBjJE",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:50"
+  },
+  {
+    "business_name": "TARU INTERIOR DECOR",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "248146",
+    "phone_number": "+91 76782 76686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "floor-1, 92, Street Number 19, Fazalpur, I.P.Extension, Patparganj, New Delhi, Delhi, 110092",
+    "area": "Fazalpur, I.P.Extension, Patparganj",
+    "latitude": 28.6288,
+    "longitude": 77.31017899999999,
+    "place_id": "ChIJXbTX4xnlDDkRbLxLhCE7-_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbTX4xnlDDkRbLxLhCE7-_s",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:30:50"
+  }
+]

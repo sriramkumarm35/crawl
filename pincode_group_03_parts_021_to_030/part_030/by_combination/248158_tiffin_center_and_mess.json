@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiffin service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "248158",
+    "phone_number": "+91 73108 11381",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ISBT Turner Rd, Bharuwala Colony, Clement Town, Dehradun, Uttarakhand 248002",
+    "area": "Bharuwala Colony, Clement Town",
+    "latitude": 30.270840999999997,
+    "longitude": 78.0077585,
+    "place_id": "ChIJmaLc-KYrCTkRkrtwChAN2ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaLc-KYrCTkRkrtwChAN2ao",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:46"
+  },
+  {
+    "business_name": "Tifin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "248158",
+    "phone_number": "+91 94165 53301",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "0, Sudhowala, Jhajhra, Dehradun, Sudhowala, Uttarakhand 248015",
+    "area": "Sudhowala, Jhajhra",
+    "latitude": 30.340415099999998,
+    "longitude": 77.9271563,
+    "place_id": "ChIJ1U7KTForDzkRMdfoQmEa91M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1U7KTForDzkRMdfoQmEa91M",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:31:46"
+  }
+]

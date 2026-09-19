@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gwasa Home Stay",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Hotel, Resort hotel, Restaurant, Home Stay",
+    "pincode": "248123",
+    "phone_number": "+91 84768 51881",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 27,
+    "address": "Gwasa Bridge, &, Tiger Fall Road, Lakamandal, Chakrata, Quansi, Uttarakhand 248123",
+    "area": "Lakamandal",
+    "latitude": 30.7247453,
+    "longitude": 77.8769642,
+    "place_id": "ChIJWSkdtM41DzkRZqf-Pa2awJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSkdtM41DzkRZqf-Pa2awJg",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:17:19"
+  },
+  {
+    "business_name": "Virasat mud house",
+    "search_category": "Hostels",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "248123",
+    "phone_number": "+91 94567 70782",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tiger Fall Rd, Chakrata, Uttarakhand 248123",
+    "area": "248123",
+    "latitude": 30.7006114,
+    "longitude": 77.89076969999999,
+    "place_id": "ChIJ3ydX4rdLDzkRA5EXNnJPnuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ydX4rdLDzkRA5EXNnJPnuA",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:17:20"
+  }
+]

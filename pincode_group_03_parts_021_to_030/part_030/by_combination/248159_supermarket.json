@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IJJA STORE - Mother's grace store",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "248159",
+    "phone_number": "+91 96503 07955",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Shop No 2, Pratap Palace, 410, Malik Chowk, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "area": "Vasant Vihar, Indra Nagar Colony",
+    "latitude": 30.318847599999998,
+    "longitude": 78.0017427,
+    "place_id": "ChIJrxRLwJUrCTkRGBOxiPq0r00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxRLwJUrCTkRGBOxiPq0r00",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:24"
+  },
+  {
+    "business_name": "The Ganga Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "248159",
+    "phone_number": "+91 92895 06056",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "shop no. 14,15, complex, Jai Ram Ashram Rd, near hotel meeram ganga, Mayakund, Rishikesh, Uttarakhand 249201",
+    "area": "Mayakund",
+    "latitude": 30.1037504,
+    "longitude": 78.29835949999999,
+    "place_id": "ChIJF2WW9tUXCTkRkqtZt7x__k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2WW9tUXCTkRkqtZt7x__k8",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:33:24"
+  }
+]

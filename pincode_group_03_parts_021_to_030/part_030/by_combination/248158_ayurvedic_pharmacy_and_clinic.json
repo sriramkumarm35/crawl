@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt. Ayurvedic Hospital Majra",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248158",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "72W3+QWP, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "area": "Niranjanpur",
+    "latitude": 30.2969561,
+    "longitude": 78.0048185,
+    "place_id": "ChIJYdd5PY0rCTkRIFJbqdKTlLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdd5PY0rCTkRIFJbqdKTlLc",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:32:00"
+  },
+  {
+    "business_name": "Uttrakhand Ayurved Hospital",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "248158",
+    "phone_number": "N/A",
+    "website": "http://uau.ac.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "735W+6HH, Harrawala, Uttarakhand 248005",
+    "area": "248158",
+    "latitude": 30.258054299999998,
+    "longitude": 78.0964868,
+    "place_id": "ChIJ55uU2EwvCTkRLHlH6JFPGic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55uU2EwvCTkRLHlH6JFPGic",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:32:00"
+  }
+]

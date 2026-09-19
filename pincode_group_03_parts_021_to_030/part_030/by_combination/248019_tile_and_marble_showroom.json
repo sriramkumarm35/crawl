@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Tiles Store",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "248019",
+    "phone_number": "+91 97592 22995",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "puliya, near HP Petrol Pump Bangi, Balawala, Dehradun, Uttarakhand 248019",
+    "area": "Balawala",
+    "latitude": 30.259197399999998,
+    "longitude": 78.10503109999999,
+    "place_id": "ChIJEY8Z4KovCTkR08DWznTvrw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEY8Z4KovCTkR08DWznTvrw0",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:11:10"
+  },
+  {
+    "business_name": "Shyam Marble and Granite",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Marble supplier",
+    "all_categories": "Marble supplier",
+    "pincode": "248019",
+    "phone_number": "+91 70607 39400",
+    "website": "https://www.facebook.com/Shyam.Marble.0072/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shyampur, Rishikesh, Uttarakhand 249204",
+    "area": "Shyampur",
+    "latitude": 30.063852999999998,
+    "longitude": 78.2400811,
+    "place_id": "ChIJ9UQfRPE-CTkR139kr5gG59g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UQfRPE-CTkR139kr5gG59g",
+    "part_id": "part_030",
+    "crawled_at": "2026-09-19 06:11:11"
+  }
+]
