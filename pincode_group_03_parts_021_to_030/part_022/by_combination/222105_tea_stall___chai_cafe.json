@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr vishal Gupta",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "222105",
+    "phone_number": "+91 70685 44289",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shudanipur, Uttar Pradesh 222161",
+    "area": "222105",
+    "latitude": 25.6294261,
+    "longitude": 82.6428086,
+    "place_id": "ChIJJ4SvC7wjkDkR6zCZKnU_Y2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4SvC7wjkDkR6zCZKnU_Y2E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:59:32"
+  },
+  {
+    "business_name": "Chai Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "222105",
+    "phone_number": "+91 62623 00031",
+    "website": "https://chaisuttabarindia.com/",
+    "rating": 4.4,
+    "reviews_count": 828,
+    "address": "Near Anupam Jalpan , TD college To Line Bazar Road, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Husainabad",
+    "latitude": 25.734094499999998,
+    "longitude": 82.6877684,
+    "place_id": "ChIJ9Zfow_A7kDkRSwdORJUZdA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Zfow_A7kDkRSwdORJUZdA4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:59:35"
+  }
+]

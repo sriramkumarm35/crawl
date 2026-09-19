@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umesh Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "222145",
+    "phone_number": "+91 74598 76945",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Babuganj Road Babuganj, Uttar Pradesh 222201",
+    "area": "222145",
+    "latitude": 25.7753913,
+    "longitude": 82.21269339999999,
+    "place_id": "ChIJG-Mn48mhmjkRJ1xpviafIJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-Mn48mhmjkRJ1xpviafIJ0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:33:29"
+  },
+  {
+    "business_name": "Jaiswal Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "222145",
+    "phone_number": "+91 88409 63242",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kewtali, Uttar Pradesh 222145",
+    "area": "222145",
+    "latitude": 25.8112845,
+    "longitude": 82.28141219999999,
+    "place_id": "ChIJiXZoPuELkDkRmvgOklXvgLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXZoPuELkDkRmvgOklXvgLE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:33:29"
+  }
+]

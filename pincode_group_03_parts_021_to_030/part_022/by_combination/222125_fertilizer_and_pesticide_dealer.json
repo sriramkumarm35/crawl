@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hira Fertilizers",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "222125",
+    "phone_number": "+91 70525 51495",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "post.pataila, Teh, Dist, Village. Chandauli, shahganj, Uttar Pradesh 223102",
+    "area": "Dist",
+    "latitude": 26.038022599999998,
+    "longitude": 82.5472212,
+    "place_id": "ChIJTXZY1oZpkDkRNctLgVVbHqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXZY1oZpkDkRNctLgVVbHqE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:30"
+  },
+  {
+    "business_name": "Sadguru Fertilizers",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "222125",
+    "phone_number": "+91 96218 77217",
+    "website": "https://www.sadgurufertilizers.wordpress.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prayagraj road, Bhaluwahi, Badlapur, Uttar Pradesh 222125",
+    "area": "Bhaluwahi",
+    "latitude": 25.8886871,
+    "longitude": 82.4501891,
+    "place_id": "ChIJvRNuh4ZtkDkRZ_q0EsgyAEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRNuh4ZtkDkRZ_q0EsgyAEg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:32"
+  }
+]

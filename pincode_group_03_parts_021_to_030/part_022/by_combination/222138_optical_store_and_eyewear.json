@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "222138",
+    "phone_number": "+91 94528 40875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PMRP+4PX, Jaycees Crossing, near U.P, opposite maruti Suzuki showroom, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Husainabad",
+    "latitude": 25.7403572,
+    "longitude": 82.6868516,
+    "place_id": "ChIJS0xkGso7kDkRz3d5ZQIM-8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0xkGso7kDkRz3d5ZQIM-8g",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:56"
+  },
+  {
+    "business_name": "KEVIS TALIORS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "222138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jagadish Patti, Uttar Pradesh 222180",
+    "area": "222138",
+    "latitude": 25.7210468,
+    "longitude": 82.7056226,
+    "place_id": "ChIJhyB1Dlk6kDkRGKef3oNPemY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyB1Dlk6kDkRGKef3oNPemY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prisha Child Health Care",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Children's hospital, Medical clinic, Child health care center",
+    "pincode": "222003",
+    "phone_number": "+91 98893 00993",
+    "website": "https://prishachildhealthcare.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "ke Samne, Nahar Par Panchdev Mandir, mod, Martinganj, Bhadon, Uttar Pradesh 223224",
+    "area": "Martinganj",
+    "latitude": 25.9044891,
+    "longitude": 82.7792853,
+    "place_id": "ChIJGUuHv1FJkDkR_t2iTD7rQoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUuHv1FJkDkR_t2iTD7rQoc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:18"
+  },
+  {
+    "business_name": "Sri Manish Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "222003",
+    "phone_number": "+91 88850 60700",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 54,
+    "address": "9-1-129/1, Sarojini Devi Rd, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Regimental Bazaar, Shivaji Nagar",
+    "latitude": 17.441056,
+    "longitude": 78.501339,
+    "place_id": "ChIJwwmu0TyayzsRI6c118IoS5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwmu0TyayzsRI6c118IoS5Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:19"
+  }
+]

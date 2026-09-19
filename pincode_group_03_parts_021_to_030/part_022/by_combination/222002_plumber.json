@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogesh plumber service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "222002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House no. 230, Baijabad, Kajgaon - Jaunpur Rd, Jaunpur, Khorawan, Uttar Pradesh 222138",
+    "area": "222002",
+    "latitude": 25.706782999999998,
+    "longitude": 82.69363299999999,
+    "place_id": "ChIJJYqze3g7kDkRAUJPaFOQiX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYqze3g7kDkRAUJPaFOQiX4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:56"
+  },
+  {
+    "business_name": "Hina Traders (Hardware & plumbing solutions)",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "222002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QP46+XCX, Ram Daspur Newada, Uttar Pradesh 222002",
+    "area": "222002",
+    "latitude": 25.757488799999997,
+    "longitude": 82.7109657,
+    "place_id": "ChIJId28NAA7kDkRV95s-e5E1dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJId28NAA7kDkRV95s-e5E1dA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:57"
+  }
+]

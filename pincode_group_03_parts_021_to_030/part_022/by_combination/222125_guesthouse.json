@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AIL Badalapur Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "222125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "VFV4+F7R, Badlapur, Uttar Pradesh 222125",
+    "area": "222125",
+    "latitude": 25.893748,
+    "longitude": 82.4556535,
+    "place_id": "ChIJu3koXABtkDkRh9ucASX7hl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3koXABtkDkRh9ucASX7hl4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:01"
+  },
+  {
+    "business_name": "Shree Shyam Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "222125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RFF2+8VG, Tezi Bazar Rd, Tezi Bazaar, Uttar Pradesh 222141",
+    "area": "222125",
+    "latitude": 25.82331,
+    "longitude": 82.4522034,
+    "place_id": "ChIJ_YEAOAATkDkRsq-pMalYyW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YEAOAATkDkRsq-pMalYyW8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "King of Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "222137",
+    "phone_number": "N/A",
+    "website": "https://kingofmanagement.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Surekapuram Colony, Teliyaganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Surekapuram Colony, Teliyaganj",
+    "latitude": 25.1304858,
+    "longitude": 82.5657853,
+    "place_id": "ChIJHzCJUlTxjzkRR4gb3g8l7xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzCJUlTxjzkRR4gb3g8l7xo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:21:50"
+  },
+  {
+    "business_name": "R.J. Events - The Party Planner",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Balloon artist, Wedding planner",
+    "pincode": "222137",
+    "phone_number": "+91 97219 82598",
+    "website": "https://rjpartyplanner.com/",
+    "rating": 4.6,
+    "reviews_count": 216,
+    "address": "120/192, (3, near Mariampur Road, near Volkswagen Kanpur Service, Laxmi Ratan Colony, Lajpat Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Laxmi Ratan Colony, Lajpat Nagar, Shastri Nagar",
+    "latitude": 26.4671751,
+    "longitude": 80.30828749999999,
+    "place_id": "ChIJ2wAyFZRHnDkRayO3sB9hW14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wAyFZRHnDkRayO3sB9hW14",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:21:50"
+  }
+]

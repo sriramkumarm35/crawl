@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anupam Beej Bhandar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Pharmacy",
+    "pincode": "222135",
+    "phone_number": "N/A",
+    "website": "http://anupambeejbhandar.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Umapur, Tajuddinpur, Uttar Pradesh 222143",
+    "area": "222135",
+    "latitude": 25.6800625,
+    "longitude": 82.4061875,
+    "place_id": "ChIJ91tNjtsRkDkRG_D4aPRlhjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91tNjtsRkDkRG_D4aPRlhjs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:17:07"
+  },
+  {
+    "business_name": "Ali Perfumes",
+    "search_category": "Organic Food Store",
+    "primary_category": "Perfume store",
+    "all_categories": "Perfume store",
+    "pincode": "222135",
+    "phone_number": "+91 93264 82853",
+    "website": "https://aliperfumes.com/",
+    "rating": 4.9,
+    "reviews_count": 93,
+    "address": "near 99 mall, Mohalla Mahatwana, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "Mohalla Mahatwana",
+    "latitude": 25.6873357,
+    "longitude": 82.4111429,
+    "place_id": "ChIJx6GwOtwRkDkRYOPfIfHdcPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6GwOtwRkDkRYOPfIfHdcPA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:17:09"
+  }
+]

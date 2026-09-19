@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdamba Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Saree Shop, Shopping mall",
+    "pincode": "222101",
+    "phone_number": "+91 94503 05417",
+    "website": "https://jagdamba-sarees.grexa.site/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Mungra Badshahpur Main Market Rd, Mungra Badshahpur, Uttar Pradesh 222202",
+    "area": "222101",
+    "latitude": 25.659331299999998,
+    "longitude": 82.19122039999999,
+    "place_id": "ChIJ1Y8lWsKnmjkRIwLfxFRu0WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Y8lWsKnmjkRIwLfxFRu0WA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:57:49"
+  },
+  {
+    "business_name": "SAREE SANSAR",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222101",
+    "phone_number": "+91 96163 18191",
+    "website": "http://www.sareesansarshg.com/",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "main road, Shahganj, Uttar Pradesh 223101",
+    "area": "222101",
+    "latitude": 26.054340699999997,
+    "longitude": 82.681828,
+    "place_id": "ChIJgRKAw3dbkDkRcNeNI_qU_Qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRKAw3dbkDkRcNeNI_qU_Qw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:57:50"
+  }
+]

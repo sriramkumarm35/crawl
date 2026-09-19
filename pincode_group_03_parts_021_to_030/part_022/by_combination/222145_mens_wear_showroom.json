@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandey Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "222145",
+    "phone_number": "+91 97210 50662",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Badshahpur Road, Sujanganj, Chainpur, Uttar Pradesh 222201",
+    "area": "222145",
+    "latitude": 25.7608732,
+    "longitude": 82.2866746,
+    "place_id": "ChIJx6GcolILkDkRj3UgjNUBVEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6GcolILkDkRj3UgjNUBVEs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:33:26"
+  },
+  {
+    "business_name": "Deepak Washtralay",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "222145",
+    "phone_number": "+91 73794 95103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sujanganj Rd, Belwai, Tilakhara Urf Suzanganj, Sujanganj, Uttar Pradesh 222143",
+    "area": "Belwai",
+    "latitude": 25.769204499999997,
+    "longitude": 82.2879152,
+    "place_id": "ChIJK_bMq5MLkDkRAAAAMHFZxH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_bMq5MLkDkRAAAAMHFZxH8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:33:26"
+  }
+]

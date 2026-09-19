@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gomti Bike Bazar",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "222133",
+    "phone_number": "+91 70078 21629",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "doctor sakuntala, se 50, Jaunpur - Azamgarh Rd, mitre aage, Jaunpur, Mahagupur, Uttar Pradesh 222001",
+    "area": "mitre aage",
+    "latitude": 25.7561131,
+    "longitude": 82.7132096,
+    "place_id": "ChIJ9653xys7kDkRf7pIehBN4VU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9653xys7kDkRf7pIehBN4VU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:57"
+  },
+  {
+    "business_name": "Srivastav Bajaj (BAJAJ MOTORCYCLE)",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Motor vehicle dealer",
+    "pincode": "222133",
+    "phone_number": "+91 96105 17831",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "PR59+376, Srivastav AutoMobile Muftiganj, Dugauli, Uttar Pradesh 222170",
+    "area": "222133",
+    "latitude": 25.708785499999998,
+    "longitude": 82.8172069,
+    "place_id": "ChIJ7YSrrNgxkDkRh520i33BZB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YSrrNgxkDkRh520i33BZB4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:59"
+  }
+]

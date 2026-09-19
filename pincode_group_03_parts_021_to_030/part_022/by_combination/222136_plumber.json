@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Container service",
+    "all_categories": "Container service",
+    "pincode": "222136",
+    "phone_number": "+91 79850 49008",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Varanasi, Rehati, Uttar Pradesh 222136",
+    "area": "222136",
+    "latitude": 25.579644599999998,
+    "longitude": 82.78102969999999,
+    "place_id": "ChIJo957VFwvkDkRUIzixW8XTYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo957VFwvkDkRUIzixW8XTYo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:43"
+  },
+  {
+    "business_name": "Singh Electric And Plumbing Services",
+    "search_category": "Plumber",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "222136",
+    "phone_number": "+91 97925 02368",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "242, Gopipur, Sadatmasaura, Uttar Pradesh 222180",
+    "area": "222136",
+    "latitude": 25.6592301,
+    "longitude": 82.7052464,
+    "place_id": "ChIJx1R9jfslkDkR10XfZYuWV9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1R9jfslkDkR10XfZYuWV9Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:44"
+  }
+]

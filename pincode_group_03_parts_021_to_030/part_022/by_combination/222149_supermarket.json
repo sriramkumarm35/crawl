@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "श्री नगर",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "222149",
+    "phone_number": "+91 96487 54460",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 10,
+    "address": "Bus Stop, Borsar Khurd, Bodari, Uttar Pradesh 222149",
+    "area": "222149",
+    "latitude": 25.630836199999997,
+    "longitude": 83.0432703,
+    "place_id": "ChIJIViG4kLRkTkRmwgVpCgnSZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIViG4kLRkTkRmwgVpCgnSZ0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:38:25"
+  },
+  {
+    "business_name": "Dilip Kirana Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "222149",
+    "phone_number": "+91 99360 34900",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 12,
+    "address": "J3F3+F22, near hospital, Hisampur, Bodari, Uttar Pradesh 222149",
+    "area": "222149",
+    "latitude": 25.6236419,
+    "longitude": 83.05252879999999,
+    "place_id": "ChIJ5ePsIezQkTkRgnXyrK4i-8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ePsIezQkTkRgnXyrK4i-8k",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:38:25"
+  }
+]

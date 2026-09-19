@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Auto Part ,Auto Garage And Service Center",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "222128",
+    "phone_number": "+91 78602 97244",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur, Etaye, Uttar Pradesh 222161",
+    "area": "222128",
+    "latitude": 25.564716999999998,
+    "longitude": 82.6740128,
+    "place_id": "ChIJdXyxqe8nkDkRNsE5IctN0co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXyxqe8nkDkRNsE5IctN0co",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:51"
+  },
+  {
+    "business_name": "Akash Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "222128",
+    "phone_number": "+91 73184 59227",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhanethu, Uttar Pradesh 222128",
+    "area": "222128",
+    "latitude": 25.4928386,
+    "longitude": 82.7052515,
+    "place_id": "ChIJS3aV_-gnkDkR_A9o7IgeeUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3aV_-gnkDkR_A9o7IgeeUA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Nippon life Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "221709",
+    "phone_number": "+91 22 6896 5000",
+    "website": "https://www.reliancenipponlife.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "चकरा कोल्हुआ बीरपुरा, नगरा, Uttar Pradesh 221709",
+    "area": "221709",
+    "latitude": 25.9601409,
+    "longitude": 83.9434556,
+    "place_id": "ChIJMSg9gXhBkjkRa-uYSZerYMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSg9gXhBkjkRa-uYSZerYMA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:52"
+  },
+  {
+    "business_name": "swastik insurance point",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "221709",
+    "phone_number": "+91 89201 91247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "i b, smriti arogya sadan, near, Bhathiarisarai, Darbhanga, Bihar 846004",
+    "area": "Bhathiarisarai",
+    "latitude": 26.148334799999997,
+    "longitude": 85.9033936,
+    "place_id": "ChIJTY2L0CG-2IIRNSZCvAxrZbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTY2L0CG-2IIRNSZCvAxrZbg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:53"
+  }
+]

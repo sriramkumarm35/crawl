@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bera HSC",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer software store, Computer store",
+    "pincode": "222101",
+    "phone_number": "+91 90737 78327",
+    "website": "https://www.berahsc.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tentulberia Anukul Chandra Rd, Tentulberia, Mauza Tentulberia, Garia, Kolkata, Rajpur Sonarpur, West Bengal 700084",
+    "area": "Tentulberia, Mauza Tentulberia, Garia",
+    "latitude": 22.4656694,
+    "longitude": 88.40481249999999,
+    "place_id": "ChIJ1YGHrYtzAjoRABONkysk8gI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YGHrYtzAjoRABONkysk8gI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:54"
+  },
+  {
+    "business_name": "Arise Computer And Network Solution",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Electronics store",
+    "pincode": "222101",
+    "phone_number": "+91 97715 63543",
+    "website": "http://www.arisecompusys.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Makhdum Sarai Rd, near Faiz Hospital, M.m Colony, Fathepur, Siwan, Bihar 841226",
+    "area": "M.m Colony, Fathepur",
+    "latitude": 26.2194926,
+    "longitude": 84.36283619999999,
+    "place_id": "ChIJR1MVbwb8kjkRu299cxWy5WY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1MVbwb8kjkRu299cxWy5WY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:57"
+  }
+]

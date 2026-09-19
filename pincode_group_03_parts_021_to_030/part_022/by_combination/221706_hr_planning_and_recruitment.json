@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Technopark Trivandrum",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Technology park",
+    "all_categories": "Technology park",
+    "pincode": "221706",
+    "phone_number": "+91 471 270 0222",
+    "website": "http://www.technopark.org/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Park Centre, Technopark Campus, Thiruvananthapuram, Keralam 695581",
+    "area": "Technopark Campus",
+    "latitude": 8.5581418,
+    "longitude": 76.88126009999999,
+    "place_id": "ChIJkY9orfu-BTsRat9dz4P76Fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkY9orfu-BTsRat9dz4P76Fg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:19"
+  },
+  {
+    "business_name": "CareerTree HR Solutions Private Limited",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency, Consultant",
+    "pincode": "221706",
+    "phone_number": "+91 44 4900 4900",
+    "website": "https://career-tree.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Old no 4 new, no 15, 3rd Cross St E, Shenoy Nagar, Chennai, Tamil Nadu 600030",
+    "area": "Venkatasamy Nagar, Shenoy Nagar",
+    "latitude": 13.0782812,
+    "longitude": 80.2278163,
+    "place_id": "ChIJT-nOJ4JmUjoRYccV-53LATM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-nOJ4JmUjoRYccV-53LATM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MDK COSMETIC SHOP",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "222141",
+    "phone_number": "+91 91583 49409",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Zafarabad, Uttar Pradesh 222180",
+    "area": "222141",
+    "latitude": 25.6973491,
+    "longitude": 82.735946,
+    "place_id": "ChIJ3XknJQAxkDkRs3_ORymC6fE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XknJQAxkDkRs3_ORymC6fE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:27:01"
+  },
+  {
+    "business_name": "Glam makeover",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "222141",
+    "phone_number": "+91 95170 09115",
+    "website": "https://www.instagram.com/professional_makeup_artist___?igsh=MXJrNzYxaHJnd3BkbQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "purani bajar, Sujanganj, Tilakhara Urf Suzanganj, Uttar Pradesh 222201",
+    "area": "purani bajar",
+    "latitude": 25.7751955,
+    "longitude": 82.2857875,
+    "place_id": "ChIJdU36rgILkDkRyGmCSf7Aclc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdU36rgILkDkRyGmCSf7Aclc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:27:02"
+  }
+]

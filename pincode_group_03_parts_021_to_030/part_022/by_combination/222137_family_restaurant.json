@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello brother's Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "222137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Rampur - Gopalpur Link Rd, NH135A, Jaunpur, Rasulaha, Uttar Pradesh 222203",
+    "area": "NH135A",
+    "latitude": 25.4855086,
+    "longitude": 82.57081409999999,
+    "place_id": "ChIJt4Bx5lUhkDkRxoyuEhayy3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4Bx5lUhkDkRxoyuEhayy3Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:20:55"
+  },
+  {
+    "business_name": "Purvanchal Family Dhaba and Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "222137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sidhwan main road Rampur Jaunpur Sidhwan, Rampur - Gopalpur Link Rd, near toll plaza, Uttar Pradesh 222203",
+    "area": "222137",
+    "latitude": 25.4992132,
+    "longitude": 82.5964015,
+    "place_id": "ChIJxQ4igd0hkDkR-gcK8dJDUkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQ4igd0hkDkR-gcK8dJDUkw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:20:55"
+  }
+]

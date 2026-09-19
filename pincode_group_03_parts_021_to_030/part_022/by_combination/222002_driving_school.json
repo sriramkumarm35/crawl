@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bagesh",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "222002",
+    "phone_number": "+91 81728 30585",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "280, Pahetiya, Uttar Pradesh 222133",
+    "area": "222002",
+    "latitude": 25.748359299999997,
+    "longitude": 82.75613829999999,
+    "place_id": "ChIJC2ORRVUxkDkRq_6mhZXLXVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2ORRVUxkDkRq_6mhZXLXVw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:51"
+  },
+  {
+    "business_name": "Tanmay driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "222002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Kerakat, Charanadih, Uttar Pradesh 222142",
+    "area": "222002",
+    "latitude": 25.6635918,
+    "longitude": 82.9392386,
+    "place_id": "ChIJOYH1f7rTkTkRukEMJC8XIIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYH1f7rTkTkRukEMJC8XIIs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:52"
+  }
+]

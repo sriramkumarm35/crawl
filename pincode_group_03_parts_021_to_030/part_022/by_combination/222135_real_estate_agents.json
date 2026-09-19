@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maneesh Mali",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "222135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "123, Phool Khan, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "Phool Khan",
+    "latitude": 25.68181,
+    "longitude": 82.4087909,
+    "place_id": "ChIJVVlxr-4RkDkRvZOfPLSH4sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVlxr-4RkDkRvZOfPLSH4sw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:18:36"
+  },
+  {
+    "business_name": "Yadav chauraha",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "222135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 731B, Tajuddinpur, Ahamadpur, Uttar Pradesh 222143",
+    "area": "222135",
+    "latitude": 25.6669154,
+    "longitude": 82.397362,
+    "place_id": "ChIJSzeqBAARkDkRui4koJSJ0aQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzeqBAARkDkRui4koJSJ0aQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:18:36"
+  }
+]

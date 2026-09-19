@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "As computer education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "222002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "Dharmapur, Jaunpur, Uttar Pradesh 222001",
+    "area": "222002",
+    "latitude": 25.7450789,
+    "longitude": 82.7374115,
+    "place_id": "ChIJnydBNM4xkDkReMsAubGAMyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnydBNM4xkDkReMsAubGAMyA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:16"
+  },
+  {
+    "business_name": "Vidushi Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "222002",
+    "phone_number": "+91 73477 57675",
+    "website": "http://www.vidushifoundation.org/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Station Rd, opposite B N B Inter College, Mariahu, Jaunpur, Uttar Pradesh 222161",
+    "area": "222002",
+    "latitude": 25.5962945,
+    "longitude": 82.598739,
+    "place_id": "ChIJ0RurncwjkDkRFAvGwADBELQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RurncwjkDkRFAvGwADBELQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:19"
+  }
+]

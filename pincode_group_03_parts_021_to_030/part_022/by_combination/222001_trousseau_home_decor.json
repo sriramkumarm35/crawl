@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Decor Drape",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "222001",
+    "phone_number": "+91 73909 15456",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "Anjani Puram Colony Rd, Deokali, Ayodhya, Faizabad, Uttar Pradesh 224001",
+    "area": "Deokali",
+    "latitude": 26.7736684,
+    "longitude": 82.1591516,
+    "place_id": "ChIJGeRrbXEHmjkRWoZNqBXXpf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeRrbXEHmjkRWoZNqBXXpf4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:53:28"
+  },
+  {
+    "business_name": "Saloni house & decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "222001",
+    "phone_number": "+91 3299 117 726",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Katghara, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Katghara, Olandganj",
+    "latitude": 25.7456955,
+    "longitude": 82.6665307,
+    "place_id": "ChIJoUQcIXQ7kDkRE-e6c5sprjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUQcIXQ7kDkRE-e6c5sprjs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:53:28"
+  }
+]

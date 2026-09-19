@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Hair Cutting Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "222137",
+    "phone_number": "+91 96480 52442",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Jaunpur, Bakiya, Uttar Pradesh 222161",
+    "area": "222137",
+    "latitude": 25.596095599999998,
+    "longitude": 82.6451368,
+    "place_id": "ChIJR_BtaZQjkDkRWemOA3hpWHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_BtaZQjkDkRWemOA3hpWHg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:21:37"
+  },
+  {
+    "business_name": "Vivek Haircut",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "222137",
+    "phone_number": "+91 74084 23241",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No4 Rashulhan Bazar Rasulaha, Uttar Pradesh 222162",
+    "area": "222137",
+    "latitude": 25.523266699999997,
+    "longitude": 82.4946327,
+    "place_id": "ChIJ0z4dgwYfkDkR3SOr-iRwwGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0z4dgwYfkDkR3SOr-iRwwGY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:21:37"
+  }
+]

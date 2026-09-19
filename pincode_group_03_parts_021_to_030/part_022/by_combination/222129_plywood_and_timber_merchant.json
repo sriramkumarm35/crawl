@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Timber",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Interior Decorator, Lumber store, Wood supplier",
+    "pincode": "222129",
+    "phone_number": "+91 98180 45854",
+    "website": "https://www.krishnatimber.in/",
+    "rating": 4.7,
+    "reviews_count": 155,
+    "address": "239/1, Shastri Colony, Old Faridabad, Faridabad, Haryana 121003",
+    "area": "Shastri Colony, Old Faridabad",
+    "latitude": 28.4259548,
+    "longitude": 77.3191853,
+    "place_id": "ChIJVVVVJZbdDDkRNztzzLIXa5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJZbdDDkRNztzzLIXa5Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:10:47"
+  },
+  {
+    "business_name": "Deluxe Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "222129",
+    "phone_number": "+91 88219 99560",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main Road, Karhi, Madhya Pradesh 451220",
+    "area": "222129",
+    "latitude": 22.278748999999998,
+    "longitude": 75.79746399999999,
+    "place_id": "ChIJXUHIRBaLYjkR5mLYnp4Zu2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUHIRBaLYjkR5mLYnp4Zu2o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:10:47"
+  }
+]

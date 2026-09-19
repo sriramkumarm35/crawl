@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Edible Agro Products Limited",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "222131",
+    "phone_number": "+91 90515 58832",
+    "website": "https://www.edibleagroproducts.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Fe-237, FE Block, Sector III, Salt Lake City, Kolkata, West Bengal 700106",
+    "area": "FE Block, Sector III, Salt Lake City",
+    "latitude": 22.5805632,
+    "longitude": 88.4190874,
+    "place_id": "ChIJGQs9UcF1AjoRuwUmLu1Mot8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQs9UcF1AjoRuwUmLu1Mot8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:11:47"
+  },
+  {
+    "business_name": "Gopinath cooking oil",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service",
+    "pincode": "222131",
+    "phone_number": "+91 98798 77723",
+    "website": "https://gopinathcookingoil.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gopinath oil, Waghodia road, Goverdhan Twp, Kendranagar, Vadodara, Gujarat 390025",
+    "area": "Goverdhan Township, Kendranagar",
+    "latitude": 22.286331699999998,
+    "longitude": 73.2457745,
+    "place_id": "ChIJMUsjnM7FXzkR0C4kzPinpzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUsjnM7FXzkR0C4kzPinpzw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:11:49"
+  }
+]

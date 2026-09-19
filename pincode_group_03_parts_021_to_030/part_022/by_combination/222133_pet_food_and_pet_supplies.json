@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chauhan Pet Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "222133",
+    "phone_number": "+91 98110 13631",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "RRHH+96M, Barghan, Bardah, Martinganj, Uttar Pradesh 276301",
+    "area": "Barghan",
+    "latitude": 25.8284511,
+    "longitude": 82.8280592,
+    "place_id": "ChIJxZAo--41kDkRgV6s57V-Vt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZAo--41kDkRgV6s57V-Vt8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:25"
+  },
+  {
+    "business_name": "Om sai ram pashu aahar & Bij Bhandar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "222133",
+    "phone_number": "+91 89570 61446",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bari road nahar ke pass, Gaurabadshahpur, Uttar Pradesh 222133",
+    "area": "Gaurabadshahpur",
+    "latitude": 25.7705722,
+    "longitude": 82.8200339,
+    "place_id": "ChIJh-XddFY3kDkR2pH-_4mwbwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-XddFY3kDkR2pH-_4mwbwU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:25"
+  }
+]

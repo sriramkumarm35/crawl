@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "221717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23P3+7V9, Malipur Sikandarpur Rd, Sikandarpur, Uttar Pradesh 277303",
+    "area": "221717",
+    "latitude": 26.0356742,
+    "longitude": 84.05474629999999,
+    "place_id": "ChIJ589SCIpFkjkRGHSc3AwpBoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ589SCIpFkjkRGHSc3AwpBoo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:31"
+  },
+  {
+    "business_name": "KHAN TOUR AND TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221717",
+    "phone_number": "+91 78005 31616",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KHAN TOUR AND TRAVELS, 01, near UNION BANK OF INDIA BUS STATION, CHAURAHA, Sikandarpur, Uttar Pradesh 277303",
+    "area": "CHAURAHA",
+    "latitude": 26.035594,
+    "longitude": 84.0558173,
+    "place_id": "ChIJh5Iwos9FkjkRQpl6DuFQ33s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5Iwos9FkjkRQpl6DuFQ33s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Indian Town",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "222128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Airport Road, Manapur, Babatpur, Belawa, Uttar Pradesh 221206",
+    "area": "Manapur",
+    "latitude": 25.4707166,
+    "longitude": 82.8166182,
+    "place_id": "ChIJy7yZDwDVjzkRH05WSnSW_2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7yZDwDVjzkRH05WSnSW_2U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:21"
+  },
+  {
+    "business_name": "Hotel kashi inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "FMVG+XV7, Jaynpur Babatpur Road, Bazar Road, Chauraha, Newadhiya, Uttar Pradesh 222128",
+    "area": "Chauraha",
+    "latitude": 25.494908,
+    "longitude": 82.6771571,
+    "place_id": "ChIJ6XhaOQAnkDkRrsxnHVfonuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XhaOQAnkDkRrsxnHVfonuc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:21"
+  }
+]

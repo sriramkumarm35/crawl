@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANKAJ DRESSES",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222161",
+    "phone_number": "+91 90059 44157",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "Sadar Ganj, Kasba Mariyahu, Uttar Pradesh 222161",
+    "area": "Sadar Ganj",
+    "latitude": 25.6009744,
+    "longitude": 82.60263859999999,
+    "place_id": "ChIJJ5qqjUwikDkRTBDHb4D3mgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5qqjUwikDkRTBDHb4D3mgY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:33"
+  },
+  {
+    "business_name": "Abhishek Dresses",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222161",
+    "phone_number": "+91 99366 59234",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Jaunpur, Dadara, Uttar Pradesh 222161",
+    "area": "222161",
+    "latitude": 25.604528799999997,
+    "longitude": 82.60422299999999,
+    "place_id": "ChIJ3eS0e3kjkDkRUAo4nRpEnP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eS0e3kjkDkRUAo4nRpEnP0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:34"
+  }
+]

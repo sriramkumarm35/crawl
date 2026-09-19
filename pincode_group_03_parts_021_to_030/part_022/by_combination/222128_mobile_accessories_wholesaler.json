@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "222128",
+    "phone_number": "+91 84239 92013",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Mariahu to, road, Jaunpur, Uttar Pradesh 222161",
+    "area": "222128",
+    "latitude": 25.603599,
+    "longitude": 82.6039574,
+    "place_id": "ChIJ2VAHHm4jkDkRV9giIT_hsqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VAHHm4jkDkRV9giIT_hsqg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:33"
+  },
+  {
+    "business_name": "Aleena Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "222128",
+    "phone_number": "+91 99190 90641",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Banjarepur, Uttar Pradesh 222142",
+    "area": "222128",
+    "latitude": 25.6908377,
+    "longitude": 82.92961079999999,
+    "place_id": "ChIJJQu6uGfNkTkRNa4DXzdRjPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQu6uGfNkTkRNa4DXzdRjPU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:35"
+  }
+]

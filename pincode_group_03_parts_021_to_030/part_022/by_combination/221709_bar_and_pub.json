@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharaja bar & restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gadwar mod, baliia marg, Khanwar, Nagra, Sarai Chawat, Uttar Pradesh 221711",
+    "area": "Khanwar",
+    "latitude": 25.9679795,
+    "longitude": 83.8711525,
+    "place_id": "ChIJ47AZ3Ic_kjkRn8B5314EDFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47AZ3Ic_kjkRn8B5314EDFw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:50"
+  },
+  {
+    "business_name": "Barka duwar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "QCW9+65F, Unnamed Road, Moon Chhupra, Uttar Pradesh 277209",
+    "area": "221709",
+    "latitude": 25.7955719,
+    "longitude": 84.4179209,
+    "place_id": "ChIJ9cZFQOyPkjkRDko6nc7dG3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cZFQOyPkjkRDko6nc7dG3w",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:51"
+  }
+]

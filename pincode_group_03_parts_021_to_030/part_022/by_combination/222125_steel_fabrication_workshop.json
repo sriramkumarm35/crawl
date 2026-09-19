@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FJ Steel",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "222125",
+    "phone_number": "+91 85770 38918",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "rashidabad, Station Rd, Vishesharpur, Jaunpur, Uttar Pradesh 222002",
+    "area": "222125",
+    "latitude": 25.7576237,
+    "longitude": 82.70877829999999,
+    "place_id": "ChIJV7veSKg7kDkROjrKpsqLgsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7veSKg7kDkROjrKpsqLgsw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:25"
+  },
+  {
+    "business_name": "Ansari Steel Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "222125",
+    "phone_number": "+91 83182 65300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jaunpur Rd, Olandganj, Rampur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Olandganj",
+    "latitude": 25.7455532,
+    "longitude": 82.6829157,
+    "place_id": "ChIJUfGBFDs7kDkR1h-tCdYStMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfGBFDs7kDkR1h-tCdYStMw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:26"
+  }
+]

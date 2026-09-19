@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Electrician",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "222149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JWR9+45Q, Kerakat, Uttar Pradesh 222142",
+    "area": "222149",
+    "latitude": 25.6403346,
+    "longitude": 82.9179758,
+    "place_id": "ChIJW1zNXQDTkTkRMOyXYpFGchU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1zNXQDTkTkRMOyXYpFGchU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:39:13"
+  },
+  {
+    "business_name": "Shadab Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier, Electrical appliance wholesaler",
+    "pincode": "222149",
+    "phone_number": "+91 73554 64382",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kerakat, Uttar Pradesh 222142",
+    "area": "222149",
+    "latitude": 25.6403134,
+    "longitude": 82.9175927,
+    "place_id": "ChIJm8HJHwDTkTkR5UFZ_mUqRVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8HJHwDTkTkR5UFZ_mUqRVc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:39:15"
+  }
+]

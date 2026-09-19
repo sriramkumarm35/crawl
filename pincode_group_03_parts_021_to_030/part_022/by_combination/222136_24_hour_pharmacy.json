@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222136",
+    "phone_number": "+91 94523 71095",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur, Gopipur, Uttar Pradesh 222180",
+    "area": "222136",
+    "latitude": 25.650385699999998,
+    "longitude": 82.7039837,
+    "place_id": "ChIJt6zAtI8lkDkRIucqDipcSYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6zAtI8lkDkRIucqDipcSYE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:20"
+  },
+  {
+    "business_name": "K.D HEALTH PHARMACY CHEMIST AND DRUGGIST",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "222136",
+    "phone_number": "+91 90444 01248",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "and, Jaunpur Parauganj road, road, THUR, Rehari, Thaur, Uttar Pradesh 222146",
+    "area": "THUR",
+    "latitude": 25.5789373,
+    "longitude": 82.82900029999999,
+    "place_id": "ChIJFVhtN54rkDkRrPzKGTMyfrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVhtN54rkDkRrPzKGTMyfrg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flour/Mustard Mill ( चक्की)",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "222138",
+    "phone_number": "+91 74590 30607",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajai, Gopalpur, Uttar Pradesh 231211",
+    "area": "222138",
+    "latitude": 24.971287699999998,
+    "longitude": 82.3387674,
+    "place_id": "ChIJmyPDmVePjzkRtDdIB-alq9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyPDmVePjzkRtDdIB-alq9s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:06"
+  },
+  {
+    "business_name": "Gupta flour mill, Haiderpur, Jaunpur",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QMGP+MP6, Bagmiya, Haiderpur, Uttar Pradesh 222001",
+    "area": "Bagmiya",
+    "latitude": 25.7766688,
+    "longitude": 82.6867599,
+    "place_id": "ChIJBXcIn4A5kDkRAJL1gULRWVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXcIn4A5kDkRAJL1gULRWVI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:07"
+  }
+]

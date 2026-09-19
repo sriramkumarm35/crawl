@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti enterprises",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "221713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "R2GP+P6C, Garwar, Uttar Pradesh 277121",
+    "area": "221713",
+    "latitude": 25.826818,
+    "longitude": 84.0355,
+    "place_id": "ChIJX9efB-ZpkjkRq4z-NFSUfZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9efB-ZpkjkRq4z-NFSUfZs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:44:29"
+  },
+  {
+    "business_name": "PM plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "221713",
+    "phone_number": "+91 76778 88882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Handewadi Rd, Autadwadi Handewadi, holkarwaadi, Pune, Maharashtra 411048",
+    "area": "Autadwadi Handewadi, holkarwaadi",
+    "latitude": 18.4490429,
+    "longitude": 73.932748,
+    "place_id": "ChIJIU0LNZTrwjsRuThIKbNCswU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIU0LNZTrwjsRuThIKbNCswU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:44:30"
+  }
+]

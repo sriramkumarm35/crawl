@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farm Fresh Meats",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "221718",
+    "phone_number": "+91 95669 48308",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 58,
+    "address": "Nookampalayam Rd, Perumbakkam, Tamil Nadu 600100",
+    "area": "Perumbakkam",
+    "latitude": 12.90146,
+    "longitude": 80.19796,
+    "place_id": "ChIJfRXGyVNdUjoRZKUrJ7AYhPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRXGyVNdUjoRZKUrJ7AYhPU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:41"
+  },
+  {
+    "business_name": "TenderCuts - Vengaivasal",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Butcher shop deli, Chicken shop, Meat products store",
+    "pincode": "221718",
+    "phone_number": "+91 95437 54375",
+    "website": "https://www.tendercuts.in/?utm_source=gmb&utm_medium=listing",
+    "rating": 4.2,
+    "reviews_count": 383,
+    "address": "Old 1/562, New 2/180, Mambakkam - Medavakkam Main Rd, Sastha Nagar, Veerabadra Nagar Extension, Nehru Nagar, Vengavasal, Tamil Nadu 600100",
+    "area": "Sastha Nagar, Veerabadra Nagar Extension, Nehru Nagar, Vengavasal",
+    "latitude": 12.9067692,
+    "longitude": 80.1892098,
+    "place_id": "ChIJbZrXn3hfUjoRzlvAH7w8EeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZrXn3hfUjoRzlvAH7w8EeU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:41"
+  }
+]

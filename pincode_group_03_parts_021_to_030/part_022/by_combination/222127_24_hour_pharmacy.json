@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RDS College of Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, College",
+    "pincode": "222127",
+    "phone_number": "+91 96283 62187",
+    "website": "https://rdspharmacy.com/",
+    "rating": 4.3,
+    "reviews_count": 239,
+    "address": "Vill- Kushaow, Po, Bhaupur, Uttar Pradesh 222136",
+    "area": "222127",
+    "latitude": 25.5607875,
+    "longitude": 82.823317,
+    "place_id": "ChIJ7Xmd0OorkDkR4TkqHh043fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Xmd0OorkDkR4TkqHh043fc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:06:56"
+  },
+  {
+    "business_name": "Jeevan Raksha Hospital & Maternity Care",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "222127",
+    "phone_number": "+91 70540 16977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chungi Chauraha, चुंगी चौराहा बाईपास रोड, Bai pass Road, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "222127",
+    "latitude": 25.6889045,
+    "longitude": 82.41927849999999,
+    "place_id": "ChIJlQb7F1cRkDkRHDP6VtDXQ48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQb7F1cRkDkRHDP6VtDXQ48",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:06:58"
+  }
+]

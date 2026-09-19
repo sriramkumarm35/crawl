@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DOSTI CHINESE FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "222139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "2MQM+J59, Shahganj, Rasoolpur, Uttar Pradesh 223101",
+    "area": "Shahganj",
+    "latitude": 26.0390364,
+    "longitude": 82.68299259999999,
+    "place_id": "ChIJD8XEGQBFkDkRF4EB-ucdILU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8XEGQBFkDkRF4EB-ucdILU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:33"
+  },
+  {
+    "business_name": "मौर्य कैफे एंड फैमिली रेस्टोरेंट",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "222139",
+    "phone_number": "+91 91186 12995",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Gorari Khalilpur, Uttar Pradesh 222139",
+    "area": "222139",
+    "latitude": 25.9934375,
+    "longitude": 82.68193749999999,
+    "place_id": "ChIJRZJCEgBFkDkRgdBAwlNt4bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZJCEgBFkDkRgdBAwlNt4bw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:33"
+  }
+]

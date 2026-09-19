@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alaika Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Pathologist, Pharmacy",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Belthara Road, Anwayan, Uttar Pradesh 221715",
+    "area": "221709",
+    "latitude": 26.1113663,
+    "longitude": 83.862297,
+    "place_id": "ChIJ6bo8TAA3kjkRJcTr0eVZIdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bo8TAA3kjkRJcTr0eVZIdI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:09"
+  },
+  {
+    "business_name": "Family Care Clinic - A unique space for women’s health needs.",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Women's health clinic",
+    "all_categories": "Women's health clinic, Dental clinic",
+    "pincode": "221709",
+    "phone_number": "+91 92502 54044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Tirmuhani-Bus station road, Madhuban Rd, Belthara Road, Uttar Pradesh 221715",
+    "area": "221709",
+    "latitude": 26.1184889,
+    "longitude": 83.8498699,
+    "place_id": "ChIJ3VNcRwA3kjkR5ADHIPLiud8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VNcRwA3kjkR5ADHIPLiud8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:11"
+  }
+]

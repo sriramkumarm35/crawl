@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bombay Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "222131",
+    "phone_number": "+91 96191 25682",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaunpur, Surtasapur, Uttar Pradesh 222135",
+    "area": "222131",
+    "latitude": 25.7187035,
+    "longitude": 82.51350889999999,
+    "place_id": "ChIJi-NPjicXkDkR9otW6qOafc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-NPjicXkDkR9otW6qOafc0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:12:20"
+  },
+  {
+    "business_name": "Baba Banshidhar Mobile Shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "222131",
+    "phone_number": "+91 96709 79724",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambuj Mobile Shop, Main Market, Khaparaha, Samaspur, Uttar Pradesh 222131",
+    "area": "222131",
+    "latitude": 25.7729662,
+    "longitude": 82.4873009,
+    "place_id": "ChIJ1y8I1m8VkDkRAZWyapGKuD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1y8I1m8VkDkRAZWyapGKuD4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:12:20"
+  }
+]

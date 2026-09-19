@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arjun General Store Koth",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "221717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "2XXP+CMW, Koth, Sikandarpur, Uttar Pradesh 221717",
+    "area": "221717",
+    "latitude": 26.048614699999998,
+    "longitude": 83.98670159999999,
+    "place_id": "ChIJyWkaVgBHkjkR1q2l0M8M8L8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWkaVgBHkjkR1q2l0M8M8L8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:48:52"
+  },
+  {
+    "business_name": "Abhinandan store Aman",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "221717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sikandarpur, Uttar Pradesh 277303",
+    "area": "221717",
+    "latitude": 26.0403044,
+    "longitude": 84.0545492,
+    "place_id": "ChIJ60rWDABFkjkR8sXCzPAxXdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60rWDABFkjkR8sXCzPAxXdA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:48:53"
+  }
+]

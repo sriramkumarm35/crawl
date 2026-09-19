@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "222127",
+    "phone_number": "+91 94500 87141",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Machhali Shahar, Uttar Pradesh 222143",
+    "area": "222127",
+    "latitude": 25.6876435,
+    "longitude": 82.4129303,
+    "place_id": "ChIJ-XXUVEYQkDkRCP9FDwqj4A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XXUVEYQkDkRCP9FDwqj4A8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:06:50"
+  },
+  {
+    "business_name": "lalji and sons jawellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "222127",
+    "phone_number": "+91 72753 36613",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Janghai - Machhali Shahar Rd, Sadik Ganj, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "Sadik Ganj",
+    "latitude": 25.686231,
+    "longitude": 82.40658959999999,
+    "place_id": "ChIJ306cETkQkDkRSzD3ujvkbRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ306cETkQkDkRSzD3ujvkbRk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:06:51"
+  }
+]

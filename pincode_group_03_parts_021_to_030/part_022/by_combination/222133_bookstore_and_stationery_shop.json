@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarun Pustakalaya",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "222133",
+    "phone_number": "+91 87070 76245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tarun Pustakalaya, Dharmapur, Gopalpur, Uttar Pradesh 222133",
+    "area": "222133",
+    "latitude": 25.7543558,
+    "longitude": 82.7441111,
+    "place_id": "ChIJyTnPi_kxkDkRW9lPzZyKbmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTnPi_kxkDkRW9lPzZyKbmI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:16:34"
+  },
+  {
+    "business_name": "Gupta Book Agenciej Gosaiganj",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "222133",
+    "phone_number": "+91 99841 19992",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GosaiganjDeogaon, Chauki Nasratppur, Uttar Pradesh 276201",
+    "area": "222133",
+    "latitude": 25.770658599999997,
+    "longitude": 82.9375992,
+    "place_id": "ChIJ____P5vMkTkREjx23mxlzq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____P5vMkTkREjx23mxlzq4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:16:35"
+  }
+]

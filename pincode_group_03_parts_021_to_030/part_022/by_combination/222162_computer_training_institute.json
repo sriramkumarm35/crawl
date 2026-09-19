@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJ COMPUTER EDUCATION",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "222162",
+    "phone_number": "+91 85760 72121",
+    "website": "https://www.ajce.iteducation.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rakhwa, chauraha, Belwa, Mariahu, Uttar Pradesh 222161",
+    "area": "chauraha",
+    "latitude": 25.6248321,
+    "longitude": 82.5547691,
+    "place_id": "ChIJgRMcmIgZkDkRx31Vl2QpEoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRMcmIgZkDkRx31Vl2QpEoo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:43:06"
+  },
+  {
+    "business_name": "Ashoka Computer Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "222162",
+    "phone_number": "+91 99136 99229",
+    "website": "http://ashokacomputeracademy.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sadhiranganj Bazar, Gaurapatti, Mariahu, Road, Barsathi, Rampur, Uttar Pradesh 222162",
+    "area": "222162",
+    "latitude": 25.50463,
+    "longitude": 82.5192476,
+    "place_id": "ChIJD_kSiUUfkDkR2tWgfBmOTCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_kSiUUfkDkR2tWgfBmOTCk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:43:08"
+  }
+]

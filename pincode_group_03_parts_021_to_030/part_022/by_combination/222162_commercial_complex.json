@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R. K. Butyparler",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "222162",
+    "phone_number": "+91 94517 71144",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HG9R+7W4, sukhlalganj, Jaunpur, Lakhrawan, Uttar Pradesh 222137",
+    "area": "sukhlalganj",
+    "latitude": 25.568130999999997,
+    "longitude": 82.5423331,
+    "place_id": "ChIJv4LD-RsZkDkRlWUh8dyfjG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4LD-RsZkDkRlWUh8dyfjG4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:43:39"
+  },
+  {
+    "business_name": "Patel Building Materials",
+    "search_category": "Commercial Complex",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Building materials supplier",
+    "pincode": "222162",
+    "phone_number": "+91 94511 58611",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Baghanari Miyachak, Baghanri Badhava Road, Miyachak, Uttar Pradesh 222162",
+    "area": "Miyachak",
+    "latitude": 25.5807167,
+    "longitude": 82.4928578,
+    "place_id": "ChIJZWhTJdcZkDkRTUfDKBPsx3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWhTJdcZkDkRTUfDKBPsx3s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:43:41"
+  }
+]

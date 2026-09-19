@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet paradise",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "222144",
+    "phone_number": "N/A",
+    "website": "https://www.petparadise.com/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Dudauli,damaruwa,sikrara Machhalishahar Jaunpur Madiyahu Badlapur Machalishahar, Jaunpur, Uttar Pradesh 222144",
+    "area": "222144",
+    "latitude": 25.7336968,
+    "longitude": 82.49369449999999,
+    "place_id": "ChIJt7Aw-BkXkDkRXPIDNRXtFaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7Aw-BkXkDkRXPIDNRXtFaE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:31:29"
+  },
+  {
+    "business_name": "Pets buy and sale",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "222144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PFMV+4M5, Dudauli, Uttar Pradesh 222144",
+    "area": "222144",
+    "latitude": 25.7327503,
+    "longitude": 82.4942263,
+    "place_id": "ChIJhysD3nEXkDkR0kZI7EJ0YM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhysD3nEXkDkR0kZI7EJ0YM0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:31:29"
+  }
+]

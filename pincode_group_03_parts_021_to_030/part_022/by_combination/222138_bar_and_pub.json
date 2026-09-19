@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sky Glass Brewing Co.",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Bar & grill, Brewpub, Brunch restaurant, Disco club, Lounge bar, Restaurant",
+    "pincode": "222138",
+    "phone_number": "+91 73070 62600",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1094,
+    "address": "2nd Floor, Phoenix Palassio Mall, S38, Amar Shaheed Path, Sector-7, Gomti Nagar, Lucknow, Ardonamau, Uttar Pradesh 226002",
+    "area": "Sector-7, Gomti Nagar",
+    "latitude": 26.8090779,
+    "longitude": 81.0128938,
+    "place_id": "ChIJR1gYF7PjmzkR49xWACRuWhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1gYF7PjmzkR49xWACRuWhQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:46"
+  },
+  {
+    "business_name": "Soi 7",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewpub",
+    "all_categories": "Brewpub, Asian restaurant, Bar, Chinese restaurant, Japanese restaurant, Lounge bar, Night club, Pizza restaurant, Pub, Thai restaurant",
+    "pincode": "222138",
+    "phone_number": "+91 76784 31199",
+    "website": "https://www.instagram.com/soi7pub/",
+    "rating": 4.2,
+    "reviews_count": 8006,
+    "address": "Cyberhub 205 To 209, Cyber Hub, DLF Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002",
+    "area": "DLF Cyber City, DLF Phase 2, Sector 24",
+    "latitude": 28.4958599,
+    "longitude": 77.0886932,
+    "place_id": "ChIJFTRVejgZDTkRAv_VZ27QdD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTRVejgZDTkRAv_VZ27QdD8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev kirana store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222138",
+    "phone_number": "+91 96160 72049",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Abhinav Public Inter College, Kajgaon - Jaunpur Rd, Newada, Jaunpur, Uttar Pradesh 222180",
+    "area": "222138",
+    "latitude": 25.707920299999998,
+    "longitude": 82.6933371,
+    "place_id": "ChIJ7QJTBgA7kDkRFcoHYdINgUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QJTBgA7kDkRFcoHYdINgUU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:30"
+  },
+  {
+    "business_name": "Chandan General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222138",
+    "phone_number": "+91 89318 69816",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Miyapur Kulectry Kutchery, near Miyapur, Tiraha, Uttar Pradesh 222002",
+    "area": "Mainpur",
+    "latitude": 25.7398091,
+    "longitude": 82.6948602,
+    "place_id": "ChIJE7PfIsvKmjkRV2V9ASauisw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7PfIsvKmjkRV2V9ASauisw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:32"
+  }
+]

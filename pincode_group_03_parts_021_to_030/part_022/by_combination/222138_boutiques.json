@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EKMANN COLLECTION",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "222138",
+    "phone_number": "N/A",
+    "website": "http://www.ekmann.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shivapar chauraha, near highway overbridge, Jaunpur, Chandpur, Uttar Pradesh 222001",
+    "area": "222138",
+    "latitude": 25.7168127,
+    "longitude": 82.6757149,
+    "place_id": "ChIJb0k1ou07kDkRYIP_LReGNOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0k1ou07kDkRYIP_LReGNOA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:54"
+  },
+  {
+    "business_name": "Gayatri Traders",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222138",
+    "phone_number": "+91 91985 91015",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gayatri Traders, Jaunpur Road, Shivapar, Jaunpur, Uttar Pradesh 222138",
+    "area": "222138",
+    "latitude": 25.7150449,
+    "longitude": 82.6751041,
+    "place_id": "ChIJJwr2BDc7kDkR5d0UakfvgRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwr2BDc7kDkR5d0UakfvgRQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:54"
+  }
+]

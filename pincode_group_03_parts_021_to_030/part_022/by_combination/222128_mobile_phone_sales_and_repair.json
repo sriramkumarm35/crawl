@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart phone gallery",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "222128",
+    "phone_number": "+91 81818 68381",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 13,
+    "address": "Dhakwa Bazzar, Sonpura, Uttar Pradesh 230121",
+    "area": "222128",
+    "latitude": 26.0031048,
+    "longitude": 82.3745787,
+    "place_id": "ChIJpc8zJgBxkDkRhd8LC3suErw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpc8zJgBxkDkRhd8LC3suErw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:34"
+  },
+  {
+    "business_name": "SP MOBILE SHOP",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "222128",
+    "phone_number": "+91 90051 22148",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "SH 7, Tilakhara Urf Suzanganj, Uttar Pradesh 222201",
+    "area": "222128",
+    "latitude": 25.767844999999998,
+    "longitude": 82.2890942,
+    "place_id": "ChIJswxTgjgLkDkR1PncEqO_Hts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswxTgjgLkDkR1PncEqO_Hts",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:34"
+  }
+]

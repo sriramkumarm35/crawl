@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "222146",
+    "phone_number": "+91 94509 16389",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "post kutir chakkey, kerkat, bhadehari, Kesheopur, Uttar Pradesh 222146",
+    "area": "kerkat",
+    "latitude": 25.6566361,
+    "longitude": 82.7923936,
+    "place_id": "ChIJxZzpRYAvkDkRUikohBDzh7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZzpRYAvkDkRUikohBDzh7s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:12"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "222146",
+    "phone_number": "+91 87651 93957",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kutir chakkey, Bhadehari, Uttar Pradesh 222146",
+    "area": "222146",
+    "latitude": 25.6368257,
+    "longitude": 82.82692519999999,
+    "place_id": "ChIJOwXQRHYtkDkR6JeUL2JM3F0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwXQRHYtkDkR6JeUL2JM3F0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:12"
+  }
+]

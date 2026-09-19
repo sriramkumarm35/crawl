@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "222128",
+    "phone_number": "+91 63863 74568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hanuman Mandir, Bazar, Thane ke samne, Newadhiya, Tiwaran, Uttar Pradesh 222128",
+    "area": "222128",
+    "latitude": 25.514620999999998,
+    "longitude": 82.6772649,
+    "place_id": "ChIJzzmxDS0nkDkRtwpkT0l7o-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzmxDS0nkDkRtwpkT0l7o-Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:29"
+  },
+  {
+    "business_name": "Ajay stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Educational institution",
+    "pincode": "222128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ruhatta Umarpur, Shanti Nagar, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Ruhatta Umarpur, Shanti Nagar, Olandganj",
+    "latitude": 25.741163,
+    "longitude": 82.67846,
+    "place_id": "ChIJZ7MZMZs7kDkRGQwc3a92vQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7MZMZs7kDkRGQwc3a92vQk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:29"
+  }
+]

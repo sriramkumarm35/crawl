@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GYM TOWN GHAZIPUR",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "221711",
+    "phone_number": "+91 92506 09898",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv Nagar, Rauza, Ghazipur, Uttar Pradesh 233002",
+    "area": "Rauza",
+    "latitude": 25.588883499999998,
+    "longitude": 83.57391319999999,
+    "place_id": "ChIJ6cV6nOH_kTkRf3Kk6PamNmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cV6nOH_kTkRf3Kk6PamNmA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:40:48"
+  },
+  {
+    "business_name": "AVS Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "221711",
+    "phone_number": "+91 97211 08393",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "HHJG+GP2, Mahuabagh, Ghazipur, Uttar Pradesh 233001",
+    "area": "Mahuabagh",
+    "latitude": 25.5812717,
+    "longitude": 83.57677989999999,
+    "place_id": "ChIJGQUOAm7_kTkRoTrSMhxtlh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQUOAm7_kTkRoTrSMhxtlh8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:40:48"
+  }
+]

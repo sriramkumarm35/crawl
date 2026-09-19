@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Welding Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal workshop",
+    "all_categories": "Metal workshop",
+    "pincode": "222146",
+    "phone_number": "+91 99182 55037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QC7C+4QQ, Baraipar Rd, Kataka, Uttar Pradesh 222144",
+    "area": "222146",
+    "latitude": 25.7628377,
+    "longitude": 82.4219914,
+    "place_id": "ChIJbT_nAV8TkDkRbQZkfm1ICrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT_nAV8TkDkRbQZkfm1ICrM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:24"
+  },
+  {
+    "business_name": "Kanpur Steel And Fabrication workshop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "222146",
+    "phone_number": "+91 80905 97123",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Parmeshwar Talab Ke Samne, Post Offices Pass, Kurara Rural, Uttar Pradesh 210505",
+    "area": "222146",
+    "latitude": 25.9778545,
+    "longitude": 79.9876776,
+    "place_id": "ChIJwSiU4hgHnTkRX7sKixfHvdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSiU4hgHnTkRX7sKixfHvdc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RO AC Repair",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "222126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bad ke Balaji, ajmer road, Shiv Puri Colony, Jaipur, Sodala, Rajasthan 302042",
+    "area": "Shiv Puri Colony",
+    "latitude": 26.8487635,
+    "longitude": 75.63552659999999,
+    "place_id": "ChIJN55meGpLbDkRFhQywfz3PhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN55meGpLbDkRFhQywfz3PhQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:05:34"
+  },
+  {
+    "business_name": "Dolphin Enterprise Home Appliances",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Chimney services, Electronics store, Microwave oven repair service, Refrigerator repair service, Washer & dryer repair service",
+    "pincode": "222126",
+    "phone_number": "+91 98303 52349",
+    "website": "https://dolphinhomeappliances.org.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "E/659A, E Block, Ajanta Park, Baghajatin Colony, Kolkata, West Bengal 700086",
+    "area": "E Block, Ajanta Park, Baghajatin Colony",
+    "latitude": 22.4811838,
+    "longitude": 88.3785394,
+    "place_id": "ChIJb49WSnRxAjoRVRsUUTBWssI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb49WSnRxAjoRVRsUUTBWssI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:05:35"
+  }
+]

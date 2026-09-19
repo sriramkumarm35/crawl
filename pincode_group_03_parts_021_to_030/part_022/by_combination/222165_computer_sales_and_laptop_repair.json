@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIRENDRA PRATAP SINGH",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "222165",
+    "phone_number": "+91 98891 21756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Staito Road Janghai Bazar, Uttar Pradesh 212401",
+    "area": "222165",
+    "latitude": 25.5024207,
+    "longitude": 82.3284449,
+    "place_id": "ChIJz7ZCcn8DkDkRdh3LGu1TeBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7ZCcn8DkDkRdh3LGu1TeBk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:45:00"
+  },
+  {
+    "business_name": "Arvind Online Center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "222165",
+    "phone_number": "+91 97959 59400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jhunsi Road, Prayagraj, Uttar Pradesh 212401",
+    "area": "222165",
+    "latitude": 25.520432,
+    "longitude": 82.3178875,
+    "place_id": "ChIJd4KprBIDkDkRxJMF8UNhezE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd4KprBIDkDkRxJMF8UNhezE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:45:00"
+  }
+]

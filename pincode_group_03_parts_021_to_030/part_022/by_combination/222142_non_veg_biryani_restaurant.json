@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya Chinese and Fast Food Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "222142",
+    "phone_number": "+91 96485 82865",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deokali, Uttar Pradesh 222142",
+    "area": "222142",
+    "latitude": 25.6613194,
+    "longitude": 82.8612836,
+    "place_id": "ChIJIdalEpItkDkR5j0M-_wQpVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdalEpItkDkR5j0M-_wQpVc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:01"
+  },
+  {
+    "business_name": "Bhaiya Ji Nonveg AVN Roll Corner",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222142",
+    "phone_number": "+91 82993 42488",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Jaunpur Rd, Olandganj, Jaunpur, Uttar Pradesh 222001",
+    "area": "Olandganj",
+    "latitude": 25.7484529,
+    "longitude": 82.68458249999999,
+    "place_id": "ChIJ-fIw34s7kDkRd7_86a6JmaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fIw34s7kDkRd7_86a6JmaQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:03"
+  }
+]

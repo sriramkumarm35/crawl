@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza Floor",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "221715",
+    "phone_number": "+91 97928 32740",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Madhuban Rd, Belthara, Belthara Road, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.1187862,
+    "longitude": 83.8514716,
+    "place_id": "ChIJ5Za11ME3kjkREiFhTOkN-lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Za11ME3kjkREiFhTOkN-lE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:45:40"
+  },
+  {
+    "business_name": "Lucky Family Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Breakfast restaurant",
+    "pincode": "221715",
+    "phone_number": "+91 96168 01032",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "4R8V+9R3, Bus Station Gali, Belthara, Bhuari, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.1158829,
+    "longitude": 83.844552,
+    "place_id": "ChIJi253nrMwkjkR0x50AD8Q7RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi253nrMwkjkR0x50AD8Q7RY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:45:40"
+  }
+]

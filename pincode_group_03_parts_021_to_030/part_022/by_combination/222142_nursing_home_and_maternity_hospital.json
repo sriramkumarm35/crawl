@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hospital nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "222142",
+    "phone_number": "+91 73790 27525",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarki bajar kerakat, Jaunpur, Uttar Pradesh 222142",
+    "area": "222142",
+    "latitude": 25.68886,
+    "longitude": 82.9424362,
+    "place_id": "ChIJibCo29HNkTkR0-GkyvOZjUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibCo29HNkTkR0-GkyvOZjUs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:20"
+  },
+  {
+    "business_name": "Fatima Health And Child Care Kerakat Jaunpur",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "222142",
+    "phone_number": "+91 88589 19286",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "JWR6+C49, Saidpur - Khajurhat Rd, Gauspur, Abdullapur, Uttar Pradesh 222142",
+    "area": "222142",
+    "latitude": 25.641043,
+    "longitude": 82.91034859999999,
+    "place_id": "ChIJrSMuusDTkTkRHEXxlUW5ONw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSMuusDTkTkRHEXxlUW5ONw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:20"
+  }
+]

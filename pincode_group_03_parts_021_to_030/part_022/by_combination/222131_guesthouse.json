@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek Kannaujiya house 222131",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "222131",
+    "phone_number": "+91 93221 44700",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhuwa kala, Khaparaha, Samaspur, Uttar Pradesh 222131",
+    "area": "222131",
+    "latitude": 25.769721,
+    "longitude": 82.4863625,
+    "place_id": "ChIJfQy1AakVkDkReRgP3XfhBfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQy1AakVkDkReRgP3XfhBfA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:12:50"
+  },
+  {
+    "business_name": "Dr.Jay Prakash Narayan Chaturvedi",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "222131",
+    "phone_number": "+91 82997 99159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr. Doodh nath chaturvedi, gaurakalan, Gaure Kalan, Uttar Pradesh 222141",
+    "area": "gaurakalan",
+    "latitude": 25.8177825,
+    "longitude": 82.4549562,
+    "place_id": "ChIJu3ltOAkTkDkRl24yodawNEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3ltOAkTkDkRl24yodawNEI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:12:50"
+  }
+]

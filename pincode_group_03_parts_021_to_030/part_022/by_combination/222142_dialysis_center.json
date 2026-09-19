@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHAM HEALTH CARE CENTRE",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis Center",
+    "all_categories": "Dialysis Center",
+    "pincode": "222142",
+    "phone_number": "+91 91162 11217",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "MDR-153E, Deogaon, Uttar Pradesh 276201",
+    "area": "222142",
+    "latitude": 25.741135,
+    "longitude": 82.9914996,
+    "place_id": "ChIJZ0t5QSjMkTkRrhumYNsDSJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0t5QSjMkTkRrhumYNsDSJ4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:22"
+  },
+  {
+    "business_name": "Indra Life Care Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "222142",
+    "phone_number": "+91 89575 55000",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Jamuna Complex, Jaycees Crossing, Parmanatpur, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Parmanatpur, Olandganj",
+    "latitude": 25.7376287,
+    "longitude": 82.68358339999999,
+    "place_id": "ChIJOYF7S7Y7kDkRM2uIhavvuA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYF7S7Y7kDkRM2uIhavvuA4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:24"
+  }
+]

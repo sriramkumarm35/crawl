@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asha ladies beauty parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "222136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kusiya nahar chauraha, Kusiya, Jaunpur, Uttar Pradesh 222136",
+    "area": "Kusiya",
+    "latitude": 25.582596499999998,
+    "longitude": 82.7294929,
+    "place_id": "ChIJzR0zDh0lkDkRjAKdDWiGCzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzR0zDh0lkDkRjAKdDWiGCzY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:50"
+  },
+  {
+    "business_name": "Men's salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "222136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hp petrol pump, Hurhuri, Uttar Pradesh 222142",
+    "area": "222136",
+    "latitude": 25.644771799999997,
+    "longitude": 82.88155909999999,
+    "place_id": "ChIJE12LaNAtkDkRBN3LDkzJGfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE12LaNAtkDkRBN3LDkzJGfI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:52"
+  }
+]

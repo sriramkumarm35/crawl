@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance Advisor manish",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "222148",
+    "phone_number": "+91 96518 91654",
+    "website": "http://www.licindia.in/",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Molnapur Urf Talgawn Jakhania, Uttar Pradesh 275203",
+    "area": "222148",
+    "latitude": 25.7313783,
+    "longitude": 83.3432148,
+    "place_id": "ChIJG9yx72rvkTkRckGEOPzq3wo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9yx72rvkTkRckGEOPzq3wo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:38:01"
+  },
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, ATM, Financial institution, Money transfer service",
+    "pincode": "222148",
+    "phone_number": "+91 99841 43549",
+    "website": "https://www.finobank.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "402, Senapur, Uttar Pradesh 222148",
+    "area": "222148",
+    "latitude": 25.660692599999997,
+    "longitude": 82.97391499999999,
+    "place_id": "ChIJo9vp9UjTkTkR5iLxz2G5wJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9vp9UjTkTkR5iLxz2G5wJA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:38:01"
+  }
+]

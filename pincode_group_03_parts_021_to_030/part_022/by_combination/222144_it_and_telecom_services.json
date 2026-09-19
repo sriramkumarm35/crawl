@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh internet service",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Business networking company",
+    "all_categories": "Business networking company",
+    "pincode": "222144",
+    "phone_number": "+91 84168 97444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "guljargang, Mehandi, Malsil, Jaunpur, Uttar Pradesh 222135",
+    "area": "guljargang, Mehandi",
+    "latitude": 25.6809209,
+    "longitude": 82.5158778,
+    "place_id": "ChIJLyldTScXkDkRCXkXrr3os8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLyldTScXkDkRCXkXrr3os8c",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:32:42"
+  },
+  {
+    "business_name": "Global Communications",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "222144",
+    "phone_number": "+91 70805 69017",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WP8M+CXM, Guarani Road, Mawai, Jaunpur, Barangi, Uttar Pradesh 222139",
+    "area": "Mawai",
+    "latitude": 25.916075,
+    "longitude": 82.73491609999999,
+    "place_id": "ChIJ2YNUgoJIkDkRAAAAMHf7C34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YNUgoJIkDkRAAAAMHf7C34",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:32:42"
+  }
+]

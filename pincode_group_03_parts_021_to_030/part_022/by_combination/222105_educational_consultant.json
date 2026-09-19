@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CMS ED",
+    "search_category": "Educational Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "222105",
+    "phone_number": "+91 91255 00036",
+    "website": "https://www.cmsedti.com/",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "SAI KRIPA COMPLEX, JAYCEES CHOURAHA, Jaycees Crossing, Chaurha, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Chaurha, Husainabad",
+    "latitude": 25.7412602,
+    "longitude": 82.6864439,
+    "place_id": "ChIJ-8HfgUM7kDkRP4vnvGQ1p_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8HfgUM7kDkRP4vnvGQ1p_k",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:00:39"
+  },
+  {
+    "business_name": "NLP Group of Charitable Hospital & Institutions",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Community health center, Distance Learning Center, Education center, Educational institution, Emergency training school, Learning center, Medical school, Nursing school, Vocational school",
+    "pincode": "222105",
+    "phone_number": "+91 91255 00036",
+    "website": "http://cmsedti.com/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Sai Kripa Complex, Jaycees Crossing, near V Mart, Chauraha, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Chauraha, Husainabad",
+    "latitude": 25.7412602,
+    "longitude": 82.6864439,
+    "place_id": "ChIJh9TmCTE6kDkRnUrKE-RJcCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9TmCTE6kDkRnUrKE-RJcCw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:00:39"
+  }
+]

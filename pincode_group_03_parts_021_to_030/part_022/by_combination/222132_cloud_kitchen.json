@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paav Bhaaji Hub",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "222132",
+    "phone_number": "+91 84235 83204",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "Cross lene 1, Bankers Colony, Parmanatpur, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Bankers Colony, Parmanatpur, Olandganj",
+    "latitude": 25.737624399999998,
+    "longitude": 82.6803772,
+    "place_id": "ChIJFdGp92k7kDkRgFiU-OOQ81I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdGp92k7kDkRgFiU-OOQ81I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:45"
+  },
+  {
+    "business_name": "Cloud-E-Bangali",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "222132",
+    "phone_number": "+91 89106 61867",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "138, Postal Park Rd, Arunachal Park, Aurobindo Park, Kolkata, West Bengal 700070",
+    "area": "Arunachal Park, Aurobindo Park",
+    "latitude": 22.4685112,
+    "longitude": 88.3592482,
+    "place_id": "ChIJEWd4lC5xAjoR3EWa1ShMCog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWd4lC5xAjoR3EWa1ShMCog",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:45"
+  }
+]

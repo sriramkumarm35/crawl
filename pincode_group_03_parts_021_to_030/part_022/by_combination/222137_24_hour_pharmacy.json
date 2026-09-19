@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashi Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222137",
+    "phone_number": "+91 74088 86299",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "QM5W+VMM, Khasanpur, Jaunpur, Uttar Pradesh 222001",
+    "area": "Khasanpur",
+    "latitude": 25.7597071,
+    "longitude": 82.6966789,
+    "place_id": "ChIJAwt-gOM7kDkROjVv4aIcWKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwt-gOM7kDkROjVv4aIcWKY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:21:05"
+  },
+  {
+    "business_name": "Family Care Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222137",
+    "phone_number": "+91 77381 40151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, Jaunpur, Uttar Pradesh 222001",
+    "area": "Shekh Mohamid",
+    "latitude": 25.753993299999998,
+    "longitude": 82.6862881,
+    "place_id": "ChIJEwyPFbk7kDkRk-Rhc0OkUO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwyPFbk7kDkRk-Rhc0OkUO0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:21:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek general Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Araji sukkhipur, Olandganj, Jaunpur, Uttar Pradesh 222001",
+    "area": "Olandganj",
+    "latitude": 25.746471,
+    "longitude": 82.6837552,
+    "place_id": "ChIJCTncOAA7kDkRAT0lQ7630GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTncOAA7kDkRAT0lQ7630GQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:10"
+  },
+  {
+    "business_name": "Dinesh general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RFXF+W5G, Tezi Bazar Rd, Basara, Kalinjara, Uttar Pradesh 222141",
+    "area": "222141",
+    "latitude": 25.8498244,
+    "longitude": 82.472967,
+    "place_id": "ChIJpdMGCaptkDkRtGOrcpP3axk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdMGCaptkDkRtGOrcpP3axk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:10"
+  }
+]

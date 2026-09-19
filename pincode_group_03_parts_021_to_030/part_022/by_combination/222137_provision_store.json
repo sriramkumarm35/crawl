@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "गुप्ता प्रोविजन स्टोर",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHXQ+427, Mp passi, Rajapur No. 1, Uttar Pradesh 222161",
+    "area": "Mp passi",
+    "latitude": 25.5982029,
+    "longitude": 82.58872889999999,
+    "place_id": "ChIJG7AjUwAjkDkRp1qVgNI7whQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG7AjUwAjkDkRp1qVgNI7whQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:20:45"
+  },
+  {
+    "business_name": "SB Kerana",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Market",
+    "pincode": "222137",
+    "phone_number": "+91 95741 91745",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 79,
+    "address": "Shitalganj Bazar Ahirauli, Sheetal Ganj - Sikarara Rd, Bazar, Mariahu, Uttar Pradesh 222161",
+    "area": "Bazar",
+    "latitude": 25.6424029,
+    "longitude": 82.6209916,
+    "place_id": "ChIJEyhKHV4jkDkRZZ-QDBUzor4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyhKHV4jkDkRZZ-QDBUzor4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:20:45"
+  }
+]

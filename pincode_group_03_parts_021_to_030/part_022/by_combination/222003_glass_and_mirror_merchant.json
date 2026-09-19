@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Glass",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Hardware store, Railing contractor, Shower door shop",
+    "pincode": "222003",
+    "phone_number": "+91 90410 14261",
+    "website": "http://www.jainglass.com/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "SCO 2935-36, Sector 22C, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22C, Sector 22",
+    "latitude": 30.7287006,
+    "longitude": 76.76703739999999,
+    "place_id": "ChIJN0R0OKTtDzkR0FXAsXgPbpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0R0OKTtDzkR0FXAsXgPbpo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:36"
+  },
+  {
+    "business_name": "Shukla Glass and UPVC Works",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Aluminum window, Door manufacturer, Door supplier, Glass shop, PVC windows supplier, Window supplier",
+    "pincode": "222003",
+    "phone_number": "+91 93120 54293",
+    "website": "https://www.shuklaupvccraft.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Plot no. 39, opp. Pocket 1, Ambrahi Village, Amber Hera Village, Dwarka, New Delhi, Delhi, 110075",
+    "area": "Ambrahi Village, Amber Hera Village, Dwarka",
+    "latitude": 28.5775465,
+    "longitude": 77.05098509999999,
+    "place_id": "ChIJz9H38-MaDTkR6SHemC6iOiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9H38-MaDTkR6SHemC6iOiQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:36"
+  }
+]

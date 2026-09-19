@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Electrical repair shop",
+    "pincode": "222141",
+    "phone_number": "+91 78606 45662",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "KisuniPur, Sujanganj Road, Baraipar, Uttar Pradesh 222144",
+    "area": "222141",
+    "latitude": 25.763738399999998,
+    "longitude": 82.418795,
+    "place_id": "ChIJUW-0BGMTkDkRpoQZB8t0ONg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW-0BGMTkDkRpoQZB8t0ONg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:54"
+  },
+  {
+    "business_name": "Pooja Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "222141",
+    "phone_number": "+91 98391 39673",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "beside Ghasitanath mandir, Chak Ghasita, Baraipar, Uttar Pradesh 222144",
+    "area": "222141",
+    "latitude": 25.7626614,
+    "longitude": 82.42358569999999,
+    "place_id": "ChIJQTlC-lUTkDkRBIESpSerlvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTlC-lUTkDkRBIESpSerlvM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:54"
+  }
+]

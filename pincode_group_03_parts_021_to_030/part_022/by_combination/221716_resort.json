@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blue Diamond Resort And Hotel",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "221716",
+    "phone_number": "+91 62077 66277",
+    "website": "http://bluediamondresort.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "NH- 57, Garha, Darbhanga Road, Muzaffarpur, Bihar 843103",
+    "area": "221716",
+    "latitude": 26.1709355,
+    "longitude": 85.4486494,
+    "place_id": "ChIJs-FwGqgF7TkRQWeKl1vLmbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-FwGqgF7TkRQWeKl1vLmbM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:48:12"
+  },
+  {
+    "business_name": "SANT SADAN",
+    "search_category": "Resort",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue, Catering food and drink supplier, Party planner",
+    "pincode": "221716",
+    "phone_number": "+91 94510 16860",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SANT SADAN, Bhrigu Ashram Rd, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "Bahadurpur",
+    "latitude": 25.758062499999998,
+    "longitude": 84.16081249999999,
+    "place_id": "ChIJMTvTtTNlkjkR1HfG_yT-Log",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTvTtTNlkjkR1HfG_yT-Log",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:48:14"
+  }
+]

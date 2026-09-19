@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alam Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "221718",
+    "phone_number": "+91 522 402 4571",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 8, S.R.Complex, Kursi Rd, Dandiya Bazar, Vishnupuri, Lucknow, Uttar Pradesh 226024",
+    "area": "Dandiya Bazar, Vishnupuri",
+    "latitude": 26.8873903,
+    "longitude": 80.9526966,
+    "place_id": "ChIJBaAm_UVXmTkRg1Ln6B7eGEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaAm_UVXmTkRg1Ln6B7eGEA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:51:53"
+  },
+  {
+    "business_name": "Globale Online Services",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Cafe",
+    "pincode": "221718",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasaundar, Uttar Pradesh 221718",
+    "area": "221718",
+    "latitude": 26.022033999999998,
+    "longitude": 83.8046425,
+    "place_id": "ChIJfx5DvMk7kjkR7qicGmGWOD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfx5DvMk7kjkR7qicGmGWOD0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:51:55"
+  }
+]

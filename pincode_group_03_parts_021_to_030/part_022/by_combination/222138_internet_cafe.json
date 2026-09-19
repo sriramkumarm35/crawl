@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Internet",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "222138",
+    "phone_number": "+91 98212 67918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaunapur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Jaunapur",
+    "latitude": 25.726147899999997,
+    "longitude": 82.69796889999999,
+    "place_id": "ChIJEdyPm9Q7kDkRaZU2ZEy9N_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdyPm9Q7kDkRaZU2ZEy9N_U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:23:49"
+  },
+  {
+    "business_name": "VAV",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "222138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "T D, College Road, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Husainabad",
+    "latitude": 25.7369783,
+    "longitude": 82.6868033,
+    "place_id": "ChIJg956-dc7kDkRcsikK19dUzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg956-dc7kDkRcsikK19dUzE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:23:50"
+  }
+]

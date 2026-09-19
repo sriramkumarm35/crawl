@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMAAN TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency, Tour operator, Tourist attraction, Typist",
+    "pincode": "222133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 70,
+    "address": "KERAKAT, Murki, Uttar Pradesh 222142",
+    "area": "222133",
+    "latitude": 25.6952654,
+    "longitude": 82.9224055,
+    "place_id": "ChIJ-btTPNfSkTkRNgJ_lO4ia-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-btTPNfSkTkRNgJ_lO4ia-s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:16:01"
+  },
+  {
+    "business_name": "TRIPATHI TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "222133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "PR75+44P, Rangeela palace, rampur, Mufti Ganj, Uttar Pradesh 222170",
+    "area": "rampur",
+    "latitude": 25.712834299999997,
+    "longitude": 82.80784129999999,
+    "place_id": "ChIJibXSQKExkDkRdynbAwFzZVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibXSQKExkDkRdynbAwFzZVU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:16:01"
+  }
+]

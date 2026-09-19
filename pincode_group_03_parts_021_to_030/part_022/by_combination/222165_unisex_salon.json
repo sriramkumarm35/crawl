@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Mens Hair Cutting salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "222165",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H9CG+RRF, Aligarh - Kanpur Rd, Bhat Nagar, Rampur Khurd, Uttar Pradesh 222143",
+    "area": "Bhat Nagar",
+    "latitude": 25.5720936,
+    "longitude": 82.3770909,
+    "place_id": "ChIJpTzOMwAFkDkRh3UsFhsmkm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTzOMwAFkDkRh3UsFhsmkm4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:44:40"
+  },
+  {
+    "business_name": "Pramod Haircut",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "222165",
+    "phone_number": "+91 91985 04321",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No4, Miyachak Road, Bandhwa, Uttar Pradesh 222143",
+    "area": "222165",
+    "latitude": 25.6154838,
+    "longitude": 82.3698833,
+    "place_id": "ChIJh9op3nkFkDkRnb322X-L4so",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9op3nkFkDkRnb322X-L4so",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:44:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Mobile Shop Jaunpur",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "222137",
+    "phone_number": "+91 95069 70960",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Sardar, O, Kachahari Road, Olandganj, Jaunpur, Uttar Pradesh 222001",
+    "area": "Olandganj",
+    "latitude": 25.7462913,
+    "longitude": 82.68453699999999,
+    "place_id": "ChIJD7NbtIE7kDkRBx8bXlpw2fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7NbtIE7kDkRBx8bXlpw2fg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:00"
+  },
+  {
+    "business_name": "Dev Mobile Accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "222137",
+    "phone_number": "+91 88400 58850",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur, Arazi Saidanpur, Uttar Pradesh 222138",
+    "area": "222137",
+    "latitude": 25.711877299999998,
+    "longitude": 82.6612998,
+    "place_id": "ChIJSW9tYSg7kDkRs_5MJlRjZuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSW9tYSg7kDkRs_5MJlRjZuA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:03"
+  }
+]

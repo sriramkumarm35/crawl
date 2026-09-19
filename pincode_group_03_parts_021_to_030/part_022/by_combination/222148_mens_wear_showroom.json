@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yuva Mens wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "222148",
+    "phone_number": "+91 70211 23237",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Surakpur Koilari bajar dobhi, Koilari, Uttar Pradesh 222148",
+    "area": "222148",
+    "latitude": 25.671699999999998,
+    "longitude": 83.0286406,
+    "place_id": "ChIJNcO-JqDRkTkR50AQuOhk5TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcO-JqDRkTkR50AQuOhk5TI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:56"
+  },
+  {
+    "business_name": "Sandeep Garment",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "222148",
+    "phone_number": "+91 89318 78148",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Karra Collage Dobhi, Azamgarh - Jaunpur Rd, Jaunpur, Uttar Pradesh 222149",
+    "area": "222148",
+    "latitude": 25.631359999999997,
+    "longitude": 82.98056319999999,
+    "place_id": "ChIJHzKrxc3TkTkRAAAA0F2AOxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzKrxc3TkTkRAAAA0F2AOxk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:58"
+  }
+]

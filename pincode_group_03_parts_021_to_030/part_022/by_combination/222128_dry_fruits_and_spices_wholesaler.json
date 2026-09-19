@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chau Foods",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Delivery service, Wholesale Food Store, Gift basket store, Gourmet grocery store, Health food store, Indian grocery store, Nut store, Organic shop",
+    "pincode": "222128",
+    "phone_number": "+91 95990 21447",
+    "website": "https://www.chaufoods.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Unity Enclave, A-3/318-319, Shiv Vihar, Sector 28, Rohini, Delhi, 110042",
+    "area": "Shiv Vihar, Sector 28, Rohini",
+    "latitude": 28.7501873,
+    "longitude": 77.1002199,
+    "place_id": "ChIJ5yOOoTkBDTkRJfiCI6dWMcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yOOoTkBDTkRJfiCI6dWMcY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:19"
+  },
+  {
+    "business_name": "Vaibhav Traders, wholesaler of dry fruits and spices",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222128",
+    "phone_number": "+91 86306 35746",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "बतासा मंडी, Gaushala Rd, Hashmat Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Hashmat Nagar",
+    "latitude": 26.4621976,
+    "longitude": 79.5117674,
+    "place_id": "ChIJ9dX-q_vznTkRIdrOQ-A5YHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dX-q_vznTkRIdrOQ-A5YHM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:20"
+  }
+]

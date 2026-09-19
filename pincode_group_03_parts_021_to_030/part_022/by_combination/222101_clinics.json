@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aradhya Medical and Surgical Center",
+    "search_category": "Clinics",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "222101",
+    "phone_number": "+91 95193 97882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maharana pratap park kalichabad, Tiraha, Jaunpur, Uttar Pradesh 222002",
+    "area": "222101",
+    "latitude": 25.7461397,
+    "longitude": 82.66127329999999,
+    "place_id": "ChIJt8hsAGY7kDkRBfFPpbXKozE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8hsAGY7kDkRBfFPpbXKozE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:02"
+  },
+  {
+    "business_name": "Ajhar Medical Store",
+    "search_category": "Clinics",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222101",
+    "phone_number": "+91 84594 87280",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Abash Nager, Jaunpur, Uttar Pradesh 222109",
+    "area": "Abash Nager",
+    "latitude": 25.828631299999998,
+    "longitude": 82.5405803,
+    "place_id": "ChIJ2fdvMikVkDkRyS5wAUfxXSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fdvMikVkDkRyS5wAUfxXSk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:02"
+  }
+]

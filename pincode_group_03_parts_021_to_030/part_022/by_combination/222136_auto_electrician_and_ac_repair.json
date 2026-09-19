@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "222136",
+    "phone_number": "+91 90054 41234",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 30,
+    "address": "PP44+8P, Chak Mirza Urf Gulamsaraw, Uttar Pradesh 222180",
+    "area": "222136",
+    "latitude": 25.7063311,
+    "longitude": 82.7062346,
+    "place_id": "ChIJM7QfBdA7kDkRFV2xv-j_hoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7QfBdA7kDkRFV2xv-j_hoM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:36"
+  },
+  {
+    "business_name": "Husna Auto Electrician And Car AC",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "222136",
+    "phone_number": "+91 70547 88805",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jalalpur, Uttar Pradesh 222180",
+    "area": "222136",
+    "latitude": 25.708147099999998,
+    "longitude": 82.71695369999999,
+    "place_id": "ChIJ0b0NJmw7kDkRt1todzfRETo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0b0NJmw7kDkRt1todzfRETo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "221709",
+    "phone_number": "+91 1800 258 3333",
+    "website": "https://amul.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Q568+2CH, Amritpalli Rd, Ballia, Uttar Pradesh 277001",
+    "area": "221709",
+    "latitude": 25.7600528,
+    "longitude": 84.1661148,
+    "place_id": "ChIJBd5TAzNlkjkR-fzAVnq58xE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBd5TAzNlkjkR-fzAVnq58xE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:38"
+  },
+  {
+    "business_name": "Fazal General Stire",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "221709",
+    "phone_number": "+91 99194 72582",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Juranpur, Uttar Pradesh 277124",
+    "area": "221709",
+    "latitude": 25.9868804,
+    "longitude": 83.9295984,
+    "place_id": "ChIJ098nFMM_kjkRRPhMtJbYjQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ098nFMM_kjkRRPhMtJbYjQA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma Ji Tea/Coffee Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "221717",
+    "phone_number": "+91 80902 50881",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 33,
+    "address": "23P3+FQJ, Chak Khan, Sikandarpur, Uttar Pradesh 277303",
+    "area": "221717",
+    "latitude": 26.0362089,
+    "longitude": 84.0543965,
+    "place_id": "ChIJBc8yuGBEkjkRrbu0Ni6vwLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBc8yuGBEkjkRrbu0Ni6vwLA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:00"
+  },
+  {
+    "business_name": "Kutty's Chai kada",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "221717",
+    "phone_number": "+91 81235 13993",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "XRR5+C3R, Krishnapura, Surathkal, Mangaluru, Karnataka 575014",
+    "area": "Krishnapura, Surathkal",
+    "latitude": 12.991102099999999,
+    "longitude": 74.80765559999999,
+    "place_id": "ChIJozLOn_RRozsRVBkWWOwYVXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozLOn_RRozsRVBkWWOwYVXc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Investors Adda",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial planner, Investment company",
+    "pincode": "221715",
+    "phone_number": "+91 91133 45655",
+    "website": "http://investorsadda.in/",
+    "rating": 4.9,
+    "reviews_count": 61,
+    "address": "Deep Nagar Bandh Road, Balughat Rd, Muzaffarpur, Bihar 842001",
+    "area": "Musahri",
+    "latitude": 26.1322443,
+    "longitude": 85.3964105,
+    "place_id": "ChIJufJrk18Q7TkR62Mws70OaBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJufJrk18Q7TkR62Mws70OaBM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:46:50"
+  },
+  {
+    "business_name": "Lexfin Legal And Financial Services Private Limited",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner",
+    "pincode": "221715",
+    "phone_number": "+91 90040 55593",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3rd Floor, RPI House, 25B, Janmabhoomi Marg, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",
+    "area": "Kala Ghoda, Fort",
+    "latitude": 18.9331726,
+    "longitude": 72.83423429999999,
+    "place_id": "ChIJ-_0oZ9vR5zsR0wTx-DewRUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_0oZ9vR5zsR0wTx-DewRUk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:46:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeev Kumar",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "221716",
+    "phone_number": "+91 89579 29150",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanjeev Ballia, Kushha Brahman, Uttar Pradesh 221716",
+    "area": "221716",
+    "latitude": 26.026150899999998,
+    "longitude": 83.75460609999999,
+    "place_id": "ChIJK9XJ64glkjkRAjRP9QlJPXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9XJ64glkjkRAjRP9QlJPXE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:47:25"
+  },
+  {
+    "business_name": "Deepak Kirana Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "221716",
+    "phone_number": "+91 80903 96968",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deepak Kirana Store, Awarai Kala, Uttar Pradesh 221716",
+    "area": "221716",
+    "latitude": 26.038444499999997,
+    "longitude": 83.73269739999999,
+    "place_id": "ChIJpVoGXoclkjkRjFwfpH-QYQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVoGXoclkjkRjFwfpH-QYQs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:47:25"
+  }
+]

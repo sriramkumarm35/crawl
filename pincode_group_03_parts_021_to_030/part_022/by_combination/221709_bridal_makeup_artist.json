@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakme Salon Ballia",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "221709",
+    "phone_number": "+91 99361 69093",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 80,
+    "address": "2,Japlinganj, Block No 23, Ward No 9, Plot No 17/1 & 17, opposite to RamlilaMaidan, Naya Chowk, Ballia, Uttar Pradesh 277001",
+    "area": "Naya Chowk, Bahadurpur",
+    "latitude": 25.7575184,
+    "longitude": 84.1544832,
+    "place_id": "ChIJnXTg5KxlkjkRxGpmJDIDcQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXTg5KxlkjkRxGpmJDIDcQM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:29"
+  },
+  {
+    "business_name": "Modicare",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "General store",
+    "all_categories": "General store, Cosmetics store",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "https://www.modicare.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "250, Baleshwar Mandir Rd, Japlin Ganj, Bahadurpur, Ballia, Uttar Pradesh 277001",
+    "area": "Japlin Ganj, Bahadurpur",
+    "latitude": 25.7579638,
+    "longitude": 84.1556246,
+    "place_id": "ChIJRZju8MJkkjkRq50bl5avf4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZju8MJkkjkRq50bl5avf4I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JRS Online Center",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "222002",
+    "phone_number": "+91 73104 11570",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Jaunpur, Uttar Pradesh 222180",
+    "area": "222002",
+    "latitude": 25.6846106,
+    "longitude": 82.7601653,
+    "place_id": "ChIJs4m9E2MxkDkRSXrLsfXeCtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4m9E2MxkDkRSXrLsfXeCtE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:31"
+  },
+  {
+    "business_name": "Jnp Toyota",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Vehicle Shipping Agent",
+    "all_categories": "Vehicle Shipping Agent",
+    "pincode": "222002",
+    "phone_number": "+91 97211 13351",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Matapur, Line Bazaar Rd, Jaunpur, Uttar Pradesh 222002",
+    "area": "Husainabad",
+    "latitude": 25.733252699999998,
+    "longitude": 82.69224299999999,
+    "place_id": "ChIJ36rZpC47kDkRNOj192V4cmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36rZpC47kDkRNOj192V4cmU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:31"
+  }
+]

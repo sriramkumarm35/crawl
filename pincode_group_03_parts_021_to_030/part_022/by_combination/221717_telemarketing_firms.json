@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Call Centers India Inc.",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company, Corporate office",
+    "pincode": "221717",
+    "phone_number": "+91 98915 04989",
+    "website": "https://www.callcentersindia.net/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "1st Floor, E-25, Sector 63 Rd, Hazratpur Wajidpur, E Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Hazratpur Wajidpur, E Block, Sector 63",
+    "latitude": 28.6204753,
+    "longitude": 77.3857804,
+    "place_id": "ChIJ4QLtD_nvDDkRq4PUltpw9mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QLtD_nvDDkRq4PUltpw9mg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:31"
+  },
+  {
+    "business_name": "Vcare Call Center",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "BPO Company",
+    "all_categories": "BPO Company",
+    "pincode": "221717",
+    "phone_number": "N/A",
+    "website": "https://www.vcarecallcenter.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "E25, Hazratpur Wajidpur, E Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "Hazratpur Wajidpur, E Block, Sector 63",
+    "latitude": 28.620503399999997,
+    "longitude": 77.3857539,
+    "place_id": "ChIJVVVly1flDDkRRAr9Zv9Boeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVly1flDDkRRAr9Zv9Boeo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:31"
+  }
+]

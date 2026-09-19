@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Nursing Home And Maternity Center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "221715",
+    "phone_number": "+91 97931 22544",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ubhaon, near Aditya Marriage Hall, Belthara Road, Belthara, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.1274724,
+    "longitude": 83.8659528,
+    "place_id": "ChIJPXUsv2o3kjkRyZlobCqVUOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXUsv2o3kjkRyZlobCqVUOM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:45:52"
+  },
+  {
+    "business_name": "Community Health Center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221715",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "4R9X+MC5, Railway Station Rd, Belthara Road, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.1191285,
+    "longitude": 83.8486078,
+    "place_id": "ChIJBQbOLEs3kjkRIoNNKYDcSJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQbOLEs3kjkRIoNNKYDcSJk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:45:53"
+  }
+]

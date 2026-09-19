@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHOLA GROCERY SHOP",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222128",
+    "phone_number": "+91 99183 12093",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Vill- Itayen, Post-Itayen, Itayen Bazar, Uttar Pradesh 222161",
+    "area": "Itayen Bazar",
+    "latitude": 25.568584299999998,
+    "longitude": 82.6673387,
+    "place_id": "ChIJQay5jKMnkDkRh84C3CT67es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQay5jKMnkDkRh84C3CT67es",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:15"
+  },
+  {
+    "business_name": "Krishan Kumar Bartan Bhandar",
+    "search_category": "Departmental Store",
+    "primary_category": "Shop supermarket furniture store",
+    "all_categories": "Shop supermarket furniture store",
+    "pincode": "222128",
+    "phone_number": "+91 74085 27269",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 15,
+    "address": "Dodapur Tarati Road,, Uttar Patti, Uttar Pradesh 222128",
+    "area": "222128",
+    "latitude": 25.5170335,
+    "longitude": 82.6809074,
+    "place_id": "ChIJ1-mKSgUnkDkRceV6EKlA3no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-mKSgUnkDkRceV6EKlA3no",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:17"
+  }
+]

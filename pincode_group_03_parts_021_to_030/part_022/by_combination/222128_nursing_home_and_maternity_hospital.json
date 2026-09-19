@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Care Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "222128",
+    "phone_number": "+91 89607 96203",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ranpur Road gopalapur, Jaunpur, Uttar Pradesh 222137",
+    "area": "222128",
+    "latitude": 25.503883899999998,
+    "longitude": 82.6239074,
+    "place_id": "ChIJfYFAgG4hkDkRYm-efWQ7Ygo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYFAgG4hkDkRYm-efWQ7Ygo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:43"
+  },
+  {
+    "business_name": "OM SAI NATH HOSPITAL AND RESEARCH CENTER",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "222128",
+    "phone_number": "+91 91200 85511",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 54,
+    "address": "Jaunpur - Bhadohi Rd, Mariahu, Chaharpur, Uttar Pradesh 222161",
+    "area": "222128",
+    "latitude": 25.610254899999997,
+    "longitude": 82.6063789,
+    "place_id": "ChIJz6f98EwikDkRAx1jxiEaAjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6f98EwikDkRAx1jxiEaAjI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:43"
+  }
+]

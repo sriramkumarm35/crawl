@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cold store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "222133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MRMW+PJ3, Hari Karan Patti, Uttar Pradesh 222170",
+    "area": "222133",
+    "latitude": 25.6842686,
+    "longitude": 82.846561,
+    "place_id": "ChIJn9diMQAzkDkRHJIhhmxclz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9diMQAzkDkRHJIhhmxclz4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:16:53"
+  },
+  {
+    "business_name": "Dinesh General & cold Store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "General store",
+    "all_categories": "General store, Service establishment",
+    "pincode": "222133",
+    "phone_number": "+91 91610 82151",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Dinesh General & cold Store, 222133, India",
+    "area": "222133",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJLQSKL_w3kDkRNO7-pHGQSyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQSKL_w3kDkRNO7-pHGQSyc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:16:56"
+  }
+]

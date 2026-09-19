@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sgrd post office",
+    "search_category": "Offices",
+    "primary_category": "Elementary school",
+    "all_categories": "Elementary school",
+    "pincode": "222149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sgrd college, Khujjhi, Dobhi Khas, Uttar Pradesh 222149",
+    "area": "222149",
+    "latitude": 25.6220678,
+    "longitude": 82.9904737,
+    "place_id": "ChIJ00i2bQDTkTkR3ESzmDE3z-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00i2bQDTkTkR3ESzmDE3z-A",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:08"
+  },
+  {
+    "business_name": "Warsi flex",
+    "search_category": "Offices",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service",
+    "pincode": "222149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Gauspur, Uttar Pradesh 222142",
+    "area": "222149",
+    "latitude": 25.644187499999997,
+    "longitude": 82.9086875,
+    "place_id": "ChIJK1eXNwTTkTkRyMsQNCQTCzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1eXNwTTkTkRyMsQNCQTCzI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:09"
+  }
+]

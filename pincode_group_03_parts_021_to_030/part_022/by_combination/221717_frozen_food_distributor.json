@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shagun Milk Ice Cream Company Umeda",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Ice cream equipment supplier, Ice supplier",
+    "pincode": "221717",
+    "phone_number": "+91 91619 31224",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Vill Umeda Post pandah, PS, Sikandarpur, Uttar Pradesh 277303",
+    "area": "221717",
+    "latitude": 26.0047321,
+    "longitude": 84.0417712,
+    "place_id": "ChIJxxCqYIBDkjkRjBj8kOnj380",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxCqYIBDkjkRjBj8kOnj380",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:48:58"
+  },
+  {
+    "business_name": "JB foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer, Catering food and drink supplier",
+    "pincode": "221717",
+    "phone_number": "+91 87796 75352",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "Bungalow No.146, opposite BMC ground, Sangh Chhaya CHS, RDP 8, Charkop Sector 3, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Sangh Chhaya CHS, RDP 8, Charkop Sector 3, Kandivali West",
+    "latitude": 19.2175062,
+    "longitude": 72.8312591,
+    "place_id": "ChIJP4GH3r2x5zsRyoWMImk0gRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4GH3r2x5zsRyoWMImk0gRc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:48:59"
+  }
+]

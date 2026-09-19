@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jigar Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "222129",
+    "phone_number": "+91 95592 19819",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bajrang Nagar - Akhaipur Rd, Bishun Pur Lebrua, Ailia, Uttar Pradesh 222148",
+    "area": "222129",
+    "latitude": 25.6540066,
+    "longitude": 82.9934555,
+    "place_id": "ChIJj19ATVLRkTkRDjlR8tQ4-Yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj19ATVLRkTkRDjlR8tQ4-Yg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:10:12"
+  },
+  {
+    "business_name": "Kerakat Chinese and Family Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "222129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 209,
+    "address": "JWR9+48G, Saidpur - Khajurhat Rd, Saraibiru, Kerakat, Uttar Pradesh 222142",
+    "area": "222129",
+    "latitude": 25.6403203,
+    "longitude": 82.9183402,
+    "place_id": "ChIJdYrJnnDTkTkRe1liqDXc7YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYrJnnDTkTkRe1liqDXc7YY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:10:12"
+  }
+]

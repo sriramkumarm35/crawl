@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari Rehan",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "222127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J93W+MM8, Semraho, Uttar Pradesh 222143",
+    "area": "222127",
+    "latitude": 25.6041633,
+    "longitude": 82.3967108,
+    "place_id": "ChIJzyEpFAAbkDkRp09TM3aDiSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyEpFAAbkDkRp09TM3aDiSo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:07:19"
+  },
+  {
+    "business_name": "Bhole Maurya Electrician UPPCL",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrician, Electronics store",
+    "pincode": "222127",
+    "phone_number": "+91 97921 77646",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Hardwari, Uttar Pradesh 222127",
+    "area": "222127",
+    "latitude": 25.598744399999998,
+    "longitude": 82.5002058,
+    "place_id": "ChIJY6FTzMIZkDkRF0Kjrvgivjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6FTzMIZkDkRF0Kjrvgivjw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:07:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om pathology",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "222136",
+    "phone_number": "+91 70528 37265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Sirkoni, Bandipur, Uttar Pradesh 222136",
+    "area": "222136",
+    "latitude": 25.6565025,
+    "longitude": 82.73896789999999,
+    "place_id": "ChIJf-P_KOIvkDkR0q-NkvyQ0MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-P_KOIvkDkR0q-NkvyQ0MY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:25"
+  },
+  {
+    "business_name": "Redcliffe Labs - Collection Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Medical diagnostic imaging center, Medical laboratory, Pathologist",
+    "pincode": "222136",
+    "phone_number": "+91 79 6928 5317",
+    "website": "https://redcliffelabs.com/centre/redcliffe-labs-in-uttar-pradesh-jaunpur-mariyahu-51287",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sadarganj, Mariahu, Dadara, Uttar Pradesh 222161",
+    "area": "Sadarganj",
+    "latitude": 25.602815,
+    "longitude": 82.603293,
+    "place_id": "ChIJlw16lY8jkDkRrbJxQZMvF50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlw16lY8jkDkRrbJxQZMvF50",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:27"
+  }
+]

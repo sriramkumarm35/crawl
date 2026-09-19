@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pokarmal Enterprises",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric wholesaler",
+    "all_categories": "Fabric wholesaler",
+    "pincode": "222003",
+    "phone_number": "+91 88200 77888",
+    "website": "http://www.pokarmal.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "75/2, Maulana Saukat Ali St, Kolutolla, Kolkata, West Bengal 700073",
+    "area": "Kolutolla",
+    "latitude": 22.5761994,
+    "longitude": 88.3568076,
+    "place_id": "ChIJVW7Zz7F3AjoRts0v-PEmL98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVW7Zz7F3AjoRts0v-PEmL98",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:09"
+  },
+  {
+    "business_name": "ADITI TEXTILE",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing manufacturer",
+    "pincode": "222003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3RD.FLOOR, 2, roopchand roy street room no 320, next to madan mohan mandir, Bara Bazar, Kolkata, West Bengal 700007",
+    "area": "Bara Bazar, Barabazar Market",
+    "latitude": 22.5791526,
+    "longitude": 88.3559654,
+    "place_id": "ChIJC3eeHbF3AjoRxfA1t3CEnK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3eeHbF3AjoRxfA1t3CEnK0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:09"
+  }
+]

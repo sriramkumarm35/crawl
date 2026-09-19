@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Music & Dance Classes",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Musical club",
+    "pincode": "222146",
+    "phone_number": "+91 97214 44420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Surendra Lawn, Kaushalpuri Colony, Vishnupuri Colony, Faizabad, Uttar Pradesh 224001",
+    "area": "Kaushalpuri Colony, Vishnupuri Colony",
+    "latitude": 26.7664914,
+    "longitude": 82.1310307,
+    "place_id": "ChIJi1FIM28JmjkR7Hl_H1Z7nYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1FIM28JmjkR7Hl_H1Z7nYE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:07"
+  },
+  {
+    "business_name": "UDHAR Music",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music store",
+    "all_categories": "Music store",
+    "pincode": "222146",
+    "phone_number": "+91 87269 53470",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jalalpur - Parauganj Road, Jaunpur, Paprauganj, Uttar Pradesh 222146",
+    "area": "222146",
+    "latitude": 25.601815199999997,
+    "longitude": 82.8290792,
+    "place_id": "ChIJkcZLlXgtkDkRm7PwtM9fWKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcZLlXgtkDkRm7PwtM9fWKM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:36:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan resort",
+    "search_category": "Resort",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast",
+    "pincode": "222143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q7CR+9R4, Sujanganj, Tilakhara Urf Suzanganj, Uttar Pradesh 222201",
+    "area": "222143",
+    "latitude": 25.7708785,
+    "longitude": 82.29207919999999,
+    "place_id": "ChIJ8QWYVAALkDkRJvInX86cmow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QWYVAALkDkRJvInX86cmow",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:30:41"
+  },
+  {
+    "business_name": "V. N. Holet & Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222143",
+    "phone_number": "+91 98716 97877",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "MCJ5+PGF, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "222143",
+    "latitude": 25.68181,
+    "longitude": 82.4087909,
+    "place_id": "ChIJnUXtY4MRkDkRIiWf2OjVTbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUXtY4MRkDkRIiWf2OjVTbQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:30:43"
+  }
+]

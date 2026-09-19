@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunshine Creations",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier",
+    "pincode": "222138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rashmi niwas, Surendra Nath Singh Colony, near TB Hospital Road, Aaraji, Babupur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Aaraji, Babupur",
+    "latitude": 25.7284221,
+    "longitude": 82.694879,
+    "place_id": "ChIJdwsDJMw7kDkRrYyvebhmfDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwsDJMw7kDkRrYyvebhmfDw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:51"
+  },
+  {
+    "business_name": "ROYAL TAILOR",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "222138",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Polytechnic Chauraha, Wazidpur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Wazidpur",
+    "latitude": 25.7373165,
+    "longitude": 82.6752111,
+    "place_id": "ChIJcW36NL87kDkR1j2RolFI7v0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcW36NL87kDkR1j2RolFI7v0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:54"
+  }
+]

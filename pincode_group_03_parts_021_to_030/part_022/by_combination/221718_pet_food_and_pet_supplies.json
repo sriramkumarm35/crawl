@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shah Pet's Shop bettiah",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "221718",
+    "phone_number": "+91 79082 81105",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "St Teresa School Rd, behind of Mosque, Dargah Muhallah, Kamalnath Nagar, Bettiah, Bihar 845438",
+    "area": "Kamalnath Nagar",
+    "latitude": 26.803912699999998,
+    "longitude": 84.50566309999999,
+    "place_id": "ChIJP_zR4PZvkzkRpHXqFWG5hjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_zR4PZvkzkRpHXqFWG5hjo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:44"
+  },
+  {
+    "business_name": "Giffy Tails & Meds",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Aquarium shop, Bird shop, Dog day care center, Food products supplier, Pet adoption service, Pet boarding service, Pet groomer, Pet store, Pet trainer",
+    "pincode": "221718",
+    "phone_number": "+91 90949 53714",
+    "website": "http://www.giffypawsitivetails.com/",
+    "rating": 4.6,
+    "reviews_count": 54,
+    "address": "4/109, Perumal Complex GST Road, Opp Vandalur Zoo, Vandalur, Tamil Nadu 600127",
+    "area": "221718",
+    "latitude": 12.870431799999999,
+    "longitude": 80.1077033,
+    "place_id": "ChIJ5e2Vdg32UjoRu9M5shcjLzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5e2Vdg32UjoRu9M5shcjLzA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:45"
+  }
+]

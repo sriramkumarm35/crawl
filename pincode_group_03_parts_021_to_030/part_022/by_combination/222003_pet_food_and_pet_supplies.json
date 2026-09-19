@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRM pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "222003",
+    "phone_number": "+91 63939 29699",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Jangipur Khurd, Uttar Pradesh 222003",
+    "area": "222003",
+    "latitude": 25.843464599999997,
+    "longitude": 82.7050369,
+    "place_id": "ChIJB2BNVsI5kDkRFt9rn1xG-4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2BNVsI5kDkRFt9rn1xG-4Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:56"
+  },
+  {
+    "business_name": "Anurag industries. UP62",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Food manufacturing supply",
+    "all_categories": "Food manufacturing supply, Pond fish supplier",
+    "pincode": "222003",
+    "phone_number": "+91 95558 16734",
+    "website": "https://www.instagram.com/anurag_industries?igsh=MWplNXloMGR5Y256dg==",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Jamuhai, Uttar Pradesh 222003",
+    "area": "222003",
+    "latitude": 25.8474117,
+    "longitude": 82.7542193,
+    "place_id": "ChIJ072mHRI3kDkRzPDw6B37oeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ072mHRI3kDkRzPDw6B37oeE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:56"
+  }
+]

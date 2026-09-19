@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kedarnath Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "222133",
+    "phone_number": "+91 77060 55526",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "25, Azamgarh - Jaunpur Rd, near Pani Ki Tanki, Bheera, Bazar, main Market, Bheera, Jaunpur, Uttar Pradesh 276301",
+    "area": "222133",
+    "latitude": 25.829379199999998,
+    "longitude": 82.88989049999999,
+    "place_id": "ChIJq057QyY1kDkR0pitEZnWdpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq057QyY1kDkR0pitEZnWdpM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:32"
+  },
+  {
+    "business_name": "Maha Laxmi Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "222133",
+    "phone_number": "+91 73881 41460",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Varanasi, Uttar Pradesh 276301",
+    "area": "BARDAH BAZAR",
+    "latitude": 25.810527999999998,
+    "longitude": 82.8542652,
+    "place_id": "ChIJy_aB_xg1kDkRf8QEVuQgM18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_aB_xg1kDkRf8QEVuQgM18",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:32"
+  }
+]

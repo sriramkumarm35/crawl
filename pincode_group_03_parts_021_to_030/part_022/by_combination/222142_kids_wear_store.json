@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pari Jewellers",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "222142",
+    "phone_number": "+91 95807 86729",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kerakat Bazar, Kerakat, Uttar Pradesh 222142",
+    "area": "222142",
+    "latitude": 25.6617112,
+    "longitude": 82.8624573,
+    "place_id": "ChIJFwxWlLUtkDkRTi2vPYWOWd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwxWlLUtkDkRTi2vPYWOWd4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:08"
+  },
+  {
+    "business_name": "Tabrez Sports Fashion",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "222142",
+    "phone_number": "+91 94511 19031",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kerakat, Abdullapur, Uttar Pradesh 222142",
+    "area": "222142",
+    "latitude": 25.6396783,
+    "longitude": 82.91262619999999,
+    "place_id": "ChIJmaeJ2dnSkTkRPghIylQ-kZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaeJ2dnSkTkRPghIylQ-kZA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:10"
+  }
+]

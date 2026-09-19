@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Food Studio",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Gujarati restaurant, Punjabi restaurant, Restaurant, South Indian restaurant",
+    "pincode": "221718",
+    "phone_number": "N/A",
+    "website": "https://www.foodstudiomahabaleshwar.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "bus stop, Panchgani - Mahabaleshwar Rd, Nakinda, Mahabaleshwar, Maharashtra 412806",
+    "area": "221718",
+    "latitude": 17.9361534,
+    "longitude": 73.6866155,
+    "place_id": "ChIJCz7CwHVlwjsRjT_FGhOM96U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCz7CwHVlwjsRjT_FGhOM96U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:47"
+  },
+  {
+    "business_name": "Poonam Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Family restaurant, Maharashtrian Restaurant, North Indian restaurant, Punjabi restaurant, Rice restaurant, South Indian restaurant",
+    "pincode": "221718",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "CTS Nm - 539 C, near Poonam Chowk, Mahabaleshwar, Maharashtra 412806",
+    "area": "221718",
+    "latitude": 17.924682699999998,
+    "longitude": 73.6576577,
+    "place_id": "ChIJn_Qyz1NlwjsREBqsOIhNEss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_Qyz1NlwjsREBqsOIhNEss",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:50:47"
+  }
+]

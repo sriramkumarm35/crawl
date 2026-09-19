@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bandhu e-Services",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Tax consultant",
+    "pincode": "221711",
+    "phone_number": "+91 95833 77111",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "master canteen, Ashok Nagar, Bhubaneswar, Odisha 751009",
+    "area": "master canteen, Ashok Nagar",
+    "latitude": 20.2660457,
+    "longitude": 85.84044519999999,
+    "place_id": "ChIJvRqXVxmnGToREXae746nZwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRqXVxmnGToREXae746nZwA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:41:39"
+  },
+  {
+    "business_name": "Regible Corporate Advisor LLP",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "221711",
+    "phone_number": "+91 88226 90951",
+    "website": "https://www.regible.in/",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "address": "Mezzanine Floor, Mitra Building, Ashram Rd, South Sarania, Ulubari, Guwahati, Assam 781007",
+    "area": "South Sarania, Ulubari",
+    "latitude": 26.174756799999997,
+    "longitude": 91.7586929,
+    "place_id": "ChIJGcUS-85ZWjcRVMCI98eNTJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcUS-85ZWjcRVMCI98eNTJ8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:41:40"
+  }
+]

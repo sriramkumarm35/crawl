@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushboo Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "222139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "3M5H+24R, Suirish, Shahganj, Uttar Pradesh 223101",
+    "area": "222139",
+    "latitude": 26.057599999999997,
+    "longitude": 82.6777745,
+    "place_id": "ChIJS0R2YzpbkDkRcZjqJ7SOxx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0R2YzpbkDkRcZjqJ7SOxx4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:21"
+  },
+  {
+    "business_name": "Amul Parlour and milk dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "222139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3M8G+HHV, St Thomas Rd, Shahganj, Uttar Pradesh 223103",
+    "area": "222139",
+    "latitude": 26.066497899999998,
+    "longitude": 82.6764324,
+    "place_id": "ChIJ37wQ1zxbkDkRIsyCrjS2sDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37wQ1zxbkDkRIsyCrjS2sDQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:22"
+  }
+]

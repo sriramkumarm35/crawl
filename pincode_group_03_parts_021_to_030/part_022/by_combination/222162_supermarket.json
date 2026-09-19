@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Grocery Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222162",
+    "phone_number": "+91 75248 29011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Three Alamaganj, Gopipur Road, Rasulaha, Uttar Pradesh 222162",
+    "area": "222162",
+    "latitude": 25.5219064,
+    "longitude": 82.4937593,
+    "place_id": "ChIJc1DB9rsfkDkRdz5S-Hs_oAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1DB9rsfkDkRdz5S-Hs_oAE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:41:57"
+  },
+  {
+    "business_name": "Raj Mart",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222162",
+    "phone_number": "+91 70073 62963",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "FFHJ+W5C, Patkhauli Alamganj, Uttar Pradesh 222162",
+    "area": "222162",
+    "latitude": 25.4798127,
+    "longitude": 82.4803797,
+    "place_id": "ChIJ2ycYMyMfkDkRngFQSYumZAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ycYMyMfkDkRngFQSYumZAs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:41:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yansh Health Care",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "222146",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HVXH+867, Jalalpur - Kerakat Link Rd, Tarawa, Uttar Pradesh 222181",
+    "area": "222146",
+    "latitude": 25.5982785,
+    "longitude": 82.878059,
+    "place_id": "ChIJWZKfYgAtkDkR8aH9bItRuK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZKfYgAtkDkR8aH9bItRuK8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:35:52"
+  },
+  {
+    "business_name": "Pradhanmantri Bartiya Jan Aushadhi kendra",
+    "search_category": "Wellness Center",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222146",
+    "phone_number": "+91 81150 33774",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "175, Husenabad, DaakBangla Chauraha, Police Line, Road, Line Bazaar Rd, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Husainabad",
+    "latitude": 25.7306736,
+    "longitude": 82.688831,
+    "place_id": "ChIJn2AqdpQ7kDkR8Oa7UX88IXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2AqdpQ7kDkR8Oa7UX88IXY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:35:54"
+  }
+]

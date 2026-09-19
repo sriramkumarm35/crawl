@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "222135",
+    "phone_number": "+91 98984 04488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "krishna Nagar Society, Bapod, Waghodia, Vadodara, Gujarat 390019",
+    "area": "krishna Nagar Society, Bapod, Waghodia",
+    "latitude": 22.3079719,
+    "longitude": 73.2374619,
+    "place_id": "ChIJ2wxV-4bPXzkRROA_CSJwDcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wxV-4bPXzkRROA_CSJwDcY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:17:42"
+  },
+  {
+    "business_name": "STAR AUTO GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "222135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aakruti Twp, Khambhat, Gujarat 388620",
+    "area": "Aakruti Township",
+    "latitude": 22.3252058,
+    "longitude": 72.62015339999999,
+    "place_id": "ChIJm9Pk5KsGXzkR1iMQ_rIFQzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9Pk5KsGXzkR1iMQ_rIFQzE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:17:42"
+  }
+]

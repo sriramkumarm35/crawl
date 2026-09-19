@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Nav Bharat Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "222002",
+    "phone_number": "+91 94550 95118",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shambhuganj, Uttar Pradesh 222132",
+    "area": "222002",
+    "latitude": 25.7678904,
+    "longitude": 82.5981084,
+    "place_id": "ChIJfbR7DHs-kDkR0852HvRHs6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbR7DHs-kDkR0852HvRHs6U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:31"
+  },
+  {
+    "business_name": "Pradeep Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "222002",
+    "phone_number": "+91 75180 83137",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dharmapur, Jaunpur, Uttar Pradesh 222133",
+    "area": "222002",
+    "latitude": 25.7516455,
+    "longitude": 82.7462273,
+    "place_id": "ChIJYwcrGU8xkDkReCiyoa7QOsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwcrGU8xkDkReCiyoa7QOsc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:32"
+  }
+]

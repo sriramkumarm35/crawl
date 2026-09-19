@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bag Works",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "No 9, 19, Arunachalam St, Sowcarpet, George Town, Chennai, Tamil Nadu 600001",
+    "area": "Sowcarpet, George Town",
+    "latitude": 13.0963929,
+    "longitude": 80.2783656,
+    "place_id": "ChIJVfehXlhvUjoRnALIU6HWnGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfehXlhvUjoRnALIU6HWnGE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:57"
+  },
+  {
+    "business_name": "Bhavani Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "221709",
+    "phone_number": "+91 93411 87466",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "84WV+9W7, Ghodke Complex, Cross, C.B.T. Road,, Maratha Galli Rd, Ganesh Peth, Hubballi, Karnataka 580020",
+    "area": "Durgad Bail, Ganesh Peth",
+    "latitude": 15.3459123,
+    "longitude": 75.1448119,
+    "place_id": "ChIJa8vsymfXuDsRhRZ7hW8ZWYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8vsymfXuDsRhRZ7hW8ZWYo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:57"
+  }
+]

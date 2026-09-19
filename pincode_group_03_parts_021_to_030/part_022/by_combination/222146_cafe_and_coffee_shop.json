@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya sweet house",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "222146",
+    "phone_number": "+91 98897 73173",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 48,
+    "address": "Bhawnathpur, Uttar Pradesh 222136",
+    "area": "222146",
+    "latitude": 25.5644203,
+    "longitude": 82.7892119,
+    "place_id": "ChIJeVhog-YpkDkRysqGRvpJFRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVhog-YpkDkRysqGRvpJFRU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:35:10"
+  },
+  {
+    "business_name": "Brijnath Sweet House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "222146",
+    "phone_number": "+91 63902 21988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Trilochan Mahy, Mahadev, Trilochan, Jaunpur, Uttar Pradesh 222136",
+    "area": "Mahadev",
+    "latitude": 25.576898,
+    "longitude": 82.7839709,
+    "place_id": "ChIJz0cs1GIpkDkRiYGY7R3H6e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0cs1GIpkDkRiYGY7R3H6e8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:35:10"
+  }
+]

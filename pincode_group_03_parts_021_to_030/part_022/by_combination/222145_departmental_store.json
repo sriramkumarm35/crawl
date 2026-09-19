@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Kumar Kerana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222145",
+    "phone_number": "+91 97927 54222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Vijay Kumar, Babuganj Khutahni Road, Bhandhwa, Khuthani, Uttar Pradesh 222145",
+    "area": "Bhandhwa",
+    "latitude": 25.829908999999997,
+    "longitude": 82.2497121,
+    "place_id": "ChIJdyI8twoLkDkRCGyyerVFgy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyI8twoLkDkRCGyyerVFgy0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:33:10"
+  },
+  {
+    "business_name": "Suman Devi Kerana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222145",
+    "phone_number": "+91 91189 34757",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Suman Devi, Road, Babuganj, Khuthani, Uttar Pradesh 222145",
+    "area": "Babuganj",
+    "latitude": 25.8324479,
+    "longitude": 82.25134469999999,
+    "place_id": "ChIJNx-1A6wLkDkRSMDueO1DPW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNx-1A6wLkDkRSMDueO1DPW8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:33:10"
+  }
+]

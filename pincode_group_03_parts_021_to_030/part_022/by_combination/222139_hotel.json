@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madiyahu",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222139",
+    "phone_number": "+91 73807 04552",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 17,
+    "address": "PMWM+HGJ, Olandganj, Jaunpur, Uttar Pradesh 222001",
+    "area": "Olandganj",
+    "latitude": 25.746471,
+    "longitude": 82.6837552,
+    "place_id": "ChIJFXfLZwA7kDkRiTREGwDUHJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXfLZwA7kDkRiTREGwDUHJE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:25:23"
+  },
+  {
+    "business_name": "Hotel Golden Ridge",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222139",
+    "phone_number": "+91 96281 15633",
+    "website": "https://www.goldenridgehotel.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Main Rd, near Railway Station, Dadar Baipas, Shahganj, Uttar Pradesh 223101",
+    "area": "Dadar Baipas",
+    "latitude": 26.0586602,
+    "longitude": 82.6792749,
+    "place_id": "ChIJqyj0E2BBkDkRbqJQ4oPnMic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyj0E2BBkDkRbqJQ4oPnMic",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:25:23"
+  }
+]

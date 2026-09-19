@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sp aluminium",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "222136",
+    "phone_number": "N/A",
+    "website": "https://l.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Aashirwad hotel, Upsidc Karkhiyon phoolpur, bypass, opposite Ambedkar park, Trilochan, Jaunpur, Uttar Pradesh 222136",
+    "area": "Agro Park",
+    "latitude": 25.5528178,
+    "longitude": 82.7951622,
+    "place_id": "ChIJJdznK5opkDkRadTlT3VFy7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdznK5opkDkRadTlT3VFy7E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:46"
+  },
+  {
+    "business_name": "Abhishek Yadav",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "222136",
+    "phone_number": "+91 63921 53609",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarkoni, National Highway, 56 Sadipur, Sirkoni, Jaunpur, Uttar Pradesh 222136",
+    "area": "222136",
+    "latitude": 25.6600559,
+    "longitude": 82.740008,
+    "place_id": "ChIJV2lzimAvkDkRrMfo-ZSIfL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2lzimAvkDkRrMfo-ZSIfL0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:47"
+  }
+]

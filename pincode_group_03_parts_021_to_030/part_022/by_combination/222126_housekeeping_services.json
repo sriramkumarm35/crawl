@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urban Hygiene Solutions",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Upholstery cleaning service",
+    "pincode": "222126",
+    "phone_number": "+91 78787 89109",
+    "website": "https://urban-hygiene-solutions.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gate no 2, Dwarkesh residency, Block no 55, Sri Nath Society, Railnagar, Rajkot, Gujarat 360004",
+    "area": "Sri Nath Society, Railnagar",
+    "latitude": 22.2647718,
+    "longitude": 70.78456539999999,
+    "place_id": "ChIJIXKbCY7LWTkRVr9hnZ2YqAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXKbCY7LWTkRVr9hnZ2YqAo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:06:11"
+  },
+  {
+    "business_name": "Vishal Management Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services",
+    "pincode": "222126",
+    "phone_number": "+91 86478 87777",
+    "website": "https://www.vishalmanagementservices.com/",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "910, Corporate Annexe, Sonawala Rd, near Udyog Bhavan, Sonawala Industry Estate, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Sonawala Industry Estate, Goregaon East",
+    "latitude": 19.161445,
+    "longitude": 72.8511003,
+    "place_id": "ChIJnR6fZWy35zsRpP5s2U9h_eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnR6fZWy35zsRpP5s2U9h_eU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:06:12"
+  }
+]

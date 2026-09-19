@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tez Diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "222132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.2,
+    "reviews_count": 12,
+    "address": "22A, Naiganj, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Naiganj, Olandganj",
+    "latitude": 25.739652799999998,
+    "longitude": 82.6705941,
+    "place_id": "ChIJXX3kcgA7kDkRw4y_cv9Q9jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXX3kcgA7kDkRw4y_cv9Q9jk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:14:01"
+  },
+  {
+    "business_name": "PathCare Diagnostic Blood Celection Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "222132",
+    "phone_number": "+91 90442 75523",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pardhan Kichan Center, Ruhatta Umarpur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Ruhatta Umarpur, Shanti Nagar, Olandganj",
+    "latitude": 25.7418144,
+    "longitude": 82.6787489,
+    "place_id": "ChIJX4z9k-o7kDkR3sxKmgssnVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4z9k-o7kDkR3sxKmgssnVM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:14:04"
+  }
+]

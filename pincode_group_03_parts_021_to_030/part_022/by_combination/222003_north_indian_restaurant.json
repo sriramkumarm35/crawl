@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Rasoiya",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "222003",
+    "phone_number": "+91 95656 08943",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Maharana Pratap Colony, Lakhanpur, Jaunpur, Uttar Pradesh 222001",
+    "area": "Maharana Pratap Colony",
+    "latitude": 25.768121599999997,
+    "longitude": 82.70330799999999,
+    "place_id": "ChIJaXHS9MU5kDkRsFMEj-wrZk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXHS9MU5kDkRsFMEj-wrZk0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:01"
+  },
+  {
+    "business_name": "NVH Spices – Manufacturer & Exporter",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler, Exporter, FMCG Goods Wholesaler, Wholesaler",
+    "pincode": "222003",
+    "phone_number": "+91 96494 42054",
+    "website": "https://nvhspices.com/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "Arjunpura Jageer Rd, Arjunpura Jageer, Arjunpura, Rajasthan 305203",
+    "area": "222003",
+    "latitude": 26.283738099999997,
+    "longitude": 74.5424328,
+    "place_id": "ChIJp7X2g6dhaTkRs9vqGR5wrKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7X2g6dhaTkRs9vqGR5wrKY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:56:03"
+  }
+]

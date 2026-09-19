@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sushil Trading Company",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Jewelry store",
+    "pincode": "222161",
+    "phone_number": "+91 77095 60926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Varanasi Rd, Kasba Mariyahu, Mariahu, Uttar Pradesh 222161",
+    "area": "222161",
+    "latitude": 25.5998795,
+    "longitude": 82.6066931,
+    "place_id": "ChIJi9xOLVIbkDkRoVT96-RCwg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9xOLVIbkDkRoVT96-RCwg8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:29"
+  },
+  {
+    "business_name": "Soft Touch Boutique",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222161",
+    "phone_number": "+91 93362 32054",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "117/20, opp. Dr. Mahendru Hospital, near Rohatgi Eye Hospital, Model Town, Sarvodaya Nagar, Kanpur, Uttar Pradesh 208005",
+    "area": "Model Town, Sarvodaya Nagar",
+    "latitude": 26.4791034,
+    "longitude": 80.30452989999999,
+    "place_id": "ChIJQ1hQiUw5nDkRTALhORGHEJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1hQiUw5nDkRTALhORGHEJw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:31"
+  }
+]

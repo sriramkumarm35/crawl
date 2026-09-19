@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Electric",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "221718",
+    "phone_number": "+91 63062 88028",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Piyush Maurya Electric, Belthara Road, Shivaji Nagar, Farsatar, Uttar Pradesh 221715",
+    "area": "Shivaji Nagar",
+    "latitude": 26.0908941,
+    "longitude": 83.8570768,
+    "place_id": "ChIJzVxHxZk5kjkRiEfYpHGH8PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVxHxZk5kjkRiEfYpHGH8PA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:51:25"
+  },
+  {
+    "business_name": "Chauhan Electric Shop",
+    "search_category": "Electrician",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "221718",
+    "phone_number": "+91 73554 78887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "A.K.Electranic Nikashi Nagra Balliya, Uttar Pradesh 221711",
+    "area": "221718",
+    "latitude": 25.9745214,
+    "longitude": 83.7975539,
+    "place_id": "ChIJ9zm0-n09kjkR7dy_YNioiLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zm0-n09kjkR7dy_YNioiLI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:51:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mango Drink Factory",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "222126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Sector 38, Noida, Uttar Pradesh 201303",
+    "area": "Sector 38",
+    "latitude": 28.5647034,
+    "longitude": 77.3244766,
+    "place_id": "ChIJ047h10nkDDkRX25pAbjhT4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ047h10nkDDkRX25pAbjhT4Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:53"
+  },
+  {
+    "business_name": "Juice factory",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "222126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F675+5C7, Dharamjaigarh, Shahpur, Chhattisgarh 496116",
+    "area": "222126",
+    "latitude": 22.4628765,
+    "longitude": 83.2085816,
+    "place_id": "ChIJF3I5ggFhJzoRyKv0Z9Z5KwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3I5ggFhJzoRyKv0Z9Z5KwY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:04:53"
+  }
+]

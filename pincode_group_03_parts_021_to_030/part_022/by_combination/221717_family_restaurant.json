@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisan restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221717",
+    "phone_number": "+91 96289 92216",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 29,
+    "address": "Sikanderpur - Belthara Rd, Sikandarpur, Uttar Pradesh 277303",
+    "area": "221717",
+    "latitude": 26.047768899999998,
+    "longitude": 84.04178619999999,
+    "place_id": "ChIJQej1XQBFkjkRlwmbnX-m11U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQej1XQBFkjkRlwmbnX-m11U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:05"
+  },
+  {
+    "business_name": "Aditi Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221717",
+    "phone_number": "+91 73880 00074",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 59,
+    "address": "near purana petrol pump, Sikandarpur, Uttar Pradesh 277303",
+    "area": "221717",
+    "latitude": 26.045919599999998,
+    "longitude": 84.0457533,
+    "place_id": "ChIJA-BeM1VFkjkRc6AUY1ib_kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-BeM1VFkjkRc6AUY1ib_kc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community Health Centre Shahganj Jaunpur",
+    "search_category": "ENT Clinic",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "222139",
+    "phone_number": "+91 80903 20635",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 49,
+    "address": "3M4J+F93, SH 7, Shahganj, Uttar Pradesh 223101",
+    "area": "222139",
+    "latitude": 26.0561468,
+    "longitude": 82.6809178,
+    "place_id": "ChIJHdYi_S9bkDkR9EWy0ffjfFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdYi_S9bkDkR9EWy0ffjfFE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:50"
+  },
+  {
+    "business_name": "zain hosptial",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "222139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 7,
+    "address": "3M5V+QV8, Bhadi, Shahganj, Uttar Pradesh 223103",
+    "area": "222139",
+    "latitude": 26.0594163,
+    "longitude": 82.694716,
+    "place_id": "ChIJN25GsdlakDkRSGj_Ppg3_l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN25GsdlakDkRSGj_Ppg3_l4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:24:50"
+  }
+]

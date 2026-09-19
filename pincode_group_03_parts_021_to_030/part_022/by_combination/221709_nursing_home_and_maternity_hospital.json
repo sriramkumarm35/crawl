@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purvanchal Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221709",
+    "phone_number": "+91 99362 62632",
+    "website": "http://www.purvanchalhospital.in/",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "Gandhi Nagar, Ballia, Uttar Pradesh 277001",
+    "area": "Gandhi Nagar",
+    "latitude": 25.7584715,
+    "longitude": 84.1452678,
+    "place_id": "ChIJ3bdGduBkkjkRhhuM2d-poZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bdGduBkkjkRhhuM2d-poZ0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:02"
+  },
+  {
+    "business_name": "kotwa Child Care Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221709",
+    "phone_number": "+91 94542 37473",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QFVJ+G48, Ballia, Uttar Pradesh 277208",
+    "area": "221709",
+    "latitude": 25.793786899999997,
+    "longitude": 84.48031379999999,
+    "place_id": "ChIJBbqa9f-QkjkRjMIGyyKrwew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbqa9f-QkjkRjMIGyyKrwew",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:05"
+  }
+]

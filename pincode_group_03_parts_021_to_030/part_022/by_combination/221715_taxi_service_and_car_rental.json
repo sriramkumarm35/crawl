@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna car/cab rental service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "221715",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Belthara Road, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.1194229,
+    "longitude": 83.8479955,
+    "place_id": "ChIJnfrkzCYxkjkR_zDNBiRebEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfrkzCYxkjkR_zDNBiRebEM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:46:05"
+  },
+  {
+    "business_name": "Gozo Cabs – Outstation, Airport & Local Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Tour operator, Transportation service",
+    "pincode": "221715",
+    "phone_number": "N/A",
+    "website": "https://www.gozocabs.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "F - 210, UGF, Sushant shopping arcade, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009",
+    "area": "Sushant Lok Phase I, Sector 43",
+    "latitude": 28.460606,
+    "longitude": 77.078813,
+    "place_id": "ChIJd8WFlTAZDTkRsr32DBHP7es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8WFlTAZDTkRsr32DBHP7es",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:46:05"
+  }
+]

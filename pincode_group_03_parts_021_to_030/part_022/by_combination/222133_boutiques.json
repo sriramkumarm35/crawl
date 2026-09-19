@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plixgo.shop",
+    "search_category": "Boutiques",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "222133",
+    "phone_number": "N/A",
+    "website": "https://plixgo.shop/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur, Uttar Pradesh 222133",
+    "area": "222133",
+    "latitude": 25.7564504,
+    "longitude": 82.7886395,
+    "place_id": "ChIJF-77E_MxkDkR9lZ7vXnbrk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-77E_MxkDkR9lZ7vXnbrk0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:43"
+  },
+  {
+    "business_name": "Shree Durga Vastralay",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222133",
+    "phone_number": "+91 97217 54635",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "Gaurabadshahpur, Gaura, Uttar Pradesh 222133",
+    "area": "Gaurabadshahpur",
+    "latitude": 25.7787786,
+    "longitude": 82.81815859999999,
+    "place_id": "ChIJbeQY_6g2kDkR77nh36AhlOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeQY_6g2kDkR77nh36AhlOc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:46"
+  }
+]

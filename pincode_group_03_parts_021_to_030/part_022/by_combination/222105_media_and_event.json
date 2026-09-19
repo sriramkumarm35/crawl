@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Woodland farm",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "222105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Purvi, New Sahakari Colony, Jaunpur, Uttar Pradesh 222002",
+    "area": "New Sahakari Colony, Parmanatpur, Olandganj",
+    "latitude": 25.738424499999997,
+    "longitude": 82.67845489999999,
+    "place_id": "ChIJzy9IrfA7kDkR-QZGybudtFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzy9IrfA7kDkR-QZGybudtFA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:00:33"
+  },
+  {
+    "business_name": "Sara Palace",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "222105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 97,
+    "address": "QM2R+849, Dhalger Tola, Rizwikhan, Jaunpur, Uttar Pradesh 222001",
+    "area": "Dhalger Tola, Rizwikhan",
+    "latitude": 25.750777499999998,
+    "longitude": 82.6903474,
+    "place_id": "ChIJkRnXQs07kDkR0qDvPNM9d8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRnXQs07kDkR0qDvPNM9d8k",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:00:33"
+  }
+]

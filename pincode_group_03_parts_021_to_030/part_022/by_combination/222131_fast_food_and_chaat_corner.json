@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "222131",
+    "phone_number": "+91 89328 25993",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "724, Raiya Gulgarganj, Uttar Pradesh 222135",
+    "area": "222131",
+    "latitude": 25.7152988,
+    "longitude": 82.5108145,
+    "place_id": "ChIJJUDKUSkXkDkRu1N008E8qBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUDKUSkXkDkRu1N008E8qBE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:11:56"
+  },
+  {
+    "business_name": "Vishal Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "222131",
+    "phone_number": "+91 96165 49030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur, Tekari, Uttar Pradesh 222135",
+    "area": "222131",
+    "latitude": 25.7149802,
+    "longitude": 82.50961989999999,
+    "place_id": "ChIJ7Ub7WT0XkDkRIn6ZQGM4CRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Ub7WT0XkDkRIn6ZQGM4CRI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:11:56"
+  }
+]

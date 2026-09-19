@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinod Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "222101",
+    "phone_number": "+91 75054 74433",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Narendra Katra, Main road, Shahganj, Uttar Pradesh 223101",
+    "area": "222101",
+    "latitude": 26.0545662,
+    "longitude": 82.6816066,
+    "place_id": "ChIJ1_r6kehbkDkRsEG2rEC8uaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_r6kehbkDkRsEG2rEC8uaQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:25"
+  },
+  {
+    "business_name": "Mahesh Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electrical repair shop, Electrical supply store",
+    "pincode": "222101",
+    "phone_number": "+91 94484 06665",
+    "website": "https://mahesh-electrical.grexa.site/",
+    "rating": 4.5,
+    "reviews_count": 82,
+    "address": "50/3 G K Temple Street, Lakshmana Rao Rd, Cross, Chickpet, Bengaluru, Karnataka 560053",
+    "area": "Basettypet, Cross, Chickpet",
+    "latitude": 12.9716772,
+    "longitude": 77.5750946,
+    "place_id": "ChIJU4-z1wgWrjsRHQI6czSWzOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4-z1wgWrjsRHQI6czSWzOM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monu auto garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Motorcycle parts store",
+    "pincode": "222141",
+    "phone_number": "+91 70391 29028",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J9J3+HMC Jila Jaunpur tahsil, Bandhava bajar tiloura Jaunpur machali, post, tilora gram, Machhali Shahar, Alapur Krishnarpan, Uttar Pradesh 222143",
+    "area": "post, tilora gram",
+    "latitude": 25.6314375,
+    "longitude": 82.3541875,
+    "place_id": "ChIJw-G9GAAFkDkRSgBCzy3lTxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-G9GAAFkDkRSgBCzy3lTxQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:39"
+  },
+  {
+    "business_name": "Pankaj Auto Work Shop Gaurabadshahpur",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "222141",
+    "phone_number": "+91 99196 16451",
+    "website": "http://www.pankaj.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "QRJC+596, Jaunpur - Azamgarh Rd, Jeoli Bazar, Gaurabadshahpur, Khania, Gaura, Uttar Pradesh 222133",
+    "area": "Jeoli Bazar, Gaurabadshahpur",
+    "latitude": 25.780413499999998,
+    "longitude": 82.82090579999999,
+    "place_id": "ChIJIalGHqg2kDkR3TXNMGcLmBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIalGHqg2kDkR3TXNMGcLmBg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:41"
+  }
+]

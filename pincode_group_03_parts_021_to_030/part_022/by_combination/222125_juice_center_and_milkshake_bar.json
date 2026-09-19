@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "222125",
+    "phone_number": "+91 83540 24377",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur, Majhgawan Kalan, Uttar Pradesh 222146",
+    "area": "222125",
+    "latitude": 25.598737999999997,
+    "longitude": 82.80994319999999,
+    "place_id": "ChIJcWum6D8vkDkRKCkNYJRFdYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWum6D8vkDkRKCkNYJRFdYM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:03:03"
+  },
+  {
+    "business_name": "Fruit Shop",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "222125",
+    "phone_number": "+91 84295 18922",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Politechnick Chuk, Rajgarh Colony, Olandganj, Umarpur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Rajgarh Colony, Olandganj",
+    "latitude": 25.739164,
+    "longitude": 82.67661389999999,
+    "place_id": "ChIJvXQQIsI7kDkRJPqrw8Y7lZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvXQQIsI7kDkRJPqrw8Y7lZU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:03:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahi Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "222138",
+    "phone_number": "+91 99182 12999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Parmanatpur, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Parmanatpur, Olandganj",
+    "latitude": 25.736000399999998,
+    "longitude": 82.68252009999999,
+    "place_id": "ChIJicXIlY47kDkR2LSTCfYL0xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicXIlY47kDkR2LSTCfYL0xM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:39"
+  },
+  {
+    "business_name": "Treat In Town",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "222138",
+    "phone_number": "+91 98737 60430",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Road, Line Bazaar Rd, opposite PWD DAK BANGLA Mahila Thana, Bhagawati Colony, Wazidpur, Kishunpur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Bhagawati Colony, Wazidpur",
+    "latitude": 25.729820399999998,
+    "longitude": 82.68791569999999,
+    "place_id": "ChIJIYCiBAU7kDkR9eebFai7jbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYCiBAU7kDkR9eebFai7jbg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:42"
+  }
+]

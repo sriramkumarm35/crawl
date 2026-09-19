@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAM PHOTOGRAPHY",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "222101",
+    "phone_number": "+91 79059 57624",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Siswa Bazar, Uttar Pradesh 273163",
+    "area": "222101",
+    "latitude": 27.1483426,
+    "longitude": 83.7574789,
+    "place_id": "ChIJPdSePJUFlDkRVx91Cl8Y3Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdSePJUFlDkRVx91Cl8Y3Z0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:39"
+  },
+  {
+    "business_name": "Akash Studio Pureon Jalalpur",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer",
+    "pincode": "222101",
+    "phone_number": "+91 99359 03562",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 14,
+    "address": "Petrol pamp ke bagal me, Pureon, Nawada, Nahora, Uttar Pradesh 222136",
+    "area": "Pureon",
+    "latitude": 25.604374099999998,
+    "longitude": 82.7228458,
+    "place_id": "ChIJ--2Aa5IlkDkRcKTquVbSzvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--2Aa5IlkDkRcKTquVbSzvo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:58:41"
+  }
+]

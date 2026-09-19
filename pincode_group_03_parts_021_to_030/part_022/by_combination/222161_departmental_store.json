@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Card departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222161",
+    "phone_number": "+91 97932 80870",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sadarganj, Mariahu, Dadara, Uttar Pradesh 222161",
+    "area": "Sadarganj",
+    "latitude": 25.6007599,
+    "longitude": 82.60218019999999,
+    "place_id": "ChIJ3diPcm0jkDkRA3cNCxkHq5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3diPcm0jkDkRA3cNCxkHq5U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:09"
+  },
+  {
+    "business_name": "Maa Shanti Traders",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222161",
+    "phone_number": "+91 70688 28277",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mehandiganj Shitalganj Road, Jaunpur, Kumbh, Uttar Pradesh 222161",
+    "area": "222161",
+    "latitude": 25.647609,
+    "longitude": 82.5947624,
+    "place_id": "ChIJ5fOXcIQjkDkRz2RyDZ-81bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fOXcIQjkDkRz2RyDZ-81bY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:40:09"
+  }
+]

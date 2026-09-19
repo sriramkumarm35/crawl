@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JXCR+RW9, Khujjhi, Uttar Pradesh 222149",
+    "area": "222149",
+    "latitude": 25.6220419,
+    "longitude": 82.9923683,
+    "place_id": "ChIJBSaczx7TkTkRKLG-hs9uWRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSaczx7TkTkRKLG-hs9uWRI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:38:48"
+  },
+  {
+    "business_name": "Avadhesh Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222149",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JXJ3+R49, Bakuliya, Kusarna, Uttar Pradesh 222149",
+    "area": "Bakuliya",
+    "latitude": 25.6320356,
+    "longitude": 82.95284439999999,
+    "place_id": "ChIJQcz_eQDTkTkRvv0Z2VF-A7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcz_eQDTkTkRvv0Z2VF-A7I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:38:48"
+  }
+]

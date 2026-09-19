@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AUM MEGA MART",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "222002",
+    "phone_number": "+91 96707 70000",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "BhupatiPatti near railway crossing, Van Vihar Rd, Jaunpur, Uttar Pradesh 222002",
+    "area": "Wazidpur",
+    "latitude": 25.726796399999998,
+    "longitude": 82.6806308,
+    "place_id": "ChIJZbkvMO3ljzkROhCQNm-JX5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbkvMO3ljzkROhCQNm-JX5Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:46"
+  },
+  {
+    "business_name": "CITY CENTRE MALL N",
+    "search_category": "Malls",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "222002",
+    "phone_number": "+91 78270 68325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CITY CENTRE MALL, near Rajesh Kumar Mahavidya, Jaunpur, Kohara Sultanpur, Uttar Pradesh 222132",
+    "area": "222002",
+    "latitude": 25.7752521,
+    "longitude": 82.6426819,
+    "place_id": "ChIJmZqUvTk_kDkRBj8IHoIf5uM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZqUvTk_kDkRBj8IHoIf5uM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:55:49"
+  }
+]

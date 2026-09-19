@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramdahin sweets and restaurant (since 1970)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221717",
+    "phone_number": "+91 94158 30451",
+    "website": "http://www.ramdahin.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "23M4+R6R bus stand, Chakkha, Sikandarpur, Uttar Pradesh 277303",
+    "area": "Chakkha",
+    "latitude": 26.0336051,
+    "longitude": 84.0554396,
+    "place_id": "ChIJhxbcwWBEkjkRcx7g-LLWm0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxbcwWBEkjkRcx7g-LLWm0Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:00"
+  },
+  {
+    "business_name": "Ksheer Sagar Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "new market, Sikandarpur, Uttar Pradesh 277303",
+    "area": "221717",
+    "latitude": 26.040091699999998,
+    "longitude": 84.0543491,
+    "place_id": "ChIJVSzzfF5EkjkRxdqZbqRznmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSzzfF5EkjkRxdqZbqRznmc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:49:02"
+  }
+]

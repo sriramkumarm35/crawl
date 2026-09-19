@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Market®",
+    "search_category": "Provision Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, ATM",
+    "pincode": "222101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "JWRC+63F, Saraibiru, Kerakat, Uttar Pradesh 222142",
+    "area": "222101",
+    "latitude": 25.6405626,
+    "longitude": 82.92016199999999,
+    "place_id": "ChIJKVpZMdrSkTkRekgChV8M45I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVpZMdrSkTkRekgChV8M45I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:57:36"
+  },
+  {
+    "business_name": "Patanjali Vikraya Kendra",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "nearState bank, Civil Lines Rd, Husainabad, Jaunpur, Uttar Pradesh 222180",
+    "area": "Husainabad",
+    "latitude": 25.735782399999998,
+    "longitude": 82.694813,
+    "place_id": "ChIJs5kAL6M7kDkR0wJ1X9Gw5jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5kAL6M7kDkR0wJ1X9Gw5jw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:57:37"
+  }
+]

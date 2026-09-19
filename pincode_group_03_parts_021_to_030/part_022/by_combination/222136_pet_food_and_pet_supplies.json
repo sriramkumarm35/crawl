@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Foods Emporium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "222136",
+    "phone_number": "+91 95407 92366",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post-Pureon, Meghpur, Uttar Pradesh 222136",
+    "area": "222136",
+    "latitude": 25.5935947,
+    "longitude": 82.7387601,
+    "place_id": "ChIJZ6sFcSwvkDkRp31ag7I5Gq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6sFcSwvkDkRp31ag7I5Gq4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:01"
+  },
+  {
+    "business_name": "श्री देव पशु आहार केन्द्र 🐄",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "222136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQF3+H8Q, Devnagar, Ghosanw, Ghusanw, Uttar Pradesh 222136",
+    "area": "Devnagar",
+    "latitude": 25.573903599999998,
+    "longitude": 82.753495,
+    "place_id": "ChIJyWAAcgApkDkRUOOB7OGTcUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWAAcgApkDkRUOOB7OGTcUs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:19:01"
+  }
+]

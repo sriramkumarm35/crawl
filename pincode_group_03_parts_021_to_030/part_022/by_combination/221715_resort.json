@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ND Hotel & Restaurant",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "221715",
+    "phone_number": "+91 70070 52806",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 39,
+    "address": "5V44+FVC, Chandan Patti Nirbhaipur, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.1561915,
+    "longitude": 83.85714209999999,
+    "place_id": "ChIJM-dDZAA3kjkRZiNu4yfB1og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-dDZAA3kjkRZiNu4yfB1og",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:46:28"
+  },
+  {
+    "business_name": "HOTEL PRATAP INN",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "221715",
+    "phone_number": "+91 93716 85555",
+    "website": "https://hotelpratapinn.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "BITHUA GALI, Railway Station Rd, near BUS, Belthara Road, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.1170577,
+    "longitude": 83.849328,
+    "place_id": "ChIJDd4DXAA3kjkRFUoZ4bZ5ocM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDd4DXAA3kjkRFUoZ4bZ5ocM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:46:29"
+  }
+]

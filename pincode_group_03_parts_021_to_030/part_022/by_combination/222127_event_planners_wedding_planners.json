@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Event",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "222127",
+    "phone_number": "+91 81759 51441",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaiswal nagar, near Shivansh tradeing company, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "222127",
+    "latitude": 25.68181,
+    "longitude": 82.4087909,
+    "place_id": "ChIJ42YRemgRkDkRcHfS6I7k3vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42YRemgRkDkRcHfS6I7k3vU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:07:31"
+  },
+  {
+    "business_name": "Maddy Events Planner (Creating Your Memories)",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "222127",
+    "phone_number": "+91 83474 09529",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 50,
+    "address": "Anand Baug Society, Tarsali, Vadodara, Gujarat 390009",
+    "area": "Anand Baug Society, Tarsali",
+    "latitude": 22.256295599999998,
+    "longitude": 73.2069569,
+    "place_id": "ChIJmx8ViC3FXzkRtqe51JxE6Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmx8ViC3FXzkRtqe51JxE6Nc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:07:34"
+  }
+]

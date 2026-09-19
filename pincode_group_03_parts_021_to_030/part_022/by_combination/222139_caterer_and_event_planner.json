@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Tent House",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Tent House Supplier",
+    "all_categories": "Tent House Supplier",
+    "pincode": "222139",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunpur - Azamgarh Rd, Gaurabadshahpur, Bamaila, Uttar Pradesh 222133",
+    "area": "Gaurabadshahpur",
+    "latitude": 25.7762142,
+    "longitude": 82.80419119999999,
+    "place_id": "ChIJaSyQt7Y2kDkRM6WpHebjVW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSyQt7Y2kDkRM6WpHebjVW0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:25:21"
+  },
+  {
+    "business_name": "ANSH SWEETS HOUSH",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "222139",
+    "phone_number": "+91 74579 20206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2J4X+5WX ANSH SWEETS HOUSH, RANIMSU, Ranimau, Sithuapara, Uttar Pradesh 222139",
+    "area": "RANIMSU",
+    "latitude": 26.005485399999998,
+    "longitude": 82.6498632,
+    "place_id": "ChIJZbdSdydFkDkRuIjrME4plDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbdSdydFkDkRuIjrME4plDQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:25:24"
+  }
+]

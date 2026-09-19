@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunwar Singh Chauhan",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "222142",
+    "phone_number": "+91 76076 62452",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Chakararet dhab, Narhan, Uttar Pradesh 222149",
+    "area": "222142",
+    "latitude": 25.6251087,
+    "longitude": 82.9313323,
+    "place_id": "ChIJIyzHElvTkTkRC3XpkVjxVaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyzHElvTkTkRC3XpkVjxVaM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:18"
+  },
+  {
+    "business_name": "Rama Homoeo Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "222142",
+    "phone_number": "+91 79851 01048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Station Road, in front of government hospital, Kerakat, Uttar Pradesh 222142",
+    "area": "222142",
+    "latitude": 25.6428419,
+    "longitude": 82.9174776,
+    "place_id": "ChIJaWeSwrPTkTkR6X8_IvZ9DVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWeSwrPTkTkR6X8_IvZ9DVk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:28:19"
+  }
+]

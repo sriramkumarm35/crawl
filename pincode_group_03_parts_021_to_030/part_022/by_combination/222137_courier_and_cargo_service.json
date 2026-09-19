@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJ ONLINE CAFE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Cell phone accessory store",
+    "pincode": "222137",
+    "phone_number": "+91 79052 80122",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "MAIN ROAD, near UNION BANK, Rampur, Sahanpur, Uttar Pradesh 222203",
+    "area": "222137",
+    "latitude": 25.4767638,
+    "longitude": 82.5693032,
+    "place_id": "ChIJWQAcZKchkDkRDzVTXihoXOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQAcZKchkDkRDzVTXihoXOQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:09"
+  },
+  {
+    "business_name": "Jamalapur Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "222137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "GHWP+633, Sukhlal Gunj, Ojhapur, Jamalapur, Uttar Pradesh 222137",
+    "area": "Sukhlal Gunj",
+    "latitude": 25.5455237,
+    "longitude": 82.5851663,
+    "place_id": "ChIJFXxkx78hkDkRMumPTb9WC7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXxkx78hkDkRMumPTb9WC7Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:09"
+  }
+]

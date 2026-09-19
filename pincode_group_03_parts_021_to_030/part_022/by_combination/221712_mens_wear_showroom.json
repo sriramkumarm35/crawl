@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brand Planet Clothing",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "221712",
+    "phone_number": "+91 81303 01785",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor,Saroj Tower 3, beside Pizza Garage, in front of Saroj Royal Academy, Rasra, Uttar Pradesh 221712",
+    "area": "221712",
+    "latitude": 25.861932499999998,
+    "longitude": 83.84953999999999,
+    "place_id": "ChIJzV0qtzMVkjkRidSJ5h6m7xU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzV0qtzMVkjkRidSJ5h6m7xU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:42:15"
+  },
+  {
+    "business_name": "GOYAL DRESSES & SCHOOL DRESS",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store, Tuxedo shop, Underwear store",
+    "pincode": "221712",
+    "phone_number": "+91 93350 12593",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Purani Bank Gali, Rasra, Uttar Pradesh 221712",
+    "area": "221712",
+    "latitude": 25.8575597,
+    "longitude": 83.85481279999999,
+    "place_id": "ChIJf1xz9uYVkjkRJz4oinjsftw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1xz9uYVkjkRJz4oinjsftw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:42:16"
+  }
+]

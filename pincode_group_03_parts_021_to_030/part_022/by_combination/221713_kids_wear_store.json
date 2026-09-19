@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inyu Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby clothing store, Baby store, Childrens Store, Clothes market, Clothing manufacturer, Clothing store, Clothing supplier, Dress store",
+    "pincode": "221713",
+    "phone_number": "+91 79073 88255",
+    "website": "http://www.inyu.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MS PLAZA, PUTHENPALLY SERVICE ROAD LANE, NH BYPASS, Poonthura, Thiruvananthapuram, Kerala 695026",
+    "area": "Karimbuvila, Poonthura",
+    "latitude": 8.447987399999999,
+    "longitude": 76.94884809999999,
+    "place_id": "ChIJh-r4y7S7BTsR9MZygsvrkfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-r4y7S7BTsR9MZygsvrkfU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:44:01"
+  },
+  {
+    "business_name": "Harsh Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "221713",
+    "phone_number": "+91 90361 99898",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No. 1, Market Complex, New Fort,, Broadway, Durgad Bail, New Hubli, Hubballi, Karnataka 580020",
+    "area": "Durgad Bail, New Hubli",
+    "latitude": 15.3446816,
+    "longitude": 75.143594,
+    "place_id": "ChIJQQPgMWbXuDsRSQE1zeR_-wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQPgMWbXuDsRSQE1zeR_-wU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:44:01"
+  }
+]

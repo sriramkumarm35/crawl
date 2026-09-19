@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonahita Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "222141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Q9JW+6MW PS, Jangipur - Sujanganj Rd, Sonahita, Uttar Pradesh 222144",
+    "area": "222141",
+    "latitude": 25.780617,
+    "longitude": 82.3967108,
+    "place_id": "ChIJVVVVVXASkDkRw5kqm-ACkgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVXASkDkRw5kqm-ACkgo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:10"
+  },
+  {
+    "business_name": "SS Fish Farm",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "222141",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarai bhogi, Jaunpur, Uttar Pradesh 222201",
+    "area": "222141",
+    "latitude": 25.766087799999998,
+    "longitude": 82.32625709999999,
+    "place_id": "ChIJ3_bXrqoNkDkR8OdsMGlTwqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_bXrqoNkDkR8OdsMGlTwqc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:12"
+  }
+]

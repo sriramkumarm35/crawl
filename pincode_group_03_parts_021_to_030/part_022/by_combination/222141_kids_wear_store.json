@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Sabjji Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "222141",
+    "phone_number": "+91 84007 90380",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VHG4 P5W, Jaunpur, Leduka, Uttar Pradesh 222109",
+    "area": "222141",
+    "latitude": 25.877064299999997,
+    "longitude": 82.55538159999999,
+    "place_id": "ChIJY0LoFMhrkDkR4MV4Gx-oZkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0LoFMhrkDkR4MV4Gx-oZkc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:24"
+  },
+  {
+    "business_name": "Shivay Collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "222141",
+    "phone_number": "+91 98074 84339",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main market, nearby Hanuman Mandir, Badlapur, Uttar Pradesh 222125",
+    "area": "222141",
+    "latitude": 25.8909997,
+    "longitude": 82.45260929999999,
+    "place_id": "ChIJTymYPXltkDkRsUU_ftvzNw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTymYPXltkDkRsUU_ftvzNw8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:26:24"
+  }
+]

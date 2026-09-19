@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari Tent House",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "221706",
+    "phone_number": "+91 94522 80275",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post, Kanso, Jakaria, Uttar Pradesh 221712",
+    "area": "221706",
+    "latitude": 25.9000602,
+    "longitude": 83.81857269999999,
+    "place_id": "ChIJAQAAACcWkjkRCsJNgrcdQoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAACcWkjkRCsJNgrcdQoc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:37:52"
+  },
+  {
+    "business_name": "KUSUM EVENTS NAGRA",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "221706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagra ballia Nikasi Nagra, Uttar Pradesh 221711",
+    "area": "221706",
+    "latitude": 25.9651912,
+    "longitude": 83.7962539,
+    "place_id": "ChIJY1BYIvY9kjkRmC9OEMUmbhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1BYIvY9kjkRmC9OEMUmbhk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:37:52"
+  }
+]

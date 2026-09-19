@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Triloki Nath Kerana Store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "222001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 20,
+    "address": "Malhani Marg, Shekh Mohamid, Jaunpur, Jamin Abdul Quadir, Uttar Pradesh 222001",
+    "area": "Shekh Mohamid",
+    "latitude": 25.758316999999998,
+    "longitude": 82.6844043,
+    "place_id": "ChIJuRTqw9Y7kDkRre4BDFoJ5pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRTqw9Y7kDkRre4BDFoJ5pU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:04"
+  },
+  {
+    "business_name": "MS Trading Online Service center Jaunpur",
+    "search_category": "Shops",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Aadhaar center, Ticket office",
+    "pincode": "222001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mohd Hassan Market, Firosehpur, Budhkarpur, Jaunpur, Jamin Abdul Quadir, Uttar Pradesh 222001",
+    "area": "Firosehpur, Budhkarpur",
+    "latitude": 25.760157799999998,
+    "longitude": 82.6884501,
+    "place_id": "ChIJCRFJwDs7kDkRjuQ322nddws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCRFJwDs7kDkRjuQ322nddws",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:54:07"
+  }
+]

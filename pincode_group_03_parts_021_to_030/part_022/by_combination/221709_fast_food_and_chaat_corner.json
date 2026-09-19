@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Puchkka (NP Food Court)",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 232,
+    "address": "Main Road, opposite Chunnilal Mega mart, Civil Lines, Buxar, Bihar 802101",
+    "area": "Civil Lines",
+    "latitude": 25.5761759,
+    "longitude": 83.98188429999999,
+    "place_id": "ChIJfUnzrZh1kjkRZquEANApE6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUnzrZh1kjkRZquEANApE6E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:51"
+  },
+  {
+    "business_name": "Dhaarmendra chat center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "X5H9+6P8, Jamin Kakarghatti, Uttar Pradesh 277207",
+    "area": "221709",
+    "latitude": 25.978047,
+    "longitude": 84.16933159999999,
+    "place_id": "ChIJh4MsAOtdkjkRr7G1cKVOcN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4MsAOtdkjkRr7G1cKVOcN0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:38:52"
+  }
+]

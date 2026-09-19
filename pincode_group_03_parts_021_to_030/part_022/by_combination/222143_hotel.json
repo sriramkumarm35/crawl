@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO Shreyansh Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "222143",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/292950/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Prayagraj to gorakhpur road, toll, Kunwarpur, Uttar Pradesh 222202",
+    "area": "toll",
+    "latitude": 25.6747624,
+    "longitude": 82.32643449999999,
+    "place_id": "ChIJ4Tcs8wcPkDkR8BMoGEKArbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Tcs8wcPkDkR8BMoGEKArbU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:30:41"
+  },
+  {
+    "business_name": "Shiv shakti Kerana Merchant",
+    "search_category": "Hotel",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "222143",
+    "phone_number": "+91 97920 36356",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "MCQ4+8MR, Shukla Gali, Sadik Ganj, Machhali Shahar, Uttar Pradesh 222143",
+    "area": "Sadik Ganj",
+    "latitude": 25.688352,
+    "longitude": 82.40663239999999,
+    "place_id": "ChIJx9nmuDkQkDkRzhv3ljzWDI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9nmuDkQkDkRzhv3ljzWDI8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:30:43"
+  }
+]

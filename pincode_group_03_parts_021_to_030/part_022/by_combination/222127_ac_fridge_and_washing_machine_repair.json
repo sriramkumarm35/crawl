@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.D.Solutions",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "222127",
+    "phone_number": "+91 62908 45539",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 197,
+    "address": "New Garia Sta Rdp, Sreenagar West, New Garia, Pancha Sayar, Kolkata, Rajpur Sonarpur, West Bengal 700094",
+    "area": "Sreenagar West, New Garia, Pancha Sayar",
+    "latitude": 22.4698383,
+    "longitude": 88.40132969999999,
+    "place_id": "ChIJS4dO-XdzAjoRbil5XSfZJHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4dO-XdzAjoRbil5XSfZJHM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:07:20"
+  },
+  {
+    "business_name": "Fast Cooling Solution",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Refrigerator repair service",
+    "pincode": "222127",
+    "phone_number": "+91 86174 31182",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 295,
+    "address": "Lane Number 2, Biman Nagar Rd, Biman Nagar, Kaikhali, Kolkata, West Bengal 700052",
+    "area": "Biman Nagar, Kaikhali",
+    "latitude": 22.629293999999998,
+    "longitude": 88.4401749,
+    "place_id": "ChIJV9e88fOf-DkRnVsy4Exon50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV9e88fOf-DkRnVsy4Exon50",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:07:21"
+  }
+]

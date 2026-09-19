@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal And Son's Kirana Store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Market, Indian grocery store",
+    "pincode": "221712",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "109, Main Road, Dubihan, Kharhara, Uttar Pradesh 233225",
+    "area": "221712",
+    "latitude": 25.755869099999998,
+    "longitude": 83.8699816,
+    "place_id": "ChIJ4UQGpRUTkjkRoAuARmOU8D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UQGpRUTkjkRoAuARmOU8D4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:42:00"
+  },
+  {
+    "business_name": "Hoisci Organic private limited",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetic Products Manufacturer",
+    "all_categories": "Cosmetic Products Manufacturer, Beauty product supplier, Cosmetics store, Cosmetics wholesaler, Delivery service, Service establishment, Manufacturer",
+    "pincode": "221712",
+    "phone_number": "+91 92895 02684",
+    "website": "http://www.hoisciorganic.com/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Hoisci Organic private limited, 221712, India",
+    "area": "221712",
+    "latitude": 25.8582766,
+    "longitude": 83.8582778,
+    "place_id": "ChIJeXvL6o4RkjkRYxXDToaq0Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeXvL6o4RkjkRYxXDToaq0Ww",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:42:02"
+  }
+]

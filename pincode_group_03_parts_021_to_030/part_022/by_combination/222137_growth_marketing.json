@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "codezen",
+    "search_category": "Growth Marketing",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "222137",
+    "phone_number": "+91 81608 83497",
+    "website": "https://codezen.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "codezen, 222137, India",
+    "area": "222137",
+    "latitude": 24.3775534,
+    "longitude": 75.4427722,
+    "place_id": "ChIJhfWDLj-GykERDCb5wuKTRrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfWDLj-GykERDCb5wuKTRrM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:22"
+  },
+  {
+    "business_name": "Growth Bringer Marketing Agency",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "222137",
+    "phone_number": "+91 88877 07682",
+    "website": "https://growthbringer.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Growth Bringer Marketing Agency, 222137, India",
+    "area": "222137",
+    "latitude": 26.567455499999998,
+    "longitude": 80.67163939999999,
+    "place_id": "ChIJcx-8nKE6v2QRcQiCzh60l5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx-8nKE6v2QRcQiCzh60l5w",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:22:25"
+  }
+]

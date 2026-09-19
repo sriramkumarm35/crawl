@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjeet Furniture Shop",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "222105",
+    "phone_number": "+91 99185 00818",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "305 Gahora Ramdiyalganj Jaunpur Uttar Pradesh Pachokhar, Road, Ramdayal Ganj, Uttar Pradesh 222105",
+    "area": "222105",
+    "latitude": 25.6939548,
+    "longitude": 82.63837989999999,
+    "place_id": "ChIJG3wi3BI9kDkRoYPAmDAbW-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3wi3BI9kDkRoYPAmDAbW-U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:00:17"
+  },
+  {
+    "business_name": "Yatharth Furniture & Electronics Mart Ajoshi Ganapur Jaunpur",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Electronics store",
+    "pincode": "222105",
+    "phone_number": "+91 82184 81990",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Ajoshi-Ganapur Marg, Ajoshi Mariyanhu, Uttar Pradesh 222161",
+    "area": "222105",
+    "latitude": 25.684534,
+    "longitude": 82.567937,
+    "place_id": "ChIJwUuh04E9kDkRokFtRKxnS1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUuh04E9kDkRokFtRKxnS1o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:00:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mahindra auto",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "222149",
+    "phone_number": "N/A",
+    "website": "https://auto.mahindra.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "JWR8+6C3, SH36, Saraibiru, Kerakat, Uttar Pradesh 222142",
+    "area": "222149",
+    "latitude": 25.640504399999998,
+    "longitude": 82.9160512,
+    "place_id": "ChIJz29gpLzTkTkRljmT4-OiUJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz29gpLzTkTkRljmT4-OiUJg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:39:02"
+  },
+  {
+    "business_name": "Madern Auto Parts And Lubricants",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Auto parts store",
+    "pincode": "222149",
+    "phone_number": "+91 87958 62189",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Surakpur Koirali, Uttar Pradesh 222148",
+    "area": "222149",
+    "latitude": 25.671710599999997,
+    "longitude": 83.0281093,
+    "place_id": "ChIJ6czKUs7RkTkRWQ0aN0YckzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6czKUs7RkTkRWQ0aN0YckzE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:39:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice and Shake Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "222129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "J24P+H4C, Azad Hind Fauj Marg, Kakrola, Chandra Park, Dwarka, Delhi, 110078",
+    "area": "Kakrola, Chandra Park, Dwarka",
+    "latitude": 28.606434099999998,
+    "longitude": 77.0352657,
+    "place_id": "ChIJjW7aMDUFDTkR7yQyvVlMf6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjW7aMDUFDTkR7yQyvVlMf6E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:10:10"
+  },
+  {
+    "business_name": "Juice Scoops",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "222129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3, Ambedkar Nagar, Prayagraj, Uttar Pradesh 211008",
+    "area": "Ambedkar Nagar",
+    "latitude": 25.406281,
+    "longitude": 81.8681867,
+    "place_id": "ChIJj8dyQzJLhTkRTEaafDNmNHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8dyQzJLhTkRTEaafDNmNHE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:10:11"
+  }
+]

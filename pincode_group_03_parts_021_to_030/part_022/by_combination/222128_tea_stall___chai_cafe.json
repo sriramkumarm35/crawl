@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea lover",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "222128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Tilakdhari College Rd, Husainabad, Jaunpur, Uttar Pradesh 222002",
+    "area": "Husainabad",
+    "latitude": 25.7373747,
+    "longitude": 82.687477,
+    "place_id": "ChIJ7_qqhvs7kDkRxhlB-rQbjXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_qqhvs7kDkRxhlB-rQbjXI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:24"
+  },
+  {
+    "business_name": "Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "222128",
+    "phone_number": "+91 99199 64171",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashish, Jaunpur, Bardah, Uttar Pradesh 276301",
+    "area": "222128",
+    "latitude": 25.8103165,
+    "longitude": 82.85548059999999,
+    "place_id": "ChIJ6bXCepI1kDkRE5dbJdcAA9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bXCepI1kDkRE5dbJdcAA9M",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:08:25"
+  }
+]

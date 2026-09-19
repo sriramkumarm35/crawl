@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandee Jee Caterer",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "221709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q5G3+6QX, Bishnipur Rd, Bahadurpur, Ballia, Tikhampur, Uttar Pradesh 277001",
+    "area": "Bahadurpur",
+    "latitude": 25.7756008,
+    "longitude": 84.1544856,
+    "place_id": "ChIJt43rpfBkkjkRXlwt5qET5IQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt43rpfBkkjkRXlwt5qET5IQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:37"
+  },
+  {
+    "business_name": "Mahamaya caterer",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Caterer, Wedding planner",
+    "pincode": "221709",
+    "phone_number": "+91 76028 16727",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Deulpota, Babupur, Haldia, West Bengal 721658",
+    "area": "Deulpota",
+    "latitude": 22.1679584,
+    "longitude": 88.0901233,
+    "place_id": "ChIJOWWfd-HzAjoROi2mbC_Or78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWWfd-HzAjoROi2mbC_Or78",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:39:37"
+  }
+]

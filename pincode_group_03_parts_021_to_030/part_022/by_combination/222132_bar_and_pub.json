@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subham Pani Puri",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "222132",
+    "phone_number": "+91 96961 65812",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaunput, Jaunpur, Uttar Pradesh 222132",
+    "area": "222132",
+    "latitude": 25.759328399999998,
+    "longitude": 82.6215582,
+    "place_id": "ChIJi63Gjjo9kDkRDw2nk8NCZiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi63Gjjo9kDkRDw2nk8NCZiE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:44"
+  },
+  {
+    "business_name": "Dr Bhashkar Lal",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "222132",
+    "phone_number": "+91 96488 29358",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop, Street No. 1, Naiganj, Olandganj, Baraipur, Jaunpur, Uttar Pradesh 222002",
+    "area": "Naiganj, Olandganj",
+    "latitude": 25.737700399999998,
+    "longitude": 82.66826669999999,
+    "place_id": "ChIJMcP2fSk7kDkR8eIWXW-zBTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcP2fSk7kDkR8eIWXW-zBTA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:44"
+  }
+]

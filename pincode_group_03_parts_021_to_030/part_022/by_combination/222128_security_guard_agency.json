@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Security service",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "222128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramnagar Mariahu, Uttar Pradesh 222161",
+    "area": "222128",
+    "latitude": 25.5546269,
+    "longitude": 82.62198939999999,
+    "place_id": "ChIJsaJfJ08hkDkRUinoEoXYCJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaJfJ08hkDkRUinoEoXYCJ8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:42"
+  },
+  {
+    "business_name": "SIS Security",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "222128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "PMPF+595, Naiganj Rd, Mandi Ahmad Khan, Naiganj, Olandganj, Jaunpur, Uttar Pradesh 222002",
+    "area": "Mandi Ahmad Khan, Naiganj, Olandganj",
+    "latitude": 25.735384999999997,
+    "longitude": 82.6734768,
+    "place_id": "ChIJ9St0XBQ7kDkR6FGS8hfbKuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9St0XBQ7kDkR6FGS8hfbKuQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:09:42"
+  }
+]

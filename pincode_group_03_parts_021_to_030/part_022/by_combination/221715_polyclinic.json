@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life line polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221715",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "4V86+PX5, Dihawan, Uttar Pradesh 221715",
+    "area": "221715",
+    "latitude": 26.116767499999998,
+    "longitude": 83.8624992,
+    "place_id": "ChIJw8AsttI3kjkRnJ7AxBqe7Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8AsttI3kjkRnJ7AxBqe7Lo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:45:56"
+  },
+  {
+    "business_name": "New Geeta Medical Store",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "221715",
+    "phone_number": "+91 97954 49782",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "6X4C+H4V Bazar, road, Pindi - Lar Rd, Salempur, Lar, Uttar Pradesh 274502",
+    "area": "Salempur",
+    "latitude": 26.2062371,
+    "longitude": 83.97033859999999,
+    "place_id": "ChIJh7SO281LkjkRqjAXX0tGByY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7SO281LkjkRqjAXX0tGByY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:45:58"
+  }
+]

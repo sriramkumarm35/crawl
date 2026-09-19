@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zehra Cyber Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "222149",
+    "phone_number": "N/A",
+    "website": "http://zehracybercafe.com/",
+    "rating": 5,
+    "reviews_count": 106,
+    "address": "Tehsil Rd., near by nayera petrol pump, Dataganj, Arela Urf Dataganj, Uttar Pradesh 243635",
+    "area": "222149",
+    "latitude": 28.028422,
+    "longitude": 79.404986,
+    "place_id": "ChIJB-V-7gLjnzkRX4elu73WbH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-V-7gLjnzkRX4elu73WbH0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:39:41"
+  },
+  {
+    "business_name": "Banke bihari internet café",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Stationery store",
+    "pincode": "222149",
+    "phone_number": "+91 70370 65042",
+    "website": "https://bankebihariinternetcafeujhani.netlify.app/",
+    "rating": 5,
+    "reviews_count": 76,
+    "address": "House No. 314,Mohalla Sahukara, near Bihariji Temple, Ujhani, Uttar Pradesh 243639",
+    "area": "222149",
+    "latitude": 28.002606399999998,
+    "longitude": 79.00379099999999,
+    "place_id": "ChIJk_mjArc5dTkRpbRQli3R53k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_mjArc5dTkRpbRQli3R53k",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:39:41"
+  }
+]

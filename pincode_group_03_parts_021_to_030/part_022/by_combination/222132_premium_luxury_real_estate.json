@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Homes Jaipur",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "222132",
+    "phone_number": "N/A",
+    "website": "https://www.youtube.com/@LuxuryHomesJaipur",
+    "rating": null,
+    "reviews_count": null,
+    "address": "21, Gandhi Path Rd, West, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "West, Vaishali Nagar",
+    "latitude": 26.9036539,
+    "longitude": 75.6943058,
+    "place_id": "ChIJCX0DDPVLbDkRbapTS6Lel6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCX0DDPVLbDkRbapTS6Lel6o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:01"
+  },
+  {
+    "business_name": "Lali Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Business broker, Commercial agent, Commercial real estate agency, Condominium rental agency, Real Estate Builders & Construction Company, Office space rental agency, Property management company, Real estate consultant",
+    "pincode": "222132",
+    "phone_number": "+91 95300 55661",
+    "website": "https://laliproperties.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Malviya Marg, near to Agrasen Circle, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.9127352,
+    "longitude": 75.8039388,
+    "place_id": "ChIJUwvU6LO3bTkRQZYVByWq-ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwvU6LO3bTkRQZYVByWq-ZQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:15:02"
+  }
+]

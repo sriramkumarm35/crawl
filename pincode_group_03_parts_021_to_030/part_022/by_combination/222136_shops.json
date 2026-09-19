@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirsana Shop",
+    "search_category": "Shops",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "222136",
+    "phone_number": "+91 88539 48170",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jalalpur - Chawari Rd, Jalalpur, Mahimapur, Uttar Pradesh 222136",
+    "area": "Jalalpur",
+    "latitude": 25.6124624,
+    "longitude": 82.7646676,
+    "place_id": "ChIJDQja_zovkDkRq4rdrsnublM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDQja_zovkDkRq4rdrsnublM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:20:40"
+  },
+  {
+    "business_name": "Dheeraj Shop",
+    "search_category": "Shops",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "222136",
+    "phone_number": "+91 81879 47189",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jalalpur Bazar, Purenw, Uttar Pradesh 222136",
+    "area": "222136",
+    "latitude": 25.6037596,
+    "longitude": 82.7320311,
+    "place_id": "ChIJ5dFHjkclkDkR4_8_sxRGgj8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dFHjkclkDkR4_8_sxRGgj8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:20:42"
+  }
+]

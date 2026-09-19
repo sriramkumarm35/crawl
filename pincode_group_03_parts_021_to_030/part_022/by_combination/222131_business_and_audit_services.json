@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Accounting Firm, LLC",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Accountant, Bookkeeping service, Service establishment, Payroll Service Provider, Tax preparation service",
+    "pincode": "222131",
+    "phone_number": "N/A",
+    "website": "http://www.the-accounting-firm.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Accounting Firm, LLC, 222131, India",
+    "area": "222131",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJATaOJeSzt4kRfRmBCMQX584",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATaOJeSzt4kRfRmBCMQX584",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:14"
+  },
+  {
+    "business_name": "A.K.THUKRAL & CO",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "222131",
+    "phone_number": "+91 542 222 0601",
+    "website": "http://cathukral.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ARIHANT COMPLEX, D-64/127,C-H LOWER GROUND FLOOR, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Kamachcha, Sigra",
+    "latitude": 25.3110799,
+    "longitude": 82.986443,
+    "place_id": "ChIJAQAAQPktjjkRoQ6skE8ApY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQPktjjkRoQ6skE8ApY4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:14"
+  }
+]

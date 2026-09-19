@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electronics store",
+    "pincode": "222131",
+    "phone_number": "+91 83185 54612",
+    "website": "https://jaiswal-electricals.grexa.site/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Maya Bazar, Kotwali Road, Qazipur Khurd, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Qazipur Khurd",
+    "latitude": 26.748334699999997,
+    "longitude": 83.36336299999999,
+    "place_id": "ChIJzzI-AnJEkTkRSAxW_Dsx3R4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzI-AnJEkTkRSAxW_Dsx3R4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:12:31"
+  },
+  {
+    "business_name": "R.B LIGHT HOUSE",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "222131",
+    "phone_number": "+91 70913 18455",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kagzi Muhalla Rd, Kagzi Muhalla, Siwan, Bihar 841226",
+    "area": "Kagzi Muhalla",
+    "latitude": 26.2211309,
+    "longitude": 84.3570548,
+    "place_id": "ChIJQ9PCz-X9kjkRygJrwJRCY70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9PCz-X9kjkRygJrwJRCY70",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:12:31"
+  }
+]

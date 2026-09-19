@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Arabian Brand Rice",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "222132",
+    "phone_number": "N/A",
+    "website": "http://absgrocery.com/",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "575, APMC Yard, Yeshwanthpur Industrial Suburb, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "APMC Yard, Yeshwanthpur Industrial Suburb, Yeswanthpur",
+    "latitude": 13.0187347,
+    "longitude": 77.545208,
+    "place_id": "ChIJA5MVexg9rjsRYjJ5QQWmPAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5MVexg9rjsRYjJ5QQWmPAM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:34"
+  },
+  {
+    "business_name": "Fatehganj, Uttar Pradesh 222132",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "222132",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fatehganj, Uttar Pradesh",
+    "area": "222132",
+    "latitude": 25.747795099999998,
+    "longitude": 82.6159271,
+    "place_id": "ChIJ55lbgMs9kDkRV2LcCeRIaGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55lbgMs9kDkRV2LcCeRIaGI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 08:13:35"
+  }
+]
