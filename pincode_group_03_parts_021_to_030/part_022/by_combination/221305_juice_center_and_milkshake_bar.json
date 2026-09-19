@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Janta Ice Cream and Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "221305",
+    "phone_number": "+91 94283 99855",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Swapnalok Flats, 18-19, opp. Unnati Skating Ring, near Muktanand Circle, Teen Rasta, Kalyan Nagar, Karelibagh, Vadodara, Gujarat 390008",
+    "area": "Teen Rasta, Kalyan Nagar, Karelibagh",
+    "latitude": 22.3228066,
+    "longitude": 73.1970497,
+    "place_id": "ChIJL4YzTwDPXzkRYS4IZHuH0qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4YzTwDPXzkRYS4IZHuH0qg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:49:11"
+  },
+  {
+    "business_name": "Famous Neelkanth Juice Parlour",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "221305",
+    "phone_number": "+91 98791 81881",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop.no. 02, Eagle Apartment, Abbas Tyabji Rd, opp. Suba Elite hotel, next to SBI ATM, Jayesh Colony, Fatehgunj, Vadodara, Gujarat 390008",
+    "area": "Jayesh Colony, Fatehgunj",
+    "latitude": 22.3207155,
+    "longitude": 73.1882108,
+    "place_id": "ChIJcaEYjEnPXzkRag_bvvZnAaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaEYjEnPXzkRag_bvvZnAaU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:49:11"
+  }
+]

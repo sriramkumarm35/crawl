@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhattacharya's Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Bengali restaurant",
+    "all_categories": "Bengali restaurant, Breakfast restaurant, Chinese restaurant, Non Vegetarian Restaurant, North Indian restaurant",
+    "pincode": "221306",
+    "phone_number": "+91 83031 95414",
+    "website": "https://link.zomato.com/xqzv/rshare?id=9457242230563819",
+    "rating": 4.1,
+    "reviews_count": 996,
+    "address": "NEW SUNSHINE HOTEL, B5/49, Shivala, Varanasi, Uttar Pradesh 221001",
+    "area": "Shivala",
+    "latitude": 25.2961554,
+    "longitude": 83.00468389999999,
+    "place_id": "ChIJ36LSsvoxjjkRmzo__-f8_MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36LSsvoxjjkRmzo__-f8_MY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:03"
+  },
+  {
+    "business_name": "SARDAR JI TANDOORI GRILL",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "221306",
+    "phone_number": "+91 90901 61313",
+    "website": "https://www.instagram.com/p/C3xGGKrSASe/",
+    "rating": 4,
+    "reviews_count": 163,
+    "address": "Ravindrapuri Rd, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh 221010",
+    "area": "Anandbagh, Bhelupur",
+    "latitude": 25.2897935,
+    "longitude": 83.00169609999999,
+    "place_id": "ChIJgVbayYMxjjkR74hmMYu30Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVbayYMxjjkR74hmMYu30Po",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:04"
+  }
+]

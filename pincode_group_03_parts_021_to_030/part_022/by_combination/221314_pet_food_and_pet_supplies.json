@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SCOOBY PET WORLD",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Bird shop, Cat breeder, Cat cafe, Dog breeder, Dog cafe",
+    "pincode": "221314",
+    "phone_number": "+91 78742 13835",
+    "website": "https://www.instagram.com/scoobypetworld_?igsh=MWptNTU2ZmU0OGJzdw==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop Number-5, Geeta Shopping Centre, near Jaymala, Jaymala, Isanpur, Ahmedabad, Gujarat 382443",
+    "area": "Jaymala, Isanpur",
+    "latitude": 22.9842479,
+    "longitude": 72.60192649999999,
+    "place_id": "ChIJqVDZ7feFXjkRVTv-s5VYb2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVDZ7feFXjkRVTv-s5VYb2o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:03:24"
+  },
+  {
+    "business_name": "Scooby Pet Products (Margi Pet World)",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "221314",
+    "phone_number": "+91 84608 06908",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 103,
+    "address": "Shop no4, Madhuvan complex, Opp amrapali society, Behind vrajdham mandir, Manjalpur, Vadodara, Gujarat 390011",
+    "area": "Amrapali Society, Manjalpur",
+    "latitude": 22.275873999999998,
+    "longitude": 73.18479119999999,
+    "place_id": "ChIJbR_K1t_FXzkRvHovom53tWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbR_K1t_FXzkRvHovom53tWU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:03:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Subhash Dana Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "221405",
+    "phone_number": "+91 84188 83531",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sarwan Koiraut Bazar, Varanasi, Uttar Pradesh 221502",
+    "area": "221405",
+    "latitude": 25.340434,
+    "longitude": 82.92354999999999,
+    "place_id": "ChIJY1_CXRktjjkRyeOQYSXbGfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1_CXRktjjkRyeOQYSXbGfU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:11:55"
+  },
+  {
+    "business_name": "Sainik Smart Bazaar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "221405",
+    "phone_number": "+91 73909 29887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Kotwa Rd, Kotwa, Varanasi, Uttar Pradesh 221107",
+    "area": "Kotwa",
+    "latitude": 25.3398149,
+    "longitude": 82.9253447,
+    "place_id": "ChIJFbjwWgAtjjkR3VGpi04MidA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbjwWgAtjjkR3VGpi04MidA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:11:57"
+  }
+]

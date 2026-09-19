@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "221405",
+    "phone_number": "+91 94158 67996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jansa Bazar, Mechkanpur, Uttar Pradesh 221405",
+    "area": "221405",
+    "latitude": 25.3233075,
+    "longitude": 82.83372659999999,
+    "place_id": "ChIJicIFGBbSjzkRubhL2z69ZDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicIFGBbSjzkRubhL2z69ZDU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:22"
+  },
+  {
+    "business_name": "Aradhaya Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "221405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9R2W+J65, Rameshwar Rd, Jansa, Varanasi, Uttar Pradesh 221405",
+    "area": "221405",
+    "latitude": 25.3515212,
+    "longitude": 82.8456023,
+    "place_id": "ChIJdXa8LADTjzkRJSrclbEQ26E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXa8LADTjzkRJSrclbEQ26E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "1Call",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Service establishment",
+    "all_categories": "Service establishment, News service",
+    "pincode": "221601",
+    "phone_number": "N/A",
+    "website": "http://www.1call.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1Call, 221601, India",
+    "area": "221601",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJI4L04vFPfq8Rms-E2s8is30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4L04vFPfq8Rms-E2s8is30",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:29:49"
+  },
+  {
+    "business_name": "Business temp",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Temp agency",
+    "all_categories": "Temp agency, Service establishment",
+    "pincode": "221601",
+    "phone_number": "+91 96542 47104",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Business temp, 221601, India",
+    "area": "221601",
+    "latitude": 28.422601099999998,
+    "longitude": 76.9900807,
+    "place_id": "ChIJewyiWCXzAWMR7kW3PD3aIyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewyiWCXzAWMR7kW3PD3aIyg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:29:49"
+  }
+]

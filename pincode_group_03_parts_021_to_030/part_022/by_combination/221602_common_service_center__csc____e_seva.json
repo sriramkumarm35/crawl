@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Seva Kendra - CSC (डिजिटल सेवा केंद्र / जन सेवा केंद्र)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Social welfare center",
+    "pincode": "221602",
+    "phone_number": "+91 73096 08275",
+    "website": "https://csc.gov.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ballia - Sikanderpur Rd, Sukhpura, Uttar Pradesh 277304",
+    "area": "221602",
+    "latitude": 25.8557269,
+    "longitude": 84.0925498,
+    "place_id": "ChIJWc3JkOppkjkRmFRqpBbh7xQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWc3JkOppkjkRmFRqpBbh7xQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:11"
+  },
+  {
+    "business_name": "Mateshwari Jan Sewa Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "221602",
+    "phone_number": "+91 94524 25078",
+    "website": "https://mjsk.rf.gd/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ram Naath Nagar, Deoria, Uttar Pradesh 274001",
+    "area": "Ram Naath Nagar",
+    "latitude": 26.496151899999997,
+    "longitude": 83.77933469999999,
+    "place_id": "ChIJ-TvEoEDFkzkRxPtzdk5s2os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TvEoEDFkzkRxPtzdk5s2os",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:11"
+  }
+]

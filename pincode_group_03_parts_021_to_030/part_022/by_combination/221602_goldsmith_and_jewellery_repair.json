@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Saraswati Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "221602",
+    "phone_number": "N/A",
+    "website": "https://www.saraswatijewellers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near standard sonography, Matbarganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Matbarganj",
+    "latitude": 26.064053899999998,
+    "longitude": 83.1830335,
+    "place_id": "ChIJrZx8zLu9kTkRrxbN3MSln28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZx8zLu9kTkRrxbN3MSln28",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:13"
+  },
+  {
+    "business_name": "Om ji jeweller udharan bajar",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "221602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lohta rod Udharan bajar, Uttar Pradesh 221718",
+    "area": "221602",
+    "latitude": 26.0670593,
+    "longitude": 83.7699626,
+    "place_id": "ChIJKRBx0rw7kjkRA_di8HrXqwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRBx0rw7kjkRA_di8HrXqwY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:14"
+  }
+]

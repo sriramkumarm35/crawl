@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit's Digital Media House",
+    "search_category": "Media and Event",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "221507",
+    "phone_number": "+91 72751 55775",
+    "website": "https://www.hoteldigitalpro.com/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandpur Salori, 137/8A, Salori, Govindpur, Teliarganj, Prayagraj, Uttar Pradesh 211004",
+    "area": "Salori, Govindpur, Teliarganj",
+    "latitude": 25.486321999999998,
+    "longitude": 81.874961,
+    "place_id": "ChIJ5cKgDmEB50YRfWjNTsuG8yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cKgDmEB50YRfWjNTsuG8yc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:25:44"
+  },
+  {
+    "business_name": "Vidya Distributors",
+    "search_category": "Media and Event",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "221507",
+    "phone_number": "+91 77839 90539",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "340/292, 45/82, ShahGanj Electronics Ln, Johnston Ganj, Miurabad, Prayagraj, Uttar Pradesh 211003",
+    "area": "Johnston Ganj, Miurabad",
+    "latitude": 25.441253399999997,
+    "longitude": 81.8345847,
+    "place_id": "ChIJwxoi4c3KmjkRy4COqXZZjTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxoi4c3KmjkRy4COqXZZjTs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:25:45"
+  }
+]

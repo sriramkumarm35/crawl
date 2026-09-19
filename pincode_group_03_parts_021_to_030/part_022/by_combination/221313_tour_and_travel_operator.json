@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashi Dham Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221313",
+    "phone_number": "+91 95199 36669",
+    "website": "https://kashidhamtravels.com/",
+    "rating": 4.7,
+    "reviews_count": 124,
+    "address": "Plot no 445, Hariom Nagar Colony Rd, Samne Ghat, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Samne Ghat, Lanka",
+    "latitude": 25.269460499999997,
+    "longitude": 83.0112023,
+    "place_id": "ChIJ6-jNKQUxjjkRX0qdrfOYsOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-jNKQUxjjkRX0qdrfOYsOY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:09"
+  },
+  {
+    "business_name": "Trip Holidays Planner",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Business to business service, Car leasing service, Hotel, Sightseeing Tour Operator, Tour operator, Transportation service",
+    "pincode": "221313",
+    "phone_number": "+91 93053 20241",
+    "website": "http://tripholidaysplanner.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nepali Kothi, 20/51-3, near Radisson hotel, Varanasi cantonment, Varanasi, Uttar Pradesh 221002",
+    "area": "Varanasi cantonment",
+    "latitude": 25.3390344,
+    "longitude": 82.9803622,
+    "place_id": "ChIJycJiR28IOiURWeDeYqZ-HfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycJiR28IOiURWeDeYqZ-HfE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:10"
+  }
+]

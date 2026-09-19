@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Plumbing Service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "221505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FXQM+5QR Lucky Plumbing Service, Sahson Bazar, Sahson, Chanderpur Urf Busmahua, Uttar Pradesh 221507",
+    "area": "Sahson Bazar",
+    "latitude": 25.4879903,
+    "longitude": 81.9843836,
+    "place_id": "ChIJgW0j9gizmjkR_B7Wrf8qI1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW0j9gizmjkR_B7Wrf8qI1U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:23:31"
+  },
+  {
+    "business_name": "Vinayak Pipe and sanitary, Paints",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "221505",
+    "phone_number": "+91 98070 41517",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Naika, Uttar Pradesh 211019",
+    "area": "221505",
+    "latitude": 25.4104706,
+    "longitude": 81.9389889,
+    "place_id": "ChIJ0V_gZwBLhTkR6bo3_kBDRko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0V_gZwBLhTkR6bo3_kBDRko",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:23:32"
+  }
+]

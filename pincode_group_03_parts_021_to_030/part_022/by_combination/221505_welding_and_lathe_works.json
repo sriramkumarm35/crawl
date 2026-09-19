@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golu Engineering Workshop",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "221505",
+    "phone_number": "+91 99564 87739",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Allahabad Rd, Dulhapur, Bahadurpur, Uttar Pradesh 221505",
+    "area": "221505",
+    "latitude": 25.4230312,
+    "longitude": 81.99966859999999,
+    "place_id": "ChIJc3qHTCBNhTkRgnksBTWX9y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3qHTCBNhTkRgnksBTWX9y0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:24:15"
+  },
+  {
+    "business_name": "KAMAKHYA ENGINEERING REPAIRING CENTRE",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Welder",
+    "all_categories": "Welder, Metal fabricator",
+    "pincode": "221505",
+    "phone_number": "+91 97070 33231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "AK Dev Rd, Katahbari, Dhirenpara, Guwahati, Assam 781035",
+    "area": "Katahbari, Dhirenpara",
+    "latitude": 26.1179028,
+    "longitude": 91.7158752,
+    "place_id": "ChIJr30zkX1cWjcRRPfbs_AwCnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr30zkX1cWjcRRPfbs_AwCnk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:24:17"
+  }
+]

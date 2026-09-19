@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JSS SEA SHIP MARINE SERVICE LLP",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "221405",
+    "phone_number": "+91 94534 21833",
+    "website": "https://jssshiping.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ARAJI NO 331 BHAWANIPUR, LBS AIRPORT Vsi, Shivpur, Varanasi, Uttar Pradesh 221003",
+    "area": "Shivpur",
+    "latitude": 25.3526182,
+    "longitude": 82.9468631,
+    "place_id": "ChIJQTxQcC0tjjkRayQs4p3exk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTxQcC0tjjkRayQs4p3exk0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:13:21"
+  },
+  {
+    "business_name": "DTDC VINAYAKA",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "221405",
+    "phone_number": "+91 94152 22443",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 4,
+    "address": "12, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Maldahiya, Chetganj",
+    "latitude": 25.3264933,
+    "longitude": 82.99413679999999,
+    "place_id": "ChIJVVvBRzovjjkRvvoGcK4AETs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVvBRzovjjkRvvoGcK4AETs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:13:23"
+  }
+]

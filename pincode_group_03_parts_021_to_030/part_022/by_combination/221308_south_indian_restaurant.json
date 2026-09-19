@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramu sweet and Dosa corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221308",
+    "phone_number": "+91 79054 65970",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 218,
+    "address": "NH 19, Uperdaha, Police Chauke, Baraut, Birapur Kasaudhan, Uttar Pradesh 221502",
+    "area": "Uperdaha, Police Chauke",
+    "latitude": 25.3368449,
+    "longitude": 82.262626,
+    "place_id": "ChIJf5xqbeD5jzkRmTDlL9ixu6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5xqbeD5jzkRmTDlL9ixu6I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:54:39"
+  },
+  {
+    "business_name": "Chay panmasala",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Kerala restaurant",
+    "all_categories": "Kerala restaurant",
+    "pincode": "221308",
+    "phone_number": "+91 788 030 7808",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nirankat, Upardaha, Uttar Pradesh 221503",
+    "area": "Nirankat",
+    "latitude": 25.3582787,
+    "longitude": 82.2528975,
+    "place_id": "ChIJdxuR2kD5jzkRxJEkpCzMP9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxuR2kD5jzkRxJEkpCzMP9U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:54:39"
+  }
+]

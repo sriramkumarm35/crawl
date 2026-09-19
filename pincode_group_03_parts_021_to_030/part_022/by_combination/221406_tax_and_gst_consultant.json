@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tax Circle",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Tax preparation service",
+    "pincode": "221406",
+    "phone_number": "+91 95062 65660",
+    "website": "http://taxcircle.in/",
+    "rating": 4.9,
+    "reviews_count": 158,
+    "address": "Ambition Cowork, 90/11B, Malviya Nagar Rd, near Krishna Mandir, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Malviya Nagar",
+    "latitude": 28.5339803,
+    "longitude": 77.21449059999999,
+    "place_id": "ChIJ7QlOXLPjDDkR34iLWF-l-Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QlOXLPjDDkR34iLWF-l-Xg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:15:01"
+  },
+  {
+    "business_name": "Forcetax India LLP",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service",
+    "pincode": "221406",
+    "phone_number": "+91 95994 29742",
+    "website": "https://forcetax-india-llp.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WZ 62K, SS Mota Singh Marg, Possangipur, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Possangipur, Janakpuri",
+    "latitude": 28.6233692,
+    "longitude": 77.08297979999999,
+    "place_id": "ChIJQ7lR_SoFDTkRnEhqeiMNdKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7lR_SoFDTkRnEhqeiMNdKM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:15:02"
+  }
+]

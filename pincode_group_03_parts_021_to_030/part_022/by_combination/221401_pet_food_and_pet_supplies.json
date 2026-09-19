@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "221401",
+    "phone_number": "+91 788 722 0022",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "near nagar palika, Rizwikhan, Jaunpur, Uttar Pradesh 222001",
+    "area": "Rizwikhan",
+    "latitude": 25.7526102,
+    "longitude": 82.6879976,
+    "place_id": "ChIJd3lxu_87kDkREmReaXG9NZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3lxu_87kDkREmReaXG9NZA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:07"
+  },
+  {
+    "business_name": "Vicky Pet Food Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "221401",
+    "phone_number": "+91 81152 77422",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9HJ9+53P Ashvani Kumar Chaubey, Chedibeer, Bhadohi, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.380456,
+    "longitude": 82.56769919999999,
+    "place_id": "ChIJqUY9VgfejzkRAAAAMEdRLlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUY9VgfejzkRAAAAMEdRLlc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:07"
+  }
+]

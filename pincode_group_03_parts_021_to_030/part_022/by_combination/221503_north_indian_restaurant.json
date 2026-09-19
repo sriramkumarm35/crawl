@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NH2 FOOD PARK FAMILY RESTAURANT",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221503",
+    "phone_number": "+91 81979 42486",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 42,
+    "address": "VARANASI HIGHWAY, GOWSAIPUR, Prayagraj, Saidabad, Uttar Pradesh 221508",
+    "area": "GOWSAIPUR",
+    "latitude": 25.391881899999998,
+    "longitude": 82.07098839999999,
+    "place_id": "ChIJS0BdVgtThTkRfIwGdAKbj5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0BdVgtThTkRfIwGdAKbj5c",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:03"
+  },
+  {
+    "business_name": "The Indian Food Plaza",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Banquet hall, Fast food restaurant",
+    "pincode": "221503",
+    "phone_number": "+91 84004 00681",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "10/A, near Bank of Baroda, Daud Nagar, Naini Bazar, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Daud Nagar, Naini Bazar, Naini",
+    "latitude": 25.395632,
+    "longitude": 81.862692,
+    "place_id": "ChIJ9wXjPeI1hTkReep8iffON4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wXjPeI1hTkReep8iffON4c",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:05"
+  }
+]

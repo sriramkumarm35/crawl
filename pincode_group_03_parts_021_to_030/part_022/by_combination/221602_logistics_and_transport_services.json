@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Enterprises Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "221602",
+    "phone_number": "+91 98728 74082",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhi Colony, Barnala, Punjab 148101",
+    "area": "Lakhi Colony",
+    "latitude": 30.3595525,
+    "longitude": 75.5363069,
+    "place_id": "ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:35"
+  },
+  {
+    "business_name": "Royal Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "221602",
+    "phone_number": "+91 91185 01390",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 7,
+    "address": "WHW5+RWV, Qazi Tola, Keyari Tola, Astupura, Mau, Uttar Pradesh 275101",
+    "area": "Qazi Tola, Keyari Tola, Astupura",
+    "latitude": 25.9471243,
+    "longitude": 83.5597859,
+    "place_id": "ChIJMT4CMlKLkTkRfRxGw41l_ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMT4CMlKLkTkRfRxGw41l_ao",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sankat Mochan Telecom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "221602",
+    "phone_number": "+91 90441 20404",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WHW8+24G, Sindhi Colony, Chriayakot, Mau, Uttar Pradesh 275101",
+    "area": "Sindhi Colony, Chriayakot",
+    "latitude": 25.945064799999997,
+    "longitude": 83.5653281,
+    "place_id": "ChIJQWAcCfaKkTkRLR8U73GYWDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWAcCfaKkTkRLR8U73GYWDk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:11"
+  },
+  {
+    "business_name": "Mobile World",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "221602",
+    "phone_number": "+91 80096 17174",
+    "website": "https://sites.google.com/view/mobile-world-bltr/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, Gali Mobile Marcket, Belthara Road, Bhuari, Uttar Pradesh 221715",
+    "area": "221602",
+    "latitude": 26.1175459,
+    "longitude": 83.84576489999999,
+    "place_id": "ChIJIVkIPX4xkjkRswx2xPkbHZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVkIPX4xkjkRswx2xPkbHZ4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:12"
+  }
+]

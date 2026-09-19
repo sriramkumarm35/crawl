@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seraj Unique Fashion Point",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "221602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pani tanki, Rasulpur Adampur Urf R, Uttar Pradesh 221602",
+    "area": "221602",
+    "latitude": 26.138813199999998,
+    "longitude": 83.78459149999999,
+    "place_id": "ChIJsUg-RgAvkjkRJwJR-HbOQ5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUg-RgAvkjkRJwJR-HbOQ5A",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:38"
+  },
+  {
+    "business_name": "DK Pharma",
+    "search_category": "Shops",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "221602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4PGQ+WRX, Bahadurpur Rd, Ajorpur, Maryadpur, Marufpur, Uttar Pradesh 221602",
+    "area": "Ajorpur",
+    "latitude": 26.1273543,
+    "longitude": 83.739614,
+    "place_id": "ChIJeTzwXrgvkjkRnVqaubqfKrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTzwXrgvkjkRnVqaubqfKrA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:38"
+  }
+]

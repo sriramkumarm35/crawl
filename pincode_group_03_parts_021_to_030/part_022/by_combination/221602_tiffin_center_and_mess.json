@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mom's Kitchen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "221602",
+    "phone_number": "+91 81697 61084",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Saprgiri Apartment, Juhu Nagar, Sector 9, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Juhu Nagar, Sector 9, Vashi",
+    "latitude": 19.0767827,
+    "longitude": 72.9970745,
+    "place_id": "ChIJoQfkwC_B5zsRhq98hVcnWF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQfkwC_B5zsRhq98hVcnWF8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:05"
+  },
+  {
+    "business_name": "Tiffin Junction",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "221602",
+    "phone_number": "+91 83692 22734",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 72,
+    "address": "Metro pillar 104, Landmark, 102/ 13, New Bhardwadi, JP Rd, Andheri West, Mumbai, Maharashtra 400058",
+    "area": "Dhakoji Sethpada, Navneeth Colony, Andheri West",
+    "latitude": 19.126084,
+    "longitude": 72.8416867,
+    "place_id": "ChIJW8XB4s635zsRZXTy4A4CqvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8XB4s635zsRZXTy4A4CqvI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:05"
+  }
+]

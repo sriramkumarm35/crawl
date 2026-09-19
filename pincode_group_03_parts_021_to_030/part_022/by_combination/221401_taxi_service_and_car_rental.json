@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhi Travels Bhadohi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "221401",
+    "phone_number": "+91 93078 34455",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Indra mil Chauraha, Bhadohi, Uttar Pradesh 221401",
+    "area": "221401",
+    "latitude": 25.383630699999998,
+    "longitude": 82.5904735,
+    "place_id": "ChIJPWDPcnLfjzkRvsuSWPlSOkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWDPcnLfjzkRvsuSWPlSOkI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:38"
+  },
+  {
+    "business_name": "Gaurav Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221401",
+    "phone_number": "N/A",
+    "website": "https://www.gauravtravels.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "9HPM+97V rewda paraspur, Chauri Rd, Bhadohi, Uttar Pradesh 221401",
+    "area": "221401",
+    "latitude": 25.3859769,
+    "longitude": 82.5831779,
+    "place_id": "ChIJBXwuC5bfjzkRbwfR_mdIBOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXwuC5bfjzkRbwfR_mdIBOA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:38"
+  }
+]

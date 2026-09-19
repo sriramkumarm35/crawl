@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palak Ledies Beautiparlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "221313",
+    "phone_number": "+91 63882 21467",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar Vns Road, Babusarai Market, Uttar Pradesh 221502",
+    "area": "221313",
+    "latitude": 25.2584646,
+    "longitude": 82.6629533,
+    "place_id": "ChIJTV4fkLbFjzkREA679qr4Ge4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV4fkLbFjzkREA679qr4Ge4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:23"
+  },
+  {
+    "business_name": "Roshanimakeover",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Eyelash salon, Facial spa, Make-up artist, Hairdresser, Waxing hair removal service",
+    "pincode": "221313",
+    "phone_number": "+91 99358 78820",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kachhi, sariya Bhatavali road, Mirzapur, Bhatauli, Uttar Pradesh 231001",
+    "area": "Mirzapur",
+    "latitude": 25.1986545,
+    "longitude": 82.6739968,
+    "place_id": "ChIJ3fglr2fFjzkR1ToBqbUSdLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fglr2fFjzkR1ToBqbUSdLg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:24"
+  }
+]

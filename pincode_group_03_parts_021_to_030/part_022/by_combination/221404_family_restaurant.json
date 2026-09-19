@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Hotel and Restaurant, Suriyawan Bhadohi",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 21,
+    "address": "FC6H+3V7, Suriyawan, Uttar Pradesh 221404",
+    "area": "221404",
+    "latitude": 25.4607404,
+    "longitude": 82.43023749999999,
+    "place_id": "ChIJy4k5HADjjzkRr-MABivL-a4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4k5HADjjzkRr-MABivL-a4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:10:27"
+  },
+  {
+    "business_name": "Arfa Chicken Corner",
+    "search_category": "Family Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "221404",
+    "phone_number": "+91 95697 42119",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "no 26, Infront of pillar, House no 31, Grand Trunk Rd, Gopiganj, Uttar Pradesh 221303",
+    "area": "221404",
+    "latitude": 25.2846983,
+    "longitude": 82.4353872,
+    "place_id": "ChIJGX2PyJnljzkRKCfnEI7QWug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGX2PyJnljzkRKCfnEI7QWug",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:10:27"
+  }
+]

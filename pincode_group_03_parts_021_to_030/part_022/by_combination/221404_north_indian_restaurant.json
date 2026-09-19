@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shabri Rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dessert restaurant",
+    "pincode": "221404",
+    "phone_number": "+91 95582 45479",
+    "website": "https://kavachglobal.com/",
+    "rating": 4.8,
+    "reviews_count": 3494,
+    "address": "4th floor, Arundhati Bhavan West, cross road, Tedhi Bazar Rd, Police Line, Ayodhya, Uttar Pradesh 224123",
+    "area": "Police Line",
+    "latitude": 26.7864118,
+    "longitude": 82.1912388,
+    "place_id": "ChIJUze6Yr4HmjkREFM7Ow3TMHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUze6Yr4HmjkREFM7Ow3TMHg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:10:25"
+  },
+  {
+    "business_name": "The Silver Spoon ,Fine Dine Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221404",
+    "phone_number": "+91 87995 05050",
+    "website": "https://www.instagram.com/thesilverspoon.ayodhya?igsh=MTdmYnMwdTMxdXFrYw==&utm_source=qr",
+    "rating": 4.8,
+    "reviews_count": 217,
+    "address": "Naka Chungi - Kanti Nagar Rd, near Aditya vision, Durgapuri Colony, Naka, Faizabad, Uttar Pradesh 224001",
+    "area": "Durgapuri Colony, Naka",
+    "latitude": 26.759121999999998,
+    "longitude": 82.14198569999999,
+    "place_id": "ChIJnZ8yRLIJmjkRLjktjHRwGsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZ8yRLIJmjkRLjktjHRwGsA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:10:25"
+  }
+]

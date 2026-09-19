@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POS Billing Software",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "221601",
+    "phone_number": "+91 89432 29346",
+    "website": "https://www.posbillingsoftware.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The Paradise, 54 B, 4th East Street, Indira Nagar, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+    "area": "Indira Nagar, Kattupakkam",
+    "latitude": 13.0356597,
+    "longitude": 80.1261014,
+    "place_id": "ChIJ2YpawtBhUjoR05WN9G4NLUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YpawtBhUjoR05WN9G4NLUI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:29:27"
+  },
+  {
+    "business_name": "Aman Infosolutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Computer support and services",
+    "pincode": "221601",
+    "phone_number": "+91 141 261 4400",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C-13, Pratap Marg, Sethi Colony, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Sethi Colony",
+    "latitude": 26.904787,
+    "longitude": 75.8404,
+    "place_id": "ChIJVVUVM8O2bTkRmbSCC-PgiIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUVM8O2bTkRmbSCC-PgiIA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:29:29"
+  }
+]

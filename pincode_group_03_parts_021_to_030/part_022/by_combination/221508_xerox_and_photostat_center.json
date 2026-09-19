@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Krishna Computer Center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Business networking company",
+    "all_categories": "Business networking company",
+    "pincode": "221508",
+    "phone_number": "+91 95650 09987",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 10,
+    "address": "G5R9+C52, Pure Thakurain Ta.Barista, Uttar Pradesh 212402",
+    "area": "221508",
+    "latitude": 25.541016,
+    "longitude": 82.1678855,
+    "place_id": "ChIJYd2xkNOrmjkR7T1t5WCdr2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYd2xkNOrmjkR7T1t5WCdr2Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:39"
+  },
+  {
+    "business_name": "Flex printing service",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "221508",
+    "phone_number": "N/A",
+    "website": "https://gc-prayagraj.vercel.app/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Myorabad, Prayagraj, Uttar Pradesh 211002",
+    "area": "Myorabad",
+    "latitude": 25.4789124,
+    "longitude": 81.8456593,
+    "place_id": "ChIJuYehq6DLmjkRrd_jdHQzJWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYehq6DLmjkRrd_jdHQzJWs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamta path lab / Shivay Diagnostic centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "221311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7R6Q+5FQ, Raja Talab - Jakkhini Rd, near vps, Bangalipur, Uttar Pradesh 221311",
+    "area": "221311",
+    "latitude": 25.2609909,
+    "longitude": 82.8398534,
+    "place_id": "ChIJ4VH_TqjNjzkRfn5_qpyvz8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VH_TqjNjzkRfn5_qpyvz8Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:07"
+  },
+  {
+    "business_name": "Rajatalab",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "221311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Rajatalab, Uttar Pradesh 221311",
+    "area": "221311",
+    "latitude": 25.260156199999997,
+    "longitude": 82.846561,
+    "place_id": "ChIJYcsRYgDNjzkRT4evRDrzjBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcsRYgDNjzkRT4evRDrzjBA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:09"
+  }
+]

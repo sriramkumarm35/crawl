@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kumar Mobile",
+    "search_category": "Commercial Complex",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Housing complex",
+    "pincode": "221406",
+    "phone_number": "+91 70070 76298",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "81, Gyanpur, Uttar Pradesh 221304",
+    "area": "221406",
+    "latitude": 25.3402429,
+    "longitude": 82.4906096,
+    "place_id": "ChIJJcxTRqrnjzkRQ1TvQbN4Unc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJcxTRqrnjzkRQ1TvQbN4Unc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:15:26"
+  },
+  {
+    "business_name": "Jitendra Kumar Maurya",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "221406",
+    "phone_number": "+91 98892 27728",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Raya, Bhadohi, Uttar Pradesh 221401",
+    "area": "221406",
+    "latitude": 25.394409399999997,
+    "longitude": 82.5537496,
+    "place_id": "ChIJFQpd6qnOjzkRAAAAMBOZwE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQpd6qnOjzkRAAAAMBOZwE0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:15:26"
+  }
+]

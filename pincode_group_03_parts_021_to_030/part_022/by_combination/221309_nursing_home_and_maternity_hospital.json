@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurgaon Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221309",
+    "phone_number": "+91 124 400 2341",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 36,
+    "address": "53, 18, Shaheed Major Vikas Yadav Marg, opp. Housing Board Colony, Civil Lines, Gurugram, Haryana 122001",
+    "area": "Civil Lines",
+    "latitude": 28.457493499999998,
+    "longitude": 77.03584959999999,
+    "place_id": "ChIJf_RP5DcYDTkRlWdOeh-5PBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_RP5DcYDTkRlWdOeh-5PBY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:56:36"
+  },
+  {
+    "business_name": "REVIVE NURSING HOME",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Hospital",
+    "pincode": "221309",
+    "phone_number": "+91 33 6655 4433",
+    "website": "https://revivenursinghome.com/",
+    "rating": 4.8,
+    "reviews_count": 1033,
+    "address": "behind SBI, Jyangra, Baguiati, Kolkata, West Bengal 700159",
+    "area": "Jyangra, Baguiati",
+    "latitude": 22.611033499999998,
+    "longitude": 88.4290315,
+    "place_id": "ChIJq6qq-iWe-DkRKH1icr5h6Bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq-iWe-DkRKH1icr5h6Bg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:56:36"
+  }
+]

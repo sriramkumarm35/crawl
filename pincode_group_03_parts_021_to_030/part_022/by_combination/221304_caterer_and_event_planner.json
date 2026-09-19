@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gauri Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "221304",
+    "phone_number": "+91 82995 81434",
+    "website": "http://gauricaterers.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "119 124, Bamba Rd, Gumti No.5, Kaushalpuri, Darshan Purwa, Kanpur, Uttar Pradesh 208012",
+    "area": "Gumti No.5, Kaushalpuri, Darshan Purwa",
+    "latitude": 26.470349499999998,
+    "longitude": 80.3127678,
+    "place_id": "ChIJ-axnU384nDkRsXZ8BNS3S9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-axnU384nDkRsXZ8BNS3S9U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:48:20"
+  },
+  {
+    "business_name": "Navratan Caterers & Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Buffet restaurant, Children's party buffet, Sweets and dessert buffet, Event management company, Event planner, Food and beverage consultant, Party planner, Personal chef service, Wedding buffet",
+    "pincode": "221304",
+    "phone_number": "+91 98370 90473",
+    "website": "https://www.navratancaterersandevents.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No. 2, Dayal Bagh Rd, opposite Shanti Square, Vrindavan Market, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005",
+    "area": "Vrindavan Market, Indra Puri, New Agra Colony",
+    "latitude": 27.2134751,
+    "longitude": 78.0058294,
+    "place_id": "ChIJ57jMsDV3dDkRYo9Zz-yj3sM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57jMsDV3dDkRYo9Zz-yj3sM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:48:20"
+  }
+]

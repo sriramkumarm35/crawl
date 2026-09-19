@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Ji Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "221404",
+    "phone_number": "+91 89207 69482",
+    "website": "https://guru-ji-florist.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "gate no 3, Metro Station Tilak Nagar, Jail Rd, gollchakkar, Ashok Nagar, New Delhi, Delhi, 110018",
+    "area": "gollchakkar, Ashok Nagar",
+    "latitude": 28.6350962,
+    "longitude": 77.097696,
+    "place_id": "ChIJM6eRVKwFDTkRMkAespNrulk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6eRVKwFDTkRMkAespNrulk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:11:12"
+  },
+  {
+    "business_name": "FLOWER MUSEUM",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "221404",
+    "phone_number": "+91 98048 94644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Survey Park, Santoshpur, Kolkata, West Bengal 700075",
+    "area": "Survey Park, Santoshpur",
+    "latitude": 22.4882386,
+    "longitude": 88.394171,
+    "place_id": "ChIJESd9yXZxAjoRGwxNlE6wRVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESd9yXZxAjoRGwxNlE6wRVk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:11:12"
+  }
+]

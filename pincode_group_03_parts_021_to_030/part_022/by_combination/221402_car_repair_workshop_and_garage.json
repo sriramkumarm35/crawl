@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A S CAR GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "221402",
+    "phone_number": "+91 99864 67644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1/22, Chintamani Rd, near Bharath Petrol Bunk, Razack Sab Mohalla, Srinivaspur, Karnataka 563135",
+    "area": "Razack Sab Mohalla",
+    "latitude": 13.339585,
+    "longitude": 78.2063522,
+    "place_id": "ChIJ2UydzeULsjsRPsZdNWt0pbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UydzeULsjsRPsZdNWt0pbc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:07:16"
+  },
+  {
+    "business_name": "Mechanic Now",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "221402",
+    "phone_number": "+91 81277 64893",
+    "website": "https://mechanicnow.in/",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "323, Sultanpur Rd, Ahimamau, near Prithi Townhouse And Resort, Uttar Pradesh 229801",
+    "area": "221402",
+    "latitude": 26.525303899999997,
+    "longitude": 81.4957866,
+    "place_id": "ChIJ7ZmC0MW1mzkRW30U38bVJ2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZmC0MW1mzkRW30U38bVJ2E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:07:17"
+  }
+]

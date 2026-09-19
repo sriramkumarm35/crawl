@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Loan",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Car finance and loan company",
+    "pincode": "221507",
+    "phone_number": "+91 89220 20954",
+    "website": "http://www.homeloandsa.com/",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "CVXM+F55, Radha Nagar Colony, Daraganj, Prayagraj, Uttar Pradesh 211006",
+    "area": "Radha Nagar Colony, Daraganj",
+    "latitude": 25.448636699999998,
+    "longitude": 81.8829803,
+    "place_id": "ChIJo9MVN6O1mjkRSLuQugIbIv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9MVN6O1mjkRSLuQugIbIv0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:25:58"
+  },
+  {
+    "business_name": "Loan Junction",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial consultant, Financial institution, Mortgage lender",
+    "pincode": "221507",
+    "phone_number": "+91 96165 02044",
+    "website": "http://loanjunction.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Brahmakunj Complex, H 14, Sec-B, Kanpur - Lucknow Rd, Lucknow, Uttar Pradesh 226012",
+    "area": "Sector B, Bargawan, LDA Colony",
+    "latitude": 26.7997804,
+    "longitude": 80.8973537,
+    "place_id": "ChIJuZih63v_mzkR3IC2PEEOM2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZih63v_mzkR3IC2PEEOM2c",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:25:59"
+  }
+]

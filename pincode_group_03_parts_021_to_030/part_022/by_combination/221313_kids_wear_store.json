@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Yadav",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "221313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amul Dudha, Rohit Yadav Anda Ki Dukaan Bihara, Powar, Khausa, Uttar Pradesh 221313",
+    "area": "Powar",
+    "latitude": 25.2713432,
+    "longitude": 82.6888333,
+    "place_id": "ChIJqbhJu5_FjzkR7snouU8S984",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbhJu5_FjzkR7snouU8S984",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:01:46"
+  },
+  {
+    "business_name": "Ruff",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "221313",
+    "phone_number": "+91 542 222 2013",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No. 212, 2nd Floor, I P Mall, Shastri Nagar, Guru Nanak Nagar Colony, Sigra, Varanasi, Uttar Pradesh 221002",
+    "area": "Shastri Nagar, Guru Nanak Nagar Colony, Sigra",
+    "latitude": 25.316698,
+    "longitude": 82.99023,
+    "place_id": "ChIJvWXA4_wtjjkRVmjxzRdoETY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWXA4_wtjjkRVmjxzRdoETY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:01:46"
+  }
+]

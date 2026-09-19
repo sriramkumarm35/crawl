@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap Fancy Shoe Center",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "221405",
+    "phone_number": "+91 88087 05249",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "8RFP+523, Bhadohi Rd, Kamalpur, Uttar Pradesh 221405",
+    "area": "221405",
+    "latitude": 25.3228796,
+    "longitude": 82.8350561,
+    "place_id": "ChIJKwh4hz3SjzkRBqK-gXBZakQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwh4hz3SjzkRBqK-gXBZakQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:14"
+  },
+  {
+    "business_name": "Unique Shoes Collection",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "221405",
+    "phone_number": "+91 63926 07075",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Union Bank Of India, Dindaspur, Rajatalab Roade, Jansa, Uttar Pradesh 221405",
+    "area": "221405",
+    "latitude": 25.3216075,
+    "longitude": 82.83564439999999,
+    "place_id": "ChIJFVCZoyPTjzkRiWVfym2mM1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVCZoyPTjzkRiWVfym2mM1U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:14"
+  }
+]

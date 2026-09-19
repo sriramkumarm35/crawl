@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Home",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "221507",
+    "phone_number": "+91 95598 95868",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "217/135, next to Apollo pharmacy, Lukarganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Lukarganj",
+    "latitude": 25.4440787,
+    "longitude": 81.812383,
+    "place_id": "ChIJG2kU0C_LmjkRDKdbgEQw-hE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2kU0C_LmjkRDKdbgEQw-hE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:25:15"
+  },
+  {
+    "business_name": "Cars24 - Sell Used Cars in Sahson, Allahabad",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Audi dealer, BMW dealer, Car dealer, Car finance and loan company, Honda dealer, Hyundai dealer, Kia dealer, Suzuki dealer, Toyota dealer",
+    "pincode": "221507",
+    "phone_number": "+91 89297 59586",
+    "website": "https://www.cars24.com/sell-marketing/?utm_source=gmb_sell_011&utm_medium=gmb_sell_02&utm_campaign=gmb_sell_03&utm_term=gmb_sell_04",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Star Garage, Phulpur Rd, near Baba Dhaba, Sahson, Bhopat Pur, Uttar Pradesh 221507",
+    "area": "221507",
+    "latitude": 25.4936206,
+    "longitude": 82.0009403,
+    "place_id": "ChIJAZWLk7KzmjkRvaH2pWyzrf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZWLk7KzmjkRvaH2pWyzrf4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:25:15"
+  }
+]

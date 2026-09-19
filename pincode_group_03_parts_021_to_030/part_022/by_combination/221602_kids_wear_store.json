@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babyful",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store, Baby store, Childrens Store, Clothes market, Clothing store, Clothing Accessories Store, Toy store",
+    "pincode": "221602",
+    "phone_number": "+91 74009 11185",
+    "website": "http://www.babyful.co/",
+    "rating": 4.8,
+    "reviews_count": 70,
+    "address": "Plot no 168, Vijay Nagar, Scheme No 113, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme No 113",
+    "latitude": 22.7638177,
+    "longitude": 75.8815319,
+    "place_id": "ChIJJ_yW1J8DYzkRDOQZONMgRtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_yW1J8DYzkRDOQZONMgRtY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:12"
+  },
+  {
+    "business_name": "V-Mart - Ghazipur-Kashimabad",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby clothing store, Clothing store, Lingerie store, Men's clothing store, Sportswear store, Underwear store, Women's clothing store",
+    "pincode": "221602",
+    "phone_number": "+91 95998 06007",
+    "website": "https://stores.vmartretail.com/clothing-mart-mohammadabad-ghazipur-33660/home",
+    "rating": 4.9,
+    "reviews_count": 9407,
+    "address": "QMPC+JW3, Rasra Road, Sukaha, near SBI Bank, Kasimabad, Uttar Pradesh 233230",
+    "area": "221602",
+    "latitude": 25.781677,
+    "longitude": 83.671791,
+    "place_id": "ChIJzW9a4-YdkjkRTQtWmvtsotI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzW9a4-YdkjkRTQtWmvtsotI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:13"
+  }
+]

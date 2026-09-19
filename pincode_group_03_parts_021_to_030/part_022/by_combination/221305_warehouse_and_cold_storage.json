@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHILL CHAIN COLD WAREHOUSE",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility, Warehouse",
+    "pincode": "221305",
+    "phone_number": "+91 99138 05723",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Central Warehousing Corporation, Navi Ashapuri, Ram Wadi, Vadodara, Gujarat 390002",
+    "area": "Navi Ashapuri, Ram Wadi",
+    "latitude": 22.3406292,
+    "longitude": 73.1706713,
+    "place_id": "ChIJh4enMLnJXzkR1rm06LnwvQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4enMLnJXzkR1rm06LnwvQE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:50:39"
+  },
+  {
+    "business_name": "Benipur Gas Godown",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility",
+    "pincode": "221305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 22,
+    "address": "Mehadiganj, Uttar Pradesh 221311",
+    "area": "221305",
+    "latitude": 25.2871566,
+    "longitude": 82.83579089999999,
+    "place_id": "ChIJ_5oP5AvNjzkRIx1Yn4T1Nzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5oP5AvNjzkRIx1Yn4T1Nzk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:50:40"
+  }
+]

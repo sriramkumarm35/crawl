@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Sonali Chaudhary",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Doctor, Hair removal service, Laser hair removal service, Dermatologist",
+    "pincode": "221406",
+    "phone_number": "+91 95602 77382",
+    "website": "https://holisticskincare.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "J-95, 1st Floor, Saket, New Delhi, Delhi 110017",
+    "area": "Block J, Saket",
+    "latitude": 28.5192844,
+    "longitude": 77.2147414,
+    "place_id": "ChIJa5JTZSThDDkRU9LaG7cr6p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5JTZSThDDkRU9LaG7cr6p4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:14:13"
+  },
+  {
+    "business_name": "Siddhapith Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "221406",
+    "phone_number": "+91 88403 29602",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaunpur, Haiderpur, Uttar Pradesh 222001",
+    "area": "221406",
+    "latitude": 25.7737381,
+    "longitude": 82.68719689999999,
+    "place_id": "ChIJpzb7Q6E5kDkRpRJ0uxhuPn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzb7Q6E5kDkRpRJ0uxhuPn4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:14:13"
+  }
+]

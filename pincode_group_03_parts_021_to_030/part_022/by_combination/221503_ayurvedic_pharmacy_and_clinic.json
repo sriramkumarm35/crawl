@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamta Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "221503",
+    "phone_number": "+91 93351 40078",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Shop No. 13, Uptron Chauraha, Govindpur, Prayagraj, Uttar Pradesh 211004",
+    "area": "Govindpur, Teliarganj",
+    "latitude": 25.4952288,
+    "longitude": 81.8702531,
+    "place_id": "ChIJ29T7IEKDDRQRsXDPRWq14NE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29T7IEKDDRQRsXDPRWq14NE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:17"
+  },
+  {
+    "business_name": "Charak Ausdhalaya",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "221503",
+    "phone_number": "+91 94156 16478",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Railway Station, Shop. No -8, Sewa Samiti Market, Opp, Rambagh, Prayagraj, Uttar Pradesh 211003",
+    "area": "Rambagh",
+    "latitude": 25.438975199999998,
+    "longitude": 81.8485398,
+    "place_id": "ChIJHRiDi7TKmjkRkkcYfMGkQ44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRiDi7TKmjkRkkcYfMGkQ44",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:17"
+  }
+]

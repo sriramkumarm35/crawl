@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Perfect Date",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "221311",
+    "phone_number": "+91 92363 60220",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "The Perfect Date, 221311, India",
+    "area": "221311",
+    "latitude": 25.3207626,
+    "longitude": 82.991109,
+    "place_id": "ChIJw8uBN9IzjjkRVjUAlyko_14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8uBN9IzjjkRVjUAlyko_14",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:47"
+  },
+  {
+    "business_name": "CM PALACE",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "221311",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "se 100, near Hanuman Mandir, near Purnodaya Mahila Mahavidyalaya, mtr, Bachhawn, Uttar Pradesh 221011",
+    "area": "mtr",
+    "latitude": 25.227018299999997,
+    "longitude": 82.93658909999999,
+    "place_id": "ChIJHTL469MzjjkRWnHexd4dM20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTL469MzjjkRWnHexd4dM20",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:48"
+  }
+]

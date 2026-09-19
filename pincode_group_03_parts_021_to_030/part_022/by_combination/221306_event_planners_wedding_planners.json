@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UMANG WEDDING PLANNER",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Wedding photographer, Event management company, Wedding service",
+    "pincode": "221306",
+    "phone_number": "+91 97214 71549",
+    "website": "http://www.umangweddings.in/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Bina, Jamshila, Uttar Pradesh 231220",
+    "area": "221306",
+    "latitude": 24.1389079,
+    "longitude": 82.7729787,
+    "place_id": "ChIJdfZ8BuEljzkRfjLIqUlTabA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfZ8BuEljzkRfjLIqUlTabA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:53"
+  },
+  {
+    "business_name": "Divine Event Organiser",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "221306",
+    "phone_number": "N/A",
+    "website": "https://youtu.be/POWFPcW3KNQ",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "near Ambedkar stadium, sector 8, Obra, Vilemar Kundi, Uttar Pradesh 231219",
+    "area": "sector 8",
+    "latitude": 24.4686664,
+    "longitude": 82.9959449,
+    "place_id": "ChIJuz84ZLHljjkRRMsOzq2RJF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuz84ZLHljjkRRMsOzq2RJF8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Popular Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "221505",
+    "phone_number": "+91 99361 41696",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "New Market, 243, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini Gaon, Naini",
+    "latitude": 25.379402199999998,
+    "longitude": 81.8711459,
+    "place_id": "ChIJb1Jn-nlKhTkRDu6JBtyW0_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1Jn-nlKhTkRDu6JBtyW0_0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:22:47"
+  },
+  {
+    "business_name": "Prayagraj Pet Clinic",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "221505",
+    "phone_number": "+91 63945 88116",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Mirzapur Rd, beside Bethany Convent School, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.4070678,
+    "longitude": 81.8670472,
+    "place_id": "ChIJYQGAu-JLhTkRIglWUhd8lR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQGAu-JLhTkRIglWUhd8lR8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:22:48"
+  }
+]

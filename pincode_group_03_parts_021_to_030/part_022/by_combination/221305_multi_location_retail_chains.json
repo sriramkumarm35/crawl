@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHADEV DIGITAL ZONE",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "221305",
+    "phone_number": "+91 95989 44284",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 56,
+    "address": "Bandhawa sauli marg, Uttar Pradesh 231314",
+    "area": "221305",
+    "latitude": 25.227407,
+    "longitude": 82.77920569999999,
+    "place_id": "ChIJR_0VpkjPjzkR_7RK8nckGRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_0VpkjPjzkR_7RK8nckGRI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:50:49"
+  },
+  {
+    "business_name": "Kesrisut Agencies",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "221305",
+    "phone_number": "+91 88969 60333",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Bulanala, Varanasi, Uttar Pradesh 221001",
+    "area": "Bulanala",
+    "latitude": 25.3172659,
+    "longitude": 83.0074305,
+    "place_id": "ChIJ11R7RRoujjkRZwCQr49GMBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11R7RRoujjkRZwCQr49GMBA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:50:49"
+  }
+]

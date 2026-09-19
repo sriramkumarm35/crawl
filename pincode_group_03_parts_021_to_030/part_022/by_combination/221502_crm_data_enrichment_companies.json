@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leadsforge",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "221502",
+    "phone_number": "N/A",
+    "website": "https://leadsforge.ai/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "335 Pioneer Way, Mountain View, CA 94041, United States",
+    "area": "221502",
+    "latitude": 37.3862643,
+    "longitude": -122.06689,
+    "place_id": "ChIJvScqXqe3j4ARZ2GSYEiEbb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvScqXqe3j4ARZ2GSYEiEbb4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "Call Center Dashboards",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "221502",
+    "phone_number": "N/A",
+    "website": "https://www.callcenterdashboards.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Call Center Dashboards, 221502, India",
+    "area": "221502",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJQ7WMALmapgARZVLRuPakFTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7WMALmapgARZVLRuPakFTQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:20:49"
+  }
+]

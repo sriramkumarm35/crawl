@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Triveni Glass & Hardware Store",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Aluminium Supplier, Hardware store, Lumber store",
+    "pincode": "221505",
+    "phone_number": "+91 98392 52611",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "CV29+RFQ, Chak Raghunath, Arail Tiraha, Mirzapur Rd, Naini, Prayagraj, Uttar Pradesh 211008",
+    "area": "Naini",
+    "latitude": 25.4020928,
+    "longitude": 81.86874519999999,
+    "place_id": "ChIJJ9jkK4NKhTkRFOW9eZt3mFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9jkK4NKhTkRFOW9eZt3mFI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:23:29"
+  },
+  {
+    "business_name": "S.K. Art 'N' Glass",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Aluminum window, Bathroom remodeler, Glass shop, Glassware store, Mirror shop",
+    "pincode": "221505",
+    "phone_number": "+91 99903 67262",
+    "website": "https://www.skartnglass.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No.I-22, Vyapar Marg, Dariya Ganj Market, I Block, Sector 9, Noida, Uttar Pradesh 201301",
+    "area": "Dariya Ganj Market, I Block, Sector 9",
+    "latitude": 28.5873974,
+    "longitude": 77.3251543,
+    "place_id": "ChIJ7yY1yKHlDDkRBD557Y9vaUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yY1yKHlDDkRBD557Y9vaUI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:23:30"
+  }
+]

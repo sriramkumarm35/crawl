@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "पोस्टमार्टम हाउस",
+    "search_category": "Therapy Center",
+    "primary_category": "Occupational therapist",
+    "all_categories": "Occupational therapist",
+    "pincode": "221304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8FH9+62G, Narayan Colony, Gyanpur, Uttar Pradesh 221304",
+    "area": "Narayan Colony",
+    "latitude": 25.3280544,
+    "longitude": 82.4675816,
+    "place_id": "ChIJNyFyAYDljzkRyvQyz0ae-R4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNyFyAYDljzkRyvQyz0ae-R4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:48:15"
+  },
+  {
+    "business_name": "Hari Om Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Acupuncture clinic",
+    "all_categories": "Acupuncture clinic",
+    "pincode": "221304",
+    "phone_number": "+91 94515 72353",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "9FVG+8HQ, Balbhadarpur, Uttar Pradesh 221406",
+    "area": "221304",
+    "latitude": 25.3932963,
+    "longitude": 82.47644919999999,
+    "place_id": "ChIJszgnYgDhjzkRRiRVmjNtYs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszgnYgDhjzkRRiRVmjNtYs4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:48:15"
+  }
+]

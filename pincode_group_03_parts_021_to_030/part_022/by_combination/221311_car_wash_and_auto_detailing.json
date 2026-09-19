@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nasa Detailing Studio",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "221311",
+    "phone_number": "+91 70182 92815",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 53,
+    "address": "opposite shivam orthocare hospital, Friends Colony, Una, Himachal Pradesh 174303",
+    "area": "Friends Colony",
+    "latitude": 31.4745511,
+    "longitude": 76.2541244,
+    "place_id": "ChIJEVWdjI7bGjkREvWvP-CKeJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVWdjI7bGjkREvWvP-CKeJo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:15"
+  },
+  {
+    "business_name": "Detailing Freaks Mayapuri",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "221311",
+    "phone_number": "+91 92123 44222",
+    "website": "https://www.detailingfreaks.com/",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Phase 1, B 70 B, Block B, Mayapuri Industrial Area Phase I, Mayapuri, New Delhi, Delhi, 110064",
+    "area": "Block B, Mayapuri Industrial Area Phase I, Mayapuri",
+    "latitude": 28.626316799999998,
+    "longitude": 77.1237341,
+    "place_id": "ChIJ_8KWH5oDDTkRGf2qUCLec2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8KWH5oDDTkRGf2qUCLec2g",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:15"
+  }
+]

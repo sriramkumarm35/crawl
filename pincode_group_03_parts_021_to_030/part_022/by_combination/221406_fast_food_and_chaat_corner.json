@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Chaat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221406",
+    "phone_number": "+91 97262 28835",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "BOMBAY SUPER 3, FIRST FLOOR, MAMA SAHEB, ROAD D MART, Kuvadva Rd, Rajkot, Gujarat 360003",
+    "area": "Vrundavan Society, Rohidaspra",
+    "latitude": 22.3108058,
+    "longitude": 70.8237293,
+    "place_id": "ChIJzULNYCG3WTkRD8pvX3E4pnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzULNYCG3WTkRD8pvX3E4pnM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:13:57"
+  },
+  {
+    "business_name": "Roshan Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Habibulla Nagar, Ratapur, Raebareli, Uttar Pradesh 229316",
+    "area": "Habibulla Nagar, Ratapur",
+    "latitude": 26.2445111,
+    "longitude": 81.2420355,
+    "place_id": "ChIJ87CTEJehmzkRWJ2YTR1TXdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87CTEJehmzkRWJ2YTR1TXdU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:13:57"
+  }
+]

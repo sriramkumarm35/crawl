@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prayagraj Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "221508",
+    "phone_number": "N/A",
+    "website": "https://allahabadpetshop.in/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "28, Stanley Rd, Vivek Vihar Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Vivek Vihar Colony, Civil Lines",
+    "latitude": 25.464909,
+    "longitude": 81.84243839999999,
+    "place_id": "ChIJRxSv7zfLmjkRjNMW-gv98bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxSv7zfLmjkRjNMW-gv98bA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:26:30"
+  },
+  {
+    "business_name": "Sangam Pets & Medicals",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store, Pharmacy",
+    "pincode": "221508",
+    "phone_number": "+91 93351 67774",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "10, Lowther Rd, South Malaka, Prayagraj, Uttar Pradesh 211001",
+    "area": "South Malaka",
+    "latitude": 25.440963399999998,
+    "longitude": 81.8474492,
+    "place_id": "ChIJLT0UM7TKmjkRjuvDmWKP72k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLT0UM7TKmjkRjuvDmWKP72k",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:26:31"
+  }
+]

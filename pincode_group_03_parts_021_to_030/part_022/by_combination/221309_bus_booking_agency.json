@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Tours and Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221309",
+    "phone_number": "+91 99365 99699",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "Katar Mohalla, Katara Mohalla, Bharatganj, Uttar Pradesh 212104",
+    "area": "221309",
+    "latitude": 25.1165822,
+    "longitude": 82.27297519999999,
+    "place_id": "ChIJL8AgP-70jzkRqVnHvCWjxHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8AgP-70jzkRqVnHvCWjxHU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:56:48"
+  },
+  {
+    "business_name": "मां सीता सदन",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "221309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gogawan, Uttar Pradesh 231313",
+    "area": "221309",
+    "latitude": 25.2184036,
+    "longitude": 82.2721062,
+    "place_id": "ChIJz4E9VAD3jzkRrpFxcQDChCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4E9VAD3jzkRrpFxcQDChCU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:56:48"
+  }
+]

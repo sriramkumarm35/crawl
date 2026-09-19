@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Denim X salon",
+    "search_category": "Salon",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "221313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "kachhwa bazar, Uttar Pradesh 231501",
+    "area": "221313",
+    "latitude": 25.2481023,
+    "longitude": 82.7110778,
+    "place_id": "ChIJy0oq_inFjzkRQciIyCmZb-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0oq_inFjzkRQciIyCmZb-c",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:22"
+  },
+  {
+    "business_name": "Geetanjali Ladies Beauty Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "221313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Patel Katra, 7, Kachhawa Rd, Thatra, Uttar Pradesh 221313",
+    "area": "221313",
+    "latitude": 25.267767499999998,
+    "longitude": 82.7103367,
+    "place_id": "ChIJ_VqBTgDFjzkRLe6FJ6rbQlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VqBTgDFjzkRLe6FJ6rbQlA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:22"
+  }
+]

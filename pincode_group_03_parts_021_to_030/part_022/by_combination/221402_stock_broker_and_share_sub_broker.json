@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stoxkart",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment service",
+    "pincode": "221402",
+    "phone_number": "+91 11 7133 3666",
+    "website": "https://www.stoxkart.com/",
+    "rating": 3.4,
+    "reviews_count": 247,
+    "address": "Param Tower, No 11/6B, Pusa Rd, Block 11, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110005",
+    "area": "Block 11, Old Rajinder Nagar, Rajinder Nagar",
+    "latitude": 28.6426883,
+    "longitude": 77.1816888,
+    "place_id": "ChIJ34mCNpgDDTkRmhE3tV0gAr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34mCNpgDDTkRmhE3tV0gAr0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:08:04"
+  },
+  {
+    "business_name": "SS Corporate Securities Limited",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance broker, Investment service, Travel agency",
+    "pincode": "221402",
+    "phone_number": "+91 11 4700 3600",
+    "website": "http://www.sscorporate.com/",
+    "rating": 4.3,
+    "reviews_count": 27,
+    "address": "3rd floor, NDM 2, D block, Netaji Subhash Place, Pitampura, Delhi, 110034",
+    "area": "D block, Netaji Subhash Place, Pitampura",
+    "latitude": 28.6910781,
+    "longitude": 77.14989469999999,
+    "place_id": "ChIJXSVymTQCDTkRL41_sRPdfeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSVymTQCDTkRL41_sRPdfeQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:08:05"
+  }
+]

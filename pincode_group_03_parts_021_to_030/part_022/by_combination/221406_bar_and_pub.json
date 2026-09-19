@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Topic Craft Bar & Kitchen",
+    "search_category": "Bar and Pub",
+    "primary_category": "Pub",
+    "all_categories": "Pub, Bar & grill, Hotel, Restaurant",
+    "pincode": "221406",
+    "phone_number": "+91 98441 66866",
+    "website": "http://www.topicblr.com/",
+    "rating": 4.7,
+    "reviews_count": 2760,
+    "address": "No. 901, Martyrs Street, NICE Road Junction, near Clover Leaf Toll, Banashankari Stage 6, Sompura, Bengaluru, Karnataka 560060",
+    "area": "Banashankari 6th Stage 7th Block, Banashankari Stage 6",
+    "latitude": 12.884697,
+    "longitude": 77.5006851,
+    "place_id": "ChIJc1Bp6z0_rjsRjDJksR5qiq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1Bp6z0_rjsRjDJksR5qiq0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:13:59"
+  },
+  {
+    "business_name": "Windmills Craftworks [Whitefield]",
+    "search_category": "Bar and Pub",
+    "primary_category": "Brewpub",
+    "all_categories": "Brewpub, Brewery, Jazz club",
+    "pincode": "221406",
+    "phone_number": "+91 78997 40309",
+    "website": "https://windmills-india.com/",
+    "rating": 4.4,
+    "reviews_count": 21536,
+    "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066",
+    "area": "Shivaji Nagar, EPIP Zone, Whitefield",
+    "latitude": 12.9825325,
+    "longitude": 77.7217732,
+    "place_id": "ChIJd5CMLo0RrjsRboHwm9XNEzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5CMLo0RrjsRboHwm9XNEzg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:14:00"
+  }
+]

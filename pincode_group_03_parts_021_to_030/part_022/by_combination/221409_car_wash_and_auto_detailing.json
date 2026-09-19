@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stop N Glow",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "221409",
+    "phone_number": "+91 92206 99644",
+    "website": "https://stopnglow.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Stop N Glow, Plot 5, opposite MPRC Sports Park, Sector 92, Gurugram, Haryana 122505",
+    "area": "Sector 92",
+    "latitude": 28.416463399999998,
+    "longitude": 76.91790019999999,
+    "place_id": "ChIJhwxFBnYVDTkRRGt2FiefiQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwxFBnYVDTkRRGt2FiefiQs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:56"
+  },
+  {
+    "business_name": "Creative Autohub",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Car dealer, Tire shop",
+    "pincode": "221409",
+    "phone_number": "+91 90990 10101",
+    "website": "http://www.creativeautohub.com/",
+    "rating": 4.7,
+    "reviews_count": 26,
+    "address": "Plot No :-172, Sindhubhavan Rd, near Sapphire Greens Appartments, Thaltej, Ahmedabad, Gujarat 380059",
+    "area": "Thaltej",
+    "latitude": 23.0478736,
+    "longitude": 72.4988685,
+    "place_id": "ChIJIyd2uW6bXjkRt0PGMqbUIoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyd2uW6bXjkRt0PGMqbUIoA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:57"
+  }
+]

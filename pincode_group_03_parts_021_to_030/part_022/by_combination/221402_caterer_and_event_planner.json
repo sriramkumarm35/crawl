@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajashree Caterers and Event Managers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "221402",
+    "phone_number": "+91 90521 12211",
+    "website": "https://www.rajashreecaterers.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Rajashree Gardens, Lahari Satyavir Apts, 44, Vegetable Market Rd, New Nallakunta, Hyderabad, Telangana 500044",
+    "area": "AP Housing Board, Bagh Lingampally, New Nallakunta",
+    "latitude": 17.3986807,
+    "longitude": 78.5007052,
+    "place_id": "ChIJn2DwaGOZyzsRGpa2PHIuV50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2DwaGOZyzsRGpa2PHIuV50",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:07:44"
+  },
+  {
+    "business_name": "Royal Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Event planner, Party equipment rental service, Party planner, Wedding buffet, Wedding planner, Wedding service",
+    "pincode": "221402",
+    "phone_number": "+91 90766 69707",
+    "website": "https://royalcatererslucknow.com/",
+    "rating": 5,
+    "reviews_count": 154,
+    "address": "1/426, near Mdm School, near St.Thomas School, Sector H, Jankipuram, Lucknow, Uttar Pradesh 226021",
+    "area": "Sector H, Jankipuram",
+    "latitude": 26.9190658,
+    "longitude": 80.9570794,
+    "place_id": "ChIJlX6IdqFXmTkRiLS2fbDgg1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlX6IdqFXmTkRiLS2fbDgg1U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:07:44"
+  }
+]

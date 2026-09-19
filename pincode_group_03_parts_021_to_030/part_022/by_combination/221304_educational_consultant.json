@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eduvedic Education",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "221304",
+    "phone_number": "+91 95317 40900",
+    "website": "https://www.eduvedic.com/",
+    "rating": 5,
+    "reviews_count": 75,
+    "address": "Railway Crossing, near Tantigeria, behind Mallick Pustak Bipani, Ashok Nagar, Midnapore, West Bengal 721101",
+    "area": "Ashok Nagar",
+    "latitude": 22.4300377,
+    "longitude": 87.3094608,
+    "place_id": "ChIJ3ZALpa5bHToR2ejiTdjsW2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZALpa5bHToR2ejiTdjsW2Y",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:48:29"
+  },
+  {
+    "business_name": "An Engineer Factez",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Education center, Educational institution",
+    "pincode": "221304",
+    "phone_number": "+91 88824 38926",
+    "website": "https://anengineerfactez.blogspot.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amilahara, Uttar Pradesh 221304",
+    "area": "221304",
+    "latitude": 25.3746126,
+    "longitude": 82.3967108,
+    "place_id": "ChIJB7FI_hzjjzkRzCWhcdqm_ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7FI_hzjjzkRzCWhcdqm_ZA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:48:30"
+  }
+]

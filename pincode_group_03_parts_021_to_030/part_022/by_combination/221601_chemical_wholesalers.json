@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "satyam chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "221601",
+    "phone_number": "+91 88533 94139",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "mau`, Sipah Ibrahimabad, Uttar Pradesh 221603",
+    "area": "mau`",
+    "latitude": 26.150858,
+    "longitude": 83.6414933,
+    "place_id": "ChIJXXy0LcYpkjkR2cbH_Qatrdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXy0LcYpkjkR2cbH_Qatrdo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:29:39"
+  },
+  {
+    "business_name": "Unani Chemical Works",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Service establishment",
+    "pincode": "221601",
+    "phone_number": "+91 73556 38811",
+    "website": "https://sites.google.com/view/unanichemical",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Unani Chemical Works, 221601, India",
+    "area": "221601",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJNTazebKLkTkRFYl-9ECrcSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTazebKLkTkRFYl-9ECrcSs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:29:40"
+  }
+]

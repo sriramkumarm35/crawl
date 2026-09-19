@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAHUL MEDICAL STORE",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "221314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chauri Rd, Jalalpur, Majhgawan Khurd, Uttar Pradesh 222146",
+    "area": "221314",
+    "latitude": 25.599579199999997,
+    "longitude": 82.8062044,
+    "place_id": "ChIJNTMc0-sukDkRCo8Yc61Hxaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTMc0-sukDkRCo8Yc61Hxaw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:03:41"
+  },
+  {
+    "business_name": "SAANVI PHARMACY CHUNAR",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "221314",
+    "phone_number": "+91 82996 52017",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4V6F+442, ACHARYA JI ROAD, near KMS HOSPITAL& MATERNITY CENTER, USHMANPUR, Chunar, Uttar Pradesh 231304",
+    "area": "USHMANPUR",
+    "latitude": 25.110262799999997,
+    "longitude": 82.87277879999999,
+    "place_id": "ChIJrZJbHeW1jzkR52bplgJ3D0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZJbHeW1jzkR52bplgJ3D0g",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:03:41"
+  }
+]

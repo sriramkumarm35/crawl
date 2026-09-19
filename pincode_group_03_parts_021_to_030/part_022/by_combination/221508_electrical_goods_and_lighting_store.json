@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.R Electricals &Appliances",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electrical appliance wholesaler",
+    "pincode": "221508",
+    "phone_number": "+91 95809 20423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "279, Bairahana St, Old Bairhana, Madhwapur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Old Bairhana, Madhwapur",
+    "latitude": 25.4420094,
+    "longitude": 81.86052629999999,
+    "place_id": "ChIJXYD3arjLmjkRX-oKh6qh05M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYD3arjLmjkRX-oKh6qh05M",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:10"
+  },
+  {
+    "business_name": "Chopra Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "221508",
+    "phone_number": "+91 94152 37920",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25, Swami Vivekanand Marg, Johnston Ganj, Badshahi Mandi, Mohatsim Ganj, Prayagraj, Uttar Pradesh 211001",
+    "area": "Johnston Ganj, Badshahi Mandi, Mohatsim Ganj",
+    "latitude": 25.441973899999997,
+    "longitude": 81.8375939,
+    "place_id": "ChIJlauYbdHKmjkRWQkBsNu2w9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlauYbdHKmjkRWQkBsNu2w9w",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:10"
+  }
+]

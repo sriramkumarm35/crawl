@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE FLOOR PLAN",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Civil engineer",
+    "pincode": "221405",
+    "phone_number": "+91 98071 51419",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Raj India Mahendra showroom, Harhua, Wazidpur, Uttar Pradesh 221105",
+    "area": "221405",
+    "latitude": 25.3752022,
+    "longitude": 82.9158029,
+    "place_id": "ChIJDReCrZgtjjkRwpng20FZ4oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDReCrZgtjjkRwpng20FZ4oE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:46"
+  },
+  {
+    "business_name": "Devaki Nandan Infrtech",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer, Real Estate Builders & Construction Company",
+    "pincode": "221405",
+    "phone_number": "+91 79055 97607",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanuman mandir, near Varanasi, Harhua, Uttar Pradesh 221105",
+    "area": "221405",
+    "latitude": 25.372434199999997,
+    "longitude": 82.92170519999999,
+    "place_id": "ChIJ03yOvGktjjkRW1EnzRGXjec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03yOvGktjjkRW1EnzRGXjec",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:49"
+  }
+]

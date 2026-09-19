@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Janaral Store",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "221314",
+    "phone_number": "+91 83818 24901",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Kapsethi, Kapseti, Uttar Pradesh 221314",
+    "area": "221314",
+    "latitude": 25.2838508,
+    "longitude": 82.6311015,
+    "place_id": "ChIJDXjMwA3DjzkR85cK_favnc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXjMwA3DjzkR85cK_favnc4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:04:53"
+  },
+  {
+    "business_name": "The ad ai",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment, Web hosting company, Website designer",
+    "pincode": "221314",
+    "phone_number": "+91 73762 10987",
+    "website": "https://theadai.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The ad ai, 221314, India",
+    "area": "221314",
+    "latitude": 42.246013999999995,
+    "longitude": -36.8,
+    "place_id": "ChIJvbFOB3VfXW8RnJ2F4p0XEvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbFOB3VfXW8RnJ2F4p0XEvQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:04:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajpoot Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "221314",
+    "phone_number": "+91 79858 71504",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 187,
+    "address": "7H6Q+JPM, Kothara Kathari Aurai By Pass Road, Kaiyarmau, Uttar Pradesh 221314",
+    "area": "221314",
+    "latitude": 25.2615826,
+    "longitude": 82.58929739999999,
+    "place_id": "ChIJxQvgvofDjzkRAvCfLffvg_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQvgvofDjzkRAvCfLffvg_c",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:03:27"
+  },
+  {
+    "business_name": "Hotel Harsh & Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "221314",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Babusrai Maharajganj , NH-2, Uttar Pradesh 221314",
+    "area": "221314",
+    "latitude": 25.258276199999997,
+    "longitude": 82.6594667,
+    "place_id": "ChIJO993GVLFjzkR8g4zJAzspdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO993GVLFjzkR8g4zJAzspdw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:03:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kukdu Ku Chicken & Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "221507",
+    "phone_number": "+91 94540 18063",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ponghatpul, Vishnapuri Colony, Ghayasuddinpur, Prayagraj, Allahabad, Uttar Pradesh 211011",
+    "area": "Vishnapuri Colony, Ghayasuddinpur",
+    "latitude": 25.4516302,
+    "longitude": 81.7517975,
+    "place_id": "ChIJfTxQh6jNmjkRvKPXwny8WfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTxQh6jNmjkRvKPXwny8WfA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:24:38"
+  },
+  {
+    "business_name": "Lakshmi Chauraha",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "221507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "HXG8+5H5, Balipur, Uttar Pradesh 212109",
+    "area": "221507",
+    "latitude": 25.575395399999998,
+    "longitude": 81.966477,
+    "place_id": "ChIJwWk5HQCxmjkRXg7cIAy3X4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWk5HQCxmjkRXg7cIAy3X4U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:24:38"
+  }
+]

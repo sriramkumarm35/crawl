@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B & D ASSOCIATES",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Financial planner, Payroll Service Provider",
+    "pincode": "221508",
+    "phone_number": "+91 82401 38378",
+    "website": "https://b-d-associates.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "P-4, KANUNGO PARK, BLOCK-A, POST-GARIA OPP. PADMASHREE CINEMA HALL, West Bengal 700084",
+    "area": "Dakshin Raipur, Garia",
+    "latitude": 22.473314,
+    "longitude": 88.3771302,
+    "place_id": "ChIJ8VavjEhxAjoR-uKV4nmj05U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VavjEhxAjoR-uKV4nmj05U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:52"
+  },
+  {
+    "business_name": "LAWFY & CO ADVOCATES (Kolkata)",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Financial consultant, Legal services, Tax attorney, Tax consultant",
+    "pincode": "221508",
+    "phone_number": "+91 91471 09222",
+    "website": "https://www.lawfyco.in/",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "4th floor, EAST TOWER, 4ES8B, Street Number 372, International Finalcial Hub(CBD), Mani Casadona, Newtown, Kolkata, Chakpachuria, West Bengal 700156",
+    "area": "International Finalcial Hub(CBD), Mani Casadona, Newtown",
+    "latitude": 22.585144,
+    "longitude": 88.4867206,
+    "place_id": "ChIJ6UWuB3wLAjoRTy8DhGIelhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UWuB3wLAjoRTy8DhGIelhg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:53"
+  }
+]

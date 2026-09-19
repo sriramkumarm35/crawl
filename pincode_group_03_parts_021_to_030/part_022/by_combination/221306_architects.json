@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "L.C.carpet",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "221306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "7F5X+6MQ, Natawa, Koilara, Uttar Pradesh 221306",
+    "area": "221306",
+    "latitude": 25.258088299999997,
+    "longitude": 82.49924329999999,
+    "place_id": "ChIJN1B2kjnpjzkRgGyP17FYJKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1B2kjnpjzkRgGyP17FYJKY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:42"
+  },
+  {
+    "business_name": "Home Designers",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architecture firm, Civil engineering company, Real Estate Builders & Construction Company, Engineering consultant, Furniture maker, Interior designer, Kitchen remodeler, Software Training Institute",
+    "pincode": "221306",
+    "phone_number": "+91 79032 91811",
+    "website": "http://www.homedesigners.co.in/",
+    "rating": 5,
+    "reviews_count": 165,
+    "address": "DISTRICT BOARD, 48/49, Municipality Chowk, Darshan Nagar, Chapra, Bihar 841301",
+    "area": "Darshan Nagar",
+    "latitude": 25.781922299999998,
+    "longitude": 84.7431477,
+    "place_id": "ChIJAY8Zf6-7kjkRId43hMeiD7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAY8Zf6-7kjkRId43hMeiD7o",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:43"
+  }
+]

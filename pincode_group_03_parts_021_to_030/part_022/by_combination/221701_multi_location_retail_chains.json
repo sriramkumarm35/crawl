@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Mobile Garwar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "221701",
+    "phone_number": "+91 76519 20486",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MDR150E, Garwar, Araji Mafi Garhwar, Uttar Pradesh 277121",
+    "area": "221701",
+    "latitude": 25.8286896,
+    "longitude": 84.02878299999999,
+    "place_id": "ChIJ8xXMArFpkjkRwIAeYrSElQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xXMArFpkjkRwIAeYrSElQY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:35:07"
+  },
+  {
+    "business_name": "MoneyGram",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service",
+    "pincode": "221701",
+    "phone_number": "+91 98385 84724",
+    "website": "https://www.moneygram.com/r/in/en?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MIDDHI CHAURAHA, near SBI, Harpur, Ballia, Uttar Pradesh 277001",
+    "area": "Harpur",
+    "latitude": 25.76258,
+    "longitude": 84.15275,
+    "place_id": "ChIJMxi-I8BlkjkRKUBBVyqcCL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxi-I8BlkjkRKUBBVyqcCL4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:35:07"
+  }
+]

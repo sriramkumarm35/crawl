@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Ayushman",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Guest house, Indian restaurant, Lodge",
+    "pincode": "221306",
+    "phone_number": "+91 70844 18441",
+    "website": "http://www.hotelayushman.com/",
+    "rating": 4.9,
+    "reviews_count": 131,
+    "address": "S-8/340-4, officers colony, khajuri, Varanasi, Uttar Pradesh 221002",
+    "area": "officers colony, khajuri",
+    "latitude": 25.344464,
+    "longitude": 82.99115189999999,
+    "place_id": "ChIJazxytdstjjkRcEnauFzDFcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazxytdstjjkRcEnauFzDFcY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:57"
+  },
+  {
+    "business_name": "Hotel Kiaara - Boutique Hotel in Varanasi",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "221306",
+    "phone_number": "+91 99561 01173",
+    "website": "https://hotelkiaara.com/",
+    "rating": 4.4,
+    "reviews_count": 951,
+    "address": "Sh. 8/69-P-1 , Shivpur Bypass, Between Kadambini & Shubham Lawn, Airport Road, Shivpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Sangam Colony, Shivpur",
+    "latitude": 25.358834599999998,
+    "longitude": 82.9630124,
+    "place_id": "ChIJ1533tA8tjjkR-UwCGHopK5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1533tA8tjjkR-UwCGHopK5A",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:51:57"
+  }
+]

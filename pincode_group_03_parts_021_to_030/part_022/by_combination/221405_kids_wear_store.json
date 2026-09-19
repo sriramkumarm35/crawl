@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepika Fashion",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Textiles",
+    "pincode": "221405",
+    "phone_number": "+91 99192 47038",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "National Highway 56 Near Chamav Gate, Tarna Bazar, Shivpur, Tarna, Varanasi, Uttar Pradesh 221003",
+    "area": "Tarna Bazar, Tarna",
+    "latitude": 25.363644999999998,
+    "longitude": 82.9348601,
+    "place_id": "ChIJ70szWu8sjjkR_2ZjyXBKPCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70szWu8sjjkR_2ZjyXBKPCk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:11"
+  },
+  {
+    "business_name": "Mahadev Readymade Kids Wear And Menswear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "221405",
+    "phone_number": "+91 73885 77049",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop2, Jansa, Uttar Pradesh 221405",
+    "area": "221405",
+    "latitude": 25.3225297,
+    "longitude": 82.8369227,
+    "place_id": "ChIJtwxgpCzTjzkR7SkKBhPbroU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwxgpCzTjzkR7SkKBhPbroU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:11"
+  }
+]

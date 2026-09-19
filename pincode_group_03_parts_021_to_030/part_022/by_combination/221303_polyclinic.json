@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashi Health care Center",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8C7X+H46, Jagapur, Uttar Pradesh 221303",
+    "area": "221303",
+    "latitude": 25.312614999999997,
+    "longitude": 82.4476583,
+    "place_id": "ChIJswildADljzkRtJMlm5RvGkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswildADljzkRtJMlm5RvGkw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:46:03"
+  },
+  {
+    "business_name": "Ajay Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "221303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "6GF6+7CR, Chetganj Bazar Link Rd, Chetganj Bazar, Chak Majhali Patti, Uttar Pradesh 221306",
+    "area": "Chetganj Bazar",
+    "latitude": 25.2232465,
+    "longitude": 82.5110266,
+    "place_id": "ChIJPXljRKzpjzkRz62WJlxTIc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXljRKzpjzkRz62WJlxTIc0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:46:03"
+  }
+]

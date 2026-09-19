@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service center (CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet shop",
+    "all_categories": "Internet shop, Internet cafe, Railway Ticket Agent",
+    "pincode": "221406",
+    "phone_number": "+91 99484 96456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6-49, Ravindra Nagar, Visakhapatnam, Andhra Pradesh 530040",
+    "area": "Ravindra Nagar",
+    "latitude": 17.765903899999998,
+    "longitude": 83.324097,
+    "place_id": "ChIJ-WyEWqhdOToRzfwQzfaUne8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WyEWqhdOToRzfwQzfaUne8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:14:58"
+  },
+  {
+    "business_name": "CSC Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "221406",
+    "phone_number": "+91 76761 20999",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Akshay Complex, 1762, Dr Rajkumar Rd, opp. NAVARANGA THEATER, Mariappanapalya, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "Mariappanapalya, Rajajinagar",
+    "latitude": 12.997847799999999,
+    "longitude": 77.553428,
+    "place_id": "ChIJ97smp7c9rjsRI5WdjLXJPM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97smp7c9rjsRI5WdjLXJPM8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:14:58"
+  }
+]

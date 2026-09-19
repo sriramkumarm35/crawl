@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Life Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "221503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Banaras Rd, Phaphamau, Uttar Pradesh 211013",
+    "area": "221503",
+    "latitude": 25.525271699999998,
+    "longitude": 81.86497969999999,
+    "place_id": "ChIJJaJQlcvLmjkRVNzeBVpSl2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJaJQlcvLmjkRVNzeBVpSl2M",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:10"
+  },
+  {
+    "business_name": "The Rose tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "221503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CVX4+7PQ, George Town, Prayagraj, Uttar Pradesh 211002",
+    "area": "George Town",
+    "latitude": 25.448203799999998,
+    "longitude": 81.85686489999999,
+    "place_id": "ChIJa2f7fgDLmjkRZAhI3IvQOJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2f7fgDLmjkRZAhI3IvQOJk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:11"
+  }
+]

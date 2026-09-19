@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TCI FREIGHT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "221503",
+    "phone_number": "+91 98188 66824",
+    "website": "http://www.tcifreight.in/",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "DOOR NO. 58,, NEAR BUS STAND,, PHULPUR-DIST., ALLAHABAD, Uttar Pradesh 212401",
+    "area": "221503",
+    "latitude": 25.494512,
+    "longitude": 82.269193,
+    "place_id": "ChIJ9____68BkDkROr4ZIqPfRrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9____68BkDkROr4ZIqPfRrQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:34"
+  },
+  {
+    "business_name": "MAA SHANTI TRANSPORT",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Logistics service",
+    "pincode": "221503",
+    "phone_number": "+91 73552 04990",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "297, Mundera, near Kalevam Restaurant, Sector 5, Transport Nagar, Dhoomanganj, Prayagraj, Uttar Pradesh 211011",
+    "area": "Sector 5, Transport Nagar, Dhoomanganj",
+    "latitude": 25.4523953,
+    "longitude": 81.7691509,
+    "place_id": "ChIJI0h_H6PMmjkRQ6zNJeznAlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI0h_H6PMmjkRQ6zNJeznAlM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:21:37"
+  }
+]

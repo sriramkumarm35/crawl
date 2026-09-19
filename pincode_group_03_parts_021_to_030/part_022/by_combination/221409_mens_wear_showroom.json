@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Price Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "221409",
+    "phone_number": "+91 77780 25622",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pipri Raya Bhadohi Pipri Raya, Bhadohi, Uttar Pradesh 221409",
+    "area": "221409",
+    "latitude": 25.4511866,
+    "longitude": 82.5990333,
+    "place_id": "ChIJleX_F6LfjzkRAAAAsIQDiUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleX_F6LfjzkRAAAAsIQDiUo",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:38"
+  },
+  {
+    "business_name": "Akhil Gupta",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "221409",
+    "phone_number": "+91 83035 50103",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Katra Bazar, Chedibeer, Bhadohi, Uttar Pradesh 221401",
+    "area": "Katra Bazar, Chedibeer",
+    "latitude": 25.3977695,
+    "longitude": 82.5694096,
+    "place_id": "ChIJcSTy-6HfjzkRh7DcrljGW-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSTy-6HfjzkRh7DcrljGW-U",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:38"
+  }
+]

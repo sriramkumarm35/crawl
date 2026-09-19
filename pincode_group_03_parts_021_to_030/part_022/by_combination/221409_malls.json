@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Mall 36",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "221409",
+    "phone_number": "+91 79872 83821",
+    "website": "http://www.citymall36.com/bilaspur",
+    "rating": 4,
+    "reviews_count": 12271,
+    "address": "NH-7, Chowk, beside Hotel Marriot, Mangla, Bilaspur, Chhattisgarh 495001",
+    "area": "Ganga Nagar Sector - 2, Ganga Nagar, Mangla",
+    "latitude": 22.0938601,
+    "longitude": 82.12540489999999,
+    "place_id": "ChIJ8YuMVYAMKDoRquhh7Ly2Z_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YuMVYAMKDoRquhh7Ly2Z_s",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:18:59"
+  },
+  {
+    "business_name": "Rama Magneto Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, ATM",
+    "pincode": "221409",
+    "phone_number": "+91 91093 08688",
+    "website": "http://www.ramamagnetomall.com/",
+    "rating": 4.2,
+    "reviews_count": 17841,
+    "address": "Srikant Verma Marg, Tarbahar Chowk, Bilaspur, Chhattisgarh 495001",
+    "area": "Tarbahar Chowk",
+    "latitude": 22.0716759,
+    "longitude": 82.1498944,
+    "place_id": "ChIJac7veSILKDoRBgz2_skVyq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJac7veSILKDoRBgz2_skVyq8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:18:59"
+  }
+]

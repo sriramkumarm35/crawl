@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New fancy silai /beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "221307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kachhawa Rd, Pure, Varanasi, Uttar Pradesh 221313",
+    "area": "221307",
+    "latitude": 25.2574242,
+    "longitude": 82.71031769999999,
+    "place_id": "ChIJ6_NkaPnFjzkREV7v99gtXmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_NkaPnFjzkREV7v99gtXmI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:53:34"
+  },
+  {
+    "business_name": "Anamika Ladies beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "221307",
+    "phone_number": "+91 70712 28988",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kachhawa Rd, Thatra, Uttar Pradesh 221313",
+    "area": "221307",
+    "latitude": 25.2698724,
+    "longitude": 82.710439,
+    "place_id": "ChIJz7jMLlTFjzkRv4mMWtcRQxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7jMLlTFjzkRv4mMWtcRQxw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:53:34"
+  }
+]

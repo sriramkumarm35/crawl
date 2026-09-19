@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Vaishno Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store, Auto parts store",
+    "pincode": "221508",
+    "phone_number": "+91 96511 11178",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 10,
+    "address": "Varanasi - Allahabad Road, Grand Trunk Rd, Saidabad, Uttar Pradesh 221508",
+    "area": "Neta Nagar Bazar",
+    "latitude": 25.374676599999997,
+    "longitude": 82.1181174,
+    "place_id": "ChIJ9VpNBexThTkRU9KKdIzGO60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VpNBexThTkRU9KKdIzGO60",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:00"
+  },
+  {
+    "business_name": "Universal Motor Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "221508",
+    "phone_number": "+91 93355 03202",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "CRXP+HH7, Madhopur, Prayagraj, Uttar Pradesh 211001",
+    "area": "Madhopur",
+    "latitude": 25.4489098,
+    "longitude": 81.8364101,
+    "place_id": "ChIJLYIln8XKmjkREhKIyDnXm2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYIln8XKmjkREhKIyDnXm2E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:27:03"
+  }
+]

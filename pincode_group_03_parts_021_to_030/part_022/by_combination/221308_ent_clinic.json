@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Cardiologist, Internal medicine ward, Maternity Centre, Neurologist, Orthopedic clinic, Hospital, Psychiatric hospital, Surgeon",
+    "pincode": "221308",
+    "phone_number": "+91 87953 65826",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 14,
+    "address": "Prakash Hospital, opp. Old Indian Oil Petrol Pump, Bhadohi, Suriyawan, Uttar Pradesh 221404",
+    "area": "Bhadohi",
+    "latitude": 25.4588239,
+    "longitude": 82.4179825,
+    "place_id": "ChIJcaqRPYDjjzkRCetJHv3V7FY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaqRPYDjjzkRCetJHv3V7FY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:54:57"
+  },
+  {
+    "business_name": "Raj Enterprises Medical Agency",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "221308",
+    "phone_number": "+91 95650 16595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bithalpur, Raniganj, Uttar Pradesh 230304",
+    "area": "221308",
+    "latitude": 25.794750399999998,
+    "longitude": 82.0430678,
+    "place_id": "ChIJSQMZQ2CjmjkRGUkT_-URd8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQMZQ2CjmjkRGUkT_-URd8M",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:54:59"
+  }
+]

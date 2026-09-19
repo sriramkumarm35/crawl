@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Enterprises",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "221303",
+    "phone_number": "+91 98383 86838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Patel Nagar, Gyanpur, Jorai, Uttar Pradesh 221304",
+    "area": "Patel Nagar",
+    "latitude": 25.3359588,
+    "longitude": 82.4732799,
+    "place_id": "ChIJy2-B3jHljzkRsBWAacJL2FM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2-B3jHljzkRsBWAacJL2FM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:47:13"
+  },
+  {
+    "business_name": "Jaiswal Electronics",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Marketing consultant",
+    "pincode": "221303",
+    "phone_number": "+91 88875 83521",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Palika Market, Gyanpur Road, Gopiganj, Kathauta, Uttar Pradesh 221303",
+    "area": "221303",
+    "latitude": 25.2870027,
+    "longitude": 82.4327967,
+    "place_id": "ChIJGwKYboLljzkRAAAAsExA43E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwKYboLljzkRAAAAsExA43E",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:47:14"
+  }
+]

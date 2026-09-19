@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nazim",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "221409",
+    "phone_number": "+91 75259 28251",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Near Taha Jama Masjid Pashchim Taraf, Station Road, Bhadohi, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.3942885,
+    "longitude": 82.5674825,
+    "place_id": "ChIJqwpNoB7fjzkRgJNiaB4ifBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwpNoB7fjzkRgJNiaB4ifBU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:31"
+  },
+  {
+    "business_name": "Barkat Ali Roti Wale",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "221409",
+    "phone_number": "+91 96967 88367",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Noorkhanpur, Bhadohi, Uttar Pradesh 221401",
+    "area": "Noorkhanpur",
+    "latitude": 25.3943555,
+    "longitude": 82.5761146,
+    "place_id": "ChIJnWGrZsLfjzkRNBralOcAfSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWGrZsLfjzkRNBralOcAfSk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:34"
+  }
+]

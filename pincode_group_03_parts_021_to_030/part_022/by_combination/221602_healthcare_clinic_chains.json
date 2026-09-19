@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeevani Health Care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "221602",
+    "phone_number": "+91 98269 54488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "102, Simrol Rd, Opposite Dreamland Cinema, Dr. Ambedkar Nagar, Madhya Pradesh 453441",
+    "area": "Opposite Dreamland Cinema",
+    "latitude": 22.5552991,
+    "longitude": 75.761305,
+    "place_id": "ChIJFWesNSv4YjkRmn23dCK5q0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWesNSv4YjkRmn23dCK5q0I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:27"
+  },
+  {
+    "business_name": "Global Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Healthcare Clinic Chains",
+    "all_categories": "Healthcare Clinic Chains",
+    "pincode": "221602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Astupura, Mau, Uttar Pradesh 275101",
+    "area": "Astupura",
+    "latitude": 25.9559122,
+    "longitude": 83.55045439999999,
+    "place_id": "ChIJwQmFuVKKkTkRK8roq4arpJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQmFuVKKkTkRK8roq4arpJM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:27"
+  }
+]

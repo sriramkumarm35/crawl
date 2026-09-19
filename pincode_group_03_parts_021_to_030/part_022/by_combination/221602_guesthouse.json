@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Powergrid guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "221602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3PF7+966, Chak Habsapur, Uttar Pradesh 221716",
+    "area": "221602",
+    "latitude": 26.0734073,
+    "longitude": 83.7130023,
+    "place_id": "ChIJKUrXCpwlkjkRUdvdvrdd658",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUrXCpwlkjkRUdvdvrdd658",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:57"
+  },
+  {
+    "business_name": "Nidiyon",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "221602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "4QJG+H3R, ballouli - haibat pur Rd, Rasulpur Adampur Urf R, Belauli Bhojipur, Uttar Pradesh 221602",
+    "area": "221602",
+    "latitude": 26.1314752,
+    "longitude": 83.7751293,
+    "place_id": "ChIJcVVYD4UxkjkRAKchj0zIdhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVVYD4UxkjkRAKchj0zIdhg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:30:57"
+  }
+]

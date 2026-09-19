@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Garments and Saree",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Clothing Accessories Store, Saree Shop",
+    "pincode": "221311",
+    "phone_number": "+91 94520 35516",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Rajatalab, Uttar Pradesh 221311",
+    "area": "221311",
+    "latitude": 25.2699939,
+    "longitude": 82.8517443,
+    "place_id": "ChIJ84_Sg87NjzkRvG1GUm7I0wM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84_Sg87NjzkRvG1GUm7I0wM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:59:54"
+  },
+  {
+    "business_name": "SG Enterprises",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "221311",
+    "phone_number": "+91 70714 03803",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Rajatalab, Kachnar, Uttar Pradesh 221311",
+    "area": "221311",
+    "latitude": 25.2639365,
+    "longitude": 82.8446858,
+    "place_id": "ChIJ17LgcljNjzkR1MpHlUzodrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17LgcljNjzkR1MpHlUzodrI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:59:54"
+  }
+]

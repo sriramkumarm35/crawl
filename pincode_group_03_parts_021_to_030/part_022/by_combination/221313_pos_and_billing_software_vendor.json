@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDIAN COMPUTER TECHNOLOGY",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "221313",
+    "phone_number": "+91 99221 63448",
+    "website": "http://www.indiancomptech.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BUS STOP, near VIJAY NAGAR, Vijay Nagar, Kalewadi, Pimpri-Chinchwad, Pune, Maharashtra 411017",
+    "area": "Vijay Nagar, Kalewadi",
+    "latitude": 18.6239004,
+    "longitude": 73.7922815,
+    "place_id": "ChIJ7xGWwc25wjsREQUUkVfitAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xGWwc25wjsREQUUkVfitAM",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:47"
+  },
+  {
+    "business_name": "EPOS DIGITAL SOLUTIONS",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "POS terminal supplier",
+    "all_categories": "POS terminal supplier, Computer Hardware Company, Computer software store, Computer store, Medical billing service",
+    "pincode": "221313",
+    "phone_number": "+91 77383 37321",
+    "website": "http://eposdigitalsolutions.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B wing, ground floor, Chamunda Apartment, 003, near ved hospital, Kongaon, Maharashtra 421311",
+    "area": "Kon",
+    "latitude": 19.245838,
+    "longitude": 73.10958699999999,
+    "place_id": "ChIJyX8opVbH5zsRbn1Xzqthiy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyX8opVbH5zsRbn1Xzqthiy0",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:48"
+  }
+]

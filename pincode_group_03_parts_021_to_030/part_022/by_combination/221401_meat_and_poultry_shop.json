@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muslim Chicken center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Poultry store",
+    "pincode": "221401",
+    "phone_number": "+91 96962 65698",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Makhdumpur By pass road, near Singh darbar dhaba, Bhadohi, Uttar Pradesh 221401",
+    "area": "221401",
+    "latitude": 25.398948299999997,
+    "longitude": 82.5865792,
+    "place_id": "ChIJt9ldZJffjzkR8yiEW56UJXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9ldZJffjzkR8yiEW56UJXE",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:04"
+  },
+  {
+    "business_name": "Kaynat Halal Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "221401",
+    "phone_number": "+91 83768 94793",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "705, D-35A, Ward No 6, Aam Bagh, Islam Colony, Mehrauli, New Delhi, Delhi 110030",
+    "area": "Ward No 6, Aam Bagh, Islam Colony, Mehrauli",
+    "latitude": 28.5124149,
+    "longitude": 77.1784821,
+    "place_id": "ChIJuTmsjA0eDTkRKniW-4BjzsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTmsjA0eDTkRKniW-4BjzsU",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zam zam mini mart ghosi mau",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "221603",
+    "phone_number": "+91 70543 07487",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karimuddin pur baghai, Madhuban - Ghosi Rd, near Markazi madarsa, Ghosi, Uttar Pradesh 275304",
+    "area": "221603",
+    "latitude": 26.131916099999998,
+    "longitude": 83.574184,
+    "place_id": "ChIJBx0Z-TaHkTkRB491M-xQ3VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBx0Z-TaHkTkRB491M-xQ3VQ",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:39"
+  },
+  {
+    "business_name": "RCM Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "221603",
+    "phone_number": "+91 87269 17577",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ansh RCM PUC, Dargah, Chakara, Uttar Pradesh 276306",
+    "area": "221603",
+    "latitude": 26.1981225,
+    "longitude": 83.622,
+    "place_id": "ChIJuTIpYZ0rkjkRvQkOmdXwd14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTIpYZ0rkjkRvQkOmdXwd14",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:31:40"
+  }
+]

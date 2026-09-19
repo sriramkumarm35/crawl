@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chicago Pizza - Bhadohi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "221401",
+    "phone_number": "N/A",
+    "website": "https://chicagopizza.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No- 13, Ground Floor, Bida Mart, Chedibeer, Rajpura, Bhadohi, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.380707299999997,
+    "longitude": 82.5682968,
+    "place_id": "ChIJl3wOYgXdjzkR0D1w17ZK4Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3wOYgXdjzkR0D1w17ZK4Wg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:13"
+  },
+  {
+    "business_name": "Bajaj Auto (Dhananjay Bajaj, Bhadohi, Station Road)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Motor vehicle dealer, Motorcycle shop",
+    "pincode": "221401",
+    "phone_number": "+91 93692 42483",
+    "website": "https://www.bajajauto.com/",
+    "rating": 3.6,
+    "reviews_count": 223,
+    "address": "Station Road, Chedibeer, Bhadohi, Piyari, Uttar Pradesh 221401",
+    "area": "Chedibeer",
+    "latitude": 25.3956062,
+    "longitude": 82.5637928,
+    "place_id": "ChIJ8xQ5pR3ejzkRsNKh9dlBm14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xQ5pR3ejzkRsNKh9dlBm14",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:05:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashi Darshan Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Taxi service",
+    "pincode": "221305",
+    "phone_number": "+91 70078 77821",
+    "website": "https://www.kashidarshantravels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Girjaghar, Luxa Rd, Ramapura Luxa, Varanasi, Uttar Pradesh 221010",
+    "area": "Ramapura Luxa",
+    "latitude": 25.3087797,
+    "longitude": 83.0041049,
+    "place_id": "ChIJ82HfRdEtjjkR5lw6gUu8L4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82HfRdEtjjkR5lw6gUu8L4I",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:49:43"
+  },
+  {
+    "business_name": "Varanasi Best Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "221305",
+    "phone_number": "+91 96167 61641",
+    "website": "https://varanasibestcab.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Varanasi Best Cab, 221305, India",
+    "area": "221305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJzeGCdGTcqQ8R4mbq_gv79T8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeGCdGTcqQ8R4mbq_gv79T8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:49:44"
+  }
+]

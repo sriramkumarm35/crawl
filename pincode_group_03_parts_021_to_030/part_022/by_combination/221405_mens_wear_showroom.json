@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.M MEGA MART",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "221405",
+    "phone_number": "+91 91707 03938",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Road, Tiwari Pur, Lahiya, Uttar Pradesh 221405",
+    "area": "Road",
+    "latitude": 25.354439499999998,
+    "longitude": 82.8661042,
+    "place_id": "ChIJE4a2UGHTjzkR8WdY2SIJBKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4a2UGHTjzkR8WdY2SIJBKc",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:12"
+  },
+  {
+    "business_name": "Disco Tailor",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "221405",
+    "phone_number": "+91 93356 09888",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Shop No. 5 Goyanka Market, Shivpur, Varanasi, Uttar Pradesh 221003",
+    "area": "Shivpur",
+    "latitude": 25.3568319,
+    "longitude": 82.9496619,
+    "place_id": "ChIJTV9-XP8sjjkRTKiKFpUcAnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV9-XP8sjjkRTKiKFpUcAnw",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:14"
+  }
+]

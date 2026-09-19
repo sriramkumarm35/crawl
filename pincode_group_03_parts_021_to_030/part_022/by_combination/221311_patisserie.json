@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Kashi Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "221311",
+    "phone_number": "+91 70684 00488",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Bazar, Karasana Bazar Karasana, Varanasi, Uttar Pradesh 221011",
+    "area": "221311",
+    "latitude": 25.2215469,
+    "longitude": 82.9172854,
+    "place_id": "ChIJu0Pz2QwzjjkRqJOkaLVHdLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0Pz2QwzjjkRqJOkaLVHdLA",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:59:45"
+  },
+  {
+    "business_name": "The Cake Basket",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Brake shop",
+    "pincode": "221311",
+    "phone_number": "+91 74590 31994",
+    "website": "http://thecakebasket-officials.netlify.app/",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "PHASE 2, LANE No. 3, GOKULDHAM COLONY, PLOT No.: 69, Rohaniya - DLW Road, behind BLW RAILWAYS COLONY, Pahadi Gaon, DLW Colony, Tahsil, Varanasi, Pahari, Uttar Pradesh 221108",
+    "area": "Pahadi Gaon, DLW Colony, Tahsil",
+    "latitude": 25.2766865,
+    "longitude": 82.94552399999999,
+    "place_id": "ChIJbdLo_TczjjkRncjwfX7MHsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdLo_TczjjkRncjwfX7MHsk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:59:45"
+  }
+]

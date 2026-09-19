@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kashi Magical trip",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "221311",
+    "phone_number": "+91 96701 11110",
+    "website": "http://www.kashimagicaltrip.com/",
+    "rating": 5,
+    "reviews_count": 43,
+    "address": "01, mahakali Nagar Rohniya, Varanasi, Uttar Pradesh 221108",
+    "area": "221311",
+    "latitude": 25.288537899999998,
+    "longitude": 82.9328803,
+    "place_id": "ChIJ30NRbM0zjjkRwG_DqO7hlNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30NRbM0zjjkRwG_DqO7hlNg",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:19"
+  },
+  {
+    "business_name": "AbhiBus - India's largest Bus Ticket Booking",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "221311",
+    "phone_number": "+91 40 6165 6789",
+    "website": "https://www.abhibus.com/",
+    "rating": 4.5,
+    "reviews_count": 4071,
+    "address": "4th Floor, BLOCK-B, CYBER PEARL, Hitech city, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Hitech city, Madhapur",
+    "latitude": 17.445493199999998,
+    "longitude": 78.3761344,
+    "place_id": "ChIJdRdxKbTRQxER1ePgmSuHaHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRdxKbTRQxER1ePgmSuHaHI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:00:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "221313",
+    "phone_number": "+91 99357 76684",
+    "website": "http://deepakfurnitures.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kachhawa Rd, Thatra, Uttar Pradesh 221313",
+    "area": "221313",
+    "latitude": 25.2697582,
+    "longitude": 82.71070739999999,
+    "place_id": "ChIJ2aRjec7FjzkRA2QiCTs6Ux8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aRjec7FjzkRA2QiCTs6Ux8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:23"
+  },
+  {
+    "business_name": "Manish furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "221313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7P75+9MR, SH 74, Bhainsa, Tamachabad, Uttar Pradesh 221313",
+    "area": "221313",
+    "latitude": 25.2634197,
+    "longitude": 82.7092151,
+    "place_id": "ChIJzZRBSgDFjzkRHG8FPojzHp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZRBSgDFjzkRHG8FPojzHp4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:23"
+  }
+]

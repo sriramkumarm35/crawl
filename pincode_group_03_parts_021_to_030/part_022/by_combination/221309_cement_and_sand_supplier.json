@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meet Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Building materials supplier",
+    "pincode": "221309",
+    "phone_number": "+91 75671 97823",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "11, Hillol Complex, Vastrapur, Ahmedabad, Gujarat 380015",
+    "area": "Vastrapur",
+    "latitude": 23.0361732,
+    "longitude": 72.5229815,
+    "place_id": "ChIJ8Tzp0-iFXjkRWv4RHBStWFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Tzp0-iFXjkRWv4RHBStWFk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:56:55"
+  },
+  {
+    "business_name": "Atul Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "221309",
+    "phone_number": "+91 98250 17200",
+    "website": "http://atulbuildcare.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "End Of Kalupur Bridge, 4, Naroda Rd, opp. sumel, Amdupura, Ahmedabad, Gujarat 380025",
+    "area": "Amdupura, Saraspur",
+    "latitude": 23.034250999999998,
+    "longitude": 72.6040902,
+    "place_id": "ChIJVVVVlSCEXjkRbzZ_lw1arNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlSCEXjkRbzZ_lw1arNs",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:56:55"
+  }
+]

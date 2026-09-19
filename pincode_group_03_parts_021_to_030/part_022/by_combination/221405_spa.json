@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "celebrino",
+    "search_category": "Spa",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Make-up artist",
+    "pincode": "221405",
+    "phone_number": "+91 89320 66668",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Aashirwad Complex, 2nd Floor, Kerakatpur, Lohta, Uttar Pradesh 221107",
+    "area": "Lohta Bazar",
+    "latitude": 25.3074102,
+    "longitude": 82.9441689,
+    "place_id": "ChIJd6RAlCgtjjkR3m6-eeugjn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6RAlCgtjjkR3m6-eeugjn4",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:51"
+  },
+  {
+    "business_name": "Suresh",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "221405",
+    "phone_number": "+91 99563 28101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "31, Panchkoshi Rd, opposite Canara Bank, Jansa, Varanasi, Uttar Pradesh 221405",
+    "area": "221405",
+    "latitude": 25.3215751,
+    "longitude": 82.83573609999999,
+    "place_id": "ChIJ5brM89rTjzkRSncdVACa8k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5brM89rTjzkRSncdVACa8k8",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:12:52"
+  }
+]

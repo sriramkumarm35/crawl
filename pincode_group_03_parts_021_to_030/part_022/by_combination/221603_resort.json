@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kingston Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "221603",
+    "phone_number": "+91 99358 59994",
+    "website": "https://www.statusclub.co.in/kingston_resort.html",
+    "rating": 4.3,
+    "reviews_count": 2319,
+    "address": "85, The Mall, Kanpur Cantonment, Kanpur, Uttar Pradesh 208004",
+    "area": "The Mall, Kanpur Cantonment",
+    "latitude": 26.4624882,
+    "longitude": 80.3626831,
+    "place_id": "ChIJ9fAyqrJAnDkRJTB-32j2sfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fAyqrJAnDkRJTB-32j2sfk",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:32:41"
+  },
+  {
+    "business_name": "The Regalia Restaurant, Banquet and Resort Gorakhpur",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall",
+    "pincode": "221603",
+    "phone_number": "+91 81128 89999",
+    "website": "https://www.theregaliaresort.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "west, near Value Plus Showroom, sadar, Rajendra Nagar, Gorakhpur, Uttar Pradesh 273015",
+    "area": "sadar, Rajendra Nagar",
+    "latitude": 26.7904739,
+    "longitude": 83.3557931,
+    "place_id": "ChIJx7PHS3dFkTkRsqcmHbmImOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7PHS3dFkTkRsqcmHbmImOI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:32:43"
+  }
+]

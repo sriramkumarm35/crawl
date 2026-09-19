@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GENUINE CAR SALES",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "221313",
+    "phone_number": "+91 87564 64239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GENUINE Car Sales, Lilapur, Kharagpur, Uttar Pradesh 230137",
+    "area": "221313",
+    "latitude": 25.923310599999997,
+    "longitude": 81.8363202,
+    "place_id": "ChIJsyyQSTXtmjkRC3ec1XvIwcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyyQSTXtmjkRC3ec1XvIwcI",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:07"
+  },
+  {
+    "business_name": "Shree Motors (Pre Owned Car Dealer)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "221313",
+    "phone_number": "+91 63876 40140",
+    "website": "https://sites.google.com/view/shreemotors405/home",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "SEHDA, FAIZABAD ROAD, Kandhrapur, Azamgarh, Uttar Pradesh 276135",
+    "area": "221313",
+    "latitude": 26.1137238,
+    "longitude": 83.1517799,
+    "place_id": "ChIJ40SnvsKlkTkRoR_COrKR_0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40SnvsKlkTkRoR_COrKR_0g",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:02:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nobel Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "221311",
+    "phone_number": "+91 93365 41950",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "D-65/12919, Lohta Bazar, Lakhanpur, Varanasi, Uttar Pradesh 221108",
+    "area": "Lohta Bazar",
+    "latitude": 25.295415,
+    "longitude": 82.9407107,
+    "place_id": "ChIJ26rPFwAzjjkRSMQ3P81n9cY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26rPFwAzjjkRSMQ3P81n9cY",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:59:50"
+  },
+  {
+    "business_name": "Indian Spices",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "221311",
+    "phone_number": "+91 90262 43972",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No. 29, Inna Mayi Gali, Hartirath, Opp. Inna Mata Mandir, Sabji Mandi, Visweshwarganj, Machodari, Kotwali, Varanasi, Uttar Pradesh 221001",
+    "area": "Hartirath, Opp. Inna Mata Mandir, Sabji Mandi, Visweshwarganj, Machodari, Kotwali",
+    "latitude": 25.320799899999997,
+    "longitude": 83.017459,
+    "place_id": "ChIJlcBa2DwujjkRycnKUxKN-5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcBa2DwujjkRycnKUxKN-5c",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 06:59:52"
+  }
+]

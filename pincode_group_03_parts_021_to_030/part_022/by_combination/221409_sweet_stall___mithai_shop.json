@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyam Sweets & colddrink",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "221409",
+    "phone_number": "+91 91408 03960",
+    "website": "http://www.satyamsweets.com/",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "Satyam Sweets & colddrink Bataubeer bajar, Uttar Pradesh 222125",
+    "area": "221409",
+    "latitude": 25.9226767,
+    "longitude": 82.5020792,
+    "place_id": "ChIJqwMhC0FrkDkRkk-ilLdho2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwMhC0FrkDkRkk-ilLdho2g",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:30"
+  },
+  {
+    "business_name": "Aman sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "221409",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CH6M+CVF, Nai Bazar Rd, Naya Bazar, Uttar Pradesh 221409",
+    "area": "221409",
+    "latitude": 25.4110734,
+    "longitude": 82.58467189999999,
+    "place_id": "ChIJ-ZVJYI3fjzkRMyez3p-HQ9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZVJYI3fjzkRMyez3p-HQ9Q",
+    "part_id": "part_022",
+    "crawled_at": "2026-09-19 07:17:32"
+  }
+]
