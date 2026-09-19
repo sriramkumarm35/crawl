@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADARSH STATIONERY & COMPUTER",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "232118",
+    "phone_number": "+91 98278 26592",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "College Rd, Chhawani Naka, Chhawani, Agar, Madhya Pradesh 465441",
+    "area": "Chhawani Naka, Chhawani",
+    "latitude": 23.7182086,
+    "longitude": 76.0194972,
+    "place_id": "ChIJacqomjOXZDkRVCzEtNkwdj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacqomjOXZDkRVCzEtNkwdj0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:27:10"
+  },
+  {
+    "business_name": "Dev - Ved Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "232118",
+    "phone_number": "+91 89201 59222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "01, Srivastav Katra, Rema Mode Bypass Chauraha, Rema, Uttar Pradesh 232101",
+    "area": "232118",
+    "latitude": 25.2592198,
+    "longitude": 83.1380286,
+    "place_id": "ChIJRRLXLp87jjkRtwTHDAv2l3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRLXLp87jjkRtwTHDAv2l3U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:27:11"
+  }
+]

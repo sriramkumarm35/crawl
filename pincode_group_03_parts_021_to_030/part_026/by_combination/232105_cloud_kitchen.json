@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TN CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "232105",
+    "phone_number": "+91 88587 17901",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bangalapar, Dildar Nagar, Uttar Pradesh 232326",
+    "area": "Bangalapar",
+    "latitude": 25.43115,
+    "longitude": 83.66692139999999,
+    "place_id": "ChIJ3Ui2kZ_9jTkRdMfnkMXSS1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Ui2kZ_9jTkRdMfnkMXSS1U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:13:50"
+  },
+  {
+    "business_name": "Jindal Kitchen Cloud",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "232105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HM74+8GW, Burja Rd, Tahra, Vrindavan, Uttar Pradesh 281003",
+    "area": "232105",
+    "latitude": 27.5633587,
+    "longitude": 77.6563165,
+    "place_id": "ChIJk-NkGQBvczkRh7UEn4n3_-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-NkGQBvczkRh7UEn4n3_-s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:13:50"
+  }
+]

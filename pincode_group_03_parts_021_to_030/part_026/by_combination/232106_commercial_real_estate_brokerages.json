@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REMAX REALTY SERVICES",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate agent",
+    "pincode": "232106",
+    "phone_number": "+91 96301 27461",
+    "website": "http://www.remax.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "3rd Floor Shri Ram Kripa Tower Near by Reliance Digital Danish Nagar, Narmadapuram Rd, Bhopal, Madhya Pradesh 462026",
+    "area": "Chinar Fortune City",
+    "latitude": 23.184756999999998,
+    "longitude": 77.4530625,
+    "place_id": "ChIJV4xsLmVDfDkRlDPxu_7kz9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4xsLmVDfDkRlDPxu_7kz9E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:50"
+  },
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Business development service, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "232106",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gata No.49, Pandey More, Khan Katra, Ground Floor, Zamania, Uttar Pradesh 232329",
+    "area": "232106",
+    "latitude": 25.4241399,
+    "longitude": 83.557643,
+    "place_id": "ChIJAyQnpcgHjjkRZwltx2PBsNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyQnpcgHjjkRZwltx2PBsNk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:51"
+  }
+]

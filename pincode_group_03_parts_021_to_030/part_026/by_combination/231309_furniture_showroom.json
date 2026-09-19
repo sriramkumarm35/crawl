@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "231309",
+    "phone_number": "+91 93152 33919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suklaha Kachahari Rod, Mirzapur, Uttar Pradesh 231307",
+    "area": "231309",
+    "latitude": 25.140365499999998,
+    "longitude": 82.59436,
+    "place_id": "ChIJjUn82W3BjzkR37y6b5P73-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUn82W3BjzkR37y6b5P73-A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:42"
+  },
+  {
+    "business_name": "Kurlon Korner",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store",
+    "pincode": "231309",
+    "phone_number": "+91 8071 655 157",
+    "website": "https://store.kurlon.com/kurlon/mattress-stores-in-mirzapur/mattress-stores-in-Paira-Tola/kurlon-mattress-store-in-Paira-Tola-mirzapur--4E1QvT/home",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Tathai Rd, in front of Ganesh misthan bhandar, Katra Bazirao, Mirzapur, Uttar Pradesh 231001",
+    "area": "Katra Bazirao",
+    "latitude": 25.143496799999998,
+    "longitude": 82.5657657,
+    "place_id": "ChIJzx6WxAfrjzkR3FTFV_aGt0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzx6WxAfrjzkR3FTFV_aGt0k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:43"
+  }
+]

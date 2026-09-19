@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shirsi Waterfall",
+    "search_category": "Boutiques",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "231309",
+    "phone_number": "+91 522 406 1369",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RFHQ+Q8G, Leduki, Uttar Pradesh 231309",
+    "area": "231309",
+    "latitude": 24.8294438,
+    "longitude": 82.488334,
+    "place_id": "ChIJS280z-CbjzkR_5bj9NanU4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS280z-CbjzkR_5bj9NanU4I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:12"
+  },
+  {
+    "business_name": "Vikram singh",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Service establishment",
+    "pincode": "231309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Vikram singh, 231309, India",
+    "area": "231309",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ2zJ8la3rjzkRtAeI3qBsrss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zJ8la3rjzkRtAeI3qBsrss",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:15"
+  }
+]

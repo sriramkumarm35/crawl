@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonalika Tractor",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "232105",
+    "phone_number": "+91 81277 70233",
+    "website": "http://www.sonalika.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "99PH+GP2, Kamalpur, Uttar Pradesh 232106",
+    "area": "232105",
+    "latitude": 25.386266,
+    "longitude": 83.3792706,
+    "place_id": "ChIJraBGVQUbjjkRstUJviLv0mI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraBGVQUbjjkRstUJviLv0mI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:14:14"
+  },
+  {
+    "business_name": "Swaraj Tractors - M/S R.S Motors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Farm equipment supplier, Tractor repair shop",
+    "pincode": "232105",
+    "phone_number": "+91 8071 325 712",
+    "website": "https://dealers.swarajtractors.com/swaraj-tractors/tractor-showroom-in-barabanki/tractor-showroom-in-chandauli/swaraj-tractors-ms-rs-motors-in-chandauli-barabanki--5c8dc198-1893-4b86-849d-1359cb6f4640/home",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "opposite Tata Motors, Ram Sanehi Ghat, Chandauli, Uttar Pradesh 225409",
+    "area": "Ram Sanehi Ghat",
+    "latitude": 26.808278599999998,
+    "longitude": 81.52275259999999,
+    "place_id": "ChIJwXHxiAktmjkRYLQxYa37dEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXHxiAktmjkRYLQxYa37dEU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:14:15"
+  }
+]

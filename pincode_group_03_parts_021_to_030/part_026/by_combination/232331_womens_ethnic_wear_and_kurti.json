@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zola Fashions",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing manufacturer",
+    "pincode": "232331",
+    "phone_number": "+91 98201 17585",
+    "website": "https://zola.in/",
+    "rating": 4.3,
+    "reviews_count": 278,
+    "address": "F.P, Shree Sadguru Heights, 455, Bhavani Shankar Rd, Anmol Co-Operative Housing Society, Dadar West, Dadar, Mumbai, Maharashtra 400028",
+    "area": "Anmol Co-Operative Housing Society, Dadar West, Dadar",
+    "latitude": 19.0159528,
+    "longitude": 72.83728669999999,
+    "place_id": "ChIJwXWJD8PO5zsRC-rAsvUDVzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXWJD8PO5zsRC-rAsvUDVzw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:26"
+  },
+  {
+    "business_name": "Zola",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Western apparel store",
+    "all_categories": "Western apparel store",
+    "pincode": "232331",
+    "phone_number": "+91 98201 17585",
+    "website": "http://www.zola.in/",
+    "rating": 4.5,
+    "reviews_count": 42,
+    "address": "Shop no 1, Varkhana bhavan, Bhavani Shankar Rd, opp. kabutar khana, Omkar Society, Dadar West, Dadar, Mumbai, Maharashtra 400028",
+    "area": "Omkar Society, Dadar West, Dadar",
+    "latitude": 19.0190443,
+    "longitude": 72.8402424,
+    "place_id": "ChIJVVUZT9vO5zsRHurvV5qUry8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUZT9vO5zsRHurvV5qUry8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:26"
+  }
+]

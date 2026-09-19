@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakaldiha Kot",
+    "search_category": "Fish Market",
+    "primary_category": "Egg supplier",
+    "all_categories": "Egg supplier, Store",
+    "pincode": "232108",
+    "phone_number": "+91 91207 85565",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kot, Sakaldiha, Sakaldiha, Uttar Pradesh 232109",
+    "area": "Kot, Sakaldiha",
+    "latitude": 25.345883099999998,
+    "longitude": 83.2606028,
+    "place_id": "ChIJg6_u4McZjjkRHHOyZ8y_4Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6_u4McZjjkRHHOyZ8y_4Jw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:18:57"
+  },
+  {
+    "business_name": "Sakaldiha",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "232108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9725+346, Sakaldiha, Uttar Pradesh 232109",
+    "area": "232108",
+    "latitude": 25.3501566,
+    "longitude": 83.2577694,
+    "place_id": "ChIJrzyISwAZjjkR7Vv-3Eql6Is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzyISwAZjjkR7Vv-3Eql6Is",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:18:57"
+  }
+]

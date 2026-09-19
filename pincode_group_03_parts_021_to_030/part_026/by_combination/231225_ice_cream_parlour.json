@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Tasty Bites",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "231225",
+    "phone_number": "+91 81033 37902",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 105,
+    "address": "Near, Bus Stand Road, Main Market, Singrauli, Madhya Pradesh 486889",
+    "area": "Main Market",
+    "latitude": 24.1991421,
+    "longitude": 82.6671145,
+    "place_id": "ChIJfQwPfjY6jzkRdaWfm4gToho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQwPfjY6jzkRdaWfm4gToho",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:39:55"
+  },
+  {
+    "business_name": "Baskin Robbins",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Dessert shop",
+    "pincode": "231225",
+    "phone_number": "+91 99701 24276",
+    "website": "https://www.baskinrobbinsindia.com/",
+    "rating": 4,
+    "reviews_count": 98,
+    "address": "Main Market, near to Hanuman Mandir Road, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.199827,
+    "longitude": 82.665176,
+    "place_id": "ChIJ8exIBTQ6jzkRBza1QkS1blk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8exIBTQ6jzkRBza1QkS1blk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:39:57"
+  }
+]

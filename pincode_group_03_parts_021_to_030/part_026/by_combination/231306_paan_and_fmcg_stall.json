@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Namkeen",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231306",
+    "phone_number": "+91 73182 65753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rahul Keshari Police Line Tarkapur, Nai Basti Sakti Mata Ka Mandir, Bharuhana, Mirzapur, Uttar Pradesh 231001",
+    "area": "Bharuhana",
+    "latitude": 25.1365673,
+    "longitude": 82.55051859999999,
+    "place_id": "ChIJU0mIHhzrjzkR5vAo3YFjh9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0mIHhzrjzkR5vAo3YFjh9A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:52:27"
+  },
+  {
+    "business_name": "PM Snacks Industries RATAN",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "231306",
+    "phone_number": "+91 62017 75512",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "PM Snacks Industries, near KDS College, Jamalpur, Bihar 851203",
+    "area": "231306",
+    "latitude": 25.4230101,
+    "longitude": 86.6430845,
+    "place_id": "ChIJydEReQDD8TkR3rwxuG3Uefo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydEReQDD8TkR3rwxuG3Uefo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:52:27"
+  }
+]

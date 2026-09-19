@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "233002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MH76+RRF, Arsadpur, Jangipur, Uttar Pradesh 233305",
+    "area": "233002",
+    "latitude": 25.664569399999998,
+    "longitude": 83.5620489,
+    "place_id": "ChIJj7PySQD5kTkRHCJi28C6IVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7PySQD5kTkRHCJi28C6IVM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:55:41"
+  },
+  {
+    "business_name": "Pritam tent house",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "233002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jamalpur, Uttar Pradesh 233002",
+    "area": "233002",
+    "latitude": 25.540687499999997,
+    "longitude": 83.49493749999999,
+    "place_id": "ChIJvYovLQD9kTkRFaj3-OqLfSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYovLQD9kTkRFaj3-OqLfSM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:55:41"
+  }
+]

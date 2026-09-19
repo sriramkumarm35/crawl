@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care",
+    "pincode": "233002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "J95J+GHF, Sammanpur, Gobind Sarai, Uttar Pradesh 233311",
+    "area": "233002",
+    "latitude": 25.6088126,
+    "longitude": 83.38143389999999,
+    "place_id": "ChIJ00agM4DkkTkROo6nUvcksbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00agM4DkkTkROo6nUvcksbY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:55:11"
+  },
+  {
+    "business_name": "PET & VET CLINIC",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "233002",
+    "phone_number": "+91 76519 25384",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "Sikari Kol, Uttar Pradesh 276306",
+    "area": "233002",
+    "latitude": 26.199678499999997,
+    "longitude": 83.6481429,
+    "place_id": "ChIJzY8wdygrkjkRo9uPYYYTr_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzY8wdygrkjkRo9uPYYYTr_8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:55:12"
+  }
+]

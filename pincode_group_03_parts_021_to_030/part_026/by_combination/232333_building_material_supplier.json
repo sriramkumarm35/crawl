@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utkarsh Enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "232333",
+    "phone_number": "+91 90268 65005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mohania - Buxar Rd, near Saraswati Shishu School, Nuaon, Baddha, Bihar 802132",
+    "area": "232333",
+    "latitude": 25.3671929,
+    "longitude": 83.74138099999999,
+    "place_id": "ChIJlZtlPW_7jTkRc-5BWic2uy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZtlPW_7jTkRc-5BWic2uy8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:44:37"
+  },
+  {
+    "business_name": "Building materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Construction Material Wholesaler",
+    "pincode": "232333",
+    "phone_number": "+91 80846 06622",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Baradi mod, tedipul, Nuaon, Deuria, Bihar 802132",
+    "area": "tedipul",
+    "latitude": 25.3711059,
+    "longitude": 83.7484535,
+    "place_id": "ChIJuzOFMJH6jTkRW6a7LY-ZeL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzOFMJH6jTkRW6a7LY-ZeL0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:44:37"
+  }
+]

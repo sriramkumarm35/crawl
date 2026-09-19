@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Property Deals",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "232105",
+    "phone_number": "+91 99960 63999",
+    "website": "https://bestpropertydealsgroup.com/",
+    "rating": 4.7,
+    "reviews_count": 122,
+    "address": "Urbtech One 27, Noida-Greater Noida Expy, Sector 127, Noida, Uttar Pradesh 201301",
+    "area": "Sector 127",
+    "latitude": 28.5302032,
+    "longitude": 77.3497438,
+    "place_id": "ChIJRTphuwDlDDkR_Xl36YS63eo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTphuwDlDDkR_Xl36YS63eo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:04"
+  },
+  {
+    "business_name": "Darbhanga Property Hub",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "General contractor",
+    "all_categories": "General contractor, Service establishment",
+    "pincode": "232105",
+    "phone_number": "+91 93344 97104",
+    "website": "https://darbhanga-property-hub.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Darbhanga Property Hub, 232105, India",
+    "area": "232105",
+    "latitude": 27.4919756,
+    "longitude": 81.467839,
+    "place_id": "ChIJvZ4XKuu57TkRAA58WEeJmfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZ4XKuu57TkRAA58WEeJmfU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:04"
+  }
+]

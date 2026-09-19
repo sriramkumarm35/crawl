@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Job Care Consultancy",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "232326",
+    "phone_number": "N/A",
+    "website": "https://www.logibrix.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chauraha, Boring Rd, crossing, Chauraha, Patna, Bihar 800001",
+    "area": "crossing, Chauraha",
+    "latitude": 25.612668799999998,
+    "longitude": 85.11959739999999,
+    "place_id": "ChIJlU9kCwBZ7TkRmwJSMBmtnjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlU9kCwBZ7TkRmwJSMBmtnjM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:32:57"
+  },
+  {
+    "business_name": "Nexgency Consulting",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "232326",
+    "phone_number": "+91 62912 13025",
+    "website": "http://nexgencyconsulting.com/",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Nexgency Consulting, 232326, India",
+    "area": "232326",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ9blf_hB1AjoR0q_C_SouJww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9blf_hB1AjoR0q_C_SouJww",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:32:59"
+  }
+]

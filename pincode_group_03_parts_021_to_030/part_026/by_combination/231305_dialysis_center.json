@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Shwetank",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Urologist, Transplant surgeon, Urology clinic",
+    "pincode": "231305",
+    "phone_number": "+91 91183 21960",
+    "website": "https://drshwetankmishraurologist.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagwa Rd, near Hanuman Mandir & Sigdee restaurant, Near Ravidas Park, Road, Nagwa Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Near Ravidas Park, Road, Nagwa Lanka",
+    "latitude": 25.280419,
+    "longitude": 83.0048984,
+    "place_id": "ChIJjWoRcV0xjjkR6Aehmr30-T4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWoRcV0xjjkR6Aehmr30-T4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:51:00"
+  },
+  {
+    "business_name": "Shri Balaji Clinic & Panchakarma Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "231305",
+    "phone_number": "+91 98386 80470",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Near Gandhi Chowk, Khojwan, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Near Gandhi Chowk, Khojwan, Bhelupur",
+    "latitude": 25.2907789,
+    "longitude": 82.9933769,
+    "place_id": "ChIJ4zdjH_YxjjkRiIPwIpCw0_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zdjH_YxjjkRiIPwIpCw0_4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:51:00"
+  }
+]

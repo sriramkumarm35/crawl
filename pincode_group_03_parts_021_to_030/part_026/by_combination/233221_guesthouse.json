@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "233221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M659+928, Baraganw, Uttar Pradesh 233307",
+    "area": "233221",
+    "latitude": 25.658489799999998,
+    "longitude": 83.2175311,
+    "place_id": "ChIJ5-k5sh_dkTkRM3UaBHl3kS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-k5sh_dkTkRM3UaBHl3kS4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:40"
+  },
+  {
+    "business_name": "YADAV GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "233221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BSNL MOBILE TOWER, Saidpur Chiraiyyakot Marg, Baraganw, Uttar Pradesh 233307",
+    "area": "233221",
+    "latitude": 25.657854099999998,
+    "longitude": 83.21892609999999,
+    "place_id": "ChIJvbjjAwDdkTkRnOzNZ8TTxvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbjjAwDdkTkRnOzNZ8TTxvI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:40"
+  }
+]

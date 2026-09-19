@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indraprastha",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby store, Bag shop, Childrens Store, Handbags shop, Lingerie store, Men's clothing store, Perfume store, Swimwear store, Women's clothing store",
+    "pincode": "232341",
+    "phone_number": "+91 98103 94838",
+    "website": "http://www.indraprastha.co.in/",
+    "rating": 5,
+    "reviews_count": 95,
+    "address": "G-25, near HDFC bank, Noida Sector 18, Pocket G, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "Noida Sector 18, Pocket G, Sector 18",
+    "latitude": 28.5700646,
+    "longitude": 77.3243521,
+    "place_id": "ChIJAQAA9E7kDDkR9w6-WP6S7So",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA9E7kDDkR9w6-WP6S7So",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:23"
+  },
+  {
+    "business_name": "Purple Custom Clothing",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing alteration service, Clothing manufacturer, Clothing store, Clothing supplier, Custom tailor, Designer Clothing Store, Gents Tailor, Tailor, Women's clothing store",
+    "pincode": "232341",
+    "phone_number": "+91 76784 92242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 176,
+    "address": "Gate no. - 20, G-22 (Basement, Sector 41, Noida, Uttar Pradesh 201303",
+    "area": "G Block, Sector 41",
+    "latitude": 28.5641753,
+    "longitude": 77.36525809999999,
+    "place_id": "ChIJnV72DXDlDDkRlc4cSj-ejM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnV72DXDlDDkRlc4cSj-ejM8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:23"
+  }
+]

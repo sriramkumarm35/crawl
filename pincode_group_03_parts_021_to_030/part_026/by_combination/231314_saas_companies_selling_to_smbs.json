@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Askbootstrap",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "231314",
+    "phone_number": "N/A",
+    "website": "https://askbootstrap.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Askbootstrap, 231314, India",
+    "area": "231314",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJiTo1sJeDGjkRcb9O6l3gN-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTo1sJeDGjkRcb9O6l3gN-o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:35"
+  },
+  {
+    "business_name": "SMV Virtual Consulting",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Automation company, Database Management Company, Service establishment, Website designer",
+    "pincode": "231314",
+    "phone_number": "N/A",
+    "website": "http://www.smvvirtual.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SMV Virtual Consulting, 231314, India",
+    "area": "231314",
+    "latitude": 46.423669,
+    "longitude": -79.5417226,
+    "place_id": "ChIJXQ1ob0nbmoARfFm8A1iHYvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ1ob0nbmoARfFm8A1iHYvM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:35"
+  }
+]

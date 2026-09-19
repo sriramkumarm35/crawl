@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Child care centre chandauli",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "232104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "ward no 3, Nehru Nagar, Chandauli, Uttar Pradesh 232104",
+    "area": "Nehru Nagar",
+    "latitude": 25.2607498,
+    "longitude": 83.2576191,
+    "place_id": "ChIJf70nyb0XjjkRMiVp13N742I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf70nyb0XjjkRMiVp13N742I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:12:23"
+  },
+  {
+    "business_name": "Jachcha Bachcha Kendra Sadalpura",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Women's health clinic",
+    "all_categories": "Women's health clinic",
+    "pincode": "232104",
+    "phone_number": "+91 94155 76051",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Dayalpur, Sadalpura, Uttar Pradesh 232120",
+    "area": "232104",
+    "latitude": 25.2994868,
+    "longitude": 83.2021141,
+    "place_id": "ChIJVwQEdFc9jjkRYDO_kcF5vpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwQEdFc9jjkRYDO_kcF5vpU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:12:25"
+  }
+]

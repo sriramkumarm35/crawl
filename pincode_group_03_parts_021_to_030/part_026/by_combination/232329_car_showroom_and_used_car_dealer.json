@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham KIA",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Kia dealer",
+    "pincode": "232329",
+    "phone_number": "+91 1800 120 1666",
+    "website": "https://www.shubhamkia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RCC4+XM3 AutoZone, Plot No 623, Medical College Road, Gulhariya, Gorakhpur, Jungle Dhusan, Uttar Pradesh 273013",
+    "area": "Gulhariya",
+    "latitude": 26.8222815,
+    "longitude": 83.4068649,
+    "place_id": "ChIJaYEltktFkTkRAzUVwE1RcqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYEltktFkTkRAzUVwE1RcqQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:37:13"
+  },
+  {
+    "business_name": "Avinash motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto body shop, Auto bodywork mechanic, Auto Dent Removal Service Station, Car wash",
+    "pincode": "232329",
+    "phone_number": "+91 70118 94916",
+    "website": "https://www.avinashmotors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-30, N Pandav Nagar, near government dispensary, opp. akshardham metro station, Block B, Pandav Nagar, New Delhi, Delhi, 110092",
+    "area": "Block B, Pandav Nagar",
+    "latitude": 28.6183275,
+    "longitude": 77.28383699999999,
+    "place_id": "ChIJ4wa9tmfjDDkRNCBVASkGEFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wa9tmfjDDkRNCBVASkGEFY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:37:14"
+  }
+]

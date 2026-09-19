@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Medicare",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "233001",
+    "phone_number": "+91 94152 81445",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Lanka, Ghazipur, Uttar Pradesh 233001",
+    "area": "Lanka",
+    "latitude": 25.580377799999997,
+    "longitude": 83.5675511,
+    "place_id": "ChIJtcwijA3_kTkRijAIz1DM8PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtcwijA3_kTkRijAIz1DM8PI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:21"
+  },
+  {
+    "business_name": "सिंहमेडिकल पशु दवा केन्द्र",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "233001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHC4+77P, मीहनपुरवाँ, Ghazipur, Uttar Pradesh 233001",
+    "area": "मीहनपुरवाँ",
+    "latitude": 25.570705399999998,
+    "longitude": 83.5557053,
+    "place_id": "ChIJibNSJQf_kTkRSwHrk2TN3BY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibNSJQf_kTkRSwHrk2TN3BY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:21"
+  }
+]

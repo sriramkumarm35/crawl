@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anupam Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "232329",
+    "phone_number": "+91 80901 20557",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Zamania, Uttar Pradesh 232329",
+    "area": "232329",
+    "latitude": 25.4165036,
+    "longitude": 83.55927969999999,
+    "place_id": "ChIJZ1sFH6IHjjkREAAV5OfjAN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1sFH6IHjjkREAAV5OfjAN4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:37:38"
+  },
+  {
+    "business_name": "Rama Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "232329",
+    "phone_number": "+91 84008 15657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GH9V+6CC, Dhadni Bhanmal Rai, Uttar Pradesh 232336",
+    "area": "232329",
+    "latitude": 25.5180656,
+    "longitude": 83.593524,
+    "place_id": "ChIJb-3dEv7_jTkR5QmC_VkzKhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb-3dEv7_jTkR5QmC_VkzKhQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:37:38"
+  }
+]

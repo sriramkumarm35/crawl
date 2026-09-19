@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "232107",
+    "phone_number": "+91 89240 04933",
+    "website": "http://www.hostelworld.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "C685+MR2, Chahaniya, Uttar Pradesh 232114",
+    "area": "232107",
+    "latitude": 25.4166268,
+    "longitude": 83.2095121,
+    "place_id": "ChIJe5QQjoEhjjkRVDm5a7gd7yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5QQjoEhjjkRVDm5a7gd7yI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:18:11"
+  },
+  {
+    "business_name": "Room for rent",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "232107",
+    "phone_number": "+91 85439 94014",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Balua Rd, kaithi, Chahaniya, Kaithi, Uttar Pradesh 232109",
+    "area": "kaithi",
+    "latitude": 25.435444399999998,
+    "longitude": 83.1936222,
+    "place_id": "ChIJiWLd-ukhjjkR20y4yfxR_VA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWLd-ukhjjkR20y4yfxR_VA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:18:11"
+  }
+]

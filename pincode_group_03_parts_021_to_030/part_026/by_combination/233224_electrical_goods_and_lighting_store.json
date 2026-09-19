@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Store",
+    "pincode": "233224",
+    "phone_number": "+91 94152 63403",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "GCR2+RMG, Market, Nandganj, Barahpur, Uttar Pradesh 233302",
+    "area": "Nandganj",
+    "latitude": 25.5420719,
+    "longitude": 83.4017101,
+    "place_id": "ChIJCVbZuMHikTkRwTuZtqwI4hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVbZuMHikTkRwTuZtqwI4hQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:02:45"
+  },
+  {
+    "business_name": "Verma LED House",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Bathroom supply store, Electronics Accessories Wholesaler, Hardware store",
+    "pincode": "233224",
+    "phone_number": "+91 80853 57100",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sarafa Market, Distt, Barhi, Madhya Pradesh 483770",
+    "area": "233224",
+    "latitude": 23.902814799999998,
+    "longitude": 80.8158263,
+    "place_id": "ChIJ90gqznAAhDkRDOg6PPM0k4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90gqznAAhDkRDOg6PPM0k4w",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:02:46"
+  }
+]

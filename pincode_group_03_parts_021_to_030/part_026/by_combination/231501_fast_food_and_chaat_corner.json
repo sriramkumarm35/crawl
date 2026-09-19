@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAXMI CHINESE AND FAST FOOD CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maharajganj - Parsipur Rd, Hussainipur, Uttar Pradesh 221314",
+    "area": "231501",
+    "latitude": 25.2564395,
+    "longitude": 82.6142107,
+    "place_id": "ChIJj7wSBQDDjzkRgUZc7JD9Tm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7wSBQDDjzkRgUZc7JD9Tm8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:52"
+  },
+  {
+    "business_name": "Pankaj Chat Chaumin Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malhan, Kamhariya, Kewatabir, Garauli, Uttar Pradesh 231501",
+    "area": "Malhan, Kamhariya",
+    "latitude": 25.225413,
+    "longitude": 82.6645997,
+    "place_id": "ChIJ3_dbkJTFjzkRyeV5Jd4OBYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_dbkJTFjzkRyeV5Jd4OBYo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:52"
+  }
+]

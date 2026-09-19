@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tata cleaning service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "233002",
+    "phone_number": "+91 85955 54755",
+    "website": "https://www.tatacleaning.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4TH FLOOR, C 291, C Block, Sector 10, Noida, Uttar Pradesh 201301",
+    "area": "C Block, Sector 10",
+    "latitude": 28.5902861,
+    "longitude": 77.3320457,
+    "place_id": "ChIJ6dDVE1H6DDkRfo9hMw9ow3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dDVE1H6DDkRfo9hMw9ow3U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:09"
+  },
+  {
+    "business_name": "Jio cleaning / Pest Control Near Me",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Pest control service",
+    "pincode": "233002",
+    "phone_number": "+91 88265 97255",
+    "website": "https://jiocleaning.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4 floor, 291, C Block, Pocket C, Sector 10, Noida, Uttar Pradesh 201301",
+    "area": "C Block, Pocket C, Sector 10",
+    "latitude": 28.581242999999997,
+    "longitude": 77.32717699999999,
+    "place_id": "ChIJbU8nTMvrDDkRcfE8JWh5NLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbU8nTMvrDDkRcfE8JWh5NLQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:09"
+  }
+]

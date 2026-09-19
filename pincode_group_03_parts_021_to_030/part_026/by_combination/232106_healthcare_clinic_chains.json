@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Komal hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "232106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Devkali, mod, near petrol pump, Baghari, Kamalpur, Uttar Pradesh 232106",
+    "area": "232106",
+    "latitude": 25.3862378,
+    "longitude": 83.3780917,
+    "place_id": "ChIJpatSe-IbjjkR9xybHhF617Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpatSe-IbjjkR9xybHhF617Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:55"
+  },
+  {
+    "business_name": "HARISHCHANDRA MEDICAL CENTRE",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "232106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "331, Manikpur, Manduwadih, Varanasi, Maruadih Rly. Settlement, Uttar Pradesh 221103",
+    "area": "Manikpur, Manduwadih",
+    "latitude": 25.295429,
+    "longitude": 82.96324299999999,
+    "place_id": "ChIJhcKDBQAzjjkRWb71S6ceNV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcKDBQAzjjkRWb71S6ceNV4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:57"
+  }
+]

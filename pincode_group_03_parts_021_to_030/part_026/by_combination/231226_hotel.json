@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajan Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "231226",
+    "phone_number": "+91 88082 08809",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "wyndhamgaj sonbhandra, Wyndhamganj, Uttar Pradesh 231226",
+    "area": "231226",
+    "latitude": 24.255473199999997,
+    "longitude": 83.39030149999999,
+    "place_id": "ChIJnWNCt6C7jjkRjhtrzAhR21o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWNCt6C7jjkRjhtrzAhR21o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:42:31"
+  },
+  {
+    "business_name": "Keshri Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "794W+34X, NH 39, Bandhu Nagar, Muri Semar, Wyndhamganj, Uttar Pradesh 231226",
+    "area": "Bandhu Nagar",
+    "latitude": 24.2552347,
+    "longitude": 83.39537109999999,
+    "place_id": "ChIJx1_URSW7jjkRfbfvU7THruU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1_URSW7jjkRfbfvU7THruU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:42:31"
+  }
+]

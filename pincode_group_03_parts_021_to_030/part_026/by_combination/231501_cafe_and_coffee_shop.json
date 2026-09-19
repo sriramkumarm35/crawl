@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EFC",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 229,
+    "address": "Agrawal Cold Storage, Aghauli, Mirzapur, Uttar Pradesh 231001",
+    "area": "Aghauli",
+    "latitude": 25.1451654,
+    "longitude": 82.58121129999999,
+    "place_id": "ChIJw-tSmhDBjzkRUA6Jx4K7BWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-tSmhDBjzkRUA6Jx4K7BWw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:55"
+  },
+  {
+    "business_name": "CAFE N",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231501",
+    "phone_number": "+91 63864 96087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dankinganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Dankinganj",
+    "latitude": 25.144977599999997,
+    "longitude": 82.5695671,
+    "place_id": "ChIJ67GhLGnBjzkRjS73FrfhCdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67GhLGnBjzkRjS73FrfhCdE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:56"
+  }
+]

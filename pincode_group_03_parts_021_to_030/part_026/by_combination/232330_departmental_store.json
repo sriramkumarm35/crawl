@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manauar Grocery shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "232330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CQ63+CFX, Amaut, Amoura, Uttar Pradesh 232333",
+    "area": "232330",
+    "latitude": 25.4111092,
+    "longitude": 83.7537476,
+    "place_id": "ChIJdUcCCwD7jTkROo5zfuk5VYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUcCCwD7jTkROo5zfuk5VYY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:19"
+  },
+  {
+    "business_name": "Banarasi kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "232330",
+    "phone_number": "+91 85778 46181",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "FP2V+X48, Mantri Ji Katara Satramganj Bazar Market Road Near Machhali Mandi Sewrai, Bhadaura, Uttar Pradesh 232333",
+    "area": "Satramganj Bazar",
+    "latitude": 25.4524024,
+    "longitude": 83.7428229,
+    "place_id": "ChIJWzTX-Qb5jTkRh-8dZmZXT_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzTX-Qb5jTkRh-8dZmZXT_c",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobarak Plumbing Service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "232120",
+    "phone_number": "+91 78600 66204",
+    "website": "https://mobarak-plumbing-service.vercel.app/",
+    "rating": 5,
+    "reviews_count": 32,
+    "address": "Near Jigani, APC Circle, Jigani Hobli, Taluk, Anekal, Bengaluru, Karnataka 560105",
+    "area": "Nirman Layout",
+    "latitude": 12.807482799999999,
+    "longitude": 77.6235535,
+    "place_id": "ChIJbRI_UZZrrjsRvOawHlJeBOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRI_UZZrrjsRvOawHlJeBOI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:28:32"
+  },
+  {
+    "business_name": "Raju Plumber Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "232120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "264/A, 264/A, Kali Mahal Rd, chaturbhujpur, Pandit Deen Dayal Upadhyaya Nagar, Uttar Pradesh 232101",
+    "area": "chaturbhujpur",
+    "latitude": 25.2881705,
+    "longitude": 83.1267645,
+    "place_id": "ChIJ17CeSeI7jjkRMsNTOBvfCcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17CeSeI7jjkRMsNTOBvfCcs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:28:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gold battery",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "231225",
+    "phone_number": "+91 89207 20626",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Main road, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.204205599999998,
+    "longitude": 82.6660868,
+    "place_id": "ChIJf1at5ZE7jzkRpL3awA37lRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1at5ZE7jzkRpL3awA37lRM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:40:23"
+  },
+  {
+    "business_name": "KISHAN DIESEL",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "231225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 3, Bhagat Singh Colony Rd, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.2002043,
+    "longitude": 82.6642018,
+    "place_id": "ChIJyROmOlM7jzkRNnCZv8RQDiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyROmOlM7jzkRNnCZv8RQDiw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:40:24"
+  }
+]

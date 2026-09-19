@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna Rasoi & food Court",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231303",
+    "phone_number": "+91 94157 81245",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "7CW3+WMR, in front of OBEETEE Chatmi, Holpur, padrauna, Uttar Pradesh 221303",
+    "area": "231303",
+    "latitude": 25.279154199999997,
+    "longitude": 82.4225074,
+    "place_id": "ChIJyVHkIADljzkREo9CBUn3HDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVHkIADljzkREo9CBUn3HDU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:46:57"
+  },
+  {
+    "business_name": "Rajsthan Hotal",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "231303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "79XQ+VFX, Matukpur, Uttar Pradesh 221310",
+    "area": "231303",
+    "latitude": 25.2997265,
+    "longitude": 82.3887448,
+    "place_id": "ChIJuYWmZoLljzkR2WZsusnK-fA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYWmZoLljzkR2WZsusnK-fA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:46:57"
+  }
+]

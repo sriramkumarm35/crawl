@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Furniture Manufacturer",
+    "pincode": "233223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rampur Chandrawati, Uttar Pradesh 221116",
+    "area": "233223",
+    "latitude": 25.4619428,
+    "longitude": 83.1233482,
+    "place_id": "ChIJ2V71Ap0njjkRffGz6tfAdIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2V71Ap0njjkRffGz6tfAdIY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:01:02"
+  },
+  {
+    "business_name": "Salim Interior Design",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "233223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Market, Dubkiya, Varanasi, Uttar Pradesh 221104",
+    "area": "Market",
+    "latitude": 25.412779699999998,
+    "longitude": 83.0757406,
+    "place_id": "ChIJkdHrlMApjjkRQUCIPIYYC7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdHrlMApjjkRQUCIPIYYC7I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:01:02"
+  }
+]

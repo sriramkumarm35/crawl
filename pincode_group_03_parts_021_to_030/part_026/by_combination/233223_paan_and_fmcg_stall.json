@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Masala",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Flavours, Fragrances & Aroma Supplier",
+    "pincode": "233223",
+    "phone_number": "+91 1800 891 8707",
+    "website": "http://www.royalmasala.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Hartirath, Machodari, Kotwali, Varanasi, Uttar Pradesh 221001",
+    "area": "Hartirath, Machodari, Kotwali",
+    "latitude": 25.3215275,
+    "longitude": 83.0175344,
+    "place_id": "ChIJAySvdMIvjjkRUlBSIwe2nrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAySvdMIvjjkRUlBSIwe2nrs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:00:17"
+  },
+  {
+    "business_name": "Pankaj Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "233223",
+    "phone_number": "+91 81095 53544",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Gauri, Ganigawan, Madhya Pradesh 486331",
+    "area": "233223",
+    "latitude": 24.7900052,
+    "longitude": 81.9280757,
+    "place_id": "ChIJZe5sYHlzhTkREMQMDRLeTyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZe5sYHlzhTkREMQMDRLeTyM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:00:17"
+  }
+]

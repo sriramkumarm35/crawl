@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Enterprise",
+    "search_category": "Importers",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Door supplier, Hardware store, Paint store, Pipes Wholesaler, Plywood supplier",
+    "pincode": "232104",
+    "phone_number": "+91 93699 40723",
+    "website": "https://maurya-enterprisess.netlify.app/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ailahi, Uttar Pradesh 232104",
+    "area": "232104",
+    "latitude": 25.2077085,
+    "longitude": 83.3178269,
+    "place_id": "ChIJbT4spLMVjjkRhL7RSkAKNiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT4spLMVjjkRhL7RSkAKNiM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:13:28"
+  },
+  {
+    "business_name": "Eastman Dealer",
+    "search_category": "Importers",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Battery Wholesaler, Solar energy system service, Solar energy equipment supplier, Solar panel maintenance service",
+    "pincode": "232104",
+    "phone_number": "+91 80 6270 3399",
+    "website": "https://eastman-dealers.eaplworld.com/near-me/chandauli/Jatmalpur/eastman-dealer-abhiseek-and-brother-in-Jatmalpur-chandauli--521Kw5/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Abhishek And Brothers, Saiyadraja, Uttar Pradesh 232104",
+    "area": "232104",
+    "latitude": 25.251608299999997,
+    "longitude": 83.34915579999999,
+    "place_id": "ChIJIbjXlGoRjjkRN-m69ONNdnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbjXlGoRjjkRN-m69ONNdnU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:13:31"
+  }
+]

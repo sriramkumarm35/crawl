@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saletancy",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Marketing consultant",
+    "pincode": "231301",
+    "phone_number": "+91 70178 99611",
+    "website": "https://www.saletancy.com/",
+    "rating": 3.3,
+    "reviews_count": 50,
+    "address": "Saletancy Consulting Pvt. Ltd, H107, H Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "H Block, Sector 63",
+    "latitude": 28.626355,
+    "longitude": 77.377543,
+    "place_id": "ChIJizc9KXHxDDkRoKYgXDgCmc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizc9KXHxDDkRoKYgXDgCmc4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:44:51"
+  },
+  {
+    "business_name": "Fuel4Media Technologies",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Software company",
+    "pincode": "231301",
+    "phone_number": "+91 98102 92408",
+    "website": "https://www.fuel4media.com/",
+    "rating": 4.4,
+    "reviews_count": 47,
+    "address": "B-156, B Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "B Block, Sector 63",
+    "latitude": 28.615022,
+    "longitude": 77.37911799999999,
+    "place_id": "ChIJ5-CtXfnlDDkRoVv0k3ZaNVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-CtXfnlDDkRoVv0k3ZaNVg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:44:51"
+  }
+]

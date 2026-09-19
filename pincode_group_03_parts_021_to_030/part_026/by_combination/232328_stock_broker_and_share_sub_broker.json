@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StockManiacs.net",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial consultant",
+    "pincode": "232328",
+    "phone_number": "+91 96743 21856",
+    "website": "http://www.stockmaniacs.net/",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "B-7/7, Congress Road, B7, Block B, Kalyani, West Bengal 741235",
+    "area": "B7, Block B",
+    "latitude": 22.9816336,
+    "longitude": 88.4316779,
+    "place_id": "ChIJ80ZnCtCU-DkRiSHNRNKtVcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80ZnCtCU-DkRiSHNRNKtVcI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:36:13"
+  },
+  {
+    "business_name": "Rupeezy",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Corporate office",
+    "pincode": "232328",
+    "phone_number": "+91 755 426 8599",
+    "website": "https://rupeezy.in/",
+    "rating": 4.4,
+    "reviews_count": 44,
+    "address": "3rd floor, Incubex, INR 4, 777/C, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "HAL 2nd Stage, Doopanahalli, Indiranagar",
+    "latitude": 12.967953,
+    "longitude": 77.6412027,
+    "place_id": "ChIJ9_G1OdEVrjsRR01cdtUhO2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_G1OdEVrjsRR01cdtUhO2A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:36:15"
+  }
+]

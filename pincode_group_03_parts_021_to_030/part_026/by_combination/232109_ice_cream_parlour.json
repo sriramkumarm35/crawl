@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saras ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "232109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "858F+VRF, Kakarahikala, Uttar Pradesh 232120",
+    "area": "232109",
+    "latitude": 25.3171942,
+    "longitude": 83.1745505,
+    "place_id": "ChIJj9SEEAAjjjkRw62GMw1U7EU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9SEEAAjjjkRw62GMw1U7EU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "Amrit Lal",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "232109",
+    "phone_number": "+91 97250 58169",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Bhojapur, Uttar Pradesh 232108",
+    "area": "232109",
+    "latitude": 25.324562099999998,
+    "longitude": 83.26738859999999,
+    "place_id": "ChIJh4U7b-gZjjkRHOllfT516w4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4U7b-gZjjkRHOllfT516w4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:20:49"
+  }
+]

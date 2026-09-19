@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "232106",
+    "phone_number": "+91 94150 08240",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kamalpur, Babhaniyaw Thana, Uttar Pradesh 232106",
+    "area": "232106",
+    "latitude": 25.3812096,
+    "longitude": 83.37701609999999,
+    "place_id": "ChIJa_lZYIgbjjkRLAxZbqaumlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_lZYIgbjjkRLAxZbqaumlg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:11"
+  },
+  {
+    "business_name": "Kushwaha pipe store",
+    "search_category": "Plumber",
+    "primary_category": "Pipes Wholesaler",
+    "all_categories": "Pipes Wholesaler",
+    "pincode": "232106",
+    "phone_number": "+91 94316 38705",
+    "website": "https://www.instagram.com/kushwahapipestor_?igsh=dXgxN2FwMXh4Y2l5",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "Durga Mandir Road, Gauraxini, Mohaddiganj, Sasaram, Bihar 821115",
+    "area": "Gauraxini, Mohaddiganj",
+    "latitude": 24.960482199999998,
+    "longitude": 84.0163118,
+    "place_id": "ChIJs5xqtDm3jTkRBW8hobvtdkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5xqtDm3jTkRBW8hobvtdkE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:12"
+  }
+]

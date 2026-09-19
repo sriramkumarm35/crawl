@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Progressive Auto Sports",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "232328",
+    "phone_number": "+91 98716 17270",
+    "website": "http://progressiveautosports.co.in/",
+    "rating": 4.3,
+    "reviews_count": 218,
+    "address": "Plot no 82, near Anand Vihar Bus Terminal Metro Station Anand Vihar 1, Patparganj Industrial Area, Patparganj, Delhi, 110092",
+    "area": "Patparganj Industrial Area, Patparganj",
+    "latitude": 28.638738999999998,
+    "longitude": 77.3130941,
+    "place_id": "ChIJXzshOFn7DDkRMUaCMv11BF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzshOFn7DDkRMUaCMv11BF4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:35:27"
+  },
+  {
+    "business_name": "ND MAX",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "232328",
+    "phone_number": "+91 80848 32793",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "NH139, Chandravanshinagar, Shivpuri, Tej Pratap Nagar, Patna, Bihar 800032",
+    "area": "Shivpuri, Tej Pratap Nagar",
+    "latitude": 25.5810484,
+    "longitude": 85.1081662,
+    "place_id": "ChIJ43c-9FdZ7TkRELKLuEHX4Qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43c-9FdZ7TkRELKLuEHX4Qw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:35:27"
+  }
+]

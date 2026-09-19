@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care - Mau",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "233221",
+    "phone_number": "+91 11 4558 1006",
+    "website": "http://www.dcdc.co.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Balnikeketan, WHV9+GGF Dialysis Unit, Near, Railway crossing, Malik Tahir Pura, Bulaki Pura, Mau, Uttar Pradesh 275101",
+    "area": "Malik Tahir Pura, Bulaki Pura",
+    "latitude": 25.946136499999998,
+    "longitude": 83.5682386,
+    "place_id": "ChIJWTjzwm6LkTkRhuvk6EpNgXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTjzwm6LkTkRhuvk6EpNgXA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:01"
+  },
+  {
+    "business_name": "VitusCare Dialysis Centre at Prema Hospital - Mau",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "233221",
+    "phone_number": "+91 98628 98628",
+    "website": "https://www.vituscare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, Vituscare Dialysis Centre, Prema Multispeciality Hospital & Trauma Hospital, Jamalpur, near Town Inter Collage, Pokhra, Muhammadabad Gohna, Muhammadabad, Uttar Pradesh 276403",
+    "area": "Pokhra",
+    "latitude": 26.028828299999997,
+    "longitude": 83.3885389,
+    "place_id": "ChIJs5malqiRkTkRV6_G8bJ-WVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5malqiRkTkRV6_G8bJ-WVc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:01"
+  }
+]

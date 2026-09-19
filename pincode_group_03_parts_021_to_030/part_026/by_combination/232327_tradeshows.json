@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goel Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Building materials market, Cement Supplier, Construction Material Wholesaler, Iron & Steel Store, Steel distributor",
+    "pincode": "232327",
+    "phone_number": "+91 98109 52141",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "B-8, Main Link Road, Mandawali Main Rd, Ghazipur, Delhi, 110092",
+    "area": "Ghazipur Village, Ghazipur",
+    "latitude": 28.6320682,
+    "longitude": 77.3162624,
+    "place_id": "ChIJX5IxsczkDDkR2EspvsvzS3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5IxsczkDDkR2EspvsvzS3I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:40"
+  },
+  {
+    "business_name": "Chaudhary International Trade",
+    "search_category": "Tradeshows",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "232327",
+    "phone_number": "N/A",
+    "website": "https://www.chaudharyinternationaltrade.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Begum Katra, Masjid, behind Barbarhana, Barbarahana, Ghazipur, Uttar Pradesh 233001",
+    "area": "Barbarahana",
+    "latitude": 25.5858255,
+    "longitude": 83.5873908,
+    "place_id": "ChIJryaTjkr_kTkRZ4EC8QUMCNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryaTjkr_kTkRZ4EC8QUMCNY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:40"
+  }
+]

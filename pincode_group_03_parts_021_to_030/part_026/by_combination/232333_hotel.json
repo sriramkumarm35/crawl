@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangeeta",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "232333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CQ6H+8H5, Ghazipur, Dewal, Uttar Pradesh 232333",
+    "area": "Ghazipur",
+    "latitude": 25.410762599999998,
+    "longitude": 83.778989,
+    "place_id": "ChIJs4JsIQDxjTkRS68uGz-UzQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4JsIQDxjTkRS68uGz-UzQc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:44:54"
+  },
+  {
+    "business_name": "श्री श्री 108 बाबा किनाराम शिवम ढाबा देवल",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "232333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 18,
+    "address": "CQ68+5FQ, Road, Dildar Nagar, Uttar Pradesh 232333",
+    "area": "232333",
+    "latitude": 25.4104623,
+    "longitude": 83.7662379,
+    "place_id": "ChIJoy9ngUfxjTkRiB4hHEg750o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoy9ngUfxjTkRiB4hHEg750o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:44:56"
+  }
+]

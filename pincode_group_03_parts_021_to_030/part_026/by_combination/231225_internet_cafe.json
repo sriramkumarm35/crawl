@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJ CYBER CAFE",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Digital printer",
+    "pincode": "231225",
+    "phone_number": "+91 76974 77579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "सामुदायिक भवन के पास, Churki, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.2404379,
+    "longitude": 82.7117536,
+    "place_id": "ChIJ81wdvjY7jzkR5f9WDbAB7TM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81wdvjY7jzkR5f9WDbAB7TM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:40:58"
+  },
+  {
+    "business_name": "Maa Durga Online Services",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "231225",
+    "phone_number": "+91 78288 86848",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Ward No 08, near Gurudwara Road, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.197585699999998,
+    "longitude": 82.6677235,
+    "place_id": "ChIJqw5sems7jzkReLKtLK22vJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw5sems7jzkReLKtLK22vJ0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:40:59"
+  }
+]

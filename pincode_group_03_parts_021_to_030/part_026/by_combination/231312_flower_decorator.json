@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANSHIKA NURSERY",
+    "search_category": "Flower Decorator",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery, Fertilizer Store",
+    "pincode": "231312",
+    "phone_number": "+91 63919 29968",
+    "website": "https://anshikanursery.in/",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Sundar Ghat, Wellesley Ganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Sundar Ghat, Wellesley Ganj",
+    "latitude": 25.1510625,
+    "longitude": 82.5698125,
+    "place_id": "ChIJ9W0qedHBjzkRVe6v5zV7HMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9W0qedHBjzkRVe6v5zV7HMU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:00:24"
+  },
+  {
+    "business_name": "SiyaRam Services",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Florist",
+    "pincode": "231312",
+    "phone_number": "+91 99181 87137",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "11/2/3, bhawan ranibazar, near Tulsi Smarak, tulsi chaura, chauraha, Ayodhya, Uttar Pradesh 224123",
+    "area": "tulsi chaura, chauraha",
+    "latitude": 26.794991399999997,
+    "longitude": 82.2049226,
+    "place_id": "ChIJT4doFvUHmjkRjNb_WxsQXKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4doFvUHmjkRjNb_WxsQXKM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:00:26"
+  }
+]

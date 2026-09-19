@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nice Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "233221",
+    "phone_number": "+91 94158 88471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HHF7+898, Bandhawa, Sinchai Vibhag, Chauraha, Ghazipur, Uttar Pradesh 233001",
+    "area": "Sinchai Vibhag, Chauraha",
+    "latitude": 25.5732987,
+    "longitude": 83.563447,
+    "place_id": "ChIJoaN7Ign_kTkRz9zwKvNZP50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaN7Ign_kTkRz9zwKvNZP50",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:42"
+  },
+  {
+    "business_name": "OM Chaat Bhandaar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "233221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CH93+FF4, Zamania Market Rd, Zamania, Dharammarpur Uparwar, Uttar Pradesh 232329",
+    "area": "233221",
+    "latitude": 25.4186333,
+    "longitude": 83.5537161,
+    "place_id": "ChIJxSizxzIHjjkROYa3COJ_Zzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSizxzIHjjkROYa3COJ_Zzg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:42"
+  }
+]

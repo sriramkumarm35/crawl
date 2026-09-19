@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vindhya Parvat Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "231307",
+    "phone_number": "+91 99358 35995",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 25,
+    "address": "Vindhya Parvat Guest House, Mirzapur, Uttar Pradesh 231307",
+    "area": "Vindhyachal",
+    "latitude": 25.165204,
+    "longitude": 82.5015276,
+    "place_id": "ChIJxWijDzHrjzkRH80tpfuHHBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWijDzHrjzkRH80tpfuHHBc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:55:10"
+  },
+  {
+    "business_name": "Shiv Ganga Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "231307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "4JJ4+P8Q, Dhauru Pur, Uttar Pradesh 231307",
+    "area": "231307",
+    "latitude": 25.1318305,
+    "longitude": 82.6058729,
+    "place_id": "ChIJDwP0VQDBjzkRLL2lKUcYYJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwP0VQDBjzkRLL2lKUcYYJY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:55:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wedding",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Wedding store",
+    "pincode": "232341",
+    "phone_number": "+91 98795 42915",
+    "website": "http://weddingsurat.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "12/955, Lalgate Khand Bazar Rd, Lal Gate, Shahpore, Surat, Gujarat 395003",
+    "area": "Lal Gate, Shahpore",
+    "latitude": 21.199021,
+    "longitude": 72.8261145,
+    "place_id": "ChIJ-dMdJGBO4DsRVXZ8iKwWTxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dMdJGBO4DsRVXZ8iKwWTxI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:20"
+  },
+  {
+    "business_name": "The Dress Lounge",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Wedding dress rental service",
+    "all_categories": "Wedding dress rental service, Boutique, Dress store, Dressmaker, Fashion designer, Wedding store",
+    "pincode": "232341",
+    "phone_number": "+91 78400 00122",
+    "website": "https://thedresslounge.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B59 B, Block B, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Block B, Kalkaji",
+    "latitude": 28.5447162,
+    "longitude": 77.2517824,
+    "place_id": "ChIJFfsbd9DjDDkRa4cn5JOfb-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfsbd9DjDDkRa4cn5JOfb-M",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:22"
+  }
+]

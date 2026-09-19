@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pk Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Store",
+    "pincode": "232341",
+    "phone_number": "+91 75658 71844",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01, Sukhadevpur, Uttar Pradesh 233002",
+    "area": "Sukhadeopur",
+    "latitude": 25.594773699999998,
+    "longitude": 83.5988405,
+    "place_id": "ChIJpdsH6PYBkjkRDXgV6KRl0aE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdsH6PYBkjkRDXgV6KRl0aE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:45"
+  },
+  {
+    "business_name": "Agrawal Iron Store",
+    "search_category": "Hardware Store",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "232341",
+    "phone_number": "+91 5493 242 626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sahid Marg, Mohammadabad Ballia Marg, Mohammadabad, Uttar Pradesh 233227",
+    "area": "232341",
+    "latitude": 25.624882,
+    "longitude": 83.75917749999999,
+    "place_id": "ChIJLYAOLv4FkjkRYfBE3_zMB54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYAOLv4FkjkRYfBE3_zMB54",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:45"
+  }
+]

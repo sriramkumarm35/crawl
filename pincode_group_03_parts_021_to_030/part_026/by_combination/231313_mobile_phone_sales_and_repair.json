@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Mobile Repairing Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Electronics store",
+    "pincode": "231313",
+    "phone_number": "+91 90444 42095",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kachhawa Bazar Rd, Mirzapur, Kachhawan, Uttar Pradesh 231501",
+    "area": "Mirzapur",
+    "latitude": 25.2077833,
+    "longitude": 82.7187495,
+    "place_id": "ChIJeQAAAJDLjzkRAAAAMGCIr3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQAAAJDLjzkRAAAAMGCIr3Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:27"
+  },
+  {
+    "business_name": "Shree kanak Mobile repairing institute",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "231313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rodways, Pili Kothi, Dhauru Pur, Mirzapur, Uttar Pradesh 231001",
+    "area": "Pili Kothi, Dhauru Pur",
+    "latitude": 25.1351113,
+    "longitude": 82.5731289,
+    "place_id": "ChIJAbz065fBjzkRxm2zzbHAVtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbz065fBjzkRxm2zzbHAVtg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "231309",
+    "phone_number": "+91 79053 91930",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ladiggi tiraha, Lal Diggi, Gosain Tola, Mirzapur, Uttar Pradesh 231001",
+    "area": "Lal Diggi, Gosain Tola",
+    "latitude": 25.145502099999998,
+    "longitude": 82.5625015,
+    "place_id": "ChIJ2RmKSoPBjzkRHSLyJdRSkR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RmKSoPBjzkRHSLyJdRSkR0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:33"
+  },
+  {
+    "business_name": "Gupta Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "231309",
+    "phone_number": "+91 87951 88826",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4HXC+GMV, Swami Dayanand Marg, Wellesley Ganj, Mirzapur-cum-Vindhyachal, Mirzapur, Uttar Pradesh 231001",
+    "area": "Wellesley Ganj",
+    "latitude": 25.1488695,
+    "longitude": 82.5716648,
+    "place_id": "ChIJpXyrbtLBjzkRkc_zalpJAOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXyrbtLBjzkRkc_zalpJAOo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:34"
+  }
+]

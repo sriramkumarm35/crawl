@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The interior designers",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "232118",
+    "phone_number": "N/A",
+    "website": "https://theintriordesigners.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "khurja Gate, Bhram Bazaar, Chandausi, Uttar Pradesh 244412",
+    "area": "khurja Gate, Bhram Bazaar",
+    "latitude": 28.443237999999997,
+    "longitude": 78.7754654,
+    "place_id": "ChIJY5rduXfbCjkRW00Y5DMBMvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5rduXfbCjkRW00Y5DMBMvE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:46"
+  },
+  {
+    "business_name": "Sun wood furniture & interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "232118",
+    "phone_number": "+91 83188 92300",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Jalaun Rd, in front of DISTRICT MAGISTRATE BUNGALOW, near SP Bungalow, Lahariya Pura, Orai, Uttar Pradesh 285001",
+    "area": "Lahariya Pura",
+    "latitude": 26.002266,
+    "longitude": 79.4480063,
+    "place_id": "ChIJt2QLzMJ_nTkRqI_hXLpN0W4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2QLzMJ_nTkRqI_hXLpN0W4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:48"
+  }
+]

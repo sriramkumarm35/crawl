@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swarnima enterprises",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "232104",
+    "phone_number": "+91 92357 05055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Swarnima enterprises, Radhe Krishna Lal, NH2, near Vikas Bhavan, Jaswant Nagar, Bichhiya Kala, Chandauli, Hinauta Urf Jagdishrai, Uttar Pradesh 232104",
+    "area": "Jaswant Nagar, Bichhiya Kala",
+    "latitude": 25.259143299999998,
+    "longitude": 83.2400541,
+    "place_id": "ChIJw6wmymg9jjkRYLycsjob_34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6wmymg9jjkRYLycsjob_34",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:13:37"
+  },
+  {
+    "business_name": "स्मार्ट इलेक्ट्रॉनिक्स एवं फर्नीचर शोरुम",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "232104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Grand Trunk Rd, Bichhiya Kala, Chandauli, Uttar Pradesh 232104",
+    "area": "Bichhiya Kala",
+    "latitude": 25.2601043,
+    "longitude": 83.2490995,
+    "place_id": "ChIJJXeSOAc9jjkRoWO01cHnGRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXeSOAc9jjkRoWO01cHnGRM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:13:37"
+  }
+]

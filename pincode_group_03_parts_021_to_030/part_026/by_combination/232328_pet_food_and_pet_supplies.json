@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KN Supplier",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store, Electronics wholesaler, Furniture Rental Store",
+    "pincode": "232328",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Rampur, Reotipur, Uttar Pradesh 232328",
+    "area": "232328",
+    "latitude": 25.541208599999997,
+    "longitude": 83.70743209999999,
+    "place_id": "ChIJz5koXSIHkjkRdCcXy0_0Lwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5koXSIHkjkRdCcXy0_0Lwo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:54"
+  },
+  {
+    "business_name": "Yushufpur Muhammadabaad",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "232328",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "JP9X+6FW, Mohammadabad - Chitbaragaon Rd, Baijalpur, Yusufpur, Tiwaripur, Uttar Pradesh 233227",
+    "area": "Baijalpur",
+    "latitude": 25.618108499999998,
+    "longitude": 83.7487009,
+    "place_id": "ChIJU6uR7Y4HkjkRQ3AY3hoBYvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6uR7Y4HkjkRQ3AY3hoBYvw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:54"
+  }
+]

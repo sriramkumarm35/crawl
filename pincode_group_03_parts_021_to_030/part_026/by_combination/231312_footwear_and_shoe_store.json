@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Family Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "231312",
+    "phone_number": "+91 90267 78137",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5H2F+7J5, Sankat Mochan Marg, Aghauli, Mirzapur-cum-Vindhyachal, Mirzapur, Uttar Pradesh 231001",
+    "area": "Aghauli",
+    "latitude": 25.150641099999998,
+    "longitude": 82.5741161,
+    "place_id": "ChIJd_Ns3s3BjzkRJn4ZrJM0pHo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_Ns3s3BjzkRJn4ZrJM0pHo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:43"
+  },
+  {
+    "business_name": "Insha Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "231312",
+    "phone_number": "+91 89533 06535",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Damodar Market, B.L.J, Inter College Road, Mirzapur-cum-Vindhyachal, Uttar Pradesh 231001",
+    "area": "Paira Tola",
+    "latitude": 25.1464909,
+    "longitude": 82.56640399999999,
+    "place_id": "ChIJexorkdTBjzkRKVrYh2DckWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexorkdTBjzkRKVrYh2DckWU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:44"
+  }
+]

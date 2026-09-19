@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahid Bike Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "231501",
+    "phone_number": "+91 95593 08739",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kachhawa Rd, Chitrasenpur, Thatra, Uttar Pradesh 221313",
+    "area": "231501",
+    "latitude": 25.2760328,
+    "longitude": 82.7117226,
+    "place_id": "ChIJt7VglJjFjzkR5ZxNMwJC388",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7VglJjFjzkR5ZxNMwJC388",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:05:20"
+  },
+  {
+    "business_name": "Krishna Bike Repairing",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "231501",
+    "phone_number": "+91 63936 79436",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khajuri Road, Anantram Patti, Uttar Pradesh 231307",
+    "area": "231501",
+    "latitude": 25.148125999999998,
+    "longitude": 82.6248078,
+    "place_id": "ChIJRzVcx83BjzkRXdS3ry-O2KY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzVcx83BjzkRXdS3ry-O2KY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:05:21"
+  }
+]

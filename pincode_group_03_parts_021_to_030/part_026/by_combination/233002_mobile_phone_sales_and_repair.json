@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Mobile Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "233002",
+    "phone_number": "+91 86047 80508",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Kacehri Rd, Kacheri, Ghazipur, Uttar Pradesh 233001",
+    "area": "Kacheri",
+    "latitude": 25.5750903,
+    "longitude": 83.5701867,
+    "place_id": "ChIJ79mWpwz_kTkRHoC1IJ3mgII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79mWpwz_kTkRHoC1IJ3mgII",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:01"
+  },
+  {
+    "business_name": "Aayu mobile repairing centre Ghazipur",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "233002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shukhdevpur choraha, Sukhadeopur, Ghazipur, Uttar Pradesh 233002",
+    "area": "Sukhadeopur",
+    "latitude": 25.5943307,
+    "longitude": 83.59911389999999,
+    "place_id": "ChIJqz46PAABkjkRcN1Ip7yPBEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz46PAABkjkRcN1Ip7yPBEI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:03"
+  }
+]

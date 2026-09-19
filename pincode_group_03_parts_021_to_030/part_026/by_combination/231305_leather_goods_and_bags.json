@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leather World",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "231305",
+    "phone_number": "+91 93369 64953",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 8,
+    "address": "B.36/36, Durgakund Rd, Durgakund, Tulsi Manas Mandir Colony, Bhelupur, Varanasi, Uttar Pradesh 221005",
+    "area": "Durgakund, Tulsi Manas Mandir Colony, Bhelupur",
+    "latitude": 25.287745599999997,
+    "longitude": 82.9991618,
+    "place_id": "ChIJw9MiifMxjjkR-LRRCrGDv9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9MiifMxjjkR-LRRCrGDv9I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:48"
+  },
+  {
+    "business_name": "Tumbledry Dry Clean & Laundry Service",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shoe repair shop",
+    "all_categories": "Shoe repair shop, Carpet cleaning service, Laundromat, Laundry, Laundry service, Dry cleaner, Upholstery cleaning service",
+    "pincode": "231305",
+    "phone_number": "+91 76772 50250",
+    "website": "https://tumbledry.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No:158/1, near Ramada Hotel, Katesar, Ramnagar, Uttar Pradesh 221008",
+    "area": "Katesar",
+    "latitude": 25.2974598,
+    "longitude": 83.0372934,
+    "place_id": "ChIJd9FJIbkxjjkRGwHSOiViuy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9FJIbkxjjkRGwHSOiViuy4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ChickenWala Patna",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Fishing store, Meat products store, Meat wholesaler, Seafood farm",
+    "pincode": "232328",
+    "phone_number": "+91 94728 38317",
+    "website": "https://chickenwala.co.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Road No.3, beside Digha Police station, Nirala Nagar, Yadav Colony, Patna, Bihar 800011",
+    "area": "Nirala Nagar, Yadav Colony",
+    "latitude": 25.6453798,
+    "longitude": 85.0801611,
+    "place_id": "ChIJAYjioOFX7TkRr2H_QcRdwbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYjioOFX7TkRr2H_QcRdwbk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:53"
+  },
+  {
+    "business_name": "Kabab Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Kebab shop, Restaurant",
+    "pincode": "232328",
+    "phone_number": "+91 98999 74982",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Double Storey, A-119, Block A, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Block A, Kalkaji",
+    "latitude": 28.543876599999997,
+    "longitude": 77.2511643,
+    "place_id": "ChIJcx8qWAzjDDkRsbs76uDBFF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx8qWAzjDDkRsbs76uDBFF0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:53"
+  }
+]

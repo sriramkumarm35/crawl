@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soaib General Store and Kapara Ghar",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Shopping mall",
+    "pincode": "232109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Papaura Ukani Rd, Papaura, Mahaganv, Uttar Pradesh 232109",
+    "area": "232109",
+    "latitude": 25.3814201,
+    "longitude": 83.2260656,
+    "place_id": "ChIJV0HYHrojjjkRFBwHh2J8YSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0HYHrojjjkRFBwHh2J8YSA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:20:37"
+  },
+  {
+    "business_name": "Maa store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "232109",
+    "phone_number": "+91 79853 75858",
+    "website": "http://maastore0708.com/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Bhupauli, Mathela - Bhupauli Rd, Chakia, Chahaniya, Uttar Pradesh 232101",
+    "area": "232109",
+    "latitude": 25.3454713,
+    "longitude": 83.1734151,
+    "place_id": "ChIJCZ1QlZUjjjkRiInQCSvH9YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZ1QlZUjjjkRiInQCSvH9YE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:20:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Watch Center",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "231313",
+    "phone_number": "+91 81151 53985",
+    "website": "https://www.titan.co.in/",
+    "rating": 4.3,
+    "reviews_count": 35,
+    "address": "shop no.1, Ansari complex, below HDFC Bank, Mishra Bazar, Mahuabagh, Ghazipur, Uttar Pradesh 233001",
+    "area": "Mishra Bazar, Mahuabagh",
+    "latitude": 25.5811413,
+    "longitude": 83.5770816,
+    "place_id": "ChIJrfucNnL_kTkRhvA-Ape9WkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfucNnL_kTkRhvA-Ape9WkM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:01:32"
+  },
+  {
+    "business_name": "Just In Time Watch Boutique",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "231313",
+    "phone_number": "+91 79 4030 1212",
+    "website": "https://www.justintime.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Iscon Arcade, Lal Bunglow, Shop No. 3,4,101,102, Chimanlal Girdharlal Rd, Ellisbridge, Ahmedabad, Gujarat 380006",
+    "area": "Ellisbridge",
+    "latitude": 23.0282298,
+    "longitude": 72.5573814,
+    "place_id": "ChIJKV7hua6FXjkRZiiDZ9pmRlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV7hua6FXjkRZiiDZ9pmRlU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:01:33"
+  }
+]

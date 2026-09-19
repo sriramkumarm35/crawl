@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE KRISHNA SWEET HOUSE",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop",
+    "pincode": "232108",
+    "phone_number": "+91 63903 55770",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manihra khadehara ,sakaldiha, Uttar Pradesh 232109",
+    "area": "232108",
+    "latitude": 25.3657248,
+    "longitude": 83.22989969999999,
+    "place_id": "ChIJhXDbMwAjjjkRomcoKr38ifg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXDbMwAjjjkRomcoKr38ifg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:19:00"
+  },
+  {
+    "business_name": "Anand Sweet House",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Fast food restaurant",
+    "pincode": "232108",
+    "phone_number": "+91 85459 68525",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 85,
+    "address": "near Punjab National Bank, Bazar, Khajura, Kulhariya, Bihar 821105",
+    "area": "Bazar",
+    "latitude": 25.2436328,
+    "longitude": 83.4111321,
+    "place_id": "ChIJqd_MqvoRjjkRekNAKqWXUNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqd_MqvoRjjkRekNAKqWXUNw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:19:00"
+  }
+]

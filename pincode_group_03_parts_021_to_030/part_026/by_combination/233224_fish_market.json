@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchayat Bhawan Kuchaura",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "233224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FF98+4VJ, Koochaura Uparwar, Uttar Pradesh 233224",
+    "area": "233224",
+    "latitude": 25.4678485,
+    "longitude": 83.46713369999999,
+    "place_id": "ChIJFdsmZwADjjkRDe79WoZfNFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdsmZwADjjkRDe79WoZfNFE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:02:04"
+  },
+  {
+    "business_name": "Chaudhary nivas",
+    "search_category": "Fish Market",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "233224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near fish market, Chochakpur, Ghazipur, Uttar Pradesh 233224",
+    "area": "233224",
+    "latitude": 25.4877596,
+    "longitude": 83.4148187,
+    "place_id": "ChIJQVZqBQAdjjkRSGtOxzYqW7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVZqBQAdjjkRSGtOxzYqW7c",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:02:07"
+  }
+]

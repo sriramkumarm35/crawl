@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek M & General Store.",
+    "search_category": "Provision Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "232118",
+    "phone_number": "+91 63884 10257",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Near, Bridge, Tiyara, Uttar Pradesh 232118",
+    "area": "232118",
+    "latitude": 25.1207191,
+    "longitude": 83.2643705,
+    "place_id": "ChIJ_TcxtchrjjkREX1xuCQ7ET8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TcxtchrjjkREX1xuCQ7ET8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:25:58"
+  },
+  {
+    "business_name": "Sonu general Store",
+    "search_category": "Provision Store",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "232118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26W9+M4M, Chakia, Uttar Pradesh 232103",
+    "area": "232118",
+    "latitude": 25.0467035,
+    "longitude": 83.2178012,
+    "place_id": "ChIJnb4CGABBjjkRq-5BjaNqvVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnb4CGABBjjkRq-5BjaNqvVc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:00"
+  }
+]

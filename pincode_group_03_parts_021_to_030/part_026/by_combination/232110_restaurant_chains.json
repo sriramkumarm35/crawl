@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tandoorii junction",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "232110",
+    "phone_number": "+91 83070 14908",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Chandpur Village, Delhi, 110081",
+    "area": "Chandpur Village",
+    "latitude": 28.7387271,
+    "longitude": 77.0059666,
+    "place_id": "ChIJyeW-qAEJDTkR8h0-5U1Au_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyeW-qAEJDTkR8h0-5U1Au_4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:22:32"
+  },
+  {
+    "business_name": "Hindustan’s Chulha Chowka",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "232110",
+    "phone_number": "+91 62961 97886",
+    "website": "https://dinein.petpooja.com/qr/5t92n6w1/T1",
+    "rating": 4.4,
+    "reviews_count": 586,
+    "address": "Ground floor, Aastha twin tower, near Tanishq Showroom, Chanakya Nagar, Saraidhella, Dhanbad, Jharkhand 826007",
+    "area": "Chanakya Nagar",
+    "latitude": 23.8211373,
+    "longitude": 86.4722156,
+    "place_id": "ChIJH_L_9Bm99jkR21mQnouGBcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_L_9Bm99jkR21mQnouGBcc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:22:32"
+  }
+]

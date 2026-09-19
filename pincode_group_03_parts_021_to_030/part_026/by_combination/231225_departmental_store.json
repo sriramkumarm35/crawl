@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal departmental store",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "231225",
+    "phone_number": "+91 83057 38605",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Old Market Road, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.1982949,
+    "longitude": 82.6664211,
+    "place_id": "ChIJkRuxtGI7jzkR8tuw7Y5t07s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRuxtGI7jzkR8tuw7Y5t07s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:39:42"
+  },
+  {
+    "business_name": "Home Bazar",
+    "search_category": "Departmental Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "231225",
+    "phone_number": "+91 78052 66333",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "5MX8+7QM, Old Market Road, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.198203499999998,
+    "longitude": 82.66690659999999,
+    "place_id": "ChIJaYgAjDY6jzkR17sA1V7LdxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYgAjDY6jzkR17sA1V7LdxI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:39:44"
+  }
+]

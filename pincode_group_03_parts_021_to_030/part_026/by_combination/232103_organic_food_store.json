@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Fashion Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "232103",
+    "phone_number": "+91 63063 40231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "57QW+4RG, near Baba Khusigir Misthan Bhandar, Kanta, Uttar Pradesh 232104",
+    "area": "232103",
+    "latitude": 25.1878827,
+    "longitude": 83.2971006,
+    "place_id": "ChIJCaqLNAAVjjkRiFR5JwgPjwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaqLNAAVjjkRiFR5JwgPjwY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:10:07"
+  },
+  {
+    "business_name": "Rudra Flat",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "232103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Udaipura, Lewa Mu. Kirhara, Uttar Pradesh 232103",
+    "area": "232103",
+    "latitude": 25.1376347,
+    "longitude": 83.2580806,
+    "place_id": "ChIJjZldbwAVjjkRnnohLZH7SwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZldbwAVjjkRnnohLZH7SwM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:10:07"
+  }
+]

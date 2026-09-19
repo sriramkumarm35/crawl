@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajlaxmi sweet House",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Fast food restaurant",
+    "pincode": "232330",
+    "phone_number": "+91 73790 10268",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Jamaniya, mod, Khanpur, Uttar Pradesh 233002",
+    "area": "232330",
+    "latitude": 25.5908762,
+    "longitude": 83.528342,
+    "place_id": "ChIJ44tLaqf_kTkRhu8J1JeVEJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44tLaqf_kTkRhu8J1JeVEJE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:27"
+  },
+  {
+    "business_name": "Subh Labh Mithai Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Sweet shop",
+    "pincode": "232330",
+    "phone_number": "+91 90261 77984",
+    "website": "http://www.zomato.com/Lucknow/shubh-labh-mithai-shop-gomti-nagar/order/",
+    "rating": 3.7,
+    "reviews_count": 520,
+    "address": "1/24, Vastu Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vastu Khand, Gomti Nagar",
+    "latitude": 26.870141999999998,
+    "longitude": 81.0257989,
+    "place_id": "ChIJTxmFy0bjmzkRier2olTDetU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxmFy0bjmzkRier2olTDetU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:28"
+  }
+]

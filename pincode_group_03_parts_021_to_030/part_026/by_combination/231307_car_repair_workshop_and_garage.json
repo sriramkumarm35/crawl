@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEERA MOTORS",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "231307",
+    "phone_number": "+91 94154 87595",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Grand Trunk Rd, Aurai, Uttar Pradesh 221301",
+    "area": "231307",
+    "latitude": 25.263944499999997,
+    "longitude": 82.5661566,
+    "place_id": "ChIJH6avPTTDjzkRpob7HRFVOuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6avPTTDjzkRpob7HRFVOuc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:54:39"
+  },
+  {
+    "business_name": "Mahadev Spayers Parts and Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "231307",
+    "phone_number": "N/A",
+    "website": "http://www.autogarage.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maharajganj - Parsipur Rd, Bhaktapur, Basantapur, Uttar Pradesh 221314",
+    "area": "Bhaktapur",
+    "latitude": 25.271485799999997,
+    "longitude": 82.62206809999999,
+    "place_id": "ChIJo2ElRgDDjzkRuXvoxEQ42W0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2ElRgDDjzkRuXvoxEQ42W0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:54:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Palace",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "232332",
+    "phone_number": "+91 93267 91909",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pithapur, Ghazipur, Baxupur, Uttar Pradesh 233001",
+    "area": "Pithapur",
+    "latitude": 25.6035953,
+    "longitude": 83.5871315,
+    "place_id": "ChIJIYeh4Bb_kTkRvjlczvSDj3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYeh4Bb_kTkRvjlczvSDj3Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:43:06"
+  },
+  {
+    "business_name": "Hotel Shri Krishna palace",
+    "search_category": "Resort",
+    "primary_category": "Resort",
+    "all_categories": "Resort",
+    "pincode": "232332",
+    "phone_number": "+91 81274 78284",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Badri chandra ka pokhra, ashmanichak, Pithapur, Ghazipur, Chandan Baha, Uttar Pradesh 233002",
+    "area": "ashmanichak, Pithapur",
+    "latitude": 25.591898099999998,
+    "longitude": 83.5661059,
+    "place_id": "ChIJITDp-xX_kTkRIP9MIVuYvuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITDp-xX_kTkRIP9MIVuYvuQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:43:06"
+  }
+]

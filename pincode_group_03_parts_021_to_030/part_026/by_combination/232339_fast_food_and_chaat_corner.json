@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi chat karna",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "232339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "RMWQ+46V, Bahadurganj, Wajirpur, Uttar Pradesh 275201",
+    "area": "232339",
+    "latitude": 25.8453737,
+    "longitude": 83.68803679999999,
+    "place_id": "ChIJ3f6tUwAZkjkRpJl1-R7K8ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3f6tUwAZkjkRpJl1-R7K8ZM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:41"
+  },
+  {
+    "business_name": "Chatpata sandwich",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Sandwich shop",
+    "all_categories": "Sandwich shop",
+    "pincode": "232339",
+    "phone_number": "+91 95227 35111",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shujalpur, Madhya Pradesh 465333",
+    "area": "232339",
+    "latitude": 23.3842069,
+    "longitude": 76.7199392,
+    "place_id": "ChIJzRLT73ilfDkRTIutOIIlXMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRLT73ilfDkRTIutOIIlXMw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:41"
+  }
+]

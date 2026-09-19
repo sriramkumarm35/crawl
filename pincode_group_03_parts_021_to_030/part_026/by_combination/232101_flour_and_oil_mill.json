@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shraddha Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "232101",
+    "phone_number": "+91 93358 53663",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Chitra Gupta Nagar Colony, Akatha Rd, Gomti Bank, Ramrepur, near to Kashi, Akatha, Paharia, Varanasi, Uttar Pradesh 221007",
+    "area": "Kashi Enclave, Akatha, Paharia",
+    "latitude": 25.3674036,
+    "longitude": 83.0029057,
+    "place_id": "ChIJJczfmTcvjjkR99qvIcp0V9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJczfmTcvjjkR99qvIcp0V9s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:08:04"
+  },
+  {
+    "business_name": "V.S. Dall and Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Manufacturer",
+    "pincode": "232101",
+    "phone_number": "+91 84355 48929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bhaisakhedi, Main Rd, Bhopal, Madhya Pradesh 462030",
+    "area": "232101",
+    "latitude": 23.267657099999997,
+    "longitude": 77.3146793,
+    "place_id": "ChIJR8qxw1JnfDkREg5WPdrufmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8qxw1JnfDkREg5WPdrufmE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:08:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super time center",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "233221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Sadar Bazar Rd, Shaikh Damu Pura, Mau, Uttar Pradesh 275101",
+    "area": "Shaikh Damu Pura",
+    "latitude": 25.9446151,
+    "longitude": 83.5648411,
+    "place_id": "ChIJlXtKfn-LkTkROba0mnLgN2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXtKfn-LkTkROba0mnLgN2Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:52"
+  },
+  {
+    "business_name": "Tinny Watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "233221",
+    "phone_number": "+91 99712 24947",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop .2, Mohan Singh Market INA, Aviation Colony, INA Colony, New Delhi, Delhi 110023",
+    "area": "Aviation Colony, INA Colony",
+    "latitude": 28.573739699999997,
+    "longitude": 77.20996079999999,
+    "place_id": "ChIJ179hxWPiDDkRiV16zLF2wNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ179hxWPiDDkRiV16zLF2wNs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:53"
+  }
+]

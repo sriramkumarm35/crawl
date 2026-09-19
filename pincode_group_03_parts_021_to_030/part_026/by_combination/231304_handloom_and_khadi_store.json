@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Handlooms",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "231304",
+    "phone_number": "+91 86188 91233",
+    "website": "http://thehandlooms.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "B12/112-J-2-N, near IP Vijaya Mall, opposite Zudio, Gauriganj, Bhelupur, Varanasi, Uttar Pradesh 221001",
+    "area": "Gauriganj, Bhelupur",
+    "latitude": 25.2976633,
+    "longitude": 83.00184449999999,
+    "place_id": "ChIJI6yBJ-MxjjkRRoESIAScyK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6yBJ-MxjjkRRoESIAScyK8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:48:55"
+  },
+  {
+    "business_name": "The Varanasi Silk Handicraft",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bedding store, Furniture store",
+    "pincode": "231304",
+    "phone_number": "+91 542 245 1800",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "D17, 135, Bhuteshwar Gali, Near Dashaswmedh Ghat, Bangali Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Near Dashaswmedh Ghat, Bangali Tola",
+    "latitude": 25.307198399999997,
+    "longitude": 83.00945589999999,
+    "place_id": "ChIJ480B-eExjjkRrvr0Cw8kACU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ480B-eExjjkRrvr0Cw8kACU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:48:55"
+  }
+]

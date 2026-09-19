@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirana Store",
+    "search_category": "Kirana Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "232339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FQMC+7PX, Mahmoodpur T Karahia, Uttar Pradesh 232339",
+    "area": "232339",
+    "latitude": 25.4832291,
+    "longitude": 83.7718728,
+    "place_id": "ChIJA6G5fgD3jTkR75TTeEF9Vc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6G5fgD3jTkR75TTeEF9Vc8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:28"
+  },
+  {
+    "business_name": "DHARMDEV kUSHWAHA KIRANA STORE",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "232339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Bhadaura, Uttar Pradesh 232333",
+    "area": "232339",
+    "latitude": 25.458771799999997,
+    "longitude": 83.73424469999999,
+    "place_id": "ChIJncVvvCr5jTkR905_vwPBtW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncVvvCr5jTkR905_vwPBtW8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:28"
+  }
+]

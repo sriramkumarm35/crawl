@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Bike repairing centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "231312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mukund Patti, Khamaria, Buadohi, Uttar Pradesh 221306",
+    "area": "231312",
+    "latitude": 25.2381288,
+    "longitude": 82.5354535,
+    "place_id": "ChIJZ77ltjrpjzkRZte-caAFG9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ77ltjrpjzkRZte-caAFG9A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:00:02"
+  },
+  {
+    "business_name": "Agrasen cycle company",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electric bicycle store",
+    "all_categories": "Electric bicycle store, Bicycle Shop",
+    "pincode": "231312",
+    "phone_number": "+91 80529 46244",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Agrasen cycle company, Grand Trunk Rd, lai bazar, Gopiganj, Gopi Ganj, Uttar Pradesh 221303",
+    "area": "lai bazar",
+    "latitude": 25.2862139,
+    "longitude": 82.4317094,
+    "place_id": "ChIJJRNxY-bljzkRVCDGIJYPhfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRNxY-bljzkRVCDGIJYPhfs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:00:05"
+  }
+]

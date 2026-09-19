@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dyallok Hotels And Resort",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "232111",
+    "phone_number": "N/A",
+    "website": "https://dyallokhotels.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Maa Mundeshawri Dham, Betri, Mundeshwari Temple Rd, Bihar 821102",
+    "area": "232111",
+    "latitude": 24.9862435,
+    "longitude": 83.5737915,
+    "place_id": "ChIJ_6g_NuN3jjkR15zjJfQpCfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6g_NuN3jjkR15zjJfQpCfo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:25:12"
+  },
+  {
+    "business_name": "HOTEL AVR",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "232111",
+    "phone_number": "+91 95066 34315",
+    "website": "https://hotelavr.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dharamsala chauk, Ghorawal To Robertsganj Rd, Kamarhi, Robertsganj, Babanauli, Uttar Pradesh 231216",
+    "area": "Kamarhi",
+    "latitude": 24.6950193,
+    "longitude": 83.0540955,
+    "place_id": "ChIJYSFypNT5jjkRCJB72YdknZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSFypNT5jjkRCJB72YdknZI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:25:13"
+  }
+]

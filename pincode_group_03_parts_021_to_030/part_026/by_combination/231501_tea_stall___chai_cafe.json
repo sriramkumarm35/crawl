@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRATIK CHAI & LASSI",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "231501",
+    "phone_number": "+91 87370 14537",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 18,
+    "address": "Bhikharipur, Uttar Pradesh 221311",
+    "area": "231501",
+    "latitude": 25.2698137,
+    "longitude": 82.82993259999999,
+    "place_id": "ChIJE3tKnNzNjzkRjuv_UTtWHEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3tKnNzNjzkRjuv_UTtWHEM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:49"
+  },
+  {
+    "business_name": "Dhruv chai Pan cooldirng",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 14,
+    "address": "Vihana, Uttar Pradesh 221313",
+    "area": "231501",
+    "latitude": 25.261729499999998,
+    "longitude": 82.68216579999999,
+    "place_id": "ChIJcftZrbPFjzkRbfhAg1q93Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcftZrbPFjzkRbfhAg1q93Vs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:49"
+  }
+]

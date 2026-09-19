@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nauwan Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "232330",
+    "phone_number": "+91 99731 57444",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 443,
+    "address": "Nuaon, Bihar 802132",
+    "area": "232330",
+    "latitude": 25.3656296,
+    "longitude": 83.739888,
+    "place_id": "ChIJBRxcVpX6jTkR7f-LwAWNtVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBRxcVpX6jTkR7f-LwAWNtVc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:25"
+  },
+  {
+    "business_name": "RRRM",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "232330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Govindpuri, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Govindpuri, Kalkaji",
+    "latitude": 28.5354185,
+    "longitude": 77.26394429999999,
+    "place_id": "ChIJLRpSYgDhDDkRxVYjHEHOKoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRpSYgDhDDkRxVYjHEHOKoE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:25"
+  }
+]

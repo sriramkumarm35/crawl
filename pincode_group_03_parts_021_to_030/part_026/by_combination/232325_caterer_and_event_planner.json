@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Five seas caterers & wedding event planner",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Restaurant, Restaurant supply store",
+    "pincode": "232325",
+    "phone_number": "+91 70601 23455",
+    "website": "http://five_seas.restaurant/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nazeempura bhood Nomiesh ground, Laxmi Nagar, Bulandshahr, Uttar Pradesh 201003",
+    "area": "Laxmi Nagar",
+    "latitude": 28.4060715,
+    "longitude": 77.84965849999999,
+    "place_id": "ChIJw2PDogjxDDkRjiEunZTxO7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2PDogjxDDkRjiEunZTxO7o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:30:31"
+  },
+  {
+    "business_name": "Ajmeriya Tent House",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "232325",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "VJ9W+JMG, Bahadurganj, Uttar Pradesh 275201",
+    "area": "232325",
+    "latitude": 25.8690709,
+    "longitude": 83.6467132,
+    "place_id": "ChIJ_S_if4UfkjkRr1002E_Z1xQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_S_if4UfkjkRr1002E_Z1xQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:30:34"
+  }
+]

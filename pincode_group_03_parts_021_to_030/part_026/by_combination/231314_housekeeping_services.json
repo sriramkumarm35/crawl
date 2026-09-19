@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cleaner Dekho",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services, House clearance service, Pool cleaning service, Tile cleaning service, Upholstery cleaning service, Window cleaning service",
+    "pincode": "231314",
+    "phone_number": "N/A",
+    "website": "https://www.cleanerdekho.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ground floor, Mahima Panorama, VIT Rd, near SRN INTERNATIONAL SCHOOL, Ramnagariya, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Ramnagariya, Jagatpura",
+    "latitude": 26.815375,
+    "longitude": 75.8686003,
+    "place_id": "ChIJnb2x7MXJbTkRuH0tmHpK6jQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnb2x7MXJbTkRuH0tmHpK6jQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:19"
+  },
+  {
+    "business_name": "Handyscompany",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "231314",
+    "phone_number": "+91 76315 50023",
+    "website": "https://handyscompany.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Bypass Road, Pantnagar, Gaya, Bihar 823001",
+    "area": "Pantnagar",
+    "latitude": 24.770874499999998,
+    "longitude": 85.0039154,
+    "place_id": "ChIJ0URuOWlL80kRD5lQHEkXZgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0URuOWlL80kRD5lQHEkXZgk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:20"
+  }
+]

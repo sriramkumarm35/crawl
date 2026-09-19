@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjit Graphics",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "232340",
+    "phone_number": "+91 88407 11752",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Adarsh Bazar, Ghazipur-Chochakpur Rd, Ghazipur, Uttar Pradesh 233002",
+    "area": "232340",
+    "latitude": 25.5548665,
+    "longitude": 83.5341637,
+    "place_id": "ChIJzWGKH1f_kTkRTVQ_IcYVucQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWGKH1f_kTkRTVQ_IcYVucQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:50:30"
+  },
+  {
+    "business_name": "WS COMPUTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "232340",
+    "phone_number": "+91 80857 75772",
+    "website": "http://sites.google.com/view/wscomputer",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "WS Computer, D/05, Mayur Vihar, Ashoka Garden, Bank Nagar, Bhopal, Madhya Pradesh 462023",
+    "area": "Mayur Vihar, Ashoka Garden, Bank Nagar",
+    "latitude": 23.262435699999997,
+    "longitude": 77.4270044,
+    "place_id": "ChIJ0Up2ELhpfDkRS2YTpSVOaMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Up2ELhpfDkRS2YTpSVOaMw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:50:33"
+  }
+]

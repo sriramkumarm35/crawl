@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CASPER Educational Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "231226",
+    "phone_number": "N/A",
+    "website": "https://www.caspereducation.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "CASPER Educational Consultancy, 231226, India",
+    "area": "231226",
+    "latitude": 25.448387399999998,
+    "longitude": 78.705118,
+    "place_id": "ChIJF1SsF8KQ3Y8RUm_jCwyPebc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1SsF8KQ3Y8RUm_jCwyPebc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:42:40"
+  },
+  {
+    "business_name": "Vivekanand Educational Consultancy Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "231226",
+    "phone_number": "+91 78286 46123",
+    "website": "https://www.vecs.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vivekanand Educational Consultancy Services, 231226, India",
+    "area": "231226",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJqxywoQVfhSER2HNGldAcNmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxywoQVfhSER2HNGldAcNmo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:42:40"
+  }
+]

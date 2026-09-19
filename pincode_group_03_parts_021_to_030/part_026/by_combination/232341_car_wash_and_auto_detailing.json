@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Car Tales",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto bodywork mechanic, Auto Dent Removal Service Station",
+    "pincode": "232341",
+    "phone_number": "+91 82378 53540",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 56,
+    "address": "324, Muhana Mandi Rd, near Kesar Circle, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar",
+    "latitude": 26.819202399999998,
+    "longitude": 75.7489973,
+    "place_id": "ChIJEUMBeFnLbTkRbHPWRPFYG7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUMBeFnLbTkRbHPWRPFYG7g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:36"
+  },
+  {
+    "business_name": "Clark’s Wash & Go Mobile Detailing Suffolk Va",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Car detailing service",
+    "pincode": "232341",
+    "phone_number": "N/A",
+    "website": "https://clarkswashandgo.net/",
+    "rating": 5,
+    "reviews_count": 115,
+    "address": "6550 Hampton Roads Pkwy, Suffolk, VA 23435, United States",
+    "area": "232341",
+    "latitude": 36.8806733,
+    "longitude": -76.4184854,
+    "place_id": "ChIJc1IC4YyfuokRIcu8CVaT9so",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1IC4YyfuokRIcu8CVaT9so",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:37"
+  }
+]

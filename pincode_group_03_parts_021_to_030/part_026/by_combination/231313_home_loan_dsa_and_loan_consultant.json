@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Easy Home Finance",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "231313",
+    "phone_number": "+91 1800 22 3279",
+    "website": "http://www.easyhomefinance.in/",
+    "rating": 4.4,
+    "reviews_count": 440,
+    "address": "3rd floor, Savoy Chambers, Dattatray Rd, Linking Rd, Hasmukh Nagar, Santacruz (West), Mumbai, Maharashtra 400054",
+    "area": "Linking Road, Hasmukh Nagar, Santacruz (West)",
+    "latitude": 19.085445999999997,
+    "longitude": 72.8348851,
+    "place_id": "ChIJT-bUvqbJ5zsRMR1-gWv4RJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-bUvqbJ5zsRMR1-gWv4RJY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:33"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "231313",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/uttarpradesh/mirzapur/hdfcbank-branch-renukoot",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "No 101, Abhay Mandir, Dankinganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Dankinganj",
+    "latitude": 25.144216,
+    "longitude": 82.5683026,
+    "place_id": "ChIJA_7VupfBjzkRi9Gb_e0Vp1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_7VupfBjzkRi9Gb_e0Vp1A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:33"
+  }
+]

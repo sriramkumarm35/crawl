@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PANDEY TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VIJAYPURA, Bhatauli Ghat Rd, Mirzapur, Uttar Pradesh 231501",
+    "area": "231501",
+    "latitude": 25.1801678,
+    "longitude": 82.6111516,
+    "place_id": "ChIJo1M-T57HjzkRE2of0-hWQYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1M-T57HjzkRE2of0-hWQYo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:05:21"
+  },
+  {
+    "business_name": "KGN Mobiles & Rail Tickets",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent",
+    "pincode": "231501",
+    "phone_number": "+91 99358 47197",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Chaman Ganj, Takiya, Ghosia, Aurai, Uttar Pradesh 221301",
+    "area": "Chaman Ganj, Takiya",
+    "latitude": 25.2693096,
+    "longitude": 82.5434611,
+    "place_id": "ChIJsTgbpRPojzkRGHyVBRfCCV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTgbpRPojzkRGHyVBRfCCV4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:05:22"
+  }
+]

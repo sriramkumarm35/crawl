@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Shakes & Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231312",
+    "phone_number": "+91 95963 20112",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "18000, Rani Park, Jammu, Jammu and Kashmir 180001",
+    "area": "Rani Park",
+    "latitude": 32.7378958,
+    "longitude": 74.867704,
+    "place_id": "ChIJnan0QXmFHjkRw-be9qDuBVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnan0QXmFHjkRw-be9qDuBVA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:34"
+  },
+  {
+    "business_name": "VR SODA MACHINE",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Vending machine supplier",
+    "all_categories": "Vending machine supplier, Beverage Store, Food & Beverage Exporter, Food machinery supplier, Manufacturer",
+    "pincode": "231312",
+    "phone_number": "+91 98248 42328",
+    "website": "https://vrsodamachine.com/",
+    "rating": 4.9,
+    "reviews_count": 377,
+    "address": "ILABEN ESTATE, 16, Narol - Sarkhej Rd, nr. Dayna Wash, nr. R V Denim, Chhipakuva, Ahmedabad, Gujarat 382405",
+    "area": "Chhipakuva",
+    "latitude": 22.9764454,
+    "longitude": 72.5705913,
+    "place_id": "ChIJc8hoqpGFXjkROo8PgZSBFvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8hoqpGFXjkROo8PgZSBFvY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:34"
+  }
+]

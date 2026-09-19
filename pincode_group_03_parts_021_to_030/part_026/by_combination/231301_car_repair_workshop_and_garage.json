@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Engineer's Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Diesel engine repair service, Motorcycle parts store, Muffler shop",
+    "pincode": "231301",
+    "phone_number": "+91 76519 33603",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Beside of GEETANJALI FUEL PUMP ⛽⛽⛽, NATIONAL HIGHWAY 2, Akhari, Uttar Pradesh 221011",
+    "area": "Awaleshpur",
+    "latitude": 25.248443599999998,
+    "longitude": 82.9626858,
+    "place_id": "ChIJcQTMLRozjjkR9JEb2nyHOQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQTMLRozjjkR9JEb2nyHOQc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:48"
+  },
+  {
+    "business_name": "Bharat Motor Garage Repairing Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Repair service",
+    "pincode": "231301",
+    "phone_number": "+91 85458 12382",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4HMQ+GF8, Varansi, Chunar Rd, Bharuhana, Mirzapur, Uttar Pradesh 231001",
+    "area": "Bharuhana",
+    "latitude": 25.1337934,
+    "longitude": 82.58869899999999,
+    "place_id": "ChIJEVoGAUbAjzkR25oMGDFJ4mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVoGAUbAjzkR25oMGDFJ4mM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:48"
+  }
+]

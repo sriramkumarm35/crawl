@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nani's Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231305",
+    "phone_number": "+91 90447 13303",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "B, 36/8- B, Sankat Mochan Rd, Saket Nagar Colony, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Saket Nagar Colony, Lanka",
+    "latitude": 25.284306899999997,
+    "longitude": 83.00096479999999,
+    "place_id": "ChIJx2M9NNkxjjkREvoZOwDibNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2M9NNkxjjkREvoZOwDibNE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:38"
+  },
+  {
+    "business_name": "Hangout In Lanka | Best Restaurant in Lanka Varanasi | Best Restaurant in Lanka | Family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Buffet restaurant, Chinese restaurant, Family restaurant, Fast food restaurant, Fine dining restaurant, North Indian restaurant, Indian restaurant, Vegetarian restaurant",
+    "pincode": "231305",
+    "phone_number": "+91 88877 13515",
+    "website": "https://dizitalcard.in/jamuna-das-bakers/",
+    "rating": 4.5,
+    "reviews_count": 773,
+    "address": "opp. Heritage Hospital, Opposite BHU Gate, Saket Nagar Colony, Lanka, Varanasi, Uttar Pradesh 221005",
+    "area": "Opposite BHU Gate, Saket Nagar Colony, Lanka",
+    "latitude": 25.278494499999997,
+    "longitude": 83.0024013,
+    "place_id": "ChIJjXRx8z8xjjkRMnSExyJk5Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXRx8z8xjjkRMnSExyJk5Z8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:39"
+  }
+]

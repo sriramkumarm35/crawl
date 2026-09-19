@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JS. Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "231301",
+    "phone_number": "+91 70070 39101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kachhwa, Mirzapur-cum-Vindhyachal, Kachhawan, Uttar Pradesh 231501",
+    "area": "Kachhwa",
+    "latitude": 25.2098363,
+    "longitude": 82.71382609999999,
+    "place_id": "ChIJg9RrJFrFjzkRkmllR2j-Kc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9RrJFrFjzkRkmllR2j-Kc4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:41"
+  },
+  {
+    "business_name": "Prakash Poly Clinic Mothar And Child Care Center",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "231301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Uchahra Chkiya, Ahirora Road, Sikarganj, Uttar Pradesh 232103",
+    "area": "231301",
+    "latitude": 25.0200969,
+    "longitude": 83.0972139,
+    "place_id": "ChIJATN7ZZ1FjjkRRUcKgNVlb8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATN7ZZ1FjjkRRUcKgNVlb8g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:41"
+  }
+]

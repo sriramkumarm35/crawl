@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hangout Cafe Assi Ghat",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "232106",
+    "phone_number": "+91 79056 21968",
+    "website": "https://www.instagram.com/hangoutcafe_assi?igsh=YWhlZzA3ZjVlZWx2",
+    "rating": 4.9,
+    "reviews_count": 287,
+    "address": "Dumraon Bagh Colony, 72Q3+4Q, B-1/122, plot No. 45, Assi Ghat Rd, Assi Ghat, Varanasi, Uttar Pradesh 221005",
+    "area": "Assi Ghat, Dumraon Colony",
+    "latitude": 25.287861499999998,
+    "longitude": 83.004387,
+    "place_id": "ChIJh-z6m7UxjjkREJGzHfLBbG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-z6m7UxjjkREJGzHfLBbG0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:37"
+  },
+  {
+    "business_name": "Rooftop Maya Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Diner, Lunch restaurant, Restaurant",
+    "pincode": "232106",
+    "phone_number": "+91 94514 39083",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B1 200, near Assi Ghat Road, Shivala, Varanasi, Uttar Pradesh 221005",
+    "area": "Shivala",
+    "latitude": 25.2893597,
+    "longitude": 83.0057118,
+    "place_id": "ChIJbR0YqFQxjjkRmQ3faV6V78Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbR0YqFQxjjkRmQ3faV6V78Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:38"
+  }
+]

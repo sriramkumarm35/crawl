@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj bhawan",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "233001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tulsi Sagar Chungi, near Hero Agency, Lanka, Ghazipur, Uttar Pradesh 233001",
+    "area": "Lanka",
+    "latitude": 25.5742995,
+    "longitude": 83.5556971,
+    "place_id": "ChIJx6HgEgD_kTkR46a2KNdUv9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6HgEgD_kTkR46a2KNdUv9Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:54:20"
+  },
+  {
+    "business_name": "RBA Infra Developers Pvt. Ltd.",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "233001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Head Office No. 77, Sukhadeopur, Ghazipur, Uttar Pradesh 233002",
+    "area": "Sukhadeopur",
+    "latitude": 25.5958407,
+    "longitude": 83.59226129999999,
+    "place_id": "ChIJFXcdiF__kTkRDaTGfBOpDzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXcdiF__kTkRDaTGfBOpDzA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:54:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRASTUT Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store, Interior Decorator, Linens store",
+    "pincode": "232105",
+    "phone_number": "+91 84350 70707",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sahyog Vihar, 20, Bawadiya Kalan, Bhopal, Madhya Pradesh 462039",
+    "area": "Nav Door Sanchar Nagar, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.1865477,
+    "longitude": 77.4345615,
+    "place_id": "ChIJveZfwKJDfDkRa-xY0iACMCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveZfwKJDfDkRa-xY0iACMCk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:14:42"
+  },
+  {
+    "business_name": "sawan cosmetic",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "232105",
+    "phone_number": "+91 94546 53056",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "F932+3MR, Dhanapur, Uttar Pradesh 232105",
+    "area": "232105",
+    "latitude": 25.4527294,
+    "longitude": 83.3516403,
+    "place_id": "ChIJd8gKBTocjjkRvt9Xusujbpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8gKBTocjjkRvt9Xusujbpw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:14:44"
+  }
+]

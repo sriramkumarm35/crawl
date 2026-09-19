@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvind Bajaj Bike Workshop",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Motorcycle parts store",
+    "pincode": "232340",
+    "phone_number": "+91 98898 87079",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Arvind Bajaj Bike Workshop, Ghuranbazar, Uttar Pradesh 233002",
+    "area": "232340",
+    "latitude": 25.539766399999998,
+    "longitude": 83.5095192,
+    "place_id": "ChIJ1ZLbBRL_kTkRHZYA1gGcVAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZLbBRL_kTkRHZYA1gGcVAU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:46"
+  },
+  {
+    "business_name": "Baba Vishwakarma Bike Service Centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "232340",
+    "phone_number": "+91 96169 24649",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganga Das Baba Balika Vidyalaya Jaitpura Mod, Uttar Pradesh 233002",
+    "area": "232340",
+    "latitude": 25.5417663,
+    "longitude": 83.5131845,
+    "place_id": "ChIJy53JK0T_kTkRKTF1v13QIGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy53JK0T_kTkRKTF1v13QIGs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajput Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231302",
+    "phone_number": "+91 90266 97784",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 40,
+    "address": "Milkipur, Rasul Ganj, Uttar Pradesh 231305",
+    "area": "231302",
+    "latitude": 25.243040099999998,
+    "longitude": 83.0374037,
+    "place_id": "ChIJV_RzFacxjjkRb-OXSdSFA80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_RzFacxjjkRb-OXSdSFA80",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:45:07"
+  },
+  {
+    "business_name": "Highway Tadka",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231302",
+    "phone_number": "+91 97942 41397",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 99,
+    "address": "Naipura, NH-2, Highway, Nuwan, Uttar Pradesh 221011",
+    "area": "231302",
+    "latitude": 25.2469048,
+    "longitude": 82.9739925,
+    "place_id": "ChIJ5aT8DtszjjkRqIflc9tb59c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5aT8DtszjjkRqIflc9tb59c",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:45:09"
+  }
+]

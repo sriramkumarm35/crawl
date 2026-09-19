@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Restureant Kek & Iceecrem Bekri Parlr",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "232108",
+    "phone_number": "+91 84232 22822",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "87R6+H4V, Sakaldiha, Uttar Pradesh 232109",
+    "area": "232108",
+    "latitude": 25.3414938,
+    "longitude": 83.2602981,
+    "place_id": "ChIJb9rViH8ZjjkROBRC7M54cxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9rViH8ZjjkROBRC7M54cxo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:19:03"
+  },
+  {
+    "business_name": "Amarjeet south Indian corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "232108",
+    "phone_number": "+91 82182 01434",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 50,
+    "address": "gate no 4, Dayal Bagh Rd, near dei, Kamala Nagar, DayalBagh, Agra, Uttar Pradesh 282005",
+    "area": "Kamala Nagar, DayalBagh",
+    "latitude": 27.2251841,
+    "longitude": 78.0115502,
+    "place_id": "ChIJeVQhQYB5dDkR02qpAcpV6k0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVQhQYB5dDkR02qpAcpV6k0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:19:06"
+  }
+]

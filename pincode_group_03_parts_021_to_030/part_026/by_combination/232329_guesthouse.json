@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guest room",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "232329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CH75+274 Ma Vashno Patanjali and Medical Store, Nai Basti, Kasba, Zamania, Uttar Pradesh 232329",
+    "area": "Nai Basti, Kasba",
+    "latitude": 25.4125008,
+    "longitude": 83.55820159999999,
+    "place_id": "ChIJeer5AiUHjjkRbptlKaFcj74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeer5AiUHjjkRbptlKaFcj74",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:37:39"
+  },
+  {
+    "business_name": "PWD Guest house (nirikshan bhawan)",
+    "search_category": "Guesthouse",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "232329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CH65+GQC, Chandpur, Babbanpur, Zamania, Uttar Pradesh 232329",
+    "area": "Chandpur",
+    "latitude": 25.411129799999998,
+    "longitude": 83.5585789,
+    "place_id": "ChIJD-V6NtUHjjkRnetZdMG-Fak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-V6NtUHjjkRnetZdMG-Fak",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:37:39"
+  }
+]

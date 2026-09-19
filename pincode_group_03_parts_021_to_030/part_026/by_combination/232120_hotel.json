@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StayVista Villa",
+    "search_category": "Hotel",
+    "primary_category": "Villa",
+    "all_categories": "Villa, Bed & breakfast, Cottage, Holiday home, Inn, Resort hotel",
+    "pincode": "232120",
+    "phone_number": "+91 81049 54254",
+    "website": "http://www.stayvista.com/",
+    "rating": 3.4,
+    "reviews_count": 20,
+    "address": "Ashram, Pacharon, Uttar Pradesh 221011",
+    "area": "Ashram",
+    "latitude": 25.376014599999998,
+    "longitude": 83.1018445,
+    "place_id": "ChIJpcbSUUwxjjkRnl7IEko_cXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcbSUUwxjjkRnl7IEko_cXU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:28:46"
+  },
+  {
+    "business_name": "OM SAI HOTEL",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "232120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "road, opposite of hotel saraswati, Chandhasi, Pandit Deen Dayal Upadhyaya Nagar, Uttar Pradesh 232101",
+    "area": "232120",
+    "latitude": 25.2908121,
+    "longitude": 83.1019896,
+    "place_id": "ChIJx6xJ_yM7jjkRGJkiMRUSEPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6xJ_yM7jjkRGJkiMRUSEPA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:28:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Ambay Plastice & Hardware Stores",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "233001",
+    "phone_number": "+91 87370 74619",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rauza, Bag Nurullah, Ghazipur, Uttar Pradesh 233002",
+    "area": "Rauza",
+    "latitude": 25.594853399999998,
+    "longitude": 83.58890819999999,
+    "place_id": "ChIJv49lN17_kTkRu1V7SCmnVcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv49lN17_kTkRu1V7SCmnVcA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:34"
+  },
+  {
+    "business_name": "Shree Sai Nath Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "233001",
+    "phone_number": "+91 63942 99943",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sukhadeopur, Ghazipur, Uttar Pradesh 233002",
+    "area": "Sukhadeopur",
+    "latitude": 25.5960736,
+    "longitude": 83.5918121,
+    "place_id": "ChIJ6dUABsQBkjkRH7gWcMONj2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dUABsQBkjkRH7gWcMONj2g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:36"
+  }
+]

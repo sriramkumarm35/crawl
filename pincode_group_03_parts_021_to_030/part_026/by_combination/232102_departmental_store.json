@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mateshwari Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "232102",
+    "phone_number": "+91 81276 82364",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 34,
+    "address": "7XV2+W7Q, Bhullanpur, Manrauli, Uttar Pradesh 221108",
+    "area": "Bhullanpur",
+    "latitude": 25.2948302,
+    "longitude": 82.9507287,
+    "place_id": "ChIJyxI-Z30yjjkRSifwq9cIvFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxI-Z30yjjkRSifwq9cIvFA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:08:20"
+  },
+  {
+    "business_name": "Home Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Cosmetics store, General store",
+    "pincode": "232102",
+    "phone_number": "+91 70809 66053",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chhittupur Rd, Hari Nagar Colony, Shivpurwa, Varanasi, Uttar Pradesh 221002",
+    "area": "Hari Nagar Colony, Shivpurwa",
+    "latitude": 25.317720299999998,
+    "longitude": 82.9791935,
+    "place_id": "ChIJn85Mng8tjjkROTfic-XZFx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn85Mng8tjjkROTfic-XZFx4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:08:21"
+  }
+]

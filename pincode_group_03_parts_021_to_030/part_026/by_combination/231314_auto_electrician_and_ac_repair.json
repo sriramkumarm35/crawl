@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharp Auto Electricals",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store, Electric generator shop",
+    "pincode": "231314",
+    "phone_number": "+91 98273 07060",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Arihant Parisar, Arvind Nagar, Sirsagar, Ujjain, Madhya Pradesh 456001",
+    "area": "Arihant Parisar, Arvind Nagar, Sirsagar",
+    "latitude": 23.189664,
+    "longitude": 75.7852669,
+    "place_id": "ChIJGWQMbRZ0YzkRKJcaRpIrwgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWQMbRZ0YzkRKJcaRpIrwgI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:03:36"
+  },
+  {
+    "business_name": "KGN Auto Services",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "231314",
+    "phone_number": "+91 85288 75841",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "behind Mirzamurad Thana, Gaur, Uttar Pradesh 221307",
+    "area": "231314",
+    "latitude": 25.286604099999998,
+    "longitude": 82.77808209999999,
+    "place_id": "ChIJ8U8D22jPjzkR8SnkmDbuusA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8U8D22jPjzkR8SnkmDbuusA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:03:37"
+  }
+]

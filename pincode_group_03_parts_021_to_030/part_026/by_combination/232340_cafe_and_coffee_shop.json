@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PIZZA STAND RESTURANT@CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "232340",
+    "phone_number": "+91 89604 69696",
+    "website": "https://pizza-stand-website-m12i-jec3pv9hf.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": 32,
+    "address": "HH62+932 P.G. College Chauraha, P G, College chauraha, near INDRALOK GARDEN, Gorabazar, Peernagar, Lanka, Ghazipur, Uttar Pradesh 233001",
+    "area": "Gorabazar, Peernagar, Lanka",
+    "latitude": 25.560837799999998,
+    "longitude": 83.550084,
+    "place_id": "ChIJodi6rK7_kTkR8XyKtNd2cQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodi6rK7_kTkR8XyKtNd2cQY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:26"
+  },
+  {
+    "business_name": "Sakara",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "232340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "HG48+JCG, post, Sakara, Husenpur, Uttar Pradesh 233002",
+    "area": "232340",
+    "latitude": 25.5565711,
+    "longitude": 83.51606679999999,
+    "place_id": "ChIJW3NfCxv_kTkRSNbT_09XSu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3NfCxv_kTkRSNbT_09XSu8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:27"
+  }
+]

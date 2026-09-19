@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga Dress Designer",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Service establishment",
+    "pincode": "231305",
+    "phone_number": "+91 76788 38751",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganga Dress Designer, 231305, India",
+    "area": "231305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ8wdEPb4zjjkR23rwEUM9bK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wdEPb4zjjkR23rwEUM9bK8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:45"
+  },
+  {
+    "business_name": "Madhu Ladies Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "231305",
+    "phone_number": "+91 72555 81845",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Adarsh Nagar, Tulsipur, Manduwadih, Varanasi, Uttar Pradesh 221103",
+    "area": "Adarsh Nagar, Tulsipur, Manduwadih",
+    "latitude": 25.303491299999997,
+    "longitude": 82.9702317,
+    "place_id": "ChIJdxAsSuIzjjkRiOhx11ilHGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxAsSuIzjjkRiOhx11ilHGs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:46"
+  }
+]

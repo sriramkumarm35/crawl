@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Medical Store And Clinic",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical clinic",
+    "pincode": "232339",
+    "phone_number": "+91 72369 46254",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Besides petrol pump, Mau Highway, Rasra, Uttar Pradesh 221712",
+    "area": "232339",
+    "latitude": 25.8623238,
+    "longitude": 83.85436779999999,
+    "place_id": "ChIJR9DsamoVkjkRUMW_muGVI0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9DsamoVkjkRUMW_muGVI0w",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:53"
+  },
+  {
+    "business_name": "S B Medical Agency",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "232339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HFGQ+365, NH 31, Fatehullahpur, Uttar Pradesh 233002",
+    "area": "232339",
+    "latitude": 25.5751377,
+    "longitude": 83.4881126,
+    "place_id": "ChIJP3LitYz9kTkRe8PW33HFC5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3LitYz9kTkRe8PW33HFC5Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:53"
+  }
+]

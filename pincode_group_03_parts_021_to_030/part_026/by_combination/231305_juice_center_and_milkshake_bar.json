@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brew Beans Benaras",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "231305",
+    "phone_number": "+91 63865 50745",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pandey Ghat, Bangali Tola, Varanasi, Uttar Pradesh 221001",
+    "area": "Pandey Ghat, Bangali Tola",
+    "latitude": 25.3036982,
+    "longitude": 83.008482,
+    "place_id": "ChIJj000dYUzjjkR-0i7Xn84lvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj000dYUzjjkR-0i7Xn84lvc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:35"
+  },
+  {
+    "business_name": "Diamond juice and chat",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "231305",
+    "phone_number": "+91 99896 34884",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nawal Enclave, opp. glendale academy, P&T Colony, Hyder Shah Kote, Sun City, Hyderabad, Bandlaguda Jagir, Telangana 500086",
+    "area": "P&T Colony, Hyder Shah Kote, Sun City",
+    "latitude": 17.360485399999998,
+    "longitude": 78.3990926,
+    "place_id": "ChIJBV-9eQCXyzsRil9-YTFr64E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBV-9eQCXyzsRil9-YTFr64E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:50:37"
+  }
+]

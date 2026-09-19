@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhatka Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "232102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "S,2, 114K, Hamrautia, Varanasi, Uttar Pradesh 221002",
+    "area": "Hamrautia",
+    "latitude": 25.3497609,
+    "longitude": 82.97726229999999,
+    "place_id": "ChIJL8w0H6UtjjkRIr1h9T6vT-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8w0H6UtjjkRIr1h9T6vT-0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:08:23"
+  },
+  {
+    "business_name": "Champaran Meat House",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "232102",
+    "phone_number": "+91 99569 53695",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "BHU Rd, near Lanka, Hyderabad Gate, Newada, Varanasi, Uttar Pradesh 201005",
+    "area": "Hyderabad Gate, Newada",
+    "latitude": 25.2635442,
+    "longitude": 82.9816632,
+    "place_id": "ChIJVZyXiGwzjjkRxqWYf1gWm6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZyXiGwzjjkRxqWYf1gWm6Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:08:23"
+  }
+]

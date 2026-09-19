@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit Body Club (Aurai)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "231312",
+    "phone_number": "+91 85430 86043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Varanasi Rd, Aurai, Uttar Pradesh 221306",
+    "area": "231312",
+    "latitude": 25.2653945,
+    "longitude": 82.5577966,
+    "place_id": "ChIJ-SbHA8bpjzkRRv8yR2dv5cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-SbHA8bpjzkRRv8yR2dv5cw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:56"
+  },
+  {
+    "business_name": "Krishna Fitnes The Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "231312",
+    "phone_number": "+91 99353 07623",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 46,
+    "address": "7H35+VGM, purushottam pur, Aurai, Mamid Patti, Uttar Pradesh 221301",
+    "area": "purushottam pur",
+    "latitude": 25.254721399999998,
+    "longitude": 82.558808,
+    "place_id": "ChIJtQDNhpbpjzkRGrwiuBxz6pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQDNhpbpjzkRGrwiuBxz6pQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:59"
+  }
+]

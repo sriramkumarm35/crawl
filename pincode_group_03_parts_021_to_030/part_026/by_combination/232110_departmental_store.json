@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RCM Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "232110",
+    "phone_number": "+91 94515 42229",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rahul RCM PUC Lokamanpur Bagahi, Near State Bank Of India, Jamniya Mode Saidyaraja Lokamanpur Bagahi - Saidyaraja, Uttar Pradesh 232110",
+    "area": "232110",
+    "latitude": 25.249091699999997,
+    "longitude": 83.3591847,
+    "place_id": "ChIJA0la4OcRjjkR6-tS43iuQXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0la4OcRjjkR6-tS43iuQXM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:22:18"
+  },
+  {
+    "business_name": "RCM Store (Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "232110",
+    "phone_number": "+91 87567 70807",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Prince Puc, Main Road, Amara, Uttar Pradesh 232110",
+    "area": "232110",
+    "latitude": 25.319580199999997,
+    "longitude": 83.4451148,
+    "place_id": "ChIJy0uu9tsPjjkROH2QHvRkA74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0uu9tsPjjkROH2QHvRkA74",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:22:18"
+  }
+]

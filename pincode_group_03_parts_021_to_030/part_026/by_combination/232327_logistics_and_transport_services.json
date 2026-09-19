@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GLOBE EXPRESS LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "232327",
+    "phone_number": "+91 98894 06999",
+    "website": "http://globeexpresslogistics.in/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "S-374, Transport Nagar, Lucknow, Uttar Pradesh 226012",
+    "area": "Transport Nagar",
+    "latitude": 26.780655499999998,
+    "longitude": 80.8884838,
+    "place_id": "ChIJWQXn6Gn5mzkRAWdjilk1f9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQXn6Gn5mzkRAWdjilk1f9k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:33:45"
+  },
+  {
+    "business_name": "Delhi South Express Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "232327",
+    "phone_number": "+91 84605 39328",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "2nd Floor, A-53, DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "DDA Shed, Block A, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5303284,
+    "longitude": 77.271688,
+    "place_id": "ChIJq7PQ_DvhDDkRnGCnIPWHrvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7PQ_DvhDDkRnGCnIPWHrvI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:33:45"
+  }
+]

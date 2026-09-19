@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asli Bharat Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "232325",
+    "phone_number": "+91 75497 20476",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 638,
+    "address": "Station Rd, Anwarpur, Hajipur, Bihar 844101",
+    "area": "Anwarpur",
+    "latitude": 25.69953,
+    "longitude": 85.215389,
+    "place_id": "ChIJUyC7xDhc7TkRsH3AILkviEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyC7xDhc7TkRsH3AILkviEw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:29:37"
+  },
+  {
+    "business_name": "Rakesh Chaudhary",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "232325",
+    "phone_number": "+91 91427 15656",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Banarpur Rd, Chausa, Akhauripur, Bihar 802114",
+    "area": "232325",
+    "latitude": 25.4871201,
+    "longitude": 83.8870918,
+    "place_id": "ChIJFd-FiJr1jTkRgf59Vy3fjrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFd-FiJr1jTkRgf59Vy3fjrk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:29:38"
+  }
+]

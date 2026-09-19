@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ritesh Traders",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "232327",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "near Uttari school, Gahmar, Uttar Pradesh 232327",
+    "area": "232327",
+    "latitude": 25.5006631,
+    "longitude": 83.81277779999999,
+    "place_id": "ChIJLYoKmCb3jTkR2d_tD6ZjgS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYoKmCb3jTkR2d_tD6ZjgS4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:45"
+  },
+  {
+    "business_name": "Vishal Traders",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "232327",
+    "phone_number": "+91 73101 00020",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "JQG4+73X, Enayat Patti Galla Mandi, Yusufpur Bazar, Post, Mohammadabad, Uttar Pradesh 233227",
+    "area": "232327",
+    "latitude": 25.6257304,
+    "longitude": 83.7552266,
+    "place_id": "ChIJ2ynAl_0FkjkRAAAAMOVeTh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ynAl_0FkjkRAAAAMOVeTh4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:47"
+  }
+]

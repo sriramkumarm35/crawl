@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "231225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6Q69+3CR, Auri, Uttar Pradesh 231225",
+    "area": "231225",
+    "latitude": 24.2102386,
+    "longitude": 82.7685096,
+    "place_id": "ChIJBZzBEwAljzkRorO0J2C_sbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZzBEwAljzkRorO0J2C_sbI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:41:25"
+  },
+  {
+    "business_name": "MOHINDER KAUR SHOPPING COMPLEX",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "231225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No. 08, Bhagat Singh Colony Rd, Nand Vihar, Singrauli, Madhya Pradesh 486889",
+    "area": "Nand Vihar",
+    "latitude": 24.2002724,
+    "longitude": 82.66388119999999,
+    "place_id": "ChIJ91X-8TM6jzkR4KS16e2tWXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91X-8TM6jzkR4KS16e2tWXA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:41:26"
+  }
+]

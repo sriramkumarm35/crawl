@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atithi restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "232331",
+    "phone_number": "+91 88404 74757",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Zamania, Uttar Pradesh 232329",
+    "area": "232331",
+    "latitude": 25.4168125,
+    "longitude": 83.5608125,
+    "place_id": "ChIJZWLzWwAHjjkRhlDSKIAPU6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWLzWwAHjjkRhlDSKIAPU6Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:19"
+  },
+  {
+    "business_name": "Zamania Bargad Point .2",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "232331",
+    "phone_number": "+91 70524 31575",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 24,
+    "address": "01 Zamania Kasba Zamania, Kasba, Ghazipur, Uttar Pradesh 232329",
+    "area": "Kasba",
+    "latitude": 25.4097801,
+    "longitude": 83.55957149999999,
+    "place_id": "ChIJJYHmP1kHjjkRfT5O1f1ehkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJYHmP1kHjjkRfT5O1f1ehkM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:19"
+  }
+]

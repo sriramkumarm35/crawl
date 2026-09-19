@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agro Vision",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "232111",
+    "phone_number": "+91 93347 26481",
+    "website": "http://www.agro-vision.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Prasad Sadan, Purulia Road, Ranchi, Jharkhand 834001",
+    "area": "Lalpur",
+    "latitude": 23.3673434,
+    "longitude": 85.343907,
+    "place_id": "ChIJgeFfsXDh9DkRSnUFLgVQVx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeFfsXDh9DkRSnUFLgVQVx8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:25:44"
+  },
+  {
+    "business_name": "CLN CORP",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "232111",
+    "phone_number": "+91 90737 37000",
+    "website": "https://www.clncorp.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH 2, Ullas, More, Purba, Alisha, Bardhaman, West Bengal 713103",
+    "area": "Purba",
+    "latitude": 23.218191299999997,
+    "longitude": 87.893722,
+    "place_id": "ChIJCdtnYcRJ-DkRdZksbq3Ddec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdtnYcRJ-DkRdZksbq3Ddec",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:25:44"
+  }
+]

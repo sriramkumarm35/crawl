@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "232336",
+    "phone_number": "+91 99533 55480",
+    "website": "https://bestballoondecorator.com/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Tara Enclave, 137, Khora gaon, Noida, Uttar Pradesh 201309",
+    "area": "Block B, Khora gaon, Sector 62",
+    "latitude": 28.619794799999998,
+    "longitude": 77.3611549,
+    "place_id": "ChIJ4-FPrwLlDDkReIJyxAhaK5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-FPrwLlDDkReIJyxAhaK5E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:42"
+  },
+  {
+    "business_name": "Birthday Bash",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Florist, Party equipment rental service",
+    "pincode": "232336",
+    "phone_number": "+91 73761 58221",
+    "website": "http://www.birthdaybashkanpur.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "37/5 C HAL Colony, Ramadevi, Kanpur, Uttar Pradesh 208007",
+    "area": "Ramadevi, Gandhigram",
+    "latitude": 26.406408799999998,
+    "longitude": 80.387057,
+    "place_id": "ChIJ7ZQR1DxBnDkRJS2gAqGLrW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZQR1DxBnDkRJS2gAqGLrW0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:44"
+  }
+]

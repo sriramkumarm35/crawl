@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjivani Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "232107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "G6WG+2FJ, Saidpur-Mahpur Marg, Saidpur, Uttar Pradesh 233304",
+    "area": "232107",
+    "latitude": 25.5450773,
+    "longitude": 83.2261413,
+    "place_id": "ChIJbbYh_LbfkTkR1jC-C6HhBgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbYh_LbfkTkR1jC-C6HhBgk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:17:36"
+  },
+  {
+    "business_name": "Jiwan Jyoti Poli Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "232107",
+    "phone_number": "+91 94152 68156",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 39,
+    "address": "Kadipur Station Rd, Chaubepur, Uttar Pradesh 221104",
+    "area": "232107",
+    "latitude": 25.445632,
+    "longitude": 83.0917492,
+    "place_id": "ChIJwYThKDImjjkRP199fdeoXSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYThKDImjjkRP199fdeoXSc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:17:37"
+  }
+]

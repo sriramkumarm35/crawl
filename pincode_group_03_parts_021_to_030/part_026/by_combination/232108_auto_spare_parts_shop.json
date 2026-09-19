@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SINGH AUTO SPARE PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "232108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tenwar, Chaturbhuj pur, Uttar Pradesh 232108",
+    "area": "232108",
+    "latitude": 25.3309614,
+    "longitude": 83.2874891,
+    "place_id": "ChIJrd_Lci4YjjkRRNtHqpvRM5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrd_Lci4YjjkRRNtHqpvRM5w",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:19:28"
+  },
+  {
+    "business_name": "Chand Auto Repairing Center",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "232108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "GT Rd, Saiyadraja, Uttar Pradesh 232110",
+    "area": "232108",
+    "latitude": 25.2500538,
+    "longitude": 83.3556208,
+    "place_id": "ChIJcWIiBgARjjkRhkslJjIMzgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWIiBgARjjkRhkslJjIMzgc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:19:29"
+  }
+]

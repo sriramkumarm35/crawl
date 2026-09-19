@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The kitchen restaurant and bakers and coffee cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "233222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 15,
+    "address": "QPFV+9CG, Hazipur Baresar, Uttar Pradesh 233222",
+    "area": "233222",
+    "latitude": 25.7740305,
+    "longitude": 83.7423049,
+    "place_id": "ChIJh5mxG04bkjkRiP-cUSZHjb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5mxG04bkjkRiP-cUSZHjb0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:58:34"
+  },
+  {
+    "business_name": "Food Hub Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "233222",
+    "phone_number": "+91 98899 80321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ganj Rd, Yusufpur, Kajipur Siraj, Uttar Pradesh 233227",
+    "area": "233222",
+    "latitude": 25.6291953,
+    "longitude": 83.75085589999999,
+    "place_id": "ChIJaVVvcAAFkjkR_h23RURwKRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVVvcAAFkjkR_h23RURwKRc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:58:34"
+  }
+]

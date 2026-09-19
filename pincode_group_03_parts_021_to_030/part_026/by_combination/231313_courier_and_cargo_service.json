@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "amazon estore",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service, Service establishment",
+    "pincode": "231313",
+    "phone_number": "N/A",
+    "website": "http://www.gokul.iteducation.in/",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "amazon estore, 231313, India",
+    "area": "231313",
+    "latitude": 25.358005799999997,
+    "longitude": 82.4116552,
+    "place_id": "ChIJ2QfWBpQriksRrmi47Ms1YTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QfWBpQriksRrmi47Ms1YTE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:34"
+  },
+  {
+    "business_name": "Delhivery courier booking service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "231313",
+    "phone_number": "N/A",
+    "website": "https://www.delhivery.com/",
+    "rating": 4.1,
+    "reviews_count": 18,
+    "address": "Belwar road, Sujanganj, Tilakhara Urf Suzanganj, Uttar Pradesh 222201",
+    "area": "231313",
+    "latitude": 25.7706022,
+    "longitude": 82.2916639,
+    "place_id": "ChIJj7Xjm2yhmjkRFpFau6PZQ6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7Xjm2yhmjkRFpFau6PZQ6o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:35"
+  }
+]

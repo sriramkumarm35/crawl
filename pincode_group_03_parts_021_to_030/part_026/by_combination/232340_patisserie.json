@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "General Store",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, General store",
+    "pincode": "232340",
+    "phone_number": "+91 63922 04559",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "45, Kasera Pokhra, Uttar Pradesh 232329",
+    "area": "232340",
+    "latitude": 25.4350572,
+    "longitude": 83.58023159999999,
+    "place_id": "ChIJW7VRl7EAjjkRAAAAsALNAEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7VRl7EAjjkRAAAAsALNAEs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:23"
+  },
+  {
+    "business_name": "KAVI Singh Kushwaha",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "232340",
+    "phone_number": "+91 73091 92629",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhawani Line, Mangalmadai, Ghazipur, Uttar Pradesh 233002",
+    "area": "232340",
+    "latitude": 25.559218899999998,
+    "longitude": 83.5352935,
+    "place_id": "ChIJdRlzbVH_kTkRki0b2oBc45E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRlzbVH_kTkRki0b2oBc45E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:23"
+  }
+]

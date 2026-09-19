@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M K Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "232341",
+    "phone_number": "+91 81259 00386",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 14,
+    "address": "Park Ln, Kalasiguda, Secunderabad, Telangana 500003",
+    "area": "Kalasiguda",
+    "latitude": 17.4395216,
+    "longitude": 78.4896698,
+    "place_id": "ChIJLdTaYxSbyzsRgoxSfEJWwt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdTaYxSbyzsRgoxSfEJWwt0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:05"
+  },
+  {
+    "business_name": "pappan Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "232341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "94W5+Q25, Mahuadanr, Jharkhand 822119",
+    "area": "232341",
+    "latitude": 23.396848,
+    "longitude": 84.1075517,
+    "place_id": "ChIJhSsuDySuizkRu3kOFWYngnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSsuDySuizkRu3kOFWYngnw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

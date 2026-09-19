@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Milk Bahar",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service, Fast food restaurant",
+    "pincode": "232111",
+    "phone_number": "+91 86875 75618",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Jepish Nagar, Jjanki Nagar, Varanasi, Shivdaspur, Uttar Pradesh 221106",
+    "area": "Jjanki Nagar",
+    "latitude": 25.289276299999997,
+    "longitude": 82.97152369999999,
+    "place_id": "ChIJUVAr3o0zjjkRnC8AhVbg0lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVAr3o0zjjkRnC8AhVbg0lI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:24:08"
+  },
+  {
+    "business_name": "Chitrahar Sudha Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "232111",
+    "phone_number": "+91 99556 35656",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 42,
+    "address": "P4M6+7MW, Parasia - Nabinagar Rd, Barem, Bihar 824303",
+    "area": "232111",
+    "latitude": 24.7332499,
+    "longitude": 84.1116969,
+    "place_id": "ChIJMxiGMntSjDkRJOZXB8Umxcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxiGMntSjDkRJOZXB8Umxcw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:24:10"
+  }
+]

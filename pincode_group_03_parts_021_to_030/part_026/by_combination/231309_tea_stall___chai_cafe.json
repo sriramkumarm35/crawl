@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "231309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4HGP+QJ9, Rajpur, Mirzapur, Uttar Pradesh 231001",
+    "area": "Rajpur",
+    "latitude": 25.1269098,
+    "longitude": 82.586596,
+    "place_id": "ChIJ8UBsXWLBjzkRbSZBdelM1yY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UBsXWLBjzkRbSZBdelM1yY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:00"
+  },
+  {
+    "business_name": "Tea Stall & Pan shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "231309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "WMV7+M9Q, SH 5, Danti, Uttar Pradesh 231210",
+    "area": "231309",
+    "latitude": 24.9442031,
+    "longitude": 82.6634849,
+    "place_id": "ChIJJwBb9Vu7jzkRKIfmWLqfM_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwBb9Vu7jzkRKIfmWLqfM_E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:00"
+  }
+]

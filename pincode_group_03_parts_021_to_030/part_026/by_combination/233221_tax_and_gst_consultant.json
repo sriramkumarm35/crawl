@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accounts & Tax Consultants",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Tax preparation service",
+    "pincode": "233221",
+    "phone_number": "+91 63935 06565",
+    "website": "https://mkpvns.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandra Chauraha, On the Way to BS Convent School Akelwa Baba Mandir Ruppanpur, Varanasi, Uttar Pradesh 221007",
+    "area": "Asapur",
+    "latitude": 25.355775299999998,
+    "longitude": 83.0230083,
+    "place_id": "ChIJOxIlAVgujjkRb2BljuVcHtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxIlAVgujjkRb2BljuVcHtw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:53"
+  },
+  {
+    "business_name": "1 Tax Solutions",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "233221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Alapchak, Banwari Chak, Uttar Pradesh 233304",
+    "area": "233221",
+    "latitude": 25.541214699999998,
+    "longitude": 83.25536269999999,
+    "place_id": "ChIJ7dxRFADhkTkR9etsdOeHEMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dxRFADhkTkR9etsdOeHEMg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:56"
+  }
+]

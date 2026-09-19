@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhedi Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "232118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW5W+JR2, Bhedi Chowk Bus Stop, NH 722, Bihar 841402",
+    "area": "232118",
+    "latitude": 25.9090094,
+    "longitude": 84.9470207,
+    "place_id": "ChIJFxNpFyBL7TkRMj6zfjoozoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxNpFyBL7TkRMj6zfjoozoo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:28"
+  },
+  {
+    "business_name": "Urgent care pet clinic (waidhan) singrauli",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Medical clinic, Surgeon",
+    "pincode": "232118",
+    "phone_number": "+91 79745 53073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 91, Rajmata chunkumari stadium, Western road, beside Rajmata chunkumari stadium, Waidhan, Madhya Pradesh 486886",
+    "area": "232118",
+    "latitude": 24.0688709,
+    "longitude": 82.62480099999999,
+    "place_id": "ChIJpZjZ20Y3jzkRhrQ_Ui7_WEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZjZ20Y3jzkRhrQ_Ui7_WEw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:30"
+  }
+]

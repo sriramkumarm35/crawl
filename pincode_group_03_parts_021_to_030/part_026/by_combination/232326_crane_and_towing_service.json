@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jashan Crane Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "232326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Baba Heera Singh Nagar, Kalka Chowk, Police Line, Ambala, Haryana 134003",
+    "area": "Police Line",
+    "latitude": 30.375201099999998,
+    "longitude": 76.782122,
+    "place_id": "ChIJsz0C90nJDzkRI05jGXEmjLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsz0C90nJDzkRI05jGXEmjLQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:56"
+  },
+  {
+    "business_name": "Clark’s Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "232326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "Clark’s Towing, 232326, India",
+    "area": "232326",
+    "latitude": 41.280028,
+    "longitude": -96.00958,
+    "place_id": "ChIJWRaI9R2Fk4cR1MN8EMoxk4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRaI9R2Fk4cR1MN8EMoxk4I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:59"
+  }
+]

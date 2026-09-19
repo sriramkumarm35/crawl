@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Vatika Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Event venue, Family restaurant, Hotel, Wedding venue, Restaurant",
+    "pincode": "232102",
+    "phone_number": "+91 63865 68848",
+    "website": "https://krishnavatikaresort.bookmystay.io/?utm_source=gmb&utm_campaign=website_buttton",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "street13, Varanasi, Bahlolpur, Uttar Pradesh 221101",
+    "area": "232102",
+    "latitude": 25.410622099999998,
+    "longitude": 82.998457,
+    "place_id": "ChIJs7GWbLMpjjkRU0Mqsh9IUqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7GWbLMpjjkRU0Mqsh9IUqQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:09:24"
+  },
+  {
+    "business_name": "Allure of Kashi",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Banquet hall, Wedding buffet, Wedding planner, Wedding venue",
+    "pincode": "232102",
+    "phone_number": "N/A",
+    "website": "https://allureofkashi.in/#",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Parao Kusth Ashram, Jalil Pur, Suzabad, Varanasi, Uttar Pradesh 221008",
+    "area": "Jalil Pur",
+    "latitude": 25.3194576,
+    "longitude": 83.04100849999999,
+    "place_id": "ChIJGcxRlPkvjjkR97574uqYYMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcxRlPkvjjkR97574uqYYMs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:09:25"
+  }
+]

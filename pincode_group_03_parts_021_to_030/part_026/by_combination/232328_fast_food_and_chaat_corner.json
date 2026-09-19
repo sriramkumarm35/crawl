@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharaja Chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Juice shop",
+    "pincode": "232328",
+    "phone_number": "+91 94408 34152",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12277,
+    "address": "Sri Rama Colony, Kavuri Hills, Madhapur, Hyderabad, Telangana 500033",
+    "area": "Sri Rama Colony, Kavuri Hills, Madhapur",
+    "latitude": 17.4409191,
+    "longitude": 78.39676349999999,
+    "place_id": "ChIJ7x3pVMuWyzsR07JuXh8rdHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x3pVMuWyzsR07JuXh8rdHs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:35:01"
+  },
+  {
+    "business_name": "AFC (Apna Fast Food Corner)",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "232328",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "Front of Apna Bazar, Sichai Vibhag Chauraha, Kacheri, Ghazipur, Uttar Pradesh 233001",
+    "area": "Sichai Vibhag Chauraha, Kacheri",
+    "latitude": 25.5754,
+    "longitude": 83.5657062,
+    "place_id": "ChIJUUUhcJX_kTkRHl4-7eHXQUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUUhcJX_kTkRHl4-7eHXQUE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:35:02"
+  }
+]

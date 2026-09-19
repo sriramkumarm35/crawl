@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coimbatore Car Rental & Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency",
+    "pincode": "232120",
+    "phone_number": "+91 73737 30705",
+    "website": "https://coimbatorecarrentals.com/",
+    "rating": 4.6,
+    "reviews_count": 200,
+    "address": "Ganapathy Maa Nagar, NO. M1006, Ganapathi Maanagar, Coimbatore, Tamil Nadu 641006",
+    "area": "Ganapathi Maanagar",
+    "latitude": 11.0481014,
+    "longitude": 76.9994947,
+    "place_id": "ChIJ-9Pn_P5YqDsR9QxIMzHoP_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9Pn_P5YqDsR9QxIMzHoP_g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:28:22"
+  },
+  {
+    "business_name": "Star cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Rental car return location, Tour agency",
+    "pincode": "232120",
+    "phone_number": "+91 78419 41151",
+    "website": "https://starcabservices.in/",
+    "rating": 5,
+    "reviews_count": 231,
+    "address": "Damodar aashiyana building, Saibaba Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Saibaba Nagar, Kondhwa",
+    "latitude": 18.468909099999998,
+    "longitude": 73.8801826,
+    "place_id": "ChIJe4RW0BjrwjsR8qOI0l5YrdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4RW0BjrwjsR8qOI0l5YrdU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:28:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Ice-cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "232111",
+    "phone_number": "+91 78508 16755",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 25,
+    "address": "QH64+MR3, Alote, Madhya Pradesh 457114",
+    "area": "232111",
+    "latitude": 23.761709,
+    "longitude": 75.5570491,
+    "place_id": "ChIJm2WDQUxnZDkR7f2LsXawlOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2WDQUxnZDkR7f2LsXawlOA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:24:20"
+  },
+  {
+    "business_name": "Cream N Bites",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "232111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shirdipuram, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Shirdipuram, Kolar Rd",
+    "latitude": 23.182465699999998,
+    "longitude": 77.42300519999999,
+    "place_id": "ChIJixS9k49DfDkRGwWQkMtlQTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixS9k49DfDkRGwWQkMtlQTQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:24:22"
+  }
+]

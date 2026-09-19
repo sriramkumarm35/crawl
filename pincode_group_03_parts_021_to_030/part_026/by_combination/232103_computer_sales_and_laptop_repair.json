@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DAY-NIGHT COMPUTER CENTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "232103",
+    "phone_number": "+91 88538 19565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KILA ROAD, near CO OFFICE, Chakia, Uttar Pradesh 232103",
+    "area": "232103",
+    "latitude": 25.0473082,
+    "longitude": 83.2213889,
+    "place_id": "ChIJyyT9j7lBjjkR6jzr302sSzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyyT9j7lBjjkR6jzr302sSzc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:11:24"
+  },
+  {
+    "business_name": "Himanshu Computer Shop",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "232103",
+    "phone_number": "+91 88538 19565",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kila Road, Kachahari Campus, Chakia, Uttar Pradesh 232103",
+    "area": "Kachahari Campus",
+    "latitude": 25.0469394,
+    "longitude": 83.22128169999999,
+    "place_id": "ChIJEYuzYI9BjjkRohXwk-i-yJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYuzYI9BjjkRohXwk-i-yJQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:11:26"
+  }
+]

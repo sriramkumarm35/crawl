@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Banarshi Mawar Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "232330",
+    "phone_number": "+91 96824 33234",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01 Near Union Bank Bhaduara Ghazipur, Bihar 232333",
+    "area": "232330",
+    "latitude": 25.4552339,
+    "longitude": 83.7383965,
+    "place_id": "ChIJIw42I6X5jTkRHrGJpTGie1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIw42I6X5jTkRHrGJpTGie1Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:32"
+  },
+  {
+    "business_name": "Mateshwari Ice-cream And Faluda Shek Corner",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "232330",
+    "phone_number": "+91 97728 73484",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Jeep Stand, Railway Crassing, Bhadaura, Uttar Pradesh 232333",
+    "area": "232330",
+    "latitude": 25.454347499999997,
+    "longitude": 83.7418592,
+    "place_id": "ChIJ8UDHauj5jTkR4Cek28ZJnzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UDHauj5jTkR4Cek28ZJnzQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Memorial Health Care Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "231301",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "4VGH+6F9, Gangeshwarnath, Mirzapur, Uttar Pradesh 231304",
+    "area": "Gangeshwarnath",
+    "latitude": 25.125531,
+    "longitude": 82.878727,
+    "place_id": "ChIJLUesl5DKjzkRU0DszJ0M-Hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUesl5DKjzkRU0DszJ0M-Hk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:47"
+  },
+  {
+    "business_name": "Mirzapur City Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "231301",
+    "phone_number": "+91 63920 15342",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 23,
+    "address": "4HR8+X48, Katra Bazirao, Katra, Mirzapur, Uttar Pradesh 231001",
+    "area": "Katra Bazirao",
+    "latitude": 25.142404499999998,
+    "longitude": 82.5653281,
+    "place_id": "ChIJRx-TECvAjzkRGvE3_9OqaEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRx-TECvAjzkRGvE3_9OqaEk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:47"
+  }
+]

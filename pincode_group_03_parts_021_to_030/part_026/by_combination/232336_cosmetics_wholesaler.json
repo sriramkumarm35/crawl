@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aslam cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "232336",
+    "phone_number": "+91 99904 39538",
+    "website": "https://aslam-cosmetics.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block L2, Bandh Rd, Block L 2, Devli, Sangam Vihar, New Delhi, Delhi 110080",
+    "area": "Block L 2, Devli, Sangam Vihar",
+    "latitude": 28.499024199999997,
+    "longitude": 77.23146469999999,
+    "place_id": "ChIJW1cD_jDhDDkRIsDeLz2gYMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1cD_jDhDDkRIsDeLz2gYMY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:37"
+  },
+  {
+    "business_name": "P.S Cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Clothing store, Jeweler, Perfume store",
+    "pincode": "232336",
+    "phone_number": "+91 94519 71998",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8XXV+P28, Police Line Rd, Near Hanuman Temple, Pandeypur Chauraha, Pandeypur, DIG Colony, Varanasi, Uttar Pradesh 221002",
+    "area": "Pandeypur Chauraha, Pandeypur, DIG Colony",
+    "latitude": 25.34928,
+    "longitude": 82.9925739,
+    "place_id": "ChIJCzKN8dUtjjkR5MccQxt6JRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCzKN8dUtjjkR5MccQxt6JRA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:37"
+  }
+]

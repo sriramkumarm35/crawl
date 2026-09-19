@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek Communication",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "232330",
+    "phone_number": "+91 94537 78589",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rana Singh Katara, behind Seorai Tahsil Road, Seorai, Office, Uttar Pradesh 232333",
+    "area": "232330",
+    "latitude": 25.4546103,
+    "longitude": 83.7383454,
+    "place_id": "ChIJSRfMPcX5jTkRsgm2shMBWEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRfMPcX5jTkRsgm2shMBWEw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:27"
+  },
+  {
+    "business_name": "The Cake Delivery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop, Cooking Class, Culinary school, Cupcake shop, Wedding bakery, Wholesale bakery",
+    "pincode": "232330",
+    "phone_number": "+91 94720 49941",
+    "website": "https://youtube.com/@TheCakeDelivery",
+    "rating": 4.7,
+    "reviews_count": 140,
+    "address": "Pragati Path, Near Green Avenue Apartment, Ram Janki path, Patna, Bihar 800026",
+    "area": "Kumhrar",
+    "latitude": 25.591888599999997,
+    "longitude": 85.1823453,
+    "place_id": "ChIJ0yNhDvhZ7TkRV4_saL2y4zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yNhDvhZ7TkRV4_saL2y4zk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:38:27"
+  }
+]

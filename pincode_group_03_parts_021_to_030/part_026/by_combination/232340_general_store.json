@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Ma Mateshvari General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "232340",
+    "phone_number": "+91 95061 77635",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GH9V+55V Na, Ghazipur, Dhadni Bhanmal Rai, Uttar Pradesh 232336",
+    "area": "232340",
+    "latitude": 25.5179837,
+    "longitude": 83.5929094,
+    "place_id": "ChIJQ-GBxZ7_jTkRg7IHS3M602A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-GBxZ7_jTkRg7IHS3M602A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:18"
+  },
+  {
+    "business_name": "Pradeep General Store",
+    "search_category": "General Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "232340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 12,
+    "address": "GH47+6CC, Ghazipur, Uttar Pradesh 232340",
+    "area": "232340",
+    "latitude": 25.5055516,
+    "longitude": 83.5635138,
+    "place_id": "ChIJSYTItzsAjjkRqV678S-4dCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYTItzsAjjkRqV678S-4dCk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:49:20"
+  }
+]

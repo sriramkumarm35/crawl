@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dosa Plaza",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Fast food restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "232339",
+    "phone_number": "+91 97957 72772",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3218,
+    "address": "F-1 Vinayak, Pushp Apartment, 77, Lal Bahadur Shastri Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.45302,
+    "longitude": 81.832669,
+    "place_id": "ChIJ2y4UgdzKmjkROOnNscljMe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y4UgdzKmjkROOnNscljMe4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:41"
+  },
+  {
+    "business_name": "Dosa Plaza",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "232339",
+    "phone_number": "+91 93242 51402",
+    "website": "https://www.dosaplaza.com/",
+    "rating": 3.9,
+    "reviews_count": 424,
+    "address": "Hotel Triveni Sangam Ground Floor, Andawa Rd, Jhusi, Uttar Pradesh 211019",
+    "area": "Andanva",
+    "latitude": 25.4287171,
+    "longitude": 81.93297009999999,
+    "place_id": "ChIJv5PS2DZLhTkRL_F_DRcgvJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5PS2DZLhTkRL_F_DRcgvJ0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:41"
+  }
+]

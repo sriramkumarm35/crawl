@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manmohan Homeopathic clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "231312",
+    "phone_number": "+91 96067 96696",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jawahar Lal Vishwakarma Manmohan homiyo hall, Nai basti nakhra, near Bright Star public school, Birmaua, Mirzapur-cum-Vindhyachal, Uttar Pradesh 231001",
+    "area": "231312",
+    "latitude": 25.118136,
+    "longitude": 82.56729729999999,
+    "place_id": "ChIJjTyIIOLBjzkRje8_E-OiX3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTyIIOLBjzkRje8_E-OiX3U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:48"
+  },
+  {
+    "business_name": "Vindh Homeo Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "231312",
+    "phone_number": "+91 83033 69615",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purzagir Power House, Durga Chowraha, Willh Purzagir Bazar, Company Ghat Road, Uttar Pradesh 231312",
+    "area": "231312",
+    "latitude": 25.1841504,
+    "longitude": 82.5605124,
+    "place_id": "ChIJ3w_Ulx3qjzkRgDcJFt6pmVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3w_Ulx3qjzkRgDcJFt6pmVE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:50"
+  }
+]

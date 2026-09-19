@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fund Mitra",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner",
+    "pincode": "232107",
+    "phone_number": "+91 94152 68833",
+    "website": "http://fundmitra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "20, Lajpat Nagar, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221002",
+    "area": "Maldahiya, Chetganj",
+    "latitude": 25.3241609,
+    "longitude": 82.9917146,
+    "place_id": "ChIJV8baI-ItjjkRK6R8eHa49Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8baI-ItjjkRK6R8eHa49Jw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:18:29"
+  },
+  {
+    "business_name": "Sree Gokulam Chit & Finance Company",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Banking and finance, Shopping mall",
+    "pincode": "232107",
+    "phone_number": "+91 422 403 2287",
+    "website": "http://www.gokulamchits.com/",
+    "rating": 3.1,
+    "reviews_count": 15,
+    "address": "553, Diwan Bahadur Rd, Fair Deal Corner, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "area": "Fair Deal Corner, R.S. Puram",
+    "latitude": 11.0095146,
+    "longitude": 76.9504582,
+    "place_id": "ChIJc_wT8RxZqDsRpmYZl3ZQg4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_wT8RxZqDsRpmYZl3ZQg4A",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:18:31"
+  }
+]

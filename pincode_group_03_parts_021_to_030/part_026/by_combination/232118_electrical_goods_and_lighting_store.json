@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goel Lightings",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "232118",
+    "phone_number": "+91 83930 18111",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Munsif Rd, opp. Jyoti sweet, Shakti Nagar, Chandausi, Uttar Pradesh 244412",
+    "area": "Shakti Nagar",
+    "latitude": 28.4566248,
+    "longitude": 78.77605299999999,
+    "place_id": "ChIJwfyo4bvbCjkRFcssaur6ono",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfyo4bvbCjkRFcssaur6ono",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:41"
+  },
+  {
+    "business_name": "Havells Utsav Store - Om Traders",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "232118",
+    "phone_number": "+91 94302 67105",
+    "website": "https://havells.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Samudaek Swashth Kendra, Chand, Chainpur, Bihar 821106",
+    "area": "232118",
+    "latitude": 25.114648,
+    "longitude": 83.3962724,
+    "place_id": "ChIJ6UsASYJtjjkR8F_6b3DjdJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UsASYJtjjkR8F_6b3DjdJw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:42"
+  }
+]

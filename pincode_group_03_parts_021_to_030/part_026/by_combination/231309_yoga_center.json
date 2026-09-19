@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divansh educational and yoga center",
+    "search_category": "Yoga Center",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "231309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4HF4+9JQ, NH 135, Mirzapur, Lohdi Kalan, Uttar Pradesh 231307",
+    "area": "231309",
+    "latitude": 25.123466699999998,
+    "longitude": 82.55661169999999,
+    "place_id": "ChIJ7xjyr-vrjzkRBD37JlA2ztw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xjyr-vrjzkRBD37JlA2ztw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:22"
+  },
+  {
+    "business_name": "Dev Yog Sansthan",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor, Astrologer, Naturopathic practitioner",
+    "pincode": "231309",
+    "phone_number": "+91 99840 35675",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Chilh Rd, Majhgawan, Uttar Pradesh 231312",
+    "area": "231309",
+    "latitude": 25.1711188,
+    "longitude": 82.5512397,
+    "place_id": "ChIJo1EDvczrjzkRXgZ6shNVQpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1EDvczrjzkRXgZ6shNVQpA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:25"
+  }
+]

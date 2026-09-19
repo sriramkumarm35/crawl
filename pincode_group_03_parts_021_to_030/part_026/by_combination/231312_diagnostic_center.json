@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dummy.prashant Diagnostic",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "231312",
+    "phone_number": "N/A",
+    "website": "https://www.dummy.lab.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhadohi, Bhadohi - Mirzapur Rd, cum-Vindhyachal, Mirzapur-cum-Vindhyachal, Babura, Uttar Pradesh 231307",
+    "area": "cum-Vindhyachal",
+    "latitude": 25.16328,
+    "longitude": 82.5451578,
+    "place_id": "ChIJx0YI_T_rjzkR_fUN0m23qms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0YI_T_rjzkR_fUN0m23qms",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:53"
+  },
+  {
+    "business_name": "General Diagnostic - parul Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "231312",
+    "phone_number": "N/A",
+    "website": "https://www.gd-lab.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maim office, bal chikitsalaya and narshing home, Gosai Tola, Gosain Tola, Mirzapur, Uttar Pradesh 231001",
+    "area": "Gosain Tola",
+    "latitude": 25.1469414,
+    "longitude": 82.562029,
+    "place_id": "ChIJhX_sHrfBjzkRf1rbgDezsWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhX_sHrfBjzkRf1rbgDezsWU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:53"
+  }
+]

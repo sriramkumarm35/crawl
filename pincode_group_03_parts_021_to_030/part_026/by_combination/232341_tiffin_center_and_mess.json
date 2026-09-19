@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tiffin Hub",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, Tiffin Service Provider, Meal delivery",
+    "pincode": "232341",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sangam Tent house, 80 Feet Rd, near Usha Atta Chakki, Laxmipuri Colony, Krishna Campus, Bhopal, Madhya Pradesh 462010",
+    "area": "Laxmipuri Colony, Krishna Campus",
+    "latitude": 23.264574,
+    "longitude": 77.42457999999999,
+    "place_id": "ChIJiaQdNTtpfDkRmRj9AX0VWZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaQdNTtpfDkRmRj9AX0VWZw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:10"
+  },
+  {
+    "business_name": "Kanhaiya Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "232341",
+    "phone_number": "+91 80576 28080",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "34, Nehru Pk Colony, near Sood Dharam Kanta, Nehru Park Colony, Bareilly, Uttar Pradesh 243001",
+    "area": "Nehru Park Colony",
+    "latitude": 28.3773277,
+    "longitude": 79.4217699,
+    "place_id": "ChIJc-04P4wHoDkR-GgvOyBv0Ow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-04P4wHoDkR-GgvOyBv0Ow",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:51:12"
+  }
+]

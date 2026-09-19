@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma glasses store",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optical Store and Eyewear",
+    "all_categories": "Optical Store and Eyewear",
+    "pincode": "232336",
+    "phone_number": "+91 94515 17976",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HHJC+29G, Saklenabad, Ghazipur, Uttar Pradesh 233001",
+    "area": "Saklenabad",
+    "latitude": 25.580061,
+    "longitude": 83.570939,
+    "place_id": "ChIJN0EpTQ3_kTkRDm1G6QxVpfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0EpTQ3_kTkRDm1G6QxVpfA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:01"
+  },
+  {
+    "business_name": "सतनाम ऑप्टिकल चश्मा केन्द्र",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "232336",
+    "phone_number": "+91 70844 32794",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "नई सब्जी मण्डि, रेलवे क्रासिंग, Alawalpur, आलम पट्टी, Rauza, Ghazipur, Uttar Pradesh 233002",
+    "area": "Alawalpur, आलम पट्टी, Rauza",
+    "latitude": 25.5913202,
+    "longitude": 83.5876064,
+    "place_id": "ChIJr3xVxWD_kTkR0HEB6ljc4CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3xVxWD_kTkR0HEB6ljc4CQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:04"
+  }
+]

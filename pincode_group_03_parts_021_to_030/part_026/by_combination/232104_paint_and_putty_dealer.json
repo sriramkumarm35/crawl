@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "paints and hardware store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "232104",
+    "phone_number": "+91 98268 70807",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "shop no, 2, Church Rd, Jinsi, Pratap Nagar, Jahangirabad, Bhopal, Madhya Pradesh 462008",
+    "area": "Jinsi, Pratap Nagar, Jahangirabad",
+    "latitude": 23.248275099999997,
+    "longitude": 77.4164651,
+    "place_id": "ChIJX5T5StFDfDkRs2C0XH6KV5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5T5StFDfDkRs2C0XH6KV5I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:12:40"
+  },
+  {
+    "business_name": "Nerolac Dealer - K.K Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "232104",
+    "phone_number": "+91 99352 60898",
+    "website": "https://www.nerolac.com/store-locator/uttar-pradesh/padao/k-k-enterprises?utm_source=google_maps&utm_medium=organic",
+    "rating": null,
+    "reviews_count": null,
+    "address": "825W+Wmg, 0, Jalil Pur, Chaurhat, Padao, Uttar Pradesh 221008",
+    "area": "Jalil Pur",
+    "latitude": 25.309813899999998,
+    "longitude": 83.04668149999999,
+    "place_id": "ChIJh5tLqlkvjjkRDn1CwOcD26k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh5tLqlkvjjkRDn1CwOcD26k",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:12:41"
+  }
+]

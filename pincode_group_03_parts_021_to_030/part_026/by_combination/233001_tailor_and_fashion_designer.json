@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avon Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "233001",
+    "phone_number": "+91 94515 94820",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "HHH9+R8W, Opp. Jila Karagar, Lanka, Ghazipur, Uttar Pradesh 233001",
+    "area": "Lanka",
+    "latitude": 25.5796119,
+    "longitude": 83.56832349999999,
+    "place_id": "ChIJ1aLzdQ3_kTkRZpGBJ-jJgBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aLzdQ3_kTkRZpGBJ-jJgBQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:07"
+  },
+  {
+    "business_name": "New Bharathiya Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "233001",
+    "phone_number": "+91 94535 95685",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saklenabad, Ghazipur, Uttar Pradesh 233001",
+    "area": "Saklenabad",
+    "latitude": 25.5798323,
+    "longitude": 83.5705467,
+    "place_id": "ChIJnw8pSQ3_kTkRHdVpqdd-yJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnw8pSQ3_kTkRHdVpqdd-yJg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Dryfruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Spices Wholesaler",
+    "pincode": "232107",
+    "phone_number": "+91 99119 44376",
+    "website": "http://luckydryfruits.net/",
+    "rating": 4.5,
+    "reviews_count": 39,
+    "address": "Oppo. Chaman Thandai, 390/8, Khari Baoli Rd, Old Delhi, Fatehpuri, Chandni Chowk, Delhi, 110006",
+    "area": "Old Delhi, Fatehpuri, Chandni Chowk",
+    "latitude": 28.6570975,
+    "longitude": 77.22173529999999,
+    "place_id": "ChIJuVLHc939DDkRTlwV-ISiMEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVLHc939DDkRTlwV-ISiMEI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:17:12"
+  },
+  {
+    "business_name": "Star Masale",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Spices Exporter, Manufacturer, Spices Wholesaler",
+    "pincode": "232107",
+    "phone_number": "+91 99994 53143",
+    "website": "http://www.starmasale.in/",
+    "rating": 4.9,
+    "reviews_count": 235,
+    "address": "6633, Khari Baoli Rd, Old Delhi, Fatehpuri, Chandni Chowk, Delhi, 110006",
+    "area": "Old Delhi, Fatehpuri, Chandni Chowk",
+    "latitude": 28.6569781,
+    "longitude": 77.2218443,
+    "place_id": "ChIJAQAAfA39DDkRUYZ1Agdiyc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAfA39DDkRUYZ1Agdiyc8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:17:12"
+  }
+]

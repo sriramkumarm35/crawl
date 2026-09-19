@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra Enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "231309",
+    "phone_number": "+91 82990 32668",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "304, devri kala (Sh-5, Mirzapur - Ghorawal Rd, beside Kisan dhaba, Marihan, Mirzapur, Uttar Pradesh 231309",
+    "area": "231309",
+    "latitude": 24.948537599999998,
+    "longitude": 82.66076799999999,
+    "place_id": "ChIJF0iSADi7jzkRl811XGZ8Qu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0iSADi7jzkRl811XGZ8Qu8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:36"
+  },
+  {
+    "business_name": "Prism Cement - Astha Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Cement Supplier",
+    "pincode": "231309",
+    "phone_number": "+91 94154 17110",
+    "website": "https://www.prismcement.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Banki, Mode, Patehara, Uttar Pradesh 231309",
+    "area": "231309",
+    "latitude": 24.901440599999997,
+    "longitude": 82.5547981,
+    "place_id": "ChIJhyp70IiZjzkRwLKgVpaC3yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyp70IiZjzkRwLKgVpaC3yk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:36"
+  }
+]

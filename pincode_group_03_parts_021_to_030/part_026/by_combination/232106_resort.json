@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Hardik Palacio Varanasi",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "232106",
+    "phone_number": "+91 86011 17771",
+    "website": "https://www.hardikpalacio.com/",
+    "rating": 4.4,
+    "reviews_count": 505,
+    "address": "D52/2-A, Laxmikund, Luxa Rd, near Baba Shyam Mandir, Varanasi, Uttar Pradesh 221010",
+    "area": "Sidhgiribagh",
+    "latitude": 25.309517099999997,
+    "longitude": 83.001589,
+    "place_id": "ChIJ7yg4spMvjjkRQ_s8Snc_ePo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yg4spMvjjkRQ_s8Snc_ePo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:27"
+  },
+  {
+    "business_name": "River Town Stays",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Guest house, Home Stay, Restaurant",
+    "pincode": "232106",
+    "phone_number": "+91 80909 95544",
+    "website": "https://rivertownstays.com/",
+    "rating": 4,
+    "reviews_count": 92,
+    "address": "Muqeemganj, Sakka Ghat, Ghasi Tola, Varanasi, Domari, Uttar Pradesh 221001",
+    "area": "Muqeemganj, Sakka Ghat, Ghasi Tola",
+    "latitude": 25.3208859,
+    "longitude": 83.0251454,
+    "place_id": "ChIJew8mSiovjjkRNsRp5raeTLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJew8mSiovjjkRNsRp5raeTLY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:27"
+  }
+]

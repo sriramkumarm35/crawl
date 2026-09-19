@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hoper Hospitality Consulting",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "232333",
+    "phone_number": "+91 94086 19323",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hoper Hospitality Consulting, 232333, India",
+    "area": "232333",
+    "latitude": 22.902117999999998,
+    "longitude": 75.4950617,
+    "place_id": "ChIJBdG3DEXoL4YRNGprz8yHlWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdG3DEXoL4YRNGprz8yHlWU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:44:57"
+  },
+  {
+    "business_name": "NOVATEUR HOSPITALITY SERVICES",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "232333",
+    "phone_number": "+91 99250 28106",
+    "website": "https://www.novateurhospitality.com/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "3rd Floor, Dwarkesh Complex, 203, Vasant Vihar, Navrangpura, Ahmedabad, Gujarat 380006",
+    "area": "Vasant Vihar, Navrangpura",
+    "latitude": 23.033139499999997,
+    "longitude": 72.5578365,
+    "place_id": "ChIJL7o0GEeFXjkRJTuP5Iwe_v4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7o0GEeFXjkRJTuP5Iwe_v4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:44:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anshuman HR Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Unemployment office",
+    "all_categories": "Unemployment office",
+    "pincode": "233221",
+    "phone_number": "+91 97111 89713",
+    "website": "https://www.anshumanconsultancy.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "in front of Gayatri Mandir, beside TVS agency, Sohrauna, Padrauna, Uttar Pradesh 274304",
+    "area": "Sohrauna",
+    "latitude": 26.893403499999998,
+    "longitude": 83.9783269,
+    "place_id": "ChIJ5Vri-bGNkzkR8ew935Sxhf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Vri-bGNkzkR8ew935Sxhf0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:59"
+  },
+  {
+    "business_name": "Recrutics India",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency, Employment consultant",
+    "pincode": "233221",
+    "phone_number": "+91 120 495 9413",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1516, Vidhi Towers, NH 24, Mahagunpuram, Ghaziabad, Uttar Pradesh 273412",
+    "area": "Mahagunpuram",
+    "latitude": 26.372844699999998,
+    "longitude": 83.4661327,
+    "place_id": "ChIJ7WviENN7kTkRa_20HYVDQN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WviENN7kTkRa_20HYVDQN4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:57:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pashu vikash center",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "233222",
+    "phone_number": "+91 73983 27671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Village, post, Sidhaut, Kasimabad, Uttar Pradesh 233230",
+    "area": "233222",
+    "latitude": 25.817092199999998,
+    "longitude": 83.6481429,
+    "place_id": "ChIJna9mewkfkjkR0lGq6vq_u1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJna9mewkfkjkR0lGq6vq_u1o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:58:52"
+  },
+  {
+    "business_name": "Happy Pet Care Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "233222",
+    "phone_number": "+91 92012 52471",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gali Number 4, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Kasturba Nagar",
+    "latitude": 23.338171499999998,
+    "longitude": 75.0309869,
+    "place_id": "ChIJ1TKCDmT_YzkRqJFxr3kLh-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TKCDmT_YzkRqJFxr3kLh-U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:58:53"
+  }
+]

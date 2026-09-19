@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aala Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fast food restaurant",
+    "pincode": "232111",
+    "phone_number": "+91 80134 23690",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "27, Barrackpore Trunk Rd, Netaji Colony, Baranagar, West Bengal 700090",
+    "area": "Netaji Colony, Baranagar",
+    "latitude": 22.6379055,
+    "longitude": 88.3796033,
+    "place_id": "ChIJ41JJOqae-DkRpJdj5ZXy5c4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41JJOqae-DkRpJdj5ZXy5c4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:24:16"
+  },
+  {
+    "business_name": "Dehati Non Veg",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "232111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "222C+6W, Bypass Road, Ahraura, Latifpur, Uttar Pradesh 231301",
+    "area": "232111",
+    "latitude": 25.0005401,
+    "longitude": 83.0223431,
+    "place_id": "ChIJi2vZBQBPjjkRR8yleU6hcCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2vZBQBPjjkRR8yleU6hcCM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:24:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HBN Events",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner",
+    "pincode": "232118",
+    "phone_number": "+91 522 401 2643",
+    "website": "https://www.hbnevents.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2/606 Vikas Nagar Sector -2 Lucknow - 226022 near, near Lekhraj Panna, Lucknow, Uttar Pradesh 226022",
+    "area": "Sector 2, Vikas Nagar",
+    "latitude": 26.8959966,
+    "longitude": 80.9585701,
+    "place_id": "ChIJnxWV_oH9mzkRCtEApROhwgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxWV_oH9mzkRCtEApROhwgE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:27:05"
+  },
+  {
+    "business_name": "Channel Technologies Private Limited",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency, Database Management Company, Direct mail advertising, Event planner, Internet marketing service, Marketing agency, Marketing consultant",
+    "pincode": "232118",
+    "phone_number": "+91 98711 25804",
+    "website": "http://www.channel-technologies.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "A-74, A Block, Sector 2, Noida, Uttar Pradesh 201301",
+    "area": "A Block, Sector 2",
+    "latitude": 28.5852935,
+    "longitude": 77.3125367,
+    "place_id": "ChIJ86qq2ljkDDkRDQjCj78reLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86qq2ljkDDkRDQjCj78reLQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:27:05"
+  }
+]

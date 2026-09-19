@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Transit hostel",
+    "search_category": "Hostels",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "231312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5HGX+MJ8, Visundarpur, Mirzapur, Uttar Pradesh 231501",
+    "area": "Visundarpur",
+    "latitude": 25.176662399999998,
+    "longitude": 82.5990798,
+    "place_id": "ChIJ_-CrKgDBjzkRxJs-vqGIuDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-CrKgDBjzkRxJs-vqGIuDg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:00:27"
+  },
+  {
+    "business_name": "P M K K HOSTAL",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "231312",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "5H4J+HXC, Unnamed Road, Ramaipatti, Mirzapur-cum-Vindhyachal, Mirzapur, Uttar Pradesh 231001",
+    "area": "Ramaipatti",
+    "latitude": 25.156435,
+    "longitude": 82.58240169999999,
+    "place_id": "ChIJCyIVEsjBjzkRhF-_4bBkNp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyIVEsjBjzkRhF-_4bBkNp4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:00:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kwality Rice Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice shop",
+    "all_categories": "Rice shop",
+    "pincode": "232106",
+    "phone_number": "+91 96165 20043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "SH 3/1 13-2-S Natiniadai, Uttar Pradesh 221002",
+    "area": "Sector -B, Vishwanath Puri Colony",
+    "latitude": 25.3713685,
+    "longitude": 82.9713172,
+    "place_id": "ChIJE7ojOtItjjkRHe-Uk6DW-VA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7ojOtItjjkRHe-Uk6DW-VA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:27"
+  },
+  {
+    "business_name": "SHRI LAXMI NARAYAN TRADERS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "232106",
+    "phone_number": "+91 91510 25834",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Baba Bhole Nagar, Harpalpur, Lohta Bazar, Lohta, Uttar Pradesh 221107",
+    "area": "Harpalpur, Lohta Bazar",
+    "latitude": 25.3028025,
+    "longitude": 82.935394,
+    "place_id": "ChIJJ5SlI7AzjjkRnng_iVJAfpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5SlI7AzjjkRnng_iVJAfpo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:27"
+  }
+]

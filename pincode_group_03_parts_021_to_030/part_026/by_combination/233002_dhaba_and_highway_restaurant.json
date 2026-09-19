@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Shakti AC Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "233002",
+    "phone_number": "+91 70113 01781",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Varanasi - Gorakhpur Hwy, Akunhspur, Uttar Pradesh 233302",
+    "area": "233002",
+    "latitude": 25.5637179,
+    "longitude": 83.46320829999999,
+    "place_id": "ChIJSYplgDz9kTkRnZxtCtiAlZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYplgDz9kTkRnZxtCtiAlZk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:54:49"
+  },
+  {
+    "business_name": "Arti Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "233002",
+    "phone_number": "+91 84231 96588",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Shop,122, Jamaniya, Road, near by Singh Hospital, Dehati, Rajdepur, Ghazipur, Uttar Pradesh 233002",
+    "area": "Dehati, Rajdepur",
+    "latitude": 25.597209,
+    "longitude": 83.580236,
+    "place_id": "ChIJZbUNp07_kTkR3cEVXm6LjMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbUNp07_kTkR3cEVXm6LjMA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:54:50"
+  }
+]

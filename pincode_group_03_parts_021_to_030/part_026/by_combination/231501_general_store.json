@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ujjwal Ujala General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "231501",
+    "phone_number": "+91 78004 11179",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kachi Saray, Mirzapur-cum-Vindhyachal, Masari, Uttar Pradesh 231501",
+    "area": "231501",
+    "latitude": 25.1887536,
+    "longitude": 82.625599,
+    "place_id": "ChIJxX93jDLBjzkRS671TIG2lQI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxX93jDLBjzkRS671TIG2lQI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:46"
+  },
+  {
+    "business_name": "Gama General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 9,
+    "address": "6MVJ+V93, Mahamalpur, Uttar Pradesh 231501",
+    "area": "231501",
+    "latitude": 25.2446324,
+    "longitude": 82.6809076,
+    "place_id": "ChIJ1T0KAPjEjzkR619uSCwTAEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1T0KAPjEjzkR619uSCwTAEM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:46"
+  }
+]

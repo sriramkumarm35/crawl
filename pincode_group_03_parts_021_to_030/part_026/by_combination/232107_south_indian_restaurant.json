@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Curry Leaf Haridwar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "232107",
+    "phone_number": "+91 94150 02940",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 35,
+    "address": "16-A, Ganga Building, Harki Pauri Haridwar, Uttar Pradesh 233221",
+    "area": "232107",
+    "latitude": 25.537698199999998,
+    "longitude": 83.1959914,
+    "place_id": "ChIJ0wFAF1zfkTkRflPfx4ZK8Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wFAF1zfkTkRflPfx4ZK8Nw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:17:17"
+  },
+  {
+    "business_name": "Red Chilli Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "232107",
+    "phone_number": "+91 94548 42780",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "B 36/4-7, Sankat Mochan, Lanka Rd, Crossing, Varanasi, Uttar Pradesh 221005",
+    "area": "Tulsi Manas Mandir Colony, Crossing",
+    "latitude": 25.2844235,
+    "longitude": 83.0008041,
+    "place_id": "ChIJlTovL_MxjjkRlJLFGrU_bh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTovL_MxjjkRlJLFGrU_bh8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:17:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Collection O Sahani Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Hotel, Holiday home, Inn, Lodge, Motel, Service Apartment, Villa",
+    "pincode": "232106",
+    "phone_number": "+91 124 620 1516",
+    "website": "https://www.oyorooms.com/40982/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Samne Ghat Rd, Samne Ghat, Bhagwanpur, Varanasi, Uttar Pradesh 221005",
+    "area": "Samne Ghat, Bhagwanpur",
+    "latitude": 25.2735475,
+    "longitude": 83.01233909999999,
+    "place_id": "ChIJDejyaz8xjjkRQLS9QTsnxtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDejyaz8xjjkRQLS9QTsnxtY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:27"
+  },
+  {
+    "business_name": "JP Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Banquet hall, Event venue, Hotel, Wedding venue",
+    "pincode": "232106",
+    "phone_number": "+91 95545 22022",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Pared Kothi, Cantt, Varanasi, Uttar Pradesh 221002",
+    "area": "Vijay Nagar Colony, Chetganj",
+    "latitude": 25.3273422,
+    "longitude": 82.99045869999999,
+    "place_id": "ChIJEyNnAOEtjjkRMvF6PzmGDlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyNnAOEtjjkRMvF6PzmGDlA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:16:27"
+  }
+]

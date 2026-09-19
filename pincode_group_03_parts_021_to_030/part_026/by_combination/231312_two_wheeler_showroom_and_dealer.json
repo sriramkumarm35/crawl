@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mukesh bike repering center",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "231312",
+    "phone_number": "+91 81150 07715",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "tempu stand, Pakka Pokhara, Mirzapur, Uttar Pradesh 231307",
+    "area": "Pakka Pokhara",
+    "latitude": 25.1485879,
+    "longitude": 82.59356559999999,
+    "place_id": "ChIJjzFdcf3BjzkR1J8C7CFOnEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzFdcf3BjzkR1J8C7CFOnEQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:59:58"
+  },
+  {
+    "business_name": "Khushi Motors Electroride EV Showroom",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "231312",
+    "phone_number": "+91 92368 66795",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Grand Trunk Rd, near Charnamrit Resturant, Aurai, Uttar Pradesh 221301",
+    "area": "231312",
+    "latitude": 25.2652628,
+    "longitude": 82.5546354,
+    "place_id": "ChIJezc7g53pjzkRpYEwzCxzXus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezc7g53pjzkRpYEwzCxzXus",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:00:01"
+  }
+]

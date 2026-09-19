@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Twada Dhaba-North Indian Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "231301",
+    "phone_number": "+91 73930 15963",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "Shree Shyam Kunj Guest House, Kaivalya Dham Colony, B.36/10A-24, Sankat Mochan Rd, Tulsi Manas Mandir Colony, Naria, Varanasi, Uttar Pradesh 221005",
+    "area": "Tulsi Manas Mandir Colony, Naria",
+    "latitude": 25.285919999999997,
+    "longitude": 82.998116,
+    "place_id": "ChIJV_UXTBoxjjkRsag5UIpgDpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_UXTBoxjjkRsag5UIpgDpo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:23"
+  },
+  {
+    "business_name": "Thakur Ji Ki Rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "231301",
+    "phone_number": "+91 77040 00023",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 98,
+    "address": "Mani mandir dharmsangh, Durgakund, Varanasi, Uttar Pradesh 221005",
+    "area": "Durgakund, Jawahar Nagar Colony, Bhelupur",
+    "latitude": 25.291200699999997,
+    "longitude": 82.998604,
+    "place_id": "ChIJUxdBbpoxjjkRidQkmIUzVOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxdBbpoxjjkRidQkmIUzVOI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:23"
+  }
+]

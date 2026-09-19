@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna kids clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "232328",
+    "phone_number": "+91 94250 05367",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Surbhi parisar complex, Ayodhya Bypass Rd, near bank officer public school, ISRO Colony, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "ISRO Colony, Ayodhya Nagar",
+    "latitude": 23.2692828,
+    "longitude": 77.4705073,
+    "place_id": "ChIJzd3RqAJqfDkRZoMLnNWs6kE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzd3RqAJqfDkRZoMLnNWs6kE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:35:17"
+  },
+  {
+    "business_name": "Singh family clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Dental clinic, Homeopathic pharmacy, Medical clinic, Dentist",
+    "pincode": "232328",
+    "phone_number": "+91 89542 08004",
+    "website": "http://singhfamilyclinic.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sector 6B/185 VRINDAVAN YOJNA PHASE 1 NEAR ORNATE BANQUET HALL TELIBAGH, Uttar Pradesh 226029",
+    "area": "Gopeshkunj, Sector 6, Vrindavan Colony",
+    "latitude": 26.7769916,
+    "longitude": 80.9555443,
+    "place_id": "ChIJRfL_0HL7mzkRrQxeOseooO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfL_0HL7mzkRrQxeOseooO4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:35:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushman Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store",
+    "pincode": "231314",
+    "phone_number": "+91 92360 54252",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ayushman General Store Choti Khajuri Sadhu Kutia Mirzamurad, Uttar Pradesh 221311",
+    "area": "231314",
+    "latitude": 25.2790635,
+    "longitude": 82.8002368,
+    "place_id": "ChIJOR_BGLHPjzkRXLn7CK5mda4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOR_BGLHPjzkRXLn7CK5mda4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:57"
+  },
+  {
+    "business_name": "Ritik Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "231314",
+    "phone_number": "+91 63942 39016",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "mirzamurad mirzamurad, Khalispur, Uttar Pradesh 221307",
+    "area": "231314",
+    "latitude": 25.2846484,
+    "longitude": 82.7783635,
+    "place_id": "ChIJKT6kyCPPjzkR3fMacw4yUrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKT6kyCPPjzkR3fMacw4yUrY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:57"
+  }
+]

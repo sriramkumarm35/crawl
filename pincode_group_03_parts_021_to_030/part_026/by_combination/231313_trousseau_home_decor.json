@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Ceiling supplier, Gypsum Product Supplier, Interior Decorator, PVC windows supplier, Wallpaper store",
+    "pincode": "231313",
+    "phone_number": "+91 81760 76716",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Shiv Ratan Pur, Bazardiha, Jjanki Nagar, Lakhraw, Varanasi, Uttar Pradesh 221109",
+    "area": "Bazardiha, Jjanki Nagar",
+    "latitude": 25.2933278,
+    "longitude": 82.9779964,
+    "place_id": "ChIJYQdcbHcxjjkRkCZ4BZnhlhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQdcbHcxjjkRkCZ4BZnhlhM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:17"
+  },
+  {
+    "business_name": "Home Decor Design",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "231313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5G2J+FFV, Jln Lohiya Talab, Lallaghat, Gopalpur, Mirzapur, Uttar Pradesh 231001",
+    "area": "Lallaghat, Gopalpur",
+    "latitude": 25.151246399999998,
+    "longitude": 82.5311018,
+    "place_id": "ChIJvTS9Bu7rjzkRyjja8G82OiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTS9Bu7rjzkRyjja8G82OiQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:02:19"
+  }
+]

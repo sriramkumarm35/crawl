@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Downtown Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Bar, Brewpub, Pub, Restaurant",
+    "pincode": "232330",
+    "phone_number": "+91 81999 81526",
+    "website": "http://www.downtownresorts.in/",
+    "rating": 4.3,
+    "reviews_count": 5604,
+    "address": "76th Milestone, Delhi Jaipur Highway, Kharkhara, NH - 8, Dharuhera, Haryana 123106",
+    "area": "232330",
+    "latitude": 28.2050199,
+    "longitude": 76.75773579999999,
+    "place_id": "ChIJoWAgO08ZDTkRLVNca1Wo9PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWAgO08ZDTkRLVNca1Wo9PY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:39:24"
+  },
+  {
+    "business_name": "Blue Diamond Resort And Hotel",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "232330",
+    "phone_number": "+91 62077 66277",
+    "website": "http://bluediamondresort.in/",
+    "rating": 4.2,
+    "reviews_count": 4046,
+    "address": "NH- 57, Garha, Darbhanga Road, Muzaffarpur, Bihar 843103",
+    "area": "232330",
+    "latitude": 26.1709355,
+    "longitude": 85.4486494,
+    "place_id": "ChIJs-FwGqgF7TkRQWeKl1vLmbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-FwGqgF7TkRQWeKl1vLmbM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:39:24"
+  }
+]

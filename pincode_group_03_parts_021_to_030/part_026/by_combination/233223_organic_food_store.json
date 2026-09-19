@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Morhaila Market",
+    "search_category": "Organic Food Store",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "233223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "H262+H4J, Birbhanpur, Uttar Pradesh 222129",
+    "area": "233223",
+    "latitude": 25.5614547,
+    "longitude": 83.0002669,
+    "place_id": "ChIJlTmKZZnWkTkRNs63n5sDPI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTmKZZnWkTkRNs63n5sDPI0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:00:10"
+  },
+  {
+    "business_name": "Desi Mart",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "233223",
+    "phone_number": "+91 91374 32507",
+    "website": "https://desi-mart-52880.store.shoopy.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandepur, Uttar Pradesh 222129",
+    "area": "233223",
+    "latitude": 25.544411699999998,
+    "longitude": 83.05100209999999,
+    "place_id": "ChIJTWiybQDXkTkRFLAsAqAgftw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWiybQDXkTkRFLAsAqAgftw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:00:10"
+  }
+]

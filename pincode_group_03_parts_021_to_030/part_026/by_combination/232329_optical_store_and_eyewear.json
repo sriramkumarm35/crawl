@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gautam Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "232329",
+    "phone_number": "+91 90985 57384",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 15, New Nagar Pallika Complex, Baikunthpur, Chhattisgarh 497335",
+    "area": "Bazarpara, Jampara",
+    "latitude": 23.2626845,
+    "longitude": 82.55943719999999,
+    "place_id": "ChIJH-cVdvuLiDkRIbMXUR9AD3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-cVdvuLiDkRIbMXUR9AD3o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:36:59"
+  },
+  {
+    "business_name": "Prajapati chauraha",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "232329",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FH69+V9M, Prajapati Chauraha, Tajpur Manjha, Uttar Pradesh 232340",
+    "area": "232329",
+    "latitude": 25.4622235,
+    "longitude": 83.56842449999999,
+    "place_id": "ChIJkTvtF90BjjkRHMVZvVo8FKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTvtF90BjjkRHMVZvVo8FKs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:37:01"
+  }
+]

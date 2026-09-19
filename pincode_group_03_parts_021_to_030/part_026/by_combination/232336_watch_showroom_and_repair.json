@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "232336",
+    "phone_number": "+91 96441 16783",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop no. 4 bamchak hotel ke paas waali gali, near Victoria Hospital, Jabalpur, Madhya Pradesh 482002",
+    "area": "Ganjipura",
+    "latitude": 23.1721923,
+    "longitude": 79.9371522,
+    "place_id": "ChIJXVuAvI6vgTkRxfBxIKFzfyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVuAvI6vgTkRxfBxIKFzfyg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:01"
+  },
+  {
+    "business_name": "Gupta Mobile Watch Centre",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "232336",
+    "phone_number": "+91 96510 08424",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malsa, Uttar Pradesh 232340",
+    "area": "232336",
+    "latitude": 25.5225215,
+    "longitude": 83.5655395,
+    "place_id": "ChIJ7_JkKFL_kTkR_UpLFTQbyds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_JkKFL_kTkR_UpLFTQbyds",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:04"
+  }
+]

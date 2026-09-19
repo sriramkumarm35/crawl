@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashoka Mart",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "231301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 35,
+    "address": "Kailahat, Uttar Pradesh 231305",
+    "area": "231301",
+    "latitude": 25.151640699999998,
+    "longitude": 82.94842489999999,
+    "place_id": "ChIJTfl4Hx81jjkRONsI1q60c2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTfl4Hx81jjkRONsI1q60c2o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:44:56"
+  },
+  {
+    "business_name": "BirBaL Aalu WaLe बीरबल आलू वाले",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "231301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gola Galla Mandi, Chunar, Uttar Pradesh 231304",
+    "area": "231301",
+    "latitude": 25.103668,
+    "longitude": 82.87213799999999,
+    "place_id": "ChIJa1VVVXq1jzkRalP8KdYTnRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1VVVXq1jzkRalP8KdYTnRk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:44:56"
+  }
+]

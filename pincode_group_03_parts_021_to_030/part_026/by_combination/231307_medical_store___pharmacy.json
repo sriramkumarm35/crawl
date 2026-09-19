@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Teliyani medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "231307",
+    "phone_number": "+91 96161 21390",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4HWC+H8X, Girdhar ka chauraha, Uttar Pradesh 231001",
+    "area": "Wellesley Ganj",
+    "latitude": 25.1464791,
+    "longitude": 82.5708647,
+    "place_id": "ChIJJwa66dLBjzkRZnnnrSq6INg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwa66dLBjzkRZnnnrSq6INg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:54:31"
+  },
+  {
+    "business_name": "Ranjit Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "231307",
+    "phone_number": "+91 70805 33486",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4HF7+8PW, Nai Basti, Mirzapur, Lohdi Kalan, Uttar Pradesh 231307",
+    "area": "Nai Basti",
+    "latitude": 25.1233534,
+    "longitude": 82.5643304,
+    "place_id": "ChIJWzYtUiDAjzkRRvxXakOSbs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzYtUiDAjzkRRvxXakOSbs8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:54:31"
+  }
+]

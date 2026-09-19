@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amba bus service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "231303",
+    "phone_number": "+91 87260 64950",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarroi tiwari, kalana, Saroi Tiwari, Uttar Pradesh 231303",
+    "area": "231303",
+    "latitude": 25.149964699999998,
+    "longitude": 82.3834327,
+    "place_id": "ChIJHRo49YfzjzkRSdx6W1QkivE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRo49YfzjzkRSdx6W1QkivE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:47:28"
+  },
+  {
+    "business_name": "Arpit tour and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "231303",
+    "phone_number": "+91 87390 35330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SUFINAGAR, Jangiganj, Gopiganj, Uttar Pradesh 221310",
+    "area": "SUFINAGAR",
+    "latitude": 25.305011999999998,
+    "longitude": 82.37645789999999,
+    "place_id": "ChIJGW_oYW_7jzkRAllldoH_Q3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGW_oYW_7jzkRAllldoH_Q3o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:47:28"
+  }
+]

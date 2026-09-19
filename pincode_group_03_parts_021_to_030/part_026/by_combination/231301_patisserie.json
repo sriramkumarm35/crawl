@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Shivam Sweet",
+    "search_category": "Patisserie",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "231301",
+    "phone_number": "+91 63930 09708",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "42HP+W85, near Union Bank OF India, Masania, Ibrahimpur, Adalhat, Uttar Pradesh 231302",
+    "area": "Masania",
+    "latitude": 25.129752699999997,
+    "longitude": 83.0358557,
+    "place_id": "ChIJl6vw4B03jjkR7i4CktB_p0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6vw4B03jjkR7i4CktB_p0Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:20"
+  },
+  {
+    "business_name": "Darsh Stationery & Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "231301",
+    "phone_number": "+91 92354 70697",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Dhebra, Jai gurudev katra, chatti, Jamalpur, Uttar Pradesh 231302",
+    "area": "231301",
+    "latitude": 25.115700999999998,
+    "longitude": 83.10166459999999,
+    "place_id": "ChIJw7tkj-tHjjkRasQoJo5jZ8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7tkj-tHjjkRasQoJo5jZ8U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raz A To Z Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, General store",
+    "pincode": "232327",
+    "phone_number": "+91 96166 01786",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mania, Uttar Pradesh 232327",
+    "area": "232327",
+    "latitude": 25.457898099999998,
+    "longitude": 83.7775322,
+    "place_id": "ChIJExYBVeL3jTkRGnucMNZh5Cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExYBVeL3jTkRGnucMNZh5Cw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:33:03"
+  },
+  {
+    "business_name": "RCM Store, Isapur, Buxar (Wonder World Quick)",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "232327",
+    "phone_number": "+91 92041 46935",
+    "website": "https://www.rcmworld.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rcm Wonder World Mahaveer Asthan, Isapur, Puraina, Bihar 802114",
+    "area": "232327",
+    "latitude": 25.438182899999997,
+    "longitude": 83.85211389999999,
+    "place_id": "ChIJx_JuAiHzjTkR3tueWjzFybw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_JuAiHzjTkR3tueWjzFybw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:33:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pizza's King",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, Pizza restaurant",
+    "pincode": "233001",
+    "phone_number": "+91 80818 28113",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 131,
+    "address": "Lal Darwaja Rd, Mishra Bazar, Lal Darwaja, Ghazipur, Uttar Pradesh 233001",
+    "area": "Mishra Bazar, Lal Darwaja",
+    "latitude": 25.5827861,
+    "longitude": 83.5821782,
+    "place_id": "ChIJG0MFXWX_kTkRqTXDla8RM0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0MFXWX_kTkRqTXDla8RM0E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:52:59"
+  },
+  {
+    "business_name": "The cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "233001",
+    "phone_number": "+91 99362 93678",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Q9C9+RPP, Harhwa Fatak Rd, Jatepur North, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Jatepur North",
+    "latitude": 26.772083,
+    "longitude": 83.3693363,
+    "place_id": "ChIJj3Bqza5FkTkRSlT--1JzEfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3Bqza5FkTkRSlT--1JzEfw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:01"
+  }
+]

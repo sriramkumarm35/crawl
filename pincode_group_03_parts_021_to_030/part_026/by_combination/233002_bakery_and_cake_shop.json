@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bakers House",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "233002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vivek Digital Library, near Power Tractor Agency, Maharajganj, Ghazipur, Uttar Pradesh 233002",
+    "area": "233002",
+    "latitude": 25.5785856,
+    "longitude": 83.5096623,
+    "place_id": "ChIJM6UL5Rr_kTkR1Y-KecY13O4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6UL5Rr_kTkR1Y-KecY13O4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:54:47"
+  },
+  {
+    "business_name": "Namaste Bharat Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "233002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nandpuram coloney, Rajdepur, dehati, Uttar Pradesh 233002",
+    "area": "Rajdepur",
+    "latitude": 25.594153799999997,
+    "longitude": 83.5816088,
+    "place_id": "ChIJlxTcFT__kTkRKxVGe6z6HxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxTcFT__kTkRKxVGe6z6HxU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:54:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satyastationery and sports",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "232340",
+    "phone_number": "+91 99198 51840",
+    "website": "https://satyastationery.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adarsh Bazar Rd, Ghazipur, Chhawani Vise, Uttar Pradesh 233001",
+    "area": "232340",
+    "latitude": 25.5520621,
+    "longitude": 83.5301788,
+    "place_id": "ChIJ6V__ZAD_kTkR4FQH1fxe1UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6V__ZAD_kTkR4FQH1fxe1UM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:50:28"
+  },
+  {
+    "business_name": "Arushi Stationary & Sports Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "232340",
+    "phone_number": "+91 85770 30385",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "3, Jaitpura, Pakarpur, Uttar Pradesh 233002",
+    "area": "Jaitpura",
+    "latitude": 25.542317699999998,
+    "longitude": 83.51315129999999,
+    "place_id": "ChIJQRhAGwD_kTkRbAfD8R0w4Dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRhAGwD_kTkRbAfD8R0w4Dg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:50:28"
+  }
+]

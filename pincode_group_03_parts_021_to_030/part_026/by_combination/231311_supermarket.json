@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Namkeen",
+    "search_category": "Supermarket",
+    "primary_category": "Gourmet grocery store",
+    "all_categories": "Gourmet grocery store",
+    "pincode": "231311",
+    "phone_number": "+91 79 4847 0024",
+    "website": "https://laxminamkeen.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Near, Sumel 11 , Block No. C/52, Indian Textile Plaza Jahangir Mill Compound, BAPS Cir, Ahmedabad, Gujarat 380004",
+    "area": "Bhadreshwar Society, Kazipur Dariyapur",
+    "latitude": 23.0436454,
+    "longitude": 72.5882216,
+    "place_id": "ChIJmy_QPF2FXjkRIX9LYSz4E0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmy_QPF2FXjkRIX9LYSz4E0Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:34"
+  },
+  {
+    "business_name": "Namkinoes",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "231311",
+    "phone_number": "+91 94260 77284",
+    "website": "http://namkinoes.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "27, HBK New High School Building, O/s Delhi Gate, Shahibaug Rd., Ahmedabad, Gujarat 380004",
+    "area": "Bhadreshwar Society, Kazipur Dariyapur",
+    "latitude": 23.0404338,
+    "longitude": 72.5884353,
+    "place_id": "ChIJkS0BEfaFXjkRq3YeQSTUUN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkS0BEfaFXjkRq3YeQSTUUN4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:34"
+  }
+]

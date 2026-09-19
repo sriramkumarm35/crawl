@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya Beauty Zone",
+    "search_category": "Salon",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "232336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khanpur, Uttar Pradesh 233002",
+    "area": "232336",
+    "latitude": 25.5908762,
+    "longitude": 83.528342,
+    "place_id": "ChIJXVYUL2P_kTkRbE4N65mWzz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVYUL2P_kTkRbE4N65mWzz8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:36"
+  },
+  {
+    "business_name": "Kanak Beauty Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "232336",
+    "phone_number": "+91 96969 40806",
+    "website": "http://kanakbeautyparlour.unaux.com/",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "KANAK BEAUTY PARLOUR INFRONT OF PETROL PUMP BADA MAHADEVA, Gorabazar, Ghazipur, Uttar Pradesh 233001",
+    "area": "Gorabazar, Lanka",
+    "latitude": 25.5652616,
+    "longitude": 83.5574352,
+    "place_id": "ChIJfU06EK__kTkRvcLwKJ_RR1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfU06EK__kTkRvcLwKJ_RR1s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:46:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Traders",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "233222",
+    "phone_number": "+91 89248 67728",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Anil Traders, Alawalpur, Uttar Pradesh 233222",
+    "area": "233222",
+    "latitude": 25.719486699999997,
+    "longitude": 83.6992107,
+    "place_id": "ChIJsxl0lMQbkjkRB5-mKG9k4ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxl0lMQbkjkRB5-mKG9k4ic",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:59:35"
+  },
+  {
+    "business_name": "Purvanchal education Consultant Ghazipur",
+    "search_category": "Educational Consultant",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "233222",
+    "phone_number": "+91 94549 43206",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "151, Tahsil Rd, Mohammadabad, Yusufpur, Uttar Pradesh 233227",
+    "area": "233222",
+    "latitude": 25.626288799999998,
+    "longitude": 83.7575895,
+    "place_id": "ChIJwTlB9xQFkjkRloZ3IIDpjL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTlB9xQFkjkRloZ3IIDpjL0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:59:35"
+  }
+]

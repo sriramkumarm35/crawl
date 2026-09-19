@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr kamaludin's ENT clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "231303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "89Q2+RWF, Unnamed Road, Belhua, Uttar Pradesh 221308",
+    "area": "231303",
+    "latitude": 25.3395545,
+    "longitude": 82.3523123,
+    "place_id": "ChIJIVviG1v7jzkREHgzCEqEg14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVviG1v7jzkREHgzCEqEg14",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:47:18"
+  },
+  {
+    "business_name": "Gayatri medicine kendra",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "231303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "577Q+W4V, Unnamed Road, Pali, Uttar Pradesh 231313",
+    "area": "231303",
+    "latitude": 25.1648599,
+    "longitude": 82.28779949999999,
+    "place_id": "ChIJW6kqHFb1jzkRXd2dq3Uol1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6kqHFb1jzkRXd2dq3Uol1w",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:47:20"
+  }
+]

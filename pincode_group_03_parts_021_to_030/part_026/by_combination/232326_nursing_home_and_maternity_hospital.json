@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahila hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "232326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HHQH+48J, Rauza, Ghazipur, Chak Bhikhari, Uttar Pradesh 233002",
+    "area": "Rauza",
+    "latitude": 25.587837,
+    "longitude": 83.5782528,
+    "place_id": "ChIJLejgUQD_kTkR8S_W-4KpJ1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLejgUQD_kTkR8S_W-4KpJ1E",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:40"
+  },
+  {
+    "business_name": "hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "232326",
+    "phone_number": "+91 99350 34894",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Bada Mahadeva, Lanka, Ghazipur, Uttar Pradesh 233001",
+    "area": "Lanka",
+    "latitude": 25.565724499999998,
+    "longitude": 83.5593798,
+    "place_id": "ChIJjcNUhs7_kTkR0XzciLO0G_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcNUhs7_kTkR0XzciLO0G_4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:40"
+  }
+]

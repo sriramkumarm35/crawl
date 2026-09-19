@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "231301",
+    "phone_number": "+91 99567 48910",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rampur kolana chunar, Uttar Pradesh 231304",
+    "area": "231301",
+    "latitude": 25.119884,
+    "longitude": 82.9682831,
+    "place_id": "ChIJg3tJ4Ss1jjkRwny_zDypJr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg3tJ4Ss1jjkRwny_zDypJr0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:53"
+  },
+  {
+    "business_name": "Kanchan electric vehicle & Kanchan photo graphy",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electric motor store",
+    "all_categories": "Electric motor store, Photo shop",
+    "pincode": "231301",
+    "phone_number": "+91 94502 62085",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main market, Masania, Adalhat, Ibrahimpur, Uttar Pradesh 231302",
+    "area": "Masania",
+    "latitude": 25.13139,
+    "longitude": 83.03591569999999,
+    "place_id": "ChIJn3ESZWY3jjkRvSkEvjhUthM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3ESZWY3jjkRvSkEvjhUthM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:43:53"
+  }
+]

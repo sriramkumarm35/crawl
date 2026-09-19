@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshad Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Store",
+    "pincode": "232327",
+    "phone_number": "+91 98258 00147",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "6/4419/0, Zaveri Sadak, opp. Narayan Chambers, Madhumati Colony, Navsari, Gujarat 396445",
+    "area": "Madhumati Colony",
+    "latitude": 20.9557964,
+    "longitude": 72.9304646,
+    "place_id": "ChIJ19rAm7j34DsRgIxjYCjLT2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19rAm7j34DsRgIxjYCjLT2I",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:33:06"
+  },
+  {
+    "business_name": "Parampara Cold Pressed Oil",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "232327",
+    "phone_number": "+91 62618 67936",
+    "website": "http://paramparaoils.in/",
+    "rating": 4.7,
+    "reviews_count": 25,
+    "address": "Landmark Square, Bhopal, Madhya Pradesh 462026",
+    "area": "Surendra Vihar, Shri Rameshwaram, Bagmugaliya",
+    "latitude": 23.1878347,
+    "longitude": 77.46264649999999,
+    "place_id": "ChIJI1AsgghDfDkRRDfI5ntyGrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1AsgghDfDkRRDfI5ntyGrI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:33:06"
+  }
+]

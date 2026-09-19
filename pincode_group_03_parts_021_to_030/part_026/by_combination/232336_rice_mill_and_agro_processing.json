@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raghav meal",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "232336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FHJ9+HH4, Matsa, Uttar Pradesh 232340",
+    "area": "232336",
+    "latitude": 25.4813896,
+    "longitude": 83.5689668,
+    "place_id": "ChIJxVmFcwABjjkRhP8GHK5GzQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVmFcwABjjkRhP8GHK5GzQU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:15"
+  },
+  {
+    "business_name": "Tiwari Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "232336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "GJ45+6H5, Ghazipur, Uttar Pradesh 232336",
+    "area": "232336",
+    "latitude": 25.5055233,
+    "longitude": 83.6089724,
+    "place_id": "ChIJvzKV8Ov_jTkRwJRehAJzoow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzKV8Ov_jTkRwJRehAJzoow",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:15"
+  }
+]

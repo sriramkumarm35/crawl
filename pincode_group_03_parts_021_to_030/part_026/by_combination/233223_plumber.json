@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kiran Marbal",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "233223",
+    "phone_number": "+91 80035 09608",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goppur Cjolapur, Goppur, Uttar Pradesh 221104",
+    "area": "233223",
+    "latitude": 25.436058499999998,
+    "longitude": 83.0312706,
+    "place_id": "ChIJE1vq3ocpjjkROcb2zCAkjEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE1vq3ocpjjkROcb2zCAkjEk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:01:01"
+  },
+  {
+    "business_name": "Maurya Plumber Construction Company Varanasi",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "233223",
+    "phone_number": "+91 95548 86087",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cholapur, Niyar, PandeyPur, Varanasi, Uttar Pradesh 221101",
+    "area": "233223",
+    "latitude": 25.517275299999998,
+    "longitude": 82.9945793,
+    "place_id": "ChIJ0x3hLgTXkTkRqwfdks4UsBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0x3hLgTXkTkRqwfdks4UsBk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:01:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SGSM Financial Services",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment, Financial planner, Insurance company",
+    "pincode": "231309",
+    "phone_number": "+91 92350 35668",
+    "website": "https://sgsmfinancialservices.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SGSM Financial Services, 231309, India",
+    "area": "231309",
+    "latitude": 24.649840599999997,
+    "longitude": 78.705118,
+    "place_id": "ChIJb7og-NVmx4ERUZBeV2uC8mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7og-NVmx4ERUZBeV2uC8mc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:10"
+  },
+  {
+    "business_name": "Kushwaha Associates",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Tax preparation service",
+    "pincode": "231309",
+    "phone_number": "+91 73196 04699",
+    "website": "http://www.kushwahaassociates.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Home Guard, Bazar Samiti Rd, Civil Lines, Buxar, Bihar 802103",
+    "area": "Civil Lines",
+    "latitude": 25.5625084,
+    "longitude": 83.9753935,
+    "place_id": "ChIJvWk6xJ91kjkRnZ80AEUkiMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWk6xJ91kjkRnZ80AEUkiMk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:10"
+  }
+]

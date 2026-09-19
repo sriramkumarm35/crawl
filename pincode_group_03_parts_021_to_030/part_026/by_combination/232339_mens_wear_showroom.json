@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V-Mart - Mau",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Convenience store, Department store, Variety store",
+    "pincode": "232339",
+    "phone_number": "+91 93351 03351",
+    "website": "https://stores.vmartretail.com/clothing-mart-sahadatpura-mau-30811/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Prahlad Trade Center, Sahadatpura, Mau, Uttar Pradesh 275101",
+    "area": "Sahadatpura",
+    "latitude": 25.9254461,
+    "longitude": 83.565736,
+    "place_id": "ChIJmfIB-umKkTkRBFMBqnI1CNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfIB-umKkTkRBFMBqnI1CNs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:45"
+  },
+  {
+    "business_name": "The man collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Youth clothing store",
+    "all_categories": "Youth clothing store",
+    "pincode": "232339",
+    "phone_number": "+91 97956 02433",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shuri amhat gazipur Uttar Pradesh 233229 Shuri, Amhat, Uttar Pradesh 233229",
+    "area": "232339",
+    "latitude": 25.7770849,
+    "longitude": 83.8084882,
+    "place_id": "ChIJdVZ5UuARkjkRbZT-DiutJNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVZ5UuARkjkRbZT-DiutJNE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:47"
+  }
+]

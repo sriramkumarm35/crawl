@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231314",
+    "phone_number": "+91 81125 78210",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jamua Rd, Jamua Bazar, Varanasi, Jamua, Uttar Pradesh 231314",
+    "area": "Jamua Bazar",
+    "latitude": 25.233865599999998,
+    "longitude": 82.7945348,
+    "place_id": "ChIJb1YP7rHPjzkRMomrA32UQH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1YP7rHPjzkRMomrA32UQH4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:03:07"
+  },
+  {
+    "business_name": "Priyanshu Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231314",
+    "phone_number": "+91 73097 80036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Jamua Bazar, Rajatalab, Varanasi, Uttar Pradesh 231314",
+    "area": "Jamua Bazar",
+    "latitude": 25.2356929,
+    "longitude": 82.79565079999999,
+    "place_id": "ChIJbzhRj9rPjzkRbwu810YK-B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzhRj9rPjzkRbwu810YK-B4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:03:07"
+  }
+]

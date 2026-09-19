@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arogyam Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "231303",
+    "phone_number": "+91 95064 83873",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "892M+FW6, Allahabad Rd, Naini, Mahuari, Kalanua, Uttar Pradesh 221310",
+    "area": "Naini",
+    "latitude": 25.301151899999997,
+    "longitude": 82.3847735,
+    "place_id": "ChIJ8xHzbcr6jzkRnvNhJ_ZQC7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xHzbcr6jzkRnvNhJ_ZQC7g",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:47:11"
+  },
+  {
+    "business_name": "Anand Medicity Multispecialty Hospitals",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "231303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Old, Vijay Cinema Road, Gyanpur, Uttar Pradesh 221304",
+    "area": "231303",
+    "latitude": 25.3267915,
+    "longitude": 82.4627088,
+    "place_id": "ChIJwwZe4oHljzkR-ghV5j3kX68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwZe4oHljzkR-ghV5j3kX68",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:47:13"
+  }
+]

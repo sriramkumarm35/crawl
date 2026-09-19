@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "krishna welding works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Machine workshop",
+    "all_categories": "Machine workshop",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X744+6GC, Jhakarda, Madhya Pradesh 458895",
+    "area": "231501",
+    "latitude": 23.955551099999997,
+    "longitude": 75.2562756,
+    "place_id": "ChIJJ3p9zS45ZDkRSLhn-YANOSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3p9zS45ZDkRSLhn-YANOSs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:06:10"
+  },
+  {
+    "business_name": "AGP STEELS",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Laser Cutting Service Provider",
+    "all_categories": "Laser Cutting Service Provider",
+    "pincode": "231501",
+    "phone_number": "+91 80 4581 3112",
+    "website": "http://agpsteels.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "96/8, North Sambala street, Pirivu, Ravathur, Kannampalayam, Tamil Nadu 641402",
+    "area": "Pirivu",
+    "latitude": 11.020785199999999,
+    "longitude": 77.0979236,
+    "place_id": "ChIJ2_7tjQBXqDsRlK1KSDnvijM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_7tjQBXqDsRlK1KSDnvijM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:06:13"
+  }
+]

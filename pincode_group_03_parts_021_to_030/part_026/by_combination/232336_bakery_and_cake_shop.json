@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sona Bakers And Cake Town",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "232336",
+    "phone_number": "+91 98715 93548",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Road, near by Indian Bank, Fullanpur, Pithapur, Fatehpur Sikandar, Ghazipur, Uttar Pradesh 233002",
+    "area": "Fullanpur, Pithapur",
+    "latitude": 25.5843204,
+    "longitude": 83.564306,
+    "place_id": "ChIJ6bGQiqr_kTkRyFAXhRWDsto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bGQiqr_kTkRyFAXhRWDsto",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:45:44"
+  },
+  {
+    "business_name": "The Urban Restaurant",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "232336",
+    "phone_number": "+91 77030 40531",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 21,
+    "address": "01, Parkash Nagar, Uttar Pradesh 233001",
+    "area": "Lanka",
+    "latitude": 25.5778587,
+    "longitude": 83.5519839,
+    "place_id": "ChIJqyK2jQr_kTkRhJStd70hKzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyK2jQr_kTkRhJStd70hKzM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:45:45"
+  }
+]

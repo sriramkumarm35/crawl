@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Axis Max Life Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company",
+    "pincode": "231309",
+    "phone_number": "+91 93196 32217",
+    "website": "https://www.axismaxlife.com/branches/uttar-pradesh/mirzapur/triveni-campus-ratan-ganj-mirzapur",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Floor, Triveni Campus, Ratanganj, Mirzapur, Uttar Pradesh 231001",
+    "area": "Ratanganj",
+    "latitude": 25.1406593,
+    "longitude": 82.56715109999999,
+    "place_id": "ChIJi7yDKwDBjzkRGyzbSk5jT_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7yDKwDBjzkRGyzbSk5jT_s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:11"
+  },
+  {
+    "business_name": "Tata AIA Life Insurance Company Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Financial advisor, Health insurance agency, Insurance company, Insurance broker, Life insurance agency",
+    "pincode": "231309",
+    "phone_number": "+91 1860 266 9966",
+    "website": "https://www.tataaia.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Second Floor, Shuklaha Kachahari Rd, Avas Vikas Colony, Dhauru Pur, Mirzapur, Uttar Pradesh 231001",
+    "area": "Avas Vikas Colony, Dhauru Pur",
+    "latitude": 25.1379178,
+    "longitude": 82.5782515,
+    "place_id": "ChIJvVjQ_-bBjzkR3kDwtI12uM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVjQ_-bBjzkR3kDwtI12uM4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:11"
+  }
+]

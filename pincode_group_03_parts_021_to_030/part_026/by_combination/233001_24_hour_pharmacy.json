@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "xxxxxxxxxxxxxxTore",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "233001",
+    "phone_number": "+91 63881 27944",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lal Darwaja Rd, near City Inter College, Mishra Bazar, Aamghat, Ghazipur, Uttar Pradesh 233001",
+    "area": "Mishra Bazar, Aamghat",
+    "latitude": 25.582936399999998,
+    "longitude": 83.58206229999999,
+    "place_id": "ChIJc4dlBzz_kTkRM7xNdy6swrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4dlBzz_kTkRM7xNdy6swrY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:11"
+  },
+  {
+    "business_name": "Dimple Medical store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "233001",
+    "phone_number": "+91 94513 20243",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gorabazar, Lanka, Ghazipur, Uttar Pradesh 233001",
+    "area": "Gorabazar, Lanka",
+    "latitude": 25.5608905,
+    "longitude": 83.5502398,
+    "place_id": "ChIJc1cs6An_kTkRDpaRkwUEmTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1cs6An_kTkRDpaRkwUEmTY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:53:13"
+  }
+]

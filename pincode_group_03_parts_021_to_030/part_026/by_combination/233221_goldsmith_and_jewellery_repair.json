@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikas jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "233221",
+    "phone_number": "+91 96700 51529",
+    "website": "https://whatsapp.com/channel/0029VbD1KgNEwEk1SxQHUm11",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Dadra, Nasiruddin Pur, Uttar Pradesh 233221",
+    "area": "233221",
+    "latitude": 25.630228,
+    "longitude": 83.1313926,
+    "place_id": "ChIJAbVU4w3bkTkRCNMX-luvq9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbVU4w3bkTkRCNMX-luvq9w",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:48"
+  },
+  {
+    "business_name": "AbhishekJewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Service establishment",
+    "pincode": "233221",
+    "phone_number": "+91 84234 00260",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AbhishekJewellers, 233221, India",
+    "area": "233221",
+    "latitude": 25.532605,
+    "longitude": 83.04925,
+    "place_id": "ChIJB8IFz6LXkTkR764zvxFwZD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8IFz6LXkTkR764zvxFwZD0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:56:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahmat & Sons",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "232326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "CHJ5+MRX, Nakhatpur - Panserwa Rd, Zamania, Uttar Pradesh 232329",
+    "area": "232326",
+    "latitude": 25.4317483,
+    "longitude": 83.5596173,
+    "place_id": "ChIJTVoqMx8BjjkRMw2mHouc5fM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVoqMx8BjjkRMw2mHouc5fM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:45"
+  },
+  {
+    "business_name": "Dr. Khalid Husain",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, General practitioner, Surgeon",
+    "pincode": "232326",
+    "phone_number": "+91 94531 06649",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "HHWV+F2V, Ballia Rd, near Union Bank Of India Atm, Kaithwaliya, Ghazipur, Uttar Pradesh 233002",
+    "area": "Kaithwaliya",
+    "latitude": 25.596245399999997,
+    "longitude": 83.5925355,
+    "place_id": "ChIJXa9EKeABkjkRbleU8BdnzCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXa9EKeABkjkRbleU8BdnzCs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:45"
+  }
+]

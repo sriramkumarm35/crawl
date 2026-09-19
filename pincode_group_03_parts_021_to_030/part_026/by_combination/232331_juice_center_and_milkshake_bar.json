@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nawab Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "232331",
+    "phone_number": "+91 99301 51203",
+    "website": "http://nawabjuice.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2nd Masjid Street Opp Mandvi Post Off, Bhindi Bazaar, Mumbai, Maharashtra 400003",
+    "area": "Marine Lines East, Bhendi Bazaar, Bhuleshwar",
+    "latitude": 18.9566242,
+    "longitude": 72.8319545,
+    "place_id": "ChIJVVRFXzzO5zsRvESeeqnwFfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVRFXzzO5zsRvESeeqnwFfQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:20"
+  },
+  {
+    "business_name": "Al Hamd Milkshake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "232331",
+    "phone_number": "+91 97143 98746",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shah-E-Alam, Shah-E-Alam Darwaja, P & T Colony, Shah-E-Alam Roja, Ahmedabad, Gujarat 380028",
+    "area": "Shah-E-Alam, Shah-E-Alam Darwaja, P & T Colony, Shah-E-Alam Roja",
+    "latitude": 22.997023,
+    "longitude": 72.58920359999999,
+    "place_id": "ChIJZbHPnGaFXjkRYfe9WOnxgnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbHPnGaFXjkRYfe9WOnxgnw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:20"
+  }
+]

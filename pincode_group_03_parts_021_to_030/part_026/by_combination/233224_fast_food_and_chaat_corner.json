@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhay Gupta Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "233224",
+    "phone_number": "+91 78605 71465",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Ghuranbazar, Uttar Pradesh 233002",
+    "area": "233224",
+    "latitude": 25.5378717,
+    "longitude": 83.5039541,
+    "place_id": "ChIJse6acI_9kTkRDEgkSC3WIXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJse6acI_9kTkRDEgkSC3WIXE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:02:12"
+  },
+  {
+    "business_name": "Ansh Fast Food In Shop",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "233224",
+    "phone_number": "+91 95801 37568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "006, Brahamadpura, Uttar Pradesh 233224",
+    "area": "233224",
+    "latitude": 25.505657499999998,
+    "longitude": 83.455185,
+    "place_id": "ChIJp6vtNOIDjjkRCoCskG01wmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6vtNOIDjjkRCoCskG01wmQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:02:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Trading Academy",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "232327",
+    "phone_number": "+91 92345 32445",
+    "website": "https://www.sktradingacademy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st floor, 70 Feet BPCL Rd, above Reliance Smart Point, BC Colony, Dasratha, Saristabad, Patna, Bihar 800032",
+    "area": "BC Colony, Dasratha, Saristabad",
+    "latitude": 25.583026399999998,
+    "longitude": 85.1189413,
+    "place_id": "ChIJ30t8sjS-cIMRR7imQ-18ytY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30t8sjS-cIMRR7imQ-18ytY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:26"
+  },
+  {
+    "business_name": "Explore Mutual Fund",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "232327",
+    "phone_number": "+91 75003 72237",
+    "website": "http://www.exploremfs.com/",
+    "rating": 4.9,
+    "reviews_count": 97,
+    "address": "SHOP 27, Kapil Complex, Pilikothi, Haldwani, Uttarakhand 263139",
+    "area": "Pilikothi",
+    "latitude": 29.2182644,
+    "longitude": 79.5129767,
+    "place_id": "ChIJHTuyyfWboDkRcRjGnUah1zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTuyyfWboDkRcRjGnUah1zA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:34:28"
+  }
+]

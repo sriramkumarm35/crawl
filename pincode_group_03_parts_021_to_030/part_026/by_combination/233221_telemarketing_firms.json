@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jcb",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Market researcher",
+    "all_categories": "Market researcher",
+    "pincode": "233221",
+    "phone_number": "+91 81888 28884",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gazipur gaura Gazipur gaura, Saidpur, Gora, Uttar Pradesh 233304",
+    "area": "233221",
+    "latitude": 25.6282961,
+    "longitude": 83.24791139999999,
+    "place_id": "ChIJ3QvORszdkTkRmeB4gGB404Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QvORszdkTkRmeB4gGB404Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:58:15"
+  },
+  {
+    "business_name": "Tara bidi company",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "233221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Saidpur, Dahra Kala, Uttar Pradesh 233304",
+    "area": "Saidpur",
+    "latitude": 25.5743127,
+    "longitude": 83.2127654,
+    "place_id": "ChIJM8r5QkzfkTkRyQW7b0YDi64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8r5QkzfkTkRyQW7b0YDi64",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:58:15"
+  }
+]

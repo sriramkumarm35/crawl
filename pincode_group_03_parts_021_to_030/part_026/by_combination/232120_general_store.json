@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sriman Narayan parag and General store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "232120",
+    "phone_number": "+91 94541 42006",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Ebrahimpur, Bardiha, Uttar Pradesh 232120",
+    "area": "232120",
+    "latitude": 25.3125406,
+    "longitude": 83.2271104,
+    "place_id": "ChIJ8dr9AL09jjkRaNYefFJwz-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dr9AL09jjkRaNYefFJwz-s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:27:47"
+  },
+  {
+    "business_name": "Rambhawan General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "232120",
+    "phone_number": "+91 89572 29854",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Janso, Riwa, Varanasi, Uttar Pradesh 232120",
+    "area": "Janso",
+    "latitude": 25.266872199999998,
+    "longitude": 83.17143209999999,
+    "place_id": "ChIJ1RrvnSU9jjkR0ZPOYTEoP-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RrvnSU9jjkR0ZPOYTEoP-8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:27:48"
+  }
+]

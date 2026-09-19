@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Classic Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "232118",
+    "phone_number": "+91 63999 52624",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 14, Nagar Palika Market, Saptahik Bazar, Milak, Uttar Pradesh 243701",
+    "area": "Saptahik Bazar",
+    "latitude": 28.611372,
+    "longitude": 79.1683087,
+    "place_id": "ChIJH79MFYmXCjkR4NOvP6Xxdzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH79MFYmXCjkR4NOvP6Xxdzc",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:22"
+  },
+  {
+    "business_name": "Priyanka Enterprises NihoraBrand",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Fashion designer",
+    "pincode": "232118",
+    "phone_number": "+91 98677 22894",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "pawar haus, Shiwrampur Thana Chand Shiwrampur, Bhabua, Bihar 821106",
+    "area": "232118",
+    "latitude": 25.0577093,
+    "longitude": 83.36124989999999,
+    "place_id": "ChIJmTQ7QThtjjkRX5GGwVrEIz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTQ7QThtjjkRX5GGwVrEIz4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:26:22"
+  }
+]

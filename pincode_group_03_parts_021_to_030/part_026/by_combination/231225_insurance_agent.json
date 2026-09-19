@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime policy",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "231225",
+    "phone_number": "+91 91711 53399",
+    "website": "https://www.primepolicy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lig square, Singrauli district, Singrauli, Madhya Pradesh 486889",
+    "area": "Singrauli district",
+    "latitude": 24.196303399999998,
+    "longitude": 82.66685179999999,
+    "place_id": "ChIJF7dcONA7jzkRdi0ie5Im78Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7dcONA7jzkRdi0ie5Im78Y",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:41:03"
+  },
+  {
+    "business_name": "Shriram Finance Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Agricultural Loan Agency, Car finance and loan company, Financial planner, Insurance company, Investment service, Loan agency, Motorcycle insurance agency",
+    "pincode": "231225",
+    "phone_number": "+91 1800 410 7711",
+    "website": "https://nearme.shriramfinance.in/madhya-pradesh/sidhi/singrauli-branch",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No. 08, Mohinder Kaur Shopping Complex, 1St Floor, Bhagat Singh Colony Rd, above Hdfc Bank, Bhagat Singh Colony, Singrauli, Madhya Pradesh 486889",
+    "area": "Bhagat Singh Colony",
+    "latitude": 24.2004639,
+    "longitude": 82.6637306,
+    "place_id": "ChIJV4tlGUtDjzkR4UHjU-CK6_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4tlGUtDjzkR4UHjU-CK6_M",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:41:05"
+  }
+]

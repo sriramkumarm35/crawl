@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gao",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "231501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "5M44+H2Q, Birshahpur, Uttar Pradesh 231501",
+    "area": "231501",
+    "latitude": 25.156456799999997,
+    "longitude": 82.6550958,
+    "place_id": "ChIJD0K-QgDHjzkRg0dM0HdNvXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0K-QgDHjzkRg0dM0HdNvXI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:54"
+  },
+  {
+    "business_name": "The Dansing Bottle",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Hotel, Lounge bar",
+    "pincode": "231501",
+    "phone_number": "+91 91511 44409",
+    "website": "https://thepride.co.in/",
+    "rating": 3.8,
+    "reviews_count": 229,
+    "address": "142 32C, Subhash Chauraha, above Van Hausen, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "latitude": 25.4507873,
+    "longitude": 81.8337122,
+    "place_id": "ChIJV6euh-bLmjkR4pLZunEKEdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6euh-bLmjkR4pLZunEKEdU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:04:56"
+  }
+]

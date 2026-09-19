@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMMON SERVICE CENTER (CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer club",
+    "all_categories": "Computer club",
+    "pincode": "231305",
+    "phone_number": "+91 89534 51234",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Q9C9+MC5 Goswami House, Dailwara, Uttar Pradesh 284403",
+    "area": "231305",
+    "latitude": 24.771633899999998,
+    "longitude": 78.3686211,
+    "place_id": "ChIJo4bW0Za_eTkRlNrwIKp4NtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4bW0Za_eTkRlNrwIKp4NtE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:51:50"
+  },
+  {
+    "business_name": "CSC",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "231305",
+    "phone_number": "N/A",
+    "website": "http://csc.gov.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Khajuri Colony, Varanasi, Uttar Pradesh 221002",
+    "area": "Tulsi Vihar Colony, Geeta Nagar, Hukulganj",
+    "latitude": 25.337058499999998,
+    "longitude": 82.9963676,
+    "place_id": "ChIJr3aSo_ovjjkRq1pX78V0DK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3aSo_ovjjkRq1pX78V0DK4",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:51:50"
+  }
+]

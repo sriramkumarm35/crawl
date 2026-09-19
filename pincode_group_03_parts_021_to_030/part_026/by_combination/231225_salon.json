@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayuri beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "231225",
+    "phone_number": "+91 90266 37020",
+    "website": "https://mayuri-beauty-hub.lovable.app/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Auri more, Anpara, railway station road, Near Banjara Resort Mayuri beauty parlour, Auri more, Anpara, rly. St. Road, Anpara, Uttar Pradesh 231225",
+    "area": "231225",
+    "latitude": 24.2123781,
+    "longitude": 82.76858519999999,
+    "place_id": "ChIJM54YWD8ljzkRcFkGtnb_U9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM54YWD8ljzkRcFkGtnb_U9Q",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:40:36"
+  },
+  {
+    "business_name": "Moon Light Hair Dresser",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair replacement service",
+    "pincode": "231225",
+    "phone_number": "+91 87703 88479",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 111,
+    "address": "Bus stand, near महिला प्रतिक्षालय, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.199023099999998,
+    "longitude": 82.6682519,
+    "place_id": "ChIJLftbtIk7jzkRHWd59SqrF9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLftbtIk7jzkRHWd59SqrF9M",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:40:37"
+  }
+]

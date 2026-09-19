@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gautam General Store",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "General store",
+    "all_categories": "General store, Food products supplier, Rice shop",
+    "pincode": "232326",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "FMF4+8HJ, Sarahula, Uttar Pradesh 232326",
+    "area": "232326",
+    "latitude": 25.473430399999998,
+    "longitude": 83.656341,
+    "place_id": "ChIJ1ZsEHd7-jTkR3QkPeZfcSvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZsEHd7-jTkR3QkPeZfcSvQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:17"
+  },
+  {
+    "business_name": "Mahindra Tractors- AK Motor",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Farm equipment supplier, Tractor repair shop",
+    "pincode": "232326",
+    "phone_number": "+91 90449 93006",
+    "website": "https://dealer.mahindratractor.com/tractor-showroom/ghazipur/Kalupur-Mustahakam/mahindra-tractors-a-k-motor-in-Kalupur-Mustahakam-ghazipur--1fkJho/home",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Suhawal, Zamania, Reotipur Rd, nearby Police Station, Bara Road, Kalupur Mustahakam, Uttar Pradesh 232332",
+    "area": "Bara Road",
+    "latitude": 25.5693751,
+    "longitude": 83.62530989999999,
+    "place_id": "ChIJWVGHW2gBkjkR7HcVcgYuxP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVGHW2gBkjkR7HcVcgYuxP8",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:31:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "U.p. chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "231225",
+    "phone_number": "+91 96858 00880",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5MX9+H37, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.1989174,
+    "longitude": 82.6676813,
+    "place_id": "ChIJoyjiOAA7jzkR9STxYlCMbEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyjiOAA7jzkR9STxYlCMbEw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:39:52"
+  },
+  {
+    "business_name": "Shiv Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "231225",
+    "phone_number": "+91 95842 65271",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "5MX9+Q5V, Shiv Mandir-Bus Stand Road, Singrauli, Madhya Pradesh 486889",
+    "area": "231225",
+    "latitude": 24.199485,
+    "longitude": 82.667907,
+    "place_id": "ChIJ5_7c2zU6jzkRXESA_ILlamM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_7c2zU6jzkRXESA_ILlamM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:39:54"
+  }
+]

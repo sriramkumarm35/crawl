@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuch Teekha Kuch Meetha",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant, Takeout restaurant",
+    "pincode": "232339",
+    "phone_number": "+91 87702 33809",
+    "website": "https://www.instagram.com/kuchteekhakuchmeetha/profilecard/?igsh=ZXY5MWowem1zc24x",
+    "rating": 4,
+    "reviews_count": 40,
+    "address": "below MP Fertility, near Gurjar Hospital, Rameshwar Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Rameshwar Nagar",
+    "latitude": 21.8396844,
+    "longitude": 76.3463421,
+    "place_id": "ChIJzXAPi7wb2DsRTo1siL4axLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXAPi7wb2DsRTo1siL4axLA",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:41"
+  },
+  {
+    "business_name": "Kitchen Cloud Walk- BAKE AND STEAM EXPRESS",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "232339",
+    "phone_number": "+91 76870 03008",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "P T Colon, Navin Mitra Lane, Circular Road, Navin Mitra Ln, near Holi cross, Burdwan Compound, Ranchi, Jharkhand 834001",
+    "area": "Burdwan Compound, P&T Colony, Nagra Toli",
+    "latitude": 23.3775591,
+    "longitude": 85.3378427,
+    "place_id": "ChIJbbJ0RWrh9DkRcirM5u3WSiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbJ0RWrh9DkRcirM5u3WSiE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:47:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "232106",
+    "phone_number": "+91 79051 01373",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 224,
+    "address": "Near Chitaipur Crossing, Varanasi, Uttar Pradesh 221005",
+    "area": "Indira Nagar Colony, Newada",
+    "latitude": 25.272302699999997,
+    "longitude": 82.96752699999999,
+    "place_id": "ChIJrwqeaUYyjjkR0YG3T5sJcEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwqeaUYyjjkR0YG3T5sJcEE",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:34"
+  },
+  {
+    "business_name": "Shiva Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Breakfast restaurant, Coffee shop, Fast food restaurant, Lunch restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "232106",
+    "phone_number": "+91 94560 71063",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 32384,
+    "address": "4H5F+9WF, Yamuna Expy, Jewar, Uttar Pradesh 203155",
+    "area": "232106",
+    "latitude": 28.1084359,
+    "longitude": 77.5748011,
+    "place_id": "ChIJO5uZkE21DDkR4hpL7NL0sCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5uZkE21DDkR4hpL7NL0sCY",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:15:34"
+  }
+]

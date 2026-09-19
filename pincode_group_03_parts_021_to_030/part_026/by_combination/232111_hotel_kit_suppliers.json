@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SB HOTEL",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "232111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Vikas Nagar, Raksha, Jabalpur, Madhya Pradesh 482002",
+    "area": "Vikas Nagar",
+    "latitude": 23.1923082,
+    "longitude": 79.9158477,
+    "place_id": "ChIJRYbA-taxgTkRH80evI7psAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYbA-taxgTkRH80evI7psAs",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:25:18"
+  },
+  {
+    "business_name": "Gupta Hotel",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "232111",
+    "phone_number": "+91 93025 99017",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gupta Hotel Kotma, Road, Khodari, Madhya Pradesh 484447",
+    "area": "232111",
+    "latitude": 23.176680299999997,
+    "longitude": 82.0432324,
+    "place_id": "ChIJkwga8eUthjkREvd1H6LlXyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwga8eUthjkREvd1H6LlXyo",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:25:18"
+  }
+]

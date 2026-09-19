@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Pharmacy and clinic",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "233223",
+    "phone_number": "+91 80901 45297",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kopa, Patrahin, Uttar Pradesh 222129",
+    "area": "233223",
+    "latitude": 25.578880599999998,
+    "longitude": 83.07758319999999,
+    "place_id": "ChIJH5KWSMHXkTkR9QQGpJfnwJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5KWSMHXkTkR9QQGpJfnwJQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:00:33"
+  },
+  {
+    "business_name": "BS CLINIC AND MEDICAL STORE SHARIYAMANIKRAJ SHADIYBAD GHAZIPUR",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "233223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHARIYAMANIKRAJ SHADIYBAD, Budhan Pur, Uttar Pradesh 275205",
+    "area": "233223",
+    "latitude": 25.6920032,
+    "longitude": 83.3755048,
+    "place_id": "ChIJkyMaFZHlkTkR8x2OrQ-EXpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyMaFZHlkTkR8x2OrQ-EXpw",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 08:00:33"
+  }
+]

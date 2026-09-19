@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sabji Mandi Chakiya",
+    "search_category": "Fish Market",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "232103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 61,
+    "address": "26WP+2Q3, Chakiya, Uttar Pradesh 232103",
+    "area": "232103",
+    "latitude": 25.0450117,
+    "longitude": 83.2369373,
+    "place_id": "ChIJkVrEs_FBjjkR3yH1QEbW7H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVrEs_FBjjkR3yH1QEbW7H0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:10:10"
+  },
+  {
+    "business_name": "Surat Fish Farming",
+    "search_category": "Fish Market",
+    "primary_category": "Fish processing",
+    "all_categories": "Fish processing",
+    "pincode": "232103",
+    "phone_number": "+91 94503 54966",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manikpur, Parasi Kalan, Uttar Pradesh 232104",
+    "area": "232103",
+    "latitude": 25.168373199999998,
+    "longitude": 83.3197895,
+    "place_id": "ChIJeQ4edAAVjjkRD4jdYtfgoH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ4edAAVjjkRD4jdYtfgoH0",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:10:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "232331",
+    "phone_number": "+91 89170 50009",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Subzi Mandi, Station Road, Ghazipur, Zamania Station, Uttar Pradesh 232331",
+    "area": "232331",
+    "latitude": 25.377454399999998,
+    "longitude": 83.54547339999999,
+    "place_id": "ChIJ95HaCdkHjjkR_9vVhusOOVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95HaCdkHjjkR_9vVhusOOVI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:27"
+  },
+  {
+    "business_name": "HOTAL",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "232331",
+    "phone_number": "+91 96530 26164",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ZAMANIA, Zamania, Uttar Pradesh 232331",
+    "area": "232331",
+    "latitude": 25.390111599999997,
+    "longitude": 83.5508219,
+    "place_id": "ChIJ753KKbEHjjkR6tn3wAxNAxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ753KKbEHjjkR6tn3wAxNAxk",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:40:28"
+  }
+]

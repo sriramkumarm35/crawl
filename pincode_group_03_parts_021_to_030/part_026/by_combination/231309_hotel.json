@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vindhyachal",
+    "search_category": "Hotel",
+    "primary_category": "Campground",
+    "all_categories": "Campground",
+    "pincode": "231309",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5G53+3FP, Kantit, Vindhyachal, Mirzapur, Uttar Pradesh 231307",
+    "area": "Kantit, Vindhyachal",
+    "latitude": 25.157710599999998,
+    "longitude": 82.5036997,
+    "place_id": "ChIJjXDhFQDrjzkRsqYxY6OHugI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXDhFQDrjzkRsqYxY6OHugI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:52"
+  },
+  {
+    "business_name": "SRG HOTEL & RESTAURANT",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "231309",
+    "phone_number": "+91 80096 52347",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "near PAPPU/PRAKASH BHOJANALAY ROADWAYS, Dhauru Pur, Mirzapur, Uttar Pradesh 231001",
+    "area": "Dhauru Pur",
+    "latitude": 25.1362889,
+    "longitude": 82.57520749999999,
+    "place_id": "ChIJ5U03BsnBjzkRJ4SLkrLve6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5U03BsnBjzkRJ4SLkrLve6o",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:56:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRIME PROPERTIES",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Industrial real estate agency, Office space rental agency, Real estate consultant, Real estate rental agency",
+    "pincode": "232330",
+    "phone_number": "+91 80000 42220",
+    "website": "https://www.primepropertiesvadodara.in/",
+    "rating": 4.7,
+    "reviews_count": 45,
+    "address": "TF-11, EARTH ICON 1 NR. KHODIYAR CHAR RASTA, Gujarat 390019",
+    "area": "Purushottam Nagar, Kishanwadi",
+    "latitude": 22.3181083,
+    "longitude": 73.22794999999999,
+    "place_id": "ChIJC1W3oE7PXzkRctKwCruQpZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1W3oE7PXzkRctKwCruQpZM",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:39:52"
+  },
+  {
+    "business_name": "S Raheja",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Architectural designer, Real Estate Builders & Construction Company, Housing development",
+    "pincode": "232330",
+    "phone_number": "+91 22 2604 5966",
+    "website": "https://www.sraheja.com/",
+    "rating": 4.1,
+    "reviews_count": 74,
+    "address": "4th Floor, Joe Pali, 19a, Dr Ambedkar Rd, above HSBC Bank, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Bandra West",
+    "latitude": 19.06044,
+    "longitude": 72.82951299999999,
+    "place_id": "ChIJ8w2oOhDJ5zsRY1u8I3RE-NI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8w2oOhDJ5zsRY1u8I3RE-NI",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:39:52"
+  }
+]

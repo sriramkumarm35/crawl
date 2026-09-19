@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veeraymalaichap&cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "232103",
+    "phone_number": "+91 77529 45816",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Iliya mod, Uttar Pradesh 232104",
+    "area": "232103",
+    "latitude": 25.0712567,
+    "longitude": 83.3398737,
+    "place_id": "ChIJt8lENhZtjjkRKwYHAhfrz1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8lENhZtjjkRKwYHAhfrz1U",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:10:18"
+  },
+  {
+    "business_name": "Bollyghat cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "232103",
+    "phone_number": "+91 96160 80618",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "72P4+MMC, Dumraon Colony, Varanasi, Uttar Pradesh 221005",
+    "area": "Dumraon Colony",
+    "latitude": 25.286732399999998,
+    "longitude": 83.0066215,
+    "place_id": "ChIJoRycIRoxjjkRCUaV0gru7HQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRycIRoxjjkRCUaV0gru7HQ",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:10:21"
+  }
+]

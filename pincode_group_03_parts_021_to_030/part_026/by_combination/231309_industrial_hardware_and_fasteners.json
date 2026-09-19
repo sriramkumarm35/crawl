@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "231309",
+    "phone_number": "+91 73185 11669",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "23 Mubarkpur, Uttar Pradesh 231307",
+    "area": "231309",
+    "latitude": 25.1216661,
+    "longitude": 82.5617181,
+    "place_id": "ChIJl1iAhpLrjzkR0pvVLtKtXkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1iAhpLrjzkR0pvVLtKtXkU",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:20"
+  },
+  {
+    "business_name": "Vishal enterprises",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "231309",
+    "phone_number": "+91 91403 46405",
+    "website": "https://vishal.enterprises.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kachhawa Bazar Rd, near sundaram sweet house, near Indian Bank, Mirzapur, Kachhawan, Uttar Pradesh 231501",
+    "area": "231309",
+    "latitude": 25.2066143,
+    "longitude": 82.7170115,
+    "place_id": "ChIJdVq0YeTFjzkRweoMJxWgbKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVq0YeTFjzkRweoMJxWgbKg",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 06:57:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish bike repair shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "233002",
+    "phone_number": "+91 95697 80217",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "madhu vatika palace, Jagnapur (near, chaukiya, Ghazipur, Uttar Pradesh 233002",
+    "area": "chaukiya",
+    "latitude": 25.623630199999997,
+    "longitude": 83.532613,
+    "place_id": "ChIJSx8xf6r5kTkRXl5OcUFjGak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSx8xf6r5kTkRXl5OcUFjGak",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:55:20"
+  },
+  {
+    "business_name": "Uday Cycle Stores,Hansrajpur",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler, Bicycle repair shop, Bicycle Shop, Tire shop, Used bicycle shop",
+    "pincode": "233002",
+    "phone_number": "+91 81124 88680",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Hansraj Pur, Uttar Pradesh 233310",
+    "area": "233002",
+    "latitude": 25.669033799999998,
+    "longitude": 83.4599862,
+    "place_id": "ChIJvdfJFlj7kTkRooE9lqqRt0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdfJFlj7kTkRooE9lqqRt0s",
+    "part_id": "part_026",
+    "crawled_at": "2026-09-19 07:55:21"
+  }
+]
